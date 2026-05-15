@@ -1,0 +1,37 @@
+name: Analyze small PDFs
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of smallest PDFs to analyze
+        required: false
+        default: '25'
+      max_pages:
+        description: Number of pages to sample per PDF
+        required: false
+        default: '3'
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository with LFS
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pymupdf
+
+      - name: Analyze smallest PDFs
+        run: |
+          python scripts/analyze_small_pdfs.py --limit "${{ github.event.inputs.limit }}" --max-pages "${{ github.event.inputs.max_pages }}"
+
+      - name: Upload analysis artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-content-analysis
+          path: reports/pdf_content_analysis/
