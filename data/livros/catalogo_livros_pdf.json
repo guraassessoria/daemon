@@ -1,0 +1,72 @@
+[
+  {
+    "id": "neokosmos-biblioteca-elfica",
+    "titulo": "Neokosmos - Biblioteca Élfica",
+    "arquivo": "Neokosmos-biblioteca-elfica.pdf",
+    "caminho": "Livros/Neokosmos-biblioteca-elfica.pdf",
+    "tipo_documento": "suplemento_ambientacao",
+    "classificacao_preliminar": [
+      "cenario",
+      "lore",
+      "cultura",
+      "possivel_conteudo_mecanico"
+    ],
+    "tamanho_bytes_lfs": 123311840,
+    "status_acesso": "ponteiro_lfs_disponivel_pdf_indisponivel",
+    "status_classificacao": "preliminar_por_metadados",
+    "prioridade_extracao": "alta",
+    "proximas_acoes": [
+      "baixar_pdf_real_via_git_lfs",
+      "detectar_ocr",
+      "extrair_texto_por_pagina",
+      "classificar_blocos"
+    ]
+  },
+  {
+    "id": "grimorio",
+    "titulo": "Grimório",
+    "arquivo": "Grimorio.pdf",
+    "caminho": "Livros/Grimorio.pdf",
+    "tipo_documento": "catalogo_magico",
+    "classificacao_preliminar": [
+      "magias",
+      "rituais",
+      "poderes_sobrenaturais",
+      "regras_de_conjuracao"
+    ],
+    "tamanho_bytes_lfs": 117577520,
+    "status_acesso": "ponteiro_lfs_disponivel_pdf_indisponivel",
+    "status_classificacao": "preliminar_por_metadados",
+    "prioridade_extracao": "alta",
+    "proximas_acoes": [
+      "baixar_pdf_real_via_git_lfs",
+      "detectar_ocr",
+      "extrair_texto_por_pagina",
+      "classificar_magias_e_rituais"
+    ]
+  },
+  {
+    "id": "guia-de-itens-magicos",
+    "titulo": "Guia de Itens Mágicos",
+    "arquivo": "Guia de Itens Mágicos.pdf",
+    "caminho": "Livros/Guia de Itens Mágicos.pdf",
+    "tipo_documento": "catalogo_itens",
+    "classificacao_preliminar": [
+      "itens_magicos",
+      "artefatos",
+      "armas_magicas",
+      "armaduras_magicas",
+      "consumiveis"
+    ],
+    "tamanho_bytes_lfs": 116125075,
+    "status_acesso": "ponteiro_lfs_disponivel_pdf_indisponivel",
+    "status_classificacao": "preliminar_por_metadados",
+    "prioridade_extracao": "alta",
+    "proximas_acoes": [
+      "baixar_pdf_real_via_git_lfs",
+      "detectar_ocr",
+      "extrair_texto_por_pagina",
+      "classificar_itens_magicos"
+    ]
+  }
+]
