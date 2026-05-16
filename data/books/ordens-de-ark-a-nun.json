@@ -1,0 +1,54 @@
+{
+  "source": "ordens-de-ark-a-nun",
+  "title": "Ordens de Ark-a-nun",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "combat",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "ordens-de-ark-a-nun-escrevendo-sobre-ark-a-nun-1",
+      "name": "escrevendo sobre Ark-a-nun",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Aqui estão algumas Ordens que fazem parte do net-book que eu estou escrevendo sobre Ark-a-nun A Irmandade Bel-Kalaa Fundação: Ark-a-nun. Base: Terras de Didanu, Yanca. Atuação: Todo Ark-a-nun e uma pequena parte da Ásia. Personalidades: U-an duga, Odakon-Adapa Ubbar, E-me-duga, Aššur-uballit II(ultimo rei assírio), O Não Dito, En-me-galama, En-me- bulaga, An...",
+      "entityRefs": []
+    },
+    {
+      "id": "ordens-de-ark-a-nun-a-sociedade-negra-de-2",
+      "name": "A Sociedade negra de",
+      "category": "power_magic",
+      "pages": [
+        2
+      ],
+      "summary": "A Sociedade negra de Shazu Fundação: Ark-a-nun Base: Desconhecida Atuação: Todo Ark-a-nun Personalidades: Har-haru, Shazu o Ígneo, Pešgal-daramaš. Background: Ao menos um arkanita em dez, quando pequeno, já ouviu os vários nomes que esta ordem recebe, balbuciados ao vento.Estes místicos assombram contos infantis e histórias de horror, são constantes vilões e...",
+      "entityRefs": []
+    },
+    {
+      "id": "ordens-de-ark-a-nun-templo-de-tiamat-3",
+      "name": "Templo de Tiamat",
+      "category": "creature_npc",
+      "pages": [
+        3
+      ],
+      "summary": "Templo de Tiamat Fundação: Ark-a-nun Base: Desconhecida. Atuação: Norte e nordeste de Ark-a-nun. Personalidaes: O dragão Tiamat,Melišipak Background: Após sua derrota e morte pelas mãos do príncipe Marduk, soberano de Am-ö-itha, a deusa-dragão Tiamat teve seu espírito confinado aos reinos infernais e lá permanece até o tempo atual, totalmente repleta de ódio...",
+      "entityRefs": []
+    },
+    {
+      "id": "ordens-de-ark-a-nun-ordem-dos-ventos-4",
+      "name": "Ordem dos ventos",
+      "category": "creature_npc",
+      "pages": [
+        4
+      ],
+      "summary": "Ordem dos ventos Mardukiana Fundação: Ark-a-nun Base: Nas terras de Balkhor, na cidade de Am-ö- itha. Atuação: Todo centro-oeste arkanita. Personalidades: Marduk, Nabu, Berossus. Background: Estando sobre a proteção de um dos poucos Patesis tidos como deuses verdadeiros à ordem dos ventos Mardukiana encontra-se envolvida em diveros conflitos; contra outras c...",
+      "entityRefs": []
+    }
+  ]
+}

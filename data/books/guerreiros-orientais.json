@@ -1,0 +1,79 @@
+{
+  "source": "guerreiros-orientais",
+  "title": "Guerreiros Orientais",
+  "status": "full-read-auto-pass-1",
+  "pages": 47,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "guerreiros-orientais-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "summary": "- Editora Daemon, por liberar o sistema e inspirar milhares de jogadores como nós a criar ou adaptar cenários e ter a chance de publicá-los na Internet. - Mitsukai Editora, por enriquecer o RPG e também publicar adaptações de cenários de vários jogadores. - Todos os nossos amigos que ajudaram na elaboração deste netbook, inclusive pela Internet (são vários)....",
+      "entityRefs": []
+    },
+    {
+      "id": "guerreiros-orientais-um-pouco-do-japao-6",
+      "name": "Um pouco do Japão",
+      "category": "kit_class",
+      "pages": [
+        [
+          6,
+          15
+        ]
+      ],
+      "summary": "Um pouco do Japão Instrumentos de pedra e fósseis humanos daquela época revelam como esse povo antigo viveu colhendo e caçando, desde a idade da pedra lascada até cerca de dez mil anos atrás, no período conhecido por pré-cerâmico. A história do Japão apresenta características peculiares, bem diferentes até de seus vizinhos asiáticos. Isso se deve principalme...",
+      "entityRefs": []
+    },
+    {
+      "id": "guerreiros-orientais-religiao-16",
+      "name": "Religião",
+      "category": "kit_class",
+      "pages": [
+        [
+          16,
+          28
+        ]
+      ],
+      "summary": "Religião O Zen é a forma de Budismo mais conhecida e praticada no Japão. Mais do que uma religião ou seita, o Zen é uma filosofia vivencial que ainda hoje influência muito o povo japonês. 14 A filosofia do Zen consiste na procura da iluminação através do auto conhecimento; uma busca que ultrapassa os obstáculos mentais criados por nós mesmos a fim de encontr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guerreiros-orientais-agilidade-agi-29",
+      "name": "Agilidade (AGI)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          29,
+          39
+        ]
+      ],
+      "summary": "Agilidade (AGI) Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. A contrário da Destreza, a Agilidade é válida para o corpo todo. Com um alto valor em Agilidade, um personagem pode correr mais rápido, equilibrar-se melhor, esquivar-se...",
+      "entityRefs": []
+    },
+    {
+      "id": "guerreiros-orientais-causando-40",
+      "name": "causando",
+      "category": "core_rule",
+      "pages": [
+        [
+          40,
+          47
+        ]
+      ],
+      "summary": "causando metade do dano que causaria normalmente. Futae No Kiwami: (Monge) Nível 1: Futae No Kiwami. Uma Técnica extremamente poderosa, mesmo em seu Nível mais baixo. Baseia-se em utilizar a força do pulso, imprimindo pressão a partes mais sensíveis na estrutura molecular de qualquer coisa, destruindo-a completamente. Nível 3: O deslocamento de ar chega até...",
+      "entityRefs": []
+    }
+  ]
+}

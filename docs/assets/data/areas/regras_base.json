@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "id": "regras_base",
+  "name": "Regras Base",
+  "readySourceCount": 190,
+  "entityCount": 1,
+  "sourcePartCount": 47,
+  "entities": [
+    {
+      "id": "loucura-abissal",
+      "name": "Loucura Abissal",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 186,
+      "entries": [
+        "Regras e efeitos narrativos de loucura provocados por contato com horrores abissais e perda de razao diante do incompreensivel."
+      ],
+      "tags": [
+        "abismo",
+        "core_rule",
+        "horror",
+        "loucura",
+        "regras_base"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "cdd--cdd-editorial-2",
+      "name": "EDITORIAL",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "cdd",
+      "sourceTitle": "Cdd",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "EDITORIAL Este trabalho (Livro virtual ou E-book) foi escrito por Fernando Pinheiro da Silva Filho, inteiramente conhecido por seus amigos em Alagoas por “Fuim”. Fernando não está lucrando nada com isso, pois a distribuição desse material é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço Se você quer criar...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-editorial-2",
+      "name": "Editorial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-1",
+      "name": "Daemon MedievaL",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "Daemon MedievaL Daemon MedievaL Daemon MedievaL Módulo Básico Design e Desenvolvimento: Leandro \"Gandalfo\" Gomes Agradecimentos - Primeiramente a deus, se é que ele existe, ou quem quer que seja o responsável por tudo isso. - A Gary Gigax e Dave Anerson, por criarem o primeiro e melhor RPG do mundo. - Ao Marcelo Del Debbio, por criar os melhores RPGs do Bras...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-47",
+      "name": "Daemon Medieval",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        47
+      ],
+      "page": 47,
+      "summary": "Daemon Medieval 47 Martelo de pítons: um pequeno martelo com cabeça de ferro, usado para pregar os espigões na parede. Mochila: Onde você pretende guardar tudo isso?! Mochilas são bolsas de couro carregadas nas costas, geralmente com tiras para prendê-las. São grandes e suportam muitas coisas, mas não podem carregar mais que 35kg sem rasgarem. Parafina: Cera...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-51",
+      "name": "Daemon Medieval",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        51
+      ],
+      "page": 51,
+      "summary": "Daemon Medieval 51",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-53",
+      "name": "Daemon Medieval",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        53
+      ],
+      "page": 53,
+      "summary": "Daemon Medieval 53",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-sem-nivel--daemon-sem-nivel-sistema-daemon-sem-nivel-1",
+      "name": "Sistema Daemon sem nível",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-sem-nivel",
+      "sourceTitle": "Daemon-Sem-Nivel",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Sistema Daemon sem nível O Sistema Daemon é um ótimo sistema, principalmente por possuir poucas regras e ao mesmo tempo ser bem realista. Ainda assim deixa a desejar em vários pontos, onde apenas os fãs e leitores mais detalhistas percebem, e entre estes aspectos está o sistema de Experiência. Existem duas formas de um personagem evoluir no SD: por nível ou...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-daemon-revisado-1",
+      "name": "Daemon Revisado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Daemon Revisado Playteste Alpha v. 3.6 Texto e desenvolvimento: Victor Gaigaia 1",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-introducao-2",
+      "name": "INTRODUÇÃO",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "INTRODUÇÃO Este é apenas um jogo. A realidade é muito pior. Boas vindas ao playteste do Sistema Daemon revisado. Este documento tem foco em jogadores que já conhecem o sistema Daemon em suas versões anteriores, então as regras descritas aqui já pressupõem familiaridade do leitor. Nosso objetivo é analisar as bases da nova versão e, conforme avançar o playtes...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-1",
+      "name": "Pagina inicial (1-10)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "demon-cthulhu",
+      "sourceTitle": "Demon Cthulhu",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "1 Daemon Cthulhu Grupo Arkanun 1 edição 2 Leandro “Hallowone” Santos e Tiago \"Murazor\" Maraschin 1 edição 3 Organização: Leandro Lopes dos Santos Diagramação: Leandro Lopes dos Santos Agradecimentos: A Howard Phillips Lovecraft por desenvolver todo um sistema mitodógico insandecedor para sua literatura de Horror. A Sand Petersen por criar o primeiro RPG de H...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-1",
+      "name": "Evolução Alternativa",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "evolucao-alternativa",
+      "sourceTitle": "Evolução Alternativa",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Evolução Alternativa Anderson Anúbis Evolução Alternativa Agradecimentos Em primeiro lugar a Deus, pela vida. A meus pais, pelo conjunto da obra. A galera da Daemon, pelo sistema. A meu grupo de jogo. - Digo o paladino inusitado. - Junior, domador de regras. - Fabio, o nórdico. - Celso, o lobo negro. - Claudia, raposas, raposas e mais raposas. Ao grande mest...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "evolucao-alternativa--evolucao-alternativa-treino-7",
+      "name": "TREINO",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "evolucao-alternativa",
+      "sourceTitle": "Evolução Alternativa",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "TREINO Como parte da evolução do personagem, um personagem pode se valer de treinamento para aprimorar suas características. Quando inicia uma seção de treinamento o personagem deve se concentrar e se dedicar exclusivamente ao treinamento, um personagem pode treinar por tem período igual a sua CON :5 em horas. A cada hora de treino, o personagem realiza um t...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "heroismo--heroismo-heroismo-1",
+      "name": "Heroísmo",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "heroismo",
+      "sourceTitle": "Heroísmo",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Heroísmo O material encontrado a seguir tem sido desenvolvido já faz alguns meses, como parte de um cenário de fantasia que eu estava criando para o Sistema Daemon. Uma das premissas do cenário é o fato de que ele seria baseado mais na ação humana mundana do que em qualquer tipo de presença sobrenatural - em outras palavras, seria um cenário em que um guerre...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-mestre-63",
+      "name": "MESTRE",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          63,
+          64
+        ]
+      ],
+      "page": null,
+      "summary": "MESTRE 2 PONTOS: Todos sabem que imortais lutam entre si pelo pode e conhecimento do outro, mas a grande maioria se sente compelida a ensinar imortais recém-despertos, tOf- , nando-se mestre dele. E quase impossível encontrar um imor- tal que tenha aprendido sobre sua imortalidade sozinho. Em jogo esse imortal irá tentar auxiliar o persona- gem em seu prepar...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-nivels-80",
+      "name": "NÍVELS",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          80,
+          81
+        ]
+      ],
+      "page": null,
+      "summary": "NÍVELS TORNAR OUTROS INVISÍVEIS: Como Invisibilidade. 5 pontos de Ressonância para cada alvo por rmnuto. ILUSÃO REAL: neste nível todas as ilusões cria- das podem ser tocadas e serão sentidas como reais. ENERGIA A Ressonância é uma fonte de energia e como tal pode ser usada para afetar aparelhos eletrônicos ou mesmo a corrente elétrica . • NIVEL I INTERFERÊN...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-capitulo-2-65",
+      "name": "CAPÍTULO 2",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        65
+      ],
+      "page": 65,
+      "summary": "CAPÍTULO 2 funciona em qualquer Plano Existencial que o Personagem esteja (Plano Astral, Inferno e etc). SENSO NUMÉRICO I PONTO: O Personagem é capaz de contar imedi- atamente grande quantidade de objetos. com muita precisão. Pode contar cabeças de gado. quantos palitos de fósforo ca- íram de uma caixa, caltas de baralho e coisas assim. SENTIDOS AGUÇADOS I P...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-capitulo-3-77",
+      "name": "CAPÍTULO 3",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        77
+      ],
+      "page": 77,
+      "summary": "CAPÍTULO 3 , NIVEL 3 LOCALIZAR: Permite localizar alguém em uma multidão ou dentro de um prédio. É necessário conhecer ou possuir algum objeto que pertença ao \"alvo\". NÍVEL 4 PRESSENTIMENTO: Permite saber se alguém está procurando por você ou se algo está prestes a acontecer como: um desastre, uma emboscada ou uma traição. O Mestre deve fornecer informações...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-consideracoes-2",
+      "name": "Considerações",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Considerações Este Netbook (meu segundo!) trata de uma possível inserção dos Imortais no cenário de Trevas. Como os Imortais não são abordados nos diversos livros da Daemon Editora (possuindo apenas breves menções), passei a estudar as diferentes culturas, mitologias, religiões, folclores e a própria cultura Pop para abrir todo o leque de opções para Persona...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "lobisomem-a-maldicao-v2-biblioteca-elfica--lobisomem-a-maldicao-v2-biblioteca-elfica-lobisomem-a-maldicao-2-1",
+      "name": "Lobisomem: a Maldição (2-11)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "sourceTitle": "Lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "pages": [
+        [
+          2,
+          11
+        ]
+      ],
+      "page": null,
+      "summary": "Lobisomem: a Maldição 2ª edição 2 Lobisomem: a Maldição Lobisomem: a Maldição Criação: Hatalíbio Almeida Desenvolvimento: Hatalíbio Almeida Revisão: Hatalíbio Almeida Capa: Caio Majado Arte: Janus, Kennedy Bonk, Lúcio Lopez, Marcelo Manzano, Michael Gonzalez, Scott Christian Sava e Jess Foxx Quinn. Programação Visual: Lobo Lancaster Diagramação: Lobo Lancast...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-mortal-kombat-2",
+      "name": "MORTAL KOMBAT",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mortal-kombat",
+      "sourceTitle": "MORTAL KOMBAT",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "2 MORTAL KOMBAT “Há milênios, numa batalha com um deus decadente conhecido como Shinnok, fui responsável pela morte de uma civilização inteira. Para livrar todos os reinos da ameaça de Shinnok, entrei numa guerra que deixou a Terra por séculos sob uma terrível escuridão, mesmo após o banimento o deus sombrio. Com a ajuda dos Deuses Antigos, Shinnok amarga se...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mago-sistema-daemon--mago-sistema-daemon-iniciativa-1",
+      "name": "Iniciativa",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mago-sistema-daemon",
+      "sourceTitle": "Mago Sistema Daemon",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Iniciativa DAEMON Hatalíbio Almeida Sistema Daemon",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mago-sistema-daemon--mago-sistema-daemon-sistema-daemon-2",
+      "name": "Sistema Daemon",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mago-sistema-daemon",
+      "sourceTitle": "Mago Sistema Daemon",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Sistema Daemon 1ª edição",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mago-sistema-daemon--mago-sistema-daemon-iniciativa-46",
+      "name": "Iniciativa",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mago-sistema-daemon",
+      "sourceTitle": "Mago Sistema Daemon",
+      "pages": [
+        46
+      ],
+      "page": 46,
+      "summary": "Iniciativa DAEMON Sistema Daemon Conheça a Realidade. Manipule seus sonhos. Ouça a voz do Avatar. E Desperte. Essa adaptação do jogo de RPG MAGO: A ASCENSÃO para o Sistema Daemon permite que os Personagens manipulem a Mágika Verdadeira, a habilidade de distorcer a Realidade e enxergá-la em sua natureza. Esse livro além disso contém adaptações de Qualidades e...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-criacao-bernard-maihelkash-coutinho-2",
+      "name": "Criação: Bernard “Maihelkash” Coutinho",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Criação: Bernard “Maihelkash” Coutinho Organização e Diagramação: Bernard “Maihelkash” Coutinho Capa: Bernard “Maihelkash” Coutinho Imagens internas: Bernard “Maihelkash” Coutinho Agradecimentos A Marcelo del Debbio por criar o Sistema Daemon. Ao Alex Pina, Taliba Halmeida e ao Henrique Santos pelas ideias. Aos integrantes do Grupo Trevas no Facebook (https:...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-will-92",
+      "name": "WILL",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        92
+      ],
+      "page": 92,
+      "summary": "de WILL para não fugirem aterrorizados. Alem de todo alvo que estiver sobre um desfarce místico, é obrigado a assumir sua forma real. Nível 3 – Autoridade de Maat: Muito utilizado em missões diplomáticas pelos Neteru. Existem momentos que um Juiz de Maat deve proclamar o status a eles concedido como eleitos e representantes de Maat. Os Juizes de Maat são rec...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "onmyodo--onmyodo-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "onmyodo",
+      "sourceTitle": "Onmyodo",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "onmyodo--onmyodo-as-primeiras-licoes-4",
+      "name": "As primeiras lições...",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "onmyodo",
+      "sourceTitle": "Onmyodo",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "As primeiras lições... Venha minha criança, sente-se à minha frente. Você já tem idade para saber o que se passa nestes muros, dentro destes portões, e espero que você entenda o que vou te falar agora. Recorda-se das vezes quando que você acordava no meio da noite e escutava os sons dos cantos das espadas praticando sua grande missão? Ótimo, você recorda des...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-eoltorial-2",
+      "name": "EoltORIAL",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "EoltORIAL Esta revista eletrônica surgiu com o único intuito de reunir e organizar material para o Sistema Daemon. Ela não terá uma periodicidade definida, será publicada quando tiver material suficiente para preencher estas páginas. Mas o mais importante da Universo Daemon é, em meio a estes tempos funestos (carentes de novos títulos para o sistema), manter...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-at-ar-8",
+      "name": "AT AR",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "AT AR + 2. Km ee e o Ao » P a et Lote a sua mesa ide jogo com 'uma das maiores = a bilheterias da historia THT EE po abri 08 Les",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatar-volume-1--avatar-volume-1-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "avatar-volume-1",
+      "sourceTitle": "avatar_volume_1",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "2 Agradecimentos Este é o primeiro volume de uma série de três que serão publicados em breve. Primeiro, agradeço à Tuz, minha musa inspiradora e maior incentivadora do meu trabalho de RPG, além de ser minha playtester oficial da maluquices que saem da minha cabeça. Gostaria de agradecer primeiramente ao meu grupo de jogo, Black Ninja, Anso, Dedo_No_Olho, Tro...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "2 Agradecimentos Primeiro, agradeço à Tuz, minha musa inspiradora e maior incentivadora do meu trabalho de RPG, além de ser minha playtester oficial da maluquices que saem da minha cabeça. Gostaria de agradecer primeiramente ao meu grupo de jogo, Black Ninja, Anso, Dedo_No_Olho, Troscoman e Tuz, que me incentivaram a começar a colocar no papel todas as nossa...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-indice-do-volume-dois-3",
+      "name": "ÍNDICE DO VOLUME DOIS",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "3 ÍNDICE DO VOLUME DOIS Adversários...................................................................................................04 Ravana.............................................................................................................06 Indrajita...................................................................................................",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-atencao-2",
+      "name": "Atenção!",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        [
+          2,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Atenção! Esta é uma obra de ficção. Apesar de fatos citados neste livro terem sidos extraídos de fatos de nossa história. Eles são apenas para caráter de diversão. M esmo os eventos, agencias ou ONGs e personagens, volto a frisar são todos tratados como ficcionais. Isto é apenas um jogo. A realidade é muito pior. Agradecimentos Primeiro a Deus, por tudo. Em...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-criacao-de-personagens-17",
+      "name": "Criação de Personagens",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        [
+          17,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os ú- nicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas re- comendamos que os Personagens sejam construídos a- penas pelo Mestre ou com grande participação deste. Is- so ajuda a conseguir um grupo lógico e coeso: jorna- listas, universitários, polic...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-bio-hazard-1",
+      "name": "Bio Hazard",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Bio Hazard Resident Evil RPG Net-book Criado por Nivaldo Vieira Nascimento (Nvndaemon)",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-a-ordem-das-foices-cruzadas-2",
+      "name": "A ORDEM DAS FOICES CRUZADAS —",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "A ORDEM DAS FOICES CRUZADAS — OS CEIFADORES DE LEEN Aviso: O conteúdo deste texto não é recomendável para pessoas sensíveis ou menores de 18 anos, pois este pode parecer-lhes agressivo ou incômodo. O objetivo da criação deste material é tornar as partidas de RPG mais interessantes, e não fazer apologia ao satanismo, cultos profanos de qualquer espécie ou a t...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-todos-6",
+      "name": "todos.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "todos. Baleyk utilizou a mesma tática contra Hassler, mas por um descuido foi descoberto por seu pior inimigo. Ambos começaram uma luta sangrenta. Hassler, mesmo fraco por causa do ferimento anterior, mostrou-se um adversário difícil para Baleyk. No final, porém, o ex- aprendiz de paladino superou o adversário, e aplicou-lhe um golpe certeiro no centro do pe...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-conan-2",
+      "name": "CONAN",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "2 CONAN “Saiba, ó Príncipe, que entre os anos quando os oceanos tragaram a Atlântida e as reluzentes cidades, e os anos quando se levantaram os Filhos de Aryas, houve uma era inimaginável, repleta de reinos esplendorosos que se espalharam pelo mundo como miríades de estrelas sob o firmamento. Nemédia; Ophir; Brithúnia; Hiperbórea; Zamora, com suas lindas mul...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "deform--deform-spiritum-12",
+      "name": "SPIRITUM",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "deform",
+      "sourceTitle": "deform",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "1 2 SPIRITUM 1-2 Cabeça 1- Os cabelos do Mago tornam-se grisalhos até, gradativamente, atingirem o branco total. 2- Agora atingem uma tonalidade quase prateada, chegando a dar a impressão que refletem a luminosidade do ambiente onde o Mago se encontra. 3- Os cabelos do Mago passam a realmente refletir a luz do ambiente, como se fosse uma superfície espelhada...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "livrodomal--livrodomal-o-livr-1",
+      "name": "O LIVR",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "livrodomal",
+      "sourceTitle": "livrodomal",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "O L O L O L O L O LIVR IVR IVR IVR IVRO DO DO DO DO DO M M M M MAL AL AL AL AL GRUPO NEODAEMON",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "lobisomem02--lobisomem02-personagens-lobisomens-o-tipo-de-lobisomem-1",
+      "name": "personagens lobisomens. O tipo de lobisomem",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "lobisomem02",
+      "sourceTitle": "lobisomem02",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "A presente matéria nasceu da inconformação de um jogador – eu – pela ausência de regras para personagens lobisomens. O tipo de lobisomem descrito aqui é o verdadeiro, nada de maldições ou doenças. - Bruno Nazareth As explanações da origem dos lobisomens estão descrita s nos livros e suplementos de Trevas\\Arkanun. Um personagem lobisomem é fruto da união de h...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mecha--mecha-fabricio-death-botelho-1",
+      "name": "Fabrício “Death” Botelho",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mecha",
+      "sourceTitle": "mecha",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "1 Fabrício “Death” Botelho MECHA 2 Regras para Mechas Altura 3m 5m 7m 10m Largura 1,5m 2,5m 3,5m 5m Profundidade 1m 1,5m 2,5m 3,5m Peso 1,8 ton 7,5 ton 24,5 ton 70 ton Olá amigo RPGista, Há muito tempo eu estava pensando em fazer um suplemen- to sobre Robôs -Gigantes para uso em INVASÃO, o RPG que eu considero um dos melhores já feitos, mas me faltavam as ta...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-editorial-2",
+      "name": "Editorial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Editorial Este livro virtual (ou NET-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br. Se você quer criar seu próprio RPG de Anime, não dei...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rocknrt--rocknrt-musico-famoso-10",
+      "name": "Musico famoso",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rocknrt",
+      "sourceTitle": "rocknrt",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "page": null,
+      "summary": "Musico famoso Conhecido em um país ou em um continente, esses músicos são realizados profissionalmente, aparecem na televisão, toca nas rádios e fazem grandes shows. Porém, apesar de tudo isso, ainda falta um estágio para serem Rock stars. Falta serem reconhecidos em todo o mundo, fazerem turnês internacionais, ganharem milhares de dólares... Custo: 4 pontos...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rocknrt--rocknrt-soma-dos-status-12",
+      "name": "Soma dos Status",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rocknrt",
+      "sourceTitle": "rocknrt",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "Soma dos Status musicais da banda. Dinheiro pago a banda, em média por cada grande show. 3-5 Até 2.500 U$$ 6-9 Até 10.000 U$$ 10-14 Até 40.000 U$$ 15-18 100.000 U$$ + 19-20 150.000 U$$ + Com direitos autorais Quando a banda chama a atenção de um empresário, e ele decide gravar um CD (ou DVD, ou disco,...) a banda deve ter todas as composições (regras para co...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rocknrt--rocknrt-3-pontos-7-instrumentos-7",
+      "name": "3 pontos: 7 instrumentos.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rocknrt",
+      "sourceTitle": "rocknrt",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "3 pontos: 7 instrumentos. 4 pontos: 9 instrumentos. 5 pontos: 11 instrumentos. Status Musical (1+) Você é famoso, disso não existem duvidas. As dúvidas vêm quando a pergunta é outra: Como você é famoso! Ozzy é muito famoso entre os metaleiros, que chegam a cultua-lo, o que não acontece em relação aos fanáticos religiosos (é o que se espera...). A não ser que...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-hakusho-1",
+      "name": "Hakusho",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Hakusho RPG Por Marcelo Matos “Guaxinim”, Ajota & Grupo de RPG PVH Yu Yu V2.01",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

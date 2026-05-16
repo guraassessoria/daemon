@@ -1,0 +1,363 @@
+{
+  "source": "imortal-a-centelha",
+  "title": "Imortal - A Centelha",
+  "status": "full-read-auto-pass-1",
+  "pages": 58,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "race_lineage",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "imortal-a-centelha-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-consideracoes-2",
+      "name": "Considerações",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Considerações Este Netbook (meu segundo!) trata de uma possível inserção dos Imortais no cenário de Trevas. Como os Imortais não são abordados nos diversos livros da Daemon Editora (possuindo apenas breves menções), passei a estudar as diferentes culturas, mitologias, religiões, folclores e a própria cultura Pop para abrir todo o leque de opções para Persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-parte-i-3",
+      "name": "Parte I",
+      "category": "creature_npc",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Parte I A Centelha O Homem sempre se viu envolvido em situações que o relembra de sua fragilidade e sua mortalidade. Desde os tempos pré- históricos, os primitivos já se preocupavam em manter-se vivos pelo maior tempo possível, resistindo às ameaças dos outros predadores que conviviam com eles, e também aos perigos que a natureza e o clima ofereciam, o que i...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-parte-ii-5",
+      "name": "Parte II",
+      "category": "creature_npc",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Parte II Criação de Personagem “Here we are, born to be kings, We’re the princes of the universe” - Queen, Princes of the Universe Idade Ao jogar com Imortais, será muito importante que o Mestre de Jogo defina a idade que os Personagens terão, pois o poder de cada Imortal e inclusive a temática são definidos pela idade. Jovens: são os Imortais com Triunfo de...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-tesouros-7",
+      "name": "Tesouros",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "Tesouros Personagens podem conseguir muito dinheiro como pagamento por uma missão cumprida, roubo a uma Sociedade Secreta, criminosos ou como investimentos que tenham feito durante a campanha. Tesouros com Valor Arcano Os personagens podem encontrar algum livro ou tomo mágico, algum mapa com instruções para a localização de um tesouro, ou de uma fonte místic...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-bogatyr-8",
+      "name": "Bogatyr",
+      "category": "creature_npc",
+      "pages": [
+        8
+      ],
+      "summary": "Bogatyr Homens Fortes Homens Fortes Homens Fortes Homens Fortes Origem e História Os Bogatyr são os Imortais surgidos dos povos eslavos, protetores da Sibéria e do Leste Europeu. É dito que os primeiros Bogatyr adquiriram a imortalidade em situações críticas, e os próprios deuses lhes concederam a Centelha. Ainda há dúvidas sobre o panteão eslavo, pois eles...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-das-9",
+      "name": "das",
+      "category": "race_lineage",
+      "pages": [
+        9
+      ],
+      "summary": "das florestas siberianas, principalmente contra Baba Yaga e Koschei, os maiores representantes da Irmandade de Tenebras na Rússia. Assim que os vampiros Eretiks tornaram-se numerosos, tornaram-se mais um obstáculo na vida dos bravos Bogatyr. Desde a Revolução Russa os Bogatyr são chamados de Guardiões da Noite pelas criaturas sobrenaturais russas, pelo modo...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-chaneque-10",
+      "name": "Chaneque",
+      "category": "creature_npc",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Chaneque espíritos da noite espíritos da noite espíritos da noite espíritos da noite Origem e História Os astecas contam lendas sobre certos protetores da natureza que viviam nas cachoeiras, com características muito semelhantes às dos Elfos europeus. Os Chaneque são os últimos descendentes dos Zapotecas, um povo que foi massacrado pelos futuros astecas. Os...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-hsien-12",
+      "name": "Hsien",
+      "category": "power_magic",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "Hsien eremitas eremitas eremitas eremitas Origem e História A cultura oriental é muito voltada ao desenvolvimento mental e espiritual, e vê com muita admiração os homens santos e os sábios de todas as épocas. Há diversos caminhos a trilhar em busca da evolução nestes dois sentidos, e poucos levam a um final insatisfatório, embora cada um indique somente uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-campanha-14",
+      "name": "Campanha",
+      "category": "creature_npc",
+      "pages": [
+        14
+      ],
+      "summary": "Campanha A melhor maneira de se utilizar um Hsien em uma campanha de Trevas é colocando-o como um velho sábio isolado que conhece um segredo crucial para a missão que os Personagens empreendem. Sempre encarados como detentores dos maiores segredos do Universo, os Hsien e os Sennin são ótimos como conselheiros, anjos da guarda e mentores de heróis. Uma campan...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-makrobioi-15",
+      "name": "Makrobiói",
+      "category": "combat",
+      "pages": [
+        [
+          15,
+          17
+        ]
+      ],
+      "summary": "Makrobiói longevos longevos longevos longevos Origem e História Na mitologia grega, os Imortais propriamente ditos são os verdadeiros deuses olímpicos, mas ainda há um grupo de humanos que vivia muito mais que um humano comum. Estes humanos especiais viviam até três mil anos, e receberam o nome de Makrobiói (que significa “vida grande”, ou “vida longa”). Mui...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-neperari-18",
+      "name": "Neperari",
+      "category": "setting_lore",
+      "pages": [
+        18
+      ],
+      "summary": "Neperari Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Origem e História Na mitologia egípcia, Nepri (também chamado de Nepra ou Neper) era uma divindade andrógina dos grãos, valiosa mercadoria do Antigo Egito, que enfrentou a fome sem eles. Seu nome simplesmente significa \"senhor da boca\", uma referência à funçã...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-caracteristicas-19",
+      "name": "Características",
+      "category": "character_option",
+      "pages": [
+        19
+      ],
+      "summary": "Características O Primeiro Pesadelo do Neperari requer que o Potencial tenha uma forte energia espiritual, que seja alguém especial desde o nascimento. Este Potencial é enviado ao Umbral, onde será esquartejado pelos espíritos que lá habitam, em uma espécia de ritual xamânico de iniciação. O fato de o Potencial estar vivo ou morto é irrelevante - embora aque...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-sidhichean-20",
+      "name": "Sidhichean",
+      "category": "power_magic",
+      "pages": [
+        20
+      ],
+      "summary": "Sidhichean sangue de elfo sangue de elfo sangue de elfo sangue de elfo Origem e História A Europa é repleta de lendas sobre uma raça mística que auxilia a Humanidade desde tempos imemoriais, muito conhecida pelos povos nórdicos como Álfar, ou comumente como os Elfos. Estes seres são muito misteriosos quanto à sua origem, pois acredita-se haver uma certa quan...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-partes-dela-em-hibridos-destes-elfos-com-21",
+      "name": "partes dela em híbridos destes Elfos com",
+      "category": "attribute_skill",
+      "pages": [
+        21
+      ],
+      "summary": "partes dela em híbridos destes Elfos com Humanos, essência esta que se tornava uma Centelha. Assim, os híbridos (chamados de Sidhichean) mantinham todas as características de um Humano comum, com exceção da Centelha imortal. Quando os deuses celtas foram duramente combatidos pelos Anjos da Cidade de Prata, muitos portais para Tir Na Nog foram fechados e os S...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-aprimoramentos-que-o-perdedor-tambem-22",
+      "name": "Aprimoramentos que o perdedor também",
+      "category": "character_option",
+      "pages": [
+        22
+      ],
+      "summary": "Aprimoramentos que o perdedor também possuía. Campanha Os Sidhichean são os melhores Imortais para se jogar uma campanha baseada no filme Highlander e suas continuações, bem como a série e o desenho animado. Os Sidhichean são ótimos guerreiros (geralmente espadachins) condenados a uma vida solitária, sempre em busca do próximo Sidhichean que deverá encontrar...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-unwaba-tulo-23",
+      "name": "Unwaba-Tulo",
+      "category": "power_magic",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "summary": "Unwaba-Tulo Servos de unwaba Servos de unwaba Servos de unwaba Servos de unwaba Origem e História Há uma lenda zulu sobre o camaleão Unwaba, que foi encarregado pelos deuses de entregar a imortalidade a todos os seus servos, mas ele teria pouco tempo para entregar a imortalidade, e com este tempo acabado, nenhum humano seria imortal. Porém, Unwaba teve pregu...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-urlug-26",
+      "name": "Urlug",
+      "category": "race_lineage",
+      "pages": [
+        26
+      ],
+      "summary": "Urlug Linhagem de urlugal Linhagem de urlugal Linhagem de urlugal Linhagem de urlugal Origem e História O primeiro Imortal reportado por escrito foi o poderoso rei Gilgamesh, da Mesopotâmia. Este rei teve uma vida cheia de aventuras ao lado de seu companheiro Enkidu (de acordo com muitos estudiosos, um dos vampiros Ekimmu mais antigos). Quando Enkidu foi mor...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-caracteristicas-27",
+      "name": "Características",
+      "category": "creature_npc",
+      "pages": [
+        27
+      ],
+      "summary": "Características Os Urlug são todos descendentes diretos de Gilgamesh, e por isto mesmo são tão raros de se ver. Suas ligações com divindades mesopotâmicas os fazem freqüentemente visitar Ark-a-nun e Dilmun, embora ambos os locais estejam quase desertos. Na Terra, são os únicos adeptos (junto com os Akrabu) verdadeiros do politeísmo do panteão de Marduk, e an...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-yamabushi-28",
+      "name": "Yamabushi",
+      "category": "kit_class",
+      "pages": [
+        [
+          28,
+          30
+        ]
+      ],
+      "summary": "Yamabushi Guerreiros das montanhas Guerreiros das montanhas Guerreiros das montanhas Guerreiros das montanhas Origem e História As lendas japonesas contam a existência de uma criatura chamada Tengu ou Ten-gu, temíveis e poderosos seres com características de corvos, os legendários criadores dos Ninja. São conhecidos não como trapaceiros e aziagos da maneira...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-parte-iv-31",
+      "name": "Parte IV",
+      "category": "combat",
+      "pages": [
+        [
+          31,
+          33
+        ]
+      ],
+      "summary": "Parte IV Aprimoramentos Certos Aprimoramentos podem ser comprados somente por uma certa Origem Imortal, enquanto há Aprimoramentos especiais que existem para qualquer Imortal, e mais nenhum ser possa comprar. Alguns Poderes Angelicais, Demoníacos, Vampíricos e Espectrais são encarados como Aprimoramentos pelos Imortais. Tais Aprimoramentos serão comentados a...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-boreada-ar-34",
+      "name": "Boréada (Ar)",
+      "category": "power_magic",
+      "pages": [
+        [
+          34,
+          37
+        ]
+      ],
+      "summary": "Boréada (Ar) Entender 2, Criar 1, Controlar 3, Ar 1 Helíade (Luz) Entender 3, Criar 2, Controlar 1, Luz 1 Nictíada (Trevas) Entender 2, Criar 3, Controlar 1, Trevas 1 Fauno (Animais) Entender 1, Criar 3, Controlar 2, Animais 1 Hamadríade (Plantas) Entender 2, Criar 2, Controlar 2, Plantas 1 Esclarecido (Todas as Origens) 1-7 pontos: O Imortal já deu os prime...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-simplesmente-nao-precisar-mais-respirar-38",
+      "name": "simplesmente não precisar mais respirar,",
+      "category": "power_magic",
+      "pages": [
+        38
+      ],
+      "summary": "simplesmente não precisar mais respirar, fazendo-o quando quiser. Solo Sagrado (Todas as Origens) -2 pontos: Por superstição e conhecimento de certas estórias sobre Imortais, o Personagem se recusa a batalhar contra outro Imortal em solo sagrado (igrejas, cemitérios, altares silvestres, templos e santuários). O Imortal simplesmente não consegue batalhar enqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-zilant-39",
+      "name": "Zilant",
+      "category": "creature_npc",
+      "pages": [
+        39
+      ],
+      "summary": "Zilant (Bogatyr) 5 pontos: Zilant é o nome que os eslavos dão aos Dragões que se disfarçavam e atacavam as pessoas nas vilas, agindo como os Íncubos europeus. Zilant também são os filhos de um Zmey (Dragão eslavo) com uma mulher entregue a ele em troca de paz na vila. Os Zilant vivem muito isolados, e são extremamente raros. O Personagem recebe FR+5, CON+5,...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-parte-v-40",
+      "name": "Parte V",
+      "category": "power_magic",
+      "pages": [
+        [
+          40,
+          44
+        ]
+      ],
+      "summary": "Parte V Artefatos e Rituais Embora existam Humanos que adquirem a imortalidade através da Centelha, ainda há muitas outras formas de se simular a Centelha, ou mesmo adquiri-la, mostradas abaixo. Algumas são relativas a modos de se utilizar a Magia para tornar-se imortal, outras estão ligadas a criaturas e objetos especiais que mantém seu “usuário” incapaz de...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-criatura-cadaverica-e-decadente-apodrecendo-45",
+      "name": "criatura cadavérica e decadente, apodrecendo",
+      "category": "combat",
+      "pages": [
+        45
+      ],
+      "summary": "criatura cadavérica e decadente, apodrecendo com o passar dos anos, como se seu corpo estivesse morto desde que o Ritual foi realizado. Como um Morto-Vivo, o Lich recebe 7 pontos para comprar Poderes Mortuários, e mais 1 ponto para cada década no estágio de Lich. Os Liches são imunes a dano não-mágico, fogo, ácido, venenos, eletricidade; um outro efeito curi...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-sabe-se-que-as-orbes-trigemeas-46",
+      "name": "Sabe-se que as Orbes Trigêmeas",
+      "category": "power_magic",
+      "pages": [
+        46
+      ],
+      "summary": "Sabe-se que as Orbes Trigêmeas devem ser reunidas para que os efeitos surjam; até o momento da união das Orbes, nenhuma delas tem poder algum. Quando unidas, elas só liberarão sua capacidade na presença de precisamente 3 seres, sendo que um deles receberá o Poder, o segundo receberá a Imortalidade e o último receberá a Loucura. As Orbes Trigêmeas são muito a...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-quadro-vivo-47",
+      "name": "Quadro Vivo",
+      "category": "power_magic",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Quadro Vivo (Ritual: Humanos/Spiritum 6) Conta-se que um dos mais ilustres Magos a se sujeitar a tal Ritual foi Dorian Gray, um conhecido aristocrata da era vitoriana. Tal Ritual consiste em transferir sua “mortalidade” a um auto-retrato, e assim o realizador do Ritual deixa de envelhecer; seus próprios ferimentos se curar com a velocidade do pensamento. Enq...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-parte-vi-49",
+      "name": "Parte VI",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          49,
+          54
+        ]
+      ],
+      "summary": "Parte VI A Imortalidade “I am immortal, I have inside of me blood of kings, I have no rival, no man can be my equal” - Queen, Princes of the Universe Ao se jogar com um Personagem que atravessa os séculos, é preciso muito preparo tanto por parte do Mestre como do Jogador. Personagens cientes de sua mortalidade agem com um certo comportamento, por saberem que...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-filhos-de-hecate-liches-e-55",
+      "name": "Filhos de Hecate, Liches e",
+      "category": "creature_npc",
+      "pages": [
+        55
+      ],
+      "summary": "Filhos de Hecate, Liches e Múmias Os três tipos de Morto-Vivo mais poderosos, os Filhos de Hecate, os Liches e as Múmias transcenderam o conceito de um simples corpo animado. Eles são muito mais que simples Zumbis, com um nível de proficiência em Magia e capacidade de pensamento capazes de encantar qualquer criatura imortal que converse com eles. O que os di...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-a-centelha-cacador-de-zarich-56",
+      "name": "Caçador de Zarich",
+      "category": "creature_npc",
+      "pages": [
+        [
+          56,
+          58
+        ]
+      ],
+      "summary": "Caçador de Zarich Tempo de Aprendizado: 10 anos. Custo: 8 pts. de Aprimoramento, 340 pts. de Perícia. Perícias: Armas Brancas (Adaga 25/25, Lança 25/30), Barganha 15%, Briga 25%, Conhecimento Proibido (Abismo 20%, Anjos 15%, Demônios 25%, Infernun 20%, Spiritum 15%, Rituais 30%, Imortais 50%), Escutar 25%, Idiomas (Árabe 20%), Intimidação 30%, Lábia 25%, Lid...",
+      "entityRefs": []
+    }
+  ]
+}

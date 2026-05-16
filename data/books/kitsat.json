@@ -1,0 +1,259 @@
+{
+  "source": "kitsat",
+  "title": "kitsat",
+  "status": "full-read-auto-pass-1",
+  "pages": 28,
+  "primaryCategories": [
+    "combat",
+    "kit_class",
+    "item_equipment",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "kitsat-rodrigo-lamazuus-linn-1",
+      "name": "Rodrigo “Lamazuus” Linn",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "By Rodrigo “Lamazuus” Linn e José Paulo \"LennonZ\" Formatação Pablo “Mestre KBLo” 1 Novos Kits para Arkanun e Trevas Versão 1.5",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-novos-kits-2",
+      "name": "Novos Kits",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Novos Kits Versão 1.5 Em Arkanun, Kits são como profissões que um personagem pode escolher para seguir. Para usar um Kit é preciso pagar o seu custo de pontos de Aprimoramento e de Perícia, para receber seus benefícios. Mas atenção, pois o Kit deve estar condizente com o Background do personagem. Arkanun Advogado Advogado é o auxiliar de Justiça cuja missão...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-bibliotecario-4",
+      "name": "Bibliotecário",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Bibliotecário Toda biblioteca sempre tem um encarregado da ordem e manutenção de seu acervo literário. Essa é a função do Bibliotecário. Catalogar livros, conhecer seus assuntos e reconhecer cada estante de uma biblioteca. Essa profissão perdura até os dias de hoje, mas na Idade Média ela era bastante importante, uma vez que para achar um livro, bastava soli...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-circenses-6",
+      "name": "Circenses",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Circenses Circenses são artistas exóticos. Eles formam grupos que vivem cruzando regiões em caravanas, na busca de um local onde possam armar suas tendas e realizarem seus espetáculos. Tais apresentações são feitas geralmente por dinheiro, mesmo esta não sendo uma fonte muito rentável, mas há quem procura apenas levar a diversão e a alegria aos povos desespe...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-demonologista-7",
+      "name": "Demonologista",
+      "category": "kit_class",
+      "pages": [
+        7
+      ],
+      "summary": "Demonologista Os magos que se aventuraram nos métodos obscuros das negociações e conjurações de seres do plano inferior, os demônios. O caminho que eles trilham é o um dos mais poderosos, mas também o mais arriscado. Isso porque a vingança de um demônio é a pior para se suportar. Entre os poucos que conseguem manter-se vivos e, mais raros ainda, aqueles que...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-explorador-8",
+      "name": "Explorador",
+      "category": "combat",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Explorador Muito comuns antigamente, os Exploradores eram pessoas movidas por um forte motivo à buscar novas descobertas, seja sobre terras desconhecidas, artefatos perdidos, túmulos nunca encontrados, etc. Existem inúmeras motivações possívis para alguém ser levado a se tornar um Explorador: a conquista de riquezas fabulosas, a fama, o desenvolvimento do co...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-monge-10",
+      "name": "Monge",
+      "category": "kit_class",
+      "pages": [
+        10
+      ],
+      "summary": "Monge A palavra monge têm origem remota em uma palavra grega que quer dizer \"solitário\". Os primeiros monges eram eremitas e julgavam estar mais próximos de Deus (ou do de Buda), quando se afastavam da sociedade e viviam na solidão. Por volta do século IV havia mosteiros por toda a Europa, bem como diversas ordens monásticas espalhadas. As ordens comtemplati...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-pirata-11",
+      "name": "Pirata",
+      "category": "kit_class",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Pirata A pirataria é de origem remota. Pompeu, general romano, tornou-se célebre 67 anos antes de Cristo, pela rapidez com que limpou o Mediterrâneo de piratas que o infestavam e impediam a comunicação entre Itália e o Oriente. Na linguagem corrente, muitas vezes se confudem Piratas com Corsários, mas na realidade existe uma diferença essencil entre ambos: o...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-satanista-13",
+      "name": "Satanista",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Satanista Desde a antigüidade existiram aqueles homens que não acreditavam em Deus e seus feitos. Eles julgavam-o como o verdadeiro culpado por tudo que acontecera à humanidade, ou simplesmente preferiam servir ao lado das forças maléficas do soberano do Inferno: Satan. Os Satanistas são os clérigos de Satan entre os humanos. Eles o reverenciam como um deus,...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-taverneiro-14",
+      "name": "Taverneiro",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Taverneiro Em todo vilarejo ou cidade da Idade Média sempre existiam tavernas e estalajens. Ambos eram os lugares que os viajantes que estavam de passagem pela cidade mais frequentavam, sendo que os próprios moradores da cidade também adoravam tavernas. Assim, o trabalhos de um Taverneiro ou Estajadeiro sempre pode garantir bons lucros. Claro que existiam ce...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-trevas-15",
+      "name": "Trevas",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Trevas Advogado Moderno É apenas uma evolução do advogado de séculos atrás. Hoje em dia os julgamentos e os direitos são diferentes, bem como a procedência em um tribunal. Assim, o representante da lei apenas se adapta aos termos à sua volta. Apostador Os jogadores que vivem em cassinos e em bares apostando em jogos de azar. Levam sua vida na base da aposta,...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-artista-multimidia-16",
+      "name": "Artista \"Multimídia”",
+      "category": "item_equipment",
+      "pages": [
+        16
+      ],
+      "summary": "Artista \"Multimídia” São aqueles artistas que fazem múltiplas coisas em seus shows. São apresentadores, cantores, músicos, atores, ... isso é, têm conhecimentos das várias disciplinas das artes. Geralmente assumem uma mais importante (apresentadores ou radialistas, quase sempre) e usam as demais apenas como artifício para seus programas. Capanga da Máfia Os...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-cientista-17",
+      "name": "Cientista",
+      "category": "combat",
+      "pages": [
+        17
+      ],
+      "summary": "Cientista É aquele gênio da ciência, capaz de manipular a realidade, através de análises e estudos que tragam comprovações concretas. Geralmente são aquele tipo de pessoa que só julga uma coisa real quando a vê com os próprios olhos e obtém um diagnóstico preciso de sua comprovação científica. Este é o modelo básico de cientista, que pode se desdobrar em vár...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-detetive-18",
+      "name": "Detetive",
+      "category": "item_equipment",
+      "pages": [
+        18
+      ],
+      "summary": "Detetive O investigador profissional. Encarregado de analisar crimes, pesquisar hipóteses, levantar suspeitas e intimar buscas. Pode também ser o investigador particular, contratado por clientes particulares pare resolver casos especiais, como perseguir pessoas, encontrar objetos, desvendar mistérios, etc. Escritor Os tipos mais comuns de jornalistas e redat...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-gamer-19",
+      "name": "Gamer",
+      "category": "attribute_skill",
+      "pages": [
+        19
+      ],
+      "summary": "Gamer A versão infantil do Hacker. São os fanáticos por jogos de animação gráfica. Conhecem diversos games de computador e videogame, sempre procurando por adversários que estejam dispostos a desafiarem suas habilidades. Encontram na internet muitas salas onde podem travar suas batalhas virtuais. Hacker Os piratas da rede. São mestres da informática, capazes...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-hippie-artesao-20",
+      "name": "Hippie Artesão",
+      "category": "attribute_skill",
+      "pages": [
+        20
+      ],
+      "summary": "Hippie Artesão Desde o fã do Bob Marley até o camelô que vende roupas e pulseiras no estilo jamaicano. São a favor da paz, do amor e da diversão. Só querem curtir a vida, de modo que possam acabar encontrando o êxtase em suas atividades. Militar Os representantes do exército. Desde soldados rasos até as mais altas patentes, como Coronel ou General. São trein...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-musico-21",
+      "name": "Músico",
+      "category": "kit_class",
+      "pages": [
+        21
+      ],
+      "summary": "Músico Pessoas que vivem da música, tocando instrumentos e compondo canções. São comuns em qualquer região do mundo. Ninja Os assassinos mortais. São matadores orientais treinados nas artes da morte rápida e sem vestígios. Um ninja é temido e trabalha por contrato. Possuem códigos de honra muito fortes, tão traiçoeiros quanto suas lâminas afiadas. 21 Militar...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-playboy-22",
+      "name": "Playboy",
+      "category": "kit_class",
+      "pages": [
+        22
+      ],
+      "summary": "Playboy Também chamados de Filhinho do Papai, Mauricínho ou Patricínha, são aqueles magnatas mimados por seus pais, geralmente pessoas de alta posição social. Demonstram ar de superioridade e menosprezo para com os demais, só querem levar sua vida cheia de benefícios como melhor lhes convir. Adoram serem alvos das atenções e de poderem se gabar de suas conqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-politico-23",
+      "name": "Político",
+      "category": "combat",
+      "pages": [
+        23
+      ],
+      "summary": "Político Aquela corja de senadores, deputados, ministros e prefeitos que representam o povo, fazendo leis e aplicando mandatos. Prostituta Desde era imemoriais, sempre existiram prostitutas, e sempre existirão. É a profissão mais antiga e mais rentável que já houve. Atualmente as garotas (se bem que este kit também serve para garotos) de programa precisam en...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-rpgista-24",
+      "name": "RPGista",
+      "category": "attribute_skill",
+      "pages": [
+        24
+      ],
+      "summary": "RPGista Dispensa informações. Teólogo Homens estudiosos, detentores dos conhecimentos das leis divinas, dos ensinamentos das religiões e dos mitos que cercam a vida. São uma espécie de padres, só que sem a fé rotineira, tornando-os mais parecidos com os Scholars por suas investigações dos segredos dos agentes divinos e infernais. 24 Prostituta Custo: 180 pts...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-traficante-25",
+      "name": "Traficante",
+      "category": "attribute_skill",
+      "pages": [
+        25
+      ],
+      "summary": "Traficante Esse kit é voltado mais para os traficantes menores, ou seja, os malandros que andam pelo parque à noite, os colegiais, os “manos” do centro da cidade, etc. São peças menores, o último elo antes do consumidor das drogas. São os tipos mais medíocres e simples de contrabandistas. Quase sempre são viciados na droga que vendem. Agentes de Inteligência...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-departamento-de-policia-federal-26",
+      "name": "Departamento de Polícia Federal",
+      "category": "attribute_skill",
+      "pages": [
+        26
+      ],
+      "summary": "Departamento de Polícia Federal 26 Marinha – Comando Anfíbio (Comanf) Tempo Dedicado: 7 anos Custo: 2 pts. de Aprimoramento, 360 pts. de Perícia. Perícias: Pistola 30/0, Fuzil Militar 40/0, Esportes (Natação 45%, Mergulho 45%, Infiltração Submarina 40%), Explosivos (Demolição Submarina 40%), Ciências (Geografia 25%, Meteorologia 25%), Montanhismo 30%, Pára-q...",
+      "entityRefs": []
+    },
+    {
+      "id": "kitsat-policia-militar-27",
+      "name": "Polícia Militar",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Polícia Militar Secretaria de Assuntos Estratégicos 27 Centro de Inteligência (CI) Tempo Dedicado: 8 anos Custo: 4 pts. de Aprimoramento, 400 pts. de Perícia. Perícias: Pistola 50/0, Artes Marciais 40/30, Negociação (Burocracia 40%), Informática (Computação 45%, Internet 45%), Ciências (Fotografia 30%, Criminalística 35%, Psicologia 40%, Direito 40%), Manha...",
+      "entityRefs": []
+    }
+  ]
+}

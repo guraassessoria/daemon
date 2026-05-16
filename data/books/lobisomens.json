@@ -1,0 +1,47 @@
+{
+  "source": "lobisomens",
+  "title": "lobisomens",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "core_rule",
+    "race_lineage",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "lobisomens-lobisomens-1",
+      "name": "Lobisomens",
+      "category": "race_lineage",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Lobisomens Para uso em Arkanun/Trevas Publicado originalmente na revista DRAGÃO BRASIL n. 65 por J.M.Trevisan e Marcelo Del Debbio Depois de muitos pedidos e promessas, finalmen- te publicamos regras para uso de Personagens Lobi- somens no universo de Arkanun/Trevas. Aqui você vai encontrar uma adaptação do lobi- somem das lendas e dos filmes (com direito a...",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomens-lobisomem-verdadeiro-3",
+      "name": "Lobisomem Verdadeiro",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Lobisomem Verdadeiro Segundo as lendas, o Lobisomem Verdadeiro nas- ce lobisomem ou foi transformado através de ritual voluntário. Esta versão do Lobisomem é encontrada em livros da Idade Média e em tratados de alquimia. É considerado um dos tipos mais conhecidos entre os licantropos. O Lobisomem verdadeiro é capaz de manter o total controle sobre sua transf...",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomens-sociedade-4",
+      "name": "Sociedade",
+      "category": "race_lineage",
+      "pages": [
+        4
+      ],
+      "summary": "Sociedade Os Lobisomens Verdadeiros vivem isolados ou solitários. Em alguns casos, os Filhos de Licaon vivem próximos de suas famílias ciganas (que eles denominam de o Povo), e os protegem de qualquer tipo de ameaça ou complicações. Em alguns casos, podem se organizar em matilhas pequenas (compostas de cinco ou seis membros, entre lobisomens e humanos). A...",
+      "entityRefs": []
+    }
+  ]
+}

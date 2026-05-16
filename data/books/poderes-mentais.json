@@ -1,0 +1,130 @@
+{
+  "source": "poderes-mentais",
+  "title": "PODERES MENTAIS",
+  "status": "full-read-auto-pass-1",
+  "pages": 14,
+  "primaryCategories": [
+    "core_rule",
+    "item_equipment",
+    "power_magic",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "poderes-mentais-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Poderes Mentais sempre foram uma forma legal de ter super-poderes em cenários atuais ou futuristas, e compensam a falta de Magia nessas épocas. Além do mais personagens com Poderes Mentais sempre são os fodões seja nas telas ou nos quadrinhos. Mandar um zé mané longe, atear fogo num coitado qualquer, ler a mente de uma gostosa, atravessar a parede do quarto...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-usando-os-poderes-4",
+      "name": "Usando os poderes",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "Usando os poderes Existem duas formas de usar os poderes listados nesse Módulo: Você pode usar cada poder como se fosse uma Vantagem, simplesmente o Jogador compra os poderes que quer para seu Personagem, paga a quantidade de pontos indicada no poder e pronto, já pode sair disparando raio das mãos Outra possibilidade, seria usar os Poderes Mentais como o ant...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-autocontrole-5",
+      "name": "Autocontrole",
+      "category": "power_magic",
+      "pages": [
+        5
+      ],
+      "summary": "Autocontrole Custo: 1 Ponto Caminhos: Domínio 1 Esse poder faz com o Personagem resista á controles mentais, hipnose , dor e até tentações normais com um teste de Resistência +3, gasta-se 1 Ponto de Mente (ou Pontos de Magia, você que sabe) para cada teste de Resistência. Banir Custo: 3 Pontos Caminhos: Mediunidade 5 Esse poder permite ao Personagem despacha...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-cruzar-planos-6",
+      "name": "Cruzar Planos",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Cruzar Planos Custo: 3 Pontos Caminhos: Projeção 4 Permite que o Personagem viaje em forma de espírito para outros planos, gasta-se 4PMs para a viajem (ou um chazinho de cogumelo). Curar Custo: 1 Ponto Caminhos: Vida 1 O Personagem com esse poder pode converter seus PMs em PVs ao custo de 5 PVs para cada 1PM gasto. Empatia Custo: 1 Ponto Caminhos: Sensitivid...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-incorporar-7",
+      "name": "Incorporar",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "Incorporar Custo: 1 Ponto Caminhos: Mediunidade 3 Torna o Personagem um imã de espíritos, qualquer Psiônico em estado astral ou ser imaterial poderá usar o Personagem como fantoche para transmitir uma mensagem, por exemplo, o ser imaterial que incorpora tem total domínio sobre o Personagem incorporado (melhor deixar um amigo com o poder Banir de guarda pra a...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-ataque-telecinetico-8",
+      "name": "Ataque Telecinético",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "Ataque Telecinético Custo: 2 Pontos Caminhos: Telecinésia 3 O Personagem usa o poder da Telecinésia para esmagar os órgãos vitais do pobre coitado do oponente, causa 1d de dano sem que o alvo role sua Armadura, gasta-se 1PM por turno usando o ataque. Sonda Mental Custo: 1Ponto Caminhos: Compreensão 1 e Sensitividade 2 O Personagem consegue perceber se algo á...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-cariocinese-9",
+      "name": "Cariocinese",
+      "category": "power_magic",
+      "pages": [
+        9
+      ],
+      "summary": "Cariocinese Custo: 2 Pontos Caminhos: Telecinésia 4 É a capacidade de dividir os núcleos de seu corpo em um movimento incomum, podendo assim, desviar-se de balas, ou trancar uma gaveta e jogar a chave dentro (brincadeirinha). O Psion recebe Habilidade +1 e pode se esquivar de coisas que normalmente não conseguiria, como tiros á queima roupa ou chuva (sério),...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-premonicao-10",
+      "name": "Premonição",
+      "category": "power_magic",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Premonição Custo: 1 Ponto Caminhos: Mediunidade 2 e Compreensão 1 Permite ter uma visão, nem sempre clara e direta, de acontecimentos futuros, gasta-se 1PM para ter uma visão rápida. A visão pode ajudar de diversas maneiras, se o Psion ver quer uma pessoa morrerá em um acidente de carro, ela poderá proteger essa pessoa de veículos e afins, mas na maioria das...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-rajada-psiquica-12",
+      "name": "Rajada Psíquica",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "Rajada Psíquica Custo: 2 Pontos Caminhos: Domínio 2 e Vida 3 O Psion atinge a mente do oponente com sentimentos de dor, tontura, pensamentos confusos, imagens aleatórias e outros truques para sobre-carregar a psique do alvo. O alvo faz um teste de Resistência para negar o efeito, caso falhe, ele entra em estado de coma e permanece assim até receber dano ou c...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-transmissao-de-pensamentos-13",
+      "name": "Transmissão de Pensamentos",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Transmissão de Pensamentos Custo: 1 Ponto Caminhos: Telepatia 1 Forma mais simples de Telepatia, permite ao Psion falar na mente de alguém, esse porem não poderá responder caso não possua poderes mentais, o Psion não precisa estar próximo ou á vista do alvo, basta que ele conheça a pessoa a quem deseja transmitir o pensamento., gasta-se 1PM por pensamento en...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-mentais-utilize-14",
+      "name": "Utilize",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Utilize poderes mentais para criar efeitos fantásticos em suas histórias e em suas pancadarias!!! Regras para utilização de Poderes Mentais como Vantagens e como uma forma alternativa de Magia!T",
+      "entityRefs": []
+    }
+  ]
+}

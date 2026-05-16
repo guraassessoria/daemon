@@ -1,0 +1,37 @@
+{
+  "source": "venenos",
+  "title": "venenos",
+  "status": "full-read-auto-pass-1",
+  "pages": 3,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "attribute_skill",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "venenos-guia-de-venenos-medievais-para-daemon-1",
+      "name": "Guia de venenos medievais para daemon",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "Guia de venenos medievais para daemon * Feito por Metamorph Sephiroth também conhecido como o 100 muié “Não leve a vida tão a serio, pois a vida é uma aventura que não sairemos vivos”. Os tipos de venenos Existem milhares de tipos diferentes de venenos, cada um com seu efeito particular. Em termos de jogo, os venenos possuem três atributos que o definem: Mét...",
+      "entityRefs": []
+    },
+    {
+      "id": "venenos-metodo-injetavel-ou-ingestao-2",
+      "name": "Método: injetável ou ingestão",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Método: injetável ou ingestão Tempo: 1d6 rodadas Sangue de Cockatrice Tem este nome por ser vermelho e denso como sangue. Este veneno alemão consome a vitima por dentro, causando dores terríveis como se a vitima estivesse queimando. É feito a partir de uma rara combinação de extratos. Dano: 1d2 PV por hora Método: Contato ou ingestão Tempo: 1d10 minutos (dur...",
+      "entityRefs": []
+    }
+  ]
+}

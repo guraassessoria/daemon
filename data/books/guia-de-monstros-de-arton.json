@@ -1,0 +1,560 @@
+{
+  "source": "guia-de-monstros-de-arton",
+  "title": "Guia de Monstros de Arton",
+  "status": "full-read-auto-pass-1",
+  "pages": 130,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "item_equipment",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "guia-de-monstros-de-arton-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-guia-de-2",
+      "name": "(Guia de",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "(Guia de Monstros de Arton Marcelo Cassaro Marcelo Del Debbio 1º Edição - Jul/2001 2º Edição - Set/2004 3º Edição - Fev/2006 Daemon Editora fax (11) 5539-1122 email; daemon GQ daemon.com.br http://www.daemon.com.br (Guia de Monstros de Arton Criação: Marcelo Cassaro Desenvolvimento: Marcelo Del Debbio Revisão: Ana Flora Schlindwein Capa: André Vazzios Arte:...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-abelha-gigante-5",
+      "name": "Abelha-Gigante",
+      "category": "creature_npc",
+      "pages": [
+        5
+      ],
+      "summary": "Abelha-Gigante Água-Viva Ameba-Gigante Anões Aparições Aranhas-Gigantes - Aranha de Tetas - Aranhas Errantes Arraia Asa-Ássassina Asa Negra Asfixor Assassino da Savana Assustador Avatares Balcias Banshee Basílisco Beijo-de-Tenebra Besouro de Azgher Besouro-do-Fogo Besouto-do-Óleo Brownies Bruxas Bruxas Fúrias Canários-do-Sono Canceronte Carniceiros Carrasco...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-grama-carnivora-6",
+      "name": "Grama Carnívora",
+      "category": "creature_npc",
+      "pages": [
+        6
+      ],
+      "summary": "Grama Carnívora Grandes Felinos - Leão - Tigre - Leopardo Grandes Símios - Babuino - Chimpanzé - Gorila - Orangotango —- Gorila Gigante - Grito Guerreiro da Luz Halflings Harpia Hidra Hipogrifo Homens-Escorpião -- Escorpião Gigante Homens-Lagarto = Homens-Morcego - Morcegos Vampiros Homens-Serpente Homúnculo Horror dos Túmulos Icuossauro Incubador - Larva Ka...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-criaturas-7",
+      "name": "Criaturas",
+      "category": "core_rule",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "Criaturas Abelha-Gigante “Dois galões de mel?! Para sen bichinho?! Você tem tem URSO, por acaso?” — Dilgro Daggans, comerciante halfling CON 20-25, FR 15-25, DEX 5-10, AGI 15-25, INT 3 WILL3, CARS, PER 15 HF Ataques [1], IP 3 (Pele), PVs 20-25 Mordida 40/0 dano 1d6 ou (ataque único) Ferrão 80/0 dano 1d3+ veneno (4d6) Pode voar com velocidade de 12m/s F2-3, H...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-asfixor-11",
+      "name": "Asfixor",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "Asfixor “Teso qui em chama de abraco de tirar o fólego, né, xcéfio!” — Tasloi, escudeiro de Katabrok, o Bárbaro CON 10-25, FR 10-20, DEX 0, AGI 5-10, INT 2, WILL 2,CAR 0, PER 10-12 HAtaques [1], IP especial, PV's 15-35 Asfixia (1d6 pontos por rodada) F1, HO, R5, AO, PAFO O asfixor é um tipo de lesma gigante predadora, que atinge até 5m de comprimento. Pode m...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-avatares-12",
+      "name": "Avatares",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "Avatares “Então a menina beijou mem rosto e, quando percebi, “meu braco havia crescido de novo!” — Holgar, caçador bárbaro CON 30-60, FR 25-60, DEX 15-50, AGI 15-50, INT 15-50, WILL 20-50, CAR 20-30, PER 15-50 FAtaques [1-5], IP 5-20 (Pele), PVs 50-100 (+ heróicos) Por arma (variável) 250/200 dano 3d10+10 Rituais, Magias, Pontos de Fé de acordo com o deus. M...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-baleias-13",
+      "name": "Baleias",
+      "category": "creature_npc",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "Baleias “Dizem que peixe faz bem para o cérebro; então acho que você precisa comer um daqueles...” — Lamarcus para seu companheiro Klunc, o bárbaro CON 40-60, FR 45-75, DEX 3, AGI 10-12, INT 2-3, WILL 2-3, CAR 2-3, PER 16-20 HAtaques [1], IP 5 (Pele), PV's 50-150 Pancada com o Corpo 80/0 dano 5d6+10 F6-30, H1-2, R5-40, A8-10, PdFO. Baleias são mamiferos mari...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-besouro-do-fogo-15",
+      "name": "Besouro-do-Fogo",
+      "category": "power_magic",
+      "pages": [
+        15
+      ],
+      "summary": "Besouro-do-Fogo “A-do-ro essa seda!” — Allanna, cortesã de Valkaria CON 5-8, FR 5-6, DEX 0, AGI 10, INT 1, WILL 1, CAR 1, PER 5 HF Ataques [1], IP 0, PVs 5 F1, H1, R1, AL, PdFO, Ataque Especial (PAP), Ar- madura Extra: Fogo O besouro-do-fogo artoniano habita regiões vulcânicas ou de temperaturas elevadas. O vulcão próximo de Triunphus, as regiões vulcânicas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-bruxas-16",
+      "name": "Bruxas",
+      "category": "creature_npc",
+      "pages": [
+        16
+      ],
+      "summary": "Bruxas CON 12-24, FR 16-24, DEX 10-12, AGI 10-12, INT 14-20, WILL 16-20, CAR 3-6, PER 14-20 FAtaques [1], IP 3-7 (rituais), PVs 25 a 45 Adaga Ritualística 45/40 dano 1d6+6 ou Garras 50/20 dano 1d6+4 Pontos de Magia 10 a 15 / Focus 10 a 16 F3, H2, R3, Aí, PdFO, Genialidade, Má-Fama, Arcano, Fogo 4, Terra 4, Trevas 4, Ar 2. Antigamente existia uma enorme gama...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-canarios-do-sono-17",
+      "name": "Canários-do-Sono",
+      "category": "combat",
+      "pages": [
+        [
+          17,
+          21
+        ]
+      ],
+      "summary": "Canários-do-Sono “Depois de enfrentar orcs, trolls e ontras criaturas repulsivas, é agradável finalmente desfrutar da presença de animais tão... lindos e...” — Laura Lince, barda (últimas palavras) CON 1-2 FRI-Z. DEXS,AGIIO, INT? WILEZ CAR IO PER IS HAtaques [0], IP 0, PVs 1a 2 Canto (ver abaixo) FO, H2, RO, AO, PdFO, Levitação. Estes passarinhos são muito p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-cocatriz-22",
+      "name": "Cocatriz",
+      "category": "creature_npc",
+      "pages": [
+        [
+          22,
+          31
+        ]
+      ],
+      "summary": "Cocatriz “Ovos?! Outer nos contratar para pesar OVOS?! Vá procurar mm galinheiro!” — Linata, aventureira metrcenária CON 5-10, FR 5-10, DEX 3, AG15-10, INT 3, WILL 5, CAR 5, PER 8-12 t Ataques [1], IP 0, PVs 8a 12 Bicada 50/0 dano 1d3+ perrificação FO, H1-3, R0-1, AO, PAFO. COCATRIZ-IMPERADOR Aleuns aventureiros relataram uma versão gigante do cocatriz, medi...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-dragao-branco-32",
+      "name": "DRAGÃO BRANCO",
+      "category": "creature_npc",
+      "pages": [
+        32
+      ],
+      "summary": "DRAGÃO BRANCO - Este dragão glacial vive apenas em áreas geladas, como as Montanhas Uivantes. CON 30-50, FR 32-56, DEX 10, AG1I 15-20 INT 20-30, WILL 20-30, CAR 15, PER 20 FAtaques [4], IP 8, PVs 35-60 (+ Pontos Heróicos) Mordida 75/0 dano 2d6+3 Garras (x2) 75/70 dano 2d10+6 Cauda 50/10 dano 3d6+6 Pode usar um Bafo de Gelo de 3 a 1) vezes ao dia (depen- dend...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-dragao-verde-33",
+      "name": "DRAGÃO VERDE",
+      "category": "power_magic",
+      "pages": [
+        33
+      ],
+      "summary": "DRAGÃO VERDE Vivem em montanhas e florestas, sendo mais comuns em Galrasia e nas Montanhas Sanguinárias. CON 40-60, FR 40-60, DEX 14, AG1 18-32 INT 16-26, WILL 16-26, CAR 12, PER 24-30 Ataques [4], IP 9, PVs 50-65 (+Pontos Heróicos) Mordida 85/0 dano 2d6+8 Garras (x?) 85/80 dano 2410+11 Cauda 80/10 dano 3d6+11 Pode usar um Bafo de Ácido de 3 a 10 vezes ao di...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-dragoes-de-tamu-ra-34",
+      "name": "Dragões de Tamu-ra",
+      "category": "power_magic",
+      "pages": [
+        34
+      ],
+      "summary": "Dragões de Tamu-ra “Honra?! Vocês não sabem o siguufrcado dessa palavra! O Grande LinJV'n a INVENTOU?! — Hayata, clérigo de Lin-Wu Antes de sua devastação pela Tormenta, a ilha de Tamu- ra eta lat de uma variedade bem diferente dos dragões co- nhecidos no resto de Arton. Uma família de nobres criatu- ras que não veio de Megalokk, mas sim do deus-dragão Lin-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-dragao-do-ar-35",
+      "name": "DRAGÃO DO AR",
+      "category": "power_magic",
+      "pages": [
+        [
+          35,
+          45
+        ]
+      ],
+      "summary": "F4, H5, R5, A5, PdF6 (ácido). Focus 6 em Terra e 4 em todos os outros Caminhos. Invulnerável a ataques base- ados em ácido, veneno ou Terra, naturais ou mágicos. DRAGÃO DO AR Suas escamas são azuladas ou prateadas, com brilho metálico. Seus olhos são vermelhos, brilhantes como jóias. CON 35-50, FR 35-50, DEX 16, AGI 18-32 INT 24-30, WILL 24-36, CAR 16, PER 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-qualquer-usuario-de-magia-46",
+      "name": "Qualquer usuário de Magia",
+      "category": "attribute_skill",
+      "pages": [
+        46
+      ],
+      "summary": "Qualquer usuário de Magia ladino... — pode receber os benefícios de um familiar. Não mago, clérigo, bardo, pa- é possível para um Personagem recém-criado ter um famili- at; eles não podem ser comprados com pontos, como uma Vantagem — apenas conquistados em Campanha. O Mes- tre faz, em segredo, as rolagens de dados para descobrir se um animal torna-se familia...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-fenix-47",
+      "name": "Fênix",
+      "category": "combat",
+      "pages": [
+        47
+      ],
+      "summary": "Fênix es S i ' SÃO GS BIais nobr; ES Entre as CriAliTras. Magoor, sumo-sacerdote de Thyats CON 35, FR 33, DEX 3, AGI 15 INT 24, WILL 24, CAR 20, PER 36 HFAtaques [1], IP 5, PVs 40 Bicada 75/20 dano 1d6+3 ou Garras 70/70 dano 2d6 Pode Voar com velocidade de 25m/'s E5, H6, R7, A6, PdF8, Fogo 5, Luz 3, Ar 3, Água 3 (apenas para curar), Levitação, Telepatia Às a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-ud-ad-ad-48",
+      "name": "ud ad ad",
+      "category": "creature_npc",
+      "pages": [
+        [
+          48,
+          51
+        ]
+      ],
+      "summary": "ud ad ad Fil-Gikim “uustamente quando pensávamos que os demônios-formiga podi- am: ser vencidos... descobrimos coisa PIOR!” — Arkam, líder do Protetorado do Reino CON 25-45, FR 25-40, DEX 3-6, AGI 10-12, INT 3-6, WILL 3-6, CAR 0, PER 15-20 H Ataques [4], IP 4/7 (pele /carapaca), PVs 35-70 Garras grandes (x2) 65/45 dano 4d6 (vorpal) Garras pequenas (x2) 45/65...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-genios-da-terra-dao-52",
+      "name": "GÊNIOS DA TERRA (DAO)",
+      "category": "power_magic",
+      "pages": [
+        52
+      ],
+      "summary": "GÊNIOS DA TERRA (DAO) CON 38-56, FR 28-56, DEX 5-35, AGI 16-34, INT 18-38, WILL 18-38, CAR 12-24, PER 12-36 Ataques [2], IP 5-15 (rituais), PVs 40-65 (+heróicos) Briga (x2) 85/65 dano 1d10+11 ou Por arma mágica ou por Ritual Pontos de Magia: 10-40 Pontos de Focus: 12- 46 Caminhos Principais: Terra, Fogo, Humanos Pode realizar Magias de todos os Caminhos, exc...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-genios-do-fogo-efreeti-53",
+      "name": "GÊNIOS DO FOGO (EFREETI)",
+      "category": "creature_npc",
+      "pages": [
+        53
+      ],
+      "summary": "GÊNIOS DO FOGO (EFREETI) CON 38-56, FR 28-46, DEX 5-35, AGI 16-34, INT 28-38, WILL 28-38, CAR 14-24, PER 12-36 HAtaques [2], IP 5-15 (rituais), PV's 40-65 (+heróicos) Briga (x2) 85/65 dano 1d10+11 ou Por arma mágica ou por Ritual Pontos de Magia: 10-40 Pontos de Focus: 12- 46 Caminhos Principais: Fogo, Trevas, Ar, Humanos Pode realizar Magias de todos os Cam...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-bicefalo-54",
+      "name": "BICEFALO",
+      "category": "combat",
+      "pages": [
+        54
+      ],
+      "summary": "BICEFALO Um grotesco gigante de duas cabeças, cada uma coman- dando um braço (por esse motivo ele pode, ao contrário dos demais, fazer dois ataques por turno quando usa For- ça). Aqueles que tiveram chance de observá-lo dizem que as cabeças podem ter personalidades diferentes e discutir uma com a outra. Mede entre 10 e 12m de altura. CON 28-36, FR 28-36, DEX...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-gnolis-55",
+      "name": "Gnolis",
+      "category": "combat",
+      "pages": [
+        55
+      ],
+      "summary": "Gnolis “Ha?! Então eles SE RENDERAM?! O que fazemos agora, chefe?” — Donnerak Sandrway, soldado mercenário CON 8-12, FR 8-12, DEX 8-12, AGI 8-12, INT 8-12, WILL 8-12, CAR 3-6, PER 8-12 HAtaques [1], IP 0, PVs 8-12 Arma 35/35 dano por arma (Lança 1d10, Espada 1d6 ou Clava Id6) E2 Ht-3, RZ, AI, Pdri-Z A raça dos gnolls é composta por humanóides que pare- cem m...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-hobgoblins-56",
+      "name": "HOBGOBLINS",
+      "category": "combat",
+      "pages": [
+        56
+      ],
+      "summary": "HOBGOBLINS São aparentados aos goblins, mas maiores (do tama- nho de um ser humano), mais fortes e mais cruéis, incapa- zes de viver entre os humanos como fazem os goblins. Costumam viver em grandes tribos nos subterrâneos e mos- tram um nível tecnológico superior às outras raças goblinóides (a maioria deles tem uma Especialização da Perícia Máqui- nas, e un...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-soldado-bugbear-57",
+      "name": "SOLDADO BUGBEAR",
+      "category": "core_rule",
+      "pages": [
+        [
+          57,
+          60
+        ]
+      ],
+      "summary": "SOLDADO BUGBEAR CON 7-18, FR 14-19, DEX 7-12, AGI 8-12, INT 5-9, WILL 5-9, CAR 6-9, PER 12-15 Ataques [1], IP 1 (armadura), PVs 12-20 Arma 45/30 dano por arma F2-3, H2, R3,A1-2, PAFO CAPITÃO BUGBEAR CON 17-21, FR 15-21, DEX 12-18, AGI 12-16, INT 9-15, WILL 11-15, CAR 12-15, PER 12-15 HFAtaques [1], IP 3 (armadura), PVs 20-25 Arma 55/40 dano por arma F3-4, H3...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-tigre-61",
+      "name": "TIGRE",
+      "category": "creature_npc",
+      "pages": [
+        61
+      ],
+      "summary": "E TIGRE Em Arton não existem mais tigres em estado selvagem; seu habitat natural, a ilha de Tamu-ra, foi devastado pela Tormenta — levando o animal à beira da extinção. Agora eles são extremamente raros, vistos apenas em alguns shows circenses (entre eles o Circo dos Irmãos Thiannate), espetá- culos de arena ou palácios de Nitamu-ra. CON 22-36, FR 22-36, DEX...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-grifo-62",
+      "name": "Grifo",
+      "category": "combat",
+      "pages": [
+        [
+          62,
+          68
+        ]
+      ],
+      "summary": "Grifo “Más notícias viajam montadas em grifos.” — ditado popular CON 24-36, FR 30-36, DEX 3, AGI 8-16, INT 2-5, WILL 12-15, CAR 2-8, PER 16-24 H Ataques [3], IP 1, PVs 26-36 Garras 60/60 dano 1d10+5 Bicada 65/0 dano Id6 Pode voar com velocidade de 25m/'s Gritos estão entre as criaturas mais majestosas de Arton. São animais com corpo de leão, cabeça, garras e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-horror-dos-tumulos-69",
+      "name": "Horror dos Túmulos",
+      "category": "creature_npc",
+      "pages": [
+        69
+      ],
+      "summary": "Horror dos Túmulos “Se você pretende escapar, inplore ao grande Thyatis para nun- ca encontrar um desses demônios! — Magoor, sumo-sacerdote de Thyatis CON -, FR -, DEX -, AGI 10-12, INT 2-3, WILL 2-3, CARO, PER 12-18 HF Ataques [2], IP -, PVs 20-30 Gattas 35/30 dano 1d3+Contágio F2, H2, R1, Al, PAPO Esta apavorante criatura pode ser facilmente confundida com...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-kaatar-niray-70",
+      "name": "Kaatar-niray",
+      "category": "combat",
+      "pages": [
+        70
+      ],
+      "summary": "Kaatar-niray “NR THAÍS ACERO HIM trampo em creas de Tormenta!” — Tork, troglodita mercenário CON 15-25, PR 18-25, DEX 5-8, AGI 15-18, INT 5-8, WILL 5-8, CAR 0, PER 15-20 HAtaques [3], IP 4 (pele), PVs 35 Garras (x2) 65/45 dano 3dó Vorpal Mandíbulas 50/0 dano 2d6 E3-5, H4, R3-4, A3, PdFO, Invulnerabilidade (Ácido, Veneno, Eletricidade, Fogo Normal, qualquer a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-katrak-71",
+      "name": "Katrak",
+      "category": "combat",
+      "pages": [
+        [
+          71,
+          72
+        ]
+      ],
+      "summary": "Katrak “Você não devia repetir certas coisas que eu digo... — Jilgan Lampreia, conselheiro elfo-do-mar CON 1.2, FR 1-2, DEX 0, AGI 12-14, INT 1-2, WILL 1-2, CAR 10-12, PER 10-18 * Ataques [0], IP O, PVs 2 FO, H1, RO, AO, PdFO. O peixe-companheiro (ou katrak, como é mais conheci- do, pelo barulho constante que produz) é o mais popular animal de estimação entr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-senhor-das-profundezas-73",
+      "name": "SENHOR DAS PROFUNDEZAS",
+      "category": "creature_npc",
+      "pages": [
+        73
+      ],
+      "summary": "SENHOR DAS PROFUNDEZAS À criatura conhecida como Senhor das Profundezas não é um kraken comum — conta-se que é um demônio, um semi-deus ou mesmo uma divindade ancestral. Esse mons- truoso ser vive no Abismo e jamais foi visto por olhos humanos. Mesmo as criaturas submarinas desconhecem sua aparência. Apenas os tentáculos do Senhor costumam ser vistos emergin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-licantropos-74",
+      "name": "Licantropos",
+      "category": "power_magic",
+      "pages": [
+        [
+          74,
+          78
+        ]
+      ],
+      "summary": "Licantropos “Kaboj, em escolho você!” — Pucky, lobisomem Os licantropos, ou homens-fera, são humanos que por algum motivo foram transformados em seres animalescos. Eles existem em muitos tamanhos, formas e tipos — são tantos que chega a ser difícil identificar todos. Na verdade, qualquer humano que apresente um ou mais traços bestiais será considerado um lic...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-meduzoide-79",
+      "name": "Meduzóide",
+      "category": "power_magic",
+      "pages": [
+        79
+      ],
+      "summary": "Meduzóide “Bem, talvez ESTE figne gostoso com tomate e cebola...” — Petra Tpish, cozinheira da Estalagem do Macaco Ca- olho, em Malpetrim CON 2-6, FR 6-10, DEX 10-12, AGI 6-12, INT 12-16, WILL 12-18, CARO, PER 12-18 HF Ataques [4], IP 0, PVs 12-20 Tentáculos (x4) 30/20 dano 1d3 Telepatia Possuem Invisibilidade 90% na água. Fo, H1, RO, AO, PAF4 (apenas para P...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-meio-dragoes-80",
+      "name": "Meio-Dragões",
+      "category": "combat",
+      "pages": [
+        [
+          80,
+          84
+        ]
+      ],
+      "summary": "Meio-Dragões “Penso apenas mma coisa, meu amor: quando dnas criaturas se unem por amor verdadeiro, nem mesmo os denses tém o diretto de interferir... mas eu não gostaria de saber como serão os filhos!” — Allieny, arqueira, membro do Protetorado do Reino Dragões adultos podem se transformar em humanos, elfos e outras raças. Dragões também podem se apaixonar p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-sed-85",
+      "name": "sed",
+      "category": "creature_npc",
+      "pages": [
+        [
+          85,
+          91
+        ]
+      ],
+      "summary": "sed [6% eu bo A da %, Necrodracos “Tnvencível? Terá que provar.” — Paladino de Arton Quando a alma de um dragão morto não consegue o descanso eterno, ela pode retornar a este mundo como uma das mais terríveis criaturas de Arton: o chamado necrodraco, ou dragão morto-vivo. Todos os necrodracos têm as mesmas vantagens e des- vantagens normais dos mortos-vivos:...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-peixe-recife-92",
+      "name": "Peixe-Recife",
+      "category": "item_equipment",
+      "pages": [
+        [
+          92,
+          98
+        ]
+      ],
+      "summary": "Peixe-Recife “Acho que não ten mais de três ou quatro deles no mundo inteiro!” — Lisandra, druida CON 100-120, FR 100-120, DEX 0, AGI 4-6, INT 1, WILL 1, CARO, PER 12 * Ataques [0], IP 12 (pele), PVs 200+ E20, HO, R20, A12, PdFO. Este peixe imenso e raro pode ser facilmente confundido com uma pequena ilha, com corais crescendo sobre seu dotso. Como as baleia...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-random-99",
+      "name": "Random",
+      "category": "power_magic",
+      "pages": [
+        99
+      ],
+      "summary": "Random “Em conheço essa fera! Só pode ser ferida com fogo!” — Jolkar, cavaleiro de Khalmyr (últimas palavras) CON 30-46, FR 36-46, DEX 6-12, AGI 6-12, INT 4-6, WILL 12-18, CARO, PER 16-26 HAtaques [2 ou 1], IP 5+ Especial, PVs 56a 60 Garras (x2) 65/60 dano 2d6+11 ou Rocha disparada 65/0 dano 3d6 Invulnerabilidade (ver abaixo) F10-12, H4, R5-7, A3-4, PdF8, Se...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-rinocerontes-100",
+      "name": "Rinocerontes",
+      "category": "combat",
+      "pages": [
+        100
+      ],
+      "summary": "Rinocerontes “Por Khalmyr, satam da frente!” — Druume, guerreiro anão Rinocerontes são herbívoros, mas muito mal- humorados e agressivos. Atacam qualquer criatura que se aproxime demais do bando. Seu chifre causa dano por Força+l dó. Seu Ataque Especial consiste em correr e arre- meter contra o alvo a até 20 km/h, causando dano por Força+3d6 (e com o redutor...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-salamandra-de-fogo-101",
+      "name": "Salamandra de Fogo",
+      "category": "power_magic",
+      "pages": [
+        [
+          101,
+          102
+        ]
+      ],
+      "summary": "Salamandra de Fogo “Mesmo acostumado «o calor como sou, não acho que uma + delas sirva como montaria.” — Salini Alan, mago e mercador de Triunphus CON 20-26, FR 20-26, DEX 2, AGI 12-18, INT 1, WILL 1, CARO, PER 12-20 HF Ataques [1], IP 3 (pele), PVs 262 30 Mordida 45/60 dano 1d6+2 ou Bafo de Fogo: dano 5d6+5 A Salamandra de Fogo emana uma aura de calor que c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-sereias-103",
+      "name": "Sereias",
+      "category": "combat",
+      "pages": [
+        [
+          103,
+          104
+        ]
+      ],
+      "summary": "Sereias “Agora, belezinha, vamos falar sobre aquele tesonro afinado...” — Capitão James K, comandante do navio Bravado Os elfos-do-mar podem ser a espécie dominante nos oceanos de Arton, mas estão longe de ser a única. Entre seus vários vizinhos nos domínios do Grande Oceano estão as sereias, certamente a mais famosa raça submarina —conhe- cidas por sua bele...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-naja-105",
+      "name": "NAJA",
+      "category": "core_rule",
+      "pages": [
+        [
+          105,
+          112
+        ]
+      ],
+      "summary": "NAJA Pode ser identificada por um tipo de “capuz” que traz na cabeça. Era nativa de Tamu-ra — portanto, hoje está qua- se extinta. Seu veneno é mais forte; uma vítima envenenada perde 2 PVs por turno, em vez de 1 (ou entre dó e 8dó no sistema Daemon). CUSPIDEIRA Ao contrário das outras serpentes, que injetam peçonha através das presas, esta cobra consegue cu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-t-rex-113",
+      "name": "T-Rex",
+      "category": "combat",
+      "pages": [
+        [
+          113,
+          115
+        ]
+      ],
+      "summary": "T-Rex “Tamanho não é documento, cara! Han!” — Tork, troglodita mercenário CON 42-50, FR 36-50, DEX 3, AG1 6-10, INT 1, WILL 1, CARO, PER 4-8 HAtaques [1], IP 3-4 (pele), PVs 50-60 Mordida 60/20 dano 4d6+6 F6, H4, R5, At, PdFO, Sentidos Especiais (Visão, Audição e Faro Aguçados) Talvez um dos mais perigosos (apenas talvez...) dinossauros de Galrasia, o tirano...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-glacioll-116",
+      "name": "GLACIOLL,",
+      "category": "combat",
+      "pages": [
+        [
+          116,
+          122
+        ]
+      ],
+      "summary": "GLACIOLL, Também conhecidos como trolls-do-gelo, são habitan- tes das Montanhas Uivantes e outros lugares frios. De cor azulada, não apenas são imunes a Magias e ataques basca- dos em frio, como também absorvem sua energia — eles GANHAM os Pontos de Vida que deveriam perder, fican- do maiores: para cada 5 PVs extras, ganham +1 em Força, Resistência e Armadur...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-yongey-ahruk-123",
+      "name": "Yongey-Ahruk",
+      "category": "creature_npc",
+      "pages": [
+        [
+          123,
+          124
+        ]
+      ],
+      "summary": "Yongey-Ahruk “O que vem de baixo não me atinge. ” — Haramaki, samurai tamuraniano CON 25-35, FR 25-30, DEX 3-6, AGI 8-12, INT 5-8, WILL 5-8, CARO PER 15-20 FAtaques [2], IP 3/6 especial, PVs 35-50 Garras (x2) 75/25 dano 3d6+3 Invulnerável (Demônio da Tormenta) Possui um radar especial enquanto estiver cavando Escavação F3-4, H3-4, R5-6, A4-5, PdFO, Invulnera...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-outras-publicacoes-125",
+      "name": "Outras Publicações",
+      "category": "creature_npc",
+      "pages": [
+        [
+          125,
+          126
+        ]
+      ],
+      "summary": "Outras Publicações Estes livros podem ser encontrados na www.lojaderpg.com.br Orevas (Módulo Básico) Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu go de xadrez celestial. Neste RPG, você está convidado a eo Inferno, usando os humanos como peças em seu jog fazer parte dos mortais que sabem a verdade. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-ccemplarios-127",
+      "name": "cCemplários",
+      "category": "item_equipment",
+      "pages": [
+        127
+      ],
+      "summary": "cCemplários A primeira Ordem do Templo surgiu com os discípulos do grande mago Salomão, em Jerusalém, um milênio antes da vinda de Cristo. Desta Ordem de sacerdotes guerreiros surgiram as bases do que mais tarde se chamariam cavaleiros templários. TEMPLÁRIOS traz regras criar os caçadores de demônios mais temidos de todos os tempos, desde sua origem até os d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-guia-de-armas-medievais-128",
+      "name": "Guia de Armas Medievais",
+      "category": "creature_npc",
+      "pages": [
+        128
+      ],
+      "summary": "Guia de Armas Medievais Este é o segundo de uma série de livros que visam auxiliar aos Mestres e dar mais opções aos Jogadores de RPG. Neste Guia de Armas você encontrará quase 300 tipos diferentes de armas detalhadas, desde as mais inocentes facas de cozinha e dardos de arremesso até a temida Dragonlance, passando por machados, espadas, maças e muitas, muit...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton-torrmmenta-129",
+      "name": "ToRrmMENta",
+      "category": "core_rule",
+      "pages": [
+        [
+          129,
+          130
+        ]
+      ],
+      "summary": "ToRrmMENta Imagine um mundo de magias, aventuras e tesouros. Imagine terríveis vilões, mons- tros perigosos e histórias fabulosas. Faça parte disso tudo em Arton! À Editora Daemon tem o prazer de apresentar a edição 3.5 de TORMENTA, o ambiente de RPG mais jogado no Brasil. Como você pode ver, esta edição caprichada traz muitas novidades para os antigos mestr...",
+      "entityRefs": []
+    }
+  ]
+}

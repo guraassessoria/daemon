@@ -1,0 +1,27 @@
+{
+  "source": "mitologia-nordica",
+  "title": "Mitologia Nórdica",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "creature_npc",
+    "setting_lore",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "mitologia-nordica-por-antonio-augusto-shaftiel-1",
+      "name": "Por Antônio Augusto Shaftiel",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          8
+        ]
+      ],
+      "summary": "Por Antônio Augusto Shaftiel Autor de Entre Anjos e Demônios, Assassino de Almas e Busca por Sangue Mitologia Nórdica A Lenda da Criação No início não havia nada além de um grande abismo que se estendia no espaço infinito. Ao norte desse abismo, formou-se Niflheim, o mundo de trevas e nuvens. Dali nasciam doze cursos de águas glaciais, vindos da nascente con...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "source": "armas-da-segunda-guerra",
+  "title": "Armas da Segunda Guerra",
+  "status": "full-read-auto-pass-1",
+  "pages": 7,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "armas-da-segunda-guerra-carabina-m-1-1",
+      "name": "CARABINA M-1",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "CARABINA M-1 Calibre: .30 M1 ou .30 Carbine Sistema de Operação: A gás, com ferrolho rotativo Regime de Fogo: Semi-Automático Peso: 2,7 kgs com carregador de 15 cartuchos Capacidade: 5,15 e 30 cartuchos Comprimento Total: 0,905m ROF: 3 Dano: 1d6 SUBMETRALHADORA M-3, \"GREASE GUN\" Calibre: .45 ACP Sistema de Operação: Blowback, ferrolho aberto Regime do Fogo:...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-calibre-45-acp-3",
+      "name": "Calibre: .45 ACP",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Calibre: .45 ACP Funcionamento: Semi-Automático Principio de Funcionamento: Blowback, ferrolho aberto Peso:1,106 kgs Capacidade: 7 cartuchos Comprimento Total: 21,6 cm Alcance Útil: 50 m ROF: 3 Dano: 1d6 REVOLVER SMITH & WESSON .45, MODELO 1917 Calibre: .45 ACP Auto Rim Funcionamento: ação dupla Peso: 2,26 kgs Capacidade: 6 cartuchos Comprimento Total: 27,43...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-metralhadora-bronwning-m-919-5",
+      "name": "METRALHADORA BRONWNING M-919",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "METRALHADORA BRONWNING M-919 Calibre: .30-06 (7, 62 x 63) Principoio de Funcionamento: Curto recuo do cano Funcionamento: Automático Peso:14,07 kgs Carregador : Tipo fita de lona Capacidade: 100 ou 250 cartuchos Comprimento Total: 1,036 m Cadência de Tiro: 250 tiros por minuto Alcance Útil: 540 m ROF: 5 Dano: 1d10 METRALHADORA BRONWNING M2 Calibre: .50 (12,7...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-granada-de-mao-mark-ii-6",
+      "name": "Granada de Mão Mark-II",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "Granada de Mão Mark-II A granada foi um elemento ofensivo e defensivo de extraordinária aplicação. Seu tremendo poder explosivo, ao lado da facilidade de transporte e simplicidade do manejo, fizeram dela uma das armas preferidas pela infantaria. Nas mãos de um soldado hábil podia destruir uma casamata ou demolir um reduto. A granada de mão norte americana, f...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-lanca-rojao-2-36-pol-m9a1-7",
+      "name": "LANÇA-ROJÃO 2.36 POL. M9A1",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "LANÇA-ROJÃO 2.36 POL. M9A1 Calibre: 2.36 pol. ou 60mm Funcionamento: Repetição Principio de funcionamento: Ação de uma corrente eletrica, sobre o rojão Peso: 6,800 kgs Comprimento Total: 1,55ms Alcance Útil: 270 mts Peso do Foguete: 1,53 kgs Fonte de Energia: Magneto colocado no punho Aparelho de Pontaria: Visor fixor, graduado de 0 a 600 jardas ROF: 1 Dano:...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source": "kits",
+  "title": "KITS",
+  "status": "full-read-auto-pass-1",
+  "pages": 11,
+  "primaryCategories": [
+    "item_equipment",
+    "attribute_skill",
+    "combat",
+    "adventure"
+  ],
+  "parts": [
+    {
+      "id": "kits-kits-para-1",
+      "name": "Kits para",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "Kits para Ação & Aventura by Renato Dantas",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-como-2",
+      "name": "Como",
+      "category": "attribute_skill",
+      "pages": [
+        2
+      ],
+      "summary": "Como o próprio título desse net-book indica, os kits aqui apresentados são destinados a campanhas de ação e aventura, tanto que mesmo os kits menos combativos e aventureiros, como o Antiquário e o Colecionador, possuem pelo menos Pontos Heróicos 2. A idéia de criar esses kits me veio por causa do tópico Ação e Aventura na pág. 216 do livro TREVAS, apesar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-um-agente-federal-faz-parte-da-3",
+      "name": "Um agente federal faz parte da",
+      "category": "item_equipment",
+      "pages": [
+        3
+      ],
+      "summary": "Um agente federal faz parte da polícia federal de seu país e investiga casos como espionagem, seqüestro, sabotagem, serial killers e falsificação. Às vezes são incumbidos de investigar casos “fora dos padrões”, como fenômenos paranormais, magia, ocultismo ou alienígenas. Custo: 3 pts. de Aprimoramento, 300 pts. de Perícia. Perícias: Armas de Fogo (Escolha 2...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-organizacao-4",
+      "name": "organização",
+      "category": "item_equipment",
+      "pages": [
+        4
+      ],
+      "summary": "organização dos achados arqueológicos, enquanto os especialistas em campo realizam o “trabalho sujo” (mais ou menos como o personagem Indiana Jones). Alguns arqueólogos são patrocinados por museus ou outras entidades governamentais, enquanto outros são beneficiados por colecionadores particulares. Custo: 3 pts. de Aprimoramento, 240 pts. de Perícia. Perícias...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-custo-4-pts-de-aprimoramento-5",
+      "name": "Custo: 4 pts. de Aprimoramento,",
+      "category": "item_equipment",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Custo: 4 pts. de Aprimoramento, 260 pts. de Perícia. Perícias: Armas Brancas (Escolha 2 Subgrupos 30/30), Ciências (Filosofia 30%), Esportes (Acrobacia 30%, Artes Marciais 50/50), Esquiva 40%, Furtividade 40%, Idiomas (Escolha um Subgrupo 30%). Aprimoramentos: Contatos e Aliados 3. Pontos Heróicos 4. Pontos de Magia: 0. Pontos de Fé: 0. Pontos Heróicos: 4 po...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-um-engenheiro-e-um-especialista-7",
+      "name": "Um engenheiro é um especialista",
+      "category": "attribute_skill",
+      "pages": [
+        7
+      ],
+      "summary": "Um engenheiro é um especialista em uma determinada área de tecnologia, transporte ou construção. Costuma trabalhar para o governo ou para grupos particulares e envolve-se em aventuras ao criar ou ter que lidar com novas armas, dispositivos ou substâncias. Custo: 4 pts. de Aprimoramento, 260 pts. de Perícia. Perícias: Armas Brancas (Escolha um Subgrupo 20/20)...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-regioes-mais-inospitas-e-perigosas-8",
+      "name": "regiões mais inóspitas e perigosas",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "regiões mais inóspitas e perigosas da Terra, explorando cavernas, templos antigos, pirâmides pré- colombianas ou enormes fortalezas descobertas na Arábia. Custo: 4 pts. de Aprimoramento, 300 pts. de Perícia. Perícias: Armadilhas 30%, Armas Brancas (Escolha um Subgrupo 20/20), Armas de Fogo (Escolha 2 Subgrupos 30/0), Artes (Fotografia 30%), Camuflagem 30%, C...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-aprimoramentos-armas-de-fogo-9",
+      "name": "Aprimoramentos: Armas de Fogo",
+      "category": "attribute_skill",
+      "pages": [
+        9
+      ],
+      "summary": "Aprimoramentos: Armas de Fogo 1. Contatos e Aliados 3. Pontos Heróicos 3. Pontos de Magia: 0. Pontos de Fé: 0. Pontos Heróicos: 3 por nível. Jornalista Um jornalista envolve-se em aventuras através de reportagens sobre assassinatos, mistérios ou fatos inexplicáveis. Pode ser enviado para locais distantes e obscuros em busca de uma nova reportagem. Custo: 3 p...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-pontos-heroicos-3-por-nivel-10",
+      "name": "Pontos Heróicos: 3 por nível.",
+      "category": "item_equipment",
+      "pages": [
+        10
+      ],
+      "summary": "Pontos Heróicos: 3 por nível. Médico É o profissional especializado em cuidar da saúde das pessoas. Trata-se de uma profissão muito respeitada pelas pessoas e que garante um razoável padrão de vida. O médico pode envolver-se em aventuras ao examinar doenças estranhas em seus pacientes. Custo: 3 pts. de Aprimoramento, 260 pts. de Perícia. Perícias: Armas Bran...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-aprimoramentos-armas-de-fogo-11",
+      "name": "Aprimoramentos: Armas de Fogo",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "Aprimoramentos: Armas de Fogo 1. Contatos e Aliados 2. Pontos Heróicos 2. Pontos de Magia: 0. Pontos de Fé: 0. Pontos Heróicos: 2 por nível. Soldado É um profissional militar que atua no exercito oficial de uma nação. O soldado recebe treinamento para combate e resgates sob uma rígida disciplina marcial. Entra em ação apenas quando seu país está envolvido em...",
+      "entityRefs": []
+    }
+  ]
+}

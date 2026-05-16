@@ -1,0 +1,155 @@
+{
+  "source": "varna-chamado-da-guerra",
+  "title": "Varna - Chamado da Guerra",
+  "status": "full-read-auto-pass-1",
+  "pages": 38,
+  "primaryCategories": [
+    "kit_class",
+    "character_option",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "varna-chamado-da-guerra-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-www-daemon-com-br-2",
+      "name": "www.daemon.com.br",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "www.daemon.com.br fone/fax: (11) 5539-1122 São Paulo - SP",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-varna-chamado-da-guerra-3",
+      "name": "Varna: Chamado da Guerra",
+      "category": "character_option",
+      "pages": [
+        3
+      ],
+      "summary": "Varna: Chamado da Guerra Criação: Aguirre Chaves, Giltônio Santos, Paulo Biét, Rafael Barbi, Rafael Rocha, Richard Garrell, “Tiago Marinho Nustrações e concepção visual: Glauco Nobre, Ig Barros, Paulo Henrique, Leonardo Bracarense, Rafael Rocha, Frederico Quintão Edição: Rafael Barbi e Daemon Editora Diagramação e Layout por: Leonardo Bracarense Conversão pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-5-ss-ea-e-4",
+      "name": "5: ss EA Ê",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          10
+        ]
+      ],
+      "summary": "5: ss EA Ê Os estudiosos documentam lendas sobre um lugar peculiar, certamente derivadas de delírios de viajantes. Um vale imenso, similar a uma cratera, encravado em inóspitas montanhas. Dentro dele há terra fértil, e um caudaloso rio que brota de muitas nascentes e escorre para dentro da terra. Contam sobre esse Ingar coisas ainda mais estranhas. Dizem que...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-da-a-11",
+      "name": "da a",
+      "category": "item_equipment",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "summary": "da a A Esposa de Cyndar é a deusa da batalha hontada, da morte, dos mortos e da cura (por decidir o momento dos guerreiros adentrarem em seus salões). É representada como uma guerreira vestindo uma armadura, acompanhada por dois cães negros e portando uma espada longa. É denominada a Senhora das Terras e Salões dos Mortos, e sua arma favorita é a espada long...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-aeilibeiro-furioso-15",
+      "name": "aeilibéiro Furioso",
+      "category": "power_magic",
+      "pages": [
+        [
+          15,
+          21
+        ]
+      ],
+      "summary": "aeilibéiro Furioso Nascidos no calor da frente de batalha Cyndar após anos de violentos combates contra as outras raças, os feiticeiros furiosos servem apenas ao propósito que os originou: a guerra. Aliando suas habilidades mágicas naturais com a fúria destrutiva dos bárbaros, os feiticeiros furiosos são, ao mesmo tempo, alguns dos heróis mais temidos e mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-fi-so-22",
+      "name": "fi So",
+      "category": "power_magic",
+      "pages": [
+        [
+          22,
+          27
+        ]
+      ],
+      "summary": "fi So il Uenê a BN 6 Varna é um lugar como nenhum outro. Em mens estudos a respeito de sua geografia única e peculiar, pude observar o estranho comportamento do vale em relação ao terreno que o cerca. De alguma maneira é como se Varna pertencesse e não pertencesse ao mundo. Minha teoria é a de que o vale funciona como uma espécie de enclave planar dentro das...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-deo-28",
+      "name": "deo-",
+      "category": "combat",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "summary": "deo- Celestial (Grande) Dados de Vida: 8d8+32 (68 PV) Iniciativa: +2 Deslocamento: 12m (8 quadrados) Classe de Armadura: 18 (-1 tamanho, +5 Des, +4 natu- ral), toque 11, surpresa 13. Ataque Base/Agarrar: +6/+17 Ataque: corpo a corpo: garra +13 (dano: 1d6+7) Ataque Total: corpo a corpo: 2 garras +13 (dano: 1d6+7) e mordida (1d8+3) Espaço/Alcance: 3 m/1,5 m At...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-uetivadteis-v4e-ceu-gracaas-30",
+      "name": "\" UETIVADTEIS V4E CEU gracaas",
+      "category": "combat",
+      "pages": [
+        [
+          30,
+          34
+        ]
+      ],
+      "summary": "\" UETIVADTEIS V4E CEU gracaas k PA RI AM E o | SEIS] “ A NS é ft SEM Ataque: corpo a corpo: Corrente com Cravos +5 (dano: 2d4 +2, dec, x2) Ataque Total: corpo a corpo: Corrente com Cravos +5 (dano: 2d4 +2, dec. x2) Espaço/Alcance: 1,5m/1,5m Ataques Especiais: Habilidades similares a magia. Qualidades Especiais: Resistência a Magia 15 Testes de Resistência: F...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-magias-35",
+      "name": "Magias,",
+      "category": "creature_npc",
+      "pages": [
+        [
+          35,
+          36
+        ]
+      ],
+      "summary": "Magias, e tonta de pão “tens Mágicos Vobuíiie à. Askanun (Modulo Basigo Um dos mais antigos, conhecidos e conceituados RPGs do Brasil, Arkanun é ambientado em uma Idade Média sombria e ameaçadora, enquanto a Peste Negra assolava a Europa, onde a Inquisição perseguia e condenava à fogueira qualquer manifestação de atos demonfacos como bruxas, magos ou filhos...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-nome-data-de-nascimento-37",
+      "name": "Nome Data de Nascimento",
+      "category": "attribute_skill",
+      "pages": [
+        37
+      ],
+      "summary": "Nome Data de Nascimento Local de Nascimento Sexo Altura Peso Classe Social / Profissão Nível Idade: Aparente Real diomas Religião É ATRIBUTOS Vaer/Moo/ % Fá R Constituição (CON) (Sa À ias as ' Força (FR) Destreza (DEX) MAGIA Agilidade (AGI) Inteligência (INT) Força de Vontade (WILL) Percepção (PER) Carisma (CAR) IP PEríCIAS gs o DS ão, PS Do O Da É ARMADURA:...",
+      "entityRefs": []
+    },
+    {
+      "id": "varna-chamado-da-guerra-isbn-85-87013-52-1-38",
+      "name": "ISBN 85-87013-52-1",
+      "category": "source",
+      "pages": [
+        38
+      ],
+      "summary": "ISBN 85-87013-52-1 8858",
+      "entityRefs": []
+    }
+  ]
+}

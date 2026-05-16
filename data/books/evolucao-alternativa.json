@@ -1,0 +1,109 @@
+{
+  "source": "evolucao-alternativa",
+  "title": "Evolução Alternativa",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "evolucao-alternativa-evolucao-alternativa-1",
+      "name": "Evolução Alternativa",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Evolução Alternativa Anderson Anúbis Evolução Alternativa Agradecimentos Em primeiro lugar a Deus, pela vida. A meus pais, pelo conjunto da obra. A galera da Daemon, pelo sistema. A meu grupo de jogo. - Digo o paladino inusitado. - Junior, domador de regras. - Fabio, o nórdico. - Celso, o lobo negro. - Claudia, raposas, raposas e mais raposas. Ao grande mest...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-evolucao-alternativa-3",
+      "name": "EVOLUÇÃO ALTERNATIVA",
+      "category": "core_rule",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "EVOLUÇÃO ALTERNATIVA Originalmente no sistema Daemon, o tipo de campanha é o fator que determina o potencial inicial de um personagem. Em campanhas épicas um personagem inicial equivale a um personagem de alto nível de uma campanha mais realista. Porém essa distinção só é feita no momento da criação do personagem, pois segundo as regras os benefícios que os...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-atributos-5",
+      "name": "ATRIBUTOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "ATRIBUTOS Com a utilização dos pontos de evolução, se abre um novo leque quanto à evolução dos parâmetros do personagem, pois um personagem sem acesso a magia possui apenas três parâmetros iniciais que pode evoluir, sendo eles suas perícias, seus pontos de vida e seus atributos. Os atributos de um personagem são em síntese, um meio utilizado pelo sistema par...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-treino-7",
+      "name": "TREINO",
+      "category": "core_rule",
+      "pages": [
+        7
+      ],
+      "summary": "TREINO Como parte da evolução do personagem, um personagem pode se valer de treinamento para aprimorar suas características. Quando inicia uma seção de treinamento o personagem deve se concentrar e se dedicar exclusivamente ao treinamento, um personagem pode treinar por tem período igual a sua CON :5 em horas. A cada hora de treino, o personagem realiza um t...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-aprimoramento-mestre-8",
+      "name": "Aprimoramento: Mestre",
+      "category": "character_option",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Aprimoramento: Mestre “Que os ensinamentos de um mestre sejam gravados na alma do discípulo, servindo a esse como caminho para o seu crescimento.” Existem casos onde um personagem foi treinado por uma grande personalidade, seja ela um herói ou sábio, cujos seus ensinamentos perduram durante toda a vida do personagem. E mesmo após o personagem se desligar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-investindo-os-pontos-de-treino-10",
+      "name": "INVESTINDO OS PONTOS DE TREINO",
+      "category": "attribute_skill",
+      "pages": [
+        10
+      ],
+      "summary": "INVESTINDO OS PONTOS DE TREINO Através do acumulo de pontos de treino é possível aprimorar as características do personagem. Para tal desenvolvi um sistema de custo diferenciado que se baseia no cruzamento do potencial de aprendizado do personagem e em sua aptidão básica. O potencial de aprendizagem do personagem é baseado em sua idade (coluna vertical), qua...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-atributo-base-11",
+      "name": "ATRIBUTO BASE",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50 55 60 65 70 45 40 45 50 55 60 65 70 75 IDADE 50 45 50 55 60 65 70 75 80 Custo em Pontos de Treino de...",
+      "entityRefs": []
+    },
+    {
+      "id": "evolucao-alternativa-proximos-trabalhos-13",
+      "name": "PRÓXIMOS TRABALHOS",
+      "category": "core_rule",
+      "pages": [
+        13
+      ],
+      "summary": "PRÓXIMOS TRABALHOS Gerador de Criaturas 2 Edição Livros da Magia Livro das Técnicas Daemon GR",
+      "entityRefs": []
+    }
+  ]
+}

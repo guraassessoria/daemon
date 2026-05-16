@@ -1,0 +1,113 @@
+{
+  "source": "anime-rpg-powers",
+  "title": "Anime RPG - Powers",
+  "status": "full-read-pass-1",
+  "pages": 45,
+  "primaryCategories": ["character_option", "power_magic", "core_rule", "item_equipment", "setting_lore", "table_generator"],
+  "parts": [
+    {
+      "id": "powers-front-matter",
+      "name": "Capa, creditos e indice",
+      "category": "source",
+      "pages": [[1, 3]],
+      "summary": "Capa, titulo, creditos, agradecimentos, aviso etario, contato e indice.",
+      "entityRefs": []
+    },
+    {
+      "id": "powers-introducao",
+      "name": "Introducao",
+      "category": "source",
+      "pages": [4],
+      "summary": "Apresenta o suplemento como complemento de DAEMON SUPERS, com regras rapidas para construir super-herois, poderes e aprimoramentos.",
+      "entityRefs": ["daemon-powers"]
+    },
+    {
+      "id": "powers-avante",
+      "name": "Avante",
+      "category": "source",
+      "pages": [5],
+      "summary": "Pagina de transicao/abertura da secao seguinte, com pouco texto extraido.",
+      "entityRefs": []
+    },
+    {
+      "id": "powers-eras-heroicas",
+      "name": "Eras Heroicas",
+      "category": "setting_lore",
+      "pages": [6],
+      "summary": "Discute eras de super-herois e tons de campanha como Era de Ouro, Prata, Bronze e Ferro.",
+      "entityRefs": ["eras-heroicas"]
+    },
+    {
+      "id": "powers-natureza-regras-ideias",
+      "name": "Natureza dos Superpoderes, regra opcional e ideias",
+      "category": "core_rule",
+      "pages": [[7, 8]],
+      "summary": "Explica origens/naturezas de poderes, regra opcional sem custo de WILL, aprimoramentos obrigatorios/negativos e ideias de aventuras como guerra civil, crise de realidades, invasao alien e autoridade.",
+      "entityRefs": ["natureza-dos-superpoderes", "regra-opcional-sem-custo", "ideias-de-aventuras-supers"]
+    },
+    {
+      "id": "powers-aprimoramentos-gerais",
+      "name": "Aprimoramentos Gerais",
+      "category": "character_option",
+      "pages": [[9, 12]],
+      "summary": "Aprimoramentos gerais para supers, incluindo Deflexao, Superpoderes, Equipamento, Modificacao de Poder, Forma Alternativa, Jumper, Paradoxo Temporal, Pontos Heroicos, Hospedeiro de ser cosmico, Supermessias, Clone da Lenda, Vida Extra, Objeto de Poder, Supervilao aspirante, Envelhecimento Precoce e Ma Reputacao Galactica.",
+      "entityRefs": ["aprimoramentos-gerais-supers", "deflexao", "forma-alternativa", "jumper", "pontos-heroicos"]
+    },
+    {
+      "id": "powers-aprimoramentos-conceituais",
+      "name": "Aprimoramentos Conceituais",
+      "category": "character_option",
+      "pages": [[12, 17]],
+      "summary": "Aprimoramentos conceituais e arquétipos de super-herois, como Heroi Aracnideo, Heroi HighTech, Bruto Insano, Velocista, Mimico, HiperCientista, Mago, Mestre da Luta, Blaster, Selvagem, Demonio Heroi, Detetive do Sobrenatural, Necromante, Feiticeiro Vodu e Policial Galactico.",
+      "entityRefs": ["aprimoramentos-conceituais-supers", "heroi-hightech", "velocista", "mimico", "hipercientista", "mago-supers", "necromante-supers"]
+    },
+    {
+      "id": "powers-aprimoramentos-raciais",
+      "name": "Aprimoramentos Raciais",
+      "category": "race_lineage",
+      "pages": [[17, 24]],
+      "summary": "Aprimoramentos raciais e linhagens para campanhas Supers, incluindo Demonio, Olimpiano, Aesir, Lobisomem, Imortal, Golem, Fantasma, Sprite, Leshy, Elfo, Revenante, Sereia, Robo, Atlante, Moreau, Teratwakiano, Celereano, Hermerita e Transhumano.",
+      "entityRefs": ["aprimoramentos-raciais-supers"]
+    },
+    {
+      "id": "powers-supers-sobrenatural",
+      "name": "Supers com Sobrenatural",
+      "category": "power_magic",
+      "pages": [[25, 30]],
+      "summary": "Regras e ideias para misturar Supers com sobrenatural, mundos misticos, historia sobrenatural, temas, magia em SUPERS, modificacoes de poder, artefatos miticos, regeneracao vampirica e formas de vampiro/lobisomem.",
+      "entityRefs": ["supers-com-sobrenatural", "magia-em-supers", "mjolnir", "espada-de-nuada", "dyrnwyn", "anel-de-eluned", "tomo-negro-de-demogorge", "regeneracao-vampirica"]
+    },
+    {
+      "id": "powers-sci-fi",
+      "name": "Sci-Fi",
+      "category": "setting_lore",
+      "pages": [[31, 39]],
+      "summary": "Secao de ficcao cientifica com futuro, transhumanismo, implantes, planetas, naves, classes de naves, ambientes de nave, regras para naves, governos galacticos, alienigenas, pirataria, equipamentos futuristas, armaduras, veiculos, medicina, sobrevivencia, comunicacao, robotica e psitecnologia.",
+      "entityRefs": ["sci-fi-supers", "naves-supers", "equipamentos-futuristas", "robotica-supers", "psitecnologia"]
+    },
+    {
+      "id": "powers-academias",
+      "name": "Academias de super-herois",
+      "category": "setting_lore",
+      "pages": [[40, 41]],
+      "summary": "Regras e elementos para academias de super-herois, aulas, materias, grupos sociais, professores, punicoes, paqueras e atividades escolares.",
+      "entityRefs": ["academias-de-super-herois"]
+    },
+    {
+      "id": "powers-tabelas",
+      "name": "Tabelas de atributos e armas",
+      "category": "table_generator",
+      "pages": [[42, 43]],
+      "summary": "Tabelas de valores de atributos, carga, bonus, IP natural, velocidade e lista de armas com dano, penalidade, ROF, pente e observacoes.",
+      "entityRefs": ["tabela-de-atributos-supers", "tabela-de-armas-supers"]
+    },
+    {
+      "id": "powers-back-matter",
+      "name": "Paginas finais",
+      "category": "source",
+      "pages": [[44, 45]],
+      "summary": "Paginas finais sem texto extraido relevante.",
+      "entityRefs": []
+    }
+  ]
+}

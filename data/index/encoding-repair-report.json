@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "archonan",
+      "status": "written",
+      "charsBefore": 32817,
+      "charsAfter": 16180,
+      "weirdBefore": 17275,
+      "weirdAfter": 0,
+      "methods": {
+        "shift29": 486,
+        "controls": 1474,
+        "unchanged": 539,
+        "marker": 8
+      }
+    },
+    {
+      "id": "armasmagicas",
+      "status": "written",
+      "charsBefore": 12595,
+      "charsAfter": 11570,
+      "weirdBefore": 1125,
+      "weirdAfter": 0,
+      "methods": {
+        "shift29": 23,
+        "controls": 187,
+        "unchanged": 537,
+        "marker": 3
+      }
+    },
+    {
+      "id": "jiraya",
+      "status": "written",
+      "charsBefore": 17902,
+      "charsAfter": 14911,
+      "weirdBefore": 4302,
+      "weirdAfter": 0,
+      "methods": {
+        "shift29": 320,
+        "controls": 137,
+        "unchanged": 78,
+        "marker": 7
+      }
+    },
+    {
+      "id": "marvel",
+      "status": "written",
+      "charsBefore": 513413,
+      "charsAfter": 492908,
+      "weirdBefore": 24784,
+      "weirdAfter": 12,
+      "methods": {
+        "shift29": 81,
+        "controls": 5860,
+        "unchanged": 11246,
+        "marker": 158
+      }
+    },
+    {
+      "id": "naruto",
+      "status": "written",
+      "charsBefore": 51381,
+      "charsAfter": 50901,
+      "weirdBefore": 520,
+      "weirdAfter": 10,
+      "methods": {
+        "shift29": 10,
+        "controls": 148,
+        "unchanged": 1971,
+        "marker": 24
+      }
+    }
+  ]
+}

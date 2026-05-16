@@ -1,0 +1,53 @@
+{
+  "source": "fadas-3-edicao",
+  "title": "Fadas 3 edição",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 24,
+  "primaryCategories": [
+    "power_magic",
+    "item_equipment",
+    "combat",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "fadas-3-edicao-netbook-fadas-3-edicao-1-1",
+      "name": "Netbook Fadas 3 Edição (1-10)",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "Netbook Fadas 3 Edição Nessa nova versão do Netbook, serão descritas 4 fadas do elemento secundário, e a fada artesã uma especialista em criação de itens mágicos de enorme poder, novos aprimoramentos, e errata de poderes e habilidades da versão anterior. Autor: Natália Souza Santos Agradecimentos: Daemon editora e todos os jogadores que gostam das fadas ^^ 2...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadas-3-edicao-netbook-fadas-3-edicao-1-2",
+      "name": "Netbook Fadas 3 Edição (11-20)",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 Talento Nato 1 Ponto Todo vez que a fada comprar um aprimoramento “Talento” pode comprar esse aprimoramento que garantirá sucesso automático em qualquer teste desse talento. OBS: requer pelo menos 50% na perícia. Varinha Mágica 8 Pontos A Fada aprende a criar uma varinha mágica, a qual amplia seus poderes drasticamente. A Varinha concede a Fada imunidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadas-3-edicao-netbook-fadas-3-edicao-1-3",
+      "name": "Netbook Fadas 3 Edição (21-24)",
+      "category": "combat",
+      "pages": [
+        [
+          21,
+          24
+        ]
+      ],
+      "summary": "21 Fada da Terra Zona Faérica A força do campo magnético começa com uma força = 6 Força e aumenta +6 de Força a cada rodada com limite Maximo de idade*5 de Força. Terremoto A fada da terra pode criar terremotos de escala 1 até 9. A força do terremoto aumenta 1 de escala a cada 10 rodadas. Controle Gravitacional Pode alterar a força gravitacional de astros lo...",
+      "entityRefs": []
+    }
+  ]
+}

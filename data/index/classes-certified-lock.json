@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "area": "classes",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_class_claims_do_not_enter_classes": true,
+    "certified_kits_and_aprimoramentos_are_not_reclassified_as_classes": true
+  },
+  "certifiedCount": 20,
+  "rejectedCount": 0,
+  "records": [
+    {
+      "id": "classe-gerador-de-criaturas-mestre-das-feras",
+      "source": "gerador-de-criaturas",
+      "name": "Mestre das Feras",
+      "nameKey": "mestre-das-feras",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:gerador-de-criaturas:mestre-das-feras"
+    },
+    {
+      "id": "classe-gerador-de-criaturas-cacador",
+      "source": "gerador-de-criaturas",
+      "name": "Caçador",
+      "nameKey": "cacador",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:gerador-de-criaturas:cacador"
+    },
+    {
+      "id": "classe-gerador-de-criaturas-convocador",
+      "source": "gerador-de-criaturas",
+      "name": "Convocador",
+      "nameKey": "convocador",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:gerador-de-criaturas:convocador"
+    },
+    {
+      "id": "classe-gerador-de-criaturas-imitador",
+      "source": "gerador-de-criaturas",
+      "name": "Imitador",
+      "nameKey": "imitador",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:gerador-de-criaturas:imitador"
+    },
+    {
+      "id": "classe-gerador-de-criaturas-mestre-da-transformacao",
+      "source": "gerador-de-criaturas",
+      "name": "Mestre da Transformação",
+      "nameKey": "mestre-da-transformacao",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:gerador-de-criaturas:mestre-da-transformacao"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-astrogeologo",
+      "source": "abismo-infinito-quick-start",
+      "name": "Astrogeólogo",
+      "nameKey": "astrogeologo",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:astrogeologo"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-engenheiro",
+      "source": "abismo-infinito-quick-start",
+      "name": "Engenheiro",
+      "nameKey": "engenheiro",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:engenheiro"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-cosmologo",
+      "source": "abismo-infinito-quick-start",
+      "name": "Cosmólogo",
+      "nameKey": "cosmologo",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:cosmologo"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-criptologo",
+      "source": "abismo-infinito-quick-start",
+      "name": "Criptólogo",
+      "nameKey": "criptologo",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:criptologo"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-navegador",
+      "source": "abismo-infinito-quick-start",
+      "name": "Navegador",
+      "nameKey": "navegador",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:navegador"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-exobiologo",
+      "source": "abismo-infinito-quick-start",
+      "name": "Exobiólogo",
+      "nameKey": "exobiologo",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:exobiologo"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-medico",
+      "source": "abismo-infinito-quick-start",
+      "name": "Médico",
+      "nameKey": "medico",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:medico"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-psicologo",
+      "source": "abismo-infinito-quick-start",
+      "name": "Psicólogo",
+      "nameKey": "psicologo",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:psicologo"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-seguranca",
+      "source": "abismo-infinito-quick-start",
+      "name": "Segurança",
+      "nameKey": "seguranca",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:seguranca"
+    },
+    {
+      "id": "classe-abismo-infinito-quick-start-videomaker",
+      "source": "abismo-infinito-quick-start",
+      "name": "Videomaker",
+      "nameKey": "videomaker",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:abismo-infinito-quick-start:videomaker"
+    },
+    {
+      "id": "classe-demonios-a-divina-comedia-exorcista-de-roma",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Roma",
+      "nameKey": "exorcista-de-roma",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-roma"
+    },
+    {
+      "id": "classe-demonios-a-divina-comedia-exorcista-de-espanhol",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Espanhol",
+      "nameKey": "exorcista-de-espanhol",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-espanhol"
+    },
+    {
+      "id": "classe-demonios-a-divina-comedia-exorcista-de-constantinopla",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Constantinopla",
+      "nameKey": "exorcista-de-constantinopla",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-constantinopla"
+    },
+    {
+      "id": "classe-monges-daemon-monge",
+      "source": "monges-daemon",
+      "name": "Monge",
+      "nameKey": "monge",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:monges-daemon:monge"
+    },
+    {
+      "id": "classe-fadas-3-edicao-a-lendaria-fada-da-morte",
+      "source": "fadas-3-edicao",
+      "name": "A Lendária Fada da Morte",
+      "nameKey": "a-lendaria-fada-da-morte",
+      "category": "character_class",
+      "subtype": "class",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:fadas-3-edicao:a-lendaria-fada-da-morte"
+    }
+  ]
+}

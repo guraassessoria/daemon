@@ -1,0 +1,27 @@
+{
+  "source": "armadura-magica-de-ataque",
+  "title": "Armadura Mágica de Ataque",
+  "status": "full-read-auto-pass-1",
+  "pages": 5,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "armadura-magica-de-ataque-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "summary": "1 2 Ninguém nega que grande parte dos jogadores e mestres de RPG foram fissurados por Seiya e companhia. Então, que tal relembrar os velhos tempos e incluir em seu personagem uma daquelas armaduras poderosas e que trazem consigo uma série de golpes característicos e que seguem uma constelação, uma fi- gura mitológica, ou mesmo um deus? É verdade, agora você...",
+      "entityRefs": []
+    }
+  ]
+}

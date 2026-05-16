@@ -1,0 +1,27 @@
+{
+  "source": "samurai-x",
+  "title": "Samurai X",
+  "status": "full-read-auto-pass-1",
+  "pages": 11,
+  "primaryCategories": [
+    "attribute_skill",
+    "kit_class",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "samurai-x-rurouni-kenshin-1",
+      "name": "Rurouni Kenshin",
+      "category": "kit_class",
+      "pages": [
+        [
+          1,
+          11
+        ]
+      ],
+      "summary": "Rurouni Kenshin 1 Capitulo I – Introdução Do Shogunato para a Restauração Meiji O Shogunato foi um período na história japonesa que pode ser comparado ao feudalismo europeu. Os Shoguns eram grandes generais, que durante muito tempo conseguiram manter, à rédeas firmes e muitas disputas, seu poder assegurado. Eram em geral protegidos pelos valorosos samurais,...",
+      "entityRefs": []
+    }
+  ]
+}

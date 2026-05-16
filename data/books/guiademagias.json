@@ -1,0 +1,128 @@
+{
+  "source": "guiademagias",
+  "title": "guiademagias",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 71,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "core_rule",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "guiademagias-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "2 Introdução Neste arquivo vão constar algumas magias novas desenvolvidas especialmente para o cenário de Arton, o mundo de fantasia medieval da Dragão Brasil. A principal razão para a criação de um projeto como este é diversificar as opções e utilidades possíveis para o uso da mágica. Com o surgimento de novos tipos de magos e clérigos a partir de textos of...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-indice-de-magias-3",
+      "name": "ÍNDICE DE MAGIAS",
+      "category": "race_lineage",
+      "pages": [
+        3
+      ],
+      "summary": "3 ÍNDICE DE MAGIAS Abrigo de Lena Acelerar Criaturas Além-Audição Além-Visão Alteração de Magia Alteração Vocal Alucinação Amor Incondicional de Marah Ampliar Proteção Arma Aleatória de Nimb, A Arma Fiel Arma Penetrante Arma Poderosa Arma Vampírica Arma Veloz Arsenal de Megalokk Ataque Mágico Perseguidor Aura Anti-Mágica Aura de Reflexão Atrair o Sucesso (ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-1",
+      "name": "LISTA DE MAGIAS (4-13)",
+      "category": "core_rule",
+      "pages": [
+        [
+          4,
+          13
+        ]
+      ],
+      "summary": "3 LISTA DE MAGIAS Abrigo de Lena 3D&T: Ar 4, Luz 4, Clericato Daemon: Entender Metamagia 6, Pontos de Fé Custo: Padrão Duração: Permanente até ser cancelada Alcance: Apenas ao toque Os locais encantados por estas magia são assiduamente freqüentados em situações de guerra, assim como em regiões assoladas por epidemias. Como efeitos práticos, toda criatura alo...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-2",
+      "name": "LISTA DE MAGIAS (14-23)",
+      "category": "combat",
+      "pages": [
+        [
+          14,
+          23
+        ]
+      ],
+      "summary": "12 desorientados. Caso falhem em um teste de Resistência/WILL, seus reflexos começam a ficar mais lentos, seu raciocínio torna-se confuso, seu corpo não reage direito às suas ordens e ficam incapazes de realizar qualquer ação efetiva. Após a realização da magia, o jogador que controla o mago deve jogar o d6 para determinar o resultado exato do Caos Mental em...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-3",
+      "name": "LISTA DE MAGIAS (24-33)",
+      "category": "core_rule",
+      "pages": [
+        [
+          24,
+          33
+        ]
+      ],
+      "summary": "22 Criar Área de Magia Caótica 3D&T: Água 5, Trevas 5 Daemon: Controlar Metamagia 8 Custo: Padrão Duração: Sustentável Alcance: Padrão Este é uma mágica conhecida por pouquíssimos magos de Wynlla. Através de vários estudos e experiências, eles conseguiram reproduzir os efeitos das áreas de magia caótica, embora com intensidade bem menor. Com este feitiço, to...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-4",
+      "name": "LISTA DE MAGIAS (34-43)",
+      "category": "core_rule",
+      "pages": [
+        [
+          34,
+          43
+        ]
+      ],
+      "summary": "32 os pontos perdidos com a invocação desta mágica. A Flecha Certeira de Glórienn 3D&T: Focus 3, Clericato Daemon: Criar/Controlar Luz/Metamagia 3, Pontos de Fé Custo: Padrão Duração: Sustantável Alcance: Apenas o mago Assim como a Espada dos Justos é uma magia dedicada apenas aos mais devotados servos de Khalmyr, a Flecha Certeira de Glórienn também é ensin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-5",
+      "name": "LISTA DE MAGIAS (44-53)",
+      "category": "combat",
+      "pages": [
+        [
+          44,
+          53
+        ]
+      ],
+      "summary": "42 submetidos a um redutor cumulativo de -1/- 10%. Se a vítima for morta por estas gosmas, ela se transformará em um outro limo verde em 2d6 rodadas. Focus 2: Geléia Ocre (F2, H0, R4, A0, PdF0 ou FR 3d, CON 5d, DEX 1d, AGI 1d, INT 0, WILL 1d, PER 1d, CAR 0, IP 1). Possui Armadura Extra contra ataques elétricos — quando afetada por um ataque desta natureza, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-6",
+      "name": "LISTA DE MAGIAS (54-63)",
+      "category": "power_magic",
+      "pages": [
+        [
+          54,
+          63
+        ]
+      ],
+      "summary": "52 furiosa, ela resolveu criar uma maneira radical de discipliná-lo. A forma que ela encontrou para isto foi lançar um encanto sobre Proud. Com este feitiço, o espadachim só teria olhos para a encantora, e nenhuma outra mulher mais. A magia deu certo. Proud não se desgrudou mais de Isolda e passou a ignorar todas as outras mulheres que via pela frente. Contu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guiademagias-lista-de-magias-4-7",
+      "name": "LISTA DE MAGIAS (64-71)",
+      "category": "core_rule",
+      "pages": [
+        [
+          64,
+          71
+        ]
+      ],
+      "summary": "62 feitiço para mantê-lo seguro contra a ação de invasores cobiçosos pelas riquezas lá contidas. Quem se atrever a entrar em tais lugares e não possuir algum tipo de proteção ou imunidade mágica contra o frio morrerá em instantes. Com o Sopro Congelante de Beluhga, o mago é capaz de criar uma forte nevasca em uma área circular com 25 m de diâmetro. Quem esti...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "equip",
+  "title": "equip",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "item_equipment",
+    "combat",
+    "attribute_skill",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "equip-roupas-1",
+      "name": "Roupas",
+      "category": "item_equipment",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "6 8 Este capítulo contém os preços em Florins para di- versos itens que os Personagens podem precisar. As duas colunas são os preços máximo e mínimo sugeridos, mas o Mestre pode alterar esses valores como achar melhor. Roupas Botas de cavalgar 25 35 Botas de passeio 9 12 Calças 3 3,50 Camisa 1,50 2,50 Capa luxuosa 200 1.000 Capa simples 7 10 Chapéu 0,85 1,05...",
+      "entityRefs": []
+    }
+  ]
+}

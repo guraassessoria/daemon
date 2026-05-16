@@ -1,0 +1,24 @@
+{
+  "source": "masmorra-goblin",
+  "title": "Masmorra  Goblin",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "power_magic",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "masmorra-goblin-masmorra-goblin-1",
+      "name": "Masmorra Goblin",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Masmorra Goblin Os Números Indicam onde são encontrados baús com tesouros que foram saqueados durante anos (role 1D6 para definir quantos baús e o tipo de tesouro encontrado, mas os Goblins não são burros e fizeram algumas armadilhas no lugar dos tesouros), o lugar é vigiado por cerca de 1D6+1 Goblins que farão o possível para proteger os seus tezouros, mas...",
+      "entityRefs": []
+    }
+  ]
+}

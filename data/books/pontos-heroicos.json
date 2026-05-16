@@ -1,0 +1,37 @@
+{
+  "source": "pontos-heroicos",
+  "title": "Pontos Heróicos",
+  "status": "full-read-auto-pass-1",
+  "pages": 3,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "pontos-heroicos-pontos-heroicos-1",
+      "name": "PONTOS HERÓICOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "PONTOS HERÓICOS Pontos heróicos, funcionam como uma medida abstrata de heroísmo. Não são exatamente pontos de vida extras, mas funcionam na maioria dos casos como tal. São uma espécie de \"aura heróica\" ou \"sorte\" que protege o corpo do Personagem de dano quando executa atos de herói. Atos como: pular de um prédio para outro, ser arrastado por um cavalo, leva...",
+      "entityRefs": []
+    },
+    {
+      "id": "pontos-heroicos-esforcos-heroicos-3",
+      "name": "ESFORÇOS HERÓICOS",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "11 ESFORÇOS HERÓICOS Ataque extra Custo: 2 PHs Efeito: O Personagem recebe a capacidade de realizar UM ataque extra nessa rodada, seguindo as regras para múltiplos ataques. Acerto automático - ataque Custo: 1 PH para cada 3 níveis do defensor Efeito: O Personagem acerta um ataque, sem necessidade de teste. Não é válido para o esforço \"ataque extra\". Acerto a...",
+      "entityRefs": []
+    }
+  ]
+}

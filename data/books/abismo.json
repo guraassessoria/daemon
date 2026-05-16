@@ -1,0 +1,97 @@
+{
+  "source": "abismo",
+  "title": "Abismo",
+  "status": "full-read-pass-1",
+  "pages": 200,
+  "primaryCategories": ["setting_lore", "creature_npc", "power_magic", "kit_class", "adventure", "core_rule"],
+  "parts": [
+    {
+      "id": "abismo-front-matter",
+      "name": "Capa, avisos, creditos e sumario",
+      "category": "source",
+      "pages": [[1, 8]],
+      "summary": "Capa, autoria, avisos de ficcao, creditos, agradecimentos e sumario completo do livro.",
+      "entityRefs": []
+    },
+    {
+      "id": "abismo-introducao",
+      "name": "Introducao",
+      "category": "source",
+      "pages": [9],
+      "summary": "Apresenta Abismo como livro de antagonistas e horrores para o Mundo de Trevas, com orientacao de uso para mestres.",
+      "entityRefs": ["abismo-livro"]
+    },
+    {
+      "id": "abismo-origem-das-trevas",
+      "name": "Capitulo I: Origem das Trevas",
+      "category": "setting_lore",
+      "pages": [[10, 22]],
+      "summary": "Cosmologia da Roda dos Mundos, Tenebras, primeira travessia, Infernun, planos de Shaitan, destruicao do tirano, Abismo, Ark-a-nun, ordens de magia e passagem das trevas pela historia humana.",
+      "entityRefs": ["tenebras", "infernun", "shaitan", "abismo-plano", "ark-a-nun", "terra-no-abismo"]
+    },
+    {
+      "id": "abismo-geografia",
+      "name": "Capitulo II: O Abismo",
+      "category": "setting_lore",
+      "pages": [[23, 41]],
+      "summary": "Descricao do Abismo em relacao a Ark-a-nun, Terra e Paradisia, incluindo postos de vigilia, morada de demonios, montanhas e regioes infernais.",
+      "entityRefs": ["postos-de-vigilia", "morada-de-demonios", "montanhas-do-abismo"]
+    },
+    {
+      "id": "abismo-deuses-negros",
+      "name": "Capitulo III: Deuses Negros e Suas Crias Malditas",
+      "category": "creature_npc",
+      "pages": [[42, 89]],
+      "summary": "Panteao de deuses negros, avatares, cultos, estatisticas e crias, incluindo Alura, Datringush, Dekel Basemath, O Desconhecido, Hrgash, Kriene'Lavi, Llyanmakchi, Mikoyel, Parshallas, Qua'Trshr, Shaemallast, Tesf'Kras'Dul, Malfas, Mitzenli, Pyros, Tangaroa, Zarich e arkanitas.",
+      "entityRefs": ["deuses-negros", "alura", "datringush", "dekel-basemath", "hrgash", "kriene-lavi", "llyanmakchi", "mikoyel", "parshallas", "qua-trshr", "shaemallast", "tesf-kras-dul", "malfas", "mitzenli", "pyros", "tangaroa", "zarich", "arkanitas"]
+    },
+    {
+      "id": "abismo-filhos-bastardos",
+      "name": "Capitulo IV: Filhos Bastardos das Trevas",
+      "category": "creature_npc",
+      "pages": [[90, 103]],
+      "summary": "Apresenta criaturas e opcoes derivadas de Tenebras, incluindo Geistkhalim, Acorrentados e kits aprimorados.",
+      "entityRefs": ["geistkhalim", "acorrentados", "kits-aprimorados-abismo"]
+    },
+    {
+      "id": "abismo-cantos-escuros-terra",
+      "name": "Capitulo V: Os Cantos Escuros da Terra",
+      "category": "setting_lore",
+      "pages": [[104, 146]],
+      "summary": "Cultos, hierarquia, sacerdote terreno, bases de culto, forcas de Tenebras, pactos, sociedades secretas e cultos tenebrianos pelo mundo.",
+      "entityRefs": ["cultos-de-tenebras", "sacerdote-terreno", "pacto-da-alma", "culto-da-serpente-mae", "circulo-dos-invocadores", "escravos-do-alem-trevas", "igreja-da-libertacao-das-almas", "igreja-da-virgem-salvadora", "o-lar", "quinquagesimo-terceiro-culto"]
+    },
+    {
+      "id": "abismo-filhos-renegados",
+      "name": "Capitulo VI: Filhos Renegados das Trevas",
+      "category": "setting_lore",
+      "pages": [[147, 183]],
+      "summary": "Descricao de Infernun, sete fortalezas, panteoes sobreviventes e o Inferno, incluindo Dilmun, Ilhuicatliltic, Hanan Pacha e orientacoes de uso em campanha.",
+      "entityRefs": ["sete-fortalezas", "panteoes-sobreviventes", "dilmun", "ilhuicatliltic", "hanan-pacha", "inferno"]
+    },
+    {
+      "id": "abismo-horror-e-decadencia",
+      "name": "Terror, Loucura e Decadencia",
+      "category": "core_rule",
+      "pages": [[184, 188]],
+      "summary": "Orientacoes para terror, reacao ao medo, loucura, deterioracao fisica e decadencia espiritual provocadas por contato com o Abismo.",
+      "entityRefs": ["terror-abissal", "loucura-abissal", "deterioracao-fisica", "decadencia-espiritual"]
+    },
+    {
+      "id": "abismo-monstros",
+      "name": "Monstros",
+      "category": "creature_npc",
+      "pages": [[189, 199]],
+      "summary": "Bestiario de criaturas abissais, incluindo Ahuizotl, Balaf, Devorador Disforme, Djien, Elnint, Hamit, Kenah Tzar'El, Lupaprak, Meo Zatu, Parasita de Alura, Profundo, Ren'Alum, Shaeraid, Terror Dactilo, Tufao da Morte, Tatzlwurm, Verme Krizi e Yara-ma-yha-who.",
+      "entityRefs": ["monstros-abissais", "ahuizotl", "balaf", "devorador-disforme", "djien", "elnint", "hamit", "kenah-tzar-el", "lupaprak", "meo-zatu", "parasita-de-alura", "profundo", "ren-alum", "shaeraid", "terror-dactilo", "tufao-da-morte", "tatzlwurm", "verme-krizi", "yara-ma-yha-who"]
+    },
+    {
+      "id": "abismo-back-page",
+      "name": "Pagina final",
+      "category": "source",
+      "pages": [200],
+      "summary": "Pagina final sem conteudo textual extraido.",
+      "entityRefs": []
+    }
+  ]
+}

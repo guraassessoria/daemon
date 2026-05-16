@@ -1,0 +1,37 @@
+{
+  "source": "trev3-fi",
+  "title": "Trev3-fi",
+  "status": "full-read-auto-pass-1",
+  "pages": 3,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "trev3-fi-trevas-1",
+      "name": "trevas",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "trevas Nome_______________________________________________ Formas e Caminhos ______________________________ Fetiches _______________________________________ Descrição______________________________________ ___________________________________________________________________________________________________________________________________________________________...",
+      "entityRefs": []
+    },
+    {
+      "id": "trev3-fi-atributos-3",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL)_____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Pontos Índice Iniciativa de Vida de Prote...",
+      "entityRefs": []
+    }
+  ]
+}

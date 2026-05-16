@@ -1,0 +1,67 @@
+{
+  "source": "kits-arton",
+  "title": "Kits Arton",
+  "status": "full-read-auto-pass-1",
+  "pages": 51,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "character_option",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "kits-arton-guia-de-kits-de-arton-1",
+      "name": "GUIA DE KITS DE ARTON",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "2 GUIA DE KITS DE ARTON Criação: Bruno Garrido Revisão: Bruno Garrido e Adriano Cleber Capa: Gilberto Bueno e Grupo Hokusai X-Mangá Agradecimentos Ao Mágico, pelo interesse em transformar este trabalho em um netbook. Ao Elerion Zariael (BURP), por suas observações e sugestões sempre precisas e valiosas. Ao Marcelo de Matos “Guaxinim”, por ter criado as regra...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-arton-indice-2",
+      "name": "ÍNDICE",
+      "category": "kit_class",
+      "pages": [
+        2
+      ],
+      "summary": "3 ÍNDICE INTRODUÇÃO 03 KITS Acólito 04 Advogado de Khalmyr 05 Aniquilador 06 Aprendiz de Mago 07 Arauto da Intriga 08 Artilheiro Pesado 09 Besteiro 10 Caçador de Devotos 11 Cavaleiro Galante 12 Cavaleiro Goblin 13 Combatente da Resistência 14 Comerciante de Gorad 15 Explorador de Valkaria 16 Falsário 17 Furioso de Keenn 18 Guardião de Keenn 19 Guerreiro da P...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-arton-introducao-3",
+      "name": "INTRODUÇÃO",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "4 INTRODUÇÃO Este trabalho contém vários kits de personagens para serem utilizados em campanhas de Tormenta, o cenário de fantasia medieval da Dragão Brasil. É certo que uma grande quantidade de outros kits já foi publicada no Manual do Aventureiro e no livro Tormenta 3E, mas é sempre interessante adicionar elementos novos ao que já existe. Para quem não est...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-arton-kits-4",
+      "name": "KITS",
+      "category": "character_option",
+      "pages": [
+        [
+          4,
+          50
+        ]
+      ],
+      "summary": "5 KITS Acólito Seguir uma carreira religiosa é o sonho de diversas pessoas em Arton. Sacerdotes de diversas religiões têm o respeito e admiração dos cidadãos comuns devido às suas funções como líderes, conciliadores, conselheiros e, em alguns casos, profetas. Contudo, o candidato precisa cumprir uma série de requisitos, obrigações e etapas a fim de alcançar...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-arton-novas-regras-51",
+      "name": "NOVAS REGRAS",
+      "category": "core_rule",
+      "pages": [
+        51
+      ],
+      "summary": "52 NOVAS REGRAS Nesta seção vão constar algumas vantagens, desvantagens e aprimoramentos criados ou adaptados especialmente para dar suporte aos kits apresentados aqui. Poder Elemental (para Daemon) Nota do Autor: Regra extraída do netbook Guerreiras Mágicas de Rayearth, de Marcelo de Matos \"Guaxinim\", disponível no site www.daemon.com.br Você possui o poder...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source": "harrypotter",
+  "title": "harrypotter",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "creature_npc",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "harrypotter-flavio-bombonatti-1",
+      "name": "Flávio Bombonatti",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1 Flávio Bombonatti",
+      "entityRefs": []
+    },
+    {
+      "id": "harrypotter-hogwarts-2",
+      "name": "HOGWARTS",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "2 HOGWARTS Introdução Esse RPG é recomendado para pessoas que já leram os 4 livros da série Harry Potter, e conhecem um pouco sobre a história.Nesse jogo, o Mestre deverá criar coisas novas, como lugares, professores, matérias, itens e magias, para que o jogo não fique preso a informações desse guia.Você deve ter notado que esse guia é a versão 1.4, isso que...",
+      "entityRefs": []
+    },
+    {
+      "id": "harrypotter-os-personagens-6",
+      "name": "OS PERSONAGENS",
+      "category": "power_magic",
+      "pages": [
+        [
+          6,
+          10
+        ]
+      ],
+      "summary": "6 OS PERSONAGENS Aqui estão os personagens principais do livro e do jogo, apesar do mestre poder mudar tudo e fazer que eles já foram embora da escola.Eles podem ser usados para mostrar as carac- terísticas dos futuros companheiros ou não do personagem Harry Potter Harry é o personagem principal do livro.Teve seus pais assas- sinados por Voldemort e teve que...",
+      "entityRefs": []
+    },
+    {
+      "id": "harrypotter-quadribol-11",
+      "name": "QUADRIBOL",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "1 1 QUADRIBOL O quadribol é sem duvida o jogo que mais atrai os bruxos, é como se fosse o futebol na vida real.Aqui vão as regras e informa- ções sobre o jogo, o Quadribol dentro de Hogwarts e os times mais famosos para o personagem escolher um para torcer.Os per- sonagens que forem jogadores de quadribol pela sua casa preci- sarão treinar as regras e jogada...",
+      "entityRefs": []
+    }
+  ]
+}

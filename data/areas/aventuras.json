@@ -1,0 +1,1739 @@
+{
+  "version": 1,
+  "id": "aventuras",
+  "name": "Aventuras",
+  "readySourceCount": 190,
+  "entityCount": 14,
+  "sourcePartCount": 62,
+  "entities": [
+    {
+      "id": "a-assassina",
+      "name": "A Assassina",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "page": 2,
+      "entries": [
+        "Aventura investigativa centrada em assassinatos seriados e na identificacao da responsavel.",
+        "Contem locais importantes, cenas de crime, vitimas, bilhetes, calendario de eventos, possibilidades de final e recompensas de experiencia."
+      ],
+      "tags": [
+        "adventure",
+        "aventuras",
+        "investigacao",
+        "serial-killer",
+        "terror",
+        "urbano"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "acorrentados",
+      "name": "Acorrentados",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 93,
+      "entries": [
+        "Seres vinculados a fragmentos ou forcas de criaturas das trevas, usados como antagonistas, avatares ou focos de campanha."
+      ],
+      "tags": [
+        "avatar",
+        "aventuras",
+        "creature_npc",
+        "criatura",
+        "criaturas_npcs",
+        "tenebras"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "argos",
+      "name": "Argos",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 12,
+      "entries": [
+        "Tipo de nave/equipamento de apoio descrito no quick start de Abismo Infinito."
+      ],
+      "tags": [
+        "aventuras",
+        "equipamento",
+        "horror-espacial",
+        "item_equipment",
+        "itens_equipamentos",
+        "nave"
+      ],
+      "confidence": 0.72,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "abismo-cenas",
+      "name": "Cenas",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 19,
+      "entries": [
+        "Estrutura basica de resolucao de Abismo Infinito.",
+        "O jogo organiza conflitos e acontecimentos por cenas, com criacao, reacao e resolucao narrativa apoiada por dados."
+      ],
+      "tags": [
+        "aventuras",
+        "cenas",
+        "core_rule",
+        "regras-basicas",
+        "resolucao"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "despertar",
+      "name": "Fase 1: Despertar",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 38,
+      "entries": [
+        "Primeira fase de uma historia de Abismo Infinito.",
+        "Foco em terror, curiosidade, investigacao, instabilidade psicologica e percepcao ainda limitada das manifestacoes."
+      ],
+      "tags": [
+        "adventure",
+        "aventuras",
+        "estrutura-de-historia",
+        "horror-espacial"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "redencao",
+      "name": "Fase 3: Redencao",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 39,
+      "entries": [
+        "Terceira fase de uma historia de Abismo Infinito.",
+        "Foco em confrontar medos pessoais por provacoes de coragem ate alcancar redencao pessoal."
+      ],
+      "tags": [
+        "adventure",
+        "aventuras",
+        "estrutura-de-historia",
+        "horror-espacial",
+        "redencao"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "ferimentos",
+      "name": "Ferimentos",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 34,
+      "entries": [
+        "Trilha de dano fisico de Abismo Infinito.",
+        "Personagens acumulam pontos de Ferimentos; o texto descreve danos por intencao, de atordoar ate matar."
+      ],
+      "tags": [
+        "aventuras",
+        "combat",
+        "combate",
+        "dano",
+        "ferimentos"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "funny-club",
+      "name": "Funny Club",
+      "area": "aventuras",
+      "category": "setting_lore",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "page": 2,
+      "entries": [
+        "Boate sofisticada usada como local importante na investigacao da aventura A Assassina."
+      ],
+      "tags": [
+        "aventuras",
+        "investigacao",
+        "local",
+        "setting_lore",
+        "urbano"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "hiperions",
+      "name": "Hipérions",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 11,
+      "entries": [
+        "Tipo de nave/equipamento espacial descrito no quick start de Abismo Infinito."
+      ],
+      "tags": [
+        "aventuras",
+        "equipamento",
+        "horror-espacial",
+        "item_equipment",
+        "itens_equipamentos",
+        "nave"
+      ],
+      "confidence": 0.72,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "males-do-espaco",
+      "name": "Males do Espaco",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 34,
+      "entries": [
+        "Perigos ambientais do espaco, incluindo assombro visual, gravidade nula e vacuo.",
+        "Aplicam desvantagens circunstanciais ou dano direto conforme a exposicao."
+      ],
+      "tags": [
+        "ambiente",
+        "aventuras",
+        "combat",
+        "combate",
+        "espaco",
+        "perigo"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "manifestacoes-dos-medos",
+      "name": "Manifestacoes dos medos",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 35,
+      "entries": [
+        "Manifestacoes do Medo Particular dos protagonistas em Abismo Infinito.",
+        "Funcionam como antagonistas que podem criar ou reagir a cenas e usam aspectos psicologicos do personagem que as gerou.",
+        "Podem ser derrotadas temporariamente por ferimentos, mas sua destruicao definitiva depende do destino do personagem ligado a elas."
+      ],
+      "tags": [
+        "antagonista",
+        "aventuras",
+        "creature_npc",
+        "horror-espacial",
+        "medo",
+        "sonho"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "mestre-do-espaco",
+      "name": "Mestre do Espaco",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 5,
+      "entries": [
+        "Papel equivalente ao mestre/narrador em Abismo Infinito.",
+        "Conduz a historia, cria e controla antagonistas, coadjuvantes e figurantes, arbitra conflitos e tem palavra final sobre as regras."
+      ],
+      "tags": [
+        "aventuras",
+        "core_rule",
+        "narrador",
+        "regras-basicas"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "prometeus",
+      "name": "Prometeus",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 11,
+      "entries": [
+        "Tipo de cruzador/nave descrito no quick start de Abismo Infinito."
+      ],
+      "tags": [
+        "aventuras",
+        "equipamento",
+        "horror-espacial",
+        "item_equipment",
+        "nave"
+      ],
+      "confidence": 0.72,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "terror-abissal",
+      "name": "Terror Abissal",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 185,
+      "entries": [
+        "Orientacoes de condução de terror em campanhas de Abismo, destacando influencia sutil, medo, paranoia e presenca indireta das forcas abissais."
+      ],
+      "tags": [
+        "abismo",
+        "aventuras",
+        "core_rule",
+        "mestre",
+        "terror"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "a-assassina--a-assassina-victims-and-clues",
+      "name": "Assassinatos, vitimas e pistas",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "page": 2,
+      "summary": "Sequencia de crimes com cenas, vitimas, bilhetes, ligacoes, possiveis evidencias e calendario de eventos.",
+      "entityRefs": [
+        "augusta-hell",
+        "christine-valkien",
+        "kelly-hopkins"
+      ],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "a-assassina--a-assassina-adventure",
+      "name": "Aventura",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "page": 2,
+      "summary": "Aventura investigativa em torno de uma sequencia de assassinatos, com locais, vitimas, pistas, calendario e desfechos possiveis.",
+      "entityRefs": [
+        "a-assassina"
+      ],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "a-assassina--a-assassina-experience",
+      "name": "Experiencia",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Recompensas de experiencia associadas a conclusao da aventura.",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo--abismo-filhos-renegados",
+      "name": "Capitulo VI: Filhos Renegados das Trevas",
+      "area": "aventuras",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          147,
+          183
+        ]
+      ],
+      "page": null,
+      "summary": "Descricao de Infernun, sete fortalezas, panteoes sobreviventes e o Inferno, incluindo Dilmun, Ilhuicatliltic, Hanan Pacha e orientacoes de uso em campanha.",
+      "entityRefs": [
+        "sete-fortalezas",
+        "panteoes-sobreviventes",
+        "dilmun",
+        "ilhuicatliltic",
+        "hanan-pacha",
+        "inferno"
+      ],
+      "tags": [
+        "aventuras",
+        "setting_lore"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-front-matter",
+      "name": "Capa, creditos e aviso inicial",
+      "area": "aventuras",
+      "category": "source",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "page": 1,
+      "summary": "Capa, creditos de autoria, editoras/sites, agradecimentos, origem editorial do projeto e aviso de inadequacao para menores ou pessoas imaturas.",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "source"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-introduction",
+      "name": "O que e um jogo narrativo",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        4,
+        5
+      ],
+      "page": 4,
+      "summary": "Explicacao introdutoria sobre RPG, sessoes, material necessario, personagens e papel do Mestre do Espaco.",
+      "entityRefs": [
+        "mestre-do-espaco"
+      ],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-rules-scenes",
+      "name": "As Regras do Jogo",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        19,
+        20,
+        21
+      ],
+      "page": 19,
+      "summary": "Regras de cenas, criacao e reacao, vantagens e desvantagens circunstanciais e estrutura basica de resolucao.",
+      "entityRefs": [
+        "abismo-cenas",
+        "vantagens-circunstanciais"
+      ],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-protagonist-genesis",
+      "name": "Genese do protagonista",
+      "area": "aventuras",
+      "category": "character_option",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        22,
+        23
+      ],
+      "page": 22,
+      "summary": "Criacao de protagonistas, incluindo nome, jogador, cargo, citacao, medo particular, ancoras, sonolencia e ferimentos.",
+      "entityRefs": [
+        "ancoras",
+        "medo-particular",
+        "sonolencia",
+        "ferimentos"
+      ],
+      "tags": [
+        "aventuras",
+        "character_option"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-roles",
+      "name": "Cargos",
+      "area": "aventuras",
+      "category": "kit_class",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "page": 24,
+      "summary": "Cargos de astronauta/protagonista como astrogeologo, engenheiro, cosmologo, criptologo, navegador, exobiologo, medico, psicologo, seguranca e videomaker.",
+      "entityRefs": [
+        "astrogeologo",
+        "engenheiro",
+        "cosmologo",
+        "criptologo",
+        "navegador",
+        "exobiologo",
+        "medico",
+        "psicologo",
+        "seguranca",
+        "videomaker"
+      ],
+      "tags": [
+        "aventuras",
+        "kit_class"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-trauma-stress",
+      "name": "Trauma e Estresse",
+      "area": "aventuras",
+      "category": "character_option",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "page": 28,
+      "summary": "Regras psicologicas de trauma, estresse, medo particular, loucura do espaco, sonolencia, olvidamento, camadas de sonhos, controle do sonho e perda de ancoras.",
+      "entityRefs": [
+        "trauma",
+        "estresse",
+        "olvidamento",
+        "camadas-de-sonhos",
+        "controle-do-sonho"
+      ],
+      "tags": [
+        "aventuras",
+        "character_option"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-fear-manifestations",
+      "name": "Manifestacoes dos medos",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "page": 35,
+      "summary": "Regras e orientacoes narrativas para manifestacoes dos medos dos protagonistas, tratadas como antagonistas ligados ao medo particular.",
+      "entityRefs": [
+        "manifestacoes-dos-medos"
+      ],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-story-structure",
+      "name": "A historia",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        38,
+        39
+      ],
+      "page": 38,
+      "summary": "Estrutura de historias em tres fases: Despertar, Pesadelo e Redencao.",
+      "entityRefs": [
+        "despertar",
+        "pesadelo",
+        "redencao"
+      ],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-character-sheet",
+      "name": "Ficha do astronauta",
+      "area": "aventuras",
+      "category": "source",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "Pagina de ficha com campos de ancoras, nome, jogador, cargo, citacao, medo particular, sonolencia e ferimentos.",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "source"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-cacada",
+      "name": "A Cacada",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "Procedimentos de Cacada, Vigiluns, Agmens, Coenobium, Cacada Perigosa e Veniam Peto.",
+      "entityRefs": [
+        "cacada-alastor",
+        "vigiluns",
+        "agmens",
+        "coenobium",
+        "veniam-peto"
+      ],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-atributos-3",
+      "name": "Atributos",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Atributos Definição Os atributos são elementos importantes quando chega o momento de colocar em números as noções mais básicas do personagem. Seja qualquer que seja o tipo de campanha, eles podem ser uma boa ferramenta para os mestres. Uma crônica de horror pode se valer dos atributos como uma forma de medir a dificuldade de um inimigo para melhor inserí-lo...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cabala-2--cabala-2-apresentando-1",
+      "name": "APRESENTANDO",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "cabala-2",
+      "sourceTitle": "Cabala",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1 APRESENTANDO Saudações RPGistas de todo o Brasil! Eu sou rafael menestrel, e venho apresentar-lhes a conclusão de um (longo) projeto com o qual eu trabalho há vários meses. Esse é apenas um pequeno suplemento para Arkanum/ Trevas, que tem como objetivo auxiliar o Mestre na tarefa divina de conduzir os personagens pelas aventuras. Nesse net-book, eu retirei...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "charadas--charadas-charadas-1-0-2",
+      "name": "Charadas 1.0",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "charadas",
+      "sourceTitle": "Charadas",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Charadas 1.0 É com orgulho que os apresento o primeiro Net-Book feito por Bod!n. Este é um Net-Book que contem muitas charadas que podem ser usadas durante a aventura, sendo usado para abrir uma porta mágica, um baú do tesouro etc... Gostaria de agradecer JOE K.R e Falcon_, que contribuíram com algumas charadas. Este Net-Book está exposto no Fórum da Editora...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-21",
+      "name": "Daemon Medieval",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        21
+      ],
+      "page": 21,
+      "summary": "Daemon Medieval 21 4- O Jogador teve uma boa participação na aventura, teve boas idéias e descreveu bem suas cenas? 5- O Personagem foi heróico? Com base nessas perguntas, o Mestre deve dar uma nota de 0 a 2 em cada pergunta para cada Personagem, que será somada aos seus Pontos de Experiência. Uma nota 2 significa uma atuação excepcional no quesito analisado...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-criacao-de-personagens-4",
+      "name": "CRIAÇÃO DE PERSONAGENS",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "CRIAÇÃO DE PERSONAGENS Passo 1: Campanha e Cenário O grupo decide qual tipo de jogo pretende jogar, o que determina quantos pontos os personagens terão em sua criação. Campanhas realistas: . Personagens começam no nível 0 . Atributos: Distribua os seguintes valores - 16/14/14/12/12/12/10/10. . Perícias: Escolha 3 grupos de perícias. Em cada um deles, distrib...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-antuerpia-78",
+      "name": "ANTUÉRPIA",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          78,
+          80
+        ]
+      ],
+      "page": null,
+      "summary": "ANTUÉRPIA Para começar uma campanha na Terra, a primeira coisa que você ou seu Mestre devera fazer e construir uma cidade pela lógica dos Demônios, magos e anjos. Para isto, basta ter em mãos a história da cidade em que vocês desejarem jogar e um pouco de criatividade. Não é difícil. Comece o cálculo pela seguinte conta. A menos que seja uma cidade especial...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-o-clube-legerdemans-82",
+      "name": "O CLUBE LEGERDEMANS",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          82,
+          87
+        ]
+      ],
+      "page": null,
+      "summary": "O CLUBE LEGERDEMANS Atenção: Esta é uma aventura pronta, para ser utilizada pelo Mestre como introdução ao universo de Arkanun/Trevas, portanto se você não pretende ser um Mestre de Jogo, pare de ler agora! Isto apenas estragará sua diversão. ANTUÉRPIA, 1998 Esta e uma aventura pronta para um grupo de 3 a 5 jogadores, com personagens iniciantes, mas pode ser...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106",
+      "name": "CAMPANHA",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        106
+      ],
+      "page": 106,
+      "summary": "CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os personagens que resistiram bravamente aos anjos, a...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-ideias-para-aventura-108",
+      "name": "IDÉIAS PARA AVENTURA",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        108
+      ],
+      "page": 108,
+      "summary": "IDÉIAS PARA AVENTURA Em Demônios: A Divina Comédia, as possibilidades de aventuras são quase infinitas. No mundo de Arkanun/Trevas existem tantas forças políticas e ideológicas em jogo que se torna possível criar praticamente qualquer tipo de situação. A seguir fornecemos algumas idéias básicas que podem ser desenvolvidas pelo Mestre para suas campanhas. Not...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "energia-mistica--energia-mistica-suplemento-para-rpg-daemon-2",
+      "name": "Suplemento para RPG Daemon",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "energia-mistica",
+      "sourceTitle": "Energia Mistica",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Suplemento para RPG Daemon Energia Mistica Internas Suplemento que visa dar novas opções para Mestres e Jogadores. Ao utilizarem magos em suas campanhas e aventuras de RPG. A Ordem da Lua - Role Playing Game Guarulhos - Sp Criação Desnvolvimento Revisão Capa Artes : Salátiel : Salátiel e Lokken (Stefano Paranho de Lima) : Vânia (Minha Mãe) e Lokken : Google...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3",
+      "name": "EVOLUÇÃO ALTERNATIVA",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "evolucao-alternativa",
+      "sourceTitle": "Evolução Alternativa",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "EVOLUÇÃO ALTERNATIVA Originalmente no sistema Daemon, o tipo de campanha é o fator que determina o potencial inicial de um personagem. Em campanhas épicas um personagem inicial equivale a um personagem de alto nível de uma campanha mais realista. Porém essa distinção só é feita no momento da criação do personagem, pois segundo as regras os benefícios que os...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-cenario-94",
+      "name": "CENÁRIO",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          94,
+          97
+        ]
+      ],
+      "page": null,
+      "summary": "juntar tudo de modo que a campanha tome uma forma con- sistente. Sempre dê um útulo à sua campanha e se desejar, dê títulos também às sessões (como se fosse um capítulo de uma serie). Veja a seguir um pequeno questionário que irá auxiliá- lo: CENÁRIO 1- Qual a data de inicio da campanha? 2- Em que cidade será ambientada? 3- Qual será o clima? 4- Os personage...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-metodo-3-por-pontos-112",
+      "name": "METODO 3 - POR PONTOS",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          112,
+          115
+        ]
+      ],
+      "page": null,
+      "summary": ", METODO 3 - POR PONTOS Ao térmjno de cada sessão de jogo, você pode con~ ceder de O a 15 Pontos de Experiência para cada persona- gem, baseado na interpretação do jogador. Este método deve ser cuidadoso e cabe ao mestre dosar a quantidade adequada de pontos para cada um, para permitir que evoluam sem com- prometer o bom andamento da campanha. Para auxiliá-l...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-metodo-2-por-idade-111",
+      "name": "MÉTODO 2 - POR IDADE",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        111
+      ],
+      "page": 111,
+      "summary": "MÉTODO 2 - POR IDADE o Mestre que quiser dar mais vida e toniar suas aventuras mais empolgantes pode iniciar sua aventura em outra época da história do mundo (dê uma olhada na Linha de tempo no fim do livro para usar como referência). Usan- do este artifício, O Mestre pode controlar 3 a 5 aventuras ou uma pequena campanha por década, até a época que preten-...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-tesouros-7",
+      "name": "Tesouros",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "Tesouros Personagens podem conseguir muito dinheiro como pagamento por uma missão cumprida, roubo a uma Sociedade Secreta, criminosos ou como investimentos que tenham feito durante a campanha. Tesouros com Valor Arcano Os personagens podem encontrar algum livro ou tomo mágico, algum mapa com instruções para a localização de um tesouro, ou de uma fonte místic...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-campanha-14",
+      "name": "Campanha",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        14
+      ],
+      "page": 14,
+      "summary": "Campanha A melhor maneira de se utilizar um Hsien em uma campanha de Trevas é colocando-o como um velho sábio isolado que conhece um segredo crucial para a missão que os Personagens empreendem. Sempre encarados como detentores dos maiores segredos do Universo, os Hsien e os Sennin são ótimos como conselheiros, anjos da guarda e mentores de heróis. Uma campan...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "lobisomemv3--lobisomemv3-a-origem-4",
+      "name": "A Origem",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "lobisomemv3",
+      "sourceTitle": "LobisomemV3",
+      "pages": [
+        [
+          4,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "A Origem Ironicamente, aqui não explicaremos a origem dos lobisomens. O netbook Lobisomem: a Maldição foi criado para dar as regras aos jogadores de como utilizar lobisomens em suas campanhas, sejam elas baseando-se no universo de Trevas, Arkanun, Invasão, Daemon Cyberpunk ou em outro da criação do narrador. Por isso, é extremamente necessário que o jogador/...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-editorial-2",
+      "name": "EDITORIAL",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "EDITORIAL Uma palavrinha antes do fecha! Caros amigos RPGistas, é com muito orgulho que trago á vocês o primeiro Módulo do blog Projetos 3D&T. Aqui você vai encontrar um sistema alternativo pra porrada em 3D&T. Fique á vontade para usá-lo ou não em suas campanhas, mas se você não usar vai ter que adaptar tudo que tem no Blog, azar o seu, hehe. Nesse módulo v...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "onmyodo--onmyodo-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "area": "aventuras",
+      "category": "race_lineage",
+      "source": "onmyodo",
+      "sourceTitle": "Onmyodo",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "race_lineage"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "oriente-cronologia--oriente-cronologia-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "area": "aventuras",
+      "category": "setting_lore",
+      "source": "oriente-cronologia",
+      "sourceTitle": "Oriente_Cronologia",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "CONSIDERACOES Este Netbook (aliás, o meu primeiro) trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estuda...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "setting_lore"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "spawn--spawn-sam-twitch-4",
+      "name": "SAM & TWITCH",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "spawn",
+      "sourceTitle": "Spawn",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "SAM & TWITCH Sam e Twitch são os dois detetives de Nova York encarregados de investigar as mortes suspeitas que aconteciam no beco, provocadas por Al Simmons quando chegou à Terra. Sam e Twitch estão na força policial há 14 anos, e conhecem muito bem todas as manhas de investigação e perseguição de criminosos. Podem ser usados em campanha como Personagens, o...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-agradecimentos-7",
+      "name": "AGRADECIMENTOS",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          7,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "AGRADECIMENTOS - À Sandra Sansone e Marina Mizioka, que fizeram ótimos trabalhos gráficos com os teasers enviados por email e na animação disponível no YouTube. - Aos nossos pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram a curiosidade extrema. - Aos meus queridos Jogadores, que me agüentam como Mestre desde 1996 (em especial o Tico...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-1",
+      "name": "FACILIDADE, LAMIA (229-238)",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          229,
+          238
+        ]
+      ],
+      "page": null,
+      "summary": "FACILIDADE, LAMIA DEMONSTRAVA SER MUITO MAIS ÁGIL DO QUE SEU INIMIGO IMAGINAVA, E MUITO MAIS ESPERTA TAMBÉM. QUASE COMO SE TIVESSE UMA CONSCIÊNCIA PRÓPRIA, A CAUDA DA RAINHA SE MOVIA COM DESTREZA SOBERBA, CONFUNDINDO O OPONENTE. LAMIA AINDA LEMBRA DO MOMENTO EM QUE O FERRÃO EM SUA CAUDA ATRAVESSOU O ABDÔMEN DO ABHUVA, PARALISANDO-O COM O VENENO. PORÉM, ATÉ M...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-2",
+      "name": "FACILIDADE, LAMIA (239-248)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          239,
+          248
+        ]
+      ],
+      "page": null,
+      "summary": "- 239 - de influência. Logo que Dagon instituiu seu reinado de terror nos oceanos Pacífico e Índico, Netuno decidiu transportar seus Reinos Marinhos de Paradísia exatamente no Oceano Atlântico, reforçando o mito da Atlântida e protegendo a integridade das águas da Terra. Acompanhado de seus seguidores paradisianos e seus monstros marinhos, Netuno declarou gu...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-4",
+      "name": "FORÇA DE VONTADE (102-111)",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          102,
+          111
+        ]
+      ],
+      "page": null,
+      "summary": "- 101 - Força de Vontade, com a diferença que drena até 2d6 pontos de força de vontade. A vítima tem direito a um teste de WILL vs. WILL da entidade para resistir. Nível 6: Pensamentos. A entidade é capaz de ouvir (como se estivessem realmente falando) os pensamentos de todos os mortais dentro de um raio de 50m. Não inclui entender o que é pensado. Apenas ou...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-5",
+      "name": "FORÇA DE VONTADE (112-117)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          112,
+          117
+        ]
+      ],
+      "page": null,
+      "summary": "- 111 - Compulsivo, Perversão Sexual ou Sanguinário. Depois, deve fazer um teste de WILL vs. CON. Caso a vítima falhe, ela irá envelhecer 5 vezes mais rápido que o normal. Nível 7: Apodrecimento. A entidade pode lançar parte de sua própria essência numa vítima, seja ela um espírito ou não, e infectá-la. Caso esta falhe num teste de WILL vs. WILL, a vítima de...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "ÚLTIMA POSTAGEM DO JORNAL DE VIENA ONLINE Aqui, neste cubículo, digito minha última matéria ao \"Jornal de Viena\". Tenho a certeza de que logo este bunker será aniquilado por forças que há até pouco tempo ninguém imaginava existirem. Como jornalista sério, sempre separei o mito da realidade. Agora, nada mais posso em meio a tais eventos. Esta é uma síntese de...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-5",
+      "name": "a partir de Spiritum, atingir as partes (169-178)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          169,
+          178
+        ]
+      ],
+      "page": null,
+      "summary": "- 168 - fracos, ou 2 Demônios medianos ou 1 Demônio avançado de Infernun. Focus 18: Conjura um punhado de Demônios de Ark-a-nun, Underworld, Inferno ou o Abismo, cuja biomassa total seja de no máximo 5.000ton. O Mago pode incorporar a si características dos grandes Demônios de Infernun, como o sangue morto- vivo, a emissão de energia maligna em toda a área,...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-7",
+      "name": "a partir de Spiritum, atingir as partes (189-198)",
+      "area": "aventuras",
+      "category": "ritual_spell",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          189,
+          198
+        ]
+      ],
+      "page": null,
+      "summary": "- 188 - tempo não é revertido, somente os efeitos da passagem do tempo, afetando coisas físicas, metafísicas e abstratas. Focus 28: O Mago pode literalmente desenlaçar o fio do tempo, ganhando novas chances de desfazer seus erros ou prevenir as ações de outros e manipular o passado da maneira que preferir. Depois de mudar o passado, as memórias de todos os p...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "ritual_spell"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-8",
+      "name": "a partir de Spiritum, atingir as partes (199-208)",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          199,
+          208
+        ]
+      ],
+      "page": null,
+      "summary": "- 198 - localização exata de todo ser que contenha líquidos em qualquer lugar do plano/vale/bolsão em que vive, mesmo os mágicos. Focus 30: O Mago terá um reino influente no Mami Wata, adquirindo poder místico e político suficiente para tornar-se o Mo Acha do plano/vale/bolsão do qual é considerado a divindade protetora da água e dos mares. Porém, só pode to...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-10",
+      "name": "a partir de Spiritum, atingir as partes (219-227)",
+      "area": "aventuras",
+      "category": "ritual_spell",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          219,
+          227
+        ]
+      ],
+      "page": null,
+      "summary": "- 218 - feudo inteiro de Ah Kin por um curto período de tempo. Focus 20: Mudanças complexas no Maya de uma grandiosa área (área com 5.000km de raio). Focus 22: Forças fotônicas capazes de destruir em poucos dias um continente (área com 25.000km2). Focus 26: Mudanças complexas no Maya de uma lua pequena ou área com 1.250.000km2, podendo comandar todas as mani...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "ritual_spell"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-1",
+      "name": "matei (16-25)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          16,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "matei milhões. Já matei Tiamat, Quingu, deuses que nem mesmo você sequer ouviu falar! Já exterminei povos inteiros em Ark-a-Nun! Acha mesmo que tem lugar em minha alma para arrependimento?! Dito isso, Marduk segura o corpo de Uriel pelos ombros, e rasga a parte superior do corpo do Anjo do Arrependimento, enfiando sua mão entre suas víceras e puxando seu tão...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-2",
+      "name": "matei (26-35)",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          26,
+          35
+        ]
+      ],
+      "page": null,
+      "summary": "- 25 - resistência dos aztlantes contra a ameaça de Tezcatlipoca. Os Deuses-Serpente mais notórios a invadirem Ark-a-nun foram Jormungandr, Orochi, Oxumaré, Mingusoto e Apophis. Os poderosos Dagon e Kthulhu, mestres de todos estes Deuses-Serpente, os lideraram a Ark-a-nun e iniciaram uma nova religião, com a arkanita Atargatis como sumo-sacerdotisa e Honoyet...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-3",
+      "name": "matei (36-45)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          36,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "- 35 - influenciada pela Igreja Ortodoxa e eles foram modificados, fazendo surgir na Rússia a subespécie de Strigoi chamada Eretiks. Alguns panteões se sentiram profundamente humilhados pela arrogância dos Anjos e do próprio Demiurge, mas nada podiam fazer com todas as ações coordenadas que impediam revoltas generalizadas. A saída foi apoiar os Magos estudio...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-4",
+      "name": "matei (46-55)",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          46,
+          55
+        ]
+      ],
+      "page": null,
+      "summary": "- 45 - silenciosa, às vezes conturbada, mas nunca aberta aos habitantes da Terra de modo que eles não pudessem compreender os segredos dos outros planos de Satânia. Cada um destes seres, antes considerados os mais amados por Demiurge, agiram por conta própria por séculos. Com uma aliança temporária entre ambos, a alma de Maomé foi trazida ao Inferno em vez d...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-5",
+      "name": "matei (56-65)",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          56,
+          65
+        ]
+      ],
+      "page": null,
+      "summary": "- 55 - mataram o avatar de Siva, esquartejando seu corpo e bebendo seu sangue. E, enquanto Bhairav morria pelas mãos dos cenobitas, Raktabija evocara suas poderosas magias de teleporte para, enfim, fugir dali, levando consigo a Senhora dos Rakshasas. Após a fuga, Kali retornou para Lanka, para então reclamar seu lugar como Rainha dos Rakshasas. Kali prometer...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-veneravel-druida-senta-se-ao-66",
+      "name": "venerável Druida senta-se ao",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          66,
+          70
+        ]
+      ],
+      "page": null,
+      "summary": "venerável Druida senta-se ao lado de Ceres, aparentemente consternada. Os outros Mestres Invisíveis se aproximam e tomam seus lugares da reunião - a mais importante reunião que os bruxos de Satânia teriam em toda a sua existência. - Ceres, o que a preocupa tanto? - pergunta Merlin, a seu lado. - qual a situação de Olympus com a chegada do verdadeiro Apolo? -...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-caminhando-em-meio-a-uma-multidao-228",
+      "name": "CAMINHANDO EM MEIO A UMA MULTIDÃO",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        228
+      ],
+      "page": 228,
+      "summary": "CAMINHANDO EM MEIO A UMA MULTIDÃO QUE CORRE DESESPERADAMENTE PARA TODOS OS LADOS, LAMIA COMEÇA A SE ESTABILIZAR EM SUA NOVA CONDIÇÃO. ANTES, UMA SIMPLES HUMANA AMADA POR ZEUS. LOGO DEPOIS, A MÃE DAS FERAS VAMPÍRICAS, ODIADA E AMALDIÇOADA POR HERA. APÓS SÉCULOS NESTE ESTADO SEMIDIVINO, FINALMENTE LAMIA SENTE A ENERGIA DE NYX BANHAR SEU CORPO, TORNANDO-A MUITO...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-conduzindo-uma-campanha-de-horror-espacial-40",
+      "name": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas_de_Marte",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL Ao conduzir uma campanha que envolva viagens espaciais ou, no caso do cenário de Arkanun-Trevas, extraorbitais ou transaethéricas, é fundamental saber utilizar os principais elementos que induzirão às sensações de horror sem esquecer que ainda deve haver detalhes de ficção científica para os personagens lidarem. Ent...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-aventuras-envolvendo-marte-41",
+      "name": "AVENTURAS ENVOLVENDO MARTE",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas_de_Marte",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "AVENTURAS ENVOLVENDO MARTE Caçada aos Homenzinhos Verdes Em qualquer época, pequenos seres verdes são relatados como vultos que aparecem em locais isolados, geralmente se escondendo com o mesmo medo que as pessoas demonstram por eles. Sejam caçadores de monstros, inquisidores da Igreja ou até investigadores de agências governamentais, quando uma dessas criat...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-no-h-9",
+      "name": "NO H",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        9
+      ],
+      "page": 9,
+      "summary": "NO H No épico de ação e aventura AVATAR, James Cameron; diretor de Titanic, nos leva a um mundo espetacular, além da nossa imaginação. Na distante lua Pandora; um heroi relutante embarca em uma jornada de redenção e descoberta, liderando uma batalha heróica para salvar a civilização. O filme foi idealizado por Cameron há 14 anos, quando ainda não existiam me...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-capitulo-i-14",
+      "name": "CAPÍTULO I -",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        [
+          14,
+          23
+        ]
+      ],
+      "page": null,
+      "summary": "1 4 Adaptado de um ensaio de Robert E. Howard Quando Robert E. Howard começou a escrever as aventuras de Conan, o Cimério, mais de quarenta anos atrás, ele também idealizou toda a histó- ria da chamada Era Hiboriana Esta história tem início cerca de oito mil anos antes do aparecimento do bárbaro, durante a civi- lização Thuriana, onde nasceu o Rei Kull, époc...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-passado-4",
+      "name": "PASSADO",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rente. Escolha um nome, idade, local de nascimento, o nome de seus pais e irmãos (se tiver), como foi se...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "livrodomal--livrodomal-janos-audren-24",
+      "name": "Janos Audren",
+      "area": "aventuras",
+      "category": "kit_class",
+      "source": "livrodomal",
+      "sourceTitle": "livrodomal",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "Janos Audren Como um exemplo de malfeitor iremos apresentar Janos Audren, um personagem criado para uma campanha de Arkanun. Janos é um vilão do tipo mentiroso trapaceiro. De nacionalidade européia, e abandonado quando criança, Janos foi acolhido por uma ordem de assassinos árabes conhecida como Sociedade de Hassan. Devido ao preconceito dos árabes por Janos...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "kit_class"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "livrodomal--livrodomal-nota-dos-autores-26",
+      "name": "Nota dos Autores",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "livrodomal",
+      "sourceTitle": "livrodomal",
+      "pages": [
+        26
+      ],
+      "page": 26,
+      "summary": "Nota dos Autores Nós, do Grupo NeoDaemon, temos como objetivo lançar uma série de netbooks para expandir ainda mais o sistema Daemon, fazendo com que jogadores e mestres, iniciantes ou experientes, encontrem o material necessário para desenvolver suas aventuras. Não podemos dizer com sinceridade que este livro não nos deu trabalho para ser feito, mas aqui es...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "venenos--venenos-guia-de-venenos-medievais-para-daemon-1",
+      "name": "Guia de venenos medievais para daemon",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "venenos",
+      "sourceTitle": "venenos",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Guia de venenos medievais para daemon * Feito por Metamorph Sephiroth também conhecido como o 100 muié “Não leve a vida tão a serio, pois a vida é uma aventura que não sairemos vivos”. Os tipos de venenos Existem milhares de tipos diferentes de venenos, cada um com seu efeito particular. Em termos de jogo, os venenos possuem três atributos que o definem: Mét...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-historico-do-anime-3",
+      "name": "Histórico do Anime",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "page": null,
+      "summary": "Histórico do Anime A série de TV tem 112 episódios, e estreou na Fuji Television em Novembro de 1992, essa série de Yoshihiro Togashi foi um sucesso no Japão, que se repetiu no Brasil pela falecida Rede Manchete. O nome Yu Yu Hakusho significa : “As aventuras do fantasma brincalhão” ou “A história do fantasma brincalhão”. No primeiro capítulo Yusuke Urameshi...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "vantagens",
+  "title": "Vantagens",
+  "status": "full-read-auto-pass-1",
+  "pages": 21,
+  "primaryCategories": [
+    "combat",
+    "attribute_skill",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "vantagens-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          21
+        ]
+      ],
+      "summary": "Aceleração (1 pto): Você é mais ágil e pode correr mais rápido e saltar mais longe, sendo até mesmo capaz de permanecer no ar por alguns momentos (como se tivesse Levitação e Habilidade 1; veja Levitação mais adiante). Esta Vantagem acrescenta 1 ponto à Habilidade APENAS para situações de perseguição, fuga e esquiva (não cumulativos com Teleporte) e 2 pontos...",
+      "entityRefs": []
+    }
+  ]
+}

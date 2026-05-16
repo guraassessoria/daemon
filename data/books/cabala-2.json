@@ -1,0 +1,128 @@
+{
+  "source": "cabala-2",
+  "title": "Cabala",
+  "status": "full-read-auto-pass-1",
+  "pages": 41,
+  "primaryCategories": [
+    "creature_npc",
+    "race_lineage",
+    "power_magic",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "cabala-2-apresentando-1",
+      "name": "APRESENTANDO",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "1 APRESENTANDO Saudações RPGistas de todo o Brasil! Eu sou rafael menestrel, e venho apresentar-lhes a conclusão de um (longo) projeto com o qual eu trabalho há vários meses. Esse é apenas um pequeno suplemento para Arkanum/ Trevas, que tem como objetivo auxiliar o Mestre na tarefa divina de conduzir os personagens pelas aventuras. Nesse net-book, eu retirei...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-cabala-2",
+      "name": "CABALA",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "2 CABALA Cabala, antiga sociedade secreta, composta essencialmente por humanos – dentre eles, magos, lobisomens e zumbis. Sua origem é incerta, já que existem registros de sua atuação desde o surgimento do Império Egípcio. Seus objetivos não são claros, e apenas os mais graduados Cabalistas sabem qual é a real finalidade da sociedade. Aparentemente, é uma so...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-organizacao-5",
+      "name": "ORGANIZAÇÃO",
+      "category": "creature_npc",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "5 Existe a crença entre os cabalistas, de que alguns magos conseguiram encontrar a chave para a imortalidade. Por isso, os grimórios da Cabala estão repletos de referências e fórmulas de longevidade e magias de ressurreição. Muitos grão-mestres da sociedade têm fama de terem centenas de anos de idade. Os cabalistas mais antigos (adeptos dos séculos anteriore...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-frases-memoraveis-7",
+      "name": "FRASES MEMORÁVEIS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "7 FRASES MEMORÁVEIS “A Cabala zomba da ordem natural. Para seus asseclas, a morte é apenas uma pausa entre dois turnos.” Azzrak de Gamorra, Elfo residente em Novgorod “O sangue dos anjos, demônios e vampiros é o néctar que nutre a Cabala.” Robert de Mille, Grão-Mestre da Cabala (1293-1314) “Os ossos espalhados ao nosso redor se juntavam criando corpos disfor...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-kits-para-cabalistas-11",
+      "name": "KITS PARA CABALISTAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "11 KITS PARA CABALISTAS A seguir, segue uma lista de kits para personagens e NPCs que desejem ser integrantes da Cabala. Repare, que o Kit Cabalista Iniciado é obrigatório para todos os iniciados na Cabala e os outros são apenas para explicar o verdadeiro papel do Personagem dentro da Ordem. Cabalista Iniciado Tempo de Aprendizado: 1 a 3 anos Custos: 2 pts....",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-aprimoramentos-13",
+      "name": "APRIMORAMENTOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "summary": "13 APRIMORAMENTOS Biblioteca Cabalista O Personagem tem acesso a uma vasta Biblioteca Cabalista que se encontra na central da Cabala da cidade. Se o Personagem estiver em condições de consultá-la, a Biblioteca Cabalista aumentará os conhecimentos do Personagem em alguns assuntos. A Biblioteca Cabalista abrange apenas as seguintes perícias: Ciências (Herbalis...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-pontos-de-fe-de-aton-16",
+      "name": "PONTOS DE FÉ DE ATON",
+      "category": "creature_npc",
+      "pages": [
+        [
+          16,
+          18
+        ]
+      ],
+      "summary": "16 PONTOS DE FÉ DE ATON Os Pontos de Fé expressam o poder máximo dos Sacerdotes Cabalistas, pois canalizando a sua fé no deus único Aton, eles são capazes de realizar feitos fantásticos. Essa Fé só pode ser alcançada, se o cabalista se dedicar de corpo e alma para a religião. Essa dedicação deve vir de várias formas. Sempre que for possível, o cabalista deve...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-rituais-necromanticos-19",
+      "name": "RITUAIS NECROMÂNTICOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          19,
+          28
+        ]
+      ],
+      "summary": "19 RITUAIS NECROMÂNTICOS Neste capítulo, são apresentados os principais rituais pesquisados e realizados pela Cabala, que podem ser aprendidos por seus seguidores, bem como pelos Magos do Arkanum Arcanorum que tiverem sorte para achar um pergaminho contendo um destes rituais. Amedrontar Entender/ Controlar Trevas/ Humanos 2 Esta magia consiste em “deformar”...",
+      "entityRefs": []
+    },
+    {
+      "id": "cabala-2-servos-da-cabala-29",
+      "name": "SERVOS DA CABALA",
+      "category": "creature_npc",
+      "pages": [
+        [
+          29,
+          41
+        ]
+      ],
+      "summary": "29 SERVOS DA CABALA A Cabala é uma sociedade muito antiga e poderosa, e como tal, tem muitos servos e criaturas a seu dispor. Essas criaturas, na maioria das vezes são mal vistas pelas outras pessoas, mas os cabalistas possuem extremo orgulho e estima pelos seus servos “diferentes”. Chuck CON [4D+6], FR [5D+6], DEX [4D], AGI [4D+6] INT [3D+6], WILL [3D+6] CA...",
+      "entityRefs": []
+    }
+  ]
+}

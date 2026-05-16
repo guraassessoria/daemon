@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+  "language": "por+eng",
+  "dpi": 300,
+  "psm": null,
+  "adaptive": false,
+  "adaptivePsm": [
+    "default",
+    4,
+    11
+  ],
+  "preprocess": "gray",
+  "sources": [
+    {
+      "id": "anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica",
+      "status": "done",
+      "pages": 32,
+      "chars": 30532,
+      "errors": [],
+      "modes": {
+        "default": 32
+      },
+      "seconds": 72.97
+    }
+  ]
+}

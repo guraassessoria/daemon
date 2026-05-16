@@ -1,0 +1,552 @@
+{
+  "source": "dragoes-reis-caidos-sistema-daemon",
+  "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 66,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "kit_class",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-1",
+      "name": "DragõeS",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "DragõeS Reis Caídos",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-criacao-e-desenvolvimento-hatalibio-almeida-2",
+      "name": "Criação e Desenvolvimento: Hatalíbio Almeida,",
+      "category": "power_magic",
+      "pages": [
+        2
+      ],
+      "summary": "Criação e Desenvolvimento: Hatalíbio Almeida, Henrique Santos, Leonardo Bocaletti, Alex Tadeu e demais membros do fórum da editora Daemon. Revisão: Hatalíbio Almeida Capa: Blizard Arte Interna: Paizo,Wizard of The Coast Programação Visual: Lobo Lancaster Diagramação: Lobo Lancaster Esta é uma obra de ficção sem fins lucrativos. Apesar dos fatos citados neste...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-introducao-3",
+      "name": "Introdução",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Introdução Um sábio uma vez disse que a pressa é inimiga da perfeição. Bem, com certeza esse conceito se aplica à esse netbook, cujo qual demorou um bom tempo para ficar pronto, mas me orgulho em dizer que é um dos melhores que já fizemos até hoje. Ele é o esforço conjunto de fãs do Sistema Daemon para produzir um suplemento que realmente abarcasse a realida...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-4",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos História dos Dragões Cosmologia do Dragão dos Éons Ninguém sabe ao certo a origem dos Dragões. Durante milhares de anos, desde as eras antigas, o Mito da Criação dos Dragões foi passado de geração para geração de Dragões. Embora surgidas em épocas e sob condições tão diferentes, todas as raças dracônicas do plano terrestre compartilham d...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-6",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos elementais. Os Dragões Vermelhos ficaram com vulcões e grandes formações rochosas, como canyons e montanhas, às vezes encontrando Dragões Azuis, que preferiam os cumes das montanhas mais altas, mas também o próprio céu e nuvens. As áreas pantanosas e lamacentas ficaram para os subestimados Dragões Marrons, embora Dragões Negros também ti...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-8",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Ragrash, como a aliança entre os Dragões Azuis, Verdes e Aquamarine, que temporariamente se uniram para combater a ameaça que se impunha sobre seu plano. Enquanto a maioria dos Dragões Elementais se unia contra o Ragrash e os reinos dos Dragões Vermelhos e Negros, existiam aqueles que viam a guerra sob uma perspectiva diferente, perceben...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-10",
+      "name": "Dragões: Reis Caídos",
+      "category": "race_lineage",
+      "pages": [
+        10
+      ],
+      "summary": "Dragões: Reis Caídos tinham como filhos os Dragões de Esmeralda, Dragões Brancos tinham como descendentes os Dragões de Cristal e os Dragões Negros tiveram os Dragões de Ônix como prole. Para quaisquer outras raças, diferenciar um Dragão Elemental de um Dragão Gema era praticamente impossível - Dragões de Rubi eram ainda conhecidos como Dragões Vermelhos por...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-1-historia-dos-dragoes-11",
+      "name": "Capítulo 1 - História dos Dragões",
+      "category": "core_rule",
+      "pages": [
+        11
+      ],
+      "summary": "Capítulo 1 - História dos Dragões",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-12",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos de Hypnos e de seus filhos Morpheus, Phantasus e Proebetus. Impérios feitos de energias oníricas e glamour eram erguidos e logo se desfaziam quando o dragão despertava de seu Sonho, às vezes séculos depois de ter adormecido - encontrando apenas a destruição do que acumulavam em riquezas, tomadas pelas novas raças gananciosas da Terra. Fu...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-14",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Adversários subiu quatro posições, deixando-o no 19º lugar. Em Paradísia, uma grande quantidade de fortalezas de Dragões Brancos foi atacada por grupos de expansão de Jotunheimr. Na chamada Batalha das Geleiras Eternas, uma coligação de Dragões Brancos e Ljosálfar, apoiada por Dragões de Prata aliados a Aasgard, enfrentou o general Jotun...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-16",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          16,
+          17
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos enfrentou um poderoso Dragão de Esmeralda e, em vez de exterminá-lo, o converteu ao Cristianismo. Este evento foi simultâneo à dolorosa traição de Naki-ah à Cidade de Prata, quando o Dragão de Safira convertido assassinou quase todos os Lanceiros de Sammael e fugiu à Terra. São Jorge e seu novo parceiro dracônico perseguiram Naki- ah e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-18",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        18
+      ],
+      "summary": "Dragões: Reis Caídos dragão Kintaro - que assumiu o nome humano de Lien Junbao -, filho da Dragonesa Amarela Xiaosheng. Todos os dragões europeus preferiram também a nobreza ao capitalismo, mantendo estruturas semelhantes às feudais em seus territórios de influência. Já na América, os dragões imigrantes perceberam o poder que o dinheiro e o controle dos meio...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-seus-dois-outros-juizes-ativos-19",
+      "name": "seus dois outros Juízes ativos.",
+      "category": "core_rule",
+      "pages": [
+        19
+      ],
+      "summary": "seus dois outros Juízes ativos. Ao fim da Segunda Grande Guerra, o dragão Kilgharrah conseguiu resgatar a Yuggothamerich das mãos dos nazistas e, através das energias da invencível arma, recuperou sua forma dracônica. A arma foi escondida nos calabouços secretos da Ordem do Graal, embora acredite-se que esteja protegida em Avalon. O fim da guerra também marc...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-20",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        20
+      ],
+      "summary": "Dragões: Reis Caídos Criação de Personagem Nível de Poder Dragões são seres inerentemente nativos da Terra. Quando se cria um personagem dracônico terreno, os mesmos deveriam possuir Escala Épica 1, porém, como são seres de natureza pré-Giro da Roda dos Mundos, sua essência é imantada com poderes sobrenaturais, o que já lhes confere Escala Épica 2. Dragões I...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-2-criacao-de-personagem-21",
+      "name": "Capítulo 2 - Criação de Personagem",
+      "category": "core_rule",
+      "pages": [
+        21
+      ],
+      "summary": "Capítulo 2 - Criação de Personagem",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-22",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        22
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Aquamarine A Origem Durante o segundo Éon do plano terrestre, os novos dragões surgidos após o giro se dividiam em diversos reinos, sempre tendo os dragões primordiais como líderes. Em meio a essa divisão de territórios e reinados, existia um Dragão que encontrou nos mares um refúgio para sí e para todos aqueles que o seguiam. Sj...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-arkanun-trevas-23",
+      "name": "Arkanun/Trevas",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "Arkanun/Trevas Após o término da guerra, muitos dragões Aquamarines se encontravam espalhados pelo continente, tendo como sua nova morada os diversos rios e lagos que existem em meio a terra seca. Com o giro da Roda dos Mundos, os mares da Terra foram tomados pelas mais diversas criaturas e deidades, se tornando um verdadeiro território em disputa. Incapazes...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-24",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        24
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Azuis Origem Após presenciar o primeiro Giro da Roda dos Mundos, muitos dragões, sem compreender a abrangência de tamanho fenômeno, passaram a acreditar que a Terra estava sendo destruída pela expansão dracônica pelo mundo, tomando as terras para si e moldando os terrenos e ambientes através de sua magia. Temerosos por um segundo...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-fraquezas-25",
+      "name": "Fraquezas",
+      "category": "core_rule",
+      "pages": [
+        25
+      ],
+      "summary": "Fraquezas Fúria, Avareza, Suscetibilidade à Elemento (Terra) e 2 Fraquezas à escolha do Jogador. Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-26",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Brancos A Origem A orgulhosa história dos dragões brancos iniciou- se por uma restrita cabala de dragões primordiais que se autointitulavam Syv Forskere, Os Sete Grandiosos. O objetivo da cabala era nada menos que encontrar uma forma de alcançar outras dimensões sem desvencilhar-se de seus corpos de carne. Os estudos dos Syv Fors...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-28",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Corrompidos A Origem Quando a Terra dos dragões elementais e dos pássaros celestiais estava em seu auge, os diversos impérios dracônicos dominavam os outros povos do mundo, o que sempre os levava a guerras e alianças que se faziam e desfaziam constantemente. Alguns desses impérios veneravam criaturas titânicas do plano altíssimo...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-30",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        30
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Dourados A Origem Tidos como os mais puros e sábios entre os grandes lagartos, os dragões dourados não poderiam estar mais longe da verdade. Aliás, esse é um dos rumores criados na Idade Média em torno de poucos representantes dessa raça que chegaram aos templários. Dragões dourados originaram-se de um pequeno grupo de dragões ad...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-31",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        31
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-32",
+      "name": "Dragões: Reis Caídos",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Marrons A Origem No Éon dos Dragões Primordiais, havia um poderoso e sábio \"cientista\" (também o precursor do que poderia ser chamado de \"cosmonauta\" para essa cultura dracônica) chamado Kolifaroe que se cansou da ganância e arrogância de sua espécie, resolvendo deitar-se e entrar em sono profundo em sua câmara tecnomágica, de mo...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-33",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        33
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-34",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        34
+      ],
+      "summary": "Dragões: Reis Caídos Dragões negros A Origem Há muitas eras, durante o éon dos dragões primordiais, existia um sábio e poderoso dragão chamado Yahvur, cujo poder e a força eram superados apenas por sua virtude. Yahvur sempre foi um líder pacífico e justo, levando seu povo a prosperidade. Após o giro que deu inicio à era dos dragões elementais, Yahvur decidiu...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-caracteristicas-35",
+      "name": "Características",
+      "category": "power_magic",
+      "pages": [
+        35
+      ],
+      "summary": "Características Os Dragões Negros possuem escamas pretas e nebulosas, de forma que de longe se assemelham a uma grande massa de sombras em formato dracônico. Estes costumam possuir hábitos noturnos e habitam grandes cavernas de forma a evitar o sol do dia. Sua alimentação, assim como a da maioria dos dragões se consiste basicamente de carne e carniça, porém...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-36",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        36
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Psíquicos A Origem Também conhecido como Dragão Psiônico, Dragão Astral ou Psidragão, essas criaturas vivem completamente no Plano Astral, nunca existindo completamente em Spiritum nem no Plano Material. Dragões Psíquicos possuem seus poderes completamente baseados em poderes psíquicos, nunca podendo desenvolver poderes mágicos –...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-37",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        37
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-38",
+      "name": "Dragões: Reis Caídos",
+      "category": "setting_lore",
+      "pages": [
+        38
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Verdes Origem Nascidos antes do último giro da Roda dos Mundos, os Dragões Verdes trazem consigo o sangue da Dragonesa Primordial chamada Beira. Durante o giro que destruiu o mundo dos Primordiais e o reanimou como a terra dos dragões elementais, esta Primordial teve sua essência espalhada em uma pequena região coberta por uma es...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-39",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        39
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-40",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        40
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Vermelhos Origem Uma das raças dracônicas mais temidas, os furiosos e sangrentos Dragões Vermelhos representam exatamente o que o elemento fogo traz: calor, agitação, destruição, dor. Paradoxalmente originados da mesma fonte que os Dragões Aquamarine, os Dragões Vermelhos têm como “avô” o Dragão Primordial Sjouhyr, o especialista...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-41",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        41
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-42",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        42
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Hibridos Alguns dragões cruzaram com outros diferentes dos de sua raça, criando híbridos. Geralmente cruzamentos interraciais draconianos não costumam gerar crias, tendo uma probabilidade menor do que a já rara hipótese de um dragão gerar um ovo. Devido à sua natureza mágica, dragões podem cruzar com seres de outras raças não-dra...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-43",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        43
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-44",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        44
+      ],
+      "summary": "Dragões: Reis Caídos Meio Dragões Origem Também conhecidos como Dragonkind, os Meio- Dragões são a principal raça híbrida influente no cenário de DRAGÕES: REIS CAÍDOS. Via de regra, um Meio-Dragão é gerado como fruto da união entre um dragão em forma de um humano com uma humana. O fruto dessa união nasce de forma vivípara (ou seja, de um útero) como um mamíf...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-3-racas-draconicas-45",
+      "name": "Capítulo 3 - Raças Dracônicas",
+      "category": "core_rule",
+      "pages": [
+        45
+      ],
+      "summary": "Capítulo 3 - Raças Dracônicas",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-46",
+      "name": "Dragões: Reis Caídos",
+      "category": "core_rule",
+      "pages": [
+        46
+      ],
+      "summary": "Dragões: Reis Caídos Fraquesas Dracônicas Cada dragão terá 5 fraquezas, sendo obrigatori­ amente duas delas a Avareza e a Fúria. Alguns dragões possuem mais de duas fraquezas obrigatóri­ as,d e acordo com a descrição, as restantes escolhi­ das da lista abaixo. Fúria A fúria causticante queima no coração de todo dragão. O descontrole sempre está detrás do olh...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-sensibilidade-a-elemento-47",
+      "name": "Sensibilidade à Elemento",
+      "category": "power_magic",
+      "pages": [
+        47
+      ],
+      "summary": "Sensibilidade à Elemento Quase todas as raças dracônicas, salvo algumas exceções, são particularmente suscetíveis ao seu elemento contrário. Essa particularidade advêm de seus antepassados primordiais, cujos quais geraram suas raças baseados nos Sephiroth e nos Caminhos de Magia onde cada um possui seu oposto e mes­ mo um mago que os tenha como Caminho Primá...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-48",
+      "name": "Dragões: Reis Caídos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          48,
+          49
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Poderes Dracônicos Asas (todas as raças) Nível 1: o dragão possui um grande par de asas draconianas, e é capaz de voar a até 40m/s (aprox. 150km/h). Nível 2: o dragão é capaz de voar a até a velocidade máxima de 80m/s (aprox. 300km/h). Nível 3: o dragão é capaz de voar a a até 160m/s (aprox. 600km/h). Nível 4: o dragão é capaz de voar a...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-50",
+      "name": "Dragões: Reis Caídos",
+      "category": "core_rule",
+      "pages": [
+        [
+          50,
+          51
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos nível 4 (Hálito Escaldante), de modo que este nível de poder poderá ser usado sem os efeitos colaterais. Nível 6: Fusão Terrena – O Dragão Marrom liga- se ainda mais ao Plano Elemental da Terra, utilizando-o como forma de atravessar grandes distâncias. Quando entrar em uma grande poça argilosa ou penetrar em areias desérticas, o Dragão M...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-52",
+      "name": "Dragões: Reis Caídos",
+      "category": "core_rule",
+      "pages": [
+        [
+          52,
+          53
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos uma vítima através do contato entre mentes. Outros dragões, demônios, vampiros ou telepatas podem tentar escutar a conversa (um Teste de WILL vs. WILL do dragão é necessário). Vários dragões podem se comunicar telepaticamente ao mesmo tempo, em reuniões e Rituais onde o silêncio é fundamental. Nível 4: Idéia Original. Com este poder, os...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-54",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          54,
+          55
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos se torna capaz de atravessar grandes distâncias atravez da água. O dragão pode entrar em qualquer fonte de água grande o bastante para cobri-lo por completo (muitos dragões aquamarine assumem a sua forma humana para se transportar através de rios mais estreitos) e se deslocar para qualquer outro ponto aquático que esteja conectado ao pon...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-56",
+      "name": "Dragões: Reis Caídos",
+      "category": "core_rule",
+      "pages": [
+        [
+          56,
+          57
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos “repuxá-lo”, concedendo-lhe um pouco de sorte. Em termo de jogo, o dragão pode, 3 vezes por dia, conceder um bônus de +60% em todos os testes de uma criatura por uma Cena. Nível 3: Portal Dimensional. Três vezes por dia o Dragão pode abrir um portal dimensional para qualquer lugar que ele conheça. Nível 4: Resistência à Magia. O Dragão d...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-58",
+      "name": "Dragões: Reis Caídos",
+      "category": "power_magic",
+      "pages": [
+        [
+          58,
+          59
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Umbra. Sempre que estiver coberto por sombras, o dragão recebe um bônus de 20% em furtividade para cada nível gasto em Rex Umbra. Nível 2: Desvanecer. O dragão negro está em constante transição entre o plano material e o plano das sombras. Essa oscilação não é perceptível ao olho nú, porém lhe dá uma grande vantagem quando em combate, vi...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-60",
+      "name": "Dragões: Reis Caídos",
+      "category": "race_lineage",
+      "pages": [
+        60
+      ],
+      "summary": "Dragões: Reis Caídos Aprimoramentos Dracônicos Baforada Profana Exclusivo para Dragões Negros e Dracoliches 3 pontos: Você aprendeu a controlar as energias sombrias que correm no sangue de todo Dragão Negro ou morto, uma força oculta única que lhe permite vomitar energia negra junto de seu sopro- de-dragão, arrancando a própria vida da carne e ossos de seus...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-capitulo-6-aprimoramentos-draconicos-61",
+      "name": "Capítulo 6 - Aprimoramentos Dracônicos",
+      "category": "core_rule",
+      "pages": [
+        61
+      ],
+      "summary": "Capítulo 6 - Aprimoramentos Dracônicos",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-62",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          62,
+          63
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Dragões Notáveis Apalala, o Traidor Apalala, dragão com o corpo de forma serpentina e quatro patas, é um dos mais poderosos e conhecidos entre dragões dourados que já existiu, sendo um dos membros do grupo que realizou ritual para transmutarem seus corpos antes do Grande Giro. Por desobedecer algumas regras, estabelecidas antes do Ritual...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-64",
+      "name": "Dragões: Reis Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          64,
+          66
+        ]
+      ],
+      "summary": "Dragões: Reis Caídos Grande Guerra não passam de um mito, devaneio dos mais velhos, que já estão próximos da morte. Seliah Mahtuk Nascido no primeiro ano após a vinda de Christos para a Terra, este dragão negro é bem conhecido entre os Anjos Captare. Em 1202, Alephia e seus companheiros realizavam uma missão na Terra, na tentativa de recuperar um item mágico...",
+      "entityRefs": []
+    }
+  ]
+}

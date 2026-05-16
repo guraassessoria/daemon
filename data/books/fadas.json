@@ -1,0 +1,47 @@
+{
+  "source": "fadas",
+  "title": "fadas",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "attribute_skill",
+    "item_equipment",
+    "core_rule",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "fadas-fadas-1",
+      "name": "Fadas",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Fadas By Rafael Menestrel “É muito útil saber falar com as árvores. Porém, ser capaz de ouvi-las é a verdadeira maravilha.” Fadas são criaturas simpáticas de aparência esguia, de orelhas pontudas (como os elfos) e de pequeno porte (a maioria mede entre 15cm até 40cm). Algumas delas possuem pequenas asas e olhos negros de insetos e todas são apreciadoras da n...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadas-cabeca-para-baixo-3",
+      "name": "cabeça para baixo.",
+      "category": "item_equipment",
+      "pages": [
+        3
+      ],
+      "summary": "cabeça para baixo. Nível 1: Pés de Macaco. Os pés da Fada possuem o dedão separado dos demais dedos. É possível realizar tarefas simples como pegar objetos leves e facilita (+20%) escaladas se estiver descalça. Regeneração O sangue Arcadiano tem uma grande capacidade de regeneração. Nível 1: a Fada regenera 1 PV a cada 12 horas Nível 2: a Fada regenera 1 PV...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadas-terra-natal-4",
+      "name": "Terra Natal",
+      "category": "race_lineage",
+      "pages": [
+        4
+      ],
+      "summary": "Terra Natal Esta Fada era muito apegada a sua Terra Natal e por isso, foi muito difícil deixá-la para traz. Todas as noites, esta Fada deve dormir em contato com um pouco da sua Terra Natal de Arcádia (dormir sobre um pequeno montinho de Terra de Arcádia já é o suficiente). Não cumprir esta exigência deixa a Fada muito fraca (o que ocasiona um redutor de 1 e...",
+      "entityRefs": []
+    }
+  ]
+}

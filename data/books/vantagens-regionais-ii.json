@@ -1,0 +1,47 @@
+{
+  "source": "vantagens-regionais-ii",
+  "title": "Vantagens Regionais II",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "attribute_skill",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "vantagens-regionais-ii-salistick-1",
+      "name": "Salistick).",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "Uma vantagem regional é ligada a uma região específica, e só pode ser adquirida por personagens que tenham sido criados ou que tenham vivido boa parte de sua juventude nesta região. Todo personagem recém-criado pode escolher uma destas vantagens; e pode adquirir outras vantagens regionais com pontos de expe- riência (10 pontos de experiência compram uma vant...",
+      "entityRefs": []
+    },
+    {
+      "id": "vantagens-regionais-ii-amigo-das-aguas-callistia-khubar-2",
+      "name": "Amigo das Águas (Callistia, Khubar)",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "Amigo das Águas (Callistia, Khubar) Você recebe FA+1 quando luta com uma arma feita por fáceis. Além disso, uma vez por rodada, você pode fazer Você pode se mover normalmente quando estiver você mesmo. um teste de Cavalgar para substituir uma esquiva na qual nadando ou lutando na água, como se fosse um Anfíbio tenha acabado de falhar. Esta habilidade só pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "vantagens-regionais-ii-tatuagem-mistica-khubar-6",
+      "name": "Tatuagem Mística (Khubar)",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Tatuagem Mística (Khubar) Exigências: A2. Escolha uma das seguintes magias: Marcha da Coragem ou Proteção Mágica. Você pode lançá-la apenas sobre si mesmo, uma vez ao dia, mesmo que não tenha nenhuma vantagem mágica. O número máximo de PMs que você pode gastar na conjuração é igual ao seu valor de Arma-dura. Terreno Familiar (todos) Você recebe a vantagem Ar...",
+      "entityRefs": []
+    }
+  ]
+}

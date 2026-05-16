@@ -1,0 +1,103 @@
+{
+  "source": "cdd",
+  "title": "Cdd",
+  "status": "full-read-auto-pass-1",
+  "pages": 17,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "cdd-caverna-1",
+      "name": "Caverna",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Caverna do Dragão Caverna do Dragão Escrito por Fernando “FUIM” P. da S. Filho Escrito por Fernando “FUIM” P. da S. Filho",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-editorial-2",
+      "name": "EDITORIAL",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "summary": "EDITORIAL Este trabalho (Livro virtual ou E-book) foi escrito por Fernando Pinheiro da Silva Filho, inteiramente conhecido por seus amigos em Alagoas por “Fuim”. Fernando não está lucrando nada com isso, pois a distribuição desse material é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço Se você quer criar...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-o-salao-dos-ossos-9",
+      "name": "O Salão dos ossos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          9,
+          11
+        ]
+      ],
+      "summary": "O Salão dos ossos Aqui descansa muitos dos grandes heróis do Reino. Um verdadeiro túmulo de bravos guerreiros do passado. Está localizado no fundo de uma série de montanhas rochosas, dificultando a visita de curiosos. Ao oeste localiza-se a formosa cidade de Threshold. É proibido para qualquer um entrar no imenso túmulo; onde dizem está supostamente assombra...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-a-caverna-dos-dragoes-fada-12",
+      "name": "A Caverna dos Dragões-Fada",
+      "category": "power_magic",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "A Caverna dos Dragões-Fada A caverna é a casa temporária dos Dragões-Fada. Eles utilizaram-na para viver depois de seu antigo lar, a Floresta Encantada, que há muito tempo foi queimada. Eles agora estão lentamente em uma peregrinação ao extremo oeste, para um lugar chamado de Floresta no Fim do Mundo. Ao sudoeste da caverna reside-se um novo reino, formado p...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-45-00-dano-3d8-bonus-14",
+      "name": "45/00 Dano: 3d8+bônus",
+      "category": "combat",
+      "pages": [
+        14
+      ],
+      "summary": "45/00 Dano: 3d8+bônus Os Golens Colossais são estátuas gigantes que foi trazida à vida para servirem a um mago. Foram criados séculos atrás, para vigiar uma entrada, cavernas ou algum terreno. Outros podem ser inanimados como uma estátua, até serem ativados por um mago. Por causa de seu enorme tamanho, o Golem Colossal é muito difícil de criar, e, portanto é...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-hank-15",
+      "name": "Hank",
+      "category": "combat",
+      "pages": [
+        15
+      ],
+      "summary": "Hank Ranger humano de 1º Nível CON: 12 FOR: 14 DEX: 14 AGI: 12 INT: 14 WILL: 12 PER: 14 CAR: 14 #Ataques 1, PVs: 14 IP: 1 (corselete de couro) Arco Mágico 34% Dano: Ver Cap. “Itens Mágicos” Corselete de Couro, Arco Mágico Esquiva 32%, Natação 32%, Etiqueta 24%, Rastreio 34%, Arco 34%, Empatia 24%, Liderança 34%, Sobrevivência 24%. Erick Cavaleiro humano de 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-sheylla-16",
+      "name": "Sheylla",
+      "category": "item_equipment",
+      "pages": [
+        16
+      ],
+      "summary": "Sheylla Ladra humana de 1º Nível CON: 12 FOR: 10 DEX: 14 AGI: 14 INT: 13 WILL: 14 PER: 14 CAR: 14 #Ataques 1, PVs: 12 IP: 0 Manto Mágico (Ver Cap. “Itens Mágicos”) Natação 34%, Etiqueta 24%, Camuflagem 24%, Disfarce 24%, Furtar 24%, Furtividade 34%, Empatia 34%, Manto 34%. Uni Unicórnio de 0º Nível CON: 8 FOR: 6 DEX: 10 AGI: 14 INT: 12 WILL: 12 PER: 13 CAR:...",
+      "entityRefs": []
+    },
+    {
+      "id": "cdd-caverna-17",
+      "name": "Caverna",
+      "category": "attribute_skill",
+      "pages": [
+        17
+      ],
+      "summary": "Caverna do Dragão Caverna do Dragão Nome ________________________________________ Raça _________________________________________ Sexo ___________ Altura ___________Peso _____ Atributos Atributos Pontos de vida Pontos de vida Pontos Heróicos Pontos Heróicos Pontos de Fé Pontos de Fé Ìndice de Proteção Ìndice de Proteção Pontos de Magia Pontos de Magia Armadur...",
+      "entityRefs": []
+    }
+  ]
+}

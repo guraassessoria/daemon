@@ -1,0 +1,50 @@
+{
+  "source": "samurais",
+  "title": "Samurais",
+  "status": "full-read-auto-pass-1",
+  "pages": 7,
+  "primaryCategories": [
+    "combat",
+    "attribute_skill",
+    "core_rule",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "samurais-by-leonardo-brandao-barleta-leonardo-barleta-bol-com-br-1",
+      "name": "By Leonardo Brandão Barleta (leonardo.barleta@bol.com.br)",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "By Leonardo Brandão Barleta (leonardo.barleta@bol.com.br) História do Japão Período Kamakura (1192-1333) Yoritomo, do clã vencedor Minamoto, estabeleceu um governo militar, ou xogunato, em Kamakura. Isso significou o fim do antigo sistema monárquico e o início do exercício do poder pela classe dos samurais, baseada num sistema feudal. O shogum e sua administ...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurais-pais-em-guerra-e-unificacao-2",
+      "name": "\"País em guerra\" e unificação",
+      "category": "kit_class",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "\"País em guerra\" e unificação Os daimyos conquistaram um poder quase ilimitado em seus domínios e chegaram a cunhar moedas. Simultaneamente, muitos jovens se lançaram à busca de riquezas no litoral chinês. Os piratas japoneses levaram o terror aos litorais da China, Filipinas, Tailândia, Formosa, Indonésia, Malásia e Indochina. Os vikings do Oriente, como fo...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurais-seppuku-em-busca-de-honra-4",
+      "name": "Seppuku, em busca de honra",
+      "category": "character_option",
+      "pages": [
+        [
+          4,
+          7
+        ]
+      ],
+      "summary": "Seppuku, em busca de honra “Apenas vencendo o medo da morte, alguém pode descobrir o enigma da vida.” Seppuku ou Harakiri é o suicídio de um samurai. Ele é feito para recuperar a honra pessoal caso ela fora perdida em alguma atitude indigna, evitar de ser seqüestrado em um campo de batalha ou por pura lealdade ao daimyo e acompanha-los eternamente. Ele banha...",
+      "entityRefs": []
+    }
+  ]
+}

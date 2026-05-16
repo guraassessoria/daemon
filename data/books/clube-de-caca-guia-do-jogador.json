@@ -1,0 +1,115 @@
+{
+  "source": "clube-de-caca-guia-do-jogador",
+  "title": "Clube de Caça - Guia do Jogador",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 65,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "core_rule",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "clube-de-caca-guia-do-jogador-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          7
+        ]
+      ],
+      "summary": "2 Clube de caça guia do jogador 1a edição 3 Criação: Hatalíbio Almeida Capa: Konradbak Arte Interna: Hatalíbio Almeida. Diagramação: Hatalíbio Almeida Agradecimentos: Um agradecimento especial para Marcelo Del Debbio que gentilmente permitiu a licença aberta do Sistema Daemon que sem essa não poderia ter escrito esses livros que chegam até você e meu grupo d...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-vampiros-8",
+      "name": "VAMPIROS",
+      "category": "race_lineage",
+      "pages": [
+        8
+      ],
+      "summary": "8 VAMPIROS Nosso alvo principal. Por quê? Bem, porque primeiramente, eles são os mais fáceis de se encontrar. Alguns deles são criados em condições apropriadas, ou precisa ter um sangue especial pra se tornar um, mas a grande maioria deles são apenas infectados: alguém – outro vampiro – passou seu sangue pra um cara inocente, e ele se transformou em um dentu...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-1",
+      "name": "DEMÔNIOS (9-18)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          9,
+          18
+        ]
+      ],
+      "summary": "9 DEMÔNIOS Você ouve falar de exorcismos em igrejas do interior do México e segredos do Vaticano e acha que é tudo baboseira até ver em primeira pessoa. Eu vi uma coisa dessas sair de uma mancha preta no chão de um porão em Nova Déli, e vou te dizer, foi uma das coisas mais pavorosas que vi na vida. Pro nosso terror, demônios habitam nosso mundo. Eles estão...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-2",
+      "name": "DEMÔNIOS (19-28)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          19,
+          28
+        ]
+      ],
+      "summary": "19 encontrar, você tem uma chance de 90% dela reconhecê-lo. Caso o reconheça, o Personagem pode realizar testes sociais com um nível de difi culdade maior com aquele NPC. Linhagem Vrykolaka -1 ponto: o Personagem pertence a linhagem mortal de Vrykol, o primeiro vampiro Vrykolaka. Esses descendentes são alvo de transformação para outros Vrykolakas. Dizem os c...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-3",
+      "name": "DEMÔNIOS (29-38)",
+      "category": "combat",
+      "pages": [
+        [
+          29,
+          38
+        ]
+      ],
+      "summary": "29 complexo do que apenas jogar uma rede no chão. Muitas vezes envolve reféns, coisas que muitos caçadores desaprovam, mas o Caçador de Lobisomens não mede esforços pra conseguir sua presa. Caçador de Lobisomens Custo: 3 pontos de Aprimoramentos, 280 pontos de Perícias. Perícias: Armas Brancas (escolha duas 30/30), Armas de Fogo (escolha duas) 50%, Armadilha...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-4",
+      "name": "DEMÔNIOS (39-48)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          39,
+          48
+        ]
+      ],
+      "summary": "39 com leis de desarmamento da população, como o Brasil. O caçador pode armar seu grupo de caçadores e a si mesmo muito mais facilmente. Claro que se suas armas aparecerem nas ruas e seu nome estiver em algum cadastro do governo (como, por exemplo, a Polícia Federal) será bem mais fácil de encontrá-lo. Mas, ei, não se faz um omelete sem quebrar alguns ovos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-5",
+      "name": "DEMÔNIOS (49-58)",
+      "category": "power_magic",
+      "pages": [
+        [
+          49,
+          58
+        ]
+      ],
+      "summary": "49 Pontos de Sanguinus 10º +9 Poderes Vampíricos, +9 Pontos de Sanguinus Habilidades como Aprimoramento Entender Sanguinus 2, Sanguinus Magicae 3, Mente Vermelha 3. habilidades Sanguinus Magicae: o Farmakeia pode conjurar magia utilizando seus Pontos de Sanguinus como se fossem Pontos de Magia. Entender Sanguinus: o Farmakeia pode provar uma gota de Sanguinu...",
+      "entityRefs": []
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador-demonios-9-6",
+      "name": "DEMÔNIOS (59-65)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          59,
+          65
+        ]
+      ],
+      "summary": "59 Aranha), Garras (Unhas Longas, Garras). Fraquezas Comuns: Estaca, Fogo, Decapitação, Sol, Símbolos Religiosos. Raça de vampiros que remete até os tempos aztecas. Adoram Tlazolteotl, a deusa da lua. Os mais jovens são encontrados em favelas de grandes cidades se alimentando dos indigentes, quase como animais, vivendo em becos e criando covis em barracos de...",
+      "entityRefs": []
+    }
+  ]
+}

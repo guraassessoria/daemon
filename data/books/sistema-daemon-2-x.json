@@ -1,0 +1,144 @@
+{
+  "source": "sistema-daemon-2-x",
+  "title": "Sistema-Daemon-2-X",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 98,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-1",
+      "name": "Pagina inicial (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 2 Introdução Já há muito tempo eu tenho uma idéia. A idéia de que qualquer um de nós pode criar um cenário excelente de jogo. Quando o primeiro jogo de horror pessoal chegou ao Brasil, eu vi ali uma fantástico RPG. Infelizmente, a editora do lobo branco foi demasiadamente gananciosa, jogando dezenas de suplementos no mercado, e cada um de seus livros preza...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-2",
+      "name": "Pagina inicial (11-20)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados pela Daemon Ed...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-3",
+      "name": "Pagina inicial (21-30)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 e juízes. Pode fazer multas e pequenas acusações se “perderem na papelada”, cancelar casos, modificar penas ou atrapalhar investigações. Igreja: controle sobre o clero, sobre padres, bispos, fiéis, ativistas, caçadores de bruxas e, dependendo da época e local onde se estiver jogando: Templários, Inquisição e ordens militares religiosas. Indústrias: seu Pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-4",
+      "name": "Pagina inicial (31-40)",
+      "category": "core_rule",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "31 esse objetivo, e to-dos seus atos são guiados por ele. Toda a vida dele é regida por esta causa e nada o fará desistir dela, pois ele acredita que valha qualquer sacrifício em seu nome. Pode ser fanatismo religioso, nacionalismo fervoroso, a busca incansável por um artefato lendário, uma vingança pessoal. Fanfarronice -1 Ponto: O personagem é um trovador....",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-5",
+      "name": "Pagina inicial (41-50)",
+      "category": "combat",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "summary": "41 adequados para o seu trabalho. Alguns Subgrupos Possíveis: Carpinteiro (Madeira), Costureiro (Tecidos), Coureiro (Couros), Ferreiro (Metais), Pedreiro (Pedras), Sapateiro (Sapatos – Couro Rígido). Artilharia* (INT) Reflete a habilidade de um Personagem em manobrar e operar armas de cerco. Esta Perícia é usada para Ataque em um combate de larga escala. Alg...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-6",
+      "name": "Pagina inicial (51-60)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          51,
+          60
+        ]
+      ],
+      "summary": "51 Equipamentos Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-7",
+      "name": "Pagina inicial (61-70)",
+      "category": "combat",
+      "pages": [
+        [
+          61,
+          70
+        ]
+      ],
+      "summary": "61 Maureen é uma pintora de talento [Artes - Pintura 45]. Um nobre muito rico pede a ela um quadro representando o rosto de sua esposa. Maureen terá tempo de sobra para realizar o trabalho, o que lhe facilita muito as chances: 90%. Perícia vs. Perícia Existem situações durante uma Aventura nas quais dois Personagens estão se enfrentando utilizando-se de suas...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-8",
+      "name": "Pagina inicial (71-80)",
+      "category": "core_rule",
+      "pages": [
+        [
+          71,
+          80
+        ]
+      ],
+      "summary": "71 Formas de Evolução No Sistema Daemon 2.X existem duas formas de evolução: por nível e idade avançada. Nível Criaturas sobrenaturais como demônios, anjos e vampiros recebem seus poderes exclusivamente da Idade Avançada. Nível é um conceito humano, criado para Personagens mortais que não dispõem da eternidade para desenvolver seus poderes. Como os Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-9",
+      "name": "Pagina inicial (81-90)",
+      "category": "core_rule",
+      "pages": [
+        [
+          81,
+          90
+        ]
+      ],
+      "summary": "81 machado ou maça; pode explodir uma pedra do tamanho de um punho, causando uma explosão de 2d6 em 50m de raio. Pode revestir os braços em pedra, dando a ele IP4 e um bônus de +2 no dano; pode segurar uma pessoa com Força 2D. É possível enxergar pessoas invisíveis. Tem uma chance de enxergar através de ilusões (faz um teste de Resistência com 2D de Força co...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-2-x-pagina-inicial-1-10",
+      "name": "Pagina inicial (91-98)",
+      "category": "core_rule",
+      "pages": [
+        [
+          91,
+          98
+        ]
+      ],
+      "summary": "91 cavalo, cobra, aranha e etc. Controla simultaneamente ate 2 pessoas ou divide seus pensamentos de forma a realizar simultaneamente duas tarefas (como ler dois livros ou lutar e resolver um problema de matemática ao mesmo tempo). Permite ao místico saber a localização exata de todo um tipo de madeira ou planta próxima a ele (e isso inclui flechas e outros...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source": "aprimoramentostormenta",
+  "title": "aprimoramentostormenta",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "aprimoramentostormenta-novos-aprimoramentos-1",
+      "name": "Novos Aprimoramentos",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Novos Aprimoramentos Desenvolvimento: Maury “Shi Dark” Abreu – e-mail: maury.abreu@bol.com.br Shingo Felipe Watanabe – e-mail: mestre_felipe@hotmail.com Conversão em pdf: Shingo Felipe Watanabe. Baseado no material apresentado no livro O Reinado D20 e nas regras do Livro do Jogador D&D. Todo material oficial no qual esse artigo foi baseado pertence aos autor...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentostormenta-aprimoramentos-regionais-2",
+      "name": "APRIMORAMENTOS REGIONAIS",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "APRIMORAMENTOS REGIONAIS Os livros de O Reinado apresentam regras para personagens nativos de cada reino artoniano em 3D&T. O Tormenta D20 faz um mesmo mas com regras para D&D; o suplemento O Reinado D20 aumenta ainda mais essa lista, com muitos novos Talentos Regionais. Embora as regras de 3D&T possam, em geral, ser aplicadas ao Sistema Daemon, elas não são...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentostormenta-wynlla-conhecimento-de-magia-conhecimento-3",
+      "name": "Wynlla: Conhecimento de Magia, Conhecimento",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Wynlla: Conhecimento de Magia, Conhecimento de Itens Mágicos, Conquista da Magia, Mago Nato, Talento Nativo (qualquer), Terreno Familiar (montanhas ou pradarias). Yuden: Amigo das Armas, Bairrista, Espírito de Equipe, Intolerância, Patriota, Talento Nativo (qualquer), Terreno Familiar (florestas temperadas, montanhas ou pradarias). Zakharov: Arma de Família,...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentostormenta-conhecimento-de-magia-5",
+      "name": "Conhecimento de Magia",
+      "category": "core_rule",
+      "pages": [
+        [
+          5,
+          10
+        ]
+      ],
+      "summary": "Conhecimento de Magia [regional: Pondsmânia, Wynlla]: A Magia é uma ferramenta muito comum nesses reinos, e por isso a maioria de seus habitantes tem grandes conhecimentos a respeito. Personagens com esse Aprimoramento Regional recebem +10% em Testes de Ciências Proibidas (Teoria da Magia e Rituais). Conhecimento de Lendas [regional: Fortuna]: Devido ao cust...",
+      "entityRefs": []
+    }
+  ]
+}

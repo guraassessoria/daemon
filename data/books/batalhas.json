@@ -1,0 +1,27 @@
+{
+  "source": "batalhas",
+  "title": "batalhas",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "batalhas-batalhas-1",
+      "name": "Batalhas",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          8
+        ]
+      ],
+      "summary": "1 Batalhas Regras para Combates entre Exercitos Lamazuus 2 Batalhas entre Exercitos Na Era Hiboriana, uma força militar coesa era tudo o que as nações possuíam para manterem-se livres dos conquistadores. Um exército poderoso era o maior bem que uma nação podia possuir, pois através dele seriam capazes de conquistarem tan- to territórios quanto respeito. Vere...",
+      "entityRefs": []
+    }
+  ]
+}

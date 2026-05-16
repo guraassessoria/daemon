@@ -1,0 +1,97 @@
+{
+  "source": "abismo-infinito-quick-start",
+  "title": "Abismo-Infinito-Quick-Start",
+  "status": "full-read-pass-1",
+  "pages": 40,
+  "primaryCategories": ["core_rule", "setting_lore", "character_option", "kit_class", "combat", "creature_npc"],
+  "parts": [
+    {
+      "id": "abismo-front-matter",
+      "name": "Capa, creditos e aviso inicial",
+      "category": "source",
+      "pages": [1, 2, 3],
+      "summary": "Capa, creditos de autoria, editoras/sites, agradecimentos, origem editorial do projeto e aviso de inadequacao para menores ou pessoas imaturas.",
+      "entityRefs": []
+    },
+    {
+      "id": "abismo-introduction",
+      "name": "O que e um jogo narrativo",
+      "category": "core_rule",
+      "pages": [4, 5],
+      "summary": "Explicacao introdutoria sobre RPG, sessoes, material necessario, personagens e papel do Mestre do Espaco.",
+      "entityRefs": ["mestre-do-espaco"]
+    },
+    {
+      "id": "abismo-setting-space",
+      "name": "O abismo do universo",
+      "category": "setting_lore",
+      "pages": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+      "summary": "Ambientacao de horror espacial, viagem intergalactica, exploracao, naves, hibernacao, tecnologia e premissas de missao.",
+      "entityRefs": ["autoctonia", "hiperions", "prometeus", "argos"]
+    },
+    {
+      "id": "abismo-rules-scenes",
+      "name": "As Regras do Jogo",
+      "category": "core_rule",
+      "pages": [19, 20, 21],
+      "summary": "Regras de cenas, criacao e reacao, vantagens e desvantagens circunstanciais e estrutura basica de resolucao.",
+      "entityRefs": ["abismo-cenas", "vantagens-circunstanciais"]
+    },
+    {
+      "id": "abismo-protagonist-genesis",
+      "name": "Genese do protagonista",
+      "category": "character_option",
+      "pages": [22, 23],
+      "summary": "Criacao de protagonistas, incluindo nome, jogador, cargo, citacao, medo particular, ancoras, sonolencia e ferimentos.",
+      "entityRefs": ["ancoras", "medo-particular", "sonolencia", "ferimentos"]
+    },
+    {
+      "id": "abismo-roles",
+      "name": "Cargos",
+      "category": "kit_class",
+      "pages": [24, 25, 26, 27],
+      "summary": "Cargos de astronauta/protagonista como astrogeologo, engenheiro, cosmologo, criptologo, navegador, exobiologo, medico, psicologo, seguranca e videomaker.",
+      "entityRefs": ["astrogeologo", "engenheiro", "cosmologo", "criptologo", "navegador", "exobiologo", "medico", "psicologo", "seguranca", "videomaker"]
+    },
+    {
+      "id": "abismo-trauma-stress",
+      "name": "Trauma e Estresse",
+      "category": "character_option",
+      "pages": [28, 29, 30, 31, 32, 33],
+      "summary": "Regras psicologicas de trauma, estresse, medo particular, loucura do espaco, sonolencia, olvidamento, camadas de sonhos, controle do sonho e perda de ancoras.",
+      "entityRefs": ["trauma", "estresse", "olvidamento", "camadas-de-sonhos", "controle-do-sonho"]
+    },
+    {
+      "id": "abismo-damage-and-hazards",
+      "name": "Ferimentos e Males do Espaco",
+      "category": "combat",
+      "pages": [34, 35],
+      "summary": "Regras de ferimentos, intencao de dano, armas como vantagens circunstanciais e perigos do espaco como vacuo, gravidade nula e assombro visual.",
+      "entityRefs": ["ferimentos", "males-do-espaco"]
+    },
+    {
+      "id": "abismo-fear-manifestations",
+      "name": "Manifestacoes dos medos",
+      "category": "creature_npc",
+      "pages": [35, 36, 37],
+      "summary": "Regras e orientacoes narrativas para manifestacoes dos medos dos protagonistas, tratadas como antagonistas ligados ao medo particular.",
+      "entityRefs": ["manifestacoes-dos-medos"]
+    },
+    {
+      "id": "abismo-story-structure",
+      "name": "A historia",
+      "category": "adventure",
+      "pages": [38, 39],
+      "summary": "Estrutura de historias em tres fases: Despertar, Pesadelo e Redencao.",
+      "entityRefs": ["despertar", "pesadelo", "redencao"]
+    },
+    {
+      "id": "abismo-character-sheet",
+      "name": "Ficha do astronauta",
+      "category": "source",
+      "pages": [40],
+      "summary": "Pagina de ficha com campos de ancoras, nome, jogador, cargo, citacao, medo particular, sonolencia e ferimentos.",
+      "entityRefs": []
+    }
+  ]
+}

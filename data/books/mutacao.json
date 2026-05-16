@@ -1,0 +1,240 @@
+{
+  "source": "mutacao",
+  "title": "Mutação",
+  "status": "full-read-auto-pass-1",
+  "pages": 129,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "attribute_skill",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "mutacao-mutacao-1",
+      "name": "mutação",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "1 mutação 2 Introdução Este manual foi criado com base nas regras no sistema Daemon, para quem não conhece o sistema Daemon, ele foi um dos primeiros grandes sistemas brasileiros publicados na clássica revista Dragão Brasil. Criado pelo Marcelo Del Debbio (1992) em um fazine da escola politécnica chamado de “Politreco”, onde mais tarde (1995) o sistema entra...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-indice-3",
+      "name": "ÍNDICE",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          43
+        ]
+      ],
+      "summary": "3 ÍNDICE O início................................................... 04 Criação de personagem................ 10 Atributos............................................... 11 Outras características..................... 14 Arquétipos............................................ 15 Perícias................................................... 23 Aprimoramentos........",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-tabela-de-armas-brancas-44",
+      "name": "TABELA DE ARMAS BRANCAS",
+      "category": "combat",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "44 TABELA DE ARMAS BRANCAS Armas Categoria Dano Alcance IP P. Iniciativa Durabilidade Peso ³Adaga (Faca tática) Pequena 1d3+1 1m 6 -1 5 1 Kg Arco Curto Distância 1d6+1 30m 2 -5 5 1 Kg Arco Longo Distância 1d10 60m 2 -5 5 1,5 kg Bastão Média 1d6 1m 4 -4 8 2 kg Besta Leve Distância 1d6+1 24m 1 -5 5 2 kg Besta Pesada Distância 2d6 36m 1 -5 5 4kg *Besta de Repet...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-tabela-de-armas-de-fogo-46",
+      "name": "TABELA DE ARMAS DE FOGO",
+      "category": "core_rule",
+      "pages": [
+        46
+      ],
+      "summary": "46 TABELA DE ARMAS DE FOGO Armas Tipo Dano CDT Pente Alcance Munição Peso Ocultab. Colt Detetive Revolver 1d6 Revolver 6 40m 38 O,7Kg B Diamond Black Revolver 1d10+1 Revolver 6 45m 38 0,9Kg J Dan Wesson 44 Revolver 2d6+2 Revolver 6 50m Mag .44 1,8 Kg J AMT Backup Pistola 1d6 1 5 30m 380 ACP 0,5 Kg B Astra A-90 Pistola 2d6 3 15 50m 9 mm 1,7 Kg J Desert Eagle...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-armaduras-e-blindagens-47",
+      "name": "ARMADURAS E BLINDAGENS",
+      "category": "combat",
+      "pages": [
+        47
+      ],
+      "summary": "47 ARMADURAS E BLINDAGENS A armadura de um personagem o protegerá durante o combate, entretanto, também é capaz de atrapalhar seus movimentos. As armaduras e escudos podem ser danificados com ataques diretos ou utilizando-as como bloqueio de ataques. Bônus de Escudo: Cada escudo concede um bônus de equipamento no teste defensivo. Esse número representa o por...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-coletes-de-kevlar-48",
+      "name": "COLETES DE KEVLAR",
+      "category": "core_rule",
+      "pages": [
+        [
+          48,
+          54
+        ]
+      ],
+      "summary": "48 COLETES DE KEVLAR Coletes IP Proteção Penal. de DES e AGI Durabilid. Peso Kevlar 10 camadas (Nível 1) 4 T -10% 10 2 Kg Kevlar 14 camadas (Nível 2) 6 T -20% 15 3 Kg Kevlar 18 camadas (Nível 3) 8 T/B -30% 20 5 Kg Metal Gear 18 camadas (Nível 4) 8 T/B/P/C -30% 30 12 kg TABELA DE ESCUDOS Escudos IP Durabilidade Bônus Defensivo Peso Pequeno Madeira 4 10 +5% 2,...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-acoes-55",
+      "name": "AÇÕES",
+      "category": "combat",
+      "pages": [
+        55
+      ],
+      "summary": "55 AÇÕES Basicamente, o tipo da ação indica quanto tempo é necessário para realizá-la (considerando o período de médio de 6 segundos de um turno) e como o movimento é tratado em conjunto com a ação. Existem 3 tipos de ações: Ações Comuns, Livres e Completa. Ações comuns Fundamentalmente, uma ação comum permite que o personagem realize um ato (uma tarefa como...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-acoes-durante-o-combate-56",
+      "name": "AÇÕES DURANTE O COMBATE",
+      "category": "combat",
+      "pages": [
+        [
+          56,
+          57
+        ]
+      ],
+      "summary": "56 AÇÕES DURANTE O COMBATE A maioria das ações em combate envolve atacar, usar uma perícia, ativar um item, realizar um teste de atributo, manobra de combate etc. Todas em conjunto com o deslocamento regular. Jogadas de Ataque Uma jogada de ataque nada mais é que um teste resistido entre a perícia de combate do ofensor (fonte ativa) contra a perícia defensiv...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-tipos-de-deslocamento-58",
+      "name": "TIPOS DE DESLOCAMENTO",
+      "category": "core_rule",
+      "pages": [
+        58
+      ],
+      "summary": "58 TIPOS DE DESLOCAMENTO Com exceção de perícias que precisem de movimento (Escalar, natação, acrobacia etc.) a maior parte dos movimentos a seguir não precisa de testes. Deslocamento: O movimento na ação comum é simples, envolve percorrer uma distância equivalente ao valor do atributo Agilidade atual em metros. Qualquer cálculo de movimento sobre deslocamen...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-modificadores-de-combate-59",
+      "name": "MODIFICADORES DE COMBATE",
+      "category": "core_rule",
+      "pages": [
+        [
+          59,
+          60
+        ]
+      ],
+      "summary": "59 MODIFICADORES DE COMBATE Algumas vezes, será preciso engajar os adversários em combate direto, em outras será possível obter vantagens procurando uma posição melhor. Seja de forma ofensiva ou defensiva, esta seção detalha as regras que são utilizadas. Cobertura Uma das melhores defesas disponíveis é a cobertura. Usar uma árvore, um muro em ruínas, a later...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-modificadores-de-tamanho-61",
+      "name": "MODIFICADORES DE TAMANHO",
+      "category": "combat",
+      "pages": [
+        61
+      ],
+      "summary": "61 MODIFICADORES DE TAMANHO Para cada tamanho de criatura antes e depois do tamanho médio (uma pessoa adulta), existem modificadores, inclusive para o combate. Veja a tabela a seguir: Tamanho Carga Iniciativa Alcance FOR e CON Minúsculo (01 a 09 cm) = +8 = = Diminuto (10 cm a 80 cm) ¼ do Valor médio +4 = -4 Pequeno (81 cm a 1,2m) ½ do Valor Médio +2 1m -2 Mé...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-manobras-e-ataques-especiais-62",
+      "name": "MANOBRAS E ATAQUES ESPECIAIS",
+      "category": "combat",
+      "pages": [
+        [
+          62,
+          66
+        ]
+      ],
+      "summary": "62 MANOBRAS E ATAQUES ESPECIAIS Nesta sessão, serão descritas as principais manobras e ataques especiais que um personagem combatente pode utilizar, algumas manobras requer o uso de um aprimoramento para sua melhor utilização (Como agarrar aprimorado) e outras não, como Investida e Mira. Agarrar (Perícia Agarrar) Para iniciar uma manobra agarrar, primeiro o...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-tipos-de-dano-67",
+      "name": "TIPOS DE DANO",
+      "category": "combat",
+      "pages": [
+        [
+          67,
+          68
+        ]
+      ],
+      "summary": "67 TIPOS DE DANO Esta sessão informa as formas e tipos de dano que um personagem pode sofrer ou causar. Tipos de dano Dano Não letal: Causado por briga, como socos e chutes, o dano não letal é de menor severidade e sua recuperação é mais rápida. Dano Letal: Dano causado por cortes, perfuração, grandes impactos, queimadura, congelamento, elétrico, sônico, cor...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-condicoes-adversas-69",
+      "name": "CONDIÇÕES ADVERSAS",
+      "category": "combat",
+      "pages": [
+        [
+          69,
+          71
+        ]
+      ],
+      "summary": "69 CONDIÇÕES ADVERSAS Além do descrito em alguns aprimoramentos negativos, um personagem pode enfrentar uma condição adversa ao seu estado normal. Como exausto, doente etc. Esta seção descreve as principais condições adversas de uma criatura. Vale salientar que as condições adversas podem se somar e piorar cada vez mais, por exemplo, de ofuscado para cego, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-sanidade-72",
+      "name": "SANIDADE",
+      "category": "attribute_skill",
+      "pages": [
+        72
+      ],
+      "summary": "72 SANIDADE A sanidade de um personagem humano mede sua saúde mental e sua capacidade de suportar os horrores do mundo pós apocaliptico. O cáuculo de sanidade inicial de um personagem equivale a média dos valores de atributos de Vontade e Inteligência (Média alterada de acordo com o valor atual) + nível. Não se pode comprar uma “armadura” para sanidade, sua...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-tortura-73",
+      "name": "TORTURA",
+      "category": "core_rule",
+      "pages": [
+        73
+      ],
+      "summary": "73 TORTURA A Tortura é um dos métodos mais crueis de se punir alguém, matar ou arrancar informações. Existem dois tipos de tortura, a física e psicológica. Veja a seguir: Tortura física: Uma tortura física causa dores insuportáveis, porém não é utilizada para causar dano diretamente. Ela é realizada para causar a maior dor possível sem matar a vítima de imed...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-venenos-74",
+      "name": "VENENOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          74,
+          83
+        ]
+      ],
+      "summary": "74 VENENOS Cedo ou tarde os personagens encontrarão inimigos em seu caminho que utilizam venenos poderosos, sejam animais peçonhetos, assassinos exóticos e etc. Venenos podem ter sua origem mineral, vegetal, animal ou sobrenatural e possuem uma variedade de efeitos. Para manipular um veneno, usa-se a perícia Química e toda vítima de um veneno tem direito a u...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-infectados-84",
+      "name": "INFECTADOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          84,
+          126
+        ]
+      ],
+      "summary": "84 INFECTADOS Agora vamos começar a brincadeira para felicidade do narrador \\o/ Infectados comuns Forma de infecção: Mordida. Tempo da transformação: Se o alvo morrer, se torna um zumbi em 1d6 rodadas, se for infectado e se manter vivo, precisa de um teste de Constituição com dificuldade crítica (O padrão é 10% de chance) para suportar o vírus, caso fracasse...",
+      "entityRefs": []
+    },
+    {
+      "id": "mutacao-ficha-de-personagem-127",
+      "name": "FICHA DE PERSONAGEM",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          127,
+          129
+        ]
+      ],
+      "summary": "127 FICHA DE PERSONAGEM Nome: Arquétipo: Nível: Nacionalidade: Religião: Idade: ATRIBUTO VALOR ALTERAÇÕES MODIFICADOR TESTE% FORÇA CONSTITUIÇÃO DESTREZA AGILIDADE INTELIGÊNCIA PERCEPÇÃO VONTADE CARISMA Pontos de vida total ( ) Cabeça Braço direito Braço esquerdo Perna direita Perna esquerda Debilitado Índice de proteção Cabeça Tronco Braço direito Braço esqu...",
+      "entityRefs": []
+    }
+  ]
+}

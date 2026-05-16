@@ -1,0 +1,89 @@
+{
+  "source": "biohazard",
+  "title": "biohazard",
+  "status": "full-read-auto-pass-1",
+  "pages": 67,
+  "primaryCategories": [
+    "core_rule",
+    "adventure",
+    "kit_class",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "biohazard-bio-hazard-1",
+      "name": "Bio Hazard",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Bio Hazard Resident Evil RPG Net-book Criado por Nivaldo Vieira Nascimento (Nvndaemon)",
+      "entityRefs": []
+    },
+    {
+      "id": "biohazard-atencao-2",
+      "name": "Atenção!",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          14
+        ]
+      ],
+      "summary": "Atenção! Esta é uma obra de ficção. Apesar de fatos citados neste livro terem sidos extraídos de fatos de nossa história. Eles são apenas para caráter de diversão. M esmo os eventos, agencias ou ONGs e personagens, volto a frisar são todos tratados como ficcionais. Isto é apenas um jogo. A realidade é muito pior. Agradecimentos Primeiro a Deus, por tudo. Em...",
+      "entityRefs": []
+    },
+    {
+      "id": "biohazard-conceitos-basicos-15",
+      "name": "Conceitos Básicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "Conceitos Básicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. RE-RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que você não está familiarizado. Esses conceitos e termos são usados no sistema de combate e poderes. Personagens/...",
+      "entityRefs": []
+    },
+    {
+      "id": "biohazard-criacao-de-personagens-17",
+      "name": "Criação de Personagens",
+      "category": "core_rule",
+      "pages": [
+        [
+          17,
+          45
+        ]
+      ],
+      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os ú- nicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas re- comendamos que os Personagens sejam construídos a- penas pelo Mestre ou com grande participação deste. Is- so ajuda a conseguir um grupo lógico e coeso: jorna- listas, universitários, polic...",
+      "entityRefs": []
+    },
+    {
+      "id": "biohazard-s-t-a-r-s-46",
+      "name": "S.T.A.R.S",
+      "category": "item_equipment",
+      "pages": [
+        [
+          46,
+          52
+        ]
+      ],
+      "summary": "46 Nome: Barry Burton Idade: 38 anos Altura: 1,82m Peso: 89Kg Equipe: Ex. integrante da equipe Alpha da S.T.A.R.S História: Ex-membro da S.W.A.T., Barry possui um vasto conhecimento em armas. Com seus de- zesseis anos de experiência tornou-se o responsável pe- lo abastecimento de armas da S.T.A.R.S. Após o ocorrido da mansão, onde ele fora chantagiado por We...",
+      "entityRefs": []
+    },
+    {
+      "id": "biohazard-os-b-o-w-s-53",
+      "name": "OS B.O.W.S",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          53,
+          67
+        ]
+      ],
+      "summary": "53 OS B.O.W.S OS B.O.W.: (BIO-ORGANIC- WEAPON) Os B.O.W., BIO-ORGANIC-WEAPON, ( Ar- mas Bio-Orgânicas), são seres vivos que ou sofreram mutação ou foram criados por um dos vírus. Muitos dos B.O.W.s podem ser considerados como sendo o soldado perfeito, porém mesmo assim não são inteiramente confiaveis. Nome: Tyrant Descrição: Arma biológica perfeita cria- da...",
+      "entityRefs": []
+    }
+  ]
+}

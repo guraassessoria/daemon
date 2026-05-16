@@ -1,0 +1,70 @@
+{
+  "source": "vaticano",
+  "title": "Vaticano",
+  "status": "full-read-auto-pass-1",
+  "pages": 7,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "core_rule",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "vaticano-organizacao-1",
+      "name": "Organização",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Organização VATICANO Uma adaptação livre da maior organização religiosa mundial para Clube de Caça e Anime RPG Por Ricky D! A idéia de escrever este pequeno netbook surgiu recentemente, após assistir alguns animes interessantes sobre caçadores de criaturas sobrenaturais (Alguém mencionou Hellsing?), mas percebi que há muito já existia a falta de material des...",
+      "entityRefs": []
+    },
+    {
+      "id": "vaticano-a-umbra-domini-3",
+      "name": "A Umbra Domini",
+      "category": "setting_lore",
+      "pages": [
+        3
+      ],
+      "summary": "A Umbra Domini Na noite de 26 de junho de 1952,o papa Pio XII assinou a bula autorizando a criação de um pequeno grupo de elite, composto pelos melhores soldados da Guarda Suíça, para investigar crimes ou eventos considerados de grande importância para a religião Católica. Originalmente, o Umbra Domini compunha-se de membros da Inquisição, auxiliados pelos m...",
+      "entityRefs": []
+    },
+    {
+      "id": "vaticano-equipamento-sagrado-4",
+      "name": "EQUIPAMENTO SAGRADO",
+      "category": "item_equipment",
+      "pages": [
+        4
+      ],
+      "summary": "EQUIPAMENTO SAGRADO O Vaticano é um patrono generoso, mas rigoroso. Seus agentes possuem acesso ao que há de melhor em tecnologia bélica e eletrônica, mas é exigido o máximo cumprimento da missão com nenhuma ou pouquíssimas falhas. Dispõem das melhores proteções e das melhores armas-sem apelar ao Arsenal mágico da organização;afinal, ainda que tenham (MUITO...",
+      "entityRefs": []
+    },
+    {
+      "id": "vaticano-kits-de-personagem-5",
+      "name": "KITS DE PERSONAGEM",
+      "category": "item_equipment",
+      "pages": [
+        5
+      ],
+      "summary": "KITS DE PERSONAGEM A seguir é apresentado alguns kits de personagem para uso deste material, mas o Mestre e os jogadores podem adapta-lo de acordo com suas necessidades e preferências. Não é apresentado um tipo de caçador de vampiros, pois o Vaticano se importa mais com os demônios – sendo que os próprios caçadores de demônios da santa fé são raros. Para per...",
+      "entityRefs": []
+    },
+    {
+      "id": "vaticano-cacador-de-demonios-do-vaticano-6",
+      "name": "Caçador de Demônios do Vaticano",
+      "category": "combat",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Caçador de Demônios do Vaticano Nem todos os caçadores do Vaticano são Cyber-Templários; existem aqueles que usam o poder sagrado contra os demônios: Os Caçadores de Demônios. Após receber treinamento de combate pela Umbra Domini, estes homens passam um período no Vaticano onde recebem aprendizado e suporte religioso, para que usem sua fé contra as criaturas...",
+      "entityRefs": []
+    }
+  ]
+}

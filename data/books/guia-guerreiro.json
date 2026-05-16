@@ -1,0 +1,37 @@
+{
+  "source": "guia-guerreiro",
+  "title": "guia_guerreiro",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "kit_class",
+    "power_magic",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "guia-guerreiro-agradecimentos-1",
+      "name": "AGRADECIMENTOS",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "AGRADECIMENTOS Primeiro lugar eu gostaria de explicar algo para todos vocês que estão baixando este net agora e que estão achando que sou prepotente pra cacete escrevendo uma parada para ajudá-los na hora de interpretar, eu digo, não sou melhor que ninguém, só acho que tinha dicas suficientes para escrever este net book e por isso o fiz, se você não gostou o...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-guerreiro-apresentacao-2",
+      "name": "Apresentação",
+      "category": "kit_class",
+      "pages": [
+        [
+          2,
+          6
+        ]
+      ],
+      "summary": "Apresentação Houve um tempo que a pessoa quem vos fala, antes de ser mandado para o limbo pelos magos de Tenebras pelas minhas maldades, participava de uma campanha interminável de AD&D, com um dos melhores mestres que eu já tive o poder de apreciar, Sr. Carley. Muitos anos jogando com aquele grupo me trouxeram diversos problemas, assim como muitas horas de...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,1618 @@
+{
+  "version": 1,
+  "id": "rituais",
+  "name": "Rituais",
+  "readySourceCount": 190,
+  "entityCount": 1,
+  "sourcePartCount": 73,
+  "entities": [
+    {
+      "id": "sellas-locum",
+      "name": "Sellas locum",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 37,
+      "entries": [
+        "Ritual Alastor usado para restringir acesso ou passagem conforme descrito na secao de rituais."
+      ],
+      "tags": [
+        "alastores",
+        "proteção",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "alastores-a-justica-infernal--alastores-origem",
+      "name": "Origem",
+      "area": "rituais",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "Origem da Ordem Cacadora dos Alastores, Alastor original, divisao do Inferno em circulos e credo Alastor.",
+      "entityRefs": [
+        "ordem-cacadora-dos-alastores",
+        "credo-alastor"
+      ],
+      "tags": [
+        "rituais",
+        "setting_lore"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-rituais",
+      "name": "Rituais",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "page": null,
+      "summary": "Rituais como Convocar Lukhavim, Sellas locum e Ipsa Nomina.",
+      "entityRefs": [
+        "convocar-lukhavim",
+        "sellas-locum",
+        "ipsa-nomina"
+      ],
+      "tags": [
+        "rituais",
+        "ritual_spell"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-requiem-de-fe--anjos-requiem-de-fe-capitulo-dois-o-31",
+      "name": "Capítulo Dois: O",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "pages": [
+        [
+          31,
+          56
+        ]
+      ],
+      "page": null,
+      "summary": "31 Capítulo Dois: O Anjo 32 Os anjos são alma transformada em carne. Os primeiros deles eram nada mais do que fios de luz e espíritos partidos que foram transformados pelo toque de Demi- urgo, criados a partir do nada para serem carne e osso em Paradísia. O ritual para gerar essas criaturas de imenso poder se perdeu agora. Demiurgo não mais cria an- jos, não...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-nipulacao-complexa-que-afeta-as-29",
+      "name": "nipulação complexa que afeta as",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        29
+      ],
+      "page": 29,
+      "summary": "nipulação complexa que afeta as massas e prejudica todo o processo religioso que os celestiais demo- raram tanto para montar. Basica- mente, os Mercadores da Fé fazem um pacto com os demônios, per- mitindo sua entrada na Terra para atormentarem as pessoas e até possuírem os corpos. A natureza do pacto e da invocação é variada, porém sempre existe um contrato...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-regras-chi-20",
+      "name": "Regras : CHI",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        20
+      ],
+      "page": 20,
+      "summary": "Regras : CHI CHI Os poderes de Chi são poderes que representam as energias interior dos seres, este poder pode ser representado como origem dos poderes considerados raciais. Considere que o personagem recupera um ponto de CHI a cada 30 minutos. 1 ponto: Desperto. 1 ponto de Chi + 1 a cada 2 níveis. 2 pontos: Espiritualista. 2 pontos de Chi + a cada 2 níveis....",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cabala-2--cabala-2-organizacao-5",
+      "name": "ORGANIZAÇÃO",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "cabala-2",
+      "sourceTitle": "Cabala",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "page": null,
+      "summary": "5 Existe a crença entre os cabalistas, de que alguns magos conseguiram encontrar a chave para a imortalidade. Por isso, os grimórios da Cabala estão repletos de referências e fórmulas de longevidade e magias de ressurreição. Muitos grão-mestres da sociedade têm fama de terem centenas de anos de idade. Os cabalistas mais antigos (adeptos dos séculos anteriore...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cabala-2--cabala-2-rituais-necromanticos-19",
+      "name": "RITUAIS NECROMÂNTICOS",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "cabala-2",
+      "sourceTitle": "Cabala",
+      "pages": [
+        [
+          19,
+          28
+        ]
+      ],
+      "page": null,
+      "summary": "19 RITUAIS NECROMÂNTICOS Neste capítulo, são apresentados os principais rituais pesquisados e realizados pela Cabala, que podem ser aprendidos por seus seguidores, bem como pelos Magos do Arkanum Arcanorum que tiverem sorte para achar um pergaminho contendo um destes rituais. Amedrontar Entender/ Controlar Trevas/ Humanos 2 Esta magia consiste em “deformar”...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-segundo-circulo-2",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Segundo Círculo Entender-O mago pode distinguir de longe pedras vulcânicas,mesmo que estas estejam misturadas a outras.Pode determinar qual vulcão originou a pedra vulcânica. Criar-Pode aumentar a temperatura de uma pedra do tamanho de um punho até torná-la incandescente,e faze-la explodir,causando 2d6 num raio de 1m. Controlar-O mago literalmente anda em br...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-segundo-circulo-6",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Segundo Círculo Entender-O mago não tem problemas respiratórios com a fumaça.Pode mesclar-se parcialmente a fumaça,tornando-se quase imperceptível.Pode saber de onde vem a fumaça(estando dentro dela) Criar-Cria fumaça clara ou escura.Pode fazer com que uma chama produza mais fumaça que o normal. Controlar-Pode fazer com que uma chama não produza fumaça.Pode...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-terceiro-circulo-12",
+      "name": "Terceiro Círculo",
+      "area": "rituais",
+      "category": "combat",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "Terceiro Círculo Entender-Pode enxergar através de paredes de 1m de espessura.O mago pode fazer pequenos efeitos magnéticos. Criar-Pode criar uma espada de safira,que causa 3d6 de dano.Pode criar um escudo de cristal,que confere IP 3. Controlar-O mago pode transformar aço em cristal frágil.Pode transformar seu braço numa espada de safira ou aço,que causa 3d6...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-quarto-circulo-15",
+      "name": "Quarto Círculo",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Quarto Círculo Entender-Num raio de 3m do mago,materiais de ferro se enferrujam(e tudo o que estiver dentro dos objetos se estragam),a não ser o ferro puro,sem nenhuma liga. Criar-Pode enferrujar todo um carro(estragando tudo o que estiver dentro dele).Pode criar pó suficiente para encobrir uma vítima. Controlar-O mago pode acelerar ou retardar o processo de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-segundo-circulo-16",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "combat",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Segundo Círculo Entender-O mago dobra o tempo em que consegue ficar sem ar.O mago não produz odores. Criar-Pode criar uma esfera de vácuo suficiente para matar pequenos e médios animais(cachorro,gato,coelhos,etc)ou apagar fogueiras em alguns segundos. Controlar-O mago pode puxar o ar e a luz para si num raio de 3m,ganhando +2 em Força,fazendo uma área de vác...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "charadas--charadas-tem-raizes-que-ninguem-ve-3",
+      "name": "Tem raízes que ninguém vê,",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "charadas",
+      "sourceTitle": "Charadas",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Tem raízes que ninguém vê, é mais alto que qualquer arvore. Vai para cima, mas não cresce jamais R: Montanha Chora sem voz, Flutua sem assas Morde sem dentes Murmura sem boca R: Vento \"Não se pode ver nem tocar, não se pode escutar nem cheirar Mora atrás das estrelas e debaixo das colinas Enche os buracos vazios Vem antes e depois de qualquer coisa Termina a...",
+      "entityRefs": [],
+      "tags": [
+        "rituais",
+        "ritual_spell"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-63",
+      "name": "Daemon Medieval",
+      "area": "rituais",
+      "category": "combat",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          63,
+          64
+        ]
+      ],
+      "page": null,
+      "summary": "Daemon Medieval 63 movimentos que duram algum tempo. As armas maiores possuem modificadores maiores. Modificador de Arma Mágica Armas mágicas possuem modificadores positivos. Para cada nível de encantamento, a arma terá uma bonificação extra na iniciativa. Ou seja, uma arma +2 dará um bônus de 2 na iniciativa. É claro que esse bônus NÃO exclui o modificador...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-culturais-car-32",
+      "name": "Culturais (CAR)",
+      "area": "rituais",
+      "category": "character_option",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        [
+          32,
+          34
+        ]
+      ],
+      "page": null,
+      "summary": "Culturais (CAR) Artesanato (DES) Empatia Diplomacia Intimidação Lábia Sedução Música (INT) Ocultas (INT) Teoria da magia Rituais Divinação Ocultismo Sociedades Secretas Criaturas sobrenaturais Conhecimentos alienígenas Planos Astrais Paramilitares (PER) Armadilhas Agricultura (INT) Arrombamento (DES) Criminologia (INT) Escapismo (AGI) Furtividade (AGI) Furto...",
+      "entityRefs": [],
+      "tags": [
+        "character_option",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-5",
+      "name": "Pagina inicial (41-50)",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "demon-cthulhu",
+      "sourceTitle": "Demon Cthulhu",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "page": null,
+      "summary": "41 componentes particulares para aquele tipo de criatura. Como exemplo será apresentada a seguir uma simples magia, e espero que a partir dela, e do material aqui exposto, o Mestre possa criar vários outros rituais de invocação e controle destas divindades. Invocar/Comandar Byakhee (Criar/Controlar Mythos 3) Esta magia precisa ser realizada à noite, quando a...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-anjos-caidos-42",
+      "name": "Anjos Caídos",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          42,
+          43
+        ]
+      ],
+      "page": null,
+      "summary": "Anjos Caídos Os primeiros Oficialmente, as primeiras entidades físicas a pisarem no Inferno foram os anjos caídos da Primeira Rebelião, liderados por Lúcifer e compondo cerca de um terço dos anjos da Cidade de Prata, quinze mil anos atrás. Os Anjos Caídos formaram uma cratera gigantesca no fundo do local onde hoje se encontra o Nono Círculo, e lá permanecera...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-efeitos-magicos-127",
+      "name": "EFEITOS MÁGICOS",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          127,
+          128
+        ]
+      ],
+      "page": null,
+      "summary": "EFEITOS MÁGICOS A seguir alguns das rituais mais conhecidos no Inferno, e utilizados tanto por demônios quanto pelos magos que aprenderam magia com eles. Para a realização destes rituais, e necessário ter acesso aos Caminhos e Formas utilizadas caso seja para utilizá-los como Magias espontâneas. Formas e Caminhos de Magia são explicados detalhadamente nos li...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-death-knights-45",
+      "name": "DEATH KNIGHTS",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        45
+      ],
+      "page": 45,
+      "summary": "DEATH KNIGHTS “Os Cavaleiros Negros” Os Cavaleiros da Morte, Cavaleiros Demoníacos, ou simplesmente Death Knights, são considerados os maiores guerreiros nos círculos infernais. Um ditado popular entre os demônios diz que nenhuma batalha é uma grande batalha sem os Cavaleiros Negros. Muitos sábios especulam sobre onde teriam se originado as Ordens de Cavalei...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-zumbis-103",
+      "name": "ZUMBIS",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        103
+      ],
+      "page": 103,
+      "summary": "ZUMBIS O que seria de um demonologista sem seus auxiliares mortos-vivos? Um demonologista conhece os rituais para a criação de zumbis ou outros seres do reino dos mortos. O ritual para a criação de um zumbi e muito complexo, e envolvem ciclos lunares, poções conhecidas apenas pelos membros da Ordem e um cadáver (obvio). Para os rituais normais, cada zumbi ar...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-62",
+      "name": "Dragões: Reis Caídos",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
+      "pages": [
+        [
+          62,
+          63
+        ]
+      ],
+      "page": null,
+      "summary": "Dragões: Reis Caídos Dragões Notáveis Apalala, o Traidor Apalala, dragão com o corpo de forma serpentina e quatro patas, é um dos mais poderosos e conhecidos entre dragões dourados que já existiu, sendo um dos membros do grupo que realizou ritual para transmutarem seus corpos antes do Grande Giro. Por desobedecer algumas regras, estabelecidas antes do Ritual...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "energia-mistica--energia-mistica-forum-da-daemon-13",
+      "name": "Forum da Daemon;",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "energia-mistica",
+      "sourceTitle": "Energia Mistica",
+      "pages": [
+        13
+      ],
+      "page": 13,
+      "summary": "Forum da Daemon; Trevas 3.5; Grimorio; Anjos; Demônios; Spiritum; Google; E diversos livros de espiritismo que nem me lembro o nome. Bibliográfia 16 Energia Místicas Internas",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-pode-se-perceber-a-situacao-pluriestratografica-33",
+      "name": "pode-se perceber a situação pluriestratográfica",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        [
+          33,
+          37
+        ]
+      ],
+      "page": null,
+      "summary": "pode-se perceber a situação pluriestratográfica existente no século VI a.C. No alto da colina, fica Piazzeta S. Niccolò, onde escavações recentes trouxeram à tona as ruínas do círculo de muros etrusco que circundava a cidade, assim como um local de ritos religiosos praticados a partir do século IV a.C. A cidadela etrusca se localizava mais distante, entre as...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-protegida-41",
+      "name": "protegida.",
+      "area": "rituais",
+      "category": "combat",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        [
+          41,
+          42
+        ]
+      ],
+      "page": null,
+      "summary": "protegida. O Mago Hermético Pedro o Trovador criou um Ritual, muito usado pelos membros da Ordem Luft, na Noruega, para proteção dos recém-nascidos do Ritual da Troca. Este Ritual protege a criança contra um Troll com uma quantidade de dados igual ao Focus do Ritual (portanto, Focus 4 dá à criança 4D de resistência contra o Troll). O Troll não poderá causar...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "grimorio101--grimorio101-grimorio-1-1",
+      "name": "Grimório (1-10)",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "grimorio101",
+      "sourceTitle": "Grimorio101",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "1 Grimório de Arton Versão 1.01 2 Saudações Este é um grande projeto iniciado pela Daemon Editora, com o objetivo de reunir todas as Magias e Rituais conhecidos, criados ou pesquisados pelos Mestres e Jogadores de TOR- MENTA, como um grande Grimório Virtual. A origem do Grimório Virtual ocorreu devido a um erro deste que vos escreve. Quando estávamos prepara...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "grimorio101--grimorio101-grimorio-1-2",
+      "name": "Grimório (11-20)",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "grimorio101",
+      "sourceTitle": "Grimorio101",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "1 1 Todos os mortos-vivos são imunes a magias que tenham Telepatia como exigência, bem como quaisquer outros pode- res que envolvem controle da mente, emoções ou sono. Mortos-vivos criados com esta magia podem ser Es- conjurados normalmente, ou então Controlados por outra pessoa (para retomar o controle, seu criador também terá que usar Controle de Mortos-Vi...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "grimorio101--grimorio101-grimorio-1-3",
+      "name": "Grimório (21-30)",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "grimorio101",
+      "sourceTitle": "Grimorio101",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "page": null,
+      "summary": "2 1 O tamanho ampliado pode ser mantido durante até uma hora. Esgotado esse prazo, o mago deve renovar o efeito (o que exige um toque) e gastar novamente a quanti- dade necessária de pontos. Uma vez que ele não pôde recu- perar os pontos gastos anteriormente, é impossível manter o Megalon por períodos muito longos. Diz a lenda que esta magia recebeu o nome d...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-egito-50-ac-6",
+      "name": "EGITO, 50 AC.",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "EGITO, 50 AC. UMA DAS MAIORES CIVILIZAÇÕES DO MUNDO ANTIGO, COM SUAS MAGNiFICAS PIRÂMIDES E UM POVO PRO- FUNDAMENTE ESPIRITUALIZADO. - • • • , ..... -_-::,- • • • ESTÁ SENSAÇÃO. UM IMORTAL SE APROXIMA, EU DEVIA TER FICADO NO SANTUÁRIO! , , • A} t.. - . , ii • •",
+      "entityRefs": [],
+      "tags": [
+        "rituais",
+        "ritual_spell"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-parte-v-40",
+      "name": "Parte V",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        [
+          40,
+          44
+        ]
+      ],
+      "page": null,
+      "summary": "Parte V Artefatos e Rituais Embora existam Humanos que adquirem a imortalidade através da Centelha, ainda há muitas outras formas de se simular a Centelha, ou mesmo adquiri-la, mostradas abaixo. Algumas são relativas a modos de se utilizar a Magia para tornar-se imortal, outras estão ligadas a criaturas e objetos especiais que mantém seu “usuário” incapaz de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-quadro-vivo-47",
+      "name": "Quadro Vivo",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "page": null,
+      "summary": "Quadro Vivo (Ritual: Humanos/Spiritum 6) Conta-se que um dos mais ilustres Magos a se sujeitar a tal Ritual foi Dorian Gray, um conhecido aristocrata da era vitoriana. Tal Ritual consiste em transferir sua “mortalidade” a um auto-retrato, e assim o realizador do Ritual deixa de envelhecer; seus próprios ferimentos se curar com a velocidade do pensamento. Enq...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-caracteristicas-19",
+      "name": "Características",
+      "area": "rituais",
+      "category": "character_option",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "Características O Primeiro Pesadelo do Neperari requer que o Potencial tenha uma forte energia espiritual, que seja alguém especial desde o nascimento. Este Potencial é enviado ao Umbral, onde será esquartejado pelos espíritos que lá habitam, em uma espécia de ritual xamânico de iniciação. O fato de o Potencial estar vivo ou morto é irrelevante - embora aque...",
+      "entityRefs": [],
+      "tags": [
+        "character_option",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-criatura-cadaverica-e-decadente-apodrecendo-45",
+      "name": "criatura cadavérica e decadente, apodrecendo",
+      "area": "rituais",
+      "category": "combat",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        45
+      ],
+      "page": 45,
+      "summary": "criatura cadavérica e decadente, apodrecendo com o passar dos anos, como se seu corpo estivesse morto desde que o Ritual foi realizado. Como um Morto-Vivo, o Lich recebe 7 pontos para comprar Poderes Mortuários, e mais 1 ponto para cada década no estágio de Lich. Os Liches são imunes a dano não-mágico, fogo, ácido, venenos, eletricidade; um outro efeito curi...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha-2--imortal-a-centelha-2-artefatos-e-rituais-para-a-29",
+      "name": "ARTEFATOS e RITUAIS para a",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "imortal-a-centelha-2",
+      "sourceTitle": "Imortal-a centelha",
+      "pages": [
+        29
+      ],
+      "page": 29,
+      "summary": "ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE Embora existam Humanos que adquirem a imortalidade através da Centelha, ainda há muitas outras formas de se simular a Centelha, ou mesmo adquiri-la, mostradas a...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-efeitos-de-kidous-12",
+      "name": "EFEITOS DE KIDOUS",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "kidous-arte-das-trevas",
+      "sourceTitle": "Kidous - Arte das Trevas",
+      "pages": [
+        [
+          12,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "12 EFEITOS DE KIDOUS Alterar atributos Por meio de um ritual, o artífice é capaz de aumentar ou reduzir seus atributos ou de seus oponentes. Cada nível adquirido altera (para mais ou para menos) 02 (dois) pontos em um determinado atributo: CON, FR, AGI, DEX, PER ou CAR. (A Inteligência e a Força de vontade nunca podem ser alteradas). Na compra do efeito o jo...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "magia-negra--magia-negra-irmandade-de-tenebras-5",
+      "name": "Irmandade de Tenebras",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "magia-negra",
+      "sourceTitle": "Magia Negra",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Irmandade de Tenebras A Irmandade de Tenebras é a mais antiga escola de magia existente e controlada por entidades tão poderosas que até mesmo os demônios têm medo de invocar. Os círculos demoníacos de Tenebras são em número de 53, cada um coordenado por uma das entidades remanescentes de Tenebras, incrustados em uma montanha astral entre o Inferno e o Mundo...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "magia-negra--magia-negra-graus-6",
+      "name": "Graus",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "magia-negra",
+      "sourceTitle": "Magia Negra",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Graus A irmandade é constituída de sete Círculos de Mistérios. Os dois primeiros são divididos em três graus cada: Aprendiz do primeiro Círculo, Iniciado do Primeiro Círculo e Mestre do Primeiro Círculo (igualmente para o Segundo Círculo). O rito de passagem só é realizado quando o acólito realiza algumas missões com êxito para os Mestres Invisíveis da Ordem...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "magia-negra--magia-negra-graus-8",
+      "name": "Graus",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "magia-negra",
+      "sourceTitle": "Magia Negra",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Graus As covens são organizadas sempre que uma coven é desfeita ou perde alguma de suas integrantes. Nesse caso, as remanescentes são chamadas Tutoras e procuram outras três jovens para compor suas novas covens. Essas jovens são escolhidas através de Rituais mágicos capazes de localizar pessoas com auras e interesses semelhantes aos das velhas feiticeiras. E...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "magia-negra--magia-negra-graus-10",
+      "name": "Graus",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "magia-negra",
+      "sourceTitle": "Magia Negra",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "Graus Muitos dos membros da Thule permanecem infiltrados em outras escolas de magia, atuando como agentes duplos, adotando os graus respectivos da escola onde estiverem infiltrados. Entre as cabalas da Thule, os magos adotam a seguinte hierarquia: Primeiro Círculo: Aprendiz, Iniciado, Companheiro, Mestre. Segundo Círculo: Cavaleiro do Sul, Cavaleiro do Oeste...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manual-de-converscao--manual-de-converscao-invocacao-do-dragao-15",
+      "name": "Invocação do Dragão",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "manual-de-converscao",
+      "sourceTitle": "Manual de Conversção",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Invocação do Dragão Invocação do Elemental Invocação da Fênix Invulnerabilidade Leitura de Auras A Loucura de Atavus Luz (entra em criar elemento) Megalon Mentir Mikron Monstros do Pântano Nobre Montaria Pacto com a Serpente Permanência Perda de Sentidos Praga de Kobolds Proteção Mágica* Proteção contra o elemento* Sanidade O Soco de Arsenal Sopro de Tenebra...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mitraismo--mitraismo-religioes-1",
+      "name": "Religiões",
+      "area": "rituais",
+      "category": "setting_lore",
+      "source": "mitraismo",
+      "sourceTitle": "Mitraísmo",
+      "pages": [
+        [
+          1,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "1 Religiões Mitraísmo Com certeza, um dos maiores adversários da Cidade de Prata foi Mitras. Isso quando alguém se refere ao início do Cris- tianismo. A batalha entre os anjos cristãos e os servos de Mitras espalhou-se pelo mundo espiritual e passou pela Terra. Mitras foi derrotado, mas não destruído. Muitas vezes Mitras aparece como filho de Ahura- Masda, s...",
+      "entityRefs": [],
+      "tags": [
+        "rituais",
+        "setting_lore"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-controlar-humanos-1-spiritum-2-132",
+      "name": "(Controlar/ Humanos/1/Spiritum/ 2).",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          132,
+          139
+        ]
+      ],
+      "page": null,
+      "summary": "(Controlar/ Humanos/1/Spiritum/ 2). O sacerdote ritualista amaldiçoa alguém, por intermédio de Set, para que a vítima sofresse de pesadelos terríveis. Neste ritual era utilizado uma parte do corpo da vítima, como ponta de cabelo e unhas. Estas partes do corpo eram colocadas numa figura de cera com o nome da vítima inscrita em hieróglifos. Diante da figura de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-atravessassem-as-defesas-que-eles-98",
+      "name": "atravessassem as defesas que eles",
+      "area": "rituais",
+      "category": "combat",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          98,
+          101
+        ]
+      ],
+      "page": null,
+      "summary": "atravessassem as defesas que eles nunca poderiam perfurar normalmente. Esse poder não tem efeito em crituaras espirituais. Todo dando do Neteru ignora a IP do adversário, se este for bem sucedido em um teste de FR, o poder dura uma rodada. Nível 5 – Controle Climático: Set é o senhor das tempestades. Ele é capaz de controlar o clima, as tempestades e enfurec...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-chamada-de-terra-negra-coordenando-12",
+      "name": "chamada de Terra Negra, coordenando",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "chamada de Terra Negra, coordenando a evolução física, mental e espiritual dos primeiros homens que ali apareceram; erguendo um reino ao longo dos milênios sobre o Alto Egito. Com o surgimento do conceito de fé e da crença, as bases da religião egipicia foram erigidas e a Forma- Pensamento começou a ser direcionada a Neter-Khertet. Devido ao pensamento extre...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz--novos-poderes-para-fadas-e-fadas-da-luz-bencao-da-luz-5",
+      "name": "Benção da luz",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "sourceTitle": "Novos poderes para fadas e fadas da Luz",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Benção da luz custo 1 Toda magia lançada pelo seu mestre, não pode ser identificada e também pode ser camuflada como o mestre desejar. Magias simples custo 1 O mestre pode lançar rituais simples sem gastar componente. Dança da sedução custo 3 O mestre da fada pode fazê-la dançar uma dança muito sensual e provocante, que hipnotiza qualquer criatura do sexo ma...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-2",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Segundo Círculo Entender-O mago pode distinguir de longe pedras vulcânicas,mesmo que estas estejam misturadas a outras.Pode determinar qual vulcão originou a pedra vulcânica. Criar-Pode aumentar a temperatura de uma pedra do tamanho de um punho até torná-la incandescente,e faze-la explodir,causando 2d6 num raio de 1m. Controlar-O mago literalmente anda em br...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-6",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Segundo Círculo Entender-O mago não tem problemas respiratórios com a fumaça.Pode mesclar-se parcialmente a fumaça,tornando-se quase imperceptível.Pode saber de onde vem a fumaça(estando dentro dela) Criar-Cria fumaça clara ou escura.Pode fazer com que uma chama produza mais fumaça que o normal. Controlar-Pode fazer com que uma chama não produza fumaça.Pode...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-terceiro-circulo-12",
+      "name": "Terceiro Círculo",
+      "area": "rituais",
+      "category": "combat",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "Terceiro Círculo Entender-Pode enxergar através de paredes de 1m de espessura.O mago pode fazer pequenos efeitos magnéticos. Criar-Pode criar uma espada de safira,que causa 3d6 de dano.Pode criar um escudo de cristal,que confere IP 3. Controlar-O mago pode transformar aço em cristal frágil.Pode transformar seu braço numa espada de safira ou aço,que causa 3d6...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-quarto-circulo-15",
+      "name": "Quarto Círculo",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Quarto Círculo Entender-Num raio de 3m do mago,materiais de ferro se enferrujam(e tudo o que estiver dentro dos objetos se estragam),a não ser o ferro puro,sem nenhuma liga. Criar-Pode enferrujar todo um carro(estragando tudo o que estiver dentro dele).Pode criar pó suficiente para encobrir uma vítima. Controlar-O mago pode acelerar ou retardar o processo de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-16",
+      "name": "Segundo Círculo",
+      "area": "rituais",
+      "category": "combat",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Segundo Círculo Entender-O mago dobra o tempo em que consegue ficar sem ar.O mago não produz odores. Criar-Pode criar uma esfera de vácuo suficiente para matar pequenos e médios animais(cachorro,gato,coelhos,etc)ou apagar fogueiras em alguns segundos. Controlar-O mago pode puxar o ar e a luz para si num raio de 3m,ganhando +2 em Força,fazendo uma área de vác...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-3",
+      "name": "FACILIDADE, LAMIA (249-258)",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          249,
+          258
+        ]
+      ],
+      "page": null,
+      "summary": "- 249 - Minor. (demora cerca de 5 anos para ser completado) Segundo Círculo: Aprendiz, Companheiro, Mestre, Illuminatus Majos (Magos), Cavaleiro do Iluminismo (Guerreiros), Investigador (Talamaska). (demora cerca de 10 a 15 anos até ser completado) Terceiro Círculo: Epopt, Principatus Illuminatus, Magus (Magos), Rex (Guerreiros), Hitokiri (Guerreiros), Viola...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-4",
+      "name": "a partir de Spiritum, atingir as partes (159-168)",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          159,
+          168
+        ]
+      ],
+      "page": null,
+      "summary": "- 158 - localização exata de todo tipo de matéria espiritual a até 10.000km dele (e isso inclui seres como itens mágicos com espíritos fundidos a eles, Médiuns e itens conjurados). Todos estes itens detectados atravessarão o corpo e a alma do Mago, desta forma não o ferindo. Focus 24: O Mago terá um grande domínio no próprio Aether, comandando um punhado de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "umbral-e-seus-vales--umbral-e-seus-vales-as-localidades-umbralinas-5",
+      "name": "As localidades Umbralinas",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "umbral-e-seus-vales",
+      "sourceTitle": "Umbral e seus vales",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "page": null,
+      "summary": "As localidades Umbralinas Templo do Desespero As brumas espirituais cercavam o local completamente, o mais profundo silêncio, que reinava absoluto, era deveras mais incômodo do que qualquer som ouvido na crosta (Terra). Nestas regiões de Spiritum a simples visão de determinadas paisagens, poderia corromper as mentes dos seres comuns, não preparados a enfrent...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "umbral-e-seus-vales--umbral-e-seus-vales-consideracoes-importantes-2",
+      "name": "Considerações Importantes",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "umbral-e-seus-vales",
+      "sourceTitle": "Umbral e seus vales",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Considerações Importantes Conhecendo o Umbral “Após longo tempo cruzando grandes distâncias espirituais através dos poderes recém- adquiridos de volitação espiritual, surgia em nossas vistas uma região menos bela. O firmamento cobria-se de nuvens espessas e trovões, além disto, algo nos impedia a fácil volitação. A atmosfera começara a pesar muitíssimo e dec...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatar-volume-1--avatar-volume-1-como-usar-este-netbook-7",
+      "name": "COMO USAR ESTE NETBOOK",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "avatar-volume-1",
+      "sourceTitle": "avatar_volume_1",
+      "pages": [
+        [
+          7,
+          21
+        ]
+      ],
+      "page": null,
+      "summary": "7 COMO USAR ESTE NETBOOK Avatar! é uma criação do Estúdio Sefirot para ser usado como uma ambientação e uma sugestão de super-heróis para o Supers RPG. Para os que já conhecem o Sistema Daemon e possuem o livro Supers RPG da Daemon Editora, não precisarão ler a parte das regras, a não ser a parte que trata dos Pontos Espirituais (se não se quiser usar as reg...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-khael-yorkaih-lider-espiritual-13",
+      "name": "Khael Yorkaih, Líder Espiritual",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        13
+      ],
+      "page": 13,
+      "summary": "Khael Yorkaih, Líder Espiritual O sacerdote Khael Yorkaih tem o respeito de todos os Ceifadores de Leen, especialmente do pupilo Baleyk Ledewik, seu primeiro e mais valoroso discípulo. Além de ministrar os cultos e principais rituais em homenagem a Leen, dentre outros serviços típicos de clérigos, ele é o conselheiro espiritual da ordem. É constantemente pro...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cura--cura-uivo-de-dor-8",
+      "name": "Uivo de dor",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "cura",
+      "sourceTitle": "cura",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "Uivo de dor Custo: 3 O usuário não sentira dor durante duas horas. Receitas Nada como boa comida para espantar a fadiga e a dor. Segue a receita e modo de preparo, e então os efeitos ao ser digerida. Ingredientes: Salada de cogumelos Molho 3 colheres de sopa de azeite 2 colheres de sopa de vinho branco ou vinagre fino 1 colher de chá de açúcar 1 colher de ch...",
+      "entityRefs": [],
+      "tags": [
+        "rituais",
+        "ritual_spell"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "deform--deform-deformacoes-2",
+      "name": "DEFORMAÇÕES",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "deform",
+      "sourceTitle": "deform",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "2 DEFORMAÇÕES (com contribuições indispensáveis de Marcelo del Debbio, José Paulo “LennonZ” e João “Azrael”) By Lamazuus No GRIMÓRIO 1ª Edição existia uma regra muito interessante para personagens Magos: o uso dos poderes mágicos começava a cobrar um preço a ponto de gerar mutações no próprio corpo do Mago, tornan- do-o cada mais parecido com os habitantes d...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "fadadaluz--fadadaluz-poderes-arcadianos-2",
+      "name": "Poderes Arcadianos",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "fadadaluz",
+      "sourceTitle": "fadadaluz",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "Poderes Arcadianos Todas as Fadas da Luz mantém os mesmos poderes arcadianos da fada do ritual, e ganha mais um para cada 10 anos de vida e por nível. ( os de idade recebe apartir dessa data não receberá mais 10 por ter 100 anos por exemplo pois esses ela já recebeu antes do ritual ). A Forma Humana Toda Fada que deseje visitar a Terra alguma vez, deve apren...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "fadadaluz--fadadaluz-fada-da-luz-sistema-daemon-1",
+      "name": "Fada da Luz ( Sistema Daemon)",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "fadadaluz",
+      "sourceTitle": "fadadaluz",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Fada da Luz ( Sistema Daemon) Fadas da Luz são fadinhas criadas atraves de rituais para auxilar e adquirir poderes... Elas são exelentes companheiras e auxiliam em diversas coisas possuem muito poder e como genios estão destinadas a seguir uma mestre para todo sempre... Conhecidas por sua Luz propria que ilumina qualquer tipo de escuridão foram extintas ou s...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "grimark201--grimark201-grimorio-1",
+      "name": "Grimório",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "pages": [
+        [
+          1,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "1 Grimório de Arkanun Versão 2.01 2 O Guia de Magias de Arkanun Saudações Este é um grande projeto iniciado pela Daemon Edito- ra, com o objetivo de reunir todas as Magias e Rituais co- nhecidos, criados ou pesquisados pelos Mestres e Jogado- res de ARKANUN e TREVAS, como um grande Grimório. Com a Idéia do Grimório de Arton, muitos Mestres de Arkanun escreve...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "lobisomens--lobisomens-lobisomem-verdadeiro-3",
+      "name": "Lobisomem Verdadeiro",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "lobisomens",
+      "sourceTitle": "lobisomens",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Lobisomem Verdadeiro Segundo as lendas, o Lobisomem Verdadeiro nas- ce lobisomem ou foi transformado através de ritual voluntário. Esta versão do Lobisomem é encontrada em livros da Idade Média e em tratados de alquimia. É considerado um dos tipos mais conhecidos entre os licantropos. O Lobisomem verdadeiro é capaz de manter o total controle sobre sua transf...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-de-fe-02--poderes-de-fe-02-muito-20",
+      "name": "muito",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "poderes-de-fe-02",
+      "sourceTitle": "poderes de fe 02",
+      "pages": [
+        20
+      ],
+      "page": 20,
+      "summary": "muito conveniente para clérigos e necromantes. Enquanto eles se encarregam dos procedimentos mais complexos de um ritual, o esqueleto fica a cargo de tarefas mais simples, porém importantes (como a seleção e o transporte de ingredientes). No entanto, o servo também é bem-vindo para a execução de serviços mais triviais - como limpar a casa do criador, procura...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rituais--rituais-absorcao-de-magia-2",
+      "name": "Absorção de Magia",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Absorção de Magia Controlar / Entender Metamagia 5 ou 10 Utilizando-se de um cadáver de um usuário de magia (necromante, necromante, clérigo elementalista etc...). Quando o necromante inicia o ritual, ele deve definir qual será seu efeito (há duas opções; escolher uma magia que o atual cadáver conhecia quando vivo, ou aprender 1d4 - 1 (mínimo 1) magias aleat...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rituais--rituais-asas-e-rabo-2pvs-9",
+      "name": "Asas e rabo = 2pvs",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Asas e rabo = 2pvs Garras (cada uma), bico, chifres e guelras = 1 pv. Alcances: Sonar = 100m, radar = 50m, visão noturna = 20m, visão aguçada = 20m, olfato = 10m, audição 100m. Veneno (focus 6): Necessita de um teste de Con vs For 6d, falha o alvo perde 1 pv por turno até a morte ou ser socorrido (testar primeiros socorros fácil, ou qualquer magia de cura, q...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rituais--rituais-garras-aos-mortos-11",
+      "name": "Garras aos Mortos",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "Garras aos Mortos Controlar / Entender Animais (ou Demônios) / Trevas / Espíritos 5 a 7 Idem aos anteriores, mas com as seguintes alterações: Material: Garra (s) de um animal, demônio ou monstro já morto (até + 20% ou - 25%). E o ritual completo durará em torno de 10 a 14 horas (2x o focus) e consome 8, 9 e 11 pms (focus 5, 6 e 7 respectivamente), Para garra...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rituais--rituais-novas-magias-e-rituais-1",
+      "name": "Novas Magias e Rituais",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Novas Magias e Rituais Obs: Neste texto estará GENERALIZADO o realizador do ritual em muitas vezes como necromante, mas não quer dizer que apenas um necromante possa realizar tal ritual, a decisão cabe ao mestre e óbvio ao bom senso, se necessário mande-me um e-mail, o endereço está ao fim do texto. Absorção de Energia Controlar Espíritos / Humanos / Metamag...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "secundarios--secundarios-encantando-cobras-na-verdade-um-antigo-20",
+      "name": "encantando cobras(na verdade,um antigo",
+      "area": "rituais",
+      "category": "power_magic",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "page": null,
+      "summary": "encantando cobras(na verdade,um antigo ritual do templo),e cada vez mais o templo se expande. Características Os magos da Serpente usam roupas verdes escuras,com serpentes desenhadas em seus mantos,durante seus rituais e reuniões.A domesticação de serpentes é extremamente comum entre os magos,que as usam como seus familiares.O templo da Serpente é inimigo de...",
+      "entityRefs": [],
+      "tags": [
+        "power_magic",
+        "rituais"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "secundarios--secundarios-caminhos-1",
+      "name": "Caminhos",
+      "area": "rituais",
+      "category": "kit_class",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Caminhos Secundários- Rituais e Ordens (George Bin Laden) Alô, Galera!Aqui está um “complemento do complemento”,este net-book mostrará alguns rituais dos caminhos secundários para facilitar a vida dos nossos magos;além disso,mostrará também novas ordens baseadas nestes caminhos,que servirão para se ampliar horizontes de mestres e jogadores.Boa leitura, e esp...",
+      "entityRefs": [],
+      "tags": [
+        "kit_class",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "secundarios--secundarios-rituais-2",
+      "name": "Rituais",
+      "area": "rituais",
+      "category": "combat",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Rituais Andar em Brasas Andar em Gelo Águas Venenosas Armas de Cristal Água em Pedra Arma de Fogo Aurora Boreal Afundar Torre Aura Maldita Brilho Estelar Buraco Negro Choque Controle Elétrico Corrupção do Fogo Chagas Cortina de Fumaça Cura de Doenças Controlar Tempestade Corpo de Diamante Dedo Negro Detectar Invisibilidade Dádiva Venenosa Descanso Eterno Ent...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-espiritualistas-9",
+      "name": "Espiritualistas",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Espiritualistas Os Espiritualistas são monges criados desde a infância para manipular sua energia espiritual. “Corpo e mente forte, para se obter espirito forte”, esse é o lema dos espiritualista. Eles escon- dem o uso de seus poderes do resto do mundo, pois se as pessoas soubessem que esses poderes existem, não se saberia como eles reagiriam. Eles possuem t...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-novas-regras-26",
+      "name": "Novas Regras",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "page": null,
+      "summary": "Novas Regras REI-KI O Rei-Ki é a energia espiritual que uma pessoa possui. Em termos de jogo, funciona como pontos de fé. Quanto maior seu Rei-Ki mais fácil é você ser percebido. Se dois Doutrinados/ Espiritualistas estiverem em um mesmo lugar, faz-se um teste resistido de Will contra Will, acrescente +5% para o ativo para cada ponto de Rei-Ki que o passivo...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-guaxinim-2",
+      "name": "Guaxinim",
+      "area": "rituais",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Guaxinim - Em primeiro lugar a minha família por me dar tudo que preciso tanto materialmente como espiritualmente. - Ao meu irmão Alexandre (Keenn) que sempre me apóia nos meus projetos e me ajuda quando eu preciso (ele é expert no tratamento de imagens e Designers de sites). - Ao meu eterno amor a Angra que eu tanto amo e que me ama também, me aturando (poi...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-humanos-doutrinados-7",
+      "name": "Humanos Doutrinados",
+      "area": "rituais",
+      "category": "character_option",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "Humanos Doutrinados Os Doutrinados são pessoas com uma grande quantidade de energia espiritual, chamada Rei Ki, e treinados por tempos no uso de esquecidas artes místicas. São lutadores ou quase isso, sempre andando por aí, procurando novos desafios ou um jeito de deixar essa vida de lutas. Os grandes mestres jamais podem deixar essa vida, pois sempre serão...",
+      "entityRefs": [],
+      "tags": [
+        "character_option",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

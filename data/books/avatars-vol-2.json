@@ -1,0 +1,206 @@
+{
+  "source": "avatars-vol-2",
+  "title": "avatars_vol_2",
+  "status": "full-read-auto-pass-1",
+  "pages": 41,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "avatars-vol-2-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "2 Agradecimentos Primeiro, agradeço à Tuz, minha musa inspiradora e maior incentivadora do meu trabalho de RPG, além de ser minha playtester oficial da maluquices que saem da minha cabeça. Gostaria de agradecer primeiramente ao meu grupo de jogo, Black Ninja, Anso, Dedo_No_Olho, Troscoman e Tuz, que me incentivaram a começar a colocar no papel todas as nossa...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-indice-do-volume-dois-3",
+      "name": "ÍNDICE DO VOLUME DOIS",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "3 ÍNDICE DO VOLUME DOIS Adversários...................................................................................................04 Ravana.............................................................................................................06 Indrajita...................................................................................................",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-introducao-ao-volume-dois-4",
+      "name": "INTRODUÇÃO AO VOLUME DOIS",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "4 “Não vai ser um bando de meta-humanos loucos que se dizem representantes de Deuses profanos que vai tirar a humanidade do caminho da paz e da harmonia dado pela LEI! Eu convoco todos os grupos do Eixo da Justiça para lutar contra essas abominações! Conclamo a todos aqui presentes a lutar pela paz que impusemos sobre a humanidade! Todos vocês aqui presentes...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-ravana-6",
+      "name": "RAVANA",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          9
+        ]
+      ],
+      "summary": "6 RAVANA Arte: Nitro RAVANA CON 12 (100), FR 12 (110), DEX 12(80), AGI 12 (80), INT 15 (60), WILL 16 (70), CAR 12 (40), PER 14(60) Guerreiro do 15° Nível #ataques [6], IP 60 (IP 30 da armadura e 30 de Poder ) PVs 235 + 30PHs (24 pontos de vida como Lorde Carvernon) Ataques: Briga: 90/90, dano 18d6+1+48 Disruptura Molecular: 75 % ( Dano: 13d6+1. Espada Ravana...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-indrajita-bouncer-10",
+      "name": "INDRAJITA (BOUNCER)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "10 INDRAJITA (BOUNCER) Arte: Nitro INDRAJITA CON 18 (130), FR 20 (138), DEX 10(30), AGI 11 (30), INT 9 , WILL 40, CAR 9, PER 18 Guerreiro do 12° Nível #ataques [4], IP 100 PVs 280 + 35 PHs. Ataques: Briga: 75/75, dano 24d6 +62 Poderes: Aumento de Atributos [FR 0,118], [CON 0, 112], [DEX 0,20], [AGI 0,20] Vôo: [40, 50, 30], NP 40, 11 Velocidade: 50 m/s, Carga...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-maximus-max-12",
+      "name": "MAXIMUS MAX",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          12,
+          14
+        ]
+      ],
+      "summary": "12 MAXIMUS MAX Arte: Nitro MAXIMUS MAX CON 11(80), FR 12 (80), DEX 10(50), AGI 11 (50), INT 17, WILL 20, CAR 15, PER 14 Guerreiro do 10° Nível #ataques [4], IP 20 PVs 160 + 30 PHs Ataques: Briga: 65/65, dano 3d6 +30 Visão Max: 75 % ( Dano: 6d6+1) de explosão. A visão Max desestabiliza os átomos com um raio vermelho, fazendo o alvo explodir. Poderes: Aumento...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-hecatombe-15",
+      "name": "HECATOMBE",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "15 HECATOMBE Arte: Nitro HECATOMBE CON 11(90), FR 12 (95), DEX 10(20), AGI 11 (25), INT 10, WILL 20, CAR 8, PER 10 Guerreiro do 8° Nível #ataques [2], IP 40 PVs 185 + 30 PHs. Ataques: Briga: 75/75, dano 3d6 +38 Explosão Atômica: 15d6 (Hecatombe pode explodir o seu corpo, gastando 5 pontos de Will Temporário, gastando 1 ponto ele explode apenas partes do seu...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-daemonia-17",
+      "name": "DAEMONIA",
+      "category": "core_rule",
+      "pages": [
+        [
+          17,
+          19
+        ]
+      ],
+      "summary": "17 DAEMONIA CON 28, FR 28, DEX 28, AGI 30, INT 14, WILL 18, CAR 23, PER 14 Guerreira do 9° Nível #ataques [3], IP 8 PVs 11 (42) + 60 PHs. Ataques: Briga: 55/65, dano 3d6 +8 (garras) 2d6+8 (chifres) 2d6+6 (Língua de Chicote) 8d6+1 (Geração de Fogo, Daemonia emite jatos de fogo pela boca até um alcance de 50 metros, 1 vez à cada três rounds até um número de ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-glaaks-soldado-medio-20",
+      "name": "GLAAKS (SOLDADO MÉDIO)",
+      "category": "core_rule",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "summary": "20 GLAAKS (SOLDADO MÉDIO) CON 35 (8), FR 35 (10), DEX 20 (16), AGI 25 (14), INT 16, WILL 14, CAR 9, PER 30 (18) Guerreiro do 7° Nível #ataques [1], IP 10 PVs 50 (9) * O que estiver entre parêntesis refere-se ao Glaak fora do mecha que ele usa. GLAAKS (CAPITÃO) CON 50 (8), FR 40 (10), DEX 30 (16), AGI 28 (14), INT 18, WILL 17, CAR 9, PER 35 (18) Guerreiro do...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-skullman-22",
+      "name": "SKULLMAN",
+      "category": "combat",
+      "pages": [
+        [
+          22,
+          27
+        ]
+      ],
+      "summary": "22 SKULLMAN CON 24, FR 25, DEX 24, AGI 18, INT 22, WILL 20, CAR 10, PER 16 Guerreiro do 12° Nível #ataques [3], IP 3 PVs 39 + 60 PHs. Ataques: Briga: 35/35, dano 2d6 +6 8d6+1 Poderes: Criação Molecular [40, 45, 40] Skullman pode criar caveiras explosivas de diversos tamanhos, ele pode criar até 4 caveiras de 100 gramas por round e lançá-las no inimigo. Geraç...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-damon-28",
+      "name": "DÄMON",
+      "category": "combat",
+      "pages": [
+        [
+          28,
+          31
+        ]
+      ],
+      "summary": "28 DÄMON CON (15) 45, FR (10) 40, DEX (15) 45, AGI (15) 35, INT 14, WILL 30, CAR 12, PER 20 Guerreira do 8° Nível #ataques [4], IP 15 (IP natural devido à sua alta contituição). PVs 85 + 15 PHs. Ataques: Briga: 65/65 dano 6d6 +2, Garras Energéticas 10d6+2, Poderes: Garras Energéticas [70, 65, 0] NP:70, Dano 10d6+3, Alcance: 0m Dämon usa uma espécie de garra...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-shadaim-32",
+      "name": "SHADAIM",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "summary": "32 SHADAIM CON (14) 40, FR (16) 60, DEX (13) 40, AGI (14) 40, INT 16, WILL 30, CAR 18, PER 13 Guerreiro do 9° Nível #ataques [5], IP 10 PVs 39 + 60 Ataques: Briga: 55/55, dano 10D6+23 Raio Solar: 13d6+1 Cegueria: AGL (do alvo) vs NP (do Controle da Luz de Shadaim) Poderes: Controle da Luz: [60, 80, 10] NP: 60, Dano: 13d6+1, Alcance: 500m Shadaim tem o poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-como-criar-adversarios-34",
+      "name": "COMO CRIAR ADVERSÁRIOS",
+      "category": "character_option",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "34 COMO CRIAR ADVERSÁRIOS Os personagens dessa sessão servem também de inspiração para que o mestre crie seus próprios adversários dos Avataras. Lembre-se de que os personagens dos jogadores são extremamente poderosos, assim para se criar um bom adversário é preciso seguir algumas regras (são as mesmas que usei para criar os Adversários) : 1) ADVERSÁRIOS FRA...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-reporteres-36",
+      "name": "REPÓRTERES",
+      "category": "combat",
+      "pages": [
+        [
+          36,
+          39
+        ]
+      ],
+      "summary": "36 REPÓRTERES Outros personagens muito comuns em aventuras de Super-Heróis. Os repórteres sempre aparecem nos locais onde ocorreram eventos meta-humanos. O Mestre deve criar seus próprios repórteres, que podem ser excelentes NPCs para suas campanhas. Repórter Comum CON 8 (2d), FR 10 (3d), DEX 14 (3d), AGI 16 (3d) INT 16 (3d) , WILL 10 (3d), CAR 13 (3d), PER...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatars-vol-2-fim-do-volume-dois-40",
+      "name": "FIM DO VOLUME DOIS",
+      "category": "kit_class",
+      "pages": [
+        [
+          40,
+          41
+        ]
+      ],
+      "summary": "40 FIM DO VOLUME DOIS Primeiro queria agradecer à receptividade que foi dada ao Avatar! (mais de 1600 em um mês na Rede RPG - www.rederpg.com.br) e dizer que por causa dos e-mails e dos incentivos resolvi ampliar esse volume, colocando mais Super- Vilões para as aventuras de Avatars! ou Supers Daemon. No Volume Três estarão os Kits de Poderes para se criarem...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "source": "tagmar-daemon",
+  "title": "Tagmar Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 89,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "tagmar-daemon-tagmar-daemon-1",
+      "name": "Tagmar Daemon",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Tagmar Daemon Adaptação de Tagmar para o Sistema Daemon: Bruno “Siamo Onurb” Omais, Brunno “Lobo” Silva, Daniel “Talude” Paes, Luiz Leandro “Gandalfo” Gomes; Revisão e Organização: Luiz Leandro “Gandalfo” Gomes; Autores Originais de Tagmar: Marcelo Rodrigues, Ygor Moraes Esteves da Silva, Julio Augusto Cezar Junior e Leonardo Nahoum Pache de Faria; Autores d...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-introducao-3",
+      "name": "Introdução",
+      "category": "core_rule",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Introdução O que é RPG? Caso você já seja um RPGista veterano e já tenha participado de algumas aventuras (como mestre ou jogador), poderá pular essa parte. Caso não seja, recomendo que procure um grupo e participe como espectador de uma sessão para entender bem como funciona uma partida de RPG, quais elementos compõe o jogo e como ele se realiza. Para quem...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-1-5",
+      "name": "Capítulo 1",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Capítulo 1: Conceitos Básicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esses termos usados no sistema de Magias e combates também sã...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-2-7",
+      "name": "Capítulo 2",
+      "category": "core_rule",
+      "pages": [
+        7
+      ],
+      "summary": "Capítulo 2 Criação de Personagens Em um mundo medieval, como Tagmar, a ordem social é muito rígida. Normalmente o filho de um camponês seria outro camponês, tal como um filho de nobre seria também nobre. Poucos conseguem conceber a idéia de quebrar este esquema, quanto mais de mudar de classe social. Mas o anormal existe, pois um centésimo da população tem o...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-atributo-8",
+      "name": "Atributo",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Atributo Valor Modificador Teste Constituição 18 +3 84% Força 16 +1 68% Destreza 10 -1 36% Agilidade 12 -1 44% Inteligência 8 - 32% Força de Vontade 18 - 72% Carisma 8 - 32% Percepção 11 - 44% Total 101 Laura é bonita e inteligente, mas sua preparação física não é tão forte. Além disso, a Sacerdotisa é muito carismática e muito atenta ao que acontece à sua v...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-armas-brancas-bastao-dex-dex-25-25-10",
+      "name": "Armas Brancas (Bastão) DEX/DEX 25/25",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Armas Brancas (Bastão) DEX/DEX 25/25 37/37 Ciências Proibidas (Teoria Da Magia) 0 20 20% Conhecimento (Itens Mágicos) 0 25 25% Idiomas (Malês) – Falar 0 30 30% Idiomas (Malês) – Escrever 0 20 20% Perceba que ambos gastaram os Pontos restantes em algumas das Perícias do próprio Kit e em outras Perícias que fazem parte de seu Background, mas que não são fornec...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-3-12",
+      "name": "Capítulo 3",
+      "category": "attribute_skill",
+      "pages": [
+        12
+      ],
+      "summary": "Capítulo 3: Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. São oito Atributos, divididos entre Físicos e Mentais. Os Físicos são a Constituição, Força, Destreza e Agilidade; os Mentais são Inteli...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-numeros-de-teste-13",
+      "name": "Números de Teste",
+      "category": "attribute_skill",
+      "pages": [
+        13
+      ],
+      "summary": "Números de Teste A qualquer momento do jogo, o Mestre pode exigir de um Jogador um Teste de Atributo para descobrir se ele é capaz de fazer alguma coisa. O Atributo testado vai depender da natureza da ação: arrombar uma porta vai exigir um Teste de Força; desenhar um mapa exige um Teste de Destreza; e “levar no papo” uma secretária de um político para obter...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-4-14",
+      "name": "Capítulo 4",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "Capítulo 4: Raças Uma das primeiras coisas que você terá de escolher para seu personagem é a raça à qual ele pertence, pois isso determinará muito de sua história, seus costumes e cultura, bem como a forma como seu personagem encara o mundo. O mundo de Tagmar não é habitado somente pela raça humana, mas sim por uma série de raças inteligentes que convivem (o...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-5-17",
+      "name": "Capítulo 5",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          17,
+          21
+        ]
+      ],
+      "summary": "Capítulo 5: Profissões Existem seis profissões básicas que os personagens poderão exercer: Guerreiros, Ladinos, Sacerdotes, Magos, Rastreadores e Bardos. As profissões definem exatamente o que o personagem é, no que ele é bom e o que ele pode fazer, inclusive para efeito da criação do personagem onde o jogador transfere para a ficha do personagem o que menta...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-maira-vet-22",
+      "name": "Maira vet",
+      "category": "power_magic",
+      "pages": [
+        [
+          22,
+          23
+        ]
+      ],
+      "summary": "Maira vet Natureza em aspecto vegetal. Ciências (Botânica 70%, Herbalismo 70%). Maira nil Natureza em aspecto animal. Ciências (Zoologia 70%, Ecologia 70%). Selimon Paz, amor. Manipulação (Empatia 70%), Negociação (Diplomacia 70%). Lena Prazer erótico e prazer no trabalho. Manipulação (Sedução 70%), Artífice (qualquer 70%). Plandis Paixão cega. Manipulação (...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-colegio-alquimico-24",
+      "name": "Colégio Alquímico",
+      "category": "power_magic",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "Colégio Alquímico O poder da Alquimia consiste em manipular as forças de constituição da matéria e a energia corpórea dos seres. A manipulação de tal poder pode, no entanto, acarretar graves danos ao evocador, que em alguns casos, podem ser até mesmo irreparáveis (por meios normais). Esse risco existe porque alguns dos encantos deste colégio exigem que o evo...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-6-26",
+      "name": "Capítulo 6",
+      "category": "attribute_skill",
+      "pages": [
+        26
+      ],
+      "summary": "Capítulo 6: Perícias Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calculam-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Ponto...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-animais-27",
+      "name": "Animais*",
+      "category": "core_rule",
+      "pages": [
+        27
+      ],
+      "summary": "Animais* Este grupo de Perícias reflete o tratamento e conhecimento que um Personagem tem com relação a animais. Em mundos de Fantasia, esta Perícia pode ser usada apenas para animais e criaturas naturais, ela geralmente não serve para monstros, apenas com algumas exceções. Tratamento de Animais (Primeiros Socorros): O Personagem tem bons conhecimentos de ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-armeiro-0-ferreiro-ou-carpinteiro-28",
+      "name": "Armeiro (0/ Ferreiro ou Carpinteiro)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          28,
+          31
+        ]
+      ],
+      "summary": "Armeiro (0/ Ferreiro ou Carpinteiro) Personagens com esta Perícia têm habilidades para construir e consertar armas, armaduras e escudos. Seu valor inicial depende do material utilizado na fabricação do item. Caso o Personagem esteja fabricando ou reparando uma espada ou escudo de madeira, seu valor inicial em Armeiro será o valor de Carpinteiro, mas se esta...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-esquiva-agi-32",
+      "name": "Esquiva (AGI)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          32,
+          35
+        ]
+      ],
+      "summary": "Esquiva (AGI) Com algum treinamento, é possível a qualquer pessoa desviar de golpes e de objetos arremessados contra ela. Esta Perícia deve prevalecer sobre um Teste de Agilidade em determinadas situações nas quais o Personagem pode usar sua técnica e instintos treinados para se safar de um problema com mais eficiência. Entretanto, a Esquiva não pode ser usa...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-7-36",
+      "name": "Capítulo 7",
+      "category": "combat",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "summary": "Capítulo 7: Aprimoramentos Aprimoramentos são toques pessoais na vida do seu Personagem. Peculiaridades, trejeitos e características que o tornam único. Os Aprimoramentos estão divididos em pontos, que refletem o quão poderosos estes méritos são. Assim, aqueles que custam 1 Ponto são mais comuns àqueles de 3 ou 4 Pontos. Em termos de regras, cada Personagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-empatia-com-animais-38",
+      "name": "Empatia com Animais",
+      "category": "power_magic",
+      "pages": [
+        [
+          38,
+          39
+        ]
+      ],
+      "summary": "Empatia com Animais 1 ponto: os animais não vêem ameaça algum no personagem, chegando até a verem-no como um semelhante. Sua presença não afugenta animais selvagens e sua aproximação não os fará atacá-lo (a menos que estejam sendo controlados). Fama Você é famoso por seus feitos entre as pessoas, sendo uma figura de destaque dentre os bardos, aristocratas, s...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-2-pontos-2d-de-resistencia-40",
+      "name": "2 pontos: 2D de resistência.",
+      "category": "core_rule",
+      "pages": [
+        [
+          40,
+          42
+        ]
+      ],
+      "summary": "2 pontos: 2D de resistência. 3 pontos: 3D de resistência. 4 pontos: 4D de resistência. 5 pontos: 5D de resistência. Sábio 1 ponto: existe uma Perícia (exceto Perícias de combate) na qual seu Personagem conhece absolutamente tudo o que existe a respeito. Considere que ele tenha 90% nessa Perícia, além de experiência, contatos e conhecimentos relacionados a es...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-inimigo-43",
+      "name": "Inimigo",
+      "category": "core_rule",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "summary": "Inimigo -1 ponto cada: o personagem representa perigo para alguém, ou alguém o quer morto por algum motivo. Seu inimigo sempre será bem mais forte que você, e caso o vença, ele será substituído por outro ainda mais forte. O Mestre deve criar os inimigos e utilizá-los como PdMs durante as aventuras. Intolerância -1 ponto: existe algo que você não tolera, seja...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-8-45",
+      "name": "Capítulo 8",
+      "category": "item_equipment",
+      "pages": [
+        45
+      ],
+      "summary": "Capítulo 8: Pertences O último fator de grande importância para a caracterização dos personagens são suas posses. Diz-se que a riqueza é por si mesma um grande poder. Em Tagmar, isto é particularmente correto, pois muitas vezes a sua vida ou sua capacidade dependerão do equipamento possuído. Um Guerreiro poderoso e experiente que esteja sem armadura e lutand...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-refeicao-de-taberna-por-pessoa-46",
+      "name": "Refeição de Taberna (por pessoa)",
+      "category": "item_equipment",
+      "pages": [
+        46
+      ],
+      "summary": "Refeição de Taberna (por pessoa) - 5 m.c. Utensílios de cozinha (1 pessoa) 5 kg. 5 m.c. Vinho (jarra) 3 kg. 8 m.c. Vinho caro (jarra) 750 g. 1 m.o. Transportes São considerados transportes todos os tipos de engenho para facilitar a locomoção (por terra ou mar). Pequenos transportes como carroças, canoas, bigas, etc., são fáceis de se adquirir. Transportes ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-equipamentos-misticos-47",
+      "name": "Equipamentos Místicos",
+      "category": "core_rule",
+      "pages": [
+        47
+      ],
+      "summary": "Equipamentos Místicos Custo Grimório 1,5 kg (livro) 2 m.p./ pág Ervas exóticas (kg) - 3 m.o. Partes de animais - variável Minerais (kg) - 5 m.p. Livro 500 - 1,5 kg 1 – 50 m.o. Animais A tabela mostra todos os animais normalmente encontrados à venda. Animais místicos (Unicórnios, Pégasos, Grifos, etc) nunca são encontrados a venda. Animais treinados custam ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-armas-48",
+      "name": "Armas",
+      "category": "combat",
+      "pages": [
+        48
+      ],
+      "summary": "Armas Dano Penal. Alcance Peso Custo Adaga 1d3 -2 - 500 g. 3 m.p. Arco Composto 1d6+2 -12/-1 40/100 1 kg. 2 m.o. Arco Longo* 1d6+2 -9/-1 80/200 1,5 kg. 15 m.p. Arco Simples* 1d6 -10/-1 40/100 1 kg. 1 m.o. Arpão de pesca 1d6 -4 15/30 2 kg. 5 m.p. Bastão 1d6 -2 - 1,5 kg. 3 m.c. Cajado 1d6 -3 - 2 k.g. 6 m.c. Chicote 1d4 -8 7 m. 1 kg. 2 m.p. Clava 1d6 -3 - 1,5 k...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-o-comercio-em-tagmar-49",
+      "name": "O Comércio em Tagmar",
+      "category": "core_rule",
+      "pages": [
+        49
+      ],
+      "summary": "O Comércio em Tagmar O comércio em Tagmar é feito basicamente de duas formas: Em centros comerciais (cidades) e através de mercadores ambulantes. O comércio nas cidades é normalmente mais variado e com um preço mais equilibrado, devido à concorrência. Só nos grandes centros (grandes cidades e portos) é que se encontram itens raros e caros, bem como mão-de-ob...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-9-50",
+      "name": "Capítulo 9",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          50,
+          51
+        ]
+      ],
+      "summary": "Capítulo 9: Regras de Testes e Combate Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é priv...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-pericia-vs-pericia-52",
+      "name": "Perícia vs. Perícia",
+      "category": "combat",
+      "pages": [
+        [
+          52,
+          55
+        ]
+      ],
+      "summary": "Perícia vs. Perícia Existem situações durante uma Aventura nas quais dois Personagens estão se enfrentando utilizando-se de suas Perícias. Podem ser a mesma Perícia ou Perícias opostas. A resolução também é bastante simples. Escolha um dos lados da disputa como Fonte Ativa e o outro lado será a Fonte Passiva. A chance básica de sucesso é 50%. A esse valor, s...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-desarme-56",
+      "name": "Desarme",
+      "category": "combat",
+      "pages": [
+        [
+          56,
+          58
+        ]
+      ],
+      "summary": "Desarme O Desarme é um golpe localizado. O atacante declara que está atacando o oponente com o intuito de lhe tirar a arma. Se o golpe for um acerto, o atacante não causa dano ao defensor, mas este perde sua arma, que é arremessada fora do alcance das mãos dos lutadores. Se o defensor estiver usando duas armas, é preciso desarmar uma arma de cada vez. Se o n...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-regras-especiais-59",
+      "name": "Regras Especiais",
+      "category": "core_rule",
+      "pages": [
+        59
+      ],
+      "summary": "Regras Especiais Paralisia Um Personagem pode estar paralisado devido a um efeito mágico, um veneno ou qualquer motivo que seja. O Personagem pode estar ciente dos fatos a sua volta, mas não pode, de modo algum, mover-se ou defender-se de nada. Caso um outro Personagem decida matá-lo, ele não tem como se defender. Sufocar Um Personagem é capaz de ficar CON/2...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-doencas-60",
+      "name": "Doenças",
+      "category": "core_rule",
+      "pages": [
+        60
+      ],
+      "summary": "Doenças Moléstias estranhas podem afetar o aventureiro em terras distantes. A invenção de doenças é uma oportunidade excelente para o Mestre exercitar uma forma mórbida de criatividade! Qualquer um em uma área infectada, ou encontrando um portador de doença, está em perigo. A maioria das doenças permite um teste de resistência por CON para resistir, feita em...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-10-61",
+      "name": "Capítulo 10",
+      "category": "creature_npc",
+      "pages": [
+        [
+          61,
+          64
+        ]
+      ],
+      "summary": "Capítulo 10: Magia Uma definição formal (e um pouco pomposa) de magia é: \"A arte de se provocar mudanças de acordo com a vontade\". Magia é uma coisa muito importante – senão a mais importante – dos mundos e campanhas de fantasia medieval. Em Tagmar Daemon, as magias são lançadas gastando-se pontos de Magia ou de Fé. O místico precisa conhecer a magia (ter a...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-2o-circulo-65",
+      "name": "2º Círculo",
+      "category": "core_rule",
+      "pages": [
+        [
+          65,
+          66
+        ]
+      ],
+      "summary": "2º Círculo Entender Ar: Permite ao personagem sentir possíveis rotas que o ar (ou névoas, fumaça) tomou de sua origem até chegar a ele; permite identificar um cheiro próximo com certa precisão (desde que se conheça o cheiro); pode passar mensagens para outro personagem a até 25m de distância sem outras pessoas escutarem; pode sentir vibrações ou mudanças no...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-luz-67",
+      "name": "Luz",
+      "category": "core_rule",
+      "pages": [
+        67
+      ],
+      "summary": "Luz 1º Círculo Entender Luz: Visão perfeita. Pode perceber ilusões de óptica e truques de prestidigitadores (truques de mãos rápidas). Aumenta temporariamente a Percepção em 1 ponto. Cria o efeito de olhos brilhantes na escuridão. Com um simples efeito, pode identificar um sinal luminoso ou saber o que está gerando uma luz. Criar Luz: Cria uma luz suficiente...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-terra-68",
+      "name": "Terra",
+      "category": "item_equipment",
+      "pages": [
+        [
+          68,
+          69
+        ]
+      ],
+      "summary": "Terra 1º Círculo Entender Terra: Pode saber que tipo de pedra ou metal está segurando (se já conhecer aquele material anteriormente). O invocador pode sentir a presença de determinado tipo de pedra, minério, metal (não ouro) ou pó a até 10m de distância. Criar Terra: Pode Criar /Destruir terra, pedras, barro ou metal suficiente para encher um balde, na forma...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-1o-circulo-70",
+      "name": "1º Circulo",
+      "category": "core_rule",
+      "pages": [
+        [
+          70,
+          75
+        ]
+      ],
+      "summary": "1º Circulo Entender Plantas: Sabe o gosto de uma fruta ou verdura, ou cheiro de uma planta pelo toque. Sente uma propriedade de uma planta (se é venenosa, medicinal, aromática). Sabe, com exatidão, que tipo de planta o místico esta tocando (depende do fetiche utilizado). Seleciona os melhores grãos de um punhado de sementes. Prepara pequenas poções e elixire...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-11-76",
+      "name": "Capítulo 11",
+      "category": "core_rule",
+      "pages": [
+        76
+      ],
+      "summary": "Capítulo 11: Experiência Em um RPG de fantasia medieval, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos dragões, dungeons, armadilhas e outros perigos e que conseguiram resolver uma Aventura (ou parte dela, ou saírem vivos, pelo menos), existe um sistema que permite aos Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-tesouros-77",
+      "name": "Tesouros",
+      "category": "core_rule",
+      "pages": [
+        77
+      ],
+      "summary": "Tesouros Um nome pomposo para dinheiro. Personagens podem conseguir muito dinheiro como pagamento de uma missão, roubo, como criminosos ou com investimentos que tenham feito durante a Aventura. Títulos O rei ou a guarda que os aventureiros estão ajudando ou prestando favores pode conceder-lhes algum título ou condecoração; ou pode ser um favor que os persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-capitulo-12-78",
+      "name": "Capítulo 12",
+      "category": "creature_npc",
+      "pages": [
+        [
+          78,
+          85
+        ]
+      ],
+      "summary": "Capítulo 12: Introdução à Ambientação O texto que se segue tem como objetivo servir de \"primeira porta\", ser como um arauto para você, leitor, nessa viagem por um mundo novo e diferente, um universo que irá respeitar leis diferentes das que você conhece em seu próprio mundo real. Por isso, leia as próximas páginas com atenção, e saiba desde já que isso não s...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-as-fronteiras-86",
+      "name": "As Fronteiras",
+      "category": "race_lineage",
+      "pages": [
+        [
+          86,
+          88
+        ]
+      ],
+      "summary": "As Fronteiras Lago Denégrio Chamado por muitos de \"o Mar Doce\", o Lago é o principal sustentáculo da vida civilizada na região. Provendo a pesca e propiciando meio de transporte rápido, mesmo que apenas através de suas bordas (entendendo-se por “bordas” a diferença entre sua área total e a região contida dentro dos limites de 30 km da Ilha é através dele que...",
+      "entityRefs": []
+    },
+    {
+      "id": "tagmar-daemon-khurng-89",
+      "name": "Khurng",
+      "category": "core_rule",
+      "pages": [
+        89
+      ],
+      "summary": "Khurng Dialeto utilizado por todas as comunidades de Orcos de Tagmar. Khurng também tem uma representação gráfica, ou seja, uma escrita. A Língua do Império Menos que um idioma, é mais urna versão do Malês (como o Malês Central) extremamente modificada por uma história e cultura próprias. Aqui seria cabível o uso das regras de Línguas, ou seja, ela deve ser,...",
+      "entityRefs": []
+    }
+  ]
+}

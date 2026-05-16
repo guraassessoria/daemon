@@ -1,0 +1,73 @@
+{
+  "source": "aprimoramentos-4",
+  "title": "Aprimoramentos 4",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "power_magic",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "aprimoramentos-4-aprimoramentos-positivos-1",
+      "name": "Aprimoramentos Positivos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Aprimoramentos Positivos Atropelar 1 ponto: A criatura projeta 1 metro a criatura defensora por ponto de dano que acertar o alvo independente do seu IP, o alvo tem direito a um teste de CON para reduzir a distancia a metade. Aceleração 1 ponto: O personagem recebe +10 em sua Iniciativa e aumenta sua velocidade normal em 10m/s. No caso de fuga, perseguição e...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-4-deslocamento-em-velocidade-aprimorado-4",
+      "name": "Deslocamento em velocidade Aprimorado",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          4,
+          8
+        ]
+      ],
+      "summary": "Deslocamento em velocidade Aprimorado 2 ponto: O mesmo que o Deslocamento em Velocidade mas a distância é dobrada. Elasticidade 2 pontos: O personagem pode esticar ou contorcer seus membros e seu corpo num nível sobre-humano. Ele pode esticar-se até 10 metros de distância e recebe um bônus de +5% nos testes de ataque e defesa para agarrar. Este aprimoramento...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-4-telepatia-9",
+      "name": "Telepatia",
+      "category": "power_magic",
+      "pages": [
+        9
+      ],
+      "summary": "Telepatia É o dom de ler e captar a mente das pessoas. Usar Telepatia exige um turno. 3 pontos: O personagem só consegue captar pensamentos superficiais, o que ela está pensando naquele momento ou sentimentos muito fortes. O telepata também pode transmitir um sentimento simples, como medo ou amor, uma imagem ou uma mensagem para a outra pessoa. Ela poderá pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-4-maestria-em-caminho-10",
+      "name": "Maestria em Caminho",
+      "category": "power_magic",
+      "pages": [
+        10
+      ],
+      "summary": "Maestria em Caminho Restrição: O personagem deve possuir o Aprimoramento Foco em Caminho. 1 ponto: A sua especialidade e compreensão de um dos caminhos da magia tornou-se formidável. Todas as magias que você faz com este caminho são consideradas como se possuíssem Focus +3. Este bônus SUBSTITUI o bônus de Foco em Caminho. Este caminho escolhido, obrigatoriam...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-4-cacado-11",
+      "name": "Caçado",
+      "category": "core_rule",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "Caçado Alguém colocou um prêmio sobre a cabeça de seu personagem, e ele é constantemente atormentado por caçadores de recompensas ou oportunistas. Nenhum lugar é realmente seguro, e a ganância das pessoas o torna alguém que não pode confiar plenamente em ninguém. - 1 ponto: Há um preço considerável por você; ultrapassando D$ 10.000,00 (que equivalem a 1.000...",
+      "entityRefs": []
+    }
+  ]
+}

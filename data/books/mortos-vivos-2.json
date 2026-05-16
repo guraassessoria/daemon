@@ -1,0 +1,53 @@
+{
+  "source": "mortos-vivos-2",
+  "title": "Mortos vivos 2",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 27,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "power_magic",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "mortos-vivos-2-http-www-arcanorum-cjb-net-1-1",
+      "name": "http://www.arcanorum.cjb.net (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 http://www.arcanorum.cjb.net 2 Introdução Olá, caro RPGista. Este é um pequeno suplemento para o RPG Arkanun. Mas desta vez, os personagens encararão um novo de- safio. Não, nada de demônios ou templário. Muito pelo contrário. Agora, eles terão de enfrentar as criaturas mais comuns dos folclo- res e mitologias de todo o mundo: os mortos- vivos. Você não ac...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortos-vivos-2-http-www-arcanorum-cjb-net-1-2",
+      "name": "http://www.arcanorum.cjb.net (11-20)",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "1 1 Organização e Modo de Vida Os Aletchs são solitários e nunca andam um em companhia de outro. Preferem seguir sozinhos suas próprias trilhas. Cada um possui seus própri- os objetivos pessoais, geralmente tendem a dar con- tinuidade a sua vida, mas acabam sendo barrados por sua fome voraz. Se relacionam razoavelmente bem com magos e outros mortos vivos. Nã...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortos-vivos-2-http-www-arcanorum-cjb-net-1-3",
+      "name": "http://www.arcanorum.cjb.net (21-27)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          27
+        ]
+      ],
+      "summary": "2 1 Dormir em Tumbas O morto-vivo conserva o hábito de dormir, mesmo que apenas algumas horas por semana, em sua tumba ou outra qualquer, desde que seja feita de terra. É um conforto que ele não dispen- sa, e se deixar de faze-lo, sofrerá terríveis dores de cabeça, deixando-o zonzo e desorientado, até que volte a dormir. Transpirar Amônia O morto-vivo ainda...",
+      "entityRefs": []
+    }
+  ]
+}

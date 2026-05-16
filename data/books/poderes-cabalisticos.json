@@ -1,0 +1,73 @@
+{
+  "source": "poderes-cabalisticos",
+  "title": "Poderes Cabalisticos",
+  "status": "full-read-auto-pass-1",
+  "pages": 12,
+  "primaryCategories": [
+    "combat",
+    "creature_npc",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "poderes-cabalisticos-poderes-cabalisticos-1",
+      "name": "Poderes Cabalísticos",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "1 Poderes Cabalísticos Revisado e Ampliado Apresento aqui a lista completa dos poderes dos Anjos Protetore, que não vinham especificados no livro Anjos: A Cidade de Prata. Estes poderes foram criados para serem usados em campanhas por personagens jogadores e por isso não estão especificados os poderes dos Serafins, que são permitidos apenas como NPC’s. Cada...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-cabalisticos-iii-3",
+      "name": "III",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "III (6) Avatar: O Arcanjo pode mandar para Terra uma forma Avatar de si mesmo. Ele pode usar todos os seus poderes normalmente, mas terá todas as restrições como anjo/avatar (vide Anjos: A Cidade de Prata). Se caso o Avatar for destruído, o seu espírito volta para Paradísia, mas não poderá voltar a Terra durante um determinado tempo (para termos de jogo, só...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-cabalisticos-vii-7",
+      "name": "VII",
+      "category": "creature_npc",
+      "pages": [
+        7
+      ],
+      "summary": "VII (5) Canção Heróica: Este poder exige toda inspiração do Trono. Ele criará uma música para um aliado, falando de seus maiores feitos. Enquanto canta, o alvo receberá um bônus de 30% para atacar e defender causará dano dobrado e receberá 10 Pontos Heróicos. (5) Canção da Maldição: Igual à Canção do Ridículo, mas funciona com qualquer dos atributos à escolh...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-cabalisticos-viii-8",
+      "name": "VIII",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          8,
+          11
+        ]
+      ],
+      "summary": "VIII (2) Concentração: O Virtude pode se concentrar de tal modo em uma tarefa que ficará alheio a qualquer coisa que o incomode. Dor, sentimentos ou barulho não poderão distrair o Virtude de maneira alguma. Esse poder dá um bônus de +30% nas tarefas. Lutar não é considerado uma tarefa. Dura um turno para ser realizado. (2) Análise: Esse poder permite ao Virt...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-cabalisticos-xii-12",
+      "name": "XII",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "XII (4) Ligação Natural: O Potestade está tão ligado ao mundo natural que sua PER é maior em lugares selvagens. O Potestade entende todos os sinais da floresta e pode rastrear qualquer coisa sem esforço. Em regras, sua PER é duplicada. (4) Vingador da Natureza: Os Potestade são os protetores da natureza. Por isso com este poder o Potestade ganha um bônus de...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "hiperions",
+    "name": "Hipérions",
+    "category": "item_equipment",
+    "source": "abismo-infinito-quick-start",
+    "page": 11,
+    "entries": [
+      "Tipo de nave/equipamento espacial descrito no quick start de Abismo Infinito."
+    ],
+    "tags": ["nave", "equipamento", "horror-espacial"],
+    "confidence": 0.72,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "prometeus",
+    "name": "Prometeus",
+    "category": "item_equipment",
+    "source": "abismo-infinito-quick-start",
+    "page": 11,
+    "entries": [
+      "Tipo de cruzador/nave descrito no quick start de Abismo Infinito."
+    ],
+    "tags": ["nave", "equipamento", "horror-espacial"],
+    "confidence": 0.72,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "argos",
+    "name": "Argos",
+    "category": "item_equipment",
+    "source": "abismo-infinito-quick-start",
+    "page": 12,
+    "entries": [
+      "Tipo de nave/equipamento de apoio descrito no quick start de Abismo Infinito."
+    ],
+    "tags": ["nave", "equipamento", "horror-espacial"],
+    "confidence": 0.72,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "soro-da-verdade",
+    "name": "Soro da Verdade",
+    "category": "item_equipment",
+    "source": "alastores-a-justica-infernal",
+    "page": 33,
+    "entries": ["Droga psicoativa usada para tentar obter informacoes, descrita na secao de objetos magicos/recursos dos Alastores."],
+    "tags": ["droga", "investigacao", "alastores"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "caixa-e-besouro",
+    "name": "Caixa e Besouro",
+    "category": "item_equipment",
+    "source": "alastores-a-justica-infernal",
+    "page": 34,
+    "entries": ["Objeto magico descrito no suplemento Alastores."],
+    "tags": ["objeto-magico", "alastores"],
+    "confidence": 0.76,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "areia-de-agaures",
+    "name": "Areia de Agaures",
+    "category": "item_equipment",
+    "source": "alastores-a-justica-infernal",
+    "page": 34,
+    "entries": ["Alforja/objeto magico citado na secao de objetos de Alastores."],
+    "tags": ["objeto-magico", "alastores"],
+    "confidence": 0.76,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "tebori",
+    "name": "Tebori",
+    "category": "item_equipment",
+    "source": "alastores-a-justica-infernal",
+    "page": 35,
+    "entries": ["Tatuagem magica que confere habilidade especifica, como atributo, pericia ou poder demoniaco."],
+    "tags": ["tatuagem", "objeto-magico", "alastores"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "naves-supers",
+    "name": "Naves em SUPERS",
+    "category": "item_equipment",
+    "source": "anime-rpg-powers",
+    "page": 32,
+    "entries": ["Tipos, ambientes e regras para naves em campanhas SUPERS, incluindo classes como caca estelar e transportador."],
+    "tags": ["supers", "nave", "sci-fi"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "equipamentos-futuristas",
+    "name": "Equipamentos Futuristas",
+    "category": "item_equipment",
+    "source": "anime-rpg-powers",
+    "page": 35,
+    "entries": ["Equipamentos, armas, granadas, armaduras e veiculos futuristas para campanhas SUPERS sci-fi."],
+    "tags": ["supers", "equipamento", "sci-fi"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "source": "battlemage",
+  "title": "BattleMage",
+  "status": "full-read-auto-pass-1",
+  "pages": 124,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "attribute_skill",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "battlemage-zendikar-ao-dia-1",
+      "name": "Zendikar ao dia.",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          16
+        ]
+      ],
+      "summary": "Gideon Jura: LIMITESParte 1O Planinauta Gideon Jura tem um problema – há apenas um dele. Zendikar é um mundo devastado por monstros sobrenaturais conhecidos como Eldrazi. Gideon testemunhou sua devastação quando ele visitou pela primeira vez o plano e prometeu voltar com ajuda. Nenhum Planinauta atendeu ao seu chamado, e ele se recusou a deixar Zendikar defi...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-parte-dele-queria-fazer-exatamente-o-contrario-17",
+      "name": "Parte dele queria fazer exatamente o contrário.",
+      "category": "power_magic",
+      "pages": [
+        [
+          17,
+          44
+        ]
+      ],
+      "summary": "Jace Beleren: REENCONTROParte 2 Jace não estava acostumado a perceber os olhos das pessoas. Ele não precisava deles para ler intenções, e embora ele tivesse aprendido a olhar para os olhos das pessoas quando ele falava com eles, ele nunca aprendeu a prestar atenção a eles. Mas dos olhos de Liliana ele se lembrava, antigos e violeta-cinzento e cheios de prome...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-ele-sumiu-ha-muitos-anos-45",
+      "name": "Ele sumiu há muitos anos.",
+      "category": "power_magic",
+      "pages": [
+        [
+          45,
+          77
+        ]
+      ],
+      "summary": "Ele sumiu há muitos anos. Mas, antes de desaparecer, ele falava de você com frequência; me contou dos seus poderes, suas habilidades, sua centelha. Você foi a primeira em que pensei quando eu comecei esta missão, mas eu não esperava encontrar você ainda aqui. Eu estou muito feliz que encontrei.” Ele pegou um pequeno pedaço de seda cinza dobrado e ofereceu a...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-gastos-da-energia-de-treinamento-78",
+      "name": "GASTOS DA ENERGIA DE TREINAMENTO",
+      "category": "combat",
+      "pages": [
+        [
+          78,
+          90
+        ]
+      ],
+      "summary": "GASTOS DA ENERGIA DE TREINAMENTO Abaixo vai uma tabela com o que pode ser feito com os simbiontes: celestiais e infernais e também, quanto ao custo de cada “ato” feito com o simbionte. O que pode ser feito com o simbionte celestial e/ ou infernal: Custo: R I E II Custo: Hellspawn Materializar armas de fogo* 25 Materializar munição* 10 Armas unanimadas 0 Usar...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-alterismo-91",
+      "name": "ALTERISMO",
+      "category": "power_magic",
+      "pages": [
+        [
+          91,
+          92
+        ]
+      ],
+      "summary": "ALTERISMO Seres com acesso às forças da existência das raças e dos Nomes Verdadeiros podem simular tais \"nomes raciais\" para si, \"camuflando\" suas reais naturezas contra seres que podem ser imunes a seus poderes e à sua própria natureza. Note que uma criatura não se transforma em outro ser, apenas \"dribla\" as defesas místicas do alvo contra certos tipos de c...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-super-percepcao-1-93",
+      "name": "Super Percepção 1.",
+      "category": "combat",
+      "pages": [
+        [
+          93,
+          96
+        ]
+      ],
+      "summary": "Super Percepção 1. Seu personagem, quando ganhou seu poder, não descobriu habilidades diferentes das que possuía, mas sim que suas características normais foram ampliadas. Sendo assim seu personagem possui uma percepção máxima, e recebe +6 no seu atributo a cada nível de intensidade. CON 40 (+15+80), FR 40 (+11+80), DEX 20 (+15), AGI 30 (+13) INT 14 (+), WIL...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-chi-2pts-97",
+      "name": "CHI 2Pts*",
+      "category": "combat",
+      "pages": [
+        97
+      ],
+      "summary": "CHI 2Pts* O poder do Chi é o controle da exaustão quando se está ultrapassando o limite físico. Quando seu herói for utilizar o chi, (na intensidade de 1D a 4D) ele pode funcionar como um proteção especial, aumentar a sua capacidade num atributo ou poder, utilizando se dele numa quantidade igual ou menor ao poder do Chi. Esse poder não pode aumentar os ponto...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-alvo-elusivo-98",
+      "name": "ALVO ELUSIVO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          98,
+          105
+        ]
+      ],
+      "summary": "ALVO ELUSIVO 1 PONTO:O PERSONAGEM,QUANDO EM COMBATE CORPO-A-CORPO,CONSEGUE USAR SEUS OPONENTES COMO COBERTURA,BLOQUEANDO E ATRAPALHANDO OS ATAQUES DE OUTROS INIMIGOS. SEMPRE QUE ESTIVER ENFRENTANDO MAIS DE UM OPONENTE AO MESMO TEMPO,O PERSONAGEM É CAPAZ DE SE POSICIONAR DE MODO A TRAPALHAR OS ATAQUES DOS OUTROS INIMIGOS. CADA UM DOS OPONENTES DO PERSONAGEM R...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-1ponto-ate-5-rituais-extras-106",
+      "name": "1ponto: até 5 rituais extras",
+      "category": "item_equipment",
+      "pages": [
+        [
+          106,
+          108
+        ]
+      ],
+      "summary": "1ponto: até 5 rituais extras 2 pontos: 15 rituais extras 3 pontos: 25 rituais extras 4 pontos: 35 rituais extras 5 pontos: 45 rituais estras 6 pontos: 55 rituais extras. A partir desse nível, podem existir Magia Épica na biblioteca. Evasão 1 Ponto: Toda vez que o personagem precisa fazer um teste de AGI para receber metade do dano (Magias, bombas, sopro de d...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-poderes-relacionados-absorcao-109",
+      "name": "Poderes Relacionados: Absorção",
+      "category": "combat",
+      "pages": [
+        [
+          109,
+          117
+        ]
+      ],
+      "summary": "Poderes Relacionados: Absorção Seu herói se recupera de ferimentos, (ganha pontos de vida de volta) muito mais rápido do que qualquer humano, desde que ele não seja ferido novamente durante o processo de recuperação. Se o herói sofreu qualquer ferimento sério, ele deve parar de fazer ações para que a regeneração funcione. Se o herói for ferido durante o turn...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-a-forma-humana-118",
+      "name": "A FORMA HUMANA",
+      "category": "power_magic",
+      "pages": [
+        [
+          118,
+          119
+        ]
+      ],
+      "summary": "A FORMA HUMANA Todo demônio que deseje um dia poder ir a Terra aprende o poder mais importante de todos: A Forma Humana. Este Poder permite ao demônio assumir a forma de um humano comum que desejar, de acordo com o nível de Poder escolhido. Na forma humana, nenhum dos Poderes Demoníacos funciona, a menos que esteja especificado um custo adicional para que o...",
+      "entityRefs": []
+    },
+    {
+      "id": "battlemage-desintegracao-intensidade-6pts-total-15pts-120",
+      "name": "Desintegração Intensidade 6Pts, Total 15Pts",
+      "category": "combat",
+      "pages": [
+        [
+          120,
+          124
+        ]
+      ],
+      "summary": "Desintegração Intensidade 6Pts, Total 15Pts Seu herói pode converter matérias inorgânicas em energia. Isso é tratado como um ataque normal, exceto pelo fato de que só funciona se o total de danos for maior do que a força do material (resistência), para isso considera-se que um material possui um valor de Pvs iguais ao seu IP vezes 10, se este total de danos...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source": "geradoritem02",
+  "title": "geradoritem02",
+  "status": "full-read-auto-pass-1",
+  "pages": 21,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "geradoritem02-gerador-de-itens-magicos-1",
+      "name": "Gerador de Itens Mágicos",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Gerador de Itens Mágicos 2ª Edição Anderson “Anúbis” Maximilian Poison D'Morth Rodrigo \"Lamazuus\" Lins Agradecimentos: A Deus, pelo dom da vida. A meus pais por seu incentivo em meus projetos. Ao Maximilian pelo auxilio na criação dessa segunda edição. Ao Lamazuus por ter ajudado a lançar a primeira edição. Ao pessoal da Daemon por ter criado o melhor sistem...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-introducao-3",
+      "name": "Introdução",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "Introdução Itens mágicos são alguns dos elementos que mais caracterizam cenários de fantasia medieval. Em alguns cenários como SdA, esses itens são extremamente raros e poderosos, em outros cenários podem ser comprados livremente em feiras. Pode se dizer que o ponto determinante dessa diferença é a forma com que a magia é utilizada no cenário. Por exemplo, d...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-pontos-de-item-magico-4",
+      "name": "Pontos de Item Mágico",
+      "category": "item_equipment",
+      "pages": [
+        [
+          4,
+          6
+        ]
+      ],
+      "summary": "Pontos de Item Mágico O método de criação de itens mágicos, apresentado nesse netbook é baseado na distribuição de pontos de itens mágicos. Com esses pontos são comprados o tipo do item e seus efeitos. Os pontos de itens mágicos são comprados com pontos de aprimoramento na seguinte progressão: 1 pt de aprimoramento: 1 pt de item mágico 2 pts de aprimoramento...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-efeitos-magicos-7",
+      "name": "Efeitos Mágicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          14
+        ]
+      ],
+      "summary": "Efeitos Mágicos Aqui são apresentados os efeitos mágicos listados com seus efeitos e respectivos custos em pontos de item mágico. Aprimoramentos: esse efeito permite simular o efeito de um aprimoramento em um item mágico, o aprimoramento deve ser aprovado pelo mestre e o seu custo é pago com pontos de item mágico. Ex: um item com o aprimoramento recursos, fa...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-defeitos-15",
+      "name": "Defeitos",
+      "category": "combat",
+      "pages": [
+        [
+          15,
+          17
+        ]
+      ],
+      "summary": "Defeitos São as desvantagens que alguns itens mágicos possuem. Ao invés de custar pontos elas geram pontos para serem gastos no item. Um objeto pode acumular no máximo 3 pontos de defeito. Aprimoramento Negativo: da mesma maneira que se pode colocar o efeito de um aprimoramento positivo em um item, também se pode colocar um aprimoramento negativo, para gerar...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-apendice-i-18",
+      "name": "Apêndice I",
+      "category": "core_rule",
+      "pages": [
+        18
+      ],
+      "summary": "Apêndice I Custo de um item mágico Muitas vezes o mestre pode querer disponibilizar itens mágicos para compra durante uma campanha. Esse apêndice foi formulado para servir de referência para a formação do preço de itens mágicos. A questão do preço de um item mágico varia muito, o principal fator que determina o custo de um item mágico é o como a magia é util...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-apendice-ii-19",
+      "name": "Apêndice II",
+      "category": "item_equipment",
+      "pages": [
+        19
+      ],
+      "summary": "Apêndice II Exemplos de Itens Mágicos 1 Ponto de Aprimoramento: - Faca +1 Arma leve (dano 1d6) com 1 efeito, 0,5 pt de item mágico. Efeito: Aumento de Dano + 1, 0,5 pt de item mágico. Total: 1 pt de item mágico. - Amuleto de sorte Objeto pequeno com 1 efeito, 0,5 pt de item mágico. Efeito: Aumento de Sorte +25%, 0,5 pt de item mágico. Total: 1 pt de item mág...",
+      "entityRefs": []
+    },
+    {
+      "id": "geradoritem02-4-pontos-de-aprimoramento-20",
+      "name": "4 Pontos de Aprimoramento",
+      "category": "combat",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "summary": "4 Pontos de Aprimoramento - Manto de transpor Orbes Objeto médio com 2 efeitos, 2 pts de item mágico. Efeitos: Poderes Sobrenaturais, Poder Angelical: Asas Astrais 3 pts de item mágico. Proteção contra Criaturas, Demônios, 4,5 pts de item mágico. Defeito: Restrição, o efeito de asas astrais só pode ser ativado uma vez a cada fase lunar, quando o usuário dize...",
+      "entityRefs": []
+    }
+  ]
+}

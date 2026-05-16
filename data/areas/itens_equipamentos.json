@@ -1,0 +1,2289 @@
+{
+  "version": 1,
+  "id": "itens_equipamentos",
+  "name": "Itens e Equipamentos",
+  "readySourceCount": 190,
+  "entityCount": 3,
+  "sourcePartCount": 100,
+  "entities": [
+    {
+      "id": "areia-de-agaures",
+      "name": "Areia de Agaures",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 34,
+      "entries": [
+        "Alforja/objeto magico citado na secao de objetos de Alastores."
+      ],
+      "tags": [
+        "alastores",
+        "item_equipment",
+        "itens_equipamentos",
+        "objeto-magico"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "caixa-e-besouro",
+      "name": "Caixa e Besouro",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 34,
+      "entries": [
+        "Objeto magico descrito no suplemento Alastores."
+      ],
+      "tags": [
+        "alastores",
+        "item_equipment",
+        "itens_equipamentos",
+        "objeto-magico"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "soro-da-verdade",
+      "name": "Soro da Verdade",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 33,
+      "entries": [
+        "Droga psicoativa usada para tentar obter informacoes, descrita na secao de objetos magicos/recursos dos Alastores."
+      ],
+      "tags": [
+        "alastores",
+        "droga",
+        "investigacao",
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "abismo-infinito-quick-start--abismo-damage-and-hazards",
+      "name": "Ferimentos e Males do Espaco",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        34,
+        35
+      ],
+      "page": 34,
+      "summary": "Regras de ferimentos, intencao de dano, armas como vantagens circunstanciais e perigos do espaco como vacuo, gravidade nula e assombro visual.",
+      "entityRefs": [
+        "ferimentos",
+        "males-do-espaco"
+      ],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-objetos-magicos",
+      "name": "Objetos Magicos",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          32,
+          35
+        ]
+      ],
+      "page": null,
+      "summary": "Objetos, drogas e artefatos como Soro da Verdade, Caixa e Besouro, Areia de Agaures e Tebori.",
+      "entityRefs": [
+        "soro-da-verdade",
+        "caixa-e-besouro",
+        "areia-de-agaures",
+        "tebori"
+      ],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-2",
+      "name": "CON[6D+26],FR[6D+30],DEX[0],AGI[3],INT[2],WILL[4],PER[1D+1],CAR[0]. (21-30)",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "page": null,
+      "summary": "21 O que chama a atenção nessas criaturas é que em seu interior existem apenas três tipos de órgãos, um aparelho respiratório que filtra o monóxido de carbono do ar, um aparelho reprodutor e uma cavidade onde é armazenado o silício de que precisam para sobreviver, dentro desta cavidade,o silício sofre diversos processos alquímicos transformando-se em energia...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-calibre-45-acp-3",
+      "name": "Calibre: .45 ACP",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra",
+      "sourceTitle": "Armas da Segunda Guerra",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Calibre: .45 ACP Funcionamento: Semi-Automático Principio de Funcionamento: Blowback, ferrolho aberto Peso:1,106 kgs Capacidade: 7 cartuchos Comprimento Total: 21,6 cm Alcance Útil: 50 m ROF: 3 Dano: 1d6 REVOLVER SMITH & WESSON .45, MODELO 1917 Calibre: .45 ACP Auto Rim Funcionamento: ação dupla Peso: 2,26 kgs Capacidade: 6 cartuchos Comprimento Total: 27,43...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-metralhadora-bronwning-m-919-5",
+      "name": "METRALHADORA BRONWNING M-919",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra",
+      "sourceTitle": "Armas da Segunda Guerra",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "METRALHADORA BRONWNING M-919 Calibre: .30-06 (7, 62 x 63) Principoio de Funcionamento: Curto recuo do cano Funcionamento: Automático Peso:14,07 kgs Carregador : Tipo fita de lona Capacidade: 100 ou 250 cartuchos Comprimento Total: 1,036 m Cadência de Tiro: 250 tiros por minuto Alcance Útil: 540 m ROF: 5 Dano: 1d10 METRALHADORA BRONWNING M2 Calibre: .50 (12,7...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-lanca-rojao-2-36-pol-m9a1-7",
+      "name": "LANÇA-ROJÃO 2.36 POL. M9A1",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra",
+      "sourceTitle": "Armas da Segunda Guerra",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "LANÇA-ROJÃO 2.36 POL. M9A1 Calibre: 2.36 pol. ou 60mm Funcionamento: Repetição Principio de funcionamento: Ação de uma corrente eletrica, sobre o rojão Peso: 6,800 kgs Comprimento Total: 1,55ms Alcance Útil: 270 mts Peso do Foguete: 1,53 kgs Fonte de Energia: Magneto colocado no punho Aparelho de Pontaria: Visor fixor, graduado de 0 a 600 jardas ROF: 1 Dano:...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-11",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL A L I A D O S ARMAS DA SEGUNDA GUERRA MUNDIAL E.U.A.",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-30",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "page": null,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL EIXO ARMAS DA SEGUNDA GUERRA MUNDIAL Alemanha",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-13",
+      "name": "PISTOLAS",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "PISTOLAS Colt M1911A1: Uma das armas mais produzidas no mundo, chegando a casa dos milhões de unidades. Planejada para ser potente o suficiente para derrubar os guerreiros filipinos que, durante as operações militares dos Estados Unidos na região (final do séc. 19), continuavam a atacar, mesmo após atingidos. Teve sua produção iniciada em 1911; sendo licenci...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-tipo-defensivo-28",
+      "name": "Tipo: Defensivo",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "page": null,
+      "summary": "Tipo: Defensivo Alcance: 30 metros (lançamento manual) Carga explosiva: 45-50 gramas de TNT Retardo: 1 rodada Dano: 5d6 Pulso: 4m/1d Preço: $10 Peso: 0.6kg RDG 33: A O RGD-33 (Ruchnaya Granata Degtyareva - granada Degtyarev de mão) foi desenvolvida por Diakonov em 1933, e é inspirada pelo modelo 1914 de V.I.Rdutlovskiy. Foi melhorada então pelo coordenador D...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-2",
+      "name": "ARMAS DA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL Autor: Diego “n1ghtmare” Meneses de Souza nightmare_domain@hotmail.com Colaborador: Tiago “Murazor” Maraschin tiagomm@hotmail.com Agradecimentos: Lucas “Andrewsboy”, Marcos “Shutz”, Du “Spider”, Marlon, Anthony, o resto do pessoal do meu grupo de jogo e as opiniões do pessoal do fórum da Rede RPG.",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-municao-50-bmg-15",
+      "name": "Munição: .50 BMG",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Munição: .50 BMG Pente: 100 ou 250 (cinta) Alcance: 500m Dano: 5d10 [IP/2] ROF: 5 ou 8 Preço: $1000 Peso: 52.6kg GRANADAS Granada de Mão Mk. II: A granada padrão americana é uma cópia de um desenho francês, tendo sido apelidada de abacaxi, por ter o corpo serrilhado – em tese para auxiliar a fragmentação, o que não ocorria. Diferente da maior parte das outra...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-morteiros-16",
+      "name": "MORTEIROS",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "MORTEIROS 81mm Mortar: Este modelo de morteiro era muito utilizado para prover auxílio de fogo indireto às tropas, sendo prático para o transporte em curtas distâncias. Calibre: 88mm Alcance: 1000m Dano: 9d10 Pulso: 0,5m/1d ROF: ½ (um disparo a cada duas rodadas) Nº de Usuários: 2 Peso: 62kg Preço: $800",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-17",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL FRANÇA",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-21",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        21
+      ],
+      "page": 21,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL INGLATERRA",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-revolveres-22",
+      "name": "REVÓLVERES",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        22
+      ],
+      "page": 22,
+      "summary": "REVÓLVERES Webley Mk. IV: Arma de longa tradição nas forças armadas inglesas, o primeiro revólver Webley foi adotado em 1887. Durante os anos diversas variantes foram adotadas, tanto pelo exército, como pela marinha e RAF, o último deles em 1942, no calibre .38 (Webley Mark 4), os Webley, apesar de terem começado a ser substituídos em 1932, ainda foram muito...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-alcance-500m-23",
+      "name": "Alcance: 500m",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        23
+      ],
+      "page": 23,
+      "summary": "Alcance: 500m Dano: 4d6 [IP/2] ROF: 1 Preço: $30 Peso: 3.2kg METRALHADORAS Bren Mk. I: Baseada na metralhadora tcheca ZB vz.33, a Bren (da junção das letras BR, de Brno, sede da firma ZB e EN de Enfield Lock, onde foi produzida na Inglaterra), era robusta e confiável, sendo produzida durante toda a guerra. Após a derrota em Dunquerque, onde milhares delas fo...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-lanca-chamas-24",
+      "name": "LANÇA-CHAMAS",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        24
+      ],
+      "page": 24,
+      "summary": "LANÇA-CHAMAS Nº 2 Mk I Lifebuoy: O exército britânico sempre soube da necessidade de um operador de lança-chamas, porém na guerra do deserto era uma arma pouco efetiva. Foi se mostrar mais útil no teatro de operações europeu, onde teve uma produção em massa. Munição: Varia desde gasolina, gás metano a napalm Capacidade: 4 galões de 15,14l de combustível Pent...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-25",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        25
+      ],
+      "page": 25,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL U.R.S.S.",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-rifles-27",
+      "name": "Rifles",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        27
+      ],
+      "page": 27,
+      "summary": "Rifles Mosin-Nagant 1891/30: Adotado pelo exército Czarista, foi empregado a partir de 1918 pelo Exército Vermelho. O modelo 1891/30, usado na II Guerra, era ligeiramente menor e foi simplificado para facilitar sua produção, dispondo ainda de acessórios como lançadores de granada, silenciadores, baionetas e miras telescópicas. Munição: 7,62x54mm R Pente: 5 (...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-32",
+      "name": "Pistolas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Pistolas Luger P-08: Uma pistola clássica da 2ª guerra, facilmente reconhecível pelo seu formato característico, a Luger P08 entrou em serviço no exército alemão em 1908, sendo produzida até 1942, quando foi, afinal, substituída (pela Walther P 38), pois sua fabricação era muito complexa e cara, fato não desejável em períodos de guerra. Munição: 9mm L Pente:...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-36",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        36
+      ],
+      "page": 36,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL I t á l i a",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-39",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        39
+      ],
+      "page": 39,
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL JAPãO",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-40",
+      "name": "Pistolas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "Pistolas Taisho 14: A “14 Nen Shiki Kenju” é um pistola descendente do modelo Taisho 04 (1915), que não chegou a ser adotado oficialmente, mas que foi muito usada por oficiais japoneses. O Modelo Taisho 14 (1925) é um desenho simplificado, visando facilitar a fabricação. Mesmo assim, era um projeto ruim, com uma série de problemas, inclusive uma trave de seg...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-municao-7-7x58mm-41",
+      "name": "Munição: .7,7x58mm",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "Munição: .7,7x58mm Pente: 30 (clip) Alcance: 800m Dano: 4d6 [IP/2] ROF: 3 ou 13 Preço: $100 Peso: 9,1kg aisho Type 3: Resultado de pequenas modificações cosmé Hotchkiss francesa, esta arma do Gen ia de um sério problema oriundo do usado. Esta não permitia uma ação auto r causa disso, os cartuchos tinham que ser l e serem disparados, o que era muito problemát...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-morteiros-42",
+      "name": "Morteiros",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Morteiros penas uma cópia do 81mm francês, sem a da de novo Type 99: A adição de na . Calibre: 81mm Alcance: 1500m Dano: 8d10 Pulso: 0,5m/1d ROF: ½ (um disparo a cada 2 rodadas) Nº de Usuários: 2 Preço: $500 Peso: 47,5kg",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-armaduras-sobrepostas-43",
+      "name": "Armaduras Sobrepostas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "page": null,
+      "summary": "Armaduras Sobrepostas Teoricamente é possível vestir várias camadas de armaduras até se tornar invulnerável. Se um policial pudesse sobrepor camadas de armadura sobre si mesmo antes de atender uma chamada de problemas domésticos, pode apostar que ele o faria. Porém, ele não o faz, por que isto simplesmente não é prático. Veja o porquê: Quando você sobrepõe v...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-armas-longas-5",
+      "name": "Armas Longas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "page": null,
+      "summary": "Armas Longas São armas de fogo com cano longo, com maior alcance e precisão, mas menos mobilidade para tiros rápidos, por isso recebem uma penalidade a sua Iniciativa. Devem ser disparadas com as duas mãos (Teste DIFICÍL se usar apenas uma) e só podem ser ocultadas em um sobretudo ou capa. Fuzis: O fuzil é uma arma de cano longo que se tornou o armamento de...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-carabinas-de-assalto-27",
+      "name": "Carabinas de Assalto",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "page": null,
+      "summary": "Carabinas de Assalto São versões curtas dos fuzis de assalto, pouco maiores que as submetralhadoras. São mais portáteis, com o cano reduzido ou formato bullpup e coronhas rebatíveis ou deslizantes. Devem ser disparadas utilizando-se as duas mãos (Teste Difícil com apenas uma), mas se usar apoio adicional de ombro pode evitar a penalidade de recuo nos tiros m...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-customizacao-39",
+      "name": "Customização",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          39,
+          41
+        ]
+      ],
+      "page": null,
+      "summary": "Customização Customização Customização Customização No complexo conjunto de sistemas integrados que hoje é operado pelos soldados, policiais e outros combatentes modernos, a arma de fogo tem o papel de servir como base, eixo principal, onde os outros sistemas se agregam para, ao final, formar uma ferramenta otimizada, que o torna apto a realizar com a maior...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-escudos-45",
+      "name": "Escudos",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          45,
+          46
+        ]
+      ],
+      "page": null,
+      "summary": "Escudos As mesmas regras descritas para armaduras valem para escudos. Todo o dano recebido pelo personagem é reduzido pela IP do escudo, mas não protege contra ataques pelas costas, ataques localizados ou situações em que o personagem não pode agir. É possível realizar ataques localizados desviando do escudo e ignorando sua IP, mas estes ataques são consider...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-localizacao-aleatoria-de-dano-14",
+      "name": "Localização Aleatória de Dano",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "Localização Aleatória de Dano A maioria dos ataques com armas de fogo, principalmente as rajadas, raramente são mirados em alguma parte do corpo especifica, o personagem só esta procurando uma brecha para acertar. Isto significa que a não ser que o personagem esteja tentando um ataque localizado contra uma parte especifica (Teste Difícil), ele terá de determ...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-metralhadoras-34",
+      "name": "Metralhadoras",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          34,
+          36
+        ]
+      ],
+      "page": null,
+      "summary": "Metralhadoras Armas pesadas com altíssima cadência de disparo e recuo, geralmente fixas ou utilizadas por personagens fortes. Apesar de utilizar munição pesada como os rifles, fuzis e carabinas, sua munição não é compatível com aquelas armas, pois é disposta em cintas no alimentador ou carregadores especiais. Para evitar a penalidade de recuo em tiros múltip...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-5-56mm-nato-29",
+      "name": "Munição: 5.56mm NATO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          29,
+          31
+        ]
+      ],
+      "page": null,
+      "summary": "Munição: 5.56mm NATO Pente: 10, 30 ou 100 (clip) Alcance: 570m Dano: 2d6+2 [IP/2] ROF: 3, 4 ou 12 IMI Galil MAR: A Galil MAR (Micro Assault Rife) retém as características internas com uma nova armação e cano ainda mais curto. Foi relatado que esta versão sofre de um grave problema de sobreaquecimento, sendo praticamente impossível tocar-lhe após algumas raja...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-5-7-mm-23",
+      "name": "Munição: 5.7 mm",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "Munição: 5.7 mm Pente: 50 (clip) Alcance: 150 m Dano: 1d6+1 [IP/2] ROF: 3, 4 ou 15 Skorpion: Metralhadora de mão do tamanho de uma pistola, a Skorpion tem sido a arma padrão dos terroristas e dos agentes dos serviços de inteligência nos últimos 30 anos. Estas armas tchecas pararam de ser fabricadas, mas ainda são populares nos romances de espionagem. Munição...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-9mm-357-sig-40-s-w-20",
+      "name": "Munição: 9mm/.357 Sig/.40 S&W",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "Munição: 9mm/.357 Sig/.40 S&W Pente: 15/12/12 (clip) Alcance: 50 m Dano: 1d10+1/1d6+4/1d10+2 ROF: 3 SIG Sauer P-230: A P-230 é a pistola de bolso da série SIG. Ela possui linhas arrojadas e opera da mesma forma que a velha P-220. Munição: 7.65mm/.380 ACP Pente: 8/7 (clip) Alcance: 50 m Dano: 1d6+3/1d6+4 ROF: 3 IMI Desert Eagle: Esta grande pistola tem tido p...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-pistolas-18",
+      "name": "Pistolas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "page": null,
+      "summary": "Pistolas São armas de fogo curtas que podem ser disparadas com precisão apenas com uma das mãos. São semelhantes aos revólveres, mas a ejeção automática de cápsulas e o armamento automático do cão após cada disparo melhoram o seu desempenho; e a utilização de pentes melhora sua capacidade. Disparar uma pistola com as duas mãos elimina a penalidade de recuo n...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-armas-de-fogo-4",
+      "name": "Armas de Fogo",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Armas de Fogo Armas de Fogo Armas de Fogo Armas de Fogo Há vários fatores que influenciam no desempenho de uma arma de fogo, são eles o tipo de arma, o calibre da Munição, a capacidade do Pente, o alcance efetivo, o Dano causado e o Regime de Fogo do disparo. São muitos os tipos e marcas de armas de fogo existentes, mas se você conhece as características de...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-dano-7",
+      "name": "Dano",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "Dano O Dano que uma arma pode causar é determinado por seu calibre. Alguns tipos de munições especiais podem aumentar ou reduzir o dano padrão ou suas características. Balas de Revólver São as balas tradicionais, com uma ponta maciça de chumbo endurecido; geralmente utilizadas em revólveres, mas também são utilizadas em armas longas raiadas, conhecidas como...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-lista-de-armas-16",
+      "name": "Lista de Armas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Lista de Armas ista de Armas ista de Armas ista de Armas Muitos Mestres podem achar chatíssimo decidir qual oficial de polícia traz consigo uma S&W M640 ou uma M686, e simplesmente dizer que todos os tiras têm revólveres. Mas para os interessados em agitar mais um pouquinho as noites de sexta com um bom tiroteio, aqui serão apresentadas algumas armas de fogo...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-7-62mm-nato-26",
+      "name": "Munição: 7.62mm NATO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        26
+      ],
+      "page": 26,
+      "summary": "Munição: 7.62mm NATO Pente: 20 (clip) Alcance: 600m Dano: 3d6+2 [IP/2] ROF: 3 ou 10 HK G36: Este é atual fuzil de assalto da Bundeswehr (Forças Armadas Alemãs). O G36 foi desenvolvido como um fuzil modular, com capacidade se montar acessórios nele facilmente sem a necessidade de se usar a mão de um armeiro. O G36 é construído, quase na sua totalidade, em plá...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-7-62mm-nato-32",
+      "name": "Munição: 7.62mm NATO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Munição: 7.62mm NATO Pente: 5 ou 20 (clip) Alcance: 600m Dano: 3d6+2 [IP/2] ROF: 3 ou 10 IMI GALATZ: Este é um rifle de snipers baseado no fuzil de assalto Galil que por sua vez é baseado no AK-47 Kalashnikov. É uma arma semi-automática que tem em seu pente de 20 a 25 cartuchos. Tem uma alta potencia de fogo e é ideal para fogo de apoio táticos como o Dragun...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-308-win-33",
+      "name": "Munição: .308 Win",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        33
+      ],
+      "page": 33,
+      "summary": "Munição: .308 Win Pente: 5 (câmara) Alcance: 800m Dano: 3d6+2 [IP/2] ROF: 1 SIG SG-551: Explodir cabeças é uma tarefa prazerosa com este excelente e extremamente preciso fuzil SIG. Quando o assunto é abater inimigos à distância, o SIG SG 551 é a arma certa para o serviço! Parabéns, Sig Arms! Munição: .223 Rem Pente: 5, 20 ou 30 (clip) Alcance: 600m Dano: 2d6...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-municao-12g-37",
+      "name": "Munição: .12g",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        37
+      ],
+      "page": 37,
+      "summary": "Munição: .12g Pente: 8 (câmara) Alcance: 50m Dano: 3d6 ROF: 1 ou 3 Mossberg M500: Mais para uma arma da polícia do que de caça, ela é menor do que a Remington, mas não muito mais fácil de ser escondida. É uma típica espingarda “pump” para o uso da polícia e defesa do lar. Munição: .12g/.20g/.410g Pente: 7 (câmara) Alcance: 40m Dano: 3d6/3d3/3d2 ROF: 1 Reming...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-spas-12-espingarda-de-combate-semi-automatica-38",
+      "name": "SPAS-12: Espingarda de combate semi-automática,",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        38
+      ],
+      "page": 38,
+      "summary": "SPAS-12: Espingarda de combate semi-automática, muito difundida entre as forças especiais de policia de todo o mundo, por sua firmeza e estabilidade sob fogo cerrado. Munição: .12g Pente: 8 (câmara) Alcance: 40m Dano: 3d6 ROF: 1 ou 3 SPAS-15: Arma para uso militar, o SPAS-12 foi adotado em toda a Europa. Munição: .12g Pente: 6 (clip) Alcance: 40m Dano: 3d6 R...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-armaduras-42",
+      "name": "Armaduras",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Armaduras Armaduras Armaduras Armaduras e Proteções e Proteções e Proteções e Proteções IP Especifico Nas armaduras apresentadas, o IP refere-se apenas à danos cinéticos (resultado de golpes) e balísticos (resultado de projéteis). Existem outros tipos de vestimentas apropriadas à outras situações. Estas vestimentas providenciam IP contra determinados tipos d...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-arte-da-batalha-13",
+      "name": "ARTE DA BATALHA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "ARTE DA BATALHA As artes marciais não se limitam apenas combates com mãos nuas, combate armado também segue as mesmas regras. Armas Brancas 1. Espadas (DEX/DEX) 2. Facas (DEX/DEX) 3. Adagas (DEX/DEX) 4. Punhais (DEX/DEX) 5. Chicotes (DEX/DEX) 6. Manguais (DEX/DEX) 7. Martelos (DEX/DEX) 8. Machados (DEX/DEX) 9. Maças (DEX/DEX) 10. Arco (DEX/0) 11. Bestas (DEX...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-tecnicas-de-combate-16",
+      "name": "TÉCNICAS DE COMBATE",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "TÉCNICAS DE COMBATE Seguem a mesma regra de ESTILO DE LUTA. Exemplo: NOME : ESGRIMA RESTRIÇÃO : ESPADA(RAPIER E FLORETE) 65/30, ESTOCADA, MESTRE DA ARMA E FOCO. PONTOS DE TÉCNICA : 15 PTS. DESCRIÇÃO : UMA LUTA QUE SE UTILIZA DE MOVIMENTOS RÁPIDOS DE ESPADA PARA COMBATES DECISIVOS, POR SE UTILIZAR DA VELOCIDADE PERDE EM FORÇA. BÔNUS : +2 EM AGI E +4 EM DEX. P...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cdd--cdd-hank-15",
+      "name": "Hank",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "cdd",
+      "sourceTitle": "Cdd",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Hank Ranger humano de 1º Nível CON: 12 FOR: 14 DEX: 14 AGI: 12 INT: 14 WILL: 12 PER: 14 CAR: 14 #Ataques 1, PVs: 14 IP: 1 (corselete de couro) Arco Mágico 34% Dano: Ver Cap. “Itens Mágicos” Corselete de Couro, Arco Mágico Esquiva 32%, Natação 32%, Etiqueta 24%, Rastreio 34%, Arco 34%, Empatia 24%, Liderança 34%, Sobrevivência 24%. Erick Cavaleiro humano de 1...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-torre-karin-27",
+      "name": "Torre Karin",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "page": null,
+      "summary": "Torre Karin No topo da torre Karin mora nada mais nada menos que o Mestre Karin. Para chegar até lá é preciso ir à terra sagrada de Karin (que é protegida por uma tribo de índios guerreiros) e escalar a torre com suas próprias forças. Goku demorou quase um dia inteiro para escalar esta torre! Uma vez lá em cima, você pode conseguir com ele as Senzu (Sementes...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-atributos-32",
+      "name": "Atributos",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-31",
+      "name": "Daemon Medieval",
+      "area": "itens_equipamentos",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        31
+      ],
+      "page": 31,
+      "summary": "Daemon Medieval 31 emboscar o personagem (por exemplo, se um Personagem tem a mania de todo o domingo ir ao parque, os inimigos dele saberão onde encontrá-lo quando quiserem lhe armar uma armadilha). Mau Humor -1 ponto: o personagem parece sempre acordar com o pé esquerdo, o que faz com que ele sempre esteja irritado, zangado, nervoso e de mau humor. Quando...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-43",
+      "name": "Daemon Medieval",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        43
+      ],
+      "page": 43,
+      "summary": "Daemon Medieval 43 Animais (cont.) Serviços Item Preço Serviço Preço Cão de caça 170 Acomodação em cidade, mês, comum 20 Cão de guarda 250 Acomodação em cidade, mês, pobre 6 Cão de guerra 200 Alimentação de montaria (dia) 0,5 Cão de montaria 1.500 Alquimista 60 Carneiro 40 Apresentação musical 20 Cavalo de carga 2.000 Assassinato 300 Cavalo de guerra, leve 1...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-44",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        44
+      ],
+      "page": 44,
+      "summary": "Capítulo 8 – Armas e Equipamentos 44 Armas Arma (Dano/ Penalidade/ Alcance) Preço Arma (Dano/ Penalidade/ Alcance) Preço Açoite (1d6/ -3) 10 Guisarme (1d6+2/ -6) 90 Adaga de Prata (1d3/ -3) 100 Guisarme Voulge (1d10/ -8) 80 Adaga de Soco (1d3+1/ -1) 20 Javelin (1d6/ -3/ 20-40) 5 Adaga Kukri (1d3+1/ -3) 80 Kama (1d6/ -2) 20 Adaga ou Punhal (1d3/ -2/ 15-30) 20...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-3",
+      "name": "Pagina inicial (21-30)",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "demon-cthulhu",
+      "sourceTitle": "Demon Cthulhu",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "page": null,
+      "summary": "21 contudo, possuem uma possibilidade de 5% por carga, de pifar a arma, se utilizarem mais de 4 cargas ao mesmo tempo. EX.: 2 cargas dariam 4d6 de dano, 4 Cargas 8d6, 5 cargas 10d6 mas o mestre deverá fazer um teste com 5% da arma queimar e não disparar, 23 cargas dariam 46d6 de dano mas a chance de pifar a arma será de 95%. Cães de Tindalos Cães de Tindalos...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-industria-64",
+      "name": "INDÚSTRIA",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        64
+      ],
+      "page": 64,
+      "summary": "INDÚSTRIA Seu demônio possui influencia na área industrial, sobre organizações de trabalhadores, artesãos, operários, engenheiros, transportes e outras pessoas ligadas à área industrial. Pode conseguir equipamentos, projetos, especificações, cálculos ou outras operações ligadas à área de engenharia. 1 ponto:U m bairro. 2 pontos: Alguns bairros ou um bairro e...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "devilmaycry--devilmaycry-itens-magicos-6",
+      "name": "ITENS MÁGICOS",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "devilmaycry",
+      "sourceTitle": "Devilmaycry",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "ITENS MÁGICOS Espada Alastor – 8 Pontos Dano de 2d6 + bônus, AGI + 10, +4 no dano e +40% para dividir entre ataque e defesa, proteção contra Trevas (Nível 4), Retornável Manoplas Ifrit – 6 Pontos Dano de 1d6 + bônus, FR + 10, +4 no dano e +40% para dividir entre ataque e defesa, proteção contra Fogo (Nível 4) Além destes dois (que são únicos), Dante encontra...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-64",
+      "name": "Dragões: Reis Caídos",
+      "area": "itens_equipamentos",
+      "category": "creature_npc",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
+      "pages": [
+        [
+          64,
+          66
+        ]
+      ],
+      "page": null,
+      "summary": "Dragões: Reis Caídos Grande Guerra não passam de um mito, devaneio dos mais velhos, que já estão próximos da morte. Seliah Mahtuk Nascido no primeiro ano após a vinda de Christos para a Terra, este dragão negro é bem conhecido entre os Anjos Captare. Em 1202, Alephia e seus companheiros realizavam uma missão na Terra, na tentativa de recuperar um item mágico...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-seus-dois-outros-juizes-ativos-19",
+      "name": "seus dois outros Juízes ativos.",
+      "area": "itens_equipamentos",
+      "category": "core_rule",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "seus dois outros Juízes ativos. Ao fim da Segunda Grande Guerra, o dragão Kilgharrah conseguiu resgatar a Yuggothamerich das mãos dos nazistas e, através das energias da invencível arma, recuperou sua forma dracônica. A arma foi escondida nos calabouços secretos da Ordem do Graal, embora acredite-se que esteja protegida em Avalon. O fim da guerra também marc...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-o-sangue-mais-puro-38",
+      "name": "O SANGUE MAIS PURO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        [
+          38,
+          44
+        ]
+      ],
+      "page": null,
+      "summary": "O SANGUE MAIS PURO AVENTURA Cena 1: Briga de Rua Todos os personagens dos jogadores encontram- se à noite na Piazza Grande de Arezzo, fazendo compras, cumprindo ordens ou cuidando de suas vidas. De repente, eles ouvem uma terrível confusão. Uma mulher grita. Homens berram. Pessoas correm. Armas são sacadas. Os personagens que se dirigirem até o local da conf...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-sagrada-ordem-16",
+      "name": "SAGRADA ORDEM",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "SAGRADA ORDEM MILITAR DE SANTO ESTEVAO Fundação: 1561, Florença, Itália. Base: Magione di San Giovanni al Ponte, Pisa (Itália). Atuação: Toscana, na Itália. Personalidades: Duque Cosimo de Médici, Duque Lodovico de Parma, D. Neri dei Principi Corsini, rei Victor Emmanuel III, Vicenzo Pietroforte. Background: A dissidência templária chamada Sagrada Ordem Mili...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gerador-de-criaturas--gerador-de-criaturas-alteracoes-fisicas-e-locomocao-55",
+      "name": "ALTERAÇÕES FÍSICAS E LOCOMOÇÃO",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "gerador-de-criaturas",
+      "sourceTitle": "Gerador de criaturas",
+      "pages": [
+        [
+          55,
+          69
+        ]
+      ],
+      "page": null,
+      "summary": "55 ALTERAÇÕES FÍSICAS E LOCOMOÇÃO Esse capitulo trata de características relacionadas a alterações na morfologia da criatura, assim como nos meios de locomoção que permitem se desloque em outros terrenos alem do deslocamento por terra. Forma Etérea Essa característica permite que a criatura se torne imaterial, permanecendo ainda no plano físico. Estando ness...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-korybantes-15",
+      "name": "KORYBANTES",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "KORYBANTES “Dançarinos da Korybas” Origem e História Cria de Réia, Hoplodamos foi o protetor pessoal desta Titânida quando Khronos tentou atacá-la (ao descobrir que Zeus não foi engolido). Hoplodamos (“Homem Armado”) liderou os arkanitas Dáctilos na missão de esconderem Zeus e treiná-lo nas artes da guerra e da magia. Réia então presenteou Hoplodamos com dez...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-vindos-do-subterraneo-25",
+      "name": "vindos do subterrâneo.",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          25,
+          27
+        ]
+      ],
+      "page": null,
+      "summary": "vindos do subterrâneo. 3D&T Custo: 2 Restrições: Apenas nativos de Callistia Vantagens: Recebe H+1 e FA final +1 em combates contra os lursh-lyins. Recebe H+2 em outros testes referentes aos lursh-lyins. Recebe Sentidos Especiais (Radar, Ver o Invisível) gratuitamente. Pode comprar Sobrevivência e Armadura Extra: Químico e Elétrico por 1 ponto cada Desvantag...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-estrutura-do-guia-3",
+      "name": "ESTRUTURA DO GUIA",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "ESTRUTURA DO GUIA PARTE I – GUERREIROS Aniquilador: guerreiro do pó e da corrosão capaz de degenerar a matéria com um simples toque. Artilheiro Pesado: especialista no uso de grandes máquinas de guerra, como balistas e catapultas. Atacante: lutador especializado apenas em técnicas de ataque. Atirador de Knui Pkahn: usuário de uma exótica arma goblin de ataqu...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-esporte-5",
+      "name": "esporte.",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "esporte. Explorador de Valkaria: aventureiro cujo objetivo é organizar e participar de missões que visem o progresso da humanidade. Falsário: o mestre dos golpes e falsificações. Faz-Tudo: construto criado com o propósito de aprender e realizar tarefas diversas. Gueixa: uma graciosa dama cujo trabalho é entreter os homens com sua beleza, carisma e habilidade...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-artifice-dex-52",
+      "name": "ARTÍFICE' (DEX)",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          52,
+          54
+        ]
+      ],
+      "page": null,
+      "summary": "ARTÍFICE' (DEX) , E a habilidade de se trabalhar com um material es- pecifico. Pode-se construir ou concertar roupas, moveis, cai- xas, utensílios em geral, ferramentas. Potes, casas ou até ar- mas (veja subgrupos). Porem, ser um aJtífice dá apenas o conhecimento para utilizar um material escolhido. O projeto da casa fica para engenheiros e a fechadura da ca...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-taj-do-82",
+      "name": "TAJ-DO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        82
+      ],
+      "page": 82,
+      "summary": ", TAJ-DO As artes marciais foram desenvolvidas por imortais e aprendidas por mortais, mas a alie do Tai-dô só é domina- da põr imortais. Esta na verdade não é uma arte de luta, mas sim uma Dádiva que permite realizar ataques extras e mais potentes ou mesmo usar as mãos para defender armas. NÍVEL 1 MÃOS DEFENSIVAS: O Personagem pode apa- rar ou bloquear ataqu...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-dinheiro-125",
+      "name": "DINHEIRO",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        125
+      ],
+      "page": 125,
+      "summary": "DINHEIRO De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Persona- gem pode ser r...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-background-129",
+      "name": "BACKGROUND",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        129
+      ],
+      "page": 129,
+      "summary": ". - • • • BACKGROUND • ------------------------ . • • - .- - -- ~~-:_=--. ....... - ---:--~~-- - EQUIPAMENTOS BENS ALIADOS E CONTATOS INIMIGOS CONHECIDOS ,",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manobras-de-combate--manobras-de-combate-rajada-frontal-6",
+      "name": "RAJADA FRONTAL",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "manobras-de-combate",
+      "sourceTitle": "Manobras de Combate",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "RAJADA FRONTAL [ 25 pontos ] [ Requer Força 14 e Destreza 14 ] A rajada frontal é realizada quando o Personagem dispara todos os tiros contra o mesmo oponente. O excesso de tiros torna a arma mais difícil de segurar, o que dificulta o acerto, mas, se acertar, o dano é violentamente maior. Quando for realizada uma rajada, há uma regra simplificadora. Consider...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-armaduras-23",
+      "name": "Armaduras",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "Armaduras As Armaduras ou proteções utilizadas pelos Personagens são dividas em 5 partes, cabeça, tronco, braços, pernas e total. O Jogador escolhe a peça da Armadura que seu Personagem ira usar, em cada peça anota-se o valor da FD, que será somada ao dano quando o oponente atingir o local onde se encontra a Armadura. Um Personagem que queira acertar um loca...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-lutadores-3",
+      "name": "LUTADORES",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "LUTADORES Resolvendo tudo no braço! A principal diferença entre as regras de combate contidas nesse Módulo e as do Sistema 3D&T Alpha, é a volta do combate sem o uso de FA e FD, assim o Jogador rola 20d para calcular o dano do seu hyper-mega-fodastico-fogo- rubro-especial, isso que é dano de verdade! Você vai perceber também que a utilização de armas e Manob...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-usando-as-manobras-especiais-13",
+      "name": "Usando as Manobras Especiais",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        13
+      ],
+      "page": 13,
+      "summary": "Usando as Manobras Especiais Em termos de jogo, as Manobras Especiais não passam de um ataque comum, por tanto basta declarar a Manobra Especial á ser utilizada e pronto. As Manobras Especiais causam algum efeito extra além do dano, esse efeito é descrito na descrição da Manobra Especial. Você vai encontrar na descrição também, o item Alcance, ele indica qua...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-lancas-22",
+      "name": "Lanças",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        22
+      ],
+      "page": 22,
+      "summary": "Lanças Lança Comum (2 Mãos) F+2d+5 PdF+2d+4 Lança de Guerra (2 Mãos) F+2d+7 PdF+2d+10 Bastões Bastão de Treino (2 Mãos) F+1d+6 PdF+1d+1 Bastão de Combate (2 Mãos) F+2d+1 PdF+2d+5 Pequenas Lâminas Shuriken F+2 PdF+4 (Veloz) Faca/Adaga F+4 PdF+1d Punhal F+1d+1 PdF+6 (Veloz) Cajado F+1d PdF+3 Cetro F+1d+5 PdF+1d Opcional: Armaduras Na descrição das peças de pro...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-vendiam-seus-produtos-nos-mercados-29",
+      "name": "vendiam seus produtos nos mercados",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          29,
+          33
+        ]
+      ],
+      "page": null,
+      "summary": "vendiam seus produtos nos mercados das cidades. Os camponeses (ou félas) formavam a maior parte da população e eram agricultores, pecuaristas e pescadores. Mesmo sendo eles os produtores, os produtos agrícolas eram propriedade direta do Estado, dos templos ou da família nobre que possuía a terra. A cabeça do sistema jurídico era oficialmente o faraó, que era...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "novas-armas-de-fogo--novas-armas-de-fogo-magnum-357-cp-3",
+      "name": "Magnum .357 CP",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "novas-armas-de-fogo",
+      "sourceTitle": "Novas Armas de Fogo",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Magnum .357 CP Munição: .357 Pente: 6 Alcance: 40m Dano: 1d6+1 ROF: 1 PT 917C Munição: 9mm Pente: 8 Alcance: 50m Dano: 1d6+2 ROF: 1 Rossi 775 Munição: cal. 12 Pente: 6 Alcance: 400m Dano: 2d6 ROF:1 Rossi 636 Munição: .38 Pente: 6 Alcance: 35m Dano: 1d6 ROF: 1 Casull .454 Munição: .454 Pente: 6 Alcance: 45m Dano: 1d6+1 ROF: 1 .38 Munição: .38 Pente: .6 Alcanc...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "novas-armas-de-fogo--novas-armas-de-fogo-lista-das-armas-2",
+      "name": "Lista das Armas",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "novas-armas-de-fogo",
+      "sourceTitle": "Novas Armas de Fogo",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Lista das Armas A-680 Munição: .600 Pente: 6 Alcance: 650m Dano: 2d6+2 ROF: 1 BSA-5T-84 Munição: cal. 12 Pente: 10 Alcance: 500m Dano: 2d6+4 ROF: 2 Carabina .40 Munição: .40 Pente: 50 Alcance: 700m Dano: 2d6+6 ROF: 8 CBC 586 2P-7 PG Munição: 5.56mm Pente: 40 Alcance: 800m Dano: 1d10+2 ROF: 4 Metralhadora portátil Turus-Famae Munição: .40 Pente: 100 Alcance:...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-mentais--poderes-mentais-premonicao-10",
+      "name": "Premonição",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "poderes-mentais",
+      "sourceTitle": "PODERES MENTAIS",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "page": null,
+      "summary": "Premonição Custo: 1 Ponto Caminhos: Mediunidade 2 e Compreensão 1 Permite ter uma visão, nem sempre clara e direta, de acontecimentos futuros, gasta-se 1PM para ter uma visão rápida. A visão pode ajudar de diversas maneiras, se o Psion ver quer uma pessoa morrerá em um acidente de carro, ela poderá proteger essa pessoa de veículos e afins, mas na maioria das...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "redentor--redentor-gastos-da-energia-de-treinamento-9",
+      "name": "GASTOS DA ENERGIA DE TREINAMENTO",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "redentor",
+      "sourceTitle": "Redentor",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "GASTOS DA ENERGIA DE TREINAMENTO Abaixo vai uma tabela com o que pode ser feito com os simbiontes: celestiais e infernais e também, quanto ao custo de cada “ato” feito com o simbionte. O que pode ser feito com o simbionte celestial e/ ou infernal: Custo: R I E II Custo: Hellspawn Materializar armas de fogo* 25 30 Materializar munição* 10 15 Armas unanimadas...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-major-2",
+      "name": "- Major.",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas_de_Marte",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "- Major. - Coronel. Tenho já as informações que buscávamos para a questão do retorno do Boeing X-37B. - Ótimo, vamos ao centro de controle. Os dois oficiais do NORAD se dirigem ao centro de controle da base científica, passando pelas espessas paredes reforçadas desta área subterrânea, repleta de soldados armados com pesados fuzis. Na sala de controle, estão...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "vantagens-regionais-ii--vantagens-regionais-ii-amigo-das-aguas-callistia-khubar-2",
+      "name": "Amigo das Águas (Callistia, Khubar)",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "vantagens-regionais-ii",
+      "sourceTitle": "Vantagens Regionais II",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Amigo das Águas (Callistia, Khubar) Você recebe FA+1 quando luta com uma arma feita por fáceis. Além disso, uma vez por rodada, você pode fazer Você pode se mover normalmente quando estiver você mesmo. um teste de Cavalgar para substituir uma esquiva na qual nadando ou lutando na água, como se fosse um Anfíbio tenha acabado de falhar. Esta habilidade só pode...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-linha-de-corte-5",
+      "name": "LINHA DE CORTE",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "LINHA DE CORTE MARGEM NEW FRONTIERSMAN NEW FRONTIERSMAN 3 FATORES QUE CONTRIBUÍRAM PARA A PAZ MUNDIAL O quadro é ater rador: a humanidade apresenta uma crescente decadência . relações externas em situação crítica, corrida armamentista desgovernada e caótica, crescimento desordenado da população mundial e um forte declínio ambiental. Todos estes fatores conve...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armamedieval--armamedieval-escudo-medio-com-1-efeito-9",
+      "name": "Escudo Médio com 1 Efeito",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armamedieval",
+      "sourceTitle": "armamedieval",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Escudo Médio com 1 Efeito 2,0 Pontos de Itens Mágicos: Arma Pequena com 3 Efeitos Arma Média com 2 Efeitos Arma Grande (dano máximo superior a 2d6) com 1 Efeito Armadura Leve (IP igual ou menor a 2) com 1 Efeito Escudo Pequeno com 3 Efeitos Escudo Médio com 2 Efeitos Escudo Grande com 1 Efeito 3,0 Pontos de Itens Mágicos: Arma Pequena com 4 Efeitos Arma Médi...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armamedieval--armamedieval-valores-de-ataque-no-escudo-4",
+      "name": "Valores de Ataque no Escudo",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armamedieval",
+      "sourceTitle": "armamedieval",
+      "pages": [
+        [
+          4,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Valores de Ataque no Escudo Normalmente, os escudos são dados pela fórmula 0/X, mas não é impossível comprar valores de Ataque em escudo, para isso, assume-se que o Personagem treinou manobras de ataque com o escudo também (usá-lo para bloquear um oponente, bater com ele na cara do adversário, etc...) O dano causado pelo impacto de um escudo é de 1d3 (madeir...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armamedieval--armamedieval-armas-armaduras-1",
+      "name": "Armas, Armaduras &",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armamedieval",
+      "sourceTitle": "armamedieval",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Armas, Armaduras & Escudos Por Lobo de Diamante",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armamedieval--armamedieval-atencao-2",
+      "name": "Atenção!",
+      "area": "itens_equipamentos",
+      "category": "core_rule",
+      "source": "armamedieval",
+      "sourceTitle": "armamedieval",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois o mesmo foi feito para livre download. Tudo relatado aqui é ficcional, trate tudo aqui como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um maior divertimento, logo, as informações aqui não expressam a realidade, apesar de tentar...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armasmagicas--armasmagicas-by-rafael-menestrel-1",
+      "name": "By.: Rafael Menestrel",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "armasmagicas",
+      "sourceTitle": "armasmagicas",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "By.: Rafael Menestrel Armas Mágicas! Não há nada num mundo medieval, itens que deixem os aventureiros mais excitados e empolgados. Grandes espadas lançadoras de bola de fogo! Lanças capazes de lançar raios! Escudos destruidores de muros! Aqui você usa a sua imaginação e com o uso de algumas regras todas as suas idéias se tornam realidade! 1 Ponto de Armas Má...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-os-b-o-w-s-53",
+      "name": "OS B.O.W.S",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        [
+          53,
+          67
+        ]
+      ],
+      "page": null,
+      "summary": "53 OS B.O.W.S OS B.O.W.: (BIO-ORGANIC- WEAPON) Os B.O.W., BIO-ORGANIC-WEAPON, ( Ar- mas Bio-Orgânicas), são seres vivos que ou sofreram mutação ou foram criados por um dos vírus. Muitos dos B.O.W.s podem ser considerados como sendo o soldado perfeito, porém mesmo assim não são inteiramente confiaveis. Nome: Tyrant Descrição: Arma biológica perfeita cria- da...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "equip--equip-roupas-1",
+      "name": "Roupas",
+      "area": "itens_equipamentos",
+      "category": "item_equipment",
+      "source": "equip",
+      "sourceTitle": "equip",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "6 8 Este capítulo contém os preços em Florins para di- versos itens que os Personagens podem precisar. As duas colunas são os preços máximo e mínimo sugeridos, mas o Mestre pode alterar esses valores como achar melhor. Roupas Botas de cavalgar 25 35 Botas de passeio 9 12 Calças 3 3,50 Camisa 1,50 2,50 Capa luxuosa 200 1.000 Capa simples 7 10 Chapéu 0,85 1,05...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "geradoritem02--geradoritem02-gerador-de-itens-magicos-1",
+      "name": "Gerador de Itens Mágicos",
+      "area": "itens_equipamentos",
+      "category": "core_rule",
+      "source": "geradoritem02",
+      "sourceTitle": "geradoritem02",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Gerador de Itens Mágicos 2ª Edição Anderson “Anúbis” Maximilian Poison D'Morth Rodrigo \"Lamazuus\" Lins Agradecimentos: A Deus, pelo dom da vida. A meus pais por seu incentivo em meus projetos. Ao Maximilian pelo auxilio na criação dessa segunda edição. Ao Lamazuus por ter ajudado a lançar a primeira edição. Ao pessoal da Daemon por ter criado o melhor sistem...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "geradoritem02--geradoritem02-introducao-3",
+      "name": "Introdução",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "geradoritem02",
+      "sourceTitle": "geradoritem02",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Introdução Itens mágicos são alguns dos elementos que mais caracterizam cenários de fantasia medieval. Em alguns cenários como SdA, esses itens são extremamente raros e poderosos, em outros cenários podem ser comprados livremente em feiras. Pode se dizer que o ponto determinante dessa diferença é a forma com que a magia é utilizada no cenário. Por exemplo, d...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-considerados-uma-35",
+      "name": "Considerados uma",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "guia-dragoes-vol-ii",
+      "sourceTitle": "guia-dragoes_vol-II",
+      "pages": [
+        [
+          35,
+          37
+        ]
+      ],
+      "page": null,
+      "summary": "Considerados uma das maiores pragas do mundo, kobolds po- dem ser encontrados em praticamente qualquer terreno. Sozinhos, eles não representam ameaça alguma. No entanto geralmente são encon- trados em grandes grupos de caça. São traiçoeiros, utilizando- se de armadilhas e emboscadas para capturar suas presas. As tribos kobolds geralmente têm de 10 a 100 indi...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-arma-de-sopro-20",
+      "name": "arma de sopro.",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "guia-dragoes-vol-ii",
+      "sourceTitle": "guia-dragoes_vol-II",
+      "pages": [
+        [
+          20,
+          24
+        ]
+      ],
+      "page": null,
+      "summary": "arma de sopro. Todos os dragões canção podem assumir a forma de uma mulher humana, de aproximadamente 20 a 30 anos de idade, a qualquer momento. Assim como os dragões de aço, os dra- gões canção gostam de passar mais tempo em sua forma humanóide do que na forma de dragão, e freqüentemente vivem pacificamente em cidades humanas. Nas grandes cidades que costum...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-caracteristicas-raciais-18",
+      "name": "Características Raciais",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "guia-dragoes-vol-ii",
+      "sourceTitle": "guia-dragoes_vol-II",
+      "pages": [
+        18
+      ],
+      "page": 18,
+      "summary": "Características Raciais Caminho Principal: O Caminho Principal dos dragões amarelos é Fogo. Eles também apreciam muito o Caminho Ar e a Forma Controlar. Imunidade: Dragões amarelos são imunes a todo tipo de calo ou fogo, naturais ou mágicos. Arma de Sopro: A arma de sopro de um dragão amarelo é um jato de ar muito poderoso misturado com areia, provo- cando d...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-imunidade-dra-19",
+      "name": "Imunidade: Dra-",
+      "area": "itens_equipamentos",
+      "category": "combat",
+      "source": "guia-dragoes-vol-ii",
+      "sourceTitle": "guia-dragoes_vol-II",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "Imunidade: Dra- gões das brumas são imunes a ácido, calor e fogo, naturais ou mágicos. Arma de Sopro: Dragões das brumas tem dois tipos de sopro: um cone de vapor escaldante que provoca dano por fogo (veja a tabela) e uma linha de limo cáustico. Criaturas golpeadas pelo limo devem fazer um Teste de Resistência de CON ou irão ficar enjoadas por 1d6 rodadas ma...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "harrypotter--harrypotter-hogwarts-2",
+      "name": "HOGWARTS",
+      "area": "itens_equipamentos",
+      "category": "power_magic",
+      "source": "harrypotter",
+      "sourceTitle": "harrypotter",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "2 HOGWARTS Introdução Esse RPG é recomendado para pessoas que já leram os 4 livros da série Harry Potter, e conhecem um pouco sobre a história.Nesse jogo, o Mestre deverá criar coisas novas, como lugares, professores, matérias, itens e magias, para que o jogo não fique preso a informações desse guia.Você deve ter notado que esse guia é a versão 1.4, isso que...",
+      "entityRefs": [],
+      "tags": [
+        "itens_equipamentos",
+        "poderes_magias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "livrodomal--livrodomal-o-marginal-20",
+      "name": "O Marginal",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "livrodomal",
+      "sourceTitle": "livrodomal",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "O Marginal O marginal é o tipo mais simples de vilão, não passa de um egoísta bruto que toma para si tudo o que quer. Seus desejos não vão além de simples riquezas ou privilégios, porém, alguns deles buscam coisas mais significantes, como respeito. Levado por necessidades básicas e desejos, este vilão não utiliza métodos sutis ou sofisticados. Sua única arma...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-atributos-15",
+      "name": "Atributos",
+      "area": "itens_equipamentos",
+      "category": "attribute_skill",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

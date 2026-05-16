@@ -1,0 +1,581 @@
+{
+  "source": "modulo-basico-expandido-e-modificado",
+  "title": "Módulo Básico - Expandido e Modificado",
+  "status": "full-read-auto-pass-1",
+  "pages": 106,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "modulo-basico-expandido-e-modificado-e-x-p-a-n-d-i-d-o-e-m-o-d-i-f-i-c-a-d-o-1",
+      "name": "E X P A N D I D O E M O D I F I C A D O",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "E X P A N D I D O E M O D I F I C A D O M Ó D U L O B Á S I C O",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-introduo-2",
+      "name": "Introdu÷‘o",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Introdu÷‘o Comecei a jogar RPG em 2000 com um colega do meu colégio numa cidade do interior, e o primeiro cenário foi Trevas 1ª Edição e o primeiro sistema foi o Daemon, que ainda não conhecia por esse nome. Quando me mudei para a capital em 2003, decidi procurar se ainda existia o Trevas e por felicidade encontrei o site da Editora Daemon, me cadastrei no F...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-sistema-daemon-3",
+      "name": "Sistema Daemon",
+      "category": "creature_npc",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Sistema Daemon A grande maioria dos leitores mais antigos da DRAGÃO BRASIL já conhece o Sistema Daemon de longa da- ta, pois ele é o mais antigo sistema de RPG desenvolvido por brasileiros que ainda está em pleno vapor no mercado de jogos, com mais de 30 suplementos publicados e algumas dezenas de adaptações de filmes, revistas e livros publicadas em netbook...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-conceitos-bsicos-5",
+      "name": "Conceitos B–sicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          7
+        ]
+      ],
+      "summary": "Conceitos B–sicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esse conceitos termos usados no sistema de Magias e com- bates também são...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-criao-de-personagens-8",
+      "name": "Cria÷‘o de Personagens",
+      "category": "creature_npc",
+      "pages": [
+        [
+          8,
+          13
+        ]
+      ],
+      "summary": "Cria÷‘o de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, poli- ciais, ag...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-atributos-14",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses nú- meros dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAM- PIROS bem como com todos os RPGs lançados pela Daemon E...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-aprimoramentos-17",
+      "name": "Aprimoramentos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          17,
+          21
+        ]
+      ],
+      "summary": "Aprimoramentos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem dife- rente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa o jogo com 5 pontos de Aprimoramentos e o Jogador pode gastá-los como desejar. Esses pontos não podem simplesmente serem “gastos”, mas o Mestre e o Jogad...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-fama-22",
+      "name": "Fama",
+      "category": "creature_npc",
+      "pages": [
+        22
+      ],
+      "summary": "Fama Você é famoso por seus feitos entre as pessoas mortais, sendo uma figura de destaque na mídia, política, submundo ou algum outro tipo de ambiente mundano, onde todos reconhecem seu nome e ele é freqüentemente um dos assuntos preferidos do público. Este tipo de reputação reflete um melhor tratamento por parte dos NPCs, uma série de convites para reuni- õ...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-ataques-1-ip-0-pvs-8-23",
+      "name": "#Ataques[1], IP 0, PVs 8",
+      "category": "core_rule",
+      "pages": [
+        [
+          23,
+          24
+        ]
+      ],
+      "summary": "#Ataques[1], IP 0, PVs 8 Garras 20/20 (dano 1d3). Identidade Secreta 1 ponto: o Personagem possui uma identidade totalmente falsa. Embora todas informações a respeito dele de fato estejam contidas em cartões de crédito, contas bancárias, documentos e registros legais, TODAS não passam de exímias falsificações. O personagem pode, ou não, saber que sua identid...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-nao-precisar-beber-ou-comer-25",
+      "name": "Não Precisar Beber ou Comer",
+      "category": "power_magic",
+      "pages": [
+        [
+          25,
+          27
+        ]
+      ],
+      "summary": "Não Precisar Beber ou Comer 2 pontos: seu Personagem não precisa beber nenhum tipo de líquido, nem sofre efeitos de desidratação. Esta característica só pode ser escolhida se o seu personagem possuir um background sobrenatural ou estiver vinculado a algum tipo de maldição. 3 pontos: seu personagem não precisa beber nem comer absolutamente nada. É imprescindí...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-senso-numerico-28",
+      "name": "Senso Numérico",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          28,
+          30
+        ]
+      ],
+      "summary": "Senso Numérico 1 ponto: o Personagem é capaz de contar imediatamente grande quantidade de objetos, com muita precisão. Pode contar cabeças de gado, quantos palitos de fósforo caíram de uma caixa, cartas de baralho e coisas assim. Sentidos Aguçados 1 ponto para cada sentido: o Personagem possui sentidos mais aguçados do que os outros Personagens. Sua visão, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-assombrado-31",
+      "name": "Assombrado",
+      "category": "item_equipment",
+      "pages": [
+        [
+          31,
+          32
+        ]
+      ],
+      "summary": "Assombrado -1 ponto: por algum motivo desconhecido, as pessoas que o personagem conheceu e matou, retornam como espíritos para assombrá-lo. Podem ficar rondando-o e, em alguns casos, conversar com ele. Alguns espíritos apre- sentam formas assustadoras, decompondo-se lentamente, noite após noite, na presença do Personagem. Muitos fazem perguntas como: ‘’Porqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-dupla-personalidade-33",
+      "name": "Dupla Personalidade",
+      "category": "core_rule",
+      "pages": [
+        [
+          33,
+          36
+        ]
+      ],
+      "summary": "Dupla Personalidade -3 pontos: o Personagem possui duas ou mais personalidades diferentes habitando o mesmo corpo. Podem ser pessoas violentas, calmas, covardes, mentirosas, com afinidade ou ódio a alguma coisa. São personalidades totalmente diferentes, com suas próprias lembranças e consciência. A mudança de uma personalidade para outra não é controlada pel...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-restricao-a-magia-37",
+      "name": "Restrição à Magia",
+      "category": "core_rule",
+      "pages": [
+        [
+          37,
+          38
+        ]
+      ],
+      "summary": "Restrição à Magia Em determinadas ocasiões, o Personagem fica totalmente incapacitado de usar suas artes arcanas. -1 ponto: uma ocasião incomum (durante um mês especifico, um signo do zodíaco, quando chove ou neva). -2 pontos: uma ocasião comum (uma fase da lua ou uma estação do ano). -3 pontos: uma ocasião freqüente (durante o dia ou à noite). Sangramento -...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-percias-39",
+      "name": "Per¤cias",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          39,
+          41
+        ]
+      ],
+      "summary": "Per¤cias Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer di- reito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mes- tre. Pontos de Perí...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-armas-de-feixe-dex-42",
+      "name": "Armas de Feixe* (DEX)",
+      "category": "combat",
+      "pages": [
+        [
+          42,
+          43
+        ]
+      ],
+      "summary": "Armas de Feixe* (DEX) Similar às armas de fogo, mas disparam laser, fóton ou prótons ao invés de balas de chumbo e pólvora. Ar- mas de feixe são possíveis apenas em cenários de Ficção Científica, em um futuro distante ou como armas experi- mentais. Como as armas de fogo, as armas de feixe não permitem nenhuma Defesa, a não ser armaduras especiais. Em geral a...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-dex-dex-44",
+      "name": "(DEX/DEX).",
+      "category": "combat",
+      "pages": [
+        44
+      ],
+      "summary": "Diferente da Perícia Briga, Artes Marciais envolve um estilo de luta, com manobras e, algumas vezes, acro- bacias (mas em geral não inclui os efeitos da Perícia Acrobacia). Quando combate desarmado, um Personagem causa 1d3 pontos de dano (1d2 no caso de criaturas pequenas, como halflings, e 1d4 no caso de criaturas maiores que um humano) mais o bônus de Forç...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-camuflagem-per-45",
+      "name": "Camuflagem (PER)",
+      "category": "core_rule",
+      "pages": [
+        [
+          45,
+          49
+        ]
+      ],
+      "summary": "Camuflagem (PER) Com esta Perícia um Personagem é capaz de esconder-se ou esconder uma outra criatura ou objeto em ambi- entes naturais, como florestas e campos. A Camuflagem geralmente é usada em um Teste Resistido contra a PER ou a Perícia Escutar de um outro Personagem. Utilize esta situação sempre que ele estiver sendo procurado. Geralmente a Perícia Cam...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-mazenar-magias-em-pegaminhos-antigos-50",
+      "name": "mazenar Magias em pegaminhos antigos.",
+      "category": "race_lineage",
+      "pages": [
+        [
+          50,
+          52
+        ]
+      ],
+      "summary": "mazenar Magias em pegaminhos antigos. Leitura Labial: Esta Perícia não é um idioma, mas permite a um Personagem compreender o que um alvo es- ta falando apenas observando o movimento de seus livros. A maioria dos Testes serão Normais, mas caso o alvo esteja muito distante o Teste pode tornar-se Difícil. Silvestre: Este idioma é usado apenas em cenários de Fa...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-recursos-53",
+      "name": "recursos....",
+      "category": "core_rule",
+      "pages": [
+        [
+          53,
+          54
+        ]
+      ],
+      "summary": "recursos.... Marketing (INT): Permite vender um produto ou idéia para potenciais compradores. Compreende diversas técnicas de mensagem liminar e até subliminar, além de vários meios de comunicação, como mídia impressa, rádio, televisão e Internet. Pesquisa/Investigação (PER) Esta Perícia esta relacionada à obtenção de informações. Ela pode ser usada em uma b...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-equipamentos-55",
+      "name": "Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          55,
+          58
+        ]
+      ],
+      "summary": "Equipamentos Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Personagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-pontos-hericos-59",
+      "name": "Pontos Her‡icos",
+      "category": "core_rule",
+      "pages": [
+        [
+          59,
+          60
+        ]
+      ],
+      "summary": "Pontos Her‡icos Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vi- da extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para ou- tro, tentar desviar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-regras-e-testes-61",
+      "name": "Regras e Testes",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          61,
+          65
+        ]
+      ],
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momen- to da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuida- do as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resoluçã...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-iniciativa-66",
+      "name": "Iniciativa",
+      "category": "combat",
+      "pages": [
+        [
+          66,
+          71
+        ]
+      ],
+      "summary": "Iniciativa A Iniciativa determina o quão rápida é a ação de um Personagem ou NPC. Trata-se de uma questão crucial, pois uma iniciativa ruim pode determinar o resultado de um combate. Nem sempre agir por último é ruim. Pode permitir ao Personagem uma melhor observação do que está acontecendo e modificar sua intenção inicial. A seguir estão os modificadores de...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-mira-72",
+      "name": "Mira",
+      "category": "combat",
+      "pages": [
+        [
+          72,
+          74
+        ]
+      ],
+      "summary": "Mira Um Personagem pode perder uma rodada inteira mirando um inimigo e, com isso, receber bonificações. As condições são as seguintes: -O atacante não pode estar envolvido em combate próximo. Se estiver acontecendo uma batalha, recomenda- se que ele se afaste pelo menos 10 metros. -Durante a rodada em que está mirando e na roda em que vai atacar, o Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-experiyncia-75",
+      "name": "ExperiŸncia",
+      "category": "core_rule",
+      "pages": [
+        [
+          75,
+          76
+        ]
+      ],
+      "summary": "ExperiŸncia Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompen- sar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demônios...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-77",
+      "name": "Caminho",
+      "category": "core_rule",
+      "pages": [
+        77
+      ],
+      "summary": "Caminho Próximo Nível x 10 Caminho Primário Próximo Nível x 8 Novo Caminho 15 PE Pontos de Magia Próximo Nível x 12 Poderes Nível do Poder x 8 Poderes Únicos ou Exclusivos Nível do Poder x 6 Pontos Heróicos Próximo Nível x 3 Pontos de Fé Próximo Nível x 6 Aprimoramentos 25 PE Modificações no Sistema Apesar do novo sistema de experiência encaixar-se bem nas r...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-aprimoramentos-78",
+      "name": "Aprimoramentos",
+      "category": "creature_npc",
+      "pages": [
+        78
+      ],
+      "summary": "Aprimoramentos Recomenda-se que os Jogadores anunciem antes qual Aprimoramento novo escolheram e que o desenvol- vam durante as Aventuras. Dessa forma, não será apenas um “prêmio”, mas um importante elemento narrativo para o desenvolvimento da Campanha. Outros prêmios Além dessas mudanças, que são reflexos do desenvolvimento do Jogador, os Personagens podem...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-magia-79",
+      "name": "Magia",
+      "category": "power_magic",
+      "pages": [
+        79
+      ],
+      "summary": "Magia A criar. Concedendo pontos de experiŸncia A criar. Uma definição formal (e um pouco pomposa) de magia é: \"A arte de se provocar mudanças de acordo com a vontade\". Magia é uma coisa muito importante – senão a mais importante – dos mundos e campanhas de fantasia medieval. Em Tagmar Daemon, as magias são lançadas gastando-se pontos de Magia ou de Fé. O mí...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-nimais-metamagia-80",
+      "name": "nimais + Metamagia.",
+      "category": "power_magic",
+      "pages": [
+        [
+          80,
+          82
+        ]
+      ],
+      "summary": "nimais + Metamagia. Humanos: Este Caminho lida diretamente com seres Humanos. Encantamentos, mutações e leitura de men- tes também entram nos reinos deste Caminho. Espíritos: Este Caminho lida com espíritos, fantasmas, aparições, mortos-vivos, o reino dos mortos e alguns planos de existência próximos. Arkanun: Lida com criaturas do plano de Ark-a-nun e dos o...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-da-gua-83",
+      "name": "Caminho da Ðgua",
+      "category": "core_rule",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "summary": "Caminho da Ðgua 1ç C¤rculo Entender Água Permite ao personagem saber o gosto de um líquido apenas tocando-o. Permite descobrir as propriedades (ponto de fusão, ponto de ebulição, densidade, visosidade, acidez, opacidade etc.) de um fluido qualquer até um raio de 10m. Também é possível identificar a presença de veneno, mas não é capaz de especificar os tipos...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-do-ar-85",
+      "name": "Caminho do Ar",
+      "category": "core_rule",
+      "pages": [
+        [
+          85,
+          86
+        ]
+      ],
+      "summary": "Caminho do Ar 1ç C¤rculo Entender Ar Permite ao Mago saber de onde uma corrente de ar está vindo; aumenta a sensibilidade do Mago às corren- tes de ar, aos sons e à direção dos ventos. O personagem é capaz de sentir uma propriedade do ar (se ele é veneno- so ou seu cheiro) em um raio de 10m. Enxerga perfeitamente através de uma neblina densa ou nuvem de poei...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-do-fogo-87",
+      "name": "Caminho do Fogo",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          87,
+          88
+        ]
+      ],
+      "summary": "Caminho do Fogo 1ç C¤rculo Entender Fogo O personagem pode sentir a temperatura exata de um corpo ou objeto apenas ao toque. Pode sentir uma propriedade física do fogo (temperatura, tipo de combustível, quanto tempo ainda deverá durar etc.). Pode sentir locais onde fogueiras estiverem acesas recentemente. Outro efeito possível é informar há quanto tempo a ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-da-luz-89",
+      "name": "Caminho da Luz",
+      "category": "core_rule",
+      "pages": [
+        [
+          89,
+          90
+        ]
+      ],
+      "summary": "Caminho da Luz 1ç C¤rculo Entender Luz Visão perfeita. Pode perceber ilusões de óptica e truques de prestidigitadores (truques de mãos rápidas). Aumenta temporariamente a Percepção em 1 ponto. Cria o efeito de olhos brilhantes na escuridão. Com um sim- ples efeito, pode identificar um sinal luminoso ou saber o que está gerando uma luz. Criar Luz Cria uma luz...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-da-terra-91",
+      "name": "Caminho da Terra",
+      "category": "combat",
+      "pages": [
+        91
+      ],
+      "summary": "Caminho da Terra 1ç C¤rculo Entender Terra Pode saber que tipo de pedra ou metal está segurando (se já conhecer aquele material anteriormente). O in- vocador pode sentir a presença de determinado tipo de pedra, minério, metal (não ouro) ou pó a até 10m de dis- tância. Criar Terra Pode Criar/Destruir terra, pedras, barro ou metal suficiente para encher um bal...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-4c-crculo-92",
+      "name": "4ç C¤rculo",
+      "category": "combat",
+      "pages": [
+        92
+      ],
+      "summary": "4ç C¤rculo Entender Terra O personagem pode “enxergar” pegadas deixadas em um chão de pedra, terra, areia ou poeira deixadas háum dia, em um raio de 200m; pode determinar a idade exata de uma pedra ou mineral; é capaz de identificar corretamente qualquer amostra de pedra ou metal; pode comparar duas amostras e saber se ambas são originárias do mesmo local. C...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-das-trevas-93",
+      "name": "Caminho das Trevas",
+      "category": "combat",
+      "pages": [
+        [
+          93,
+          94
+        ]
+      ],
+      "summary": "Caminho das Trevas 1ç C¤rculo Entender Trevas Enxerga melhor no escuro, mesmo sem uso de Magia. Adapta-se muito mais rápido à falta de luz. Pode en- xergar no escuro, até uma distância de 10m. Ele pode descobrir o que está gerando uma sombra, desde que ela seja natural e não mágica. Criar Trevas O personagem é capaz de aumentar ou diminuir o tamanho de uma s...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-das-plantas-95",
+      "name": "Caminho das Plantas",
+      "category": "core_rule",
+      "pages": [
+        95
+      ],
+      "summary": "Caminho das Plantas 1ç Circulo Entender Plantas Sabe o gosto de uma fruta ou verdura, ou cheiro de uma planta pelo toque. Sente uma propriedade de uma planta (se é venenosa, medicinal, aromática). Sabe, com exatidão, que tipo de planta o místico esta tocando (depen- de do fetiche utilizado). Seleciona os melhores grãos de um punhado de sementes. Prepara pequ...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-4c-circulo-96",
+      "name": "4ç Circulo",
+      "category": "core_rule",
+      "pages": [
+        96
+      ],
+      "summary": "4ç Circulo Entender Plantas Conversa com plantas e com árvores. As plantas tendem a ter problemas em descrever ações que impliquem em movimento, pela sua própria natureza estática. Faz com que o místico não escorregue em uma superfície cober- ta de limo, podendo caminhar, ou ate mesmo correr sobre superfícies desse tipo. O místico possui um entrosamen- to tã...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-animais-97",
+      "name": "Caminho Animais",
+      "category": "power_magic",
+      "pages": [
+        [
+          97,
+          98
+        ]
+      ],
+      "summary": "Caminho Animais 1ç Circulo Entender Animais Deixa a pessoa mais susceptível aos animais (afasta um pouco o medo deles). Permite ao místico sentir o es- tado de espírito de um animal qualquer (se está cansado, com fome, alegre, triste). O místico consegue obter uma imagem mental de um animal se segurar um pedaço dele (uma pata, um pelo, uma pena). O místico e...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-humanos-99",
+      "name": "Caminho Humanos",
+      "category": "power_magic",
+      "pages": [
+        99
+      ],
+      "summary": "Caminho Humanos 1ç Circulo Entender Humanos O místico aumenta seu conhecimento básico sobre uma pessoa que nunca viu antes, com peso, altura, idade, cor dos cabelos ou se a vitima esta com alguma doença (caso a pessoa mantenha essas informações confidenciais, como um vampiro ou demônio, ela tem direito a um teste de WILL X 1d6 para passar uma informação fals...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-morias-100",
+      "name": "mórias.",
+      "category": "core_rule",
+      "pages": [
+        100
+      ],
+      "summary": "mórias. 4ç Circulo Entender Humanos Compreende uma língua estrangeira, observando a conversa de outras pessoas, entende uma linguagem de sinais. O místico pode modificar os sentimentos ou emoções de uma pessoa. Existem rituais capazes de marcar uma pessoa, ou de identificar o seu padrão espiritual. Uma vez realizado o místico pode identificar o individuo mes...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-caminho-spiritum-101",
+      "name": "Caminho Spiritum",
+      "category": "ritual_spell",
+      "pages": [
+        101
+      ],
+      "summary": "Caminho Spiritum 1ç Circulo Entender Espíritos Permite ao místico sentir a presença de espíritos que estejam perto, mais não terá certeza sobre o tipo de es- pírito. O místico pode, tocando os olhos de um cadáver, observar a ultima imagem do olho que o morto enxergou. Criar Espíritos Conjura um pequeno espírito ou elemental, pode fazer pequenos rituais Necro...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-4c-circulo-102",
+      "name": "4ç Circulo",
+      "category": "power_magic",
+      "pages": [
+        102
+      ],
+      "summary": "4ç Circulo Entender Espíritos Mediunidade. Perguntas mais complexas, com qualquer tipo de resposta, podem ser feitas a um espírito de uma pessoa falecida a ate uma estação e um dia (ainda permanecem 3 perguntas). O místico pode encher o cami- nho de um espírito no mundo dos mortos, e seguir o espírito por ele. Permite ao místico saber as impressões espiri- t...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-arkanun-103",
+      "name": "Arkanun",
+      "category": "ritual_spell",
+      "pages": [
+        103
+      ],
+      "summary": "Arkanun 1ç Circulo Entender Demônios O místico sente um \"arrepio\" na presença de um demônio, ou é capaz de sentir sua presença a ate 10m de raio. Caso o místico consiga olhar um demônio profundamente em seus olhos (mesmo que este esteja disfarçado), o místico será capaz de sentir que a \"algo errado\" com aquela pessoa. Criar Demônios O místico consegue conjur...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-entender-demonios-104",
+      "name": "Entender Demônios",
+      "category": "core_rule",
+      "pages": [
+        104
+      ],
+      "summary": "Entender Demônios Permite ao bruxo ler os pensamentos superficiais de um demônio, através de rituais caros e complexos. O místico consegue detectar a presença de um demônio, mesmo que este esteja transformado em homem ou disfar- çado, ate um raio de 100m. Pode transportar uma pessoa para planos de demônios através de portal especialmente confeccionado, por u...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-metamagia-105",
+      "name": "Metamagia",
+      "category": "ritual_spell",
+      "pages": [
+        105
+      ],
+      "summary": "Metamagia 1ç Circulo Entender Metamagia Pode-se perceber se o ambiente esta ou não impregnado de magia. Percebe se uma pessoa tem aptidão mági- ca ou não, ou se é um ser sobrenatural (O mestre deve fazer um teste me segredo porque nem sempre este ritual funciona). Permite detectar se existe magia em um objeto pequeno. Criar Metamagia O místico pode criar uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado-4c-circulo-106",
+      "name": "4ç Circulo",
+      "category": "power_magic",
+      "pages": [
+        106
+      ],
+      "summary": "4ç Circulo Entender Metamagia O místico detecta naturalmente a magia em ate 50m de raio. O místico pode ficar completamente invisível a métodos místicos de detecção. Consegue rastrear efeitos mágicos ate sua origem. O místico carrega objetos com pontos de magia seus, pelo espaço de tempo de ate 24 horas. Entender metamagia neste focus é a base para a cria- ç...",
+      "entityRefs": []
+    }
+  ]
+}

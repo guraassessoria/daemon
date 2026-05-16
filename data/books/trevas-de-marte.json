@@ -1,0 +1,132 @@
+{
+  "source": "trevas-de-marte",
+  "title": "Trevas_de_Marte",
+  "status": "full-read-auto-pass-1",
+  "pages": 44,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "item_equipment",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "trevas-de-marte-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "T",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-major-2",
+      "name": "- Major.",
+      "category": "item_equipment",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "- Major. - Coronel. Tenho já as informações que buscávamos para a questão do retorno do Boeing X-37B. - Ótimo, vamos ao centro de controle. Os dois oficiais do NORAD se dirigem ao centro de controle da base científica, passando pelas espessas paredes reforçadas desta área subterrânea, repleta de soldados armados com pesados fuzis. Na sala de controle, estão...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-sobre-o-autor-4",
+      "name": "SOBRE O AUTOR",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          6
+        ]
+      ],
+      "summary": "SOBRE O AUTOR Henrique “Morcego” Santos, publicitário, Mestre em Comunicação e um grande fã de Cultura Pop, incluindo o RPG. Participante assíduo das discussões do Sistema Daemon e do cenário de Trevas, já desenvolveu e ajudou a desenvolver uma grande quantidade de e-books para complementar o sistema e o cenário. ÍNDICE PARTE 1 INTRODUÇÃO – ENTENDENDO TENEBR...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-doze-ou-mais-caminhos-7",
+      "name": "DOZE (OU MAIS) CAMINHOS",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "DOZE (OU MAIS) CAMINHOS EM OUTRAS ORBES A Teoria da Magia considera para o Ocultismo ocidental doze Caminhos distintos: seis deles voltados aos elementos (Fogo, Água, Ar, Terra, Luz, Trevas), três voltados aos seres vivos (Humanos, Animais, Plantas), dois conhecidos como Caminhos Negros por tratarem de energias perigosas (Spiritum, Arkanun) e por fim a Metam...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-eon-noachiano-era-das-8",
+      "name": "ÉON NOACHIANO, ERA DAS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          8,
+          14
+        ]
+      ],
+      "summary": "ÉON NOACHIANO, ERA DAS PLANTAS E DOS CRISTAIS O primeiro Éon de que se tem conhecimento na Orbe de Tiamat através dos tomos secretos da Ordem de Photus é chamado de Noachiano, mas também conhecido como o Éon das Plantas e dos Cristais. É conhecido assim porque os dois planos altíssimos que surgiram na Orbe no início desta Orbe tinham formas de vida baseadas...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-marte-no-eon-15",
+      "name": "MARTE NO ÉON",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          19
+        ]
+      ],
+      "summary": "MARTE NO ÉON AMAZONIANO Marte é menor e menos denso que a Terra, com um raio médio de 3.390km. Sua área de superfície é de 141,7 milhões de km2, mais ou menos 28% da área da superfície terrestre; porém, como grande parte da Terra é coberta por água, a área de Marte é apenas um pouco menor que a terra seca na Terra. A densidade de Marte é 0,715 vezes a da Ter...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-rhylkosiano-20",
+      "name": "Rhylkosiano",
+      "category": "creature_npc",
+      "pages": [
+        [
+          20,
+          39
+        ]
+      ],
+      "summary": "Rhylkosiano Custo: 6 pontos. FR -2 CON -2 DEX +3 AGI +5 WILL +1 PER +2 CAR -4 Vantagens e Desvantagens: Pele Resistente +2, Regeneração (1 PV/3 horas), Sentidos Aguçados, Visão Noturna. Shambleau Raça vampírica criada com regras derivadas do livro Vampiros Mitológicos. Poderes Vampíricos/Demoníacos Possíveis: Aumento de Atributos, Bruxaria, Controle de Plant...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-conduzindo-uma-campanha-de-horror-espacial-40",
+      "name": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL",
+      "category": "creature_npc",
+      "pages": [
+        40
+      ],
+      "summary": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL Ao conduzir uma campanha que envolva viagens espaciais ou, no caso do cenário de Arkanun-Trevas, extraorbitais ou transaethéricas, é fundamental saber utilizar os principais elementos que induzirão às sensações de horror sem esquecer que ainda deve haver detalhes de ficção científica para os personagens lidarem. Ent...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-aventuras-envolvendo-marte-41",
+      "name": "AVENTURAS ENVOLVENDO MARTE",
+      "category": "creature_npc",
+      "pages": [
+        41
+      ],
+      "summary": "AVENTURAS ENVOLVENDO MARTE Caçada aos Homenzinhos Verdes Em qualquer época, pequenos seres verdes são relatados como vultos que aparecem em locais isolados, geralmente se escondendo com o mesmo medo que as pessoas demonstram por eles. Sejam caçadores de monstros, inquisidores da Igreja ou até investigadores de agências governamentais, quando uma dessas criat...",
+      "entityRefs": []
+    },
+    {
+      "id": "trevas-de-marte-trevas-trevas-42",
+      "name": "TREVAS TREVAS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          42,
+          44
+        ]
+      ],
+      "summary": "TREVAS TREVAS DEDED MARTEMAR Nome:_________________________________ Raça/Casta/Kit:_________________ Nível:___ Idade Real:_____ Idade Aparente:____Sexo:___ Cabelos:_____ Olhos:_____ Altura:__ Peso:__ ATRIBUTOS PERÍCIAS ÍNDICE DE PROTEÇÃO APRIMORAMENTOS PERÍCIAS COM ARMAS Constituição Força Destreza Agilidade Inteligência Força de Vontade Percepção Carisma (C...",
+      "entityRefs": []
+    }
+  ]
+}

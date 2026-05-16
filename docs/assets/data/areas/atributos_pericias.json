@@ -1,0 +1,1970 @@
+{
+  "version": 1,
+  "id": "atributos_pericias",
+  "name": "Atributos e Pericias",
+  "readySourceCount": 190,
+  "entityCount": 3,
+  "sourcePartCount": 88,
+  "entities": [
+    {
+      "id": "fred-krueger",
+      "name": "Fred Krueger",
+      "area": "atributos_pericias",
+      "category": "creature_npc",
+      "source": "4killers",
+      "sourceTitle": "4killers",
+      "page": 1,
+      "entries": [
+        "Assassino de 15 nivel adaptado para o sistema Daemon.",
+        "Antagonista sobrenatural associado ao Sonhar, capaz de atacar vitimas em sonhos e transferir ferimentos para o mundo real.",
+        "No Sonhar, recebe grande ampliacao de atributos e acesso amplo a efeitos magicos; no plano fisico e mais vulneravel."
+      ],
+      "tags": [
+        "antagonista",
+        "assassino",
+        "atributos_pericias",
+        "creature_npc",
+        "sonhar",
+        "terror"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "progressao-de-atributos-daemon",
+      "name": "Progressao de atributos no Sistema Daemon",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Aliança Daemon 01",
+      "page": 3,
+      "entries": [
+        "Artigo explica a progressao matematica dos atributos no Sistema Daemon, comparando valores a dados e destacando que atributos dobram a cada seis unidades."
+      ],
+      "tags": [
+        "atributos",
+        "atributos_pericias",
+        "core_rule",
+        "regra",
+        "sistema-daemon"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "tebori",
+      "name": "Tebori",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 35,
+      "entries": [
+        "Tatuagem magica que confere habilidade especifica, como atributo, pericia ou poder demoniaco."
+      ],
+      "tags": [
+        "alastores",
+        "atributos_pericias",
+        "item_equipment",
+        "objeto-magico",
+        "tatuagem"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "alianca-daemon-01--alianca-desvendando-daemon",
+      "name": "Desvendando o Sistema Daemon",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Alianca Daemon 01",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Artigo introdutorio sobre o Sistema Daemon, sua historia, preconceitos, adaptabilidade e progressao matematica de atributos/pericias em dados.",
+      "entityRefs": [
+        "desvendando-o-sistema-daemon",
+        "progressao-de-atributos-daemon"
+      ],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-pericias-briga-20-conducao-40",
+      "name": "Perícias: Briga 20%, Condução",
+      "area": "atributos_pericias",
+      "category": "creature_npc",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        [
+          40,
+          41
+        ]
+      ],
+      "page": null,
+      "summary": "Perícias: Briga 20%, Condução 40%, Corrida 60%, Esquiva 50%, Furtividade 40%, Intimidação 30%, Teologia 20% Pontos de Fé: 1 Homem Santo O homem santo não pre- cisa ser um clérigo ou qualquer outra pessoa muito ligada à co- munidade religiosa. Ele é aquele que segue naturalmente a religião e dá o exemplo de como todos o seguidores do Senhor deve e com- portar...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-6",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (130-139)",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          130,
+          139
+        ]
+      ],
+      "page": null,
+      "summary": "130 Fraquezas: Sanguinolencia, fala limitada, estritamente carnívoro, canibalismo, primitivismo, estritamente vegetariano, fanatismo (obrigatório), sadismo, reputação racial negativa (obrigatório), má impressão, vulnerabilidade, atributos 2D, dependência, visão monocromática, olhos brilhantes no escuro, somente em infravisão, daltonismo, hiperalgia (escolha...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-regras-4",
+      "name": "REGRAS",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          4,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "REGRAS Como já mencionado, as regras básicas sobre as armas de fogo (no caso, apenas as variantes do grupo de perícias Armas de Fogo) já foram apresentadas no netbook do Tiago, sendo desnecessário toda sua adição aqui novamente. Portanto, trarei aqui algumas mecânicas adicionais apenas para armas que não se enquadram no que foi descrito acima. Como uma infor...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-vishuddha-21",
+      "name": "VISHUDDHA",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        [
+          21,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "Quando é desgastado pelo uso indiscriminado, o Ajna pode gerar excesso de fantasia e sensação de isolamento ou perseguição. O Mestre deve fazer o personagem ver coisas que não existem e ter sensações como se fossem paranóicos. Para recuperar o equilíbrio deste chacra, é preciso em um estado de vegetação (isolar-se das percepções exteriores) sob uma noite int...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "artes-marciais--artes-marciais-novas-pericias-para-artes-marciais-1",
+      "name": "Novas Perícias para Artes Marciais",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "artes-marciais",
+      "sourceTitle": "Artes Marciais",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "1 Novas Perícias para Artes Marciais By Carlos “Eriol” Eduardo. Apresento aqui novas manobras de combate para deixar mais realístico (ou quase) os combates de artes marciais. Lógico que para poder comprar uma destas perícias o personagem tem que ter no mínimo 30% em qualquer arte marcial. Também precisará de um mestre para poder ensina-las (como no caso da m...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-idade-13",
+      "name": "Idade",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa regra se aplica à maioria das espécies conhecidas pela humanidade. Há nessa mesma orbe criaturas tão a...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-atributos-1",
+      "name": "Atributos",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Atributos Por Lobo",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-atencao-2",
+      "name": "Atenção!",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois ele foi feito para livre download. Tudo relatado aqui é ficcional, trate isto como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um maior divertimento, logo as informações aqui não expressam a realidade, apesar de tentar fazê-lo o...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-valor-medio-4",
+      "name": "Valor Médio",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Valor Médio Devido às leis da probabilidade, ao rolar dois valores aleatórios como os dados e somá-los, alguns valores passam a ter mais chances de saírem que outros. Rolando um 3D, o valor 10 e 11 tem 12,15% de chances de sair cada, enquanto 3 e 18 possuem 0,45%. Para não explicar cálculos complicadíssimos para determinar qual o valor médio de cada valor de...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-agilidade-5",
+      "name": "Agilidade",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Agilidade Há dois atributos básicos que trabalham o movimento corporal: Destreza (ou DES) e Agilida- de (ou AGI). A diferença entre os dois será mais abordada no capítulo do primeiro. Este aqui irá trabalhar algumas regras e ponderações sobre a Agilidade que podem e devem ser utilizados em Destreza, guardada as devidas diferenças. Usan- do o bom senso, encon...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-carisma-6",
+      "name": "Carisma",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Carisma Existem basicamente sete inteligências no ser humano, sendo que o atributo mental carisma pode ser considerando como uma forma de medir a inteligência Interpessoal. Ela define nossa capa- cidade de se relacionar com as pessoas, de esta- belecer com um certo grau de eficiência algum tipo de troca. Quanto maior o carisma, a pessoa vai se tornando mais...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-constituicao-7",
+      "name": "Constituição",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "Constituição Existem dois bônus que a CON pode con- ceder: IP Natural e IP Total. O primeiro trata-se de uma resistência superior aos danos. Ele não é apenas uma pele mais dura, mas também uma maior tolerância à dor física, orgãos melhores, os- sos mais resistentes, ou seja, o corpo inteiro é o responsável por essa bonificação, não apenas a pele como geralme...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-inteligencia-10",
+      "name": "Inteligência",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "Inteligência Como mencionado outrora, existem vários tipos de inteligência, não apenas uma. A Inteligên- cia como nós conhecemos na verdade é apenas uma delas, a Lógico-Matemática. Esta define nos- sa capacidade de resolver problemas em pouco tempo. Qualquer um é capaz de resolver qualquer problema ou enigma, o que muda é o tempo que levaria para cada um faz...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-percepcao-11",
+      "name": "Percepção",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        11
+      ],
+      "page": 11,
+      "summary": "Percepção Percepção é a capacidade de um ser de observar eficientemente o mundo ao seu redor. A Personagem pode consegui sentir as condições de toda a realidade dada as devidas regras que valem aonde ela está inserida. Quanto maior a sua PER, ele conseguirá sentir mais coisas, mais longe, de maneira mais precisa, com mais detalhes etc. Percebe-se que o poder...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-vontade-12",
+      "name": "Vontade",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "Vontade O último atributo. A Vontade (Nome altera- do por uma denominação mais simples, outrora era chamado de Força de Vontade) rege a resis- tência da mente, num papel muito semelhante à Constituição para o corpo. De certa maneira, o que foi dito para esta última pode ser aplicado para a VON, porém num nível mental. A Vontade rege a capacidade da Personage...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "atributos--atributos-seres-e-objetos-15",
+      "name": "Seres e Objetos",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Seres e Objetos Os atributos não são uma exclusividade dos humanos. Tudo no universo tem ao menos um atributo, nem que esteja com valor zerado. Nestes casos, os outros são considerados como nulos, ou seja, não existem. Não confundir valor zerado com valor nulo. O primeiro está com o menor valor possível, a ponto de ser quase impossível aplicá- lo. O outro si...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "capitao-planeta--capitao-planeta-capitao-planeta-1",
+      "name": "CAPITÃO PLANETA",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "capitao-planeta",
+      "sourceTitle": "Capitao planeta",
+      "pages": [
+        [
+          1,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "CAPITÃO PLANETA www.mitsukai-editora.com.br 1 Capitulo 1- Introdução Gaia, o espírito se Terra, acorda de um sono de 100 anos e se depara com a destruição do planeta por uma humanidade que parece insensível. Temendo pelo futuro, ela entrega anéis mágicos a cinco jovens de várias partes do mundo - Wheeler (América do Norte), Linka (Europa Oriental), Gi (Asia)...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cyfell--cyfell-parte-3-a-triade-5",
+      "name": "Parte 3 – A Tríade",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "cyfell",
+      "sourceTitle": "Cyfell",
+      "pages": [
+        [
+          5,
+          23
+        ]
+      ],
+      "page": null,
+      "summary": "5 Parte 3 – A Tríade A organização criminosa conhecido como Tríade, hoje, está longe de ser uma liga mafiosa que age acobertada pelo manto do desconhecido. Revelada ao mundo no chamado “Incidente Fuji”, os criminosos estabeleceram bases ocultas em praticamente todo o arquipélago. Seu líder é Narkko. Outrora um ser humano, ele transcendeu os limites entre hom...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-engenharia-0-11",
+      "name": "Engenharia (0)*",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "Engenharia (0)* Alguns subgrupos possíveis: Aeronáutica, Alimentos, Ci- vil, Computação, Demolições, Elétrica, Eletrônica, Materiais, Mecânica, Mecatrônica, Naval e Química. Escutar (PER) Esquiva (AGI) Esportes* Outros subgrupos possíveis: Acrobacia (AGI), Alpinismo (AGI), Arremesso (DEX), Artes Marciais (AGI), Basquete (DEX), Boxe (AGI), Caça (PER), Canoage...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-passo-3-atributos-7",
+      "name": "Passo 3: Atributos",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "Passo 3: Atributos Como estamos trabalhando com DBZ, os Personagens pos- suirão 150 pontos para distribuir em seus oito Atributos. Os Atributos devem ser distribuídos de acordo com a sua concepção do Personagem. Como você imagina que ele é? For- te como um touro, ou magro e franzino? Inteligente? Um perito em acrobacias? Os Atributos servem para colocar suas...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-atributos-fisicos-8",
+      "name": "Atributos Físicos",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Atributos Físicos Constituição (CON) Determina o vigor, saúde e condição física do Personagem. De modo geral, um Personagem com baixo valor em Constitui- ção é franzino e feio, enquanto um valor alto garante uma boa aparência ou um aspecto de brutamontes, você decide. Isso não significa necessariamente que o Personagem seja forte ou fra- co; isso é determina...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-ficha-de-personagem-71",
+      "name": "Ficha de Personagem",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          71,
+          74
+        ]
+      ],
+      "page": null,
+      "summary": "Ficha de Personagem 71 Background _____________________________________________________________________ _____________________________________________________________________ _____________________________________________________________________ _____________________________________________________________________ ______________________________________________...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-5",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Daemon Medieval 5 Capítulo 2 Criação de Personagens m Daemon Medieval a criação de um Personagem é algo bastante fácil de fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobrevivência no futuro. Existem também fatores relacionados com o Background do personagem, seus anseios e temores, sua história e sua caracterização. Em Daem...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-19",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "kit_class",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "Daemon Medieval 19 Os Rangers normalmente sabe usar muitos tipos de armas e são muito eficazes em combate. Suas Perícias lhe permitem sobreviver na intempérie, encontrar sua presa e evitar ser notado. Ele também possui conhecimentos especiais sobre certos tipos de criaturas, tornando-o mais capaz de encontrar e vencer esses inimigos. Os Rangers geralmente te...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "kit_class"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-25",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        25
+      ],
+      "page": 25,
+      "summary": "Daemon Medieval 25 1 ponto: os animais não vêem ameaça algum no personagem, chegando até a verem-no como um semelhante. Sua presença não afugenta animais selvagens e sua aproximação não os fará atacá-lo (a menos que estejam sendo controlados). Especialização em Arma 1 ponto: o personagem recebe um bônus de +1 em dano para cada dois níveis que possua, mas som...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-32",
+      "name": "Capítulo 7 – Perícias",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Capítulo 7 – Perícias 32 Capítulo 7 Perícias erícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a apro...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-33",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        33
+      ],
+      "page": 33,
+      "summary": "Daemon Medieval 33 Domar um animal selvagem ou monstruoso segue as mesmas regras apresentadas na Perícia Treinamento de Animais (tempo de treino, Testes necessários, etc.). A Perícia Doma também pode ser usada para domar animais selvagens e mantê-los afastados. Para isso, entretanto, deve-se obter sucesso em um Teste Normal (com penalidades à escolha do Mest...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-34",
+      "name": "Capítulo 7 – Perícias",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        34
+      ],
+      "page": 34,
+      "summary": "Capítulo 7 – Perícias 34 Espada Curta 20 dias Espada Longa 30 dias Espada de Duas Mãos 45 dias Besta Leve 15 dias Besta Pesada 20 dias Flechas 10 por dia Lança 20 dias Machado 10 dias Mangual 15 dias Tridente 20 dias Armadura de couro 50 dias Armadura de Anéis 60 dias Armadura de Malha 60 dias Armadura de Ferro 65 dias Armadura Completa 80 dias A Perícia Arm...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-35",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        35
+      ],
+      "page": 35,
+      "summary": "Daemon Medieval 35 Artífice* (0) Um artífice é um Personagem com a habilidade de trabalhar com algum material específico, permitindo-lhe construir ou consertar roupas, móveis, caixas, utensílios, ferramentas, potes, armários ou até mesmo casas (mas não armas – para isso deve-se usar a Perícia Armeiro). Um artífice tem o conhecimento para fabricar e consertar...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-36",
+      "name": "Capítulo 7 – Perícias",
+      "area": "atributos_pericias",
+      "category": "creature_npc",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        36
+      ],
+      "page": 36,
+      "summary": "Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso os filósofos costumam ser pessoas que duvidam ou questionam tudo que lhe é apresentado. Para fins de...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-37",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        37
+      ],
+      "page": 37,
+      "summary": "Daemon Medieval 37 Um Teste de Conhecimento deve ser realizado toda vez que o Personagem deseja obter alguma informação sobre o conhecimento em questão. Geralmente o Teste será Normal, mas para lembrar-se de uma informação mais profunda e obscura o Mestre pode exigir um Teste Difícil. Antes de criar uma Perícia Conhecimento certifique-se de que não existe um...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-38",
+      "name": "Capítulo 7 – Perícias",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        38
+      ],
+      "page": 38,
+      "summary": "Capítulo 7 – Perícias 38 Escalada (FR): Quando se tem o equipamento necessário, um Teste de Força é suficiente para escalar um muro, parede, calha ou outros similares. A Perícia Escalada é usada para escalar, muros, montanhas e outros lugares íngrimes sem nenhum equipamento apropriado. Escalar paredes muito lisas ou muito íngremes pode ser considerado um Tes...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-39",
+      "name": "Daemon Medieval",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        39
+      ],
+      "page": 39,
+      "summary": "Daemon Medieval 39 São diversos os Subgrupos de Manipulação, variando entre técnicas sutis e violentas. Quando o alvo da Perícia não deseja revelar a verdade ele pode fazer um Teste Resistido entre a Manipulação e sua WILL. Empatia (CAR): O Personagem compreende e é capaz de sentir as emoções de outras pessoas, estando apto a reagir prontamente a elas. Esta...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-40",
+      "name": "Capítulo 7 – Perícias",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "Capítulo 7 – Perícias 40 Este grupo de Perícias permite ao Personagem sair-se bem no mundo das finanças e evita que faça maus negócios – seja no momento de pechinchar um preço melhor quando compra uma mercadoria, seja para evitar que seu negócio vá à falência. Barganha (CAR/Manha): Também chamado de “pechincha”, a habilidade de conseguir alguma coisa por um...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-lista-de-pericias-11",
+      "name": "Lista de Perícias",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "Lista de Perícias A lista abaixo contém as principais perícias encontráveis nos principais cenários que seu grupo possa jogar. Contudo, a lista de possibilidades é infinita. Perícias como Maquiagem, Hotelaria, Forja, Análise de Inteligência, Contabilidade – tudo isso é possível, e muito mais. Você pode adicionar ou adaptar perícias ao jogo que quiserem jogar...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-como-as-hordas-funcionam-57",
+      "name": "COMO AS HORDAS FUNCIONAM",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        57
+      ],
+      "page": 57,
+      "summary": "COMO AS HORDAS FUNCIONAM As Hordas são personagens diferentes. Ao invés de apenas UM personagem, o jogador que escolher jogar com as Hordas controlara um pequeno grupo de demônios menores (2+1 d2), que aumentarão conforme o personagem for desenvolvendo. Cada demônio das Hordas começa o jogo com 50 pontos de Atributos (mínimo 3 e Maximo 12 em cada) e 50 ponto...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-pericia-cels-31",
+      "name": "PERICIA: CELS",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        31
+      ],
+      "page": 31,
+      "summary": "PERICIA: CELS Cels é a deusa etrusca da Terra, a força que faz com que os grãos cresçam até o alto. Sua energia mística conecta a Terra, o Underworld, Asteris (como os estudiosos de Cels chamam a cidade paradisiana Olympus), o Reino do Sul da Nova Arcádia e o Reino de Luna (como chamam o plano de Spiritum). A energia mística Cels chega a tocar o próprio Sol...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-arezzo-32",
+      "name": "AREZZO",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "AREZZO Região: Toscana Capital: Arezzo Área: 3.235 km² População Total: 323.288 hab. Densidade: 100 hab/km² Comunas: 39 Website: www.provincia.arezzo.it História A antiga Arezzo, situada na parte nordeste da Etrúria, nas colinas do Vale Clanis, e mantida por muitas fontes históricas como umas das 12 grandes cidades conhecidas como Lucumonie, foi considerada...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "evolucao-alternativa--evolucao-alternativa-atributo-base-11",
+      "name": "ATRIBUTO BASE",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "evolucao-alternativa",
+      "sourceTitle": "Evolução Alternativa",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50 55 60 65 70 45 40 45 50 55 60 65 70 75 IDADE 50 45 50 55 60 65 70 75 80 Custo em Pontos de Treino de...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "evolucao-alternativa--evolucao-alternativa-investindo-os-pontos-de-treino-10",
+      "name": "INVESTINDO OS PONTOS DE TREINO",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "evolucao-alternativa",
+      "sourceTitle": "Evolução Alternativa",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "INVESTINDO OS PONTOS DE TREINO Através do acumulo de pontos de treino é possível aprimorar as características do personagem. Para tal desenvolvi um sistema de custo diferenciado que se baseia no cruzamento do potencial de aprendizado do personagem e em sua aptidão básica. O potencial de aprendizagem do personagem é baseado em sua idade (coluna vertical), qua...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "fusd-r6--fusd-r6-arkanun-trevas-maytreia-1",
+      "name": "Arkanun / Trevas / Maytréia",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "fusd-r6",
+      "sourceTitle": "FUSD-R6",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Ficha Universal p/ S. Daemon – by Azharrel Arkanun / Trevas / Maytréia Jogador: ......................................................................................... Personagem: .......................................... Nome do personagem: ................................................................. Idade aparente: ........... Idade real: ...........",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "frankenstein--frankenstein-extra-na-rodada-6",
+      "name": "extra na rodada.",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "frankenstein",
+      "sourceTitle": "Frankenstein",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "extra na rodada. Resistência à Dor Este poder confere ao golem que o possuir uma fantástica tolerância a danos de qualquer origem, aumentando se Índice de Proteção (IP) em um ponto para cada nível de Poder gasto com Resistência à Dor, porém, sem acarretar penalidades nos Atributos Destreza ou Agilidade, como acontece com armaduras. Corpus Corpus é um conjunt...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gdac-light--gdac-light-tanna-toh-4",
+      "name": "Tanna - Toh",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "gdac-light",
+      "sourceTitle": "GdAC - Light",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Tanna - Toh Elemento: Luz PMs: 2 A Deusa do Conhecimento revela os atributos básicos (os oito atributos, PVs, IP, etc.) de um único alvo, que tem direito a um teste de WILL para negar o efeito. Marah Elemento: Luz PMs: 5 A Deusa da Paz oferece IP+4 e imuni- dade total contra magias e efeitos prejudici- ais (exceto aqueles que causam dano) até o final do comb...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gerador-de-criaturas--gerador-de-criaturas-elementos-secundarios-72",
+      "name": "ELEMENTOS SECUNDÁRIOS",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "gerador-de-criaturas",
+      "sourceTitle": "Gerador de criaturas",
+      "pages": [
+        [
+          72,
+          78
+        ]
+      ],
+      "page": null,
+      "summary": "72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o manto de sombras tem área igual ao atributo base x5 em metros, os alvos dentro dessa área recebem um...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-quinametzin-huetlacame-19",
+      "name": "QUINAMETZIN HUETLACAME",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "QUINAMETZIN HUETLACAME “Homens Grandes e Deformados” História Os Quinametzin são Gigantes que viviam na América central no período do Terceiro Sol, e vieram de Arkanun em grande número. Arrogantes, eram muito odiados pelos povos Nahuals(quase todos os povos da Mesoamérica, humanos), e foram enfrentados diversas vezes por estes povos. Quetzacoatl, Tlaloc e os...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-extras-de-personagem-80",
+      "name": "extras de personagem.",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          80,
+          82
+        ]
+      ],
+      "page": null,
+      "summary": "extras de personagem. Um Salva-Vidas jamais deve deixar de socorrer uma vítima, não importando quaisquer diferenças pessoais, religiosas ou étnicas. O Salva- Vidas deve tentar todos os meios possíveis para cumprir sua missão, arriscados ou não. Este é o mandamento principal de todos os grupos de resgate existentes em Arton, e são seguidos rigorosamente por t...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-caracteristicas-tauricas-43",
+      "name": "Características Táuricas",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "sourceTitle": "Guia-dos-dragoes-1-biblioteca-elfica",
+      "pages": [
+        [
+          43,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "Características Táuricas Todos os tauros compartilham de algumas características em comum, que também são comparti0lhadas pelos centauros. Tauros recebem +2 de FR para qualquer tarefa envolvendo sua metade inferior do corpo, incluindo ataque com as patas. Tauros podem atacar com as patas, utilizando uma Perícia Nova adequada (Patas DEX/DEX ou Coice DEX/0). O...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-eletronica-o-55",
+      "name": "ELETRÔNICA (O)",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          55,
+          58
+        ]
+      ],
+      "page": null,
+      "summary": "ELETRÔNICA (O) o Personagem sabe consertar aparelhos eletrônicos, como telefones, computadores, eletrodomésticos e quaisquer máquinas que fUl1cjonem com circuitos complexos. Para máquinas mais simples, como calTOS e armas, usa-se a pelí- da Mecânica. Eletrônica não exige especialização em um subgrupo especifico. A perícia Eletrônica permite concertar circuit...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-nivelj-78",
+      "name": "NÍVELJ",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          78,
+          79
+        ]
+      ],
+      "page": null,
+      "summary": "NÍVELJ PÂNICO: Permite ao imortal infligir um medo tão profundo em sua vítima que ela não conseguirá realizar ne- nhuma ação a não ser fugir. 3 pontos de Ressonância. AURA DE MEDO: O Personagem será sempre evi- tado por outros, ao sentar em um ônibus ninguém irá sentar do seu lado, se for a uma reunião social ninguém irá se apro- ximar. Está sempre atiV3. NÍ...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-tera-que-se-esforcar-mais-8",
+      "name": "TERÁ QUE SE ESFORÇAR MAIS,",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "TERÁ QUE SE ESFORÇAR MAIS, SE QUISER SOBREVIVER. CHEGA DE BRINCADEIRAS! PENA QUE NÁO VIVERÁ O SUFICIENTE PARA SER PUNIDO POR SEU MESTRE~. _____ ~",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-genialidade-62",
+      "name": "GENIALIDADE",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        62
+      ],
+      "page": 62,
+      "summary": "GENIALIDADE J PONTOS: Algumas pessoas nascem com uma in- teligência privilegiada e são capazes de compreender assun- tos com o qual tenham tido cantata por livros, experiência ou mesmo observando e analisando alguns eventos. Todos os testes de inteligência considerados difíceis (perícias liga- da a INT também são beneficiadas) devem ser tratados como testes...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-parte-vi-49",
+      "name": "Parte VI",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        [
+          49,
+          54
+        ]
+      ],
+      "page": null,
+      "summary": "Parte VI A Imortalidade “I am immortal, I have inside of me blood of kings, I have no rival, no man can be my equal” - Queen, Princes of the Universe Ao se jogar com um Personagem que atravessa os séculos, é preciso muito preparo tanto por parte do Mestre como do Jogador. Personagens cientes de sua mortalidade agem com um certo comportamento, por saberem que...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha-2--imortal-a-centelha-2-ideias-sobre-a-36",
+      "name": "IDEIAS sobre a",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "imortal-a-centelha-2",
+      "sourceTitle": "Imortal-a centelha",
+      "pages": [
+        [
+          36,
+          38
+        ]
+      ],
+      "page": null,
+      "summary": "IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE “I am immortal, I have inside of me blood of kings, I have no rival, no man can be my equal” - Queen, Princes of the Universe Ao se jogar com um Personagem que atravessa os séculos, é preciso muito preparo tanto por part...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha-2--imortal-a-centelha-2-dos-seres-sobrenaturais-e-distorcido-23",
+      "name": "dos seres sobrenaturais é distorcido.",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "imortal-a-centelha-2",
+      "sourceTitle": "Imortal-a centelha",
+      "pages": [
+        23
+      ],
+      "page": 23,
+      "summary": "dos seres sobrenaturais é distorcido. -1 ponto: o Imortal possui valores de até 1 século antes do tempo da campanha. Para atualizar uma Perícia à época da campanha, é necessário gastar o triplo dos pontos de Perícia. -2 pontos: o Imortal possui valores de uma época entre 2 e 4 séculos antes do tempo da campanha. Para atualizar uma Perícia à época da campanha...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-matematica-de-jogo-21",
+      "name": "MATEMÁTICA DE JOGO",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "kidous-arte-das-trevas",
+      "sourceTitle": "Kidous - Arte das Trevas",
+      "pages": [
+        [
+          21,
+          24
+        ]
+      ],
+      "page": null,
+      "summary": "21 MATEMÁTICA DE JOGO Recitação e iniciativa Em termos de regras, a recitação invocadora de um kidou implica um redutor de 10 pontos na iniciativa do artífice, caso opte por pular a recitação da técnica, o artífice não terá redutor algum na iniciativa, porem fará o teste com um redutor de 20% em sua perícia “kidou”. Invocando um bakudou Fora de combate, um a...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-ataques-multiplos-9",
+      "name": "ATAQUES MÚLTIPLOS",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "mortal-kombat",
+      "sourceTitle": "MORTAL KOMBAT",
+      "pages": [
+        9
+      ],
+      "page": 9,
+      "summary": "9 ATAQUES MÚLTIPLOS O personagem é capaz de desferir uma seqüência rápida de golpes, seja com as mãos, seja com os pés. Não se tratam de ataques extras, mas sim de um conjunto de golpes menores, fei- tos com incrível rapidez. Para acertar cada ataque, o persona- gem ainda precisa ser bem sucedido em um Teste de Perícia cor- respondente (Briga, Artes Marciais...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-disparo-de-energia-10",
+      "name": "DISPARO DE ENERGIA",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "mortal-kombat",
+      "sourceTitle": "MORTAL KOMBAT",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "1 0 DISPARO DE ENERGIA É a habilidade para direcionar os projéteis energéticos dis- parados por um kombatente. Um sucesso no Teste desta Perí- cia indica que o disparo atingiu o alvo visado. Assim como uma Arma de Fogo, esta perícia exige que o valor de ataque seja pago em dobro, uma vez que também não possui valor de defe- sa (será SEMPRE igual a zero) Assi...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manobras-de-combate--manobras-de-combate-manobras-para-impressionar-5",
+      "name": "MANOBRAS PARA IMPRESSIONAR",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "manobras-de-combate",
+      "sourceTitle": "Manobras de Combate",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "MANOBRAS PARA IMPRESSIONAR [ 25 pontos ] [ Requer Destreza 14 ] O Personagem pode realizar efeitos e movimentos com uma arma, visando chamar a atenção ou distrair uma ou mais pessoas. O Jogador descreve a ação que o Personagem deseja fazer e realiza um teste NORMAL da perícia de ataque. Se for um sucesso ocorrerá como descrito, em caso de falha crítica o Per...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manual-de-converscao--manual-de-converscao-custo-padrao-17",
+      "name": "Custo: Padrão",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "manual-de-converscao",
+      "sourceTitle": "Manual de Conversção",
+      "pages": [
+        [
+          17,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "Custo: Padrão Alcance: Apenas ao toque Tudo se torna mais fácil com os deuses (ou pelo menos um deles) do seu lado. Ao realizar esta magia, o clérigo pede ao(s) seu(s) deus(es) para ajudarem o alvo em sua próxima tarefa. O alvo recebe um bônus de +1 no próximo teste que fizer, seja ele um ataque, perícia, teste de resistência, etc. Esta magia NÃO é cumulativ...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manual-de-converscao--manual-de-converscao-novas-pericias-5",
+      "name": "Novas Perícias",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "manual-de-converscao",
+      "sourceTitle": "Manual de Conversção",
+      "pages": [
+        [
+          5,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Novas Perícias Animais Empatia com Animais (Car): É como empatia, mas funciona com animais ao invés de humanóides Esportes Escalar (Agi): Serve para subir em montanhas, árvores e muros Artes Imitar (Int) : Capacidade de imitar sotaques, pessoas, sons e vozes. Arremesso (Dex): Esta perícia permite ao presonagem arremessar objetos em geral. É também valor inic...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manual-de-converscao--manual-de-converscao-2-pericias-3",
+      "name": "2-) Perícias",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "manual-de-converscao",
+      "sourceTitle": "Manual de Conversção",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "2-) Perícias Terminadas as correções nos atributos, podemos calcular as perícias das personagens: Em D20, para testar uma perícia, rola-se 1d20 + Bônus de perícia e compara-se com o Nível de Dificuldade pré estabelecido. Essa dificuldade varia geralmente entre 10 (quando está tudo ao seu favor) até 40 (quase impossível). O padrão é 20. Note que quando está t...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-6",
+      "name": "FACILIDADE, LAMIA (279-288)",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          279,
+          288
+        ]
+      ],
+      "page": null,
+      "summary": "- 273 - teste de CON Difícil. Caso tenha sucesso, o personagem não adquire a doença sobrenatural. Caso falhe, a criatura perderá 1 ponto de atributo físico por mês. Após o primeiro teste, o personagem pode ainda fazer testes de CON Difícil à cada mês subsequente para não perder um ponto de atributo. O teste ainda deve ser feito no mês seguinte. Conta-se que...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-marte-no-eon-15",
+      "name": "MARTE NO ÉON",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas_de_Marte",
+      "pages": [
+        [
+          15,
+          19
+        ]
+      ],
+      "page": null,
+      "summary": "MARTE NO ÉON AMAZONIANO Marte é menor e menos denso que a Terra, com um raio médio de 3.390km. Sua área de superfície é de 141,7 milhões de km2, mais ou menos 28% da área da superfície terrestre; porém, como grande parte da Terra é coberta por água, a área de Marte é apenas um pouco menor que a terra seca na Terra. A densidade de Marte é 0,715 vezes a da Ter...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-los-na-vi-10",
+      "name": "LOS NA VI",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "q -* a, = LOS NA VI Medindo quase 3 metros de altura, com caudas, ossos naturalmente reforçados com fibra de carbono e pelo ui - bioluminescente, os Na'vi vivem em harmonia com a pi os natureza e são considerados primitivos pelos humanos. Eles veneram uma deusa chamada Eywa. . - OSS e Modificadores de Atributos. FR+3, CON +8,AGI +3, PER +3 E Habilidades de R...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-linha-de-corte-7",
+      "name": "LINHA DE CORTE",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        [
+          7,
+          23
+        ]
+      ],
+      "page": null,
+      "summary": "LINHA DE CORTE MARGEM NEW FRONTIERSMAN NEW FRONTIERSMAN 5 teoria de Rorchach. As pistas os levam a investigar uma empresa, a Entregas Pirâmide, mas antes eles decidem falar com Veidt em sua empresa mas a encontram vazia. Coruja decide investigar nos computadores de Veidt e descobre que ele é o dono da Entregas Pirâmide. Eles se dirigem ao refúgio de Veidt, K...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armasbrancas--armasbrancas-armas-brancas-1",
+      "name": "Armas Brancas",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "armasbrancas",
+      "sourceTitle": "armasbrancas",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Armas Brancas: Manual de Instruções A perícia de Armas Brancas deve ser tratada da seguinte maneira: ataque/defesa. Armas Brancas 1. Espadas (DEX/DEX) 2. Facas (DEX/DEX) 3. Adagas (DEX/DEX) 4. Punhais (DEX/DEX) 5. Manguais (DEX/DEX) 6. Martelos (DEX/DEX) 7. Machados (DEX/DEX) 8. Maças (DEX/DEX) 9. Lanças (DEX/DEX) PRA’s O que vem a ser PRA? PRA (Pontos de Re...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ciganos--ciganos-ciganos-1",
+      "name": "CIGANOS",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "ciganos",
+      "sourceTitle": "ciganos",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "1 CIGANOS Eduardo Cardoso “Ed” 2 CIGANOS Algo que logo se liga os ciganos é ao nomadismo, esta mo- bilidade ininterrupta deles é também uma fuga à padronização que está sujeito o homem e a segurança de nunca se perder os traços de sua cultura, e é essencialmente de sua cultura e cos- tumes que trata esse Netbook. Os ciganos originaram-se de uma casta inferio...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-pacto-8",
+      "name": "PACTO",
+      "area": "atributos_pericias",
+      "category": "creature_npc",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        [
+          8,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "8 PACTO 1 ponto: Pactos com entidades muito poderosas podem ser uma ótima fonte de poder, se você estiver disposto a pagar o preço. Demônios de Infernun precisam sempre de energia místi- ca para se manterem vivos na Terra. Alguns magos oferecem parte de sua energia (pontos de Atributos, pontos de Magia, pontos de Perícia, sua alma, etc.) em troca de riquezas...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "creature_npc"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-valor-inicial-6",
+      "name": "VALOR INICIAL",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "6 VALOR INICIAL O nome de algumas perícias ou subgrupos pode vir segui- do de um Atributo básico (CON, FR, DEX, AGI, INT, WILL, CAR ou PER). O personagem começa com um calor inicial igual ao do Atributo correspondente nessas perícias e não precisa pagar pontos de perícia para ser capaz de usá-las. Sempre que uma Perícia tiver subgrupos, o personagem deve obr...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-introducao-3",
+      "name": "INTRODUÇÃO",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "3 INTRODUÇÃO Conan, o Bárbaro, é um herói inigualável. Concebido origi- nalmente em 1932 pelo escritor Robert Ervin Howard (isso mes- mo, Conan foi escrito ANTES do Senhor dos Anéis), o bárbaro deixou os ensaios literários para ganhar, anos mais tarde, um espaço entre os super-heróis dos quadrinhos. Howard já havia escrito história sobre heróis fantásticos,...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "deform--deform-agua-6",
+      "name": "ÁGUA",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "deform",
+      "sourceTitle": "deform",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "6 ÁGUA 1-2 Cabeça 1- Os cabelos crescem assustadoramente, chegando até quase a cintura. São pretos ou escuros, com tons azulados. Quando o Mago se move, ou quando o vento sopra com força suficiente para movê-los, os cabelos parecem formar ondas. 2- Os cabelos parecem estar sempre molhados, não importa quanto o Mago enxugue. 3- O Mago freqüentemente sente-se...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "desentsu--desentsu-desentsu-senshi-1-2",
+      "name": "Desentsu Senshi (11-20)",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "desentsu",
+      "sourceTitle": "desentsu",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "Desentsu Senshi Capitulo 3: As Habilidades “... na dissimulação do combate, um chefe que é capaz deve fingir ser incapaz; se está pronto, deve fingir-se despreparado; se estiver perto do inimigo deve parecer estar longe......” Sun Tzu Para que se encaixem na regra de uma maneira mais fácil, as perícias marciais seram divididas em 6 tipos: soco, chute, queda,...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "desentsu--desentsu-desentsu-senshi-1-3",
+      "name": "Desentsu Senshi (21-30)",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "desentsu",
+      "sourceTitle": "desentsu",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "page": null,
+      "summary": "Desentsu Senshi 1 ponto –Aumento de cadencia : ROF +1 1 ponto_ Aumento de pente :mais 5 balas no pente 2 Pontos – Dano aprimorado :+1 no dano 1 ponto – Arma sagrada :+1 no dano contra um tipo de criatura 1 ponto – Alcance aprimorado :mais 10m na distancia 1ponto-Mira laser: +5% na perícia da Arma de fogo (só pode ser comprada uma vez por arma). 2 pontos-Sagr...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gaki--gaki-novas-regras-7",
+      "name": "Novas Regras",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "gaki",
+      "sourceTitle": "gaki",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Novas Regras Esta seção apresenta novas opções mecânicas como Aprimora- mentos, Perícias, Manobras de Combate, Poderes e Fraquezas. À critério do Mestre, parte das regras aqui apresentadas pode ser utilizada em outros jogos de temática oriental. Algumas dessas opções foram retiradas e/ou adaptadas de outras publicações como o livro Spiritum, o Reino dos Mort...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gaki--gaki-gaki-14",
+      "name": "Gaki",
+      "area": "atributos_pericias",
+      "category": "attribute_skill",
+      "source": "gaki",
+      "sourceTitle": "gaki",
+      "pages": [
+        14
+      ],
+      "page": 14,
+      "summary": "Gaki Nome_______________________________________________________________Data de Cria÷‘o_____________ Ðrea de Atua÷‘o_________________________________________________Altura_________Peso_________ Local de ResidŸncia______________________________________________Idade: Aparente ( ) Real ( ) Atributo Original Modif. Atual Teste (%) Constitui÷‘o (CON)_____________...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-camuflagem-per-8",
+      "name": "CAMUFLAGEM (PER)",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        [
+          8,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "CAMUFLAGEM (PER) Com esta Perícia um Personagem é capaz de esconder-se ou esconder uma outra criatura ou objeto em ambientes naturais, como florestas e campos. A Camuflagem geralmente é usada em um Teste Resistido contra a PER ou a Perícia Escutar de um outro Personagem. Utilize esta situação sempre que ele estiver sendo procurado. Geralmente a Perícia Camuf...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-esportes-11",
+      "name": "ESPORTES*",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "ESPORTES* Existem vários tipos de Esportes que podem ser selecionados pelo Personagem. A seguir existem alguns exemplos. Acrobacia (AGI): Dá ao Personagem a habilidade de equilibrar-se em pequenas superfícies, andar sobre cordas, fazer malabarismo e coisas do tipo. Assim como Esquiva, a Acrobacia pode ser usada como uma forma de Defesa em um combate, pois o...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-mecanica-dex-14",
+      "name": "MECÂNICA (DEX)",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "MECÂNICA (DEX) Esta Perícia dá ao Personagem a habilidade de trabalhar com vários tipos de maquinarias. O tipo de maquinaria vai depender da época e do cenário. Em um cenário de Ficção Científica a Perícia Mecânica pode ser usada para consertar e detectar pequenos defeitos em veículos automotores, enquanto na Fantasia Medieval pode ser usada para trabalhar c...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-pericia-valor-inicial-4",
+      "name": "PERÍCIA* (VALOR INICIAL)",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        [
+          4,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "PERÍCIA* (VALOR INICIAL) Descrição da Perícia. Subgrupo (Valor inicial): Descrição de cada subgrupo. Outros Subgrupos Possíveis: Se houverem outros subgrupos, estes estarão descritos. Observação: O símbolo * só aparecerá quando a Perícia tiver Subgrupos. Neste caso o Jogador deve escolher UM dos Subgrupos correspondentes. Cada Subgrupo é considerado uma Perí...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-lista-de-pericias-16",
+      "name": "Lista de Perícias",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Lista de Perícias 4 Animais* 10 Escudo (DEX) 4 Tratamento de Animais (Primeiros Socorros) 10 Escutar (PER) 4 Treinamento de Animais (0) 10 Esquiva (AGI) 4 Montaria* (AGI) 11 Esportes* 4 Doma (0) 11 Acrobacia (AGI) 4 Veterinária (0) 11 Arremesso (DEX) 4 Armadilhas (INT) 11 Escalada (FR) 4 Armas Brancas* (DEX/DEX) 11 Natação (AGI) 5 Armas Brancas de Longo Alca...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-de-fe-02--poderes-de-fe-02-arremessar-6",
+      "name": "arremessar",
+      "area": "atributos_pericias",
+      "category": "item_equipment",
+      "source": "poderes-de-fe-02",
+      "sourceTitle": "poderes de fe 02",
+      "pages": [
+        [
+          6,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "arremessar uma arma que esteja empunhando a até 5 metros de distância e fazer ela retornar às suas mãos, ao gasto de 1 Ponto de Fé. Distâncias maiores podem ser alcançadas mediante o gasto de mais Pontos de Fé. Para acertar seu alvo, o personagem deve fazer um teste da perícia com a arma correspondente. Clérigos de Tauron consideram o uso deste poder como um...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-luci-13",
+      "name": "Luci",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        13
+      ],
+      "page": 13,
+      "summary": "Luci Guerreira Mágica de 1º Nível. FR 15, CON 12, DEX 14, AGI 16, INT 12, WILL 14, PER 13, CAR 15. PVS 15 + 3. Att [1] Espadas 40/30 Briga (kendo) 40/50 Dano: 1d3+1 por soco, IP 0 Tema: Fogo Poderes: Flecha de fogo (3d6 de dano) Principais Perícias: Veterinária 20%, Empatia com animais 30%, biologia 30%. NPCs (estes exemplos são do dia em que as guerreiras m...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-zagart-14",
+      "name": "Zagart",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        14
+      ],
+      "page": 14,
+      "summary": "Zagart Cavaleiro de 30º Nível. FR 30, CON 25, DEX 17, AGI 14, INT 20, WILL 15, PER 11, CAR 8 PVS 58 + 120 Att [3] Espadas (x3) 120/100 Dano 3d6+8 IP 10 (armadura mágica) Poderes: Desconhecidos Perícias: Varias de intimidação e manipulação. Princesa Esmeralda Pilar de 13º Nível FR 8, CON 8, DEX 10, AGI 12, INT 27, WILL 24, PER 14, CAR 20 PVS 21 + 13 Att [1] 1...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rocknrt--rocknrt-3-shows-14",
+      "name": "3. Shows.",
+      "area": "atributos_pericias",
+      "category": "ritual_spell",
+      "source": "rocknrt",
+      "sourceTitle": "rocknrt",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "page": null,
+      "summary": "3. Shows. Para determinar o quanto um show foi bom, lá vai mais uma formula: 1o passo. Some as pontuações musicais das músicas apresentadas e divida pelo número de músicas apresentadas. Some as perícias dos músicos (canto+guitarra+,...) e divida pelo número de músicos participantes. 2o passo. Teste o CAR dos 3 (ou 2, ou 1) integrantes do grupo que tenham mai...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "ritual_spell"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "secundarios--secundarios-sobrenaturais-deve-adicionar-no-ritual-13",
+      "name": "sobrenaturais,deve adicionar no ritual",
+      "area": "atributos_pericias",
+      "category": "combat",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "sobrenaturais,deve adicionar no ritual materiais específicos(se quiser,tiros com balas de prata,terá que colocar prata em pó junto com a pólvora;se quiser tiros com balas de hadjar,deve colocar hadjar em pó,e assim em diante...).O ritual dura 3d6 rodadas,ou até a “munição”acabar.O mago deve possuir a perícia da arma simulada,e irá testar seus tiros com a per...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "steampunk--steampunk-alquimia-quimica-3",
+      "name": "*ALQUIMIA-QUÍMICA",
+      "area": "atributos_pericias",
+      "category": "core_rule",
+      "source": "steampunk",
+      "sourceTitle": "steampunk",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "*ALQUIMIA-QUÍMICA UM TÓPICO INTERESSANTE É O DE FRASCOS ARREMESSÁVEIS DE ÁCIDO (ARTIFICIAL), ESPIRRADORES DE ÓLEO INFLAMÁVEL, VENENOS OU QUALQUER OUTRA SUBSTÂNCIA NOCIVA QUE PODE SER CONSTRUÍDA EM LABORATÓRIO. OS DANOS SÃO OS MAIS VARIÁVEIS POSSÍVEIS. ESTAS SUBSTÂNCIAS PODEM SER FABRICADAS COM AS PERÍCIAS ALQUIMIA E/OU ENGENHARIA QUÍMICA. A DIFICULDADE DO TE...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "steampunk--steampunk-golens-seres-artificiais-6",
+      "name": "*GOLENS (SERES ARTIFICIAIS)",
+      "area": "atributos_pericias",
+      "category": "power_magic",
+      "source": "steampunk",
+      "sourceTitle": "steampunk",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "*GOLENS (SERES ARTIFICIAIS) COMO MUNDOS STEANPUNK COMPORTAM ELEMENTOS COMO MECHAS A VAPOR E OUTROS ARTEFATOS DE GRANDE NÍVEL TECNOLÓGICO, NÃO É DE SE ESPERAR QUE HAJAM GOLENS, OU SERES CRIADOS ARTIFICIALMENTE. O MOTIVO É VARIADO:DESDE TRABALHO PESADO ATÉ SEGURANÇAS PESSOAIS. PARA SE CONSTRUIR UM GOLEM DEVE-SE USAR A PERÍCIA ENGENHARIA MECÂNICA,E PARA CONCERT...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "grimark201",
+  "title": "grimark201",
+  "status": "full-read-auto-pass-1",
+  "pages": 20,
+  "primaryCategories": [
+    "ritual_spell",
+    "creature_npc",
+    "power_magic",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "grimark201-grimorio-1",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          20
+        ]
+      ],
+      "summary": "1 Grimório de Arkanun Versão 2.01 2 O Guia de Magias de Arkanun Saudações Este é um grande projeto iniciado pela Daemon Edito- ra, com o objetivo de reunir todas as Magias e Rituais co- nhecidos, criados ou pesquisados pelos Mestres e Jogado- res de ARKANUN e TREVAS, como um grande Grimório. Com a Idéia do Grimório de Arton, muitos Mestres de Arkanun escreve...",
+      "entityRefs": []
+    }
+  ]
+}

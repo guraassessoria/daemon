@@ -1,0 +1,255 @@
+{
+  "source": "ark-a-nun-arquivos-de-bel-kalaa",
+  "title": "Ark-a-nun - Arquivos de Bel-Kalaa",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 160,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          6
+        ]
+      ],
+      "summary": "1 2 Por Lord Maihelkash Agradecimentos: -Ao Marcelo Del Debbio, por criar o sistema Daemon. -Ao Leishmaniose,que me aturou e me ajudou durante grande parte do desenvolvimento deste net. -Ao Lammazus, que apesar de não estar presente no fórum, colaborou com grande parte deste projeto. -Ao Lobo por ler o bestiário criatura por criatura e encontrar erros que pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-adicionando-pericias-7",
+      "name": "ADICIONANDO PERÍCIAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "7 ADICIONANDO PERÍCIAS Esta lista, apesar de extensa, não cobre de maneira nenhuma todas as possíveis profissões que uma pessoa poderia aprender.Sinta-se à vontade para desenvolver suas próprias perícias,adicionando-as à lista da página ao lado. Apenas tome cuidado quando colocar a nova perícia (ou uma das perícias desta lista) na ficha de seu personagem par...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-1",
+      "name": "CON[6D+26],FR[6D+30],DEX[0],AGI[3],INT[2],WILL[4],PER[1D+1],CAR[0]. (11-20)",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 dentes e sim,um bico córneo, usado para triturar as duras raízes das quais alimenta-se.Colocam em média de 6 a 9 ovos de 1,50m de comprimento,enterrados em covas profundas.A postura ocorre nas épocas em que o sol brilha mais intensamente nos céus de Ark-a-nun.Os Šaliamahu são criaturas solitárias,somente é possível encontrar dois animais destes juntos nas...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-2",
+      "name": "CON[6D+26],FR[6D+30],DEX[0],AGI[3],INT[2],WILL[4],PER[1D+1],CAR[0]. (21-30)",
+      "category": "combat",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 O que chama a atenção nessas criaturas é que em seu interior existem apenas três tipos de órgãos, um aparelho respiratório que filtra o monóxido de carbono do ar, um aparelho reprodutor e uma cavidade onde é armazenado o silício de que precisam para sobreviver, dentro desta cavidade,o silício sofre diversos processos alquímicos transformando-se em energia...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-0-fr-0-dex-0-agi-0-int-6d-2-will-4d-car-2d-3-per-4d-4-31",
+      "name": "CON[0],FR[0],DEX[0],AGI[0],INT[6D+2],WILL[4D],CAR[2D+3],PER[4D+4].",
+      "category": "combat",
+      "pages": [
+        [
+          31,
+          38
+        ]
+      ],
+      "summary": "31 CON[0],FR[0],DEX[0],AGI[0],INT[6D+2],WILL[4D],CAR[2D+3],PER[4D+4]. Pvs:12-15,IP:3 #Ataques:2 Pancada:40% 1D6+bônus de força Mordida:20% 1D4+bônus de força Habilidades naturais: Sensores Sísmicos, Jato de Areia. Sensores Sísmicos: Esses arkanos são capazes de captar vibrações num raio de 2km, quandoe stão enterrados nas areias dos desertos arkanitas. Jato...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-1",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (39-48)",
+      "category": "combat",
+      "pages": [
+        [
+          39,
+          48
+        ]
+      ],
+      "summary": "39 maneira horizontal sobre ele.Não possuem dentes e sim um bico córneo no lugar de seu maxilar superior e dois menores no lugar do inferior.Durante um ataque podem ficar invisíveis nas sombras, movimentando-se de maneira sorrateira utilizando o tecido sombrio como camuflagem e, desferindo um ataque surpresa e fulminante contra suas vítimas.Estes seres são f...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-2",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (49-58)",
+      "category": "power_magic",
+      "pages": [
+        [
+          49,
+          58
+        ]
+      ],
+      "summary": "49 Algumas ordens em atividade no plano de Ark-a-nun A Irmandade Bel-Kalaa Fundação: Ark-a-nun. Base: Terras de Didanu, Yanca. Atuação: Todo Ark-a-nun e uma pequena parte da Ásia. Personalidades: U-an duga, Odakon-Adapa Ubbar, E-me-duga, Aššur-uballit II(ultimo rei assírio), O Não Dito, En-me-galama, En-me- bulaga, An-Enlida, Utu-abzu. Background: Uma das po...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-3",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (59-68)",
+      "category": "combat",
+      "pages": [
+        [
+          59,
+          68
+        ]
+      ],
+      "summary": "59 pequenas. 6 pontos: braços/pernas e outros membros 4 dias 8 pontos: órgãos/partes do tronco 1 dia Centro nervoso (não pode ser comprado por Elfos negros e Dáctilos) 4 pontos: o arkanita possui um ponto vital escondido em alguma parte de seu corpo,a escolha do jogador, assim o personagem pode ter sua cabeça esmagada, por exemplo, e mesmo assim, continuar v...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-4",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (69-78)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          69,
+          78
+        ]
+      ],
+      "summary": "69 permanecer em um outro plano de existência.Nesta forma o Djin tem seus poderes reduzidos drasticamente estando sujeitos mais facilmente a captura por caçadores de Djins, dentre outros perigos.Se um Djin for preso ou atravessar os portais dimenssionais de outro plano, seus atributos decairão conforme a tabela abaixo. 0 ponto: o Djin Tem seus atributos físi...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-5",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (79-79)",
+      "category": "combat",
+      "pages": [
+        79
+      ],
+      "summary": "79 época.Para cada regente falecido, um novo andar era construido solo adentro, mas, em tempos atuais esses andares mais profundos foram isolados e lacrados, com todos os bens dos que ali jaziam, pois os descendentes dos antigos cavaram deveras profundamente e horrores terríveis começaram a ascender da escuridão.O mago Tlaloc, juntamente com sua esposa Chalc...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-1",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (80-89)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          80,
+          89
+        ]
+      ],
+      "summary": "80 suspensa, esperando essas águas para despertarem novamente.Em Dizzel, imensas rochas férricas ascendem do solo, estas rochas são garimpadas pelos arkanitas que aqui vivem e transformadas em ótimas armas, armaduras, esculturas e utensílios do dia-a-dia.Essas jazidas reluzentes tem composição diferente das existentes em outras regiões de Ark-a-nun, sua liga...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-2",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (90-99)",
+      "category": "power_magic",
+      "pages": [
+        [
+          90,
+          99
+        ]
+      ],
+      "summary": "90 manuscrito visando provar sua autenticidade.As cidades Yancis assemelham-se a feiras eternas, onde inúmeras barracas feitas de couro e madeira disputam lugar com construções de tijolos de terracota, obras simples e semelhantes umas as outras.Nesses locais é possível conseguir todo tipo de mercadoria.Muitos místicos procuram estas cidades atrás de ingredie...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-3",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (100-109)",
+      "category": "combat",
+      "pages": [
+        [
+          100,
+          109
+        ]
+      ],
+      "summary": "100 6o mandamento – Deves provocar dor a si mesmo, para sempre te lembrar da dor sentida por teu deus. O Obelisco Alvo O Obelisco Alvo é uma obra arquitetônica de 6m de comprimento, muito branco com detalhes negros espalhados de maneira desconexa sobre sua superfície, que foi encontrado durante algumas escavações as quais revelaram o templo da antiga catedra...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-4",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (110-119)",
+      "category": "race_lineage",
+      "pages": [
+        [
+          110,
+          119
+        ]
+      ],
+      "summary": "110 ficando a mostra apenas no momento em que esta monstruosidade ataca suas vítimas.Seu dorso é arqueado e suas pernas traseiras são fortes e, três caudas prênseis auxiliam-no na sustentação de seu corpanzil.O único grande predador de Falk, habita cavernas escuras e profundas, deixando estas apenas para alimentar-se. Nevascas ascendem do solo de tempos em t...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-5",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (120-129)",
+      "category": "combat",
+      "pages": [
+        [
+          120,
+          129
+        ]
+      ],
+      "summary": "120 região de Ashanti.O culto as divindades era diversificado, muitos líderes arkanitas transpassaram os portões dimensionais através do Céu Orum, formando seus próprios cultos, mas todos intimamente ligados a Olodumaré.Em 890 a.C. Os Malaks (habitantes de Meeca) que até então observavam, tomaram a região do Marrocos militarmente, mas a expansão fora interro...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-6",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (130-139)",
+      "category": "combat",
+      "pages": [
+        [
+          130,
+          139
+        ]
+      ],
+      "summary": "130 Fraquezas: Sanguinolencia, fala limitada, estritamente carnívoro, canibalismo, primitivismo, estritamente vegetariano, fanatismo (obrigatório), sadismo, reputação racial negativa (obrigatório), má impressão, vulnerabilidade, atributos 2D, dependência, visão monocromática, olhos brilhantes no escuro, somente em infravisão, daltonismo, hiperalgia (escolha...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-7",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (140-149)",
+      "category": "combat",
+      "pages": [
+        [
+          140,
+          149
+        ]
+      ],
+      "summary": "140 Menestrel Diferentes dos menestréis Svartalfar e suas canções malditas, estas criaturas pacíficas estão cada vez mais escassas, devido ao fraco número de aprendizes, que preferem dedicar-se a técnicas de luta ou a procura de alimento. A musica basicamente esta presente em todas as regiões de Ark-a-nun, se pode ouvi-la em galerias habitadas por Imps e seu...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-8",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (150-159)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          150,
+          159
+        ]
+      ],
+      "summary": "150 Alguns Que merecem destaque... Lamashtu A feiticeira Lamashtu habita as terras de Balkhor, nasceu em Ark-a-nun quando a inferniana Ninhursag deitou- se com O grande Juiz Anu, sendo presa em uma torre feita com tijolos negros, que estão fixos graças ao sangue de seus construtores que fora utilizado como embolso, por seu próprio pai após este perceber o qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-9",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (160-160)",
+      "category": "source",
+      "pages": [
+        160
+      ],
+      "summary": "160",
+      "entityRefs": []
+    }
+  ]
+}

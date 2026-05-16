@@ -1,0 +1,39 @@
+{
+  "source": "samurai-shodown-v-move-list",
+  "title": "Samurai Shodown V Move List",
+  "status": "full-read-auto-pass-1",
+  "pages": 41,
+  "primaryCategories": [
+    "kit_class",
+    "race_lineage",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "samurai-shodown-v-move-list-samurai-shodown-v-move-list-1",
+      "name": "Samurai Shodown V Move List",
+      "category": "kit_class",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Samurai Shodown V Move List: VERSION 1.00 -Created, Edited and Compiled by: Psychochronic of Shoryuken.com (Brettdude in Gamefaqs) Another form of Psychochronic Literature! ------------------------------------------------------------------------------ Last Update: May 2, 2006 ------------------------------------------------------------------------------ Note...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-v-move-list-the-rage-gauge-4",
+      "name": "[THE RAGE GAUGE]",
+      "category": "kit_class",
+      "pages": [
+        [
+          4,
+          41
+        ]
+      ],
+      "summary": "[THE RAGE GAUGE] The Rage Gauge rises as you take damage from attacks. When it hits MAX, you can use Knocking-on-the-Sword moves and try to turn things around with a single blow. [RAGE EXPLOSIONS] Activating the \"Rage Explosion\" enables the use of invincible attacks that knock back enemy attacks even as you take damage and the Sword Gauge shoots up to MAX. T...",
+      "entityRefs": []
+    }
+  ]
+}

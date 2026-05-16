@@ -1,0 +1,53 @@
+{
+  "source": "anjos-cacadores-alados",
+  "title": "Anjos cacadores-alados",
+  "status": "full-read-auto-pass-1",
+  "pages": 43,
+  "primaryCategories": [
+    "creature_npc",
+    "item_equipment",
+    "combat",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "anjos-cacadores-alados-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "item_equipment",
+      "pages": [
+        [
+          1,
+          22
+        ]
+      ],
+      "summary": "1 2 Caçadores Alados Caçadores Alados Caçadores Alados Caçadores Alados E-book de autoria dos usuários do Fórum Daemon, em especial: Hatalíbio “Dr. H” Almeida, Henrique “Morcego” Santos, Lord Maihelkash, Fire Dragon, Helix, Mikh e Alex Tadeu. 1ª Edição Daemon Editora/Fórum Daemon Email: henrique_morcego@hotmail.com hatalibio@hotmail.com Site: http://www.daem...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-cacadores-alados-hikarukendo-23",
+      "name": "HIKARUKENDO,",
+      "category": "combat",
+      "pages": [
+        [
+          23,
+          39
+        ]
+      ],
+      "summary": "23 HIKARUKENDO, Arte Marcial dos Senshidamashii Com as incursões catequizadoras dos portugueses no arquipélago japonês, a Cidade de Prata nomeou diversos anjos para protegerem a nação oriental e os fieis, que organizaram nas sombras como os Kakure Kirishitan (Cristãos Escondidos). Os Captares (chamados lá de Senshidamashii, “espíritos guerreiros”) foram, inc...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-cacadores-alados-goghiel-40",
+      "name": "GOGHIEL",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          40,
+          43
+        ]
+      ],
+      "summary": "40 GOGHIEL O Príncipe Elim Anjo Elim de 7.000 anos Escala Épica 2 CON 40 FR 46 DEX 60 AGI 60 INT 30 WILL 44 CAR 32 PER 50 Garras 100/0 1d6+19 Espada 150/120 1d10+2d6+25 Esquiva 100/0 #Ataques [14], IP 33, PVs 95+596 Principais Perícias: Briga 90/90, Esquiva 100%, Paradísia 90%, Spiritum 80%, Cárcere das Feras 40%, Terra 100%, Ark-a-Nun 80%, Infernun 70%, Ten...",
+      "entityRefs": []
+    }
+  ]
+}

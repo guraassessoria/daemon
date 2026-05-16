@@ -1,0 +1,106 @@
+{
+  "source": "gaki",
+  "title": "gaki",
+  "status": "full-read-auto-pass-1",
+  "pages": 14,
+  "primaryCategories": [
+    "creature_npc",
+    "kit_class",
+    "setting_lore",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "gaki-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "- 1 -",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-gaki-2",
+      "name": "Gaki",
+      "category": "race_lineage",
+      "pages": [
+        2
+      ],
+      "summary": "Gaki AGRADECIMENTOS - Ao Marcelo Del Debbio pelo Trevas e por liberar o Sistema Daemon. - Ao pessoal do Fórum que, às vezes mesmo sem saber, tiraram dúvidas imprescindíveis à conclusão deste netbook, principal- mente Leishmaniose e Lobo. - Ao Nvndaemon, Padre Judas e Murazor, camaradas que fiz durante minhas andanças pelo Fórum. - Mais uma vez ao Padre Judas...",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-introducao-3",
+      "name": "Introducao",
+      "category": "race_lineage",
+      "pages": [
+        3
+      ],
+      "summary": "Introducao “Antigos e originários da China, os Kiang-Shi vivem como mandarins, comandando dinastias e possuindo vastos impérios de ri- queza e poder. Deram origem aos grupos Gaki e Kapa, vampiros japoneses”. - Arkanun 3.5 “...Os gaki e kappa são relacionados com este grupo (Kiang-Shi) de alguma forma, apesar de suas nítidas relações com demo- nios (kappa) e...",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-gaki-4",
+      "name": "Gaki",
+      "category": "race_lineage",
+      "pages": [
+        [
+          4,
+          6
+        ]
+      ],
+      "summary": "Gaki ”Seres Insaciáveis” Muitas vezes confundidos e associados a seus correlatos chine- ses, os Kiang-Shi, os Gaki guardam tanto semelhanças visíveis quanto diferenças cruciais em relação a esse grupo. Mais que Kiang-Shi japoneses, os Gaki possuem suas próprias crenças a respeito de sua origem e maldição, assim como poderes e fra- quezas um tanto distintas....",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-novas-regras-7",
+      "name": "Novas Regras",
+      "category": "power_magic",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "Novas Regras Esta seção apresenta novas opções mecânicas como Aprimora- mentos, Perícias, Manobras de Combate, Poderes e Fraquezas. À critério do Mestre, parte das regras aqui apresentadas pode ser utilizada em outros jogos de temática oriental. Algumas dessas opções foram retiradas e/ou adaptadas de outras publicações como o livro Spiritum, o Reino dos Mort...",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-kits-9",
+      "name": "Kits",
+      "category": "item_equipment",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Kits Nesta seção serão apresentados novos Kits, que visam au- xiliar o processo de criação e composição de Personagens Gaki e, principalmente, de seus obcediados, uma vez que estes re- fletem diretamente os desejos do próprio morto faminto. Assim como no capítulo anterior, aqui vocês verão releituras de mate- riais já publicados, como Kits retirados do net-b...",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-a-yakuza-11",
+      "name": "A Yakuza",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "A Yakuza Separei um capítulo inteiro para tratar sobre a famigerada Ya- kuza (também conhecida como Gokudö), uma vez que este é um assunto extenso, ao qual simplesmente um kit no capítulo anterior não conseguiria retratar de maneira adequada. A maior e mais antiga organização criminosa de que se tem registro, os primeiros traços da chamada Yakuza podem ser r...",
+      "entityRefs": []
+    },
+    {
+      "id": "gaki-gaki-14",
+      "name": "Gaki",
+      "category": "attribute_skill",
+      "pages": [
+        14
+      ],
+      "summary": "Gaki Nome_______________________________________________________________Data de Cria÷‘o_____________ Ðrea de Atua÷‘o_________________________________________________Altura_________Peso_________ Local de ResidŸncia______________________________________________Idade: Aparente ( ) Real ( ) Atributo Original Modif. Atual Teste (%) Constitui÷‘o (CON)_____________...",
+      "entityRefs": []
+    }
+  ]
+}

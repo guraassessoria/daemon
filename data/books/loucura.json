@@ -1,0 +1,47 @@
+{
+  "source": "loucura",
+  "title": "Loucura",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "core_rule",
+    "item_equipment",
+    "ritual_spell",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "loucura-6lvwhpd-dhprq-1",
+      "name": "6LVWHPD\u0003'DHPRQ\u0003",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "/ /\u0003\u00032 2\u0003\u00038 8\u0003\u0003& &\u0003\u00038 8\u0003\u00035 5\u0003\u0003$ $\u0003\u0003 6LVWHPD\u0003'DHPRQ\u0003 \u0003 7LDJR\u0003|0XUD]RU}\u00030DUDVFKLQ\u0003",
+      "entityRefs": []
+    },
+    {
+      "id": "loucura-rxfxud-2",
+      "name": "/RXFXUD\u0003",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "/RXFXUD\u0003 “Loucura é necessária para alcançar os deuses. Sim, esta é a verdade. Poucos mortais a possuem...a chance de se afastar da sanidade. Caminhar nas selvas da insanidade...” — Neil Gaiman, Entes Queridos É surpreendente que até hoje o Sistema Daemon não tenha nenhuma regra que determine o enlouquecimento que um personagem possa vir a sofrer, por isso,...",
+      "entityRefs": []
+    },
+    {
+      "id": "loucura-6lwxd-hv-gh-rxfxud-4",
+      "name": "6LWXD¸ÆHV\u0003GH\u0003/RXFXUD\u0003",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "6LWXD¸ÆHV\u0003GH\u0003/RXFXUD\u0003 Existem várias situações que quando confrontadas podem exigir um Teste de Loucura. Cada situação tem uma dificuldade determinada pelo Mestre, podendo ser fácil (dobro do valor de teste), normal (o valor de teste) ou Difícil (metade do valor de teste), e algumas vezes até Crítico (um quarto do valor de Teste). ([HPSORV\u0003GH\u00036LWXD¸ÆHV \u0003 Vio...",
+      "entityRefs": []
+    }
+  ]
+}

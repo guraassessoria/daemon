@@ -1,0 +1,4543 @@
+{
+  "version": 1,
+  "area": "aprimoramentos",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_character_options_do_not_enter_aprimoramentos": true
+  },
+  "certifiedCount": 453,
+  "rejectedCount": 0,
+  "records": [
+    {
+      "id": "aprimoramento-aprimoramentos-1-afinidade-com-fadas",
+      "source": "aprimoramentos-1",
+      "name": "Afinidade com Fadas",
+      "nameKey": "afinidade-com-fadas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:afinidade-com-fadas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alma-dupla",
+      "source": "aprimoramentos-1",
+      "name": "Alma Dupla",
+      "nameKey": "alma-dupla",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alma-dupla"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alma-gemea",
+      "source": "aprimoramentos-1",
+      "name": "Alma Gêmea",
+      "nameKey": "alma-gemea",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alma-gemea"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alma-pura",
+      "source": "aprimoramentos-1",
+      "name": "Alma Pura",
+      "nameKey": "alma-pura",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alma-pura"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ambidestria",
+      "source": "aprimoramentos-1",
+      "name": "Ambidestria",
+      "nameKey": "ambidestria",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ambidestria"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ambiente-favoravel",
+      "source": "aprimoramentos-1",
+      "name": "Ambiente Favorável",
+      "nameKey": "ambiente-favoravel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ambiente-favoravel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-amor-verdadeiro",
+      "source": "aprimoramentos-1",
+      "name": "Amor Verdadeiro",
+      "nameKey": "amor-verdadeiro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:amor-verdadeiro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-anjo-da-guarda",
+      "source": "aprimoramentos-1",
+      "name": "Anjo da Guarda",
+      "nameKey": "anjo-da-guarda",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:anjo-da-guarda"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-aparencia-inofensiva",
+      "source": "aprimoramentos-1",
+      "name": "Aparência Inofensiva",
+      "nameKey": "aparencia-inofensiva",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:aparencia-inofensiva"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-armas-de-fogo",
+      "source": "aprimoramentos-1",
+      "name": "Armas de Fogo",
+      "nameKey": "armas-de-fogo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:armas-de-fogo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-arma-ou-amuleto-magico",
+      "source": "aprimoramentos-1",
+      "name": "Arma ou Amuleto Mágico",
+      "nameKey": "arma-ou-amuleto-magico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:arma-ou-amuleto-magico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-aumento-de-nivel",
+      "source": "aprimoramentos-1",
+      "name": "Aumento de Nível",
+      "nameKey": "aumento-de-nivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:aumento-de-nivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-biblioteca",
+      "source": "aprimoramentos-1",
+      "name": "Biblioteca",
+      "nameKey": "biblioteca",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:biblioteca"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-biblioteca-mistica",
+      "source": "aprimoramentos-1",
+      "name": "Biblioteca Mística",
+      "nameKey": "biblioteca-mistica",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:biblioteca-mistica"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-bom-senso",
+      "source": "aprimoramentos-1",
+      "name": "Bom Senso",
+      "nameKey": "bom-senso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:bom-senso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-canalizador",
+      "source": "aprimoramentos-1",
+      "name": "Canalizador",
+      "nameKey": "canalizador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:canalizador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-capaz-de-enxergar-auras",
+      "source": "aprimoramentos-1",
+      "name": "Capaz de Enxergar Auras",
+      "nameKey": "capaz-de-enxergar-auras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:capaz-de-enxergar-auras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-capaz-de-enxergar-espiritos",
+      "source": "aprimoramentos-1",
+      "name": "Capaz de Enxergar Espíritos",
+      "nameKey": "capaz-de-enxergar-espiritos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:capaz-de-enxergar-espiritos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ciberneticos",
+      "source": "aprimoramentos-1",
+      "name": "Cibernéticos",
+      "nameKey": "ciberneticos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ciberneticos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-classe-social",
+      "source": "aprimoramentos-1",
+      "name": "Classe Social",
+      "nameKey": "classe-social",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:classe-social"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-clero",
+      "source": "aprimoramentos-1",
+      "name": "Clero",
+      "nameKey": "clero",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:clero"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-comunicacao-em-sonhos",
+      "source": "aprimoramentos-1",
+      "name": "Comunicação em Sonhos",
+      "nameKey": "comunicacao-em-sonhos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:comunicacao-em-sonhos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-concentracao",
+      "source": "aprimoramentos-1",
+      "name": "Concentração",
+      "nameKey": "concentracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:concentracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-conhecimentos-arcanos",
+      "source": "aprimoramentos-1",
+      "name": "Conhecimentos Arcanos",
+      "nameKey": "conhecimentos-arcanos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:conhecimentos-arcanos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-conjuracao",
+      "source": "aprimoramentos-1",
+      "name": "Conjuração",
+      "nameKey": "conjuracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:conjuracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-controle-de-multidoes",
+      "source": "aprimoramentos-1",
+      "name": "Controle de Multidões",
+      "nameKey": "controle-de-multidoes",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:controle-de-multidoes"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-coragem",
+      "source": "aprimoramentos-1",
+      "name": "Coragem",
+      "nameKey": "coragem",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:coragem"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-detectar-magia",
+      "source": "aprimoramentos-1",
+      "name": "Detectar Magia",
+      "nameKey": "detectar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:detectar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-divida-de-gratidao",
+      "source": "aprimoramentos-1",
+      "name": "Divida de Gratidão",
+      "nameKey": "divida-de-gratidao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:divida-de-gratidao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-empatia-com-animais",
+      "source": "aprimoramentos-1",
+      "name": "Empatia com Animais",
+      "nameKey": "empatia-com-animais",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:empatia-com-animais"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-fama",
+      "source": "aprimoramentos-1",
+      "name": "Fama",
+      "nameKey": "fama",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:fama"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-familia-ou-mentor-honrado",
+      "source": "aprimoramentos-1",
+      "name": "Família ou Mentor Honrado",
+      "nameKey": "familia-ou-mentor-honrado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:familia-ou-mentor-honrado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-forcas-militares",
+      "source": "aprimoramentos-1",
+      "name": "Forças Militares",
+      "nameKey": "forcas-militares",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:forcas-militares"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-gremilins",
+      "source": "aprimoramentos-1",
+      "name": "Gremilins",
+      "nameKey": "gremilins",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:gremilins"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-homunculo",
+      "source": "aprimoramentos-1",
+      "name": "Homúnculo",
+      "nameKey": "homunculo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:homunculo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-identidade-secreta",
+      "source": "aprimoramentos-1",
+      "name": "Identidade Secreta",
+      "nameKey": "identidade-secreta",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:identidade-secreta"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-improvisador",
+      "source": "aprimoramentos-1",
+      "name": "Improvisador",
+      "nameKey": "improvisador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:improvisador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-imunidade-a-venenos",
+      "source": "aprimoramentos-1",
+      "name": "Imunidade a Venenos",
+      "nameKey": "imunidade-a-venenos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:imunidade-a-venenos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-infravisao",
+      "source": "aprimoramentos-1",
+      "name": "Infravisão",
+      "nameKey": "infravisao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:infravisao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-inocencia",
+      "source": "aprimoramentos-1",
+      "name": "Inocência",
+      "nameKey": "inocencia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:inocencia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-itens-magicos",
+      "source": "aprimoramentos-1",
+      "name": "Itens Mágicos",
+      "nameKey": "itens-magicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:itens-magicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-nao-precisar-beber-ou-comer",
+      "source": "aprimoramentos-1",
+      "name": "Não Precisar Beber ou Comer",
+      "nameKey": "nao-precisar-beber-ou-comer",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:nao-precisar-beber-ou-comer"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-nocao-exata-do-tempo",
+      "source": "aprimoramentos-1",
+      "name": "Noção Exata do Tempo",
+      "nameKey": "nocao-exata-do-tempo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:nocao-exata-do-tempo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-olhar-da-verdade",
+      "source": "aprimoramentos-1",
+      "name": "Olhar da Verdade",
+      "nameKey": "olhar-da-verdade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:olhar-da-verdade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pacto",
+      "source": "aprimoramentos-1",
+      "name": "Pacto",
+      "nameKey": "pacto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pacto"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-patrono",
+      "source": "aprimoramentos-1",
+      "name": "Patrono",
+      "nameKey": "patrono",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:patrono"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-poderes-magicos",
+      "source": "aprimoramentos-1",
+      "name": "Poderes Mágicos",
+      "nameKey": "poderes-magicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:poderes-magicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-poderes-psionicos",
+      "source": "aprimoramentos-1",
+      "name": "Poderes Psiônicos",
+      "nameKey": "poderes-psionicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:poderes-psionicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pontos-de-fe",
+      "source": "aprimoramentos-1",
+      "name": "Pontos de Fé",
+      "nameKey": "pontos-de-fe",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pontos-de-fe"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pontos-heroicos",
+      "source": "aprimoramentos-1",
+      "name": "Pontos Heróicos",
+      "nameKey": "pontos-heroicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pontos-heroicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-presenca-invisivel",
+      "source": "aprimoramentos-1",
+      "name": "Presença Invisível",
+      "nameKey": "presenca-invisivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:presenca-invisivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-recursos-e-dinheiro",
+      "source": "aprimoramentos-1",
+      "name": "Recursos e Dinheiro",
+      "nameKey": "recursos-e-dinheiro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:recursos-e-dinheiro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-reputacao",
+      "source": "aprimoramentos-1",
+      "name": "Reputação",
+      "nameKey": "reputacao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:reputacao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-resistencia-a-dor",
+      "source": "aprimoramentos-1",
+      "name": "Resistência à Dor",
+      "nameKey": "resistencia-a-dor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:resistencia-a-dor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-resistencia-a-magia",
+      "source": "aprimoramentos-1",
+      "name": "Resistência à Magia",
+      "nameKey": "resistencia-a-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:resistencia-a-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sabio",
+      "source": "aprimoramentos-1",
+      "name": "Sábio",
+      "nameKey": "sabio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sabio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-saude-de-ferro",
+      "source": "aprimoramentos-1",
+      "name": "Saúde de Ferro",
+      "nameKey": "saude-de-ferro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:saude-de-ferro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sedutor",
+      "source": "aprimoramentos-1",
+      "name": "Sedutor",
+      "nameKey": "sedutor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sedutor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sensitivo",
+      "source": "aprimoramentos-1",
+      "name": "Sensitivo",
+      "nameKey": "sensitivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sensitivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-senso-de-direcao",
+      "source": "aprimoramentos-1",
+      "name": "Senso de Direção",
+      "nameKey": "senso-de-direcao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:senso-de-direcao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-senso-numerico",
+      "source": "aprimoramentos-1",
+      "name": "Senso Numérico",
+      "nameKey": "senso-numerico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:senso-numerico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sentidos-agucados",
+      "source": "aprimoramentos-1",
+      "name": "Sentidos Aguçados",
+      "nameKey": "sentidos-agucados",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sentidos-agucados"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sociedade-secreta",
+      "source": "aprimoramentos-1",
+      "name": "Sociedade Secreta",
+      "nameKey": "sociedade-secreta",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sociedade-secreta"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sono-leve",
+      "source": "aprimoramentos-1",
+      "name": "Sono Leve",
+      "nameKey": "sono-leve",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sono-leve"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sortudo",
+      "source": "aprimoramentos-1",
+      "name": "Sortudo",
+      "nameKey": "sortudo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sortudo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-talento-matematico",
+      "source": "aprimoramentos-1",
+      "name": "Talento Matemático",
+      "nameKey": "talento-matematico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:talento-matematico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-talento",
+      "source": "aprimoramentos-1",
+      "name": "Talento",
+      "nameKey": "talento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:talento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-temperamento-calmo",
+      "source": "aprimoramentos-1",
+      "name": "Temperamento Calmo",
+      "nameKey": "temperamento-calmo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:temperamento-calmo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-tutor",
+      "source": "aprimoramentos-1",
+      "name": "Tutor",
+      "nameKey": "tutor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:tutor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-vida-eterna",
+      "source": "aprimoramentos-1",
+      "name": "Vida Eterna",
+      "nameKey": "vida-eterna",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:vida-eterna"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-visao-noturna",
+      "source": "aprimoramentos-1",
+      "name": "Visão Noturna",
+      "nameKey": "visao-noturna",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:visao-noturna"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-vontade-de-ferro",
+      "source": "aprimoramentos-1",
+      "name": "Vontade de Ferro",
+      "nameKey": "vontade-de-ferro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:vontade-de-ferro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-voz-de-comando",
+      "source": "aprimoramentos-1",
+      "name": "Voz de Comando",
+      "nameKey": "voz-de-comando",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:voz-de-comando"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alergia",
+      "source": "aprimoramentos-1",
+      "name": "Alergia",
+      "nameKey": "alergia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alergia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alergia-grave",
+      "source": "aprimoramentos-1",
+      "name": "Alergia Grave",
+      "nameKey": "alergia-grave",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alergia-grave"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alcoolatra",
+      "source": "aprimoramentos-1",
+      "name": "Alcoólatra",
+      "nameKey": "alcoolatra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alcoolatra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alma-vendida",
+      "source": "aprimoramentos-1",
+      "name": "Alma Vendida",
+      "nameKey": "alma-vendida",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alma-vendida"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-alucinado",
+      "source": "aprimoramentos-1",
+      "name": "Alucinado",
+      "nameKey": "alucinado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:alucinado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-amnesia",
+      "source": "aprimoramentos-1",
+      "name": "Amnésia",
+      "nameKey": "amnesia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:amnesia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-androgino",
+      "source": "aprimoramentos-1",
+      "name": "Andrógino",
+      "nameKey": "androgino",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:androgino"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-aparencia-trocada",
+      "source": "aprimoramentos-1",
+      "name": "Aparência Trocada",
+      "nameKey": "aparencia-trocada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:aparencia-trocada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-arma-ou-amuleto-maldito",
+      "source": "aprimoramentos-1",
+      "name": "Arma ou Amuleto Maldito",
+      "nameKey": "arma-ou-amuleto-maldito",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:arma-ou-amuleto-maldito"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-assassino-serial",
+      "source": "aprimoramentos-1",
+      "name": "Assassino Serial",
+      "nameKey": "assassino-serial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:assassino-serial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-assombrado",
+      "source": "aprimoramentos-1",
+      "name": "Assombrado",
+      "nameKey": "assombrado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:assombrado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-azarado",
+      "source": "aprimoramentos-1",
+      "name": "Azarado",
+      "nameKey": "azarado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:azarado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-canibal",
+      "source": "aprimoramentos-1",
+      "name": "Canibal",
+      "nameKey": "canibal",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:canibal"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-casto",
+      "source": "aprimoramentos-1",
+      "name": "Casto",
+      "nameKey": "casto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:casto"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-cetico",
+      "source": "aprimoramentos-1",
+      "name": "Cético",
+      "nameKey": "cetico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:cetico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-cleptomaniaco",
+      "source": "aprimoramentos-1",
+      "name": "Cleptomaníaco",
+      "nameKey": "cleptomaniaco",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:cleptomaniaco"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-codigo-de-honra",
+      "source": "aprimoramentos-1",
+      "name": "Código de Honra",
+      "nameKey": "codigo-de-honra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:codigo-de-honra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-compulsao",
+      "source": "aprimoramentos-1",
+      "name": "Compulsão",
+      "nameKey": "compulsao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:compulsao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-complexo-de-culpa",
+      "source": "aprimoramentos-1",
+      "name": "Complexo de Culpa",
+      "nameKey": "complexo-de-culpa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:complexo-de-culpa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-complexo-de-inferioridade",
+      "source": "aprimoramentos-1",
+      "name": "Complexo de Inferioridade",
+      "nameKey": "complexo-de-inferioridade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:complexo-de-inferioridade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-coracao-mole",
+      "source": "aprimoramentos-1",
+      "name": "Coração Mole",
+      "nameKey": "coracao-mole",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:coracao-mole"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-covarde",
+      "source": "aprimoramentos-1",
+      "name": "Covarde",
+      "nameKey": "covarde",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:covarde"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-credulo",
+      "source": "aprimoramentos-1",
+      "name": "Crédulo",
+      "nameKey": "credulo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:credulo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-curioso",
+      "source": "aprimoramentos-1",
+      "name": "Curioso",
+      "nameKey": "curioso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:curioso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-defeito-de-ryoga",
+      "source": "aprimoramentos-1",
+      "name": "Defeito de Ryoga",
+      "nameKey": "defeito-de-ryoga",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:defeito-de-ryoga"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-deficiente-fisico",
+      "source": "aprimoramentos-1",
+      "name": "Deficiente Físico",
+      "nameKey": "deficiente-fisico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:deficiente-fisico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-dependencia",
+      "source": "aprimoramentos-1",
+      "name": "Dependência",
+      "nameKey": "dependencia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:dependencia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-dificuldade-de-fala",
+      "source": "aprimoramentos-1",
+      "name": "Dificuldade de Fala",
+      "nameKey": "dificuldade-de-fala",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:dificuldade-de-fala"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-distracao",
+      "source": "aprimoramentos-1",
+      "name": "Distração",
+      "nameKey": "distracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:distracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-dupla-penalidade",
+      "source": "aprimoramentos-1",
+      "name": "Dupla Penalidade",
+      "nameKey": "dupla-penalidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:dupla-penalidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-estigma-social",
+      "source": "aprimoramentos-1",
+      "name": "Estigma Social",
+      "nameKey": "estigma-social",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:estigma-social"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-esquizofrenico",
+      "source": "aprimoramentos-1",
+      "name": "Esquizofrênico",
+      "nameKey": "esquizofrenico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:esquizofrenico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-familia-ou-mentor-desonrado",
+      "source": "aprimoramentos-1",
+      "name": "Família ou Mentor Desonrado",
+      "nameKey": "familia-ou-mentor-desonrado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:familia-ou-mentor-desonrado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-fanatico",
+      "source": "aprimoramentos-1",
+      "name": "Fanático",
+      "nameKey": "fanatico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:fanatico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-fanfarronice",
+      "source": "aprimoramentos-1",
+      "name": "Fanfarronice",
+      "nameKey": "fanfarronice",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:fanfarronice"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ferro-frio",
+      "source": "aprimoramentos-1",
+      "name": "Ferro Frio",
+      "nameKey": "ferro-frio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ferro-frio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-fetiche-material",
+      "source": "aprimoramentos-1",
+      "name": "Fetiche Material",
+      "nameKey": "fetiche-material",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:fetiche-material"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-fobia",
+      "source": "aprimoramentos-1",
+      "name": "Fobia",
+      "nameKey": "fobia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:fobia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-furia",
+      "source": "aprimoramentos-1",
+      "name": "Fúria",
+      "nameKey": "furia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:furia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-galante",
+      "source": "aprimoramentos-1",
+      "name": "Galante",
+      "nameKey": "galante",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:galante"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ganncia",
+      "source": "aprimoramentos-1",
+      "name": "Ganncia",
+      "nameKey": "ganncia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ganncia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-gula",
+      "source": "aprimoramentos-1",
+      "name": "Gula",
+      "nameKey": "gula",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:gula"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-habitos-detestaveis",
+      "source": "aprimoramentos-1",
+      "name": "Hábitos Detestáveis",
+      "nameKey": "habitos-detestaveis",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:habitos-detestaveis"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-hipocondria",
+      "source": "aprimoramentos-1",
+      "name": "Hipocondria",
+      "nameKey": "hipocondria",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:hipocondria"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-inimigo",
+      "source": "aprimoramentos-1",
+      "name": "Inimigo",
+      "nameKey": "inimigo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:inimigo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-intolerncia",
+      "source": "aprimoramentos-1",
+      "name": "Intolerncia",
+      "nameKey": "intolerncia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:intolerncia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-ma-fama",
+      "source": "aprimoramentos-1",
+      "name": "Má Fama",
+      "nameKey": "ma-fama",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:ma-fama"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-maldicao",
+      "source": "aprimoramentos-1",
+      "name": "Maldição",
+      "nameKey": "maldicao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:maldicao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-mania",
+      "source": "aprimoramentos-1",
+      "name": "Mania",
+      "nameKey": "mania",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:mania"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-mania-de-perseguicao",
+      "source": "aprimoramentos-1",
+      "name": "Mania de Perseguição",
+      "nameKey": "mania-de-perseguicao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:mania-de-perseguicao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-maniaco-depressivo",
+      "source": "aprimoramentos-1",
+      "name": "Maníaco Depressivo",
+      "nameKey": "maniaco-depressivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:maniaco-depressivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-marca-do-predador",
+      "source": "aprimoramentos-1",
+      "name": "Marca do Predador",
+      "nameKey": "marca-do-predador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:marca-do-predador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-mau-humor",
+      "source": "aprimoramentos-1",
+      "name": "Mau Humor",
+      "nameKey": "mau-humor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:mau-humor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-megalomaniaco",
+      "source": "aprimoramentos-1",
+      "name": "Megalomaníaco",
+      "nameKey": "megalomaniaco",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:megalomaniaco"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-mentiroso-compulsivo",
+      "source": "aprimoramentos-1",
+      "name": "Mentiroso Compulsivo",
+      "nameKey": "mentiroso-compulsivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:mentiroso-compulsivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-monstruoso",
+      "source": "aprimoramentos-1",
+      "name": "Monstruoso",
+      "nameKey": "monstruoso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:monstruoso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pacifista",
+      "source": "aprimoramentos-1",
+      "name": "Pacifista",
+      "nameKey": "pacifista",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pacifista"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-perda-terrivel",
+      "source": "aprimoramentos-1",
+      "name": "Perda Terrível",
+      "nameKey": "perda-terrivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:perda-terrivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-perversao-sexual",
+      "source": "aprimoramentos-1",
+      "name": "Perversão Sexual",
+      "nameKey": "perversao-sexual",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:perversao-sexual"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-poltergeist",
+      "source": "aprimoramentos-1",
+      "name": "Poltergeist",
+      "nameKey": "poltergeist",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:poltergeist"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pupilo",
+      "source": "aprimoramentos-1",
+      "name": "Pupilo",
+      "nameKey": "pupilo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pupilo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-pesadelos",
+      "source": "aprimoramentos-1",
+      "name": "Pesadelos",
+      "nameKey": "pesadelos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:pesadelos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sangramento",
+      "source": "aprimoramentos-1",
+      "name": "Sangramento",
+      "nameKey": "sangramento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sangramento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sanguinario",
+      "source": "aprimoramentos-1",
+      "name": "Sanguinário",
+      "nameKey": "sanguinario",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sanguinario"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sono-pesado",
+      "source": "aprimoramentos-1",
+      "name": "Sono Pesado",
+      "nameKey": "sono-pesado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sono-pesado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-suspeito",
+      "source": "aprimoramentos-1",
+      "name": "Suspeito",
+      "nameKey": "suspeito",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:suspeito"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-supersticioso",
+      "source": "aprimoramentos-1",
+      "name": "Supersticioso",
+      "nameKey": "supersticioso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:supersticioso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-sarcasmo",
+      "source": "aprimoramentos-1",
+      "name": "Sarcasmo",
+      "nameKey": "sarcasmo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:sarcasmo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-toque-da-podridao",
+      "source": "aprimoramentos-1",
+      "name": "Toque da Podridão",
+      "nameKey": "toque-da-podridao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:toque-da-podridao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-toque-letal",
+      "source": "aprimoramentos-1",
+      "name": "Toque Letal",
+      "nameKey": "toque-letal",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:toque-letal"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-traumatizado",
+      "source": "aprimoramentos-1",
+      "name": "Traumatizado",
+      "nameKey": "traumatizado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:traumatizado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-timidez",
+      "source": "aprimoramentos-1",
+      "name": "Timidez",
+      "nameKey": "timidez",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:timidez"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-teimosia",
+      "source": "aprimoramentos-1",
+      "name": "Teimosia",
+      "nameKey": "teimosia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:teimosia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-viciado-em-drogas",
+      "source": "aprimoramentos-1",
+      "name": "Viciado em Drogas",
+      "nameKey": "viciado-em-drogas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:viciado-em-drogas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-viciado-em-jogos",
+      "source": "aprimoramentos-1",
+      "name": "Viciado em Jogos",
+      "nameKey": "viciado-em-jogos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:viciado-em-jogos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-visao-monocromatica",
+      "source": "aprimoramentos-1",
+      "name": "Visão Monocromática",
+      "nameKey": "visao-monocromatica",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:visao-monocromatica"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-1-vontade-fraca",
+      "source": "aprimoramentos-1",
+      "name": "Vontade Fraca",
+      "nameKey": "vontade-fraca",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-1:vontade-fraca"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-acerto-critico-aprimorado",
+      "source": "aprimoramentos-2",
+      "name": "ACERTO CRÍTICO APRIMORADO",
+      "nameKey": "acerto-critico-aprimorado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:acerto-critico-aprimorado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-acrobatico",
+      "source": "aprimoramentos-2",
+      "name": "ACROBÁTICO",
+      "nameKey": "acrobatico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:acrobatico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-alvo-elusivo",
+      "source": "aprimoramentos-2",
+      "name": "ALVO ELUSIVO",
+      "nameKey": "alvo-elusivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:alvo-elusivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-ataque-bruto",
+      "source": "aprimoramentos-2",
+      "name": "ATAQUE BRUTO",
+      "nameKey": "ataque-bruto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:ataque-bruto"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-ataque-desarmado",
+      "source": "aprimoramentos-2",
+      "name": "ATAQUE DESARMADO",
+      "nameKey": "ataque-desarmado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:ataque-desarmado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-ataque-em-movimento",
+      "source": "aprimoramentos-2",
+      "name": "ATAQUE EM MOVIMENTO",
+      "nameKey": "ataque-em-movimento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:ataque-em-movimento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-ataque-giratorio",
+      "source": "aprimoramentos-2",
+      "name": "ATAQUE GIRATÓRIO",
+      "nameKey": "ataque-giratorio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:ataque-giratorio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-ataque-poderoso",
+      "source": "aprimoramentos-2",
+      "name": "ATAQUE PODEROSO",
+      "nameKey": "ataque-poderoso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:ataque-poderoso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-berserker",
+      "source": "aprimoramentos-2",
+      "name": "BERSERKER",
+      "nameKey": "berserker",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:berserker"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-cacador-de-criaturas",
+      "source": "aprimoramentos-2",
+      "name": "CAÇADOR DE CRIATURAS",
+      "nameKey": "cacador-de-criaturas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:cacador-de-criaturas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-corpo-fechado",
+      "source": "aprimoramentos-2",
+      "name": "CORPO FECHADO",
+      "nameKey": "corpo-fechado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:corpo-fechado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-deslocamento",
+      "source": "aprimoramentos-2",
+      "name": "DESLOCAMENTO",
+      "nameKey": "deslocamento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:deslocamento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-desperto",
+      "source": "aprimoramentos-2",
+      "name": "DESPERTO",
+      "nameKey": "desperto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:desperto"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-duro-de-matar",
+      "source": "aprimoramentos-2",
+      "name": "DURO DE MATAR",
+      "nameKey": "duro-de-matar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:duro-de-matar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-duro-na-queda",
+      "source": "aprimoramentos-2",
+      "name": "DURO NA QUEDA",
+      "nameKey": "duro-na-queda",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:duro-na-queda"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-eloquente",
+      "source": "aprimoramentos-2",
+      "name": "ELOQÜENTE",
+      "nameKey": "eloquente",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:eloquente"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-especializao-em-arma",
+      "source": "aprimoramentos-2",
+      "name": "ESPECIALIZAO EM ARMA",
+      "nameKey": "especializao-em-arma",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:especializao-em-arma"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-especializao-em-combate",
+      "source": "aprimoramentos-2",
+      "name": "ESPECIALIZAO EM COMBATE",
+      "nameKey": "especializao-em-combate",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:especializao-em-combate"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-evaso",
+      "source": "aprimoramentos-2",
+      "name": "EVASO",
+      "nameKey": "evaso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:evaso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-facilidade-para-linguas",
+      "source": "aprimoramentos-2",
+      "name": "FACILIDADE PARA LÍNGUAS",
+      "nameKey": "facilidade-para-linguas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:facilidade-para-linguas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-finta",
+      "source": "aprimoramentos-2",
+      "name": "FINTA",
+      "nameKey": "finta",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:finta"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-foco-em-arma",
+      "source": "aprimoramentos-2",
+      "name": "FOCO EM ARMA",
+      "nameKey": "foco-em-arma",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:foco-em-arma"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-foco-em-arma-maior",
+      "source": "aprimoramentos-2",
+      "name": "FOCO EM ARMA MAIOR",
+      "nameKey": "foco-em-arma-maior",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:foco-em-arma-maior"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-furia",
+      "source": "aprimoramentos-2",
+      "name": "FÚRIA",
+      "nameKey": "furia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:furia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-furia-maior",
+      "source": "aprimoramentos-2",
+      "name": "FÚRIA MAIOR",
+      "nameKey": "furia-maior",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:furia-maior"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-genialidade",
+      "source": "aprimoramentos-2",
+      "name": "GENIALIDADE",
+      "nameKey": "genialidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:genialidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-intimidao",
+      "source": "aprimoramentos-2",
+      "name": "INTIMIDAO",
+      "nameKey": "intimidao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:intimidao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-intuio",
+      "source": "aprimoramentos-2",
+      "name": "INTUIO",
+      "nameKey": "intuio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:intuio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-investida-implacavel",
+      "source": "aprimoramentos-2",
+      "name": "INVESTIDA IMPLACÁVEL",
+      "nameKey": "investida-implacavel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:investida-implacavel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-manobras-de-combate",
+      "source": "aprimoramentos-2",
+      "name": "MANOBRAS DE COMBATE",
+      "nameKey": "manobras-de-combate",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:manobras-de-combate"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-memoria-fotografica",
+      "source": "aprimoramentos-2",
+      "name": "MEMÓRIA FOTOGRÁFICA",
+      "nameKey": "memoria-fotografica",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:memoria-fotografica"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-pontos-heroicos",
+      "source": "aprimoramentos-2",
+      "name": "PONTOS HERÓICOS",
+      "nameKey": "pontos-heroicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:pontos-heroicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-prontido",
+      "source": "aprimoramentos-2",
+      "name": "PRONTIDO",
+      "nameKey": "prontido",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:prontido"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-sincronia",
+      "source": "aprimoramentos-2",
+      "name": "SINCRONIA",
+      "nameKey": "sincronia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:sincronia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-pericias-atributos-aprimoramentos-manobras",
+      "source": "aprimoramentos-2",
+      "name": "perícias, Atributos, Aprimoramentos, Manobras",
+      "nameKey": "pericias-atributos-aprimoramentos-manobras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:pericias-atributos-aprimoramentos-manobras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-trespassar",
+      "source": "aprimoramentos-2",
+      "name": "TRESPASSAR",
+      "nameKey": "trespassar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:trespassar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-tiro-certeiro",
+      "source": "aprimoramentos-2",
+      "name": "TIRO CERTEIRO",
+      "nameKey": "tiro-certeiro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:tiro-certeiro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-tiro-em-movimento",
+      "source": "aprimoramentos-2",
+      "name": "TIRO EM MOVIMENTO",
+      "nameKey": "tiro-em-movimento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:tiro-em-movimento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-aprimoramento-tiro-certeiro",
+      "source": "aprimoramentos-2",
+      "name": "Aprimoramento Tiro Certeiro",
+      "nameKey": "aprimoramento-tiro-certeiro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:aprimoramento-tiro-certeiro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-tiro-multiplo",
+      "source": "aprimoramentos-2",
+      "name": "TIRO MÚLTIPLO",
+      "nameKey": "tiro-multiplo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:tiro-multiplo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-sorte-exagerada",
+      "source": "aprimoramentos-2",
+      "name": "SORTE EXAGERADA",
+      "nameKey": "sorte-exagerada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:sorte-exagerada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-aumentar-magia",
+      "source": "aprimoramentos-2",
+      "name": "AUMENTAR MAGIA",
+      "nameKey": "aumentar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:aumentar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-elevar-magia",
+      "source": "aprimoramentos-2",
+      "name": "ELEVAR MAGIA",
+      "nameKey": "elevar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:elevar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-estender-magia",
+      "source": "aprimoramentos-2",
+      "name": "ESTENDER MAGIA",
+      "nameKey": "estender-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:estender-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-foco-em-caminho",
+      "source": "aprimoramentos-2",
+      "name": "FOCO EM CAMINHO",
+      "nameKey": "foco-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:foco-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-aprimoramento-foco-em-caminho",
+      "source": "aprimoramentos-2",
+      "name": "Aprimoramento Foco em Caminho",
+      "nameKey": "aprimoramento-foco-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:aprimoramento-foco-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-maximizar-magia",
+      "source": "aprimoramentos-2",
+      "name": "MAXIMIZAR MAGIA",
+      "nameKey": "maximizar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:maximizar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-magia-sem-gestos",
+      "source": "aprimoramentos-2",
+      "name": "MAGIA SEM GESTOS",
+      "nameKey": "magia-sem-gestos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:magia-sem-gestos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-magia-silenciosa",
+      "source": "aprimoramentos-2",
+      "name": "MAGIA SILENCIOSA",
+      "nameKey": "magia-silenciosa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:magia-silenciosa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-pontos-de-magia-extras",
+      "source": "aprimoramentos-2",
+      "name": "PONTOS DE MAGIA EXTRAS",
+      "nameKey": "pontos-de-magia-extras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:pontos-de-magia-extras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-potencializar-magia",
+      "source": "aprimoramentos-2",
+      "name": "POTENCIALIZAR MAGIA",
+      "nameKey": "potencializar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:potencializar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-acelerada",
+      "source": "aprimoramentos-2",
+      "name": "ACELERADA",
+      "nameKey": "acelerada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:acelerada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-psiquicas",
+      "source": "aprimoramentos-2",
+      "name": "PSÍQUICAS",
+      "nameKey": "psiquicas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:psiquicas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-desgastante",
+      "source": "aprimoramentos-2",
+      "name": "DESGASTANTE",
+      "nameKey": "desgastante",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:desgastante"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-efeitos-visiveis",
+      "source": "aprimoramentos-2",
+      "name": "EFEITOS VÍSIVEIS",
+      "nameKey": "efeitos-visiveis",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:efeitos-visiveis"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-incontrolavel",
+      "source": "aprimoramentos-2",
+      "name": "INCONTROLÁVEL",
+      "nameKey": "incontrolavel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:incontrolavel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-instavel",
+      "source": "aprimoramentos-2",
+      "name": "INSTÁVEL",
+      "nameKey": "instavel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:instavel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-somente-a-todo-vapor",
+      "source": "aprimoramentos-2",
+      "name": "SOMENTE À TODO VAPOR",
+      "nameKey": "somente-a-todo-vapor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:somente-a-todo-vapor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-alcance-em-raio",
+      "source": "aprimoramentos-2",
+      "name": "ALCANCE EM RAIO",
+      "nameKey": "alcance-em-raio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:alcance-em-raio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-alvo-seletivo",
+      "source": "aprimoramentos-2",
+      "name": "ALVO SELETIVO",
+      "nameKey": "alvo-seletivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:alvo-seletivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-carga-extra",
+      "source": "aprimoramentos-2",
+      "name": "CARGA EXTRA",
+      "nameKey": "carga-extra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:carga-extra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-converso",
+      "source": "aprimoramentos-2",
+      "name": "CONVERSO",
+      "nameKey": "converso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:converso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-custo-reduzido",
+      "source": "aprimoramentos-2",
+      "name": "CUSTO REDUZIDO",
+      "nameKey": "custo-reduzido",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:custo-reduzido"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-2-recarga-rapida",
+      "source": "aprimoramentos-2",
+      "name": "RECARGA RÁPIDA",
+      "nameKey": "recarga-rapida",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-2:recarga-rapida"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-negativos",
+      "source": "aprimoramentos-3",
+      "name": "Negativos,",
+      "nameKey": "negativos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:negativos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-mago-de-combate",
+      "source": "aprimoramentos-3",
+      "name": "Mago de Combate",
+      "nameKey": "mago-de-combate",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:mago-de-combate"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-cacador-de-vampiros",
+      "source": "aprimoramentos-3",
+      "name": "Caçador de Vampiros",
+      "nameKey": "cacador-de-vampiros",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:cacador-de-vampiros"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-heroi-demonio",
+      "source": "aprimoramentos-3",
+      "name": "Herói Demônio",
+      "nameKey": "heroi-demonio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:heroi-demonio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-mago-especialista",
+      "source": "aprimoramentos-3",
+      "name": "Mago Especialista",
+      "nameKey": "mago-especialista",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:mago-especialista"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-detetive-do-sobrenatural",
+      "source": "aprimoramentos-3",
+      "name": "Detetive do Sobrenatural",
+      "nameKey": "detetive-do-sobrenatural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:detetive-do-sobrenatural"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-melhorado",
+      "source": "aprimoramentos-3",
+      "name": "Melhorado",
+      "nameKey": "melhorado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:melhorado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-ambidestria",
+      "source": "aprimoramentos-3",
+      "name": "Ambidestria",
+      "nameKey": "ambidestria",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:ambidestria"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-evasao",
+      "source": "aprimoramentos-3",
+      "name": "Evasão",
+      "nameKey": "evasao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:evasao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-aumentar",
+      "source": "aprimoramentos-3",
+      "name": "Aumentar",
+      "nameKey": "aumentar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:aumentar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-imunidade-a-venenos",
+      "source": "aprimoramentos-3",
+      "name": "Imunidade a Venenos",
+      "nameKey": "imunidade-a-venenos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:imunidade-a-venenos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-inocencia",
+      "source": "aprimoramentos-3",
+      "name": "Inocência",
+      "nameKey": "inocencia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:inocencia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-saude-de-ferro",
+      "source": "aprimoramentos-3",
+      "name": "Saúde de Ferro",
+      "nameKey": "saude-de-ferro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:saude-de-ferro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sentidos-agucados",
+      "source": "aprimoramentos-3",
+      "name": "Sentidos Aguçados",
+      "nameKey": "sentidos-agucados",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sentidos-agucados"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-tiro-certeiro",
+      "source": "aprimoramentos-3",
+      "name": "Tiro Certeiro",
+      "nameKey": "tiro-certeiro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:tiro-certeiro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-bom-senso",
+      "source": "aprimoramentos-3",
+      "name": "Bom Senso",
+      "nameKey": "bom-senso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:bom-senso"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-coragem",
+      "source": "aprimoramentos-3",
+      "name": "Coragem",
+      "nameKey": "coragem",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:coragem"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-empatia-com-animais",
+      "source": "aprimoramentos-3",
+      "name": "Empatia com Animais",
+      "nameKey": "empatia-com-animais",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:empatia-com-animais"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-eloquente",
+      "source": "aprimoramentos-3",
+      "name": "Eloqüente",
+      "nameKey": "eloquente",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:eloquente"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-vontade-de-ferro",
+      "source": "aprimoramentos-3",
+      "name": "Vontade de Ferro",
+      "nameKey": "vontade-de-ferro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:vontade-de-ferro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-improvisador",
+      "source": "aprimoramentos-3",
+      "name": "Improvisador",
+      "nameKey": "improvisador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:improvisador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sabio",
+      "source": "aprimoramentos-3",
+      "name": "Sábio",
+      "nameKey": "sabio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sabio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-senso-de-direcao",
+      "source": "aprimoramentos-3",
+      "name": "Senso de Direção",
+      "nameKey": "senso-de-direcao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:senso-de-direcao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-senso-numerico",
+      "source": "aprimoramentos-3",
+      "name": "Senso Numérico",
+      "nameKey": "senso-numerico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:senso-numerico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sono-leve",
+      "source": "aprimoramentos-3",
+      "name": "Sono Leve",
+      "nameKey": "sono-leve",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sono-leve"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-divida-de-gratidao",
+      "source": "aprimoramentos-3",
+      "name": "Divida de Gratidão",
+      "nameKey": "divida-de-gratidao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:divida-de-gratidao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-honrado",
+      "source": "aprimoramentos-3",
+      "name": "Honrado",
+      "nameKey": "honrado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:honrado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sedutor",
+      "source": "aprimoramentos-3",
+      "name": "Sedutor",
+      "nameKey": "sedutor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sedutor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-status",
+      "source": "aprimoramentos-3",
+      "name": "Status",
+      "nameKey": "status",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:status"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-talento",
+      "source": "aprimoramentos-3",
+      "name": "Talento",
+      "nameKey": "talento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:talento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-arquimago",
+      "source": "aprimoramentos-3",
+      "name": "Arquimago",
+      "nameKey": "arquimago",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:arquimago"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-alcance-magico-extendido",
+      "source": "aprimoramentos-3",
+      "name": "Alcance Mágico Extendido",
+      "nameKey": "alcance-magico-extendido",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:alcance-magico-extendido"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-ambiente-favoravel",
+      "source": "aprimoramentos-3",
+      "name": "Ambiente Favorável",
+      "nameKey": "ambiente-favoravel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:ambiente-favoravel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-canalizador",
+      "source": "aprimoramentos-3",
+      "name": "Canalizador",
+      "nameKey": "canalizador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:canalizador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-magia-duradoura",
+      "source": "aprimoramentos-3",
+      "name": "Magia Duradoura",
+      "nameKey": "magia-duradoura",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-duradoura"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-foco-em-caminho",
+      "source": "aprimoramentos-3",
+      "name": "Foco em Caminho",
+      "nameKey": "foco-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:foco-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-magia-maxima",
+      "source": "aprimoramentos-3",
+      "name": "Magia Máxima",
+      "nameKey": "magia-maxima",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-maxima"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-testes",
+      "source": "aprimoramentos-3",
+      "name": "Testes",
+      "nameKey": "testes",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:testes"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-magia-sem-gestos",
+      "source": "aprimoramentos-3",
+      "name": "Magia Sem Gestos",
+      "nameKey": "magia-sem-gestos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-sem-gestos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-magia-silenciosa",
+      "source": "aprimoramentos-3",
+      "name": "Magia Silenciosa",
+      "nameKey": "magia-silenciosa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-silenciosa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-poderes-magicos",
+      "source": "aprimoramentos-3",
+      "name": "Poderes Mágicos",
+      "nameKey": "poderes-magicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:poderes-magicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-tutor",
+      "source": "aprimoramentos-3",
+      "name": "Tutor",
+      "nameKey": "tutor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:tutor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-telecinetico",
+      "source": "aprimoramentos-3",
+      "name": "Telecinético",
+      "nameKey": "telecinetico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:telecinetico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-telepata",
+      "source": "aprimoramentos-3",
+      "name": "Telepata",
+      "nameKey": "telepata",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:telepata"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-medium",
+      "source": "aprimoramentos-3",
+      "name": "Médium",
+      "nameKey": "medium",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:medium"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-clarividente",
+      "source": "aprimoramentos-3",
+      "name": "Clarividente",
+      "nameKey": "clarividente",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:clarividente"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-biocinetico",
+      "source": "aprimoramentos-3",
+      "name": "Biocinético",
+      "nameKey": "biocinetico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:biocinetico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-afinidade-com-almas",
+      "source": "aprimoramentos-3",
+      "name": "Afinidade com Almas",
+      "nameKey": "afinidade-com-almas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-almas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-afinidade-com-fadas",
+      "source": "aprimoramentos-3",
+      "name": "Afinidade com Fadas",
+      "nameKey": "afinidade-com-fadas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-fadas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-afinidade-com-magia",
+      "source": "aprimoramentos-3",
+      "name": "Afinidade com Magia",
+      "nameKey": "afinidade-com-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-amigo-espirito",
+      "source": "aprimoramentos-3",
+      "name": "Amigo Espírito",
+      "nameKey": "amigo-espirito",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:amigo-espirito"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-amigo-fantasma",
+      "source": "aprimoramentos-3",
+      "name": "Amigo Fantasma",
+      "nameKey": "amigo-fantasma",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:amigo-fantasma"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-anjo-da-guarda",
+      "source": "aprimoramentos-3",
+      "name": "Anjo da Guarda",
+      "nameKey": "anjo-da-guarda",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:anjo-da-guarda"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-personagem",
+      "source": "aprimoramentos-3",
+      "name": "Personagem",
+      "nameKey": "personagem",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:personagem"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-alma-pura",
+      "source": "aprimoramentos-3",
+      "name": "Alma Pura",
+      "nameKey": "alma-pura",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:alma-pura"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-capaz-de-enxergar-auras",
+      "source": "aprimoramentos-3",
+      "name": "Capaz de Enxergar Auras",
+      "nameKey": "capaz-de-enxergar-auras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:capaz-de-enxergar-auras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-comunicacao-em-sonhos",
+      "source": "aprimoramentos-3",
+      "name": "Comunicação em Sonhos",
+      "nameKey": "comunicacao-em-sonhos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:comunicacao-em-sonhos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-conhecimentos-arcanos",
+      "source": "aprimoramentos-3",
+      "name": "Conhecimentos Arcanos",
+      "nameKey": "conhecimentos-arcanos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:conhecimentos-arcanos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-conjuracao",
+      "source": "aprimoramentos-3",
+      "name": "Conjuração",
+      "nameKey": "conjuracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:conjuracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-corpo-fechado",
+      "source": "aprimoramentos-3",
+      "name": "Corpo Fechado",
+      "nameKey": "corpo-fechado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:corpo-fechado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-desalmado",
+      "source": "aprimoramentos-3",
+      "name": "Desalmado",
+      "nameKey": "desalmado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:desalmado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-deteccao-de-magia",
+      "source": "aprimoramentos-3",
+      "name": "Detecção de Magia",
+      "nameKey": "deteccao-de-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:deteccao-de-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-empatia-sobrenatural",
+      "source": "aprimoramentos-3",
+      "name": "Empatia Sobrenatural",
+      "nameKey": "empatia-sobrenatural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:empatia-sobrenatural"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-fe-verdadeira",
+      "source": "aprimoramentos-3",
+      "name": "Fé Verdadeira",
+      "nameKey": "fe-verdadeira",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:fe-verdadeira"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-filho-de-espectros",
+      "source": "aprimoramentos-3",
+      "name": "Filho de Espectros",
+      "nameKey": "filho-de-espectros",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:filho-de-espectros"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-gremlins",
+      "source": "aprimoramentos-3",
+      "name": "Gremlins",
+      "nameKey": "gremlins",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:gremlins"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-guardiao-de-artefato",
+      "source": "aprimoramentos-3",
+      "name": "Guardião de Artefato",
+      "nameKey": "guardiao-de-artefato",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:guardiao-de-artefato"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-homunculo",
+      "source": "aprimoramentos-3",
+      "name": "Homúnculo",
+      "nameKey": "homunculo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:homunculo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-pactos",
+      "source": "aprimoramentos-3",
+      "name": "Pactos",
+      "nameKey": "pactos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:pactos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-vampiros",
+      "source": "aprimoramentos-3",
+      "name": "VAMPIROS",
+      "nameKey": "vampiros",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:vampiros"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-portal-natural",
+      "source": "aprimoramentos-3",
+      "name": "Portal Natural",
+      "nameKey": "portal-natural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:portal-natural"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-resistencia-a-magia",
+      "source": "aprimoramentos-3",
+      "name": "Resistência à Magia",
+      "nameKey": "resistencia-a-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:resistencia-a-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-presenca-invisivel",
+      "source": "aprimoramentos-3",
+      "name": "Presença Invisível",
+      "nameKey": "presenca-invisivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:presenca-invisivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sensitivo",
+      "source": "aprimoramentos-3",
+      "name": "Sensitivo",
+      "nameKey": "sensitivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sensitivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sociedade-secreta",
+      "source": "aprimoramentos-3",
+      "name": "Sociedade Secreta",
+      "nameKey": "sociedade-secreta",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sociedade-secreta"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sortudo",
+      "source": "aprimoramentos-3",
+      "name": "Sortudo",
+      "nameKey": "sortudo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sortudo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-aprimoramento",
+      "source": "aprimoramentos-3",
+      "name": "Aprimoramento",
+      "nameKey": "aprimoramento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:aprimoramento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-vampiro-psiquico",
+      "source": "aprimoramentos-3",
+      "name": "Vampiro Psíquico",
+      "nameKey": "vampiro-psiquico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:vampiro-psiquico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-viagem-astral",
+      "source": "aprimoramentos-3",
+      "name": "Viagem Astral",
+      "nameKey": "viagem-astral",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:viagem-astral"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-ysea",
+      "source": "aprimoramentos-3",
+      "name": "Ysea",
+      "nameKey": "ysea",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:ysea"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-alma-escravizada",
+      "source": "aprimoramentos-3",
+      "name": "Alma Escravizada",
+      "nameKey": "alma-escravizada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:alma-escravizada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-alma-vendida",
+      "source": "aprimoramentos-3",
+      "name": "Alma Vendida",
+      "nameKey": "alma-vendida",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:alma-vendida"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-alucinado",
+      "source": "aprimoramentos-3",
+      "name": "Alucinado",
+      "nameKey": "alucinado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:alucinado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-analfabeto",
+      "source": "aprimoramentos-3",
+      "name": "Analfabeto",
+      "nameKey": "analfabeto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:analfabeto"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-assombrado",
+      "source": "aprimoramentos-3",
+      "name": "Assombrado",
+      "nameKey": "assombrado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:assombrado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-azarado",
+      "source": "aprimoramentos-3",
+      "name": "Azarado",
+      "nameKey": "azarado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:azarado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-cleptomaniaco",
+      "source": "aprimoramentos-3",
+      "name": "Cleptomaníaco",
+      "nameKey": "cleptomaniaco",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:cleptomaniaco"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-codigo-de-honra",
+      "source": "aprimoramentos-3",
+      "name": "Código de Honra",
+      "nameKey": "codigo-de-honra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:codigo-de-honra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-defeito-fisico",
+      "source": "aprimoramentos-3",
+      "name": "Defeito Físico",
+      "nameKey": "defeito-fisico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:defeito-fisico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-drogado-obsessao-perversao-sexual-viciado",
+      "source": "aprimoramentos-3",
+      "name": "Drogado, Obsessão, Perversão Sexual, Viciado",
+      "nameKey": "drogado-obsessao-perversao-sexual-viciado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:drogado-obsessao-perversao-sexual-viciado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-dupla-personalidade",
+      "source": "aprimoramentos-3",
+      "name": "Dupla Personalidade",
+      "nameKey": "dupla-personalidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:dupla-personalidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-esquizofrenico",
+      "source": "aprimoramentos-3",
+      "name": "Esquizofrênico",
+      "nameKey": "esquizofrenico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:esquizofrenico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-ferro-frio",
+      "source": "aprimoramentos-3",
+      "name": "Ferro Frio",
+      "nameKey": "ferro-frio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:ferro-frio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-fobia-grave",
+      "source": "aprimoramentos-3",
+      "name": "Fobia Grave",
+      "nameKey": "fobia-grave",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:fobia-grave"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-inimigo",
+      "source": "aprimoramentos-3",
+      "name": "Inimigo",
+      "nameKey": "inimigo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:inimigo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-mania-de-perseguicao",
+      "source": "aprimoramentos-3",
+      "name": "Mania de Perseguição",
+      "nameKey": "mania-de-perseguicao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:mania-de-perseguicao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-maniaco-depressivo",
+      "source": "aprimoramentos-3",
+      "name": "Maníaco-depressivo",
+      "nameKey": "maniaco-depressivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:maniaco-depressivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-mentiroso-compulsivo",
+      "source": "aprimoramentos-3",
+      "name": "Mentiroso Compulsivo",
+      "nameKey": "mentiroso-compulsivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:mentiroso-compulsivo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-perda-terrivel",
+      "source": "aprimoramentos-3",
+      "name": "Perda Terrível",
+      "nameKey": "perda-terrivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:perda-terrivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-poltergeist",
+      "source": "aprimoramentos-3",
+      "name": "Poltergeist",
+      "nameKey": "poltergeist",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:poltergeist"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sangramento",
+      "source": "aprimoramentos-3",
+      "name": "Sangramento",
+      "nameKey": "sangramento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sangramento"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-sombras",
+      "source": "aprimoramentos-3",
+      "name": "Sombras",
+      "nameKey": "sombras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:sombras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-toque-letal",
+      "source": "aprimoramentos-3",
+      "name": "Toque Letal",
+      "nameKey": "toque-letal",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:toque-letal"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-traumatizado",
+      "source": "aprimoramentos-3",
+      "name": "Traumatizado",
+      "nameKey": "traumatizado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:traumatizado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-atropelar",
+      "source": "aprimoramentos-4",
+      "name": "Atropelar",
+      "nameKey": "atropelar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:atropelar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-aceleracao",
+      "source": "aprimoramentos-4",
+      "name": "Aceleração",
+      "nameKey": "aceleracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:aceleracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-adaptacao",
+      "source": "aprimoramentos-4",
+      "name": "Adaptação",
+      "nameKey": "adaptacao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:adaptacao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-adaptador",
+      "source": "aprimoramentos-4",
+      "name": "Adaptador",
+      "nameKey": "adaptador",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:adaptador"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ambiente-especial",
+      "source": "aprimoramentos-4",
+      "name": "Ambiente Especial",
+      "nameKey": "ambiente-especial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ambiente-especial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-armas-naturais",
+      "source": "aprimoramentos-4",
+      "name": "Armas Naturais",
+      "nameKey": "armas-naturais",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:armas-naturais"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ataque-especial",
+      "source": "aprimoramentos-4",
+      "name": "Ataque Especial",
+      "nameKey": "ataque-especial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ataque-especial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ataque-extra",
+      "source": "aprimoramentos-4",
+      "name": "Ataque Extra",
+      "nameKey": "ataque-extra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ataque-extra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-contra-ataque",
+      "source": "aprimoramentos-4",
+      "name": "Contra ataque",
+      "nameKey": "contra-ataque",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:contra-ataque"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-corpo-flexivel",
+      "source": "aprimoramentos-4",
+      "name": "Corpo Flexível",
+      "nameKey": "corpo-flexivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:corpo-flexivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-dano-macico",
+      "source": "aprimoramentos-4",
+      "name": "Dano Maciço",
+      "nameKey": "dano-macico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:dano-macico"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-deslocamento-especial",
+      "source": "aprimoramentos-4",
+      "name": "Deslocamento Especial",
+      "nameKey": "deslocamento-especial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:deslocamento-especial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-elasticidade",
+      "source": "aprimoramentos-4",
+      "name": "Elasticidade",
+      "nameKey": "elasticidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:elasticidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-empatia-com-animais",
+      "source": "aprimoramentos-4",
+      "name": "Empatia com Animais",
+      "nameKey": "empatia-com-animais",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:empatia-com-animais"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-energia-extra",
+      "source": "aprimoramentos-4",
+      "name": "Energia Extra",
+      "nameKey": "energia-extra",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:energia-extra"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-expert",
+      "source": "aprimoramentos-4",
+      "name": "Expert",
+      "nameKey": "expert",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:expert"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-feiticaria",
+      "source": "aprimoramentos-4",
+      "name": "Feitiçaria",
+      "nameKey": "feiticaria",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:feiticaria"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-forma-alternativa",
+      "source": "aprimoramentos-4",
+      "name": "Forma Alternativa",
+      "nameKey": "forma-alternativa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:forma-alternativa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-genio",
+      "source": "aprimoramentos-4",
+      "name": "Gênio",
+      "nameKey": "genio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:genio"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-habil",
+      "source": "aprimoramentos-4",
+      "name": "Hábil",
+      "nameKey": "habil",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:habil"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-imortalidade-quimica",
+      "source": "aprimoramentos-4",
+      "name": "Imortalidade Química",
+      "nameKey": "imortalidade-quimica",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:imortalidade-quimica"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-imunidade",
+      "source": "aprimoramentos-4",
+      "name": "Imunidade",
+      "nameKey": "imunidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:imunidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-iniciativa",
+      "source": "aprimoramentos-4",
+      "name": "Iniciativa",
+      "nameKey": "iniciativa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:iniciativa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-invisibilidade",
+      "source": "aprimoramentos-4",
+      "name": "Invisibilidade",
+      "nameKey": "invisibilidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:invisibilidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-item-pessoal",
+      "source": "aprimoramentos-4",
+      "name": "Item Pessoal",
+      "nameKey": "item-pessoal",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:item-pessoal"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ligacao-natural",
+      "source": "aprimoramentos-4",
+      "name": "Ligação Natural",
+      "nameKey": "ligacao-natural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ligacao-natural"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-adiar-magia",
+      "source": "aprimoramentos-4",
+      "name": "Adiar Magia",
+      "nameKey": "adiar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:adiar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ampliar-magia",
+      "source": "aprimoramentos-4",
+      "name": "Ampliar Magia",
+      "nameKey": "ampliar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ampliar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ignorar-componente",
+      "source": "aprimoramentos-4",
+      "name": "Ignorar componente",
+      "nameKey": "ignorar-componente",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ignorar-componente"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-invocacao-aprimorada",
+      "source": "aprimoramentos-4",
+      "name": "Invocação Aprimorada",
+      "nameKey": "invocacao-aprimorada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:invocacao-aprimorada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-magia-cooperativa",
+      "source": "aprimoramentos-4",
+      "name": "Magia Cooperativa",
+      "nameKey": "magia-cooperativa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:magia-cooperativa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-magia-sequencial",
+      "source": "aprimoramentos-4",
+      "name": "Magia Sequencial",
+      "nameKey": "magia-sequencial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:magia-sequencial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-memoria-expandida",
+      "source": "aprimoramentos-4",
+      "name": "Memória Expandida",
+      "nameKey": "memoria-expandida",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:memoria-expandida"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-mente-repartilhada",
+      "source": "aprimoramentos-4",
+      "name": "Mente Repartilhada",
+      "nameKey": "mente-repartilhada",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:mente-repartilhada"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-mesclar-se-as-sombras",
+      "source": "aprimoramentos-4",
+      "name": "Mesclar-se as Sombras",
+      "nameKey": "mesclar-se-as-sombras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:mesclar-se-as-sombras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-paralisia",
+      "source": "aprimoramentos-4",
+      "name": "Paralisia",
+      "nameKey": "paralisia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:paralisia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-pele-metalica",
+      "source": "aprimoramentos-4",
+      "name": "Pele Metálica",
+      "nameKey": "pele-metalica",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:pele-metalica"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-poder-elevado",
+      "source": "aprimoramentos-4",
+      "name": "Poder Elevado",
+      "nameKey": "poder-elevado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:poder-elevado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-pontos-de-vida-extras",
+      "source": "aprimoramentos-4",
+      "name": "Pontos de Vida Extras",
+      "nameKey": "pontos-de-vida-extras",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:pontos-de-vida-extras"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-presenca-invisivel",
+      "source": "aprimoramentos-4",
+      "name": "Presença Invisível",
+      "nameKey": "presenca-invisivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:presenca-invisivel"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-reflexao",
+      "source": "aprimoramentos-4",
+      "name": "Reflexão",
+      "nameKey": "reflexao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:reflexao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-regeneracao",
+      "source": "aprimoramentos-4",
+      "name": "Regeneração",
+      "nameKey": "regeneracao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:regeneracao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-resistencia",
+      "source": "aprimoramentos-4",
+      "name": "Resistência",
+      "nameKey": "resistencia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:resistencia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ritualismo",
+      "source": "aprimoramentos-4",
+      "name": "Ritualismo",
+      "nameKey": "ritualismo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ritualismo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-saude-de-rato",
+      "source": "aprimoramentos-4",
+      "name": "Saúde de Rato",
+      "nameKey": "saude-de-rato",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:saude-de-rato"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-sentido-de-perigo",
+      "source": "aprimoramentos-4",
+      "name": "Sentido de Perigo",
+      "nameKey": "sentido-de-perigo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:sentido-de-perigo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-telepatia",
+      "source": "aprimoramentos-4",
+      "name": "Telepatia",
+      "nameKey": "telepatia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:telepatia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-teletransporte",
+      "source": "aprimoramentos-4",
+      "name": "Teletransporte",
+      "nameKey": "teletransporte",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:teletransporte"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-virus",
+      "source": "aprimoramentos-4",
+      "name": "Vírus",
+      "nameKey": "virus",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:virus"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-foco-em-caminho",
+      "source": "aprimoramentos-4",
+      "name": "Foco em Caminho",
+      "nameKey": "foco-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:foco-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-maestria-em-caminho",
+      "source": "aprimoramentos-4",
+      "name": "Maestria em Caminho",
+      "nameKey": "maestria-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:maestria-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-supremacia-em-caminho",
+      "source": "aprimoramentos-4",
+      "name": "Supremacia em Caminho",
+      "nameKey": "supremacia-em-caminho",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:supremacia-em-caminho"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-saque-rapido",
+      "source": "aprimoramentos-4",
+      "name": "Saque rápido",
+      "nameKey": "saque-rapido",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:saque-rapido"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-alergia",
+      "source": "aprimoramentos-4",
+      "name": "Alergia",
+      "nameKey": "alergia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:alergia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-cacado",
+      "source": "aprimoramentos-4",
+      "name": "Caçado",
+      "nameKey": "cacado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:cacado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-de-ouro",
+      "source": "aprimoramentos-4",
+      "name": "de Ouro)",
+      "nameKey": "de-ouro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:de-ouro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-dominado",
+      "source": "aprimoramentos-4",
+      "name": "Dominado",
+      "nameKey": "dominado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:dominado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-fracote",
+      "source": "aprimoramentos-4",
+      "name": "Fracote",
+      "nameKey": "fracote",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:fracote"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-inabil",
+      "source": "aprimoramentos-4",
+      "name": "Inábil",
+      "nameKey": "inabil",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:inabil"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-marcado-a-ferro",
+      "source": "aprimoramentos-4",
+      "name": "Marcado a Ferro",
+      "nameKey": "marcado-a-ferro",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:marcado-a-ferro"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-ponto-fraco",
+      "source": "aprimoramentos-4",
+      "name": "Ponto Fraco",
+      "nameKey": "ponto-fraco",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:ponto-fraco"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-sensibilidade-a-luz",
+      "source": "aprimoramentos-4",
+      "name": "Sensibilidade a Luz",
+      "nameKey": "sensibilidade-a-luz",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:sensibilidade-a-luz"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-tamanho-especial",
+      "source": "aprimoramentos-4",
+      "name": "Tamanho Especial",
+      "nameKey": "tamanho-especial",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:tamanho-especial"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-vidas-gastas",
+      "source": "aprimoramentos-4",
+      "name": "Vidas Gastas",
+      "nameKey": "vidas-gastas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:vidas-gastas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-4-vulnerabilidade",
+      "source": "aprimoramentos-4",
+      "name": "Vulnerabilidade",
+      "nameKey": "vulnerabilidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-4:vulnerabilidade"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-amigo-dos-cavalos",
+      "source": "aprimoramentostormenta",
+      "name": "Amigo dos Cavalos",
+      "nameKey": "amigo-dos-cavalos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:amigo-dos-cavalos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-aventureiro-nato",
+      "source": "aprimoramentostormenta",
+      "name": "Aventureiro Nato",
+      "nameKey": "aventureiro-nato",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:aventureiro-nato"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-caminho-para-doherimm",
+      "source": "aprimoramentostormenta",
+      "name": "Caminho para Doherimm",
+      "nameKey": "caminho-para-doherimm",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:caminho-para-doherimm"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-conhecimento-de-itens-magicos",
+      "source": "aprimoramentostormenta",
+      "name": "Conhecimento de Itens Mágicos",
+      "nameKey": "conhecimento-de-itens-magicos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:conhecimento-de-itens-magicos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-escutar",
+      "source": "aprimoramentostormenta",
+      "name": "Escutar",
+      "nameKey": "escutar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:escutar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-lamnor",
+      "source": "aprimoramentostormenta",
+      "name": "Lamnor",
+      "nameKey": "lamnor",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:lamnor"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-personagens",
+      "source": "aprimoramentostormenta",
+      "name": "Personagens",
+      "nameKey": "personagens",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:personagens"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-aparencia-inofensiva",
+      "source": "aprimoramentostormenta",
+      "name": "Aparência Inofensiva",
+      "nameKey": "aparencia-inofensiva",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:aparencia-inofensiva"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-cacador-de-criatura",
+      "source": "aprimoramentostormenta",
+      "name": "Caçador de Criatura",
+      "nameKey": "cacador-de-criatura",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:cacador-de-criatura"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-facilidade-para-linguas",
+      "source": "aprimoramentostormenta",
+      "name": "Facilidade para Línguas",
+      "nameKey": "facilidade-para-linguas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:facilidade-para-linguas"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-hierarquia-militar",
+      "source": "aprimoramentostormenta",
+      "name": "Hierarquia Militar",
+      "nameKey": "hierarquia-militar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:hierarquia-militar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-intuicao",
+      "source": "aprimoramentostormenta",
+      "name": "Intuição",
+      "nameKey": "intuicao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:intuicao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-nocao-exata-do-tempo",
+      "source": "aprimoramentostormenta",
+      "name": "Noção Exata do Tempo",
+      "nameKey": "nocao-exata-do-tempo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:nocao-exata-do-tempo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-nocao-de-perigo",
+      "source": "aprimoramentostormenta",
+      "name": "Noção de Perigo",
+      "nameKey": "nocao-de-perigo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:nocao-de-perigo"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-patrono",
+      "source": "aprimoramentostormenta",
+      "name": "Patrono",
+      "nameKey": "patrono",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:patrono"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-reflexos-em-combate",
+      "source": "aprimoramentostormenta",
+      "name": "Reflexos em Combate",
+      "nameKey": "reflexos-em-combate",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:reflexos-em-combate"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-status-social-reputacao",
+      "source": "aprimoramentostormenta",
+      "name": "Status Social/Reputação",
+      "nameKey": "status-social-reputacao",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:status-social-reputacao"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-terreno-familiar",
+      "source": "aprimoramentostormenta",
+      "name": "Terreno Familiar",
+      "nameKey": "terreno-familiar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:terreno-familiar"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-torcida",
+      "source": "aprimoramentostormenta",
+      "name": "Torcida",
+      "nameKey": "torcida",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:torcida"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-aumentar-magia",
+      "source": "aprimoramentostormenta",
+      "name": "Aumentar Magia",
+      "nameKey": "aumentar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:aumentar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-elevar-magia",
+      "source": "aprimoramentostormenta",
+      "name": "Elevar Magia",
+      "nameKey": "elevar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:elevar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-estender-magia",
+      "source": "aprimoramentostormenta",
+      "name": "Estender Magia",
+      "nameKey": "estender-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:estender-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-magia-sem-gestos",
+      "source": "aprimoramentostormenta",
+      "name": "Magia Sem Gestos",
+      "nameKey": "magia-sem-gestos",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:magia-sem-gestos"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-magia-silenciosa",
+      "source": "aprimoramentostormenta",
+      "name": "Magia Silenciosa",
+      "nameKey": "magia-silenciosa",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:magia-silenciosa"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-maximizar-magia",
+      "source": "aprimoramentostormenta",
+      "name": "Maximizar Magia",
+      "nameKey": "maximizar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:maximizar-magia"
+    },
+    {
+      "id": "aprimoramento-aprimoramentostormenta-potencializar-magia",
+      "source": "aprimoramentostormenta",
+      "name": "Potencializar Magia",
+      "nameKey": "potencializar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentostormenta:potencializar-magia"
+    },
+    {
+      "id": "aprimoramento-talentos-aviso-aos-jogadores-principalmente-owerpowers",
+      "source": "talentos",
+      "name": "AVISO AOS JOGADORES (PRINCIPALMENTE OWERPOWERS!)",
+      "nameKey": "aviso-aos-jogadores-principalmente-owerpowers",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:aviso-aos-jogadores-principalmente-owerpowers"
+    },
+    {
+      "id": "aprimoramento-talentos-ataque-giratorio",
+      "source": "talentos",
+      "name": "ATAQUE GIRATÓRIO",
+      "nameKey": "ataque-giratorio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:ataque-giratorio"
+    },
+    {
+      "id": "aprimoramento-talentos-ataque-poderoso",
+      "source": "talentos",
+      "name": "ATAQUE PODEROSO",
+      "nameKey": "ataque-poderoso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:ataque-poderoso"
+    },
+    {
+      "id": "aprimoramento-talentos-atravessar",
+      "source": "talentos",
+      "name": "ATRAVESSAR",
+      "nameKey": "atravessar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:atravessar"
+    },
+    {
+      "id": "aprimoramento-talentos-foco-em-arma",
+      "source": "talentos",
+      "name": "FOCO EM ARMA",
+      "nameKey": "foco-em-arma",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:foco-em-arma"
+    },
+    {
+      "id": "aprimoramento-talentos-acuidade-com-arma",
+      "source": "talentos",
+      "name": "ACUIDADE COM ARMA",
+      "nameKey": "acuidade-com-arma",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:acuidade-com-arma"
+    },
+    {
+      "id": "aprimoramento-talentos-ataque-assassino",
+      "source": "talentos",
+      "name": "ATAQUE ASSASSINO",
+      "nameKey": "ataque-assassino",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:ataque-assassino"
+    },
+    {
+      "id": "aprimoramento-talentos-acerto-critico-aprimorado",
+      "source": "talentos",
+      "name": "ACERTO CRÍTICO APRIMORADO",
+      "nameKey": "acerto-critico-aprimorado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:acerto-critico-aprimorado"
+    },
+    {
+      "id": "aprimoramento-talentos-evaso",
+      "source": "talentos",
+      "name": "EVASO",
+      "nameKey": "evaso",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:evaso"
+    },
+    {
+      "id": "aprimoramento-talentos-trespassar",
+      "source": "talentos",
+      "name": "TRESPASSAR",
+      "nameKey": "trespassar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:trespassar"
+    },
+    {
+      "id": "aprimoramento-talentos-acuidade-com-magia",
+      "source": "talentos",
+      "name": "ACUIDADE COM MAGIA",
+      "nameKey": "acuidade-com-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:acuidade-com-magia"
+    },
+    {
+      "id": "aprimoramento-talentos-esquiva-sobrenatural",
+      "source": "talentos",
+      "name": "ESQUIVA SOBRENATURAL",
+      "nameKey": "esquiva-sobrenatural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:esquiva-sobrenatural"
+    },
+    {
+      "id": "aprimoramento-talentos-acrobatico",
+      "source": "talentos",
+      "name": "ACROBÁTICO",
+      "nameKey": "acrobatico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:acrobatico"
+    },
+    {
+      "id": "aprimoramento-talentos-arremesso-em-combate",
+      "source": "talentos",
+      "name": "ARREMESSO EM COMBATE",
+      "nameKey": "arremesso-em-combate",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:arremesso-em-combate"
+    },
+    {
+      "id": "aprimoramento-talentos-carismatico",
+      "source": "talentos",
+      "name": "CARISMÁTICO",
+      "nameKey": "carismatico",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:carismatico"
+    },
+    {
+      "id": "aprimoramento-talentos-alvo-elusivo",
+      "source": "talentos",
+      "name": "ALVO ELUSIVO",
+      "nameKey": "alvo-elusivo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:alvo-elusivo"
+    },
+    {
+      "id": "aprimoramento-talentos-seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
+      "source": "talentos",
+      "name": "SEUS OPONENTES COMO COBERTURA,BLOQUEANDO E ATRAPALHANDO OS ATAQUES",
+      "nameKey": "seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques"
+    },
+    {
+      "id": "aprimoramento-talentos-duro-de-matar",
+      "source": "talentos",
+      "name": "DURO DE MATAR",
+      "nameKey": "duro-de-matar",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:duro-de-matar"
+    },
+    {
+      "id": "aprimoramento-talentos-bruto",
+      "source": "talentos",
+      "name": "BRUTO",
+      "nameKey": "bruto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:bruto"
+    },
+    {
+      "id": "aprimoramento-talentos-inimigo-predileto",
+      "source": "talentos",
+      "name": "INIMIGO PREDILETO",
+      "nameKey": "inimigo-predileto",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:inimigo-predileto"
+    },
+    {
+      "id": "aprimoramento-talentos-furia",
+      "source": "talentos",
+      "name": "FÚRIA",
+      "nameKey": "furia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:furia"
+    },
+    {
+      "id": "aprimoramento-talentos-investida-implacavel",
+      "source": "talentos",
+      "name": "INVESTIDA IMPLACÁVEL",
+      "nameKey": "investida-implacavel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:investida-implacavel"
+    },
+    {
+      "id": "aprimoramento-talentos-duro-na-queda",
+      "source": "talentos",
+      "name": "DURO NA QUEDA",
+      "nameKey": "duro-na-queda",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:duro-na-queda"
+    },
+    {
+      "id": "aprimoramento-talentos-rastrear",
+      "source": "talentos",
+      "name": "RASTREAR",
+      "nameKey": "rastrear",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:rastrear"
+    },
+    {
+      "id": "aprimoramento-talentos-maximizar-magia",
+      "source": "talentos",
+      "name": "MAXIMIZAR MAGIA",
+      "nameKey": "maximizar-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:maximizar-magia"
+    },
+    {
+      "id": "aprimoramento-talentos-especializao-em-percia",
+      "source": "talentos",
+      "name": "ESPECIALIZAO EM PERCIA",
+      "nameKey": "especializao-em-percia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:especializao-em-percia"
+    },
+    {
+      "id": "aprimoramento-talentos-finta",
+      "source": "talentos",
+      "name": "FINTA",
+      "nameKey": "finta",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:finta"
+    },
+    {
+      "id": "aprimoramento-talentos-prontido",
+      "source": "talentos",
+      "name": "PRONTIDO",
+      "nameKey": "prontido",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:prontido"
+    },
+    {
+      "id": "aprimoramento-talentos-imunidade-ao-medo",
+      "source": "talentos",
+      "name": "IMUNIDADE AO MEDO",
+      "nameKey": "imunidade-ao-medo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:imunidade-ao-medo"
+    },
+    {
+      "id": "aprimoramento-talentos-presenca-paralisante",
+      "source": "talentos",
+      "name": "PRESENÇA PARALISANTE",
+      "nameKey": "presenca-paralisante",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:presenca-paralisante"
+    },
+    {
+      "id": "aprimoramento-talentos-presenca-horripilante",
+      "source": "talentos",
+      "name": "PRESENÇA HORRIPILANTE",
+      "nameKey": "presenca-horripilante",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:presenca-horripilante"
+    },
+    {
+      "id": "aprimoramento-talentos-combate-montado",
+      "source": "talentos",
+      "name": "COMBATE MONTADO",
+      "nameKey": "combate-montado",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:combate-montado"
+    },
+    {
+      "id": "aprimoramento-talentos-viso-sobrenatural",
+      "source": "talentos",
+      "name": "VISO SOBRENATURAL",
+      "nameKey": "viso-sobrenatural",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:viso-sobrenatural"
+    },
+    {
+      "id": "aprimoramento-talentos-encontrar-passagens-secretas",
+      "source": "talentos",
+      "name": "ENCONTRAR PASSAGENS SECRETAS",
+      "nameKey": "encontrar-passagens-secretas",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:encontrar-passagens-secretas"
+    },
+    {
+      "id": "aprimoramento-talentos-deslocamento",
+      "source": "talentos",
+      "name": "DESLOCAMENTO",
+      "nameKey": "deslocamento",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:deslocamento"
+    },
+    {
+      "id": "aprimoramento-talentos-rastro-invisivel",
+      "source": "talentos",
+      "name": "RASTRO INVÍSIVEL",
+      "nameKey": "rastro-invisivel",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:rastro-invisivel"
+    },
+    {
+      "id": "aprimoramento-talentos-resistencia",
+      "source": "talentos",
+      "name": "RESISTÊNCIA",
+      "nameKey": "resistencia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:resistencia"
+    },
+    {
+      "id": "aprimoramento-talentos-forca",
+      "source": "talentos",
+      "name": "FORÇA",
+      "nameKey": "forca",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:forca"
+    },
+    {
+      "id": "aprimoramento-talentos-agilidade",
+      "source": "talentos",
+      "name": "AGILIDADE",
+      "nameKey": "agilidade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:agilidade"
+    },
+    {
+      "id": "aprimoramento-talentos-raciocinio",
+      "source": "talentos",
+      "name": "RACIOCÍNIO",
+      "nameKey": "raciocinio",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:raciocinio"
+    },
+    {
+      "id": "aprimoramento-talentos-vontade",
+      "source": "talentos",
+      "name": "VONTADE",
+      "nameKey": "vontade",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:vontade"
+    },
+    {
+      "id": "aprimoramento-talentos-sincronia",
+      "source": "talentos",
+      "name": "SINCRONIA",
+      "nameKey": "sincronia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:sincronia"
+    },
+    {
+      "id": "aprimoramento-talentos-atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
+      "source": "talentos",
+      "name": "ATRIBUTOS, APRIMORAMENTOS E HABILIDADES ESPECIAIS TAMBÉM PODEM SER",
+      "nameKey": "atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser"
+    },
+    {
+      "id": "aprimoramento-talentos-foco-em-magia",
+      "source": "talentos",
+      "name": "FOCO EM MAGIA",
+      "nameKey": "foco-em-magia",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:talentos:foco-em-magia"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "source": "cyfell",
+  "title": "Cyfell",
+  "status": "full-read-auto-pass-1",
+  "pages": 23,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "cyfell-anime-rpg-1",
+      "name": "ANIME RPG",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "1 ANIME RPG Cyfell TL ciberwarriors Robôs, monstros e guerreiros metálicos para ANIME RPG Belém, 2005 1ª edição 2 Criação: André Mousinho Agradecimentos: - Minhas mãe, irmã e esposa, por aturarem um RPGista... - Ao pessoal da Daemon pelo inestimável apoio à produção nacional do RPG - Ao meu grupo de jogo (Bobert, Mosqueton, MC Ice, Docsnow, Capitão Funfas, M...",
+      "entityRefs": []
+    },
+    {
+      "id": "cyfell-parte-3-a-triade-5",
+      "name": "Parte 3 – A Tríade",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          23
+        ]
+      ],
+      "summary": "5 Parte 3 – A Tríade A organização criminosa conhecido como Tríade, hoje, está longe de ser uma liga mafiosa que age acobertada pelo manto do desconhecido. Revelada ao mundo no chamado “Incidente Fuji”, os criminosos estabeleceram bases ocultas em praticamente todo o arquipélago. Seu líder é Narkko. Outrora um ser humano, ele transcendeu os limites entre hom...",
+      "entityRefs": []
+    }
+  ]
+}

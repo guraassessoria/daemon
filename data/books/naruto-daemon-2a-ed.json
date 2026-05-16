@@ -1,0 +1,252 @@
+{
+  "source": "naruto-daemon-2a-ed",
+  "title": "Naruto-daemon-2ª-Ed",
+  "status": "full-read-auto-pass-1",
+  "pages": 93,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "attribute_skill",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "naruto-daemon-2a-ed-por-luan-quintella-1",
+      "name": "Por Luan Quintella",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          13
+        ]
+      ],
+      "summary": "Por Luan Quintella RPG Daemon: Por: Luan P. Quintella. Data: 15/03/2011 2º Edição – Três Rios - RJ Índice: Chakra........................................pág 3 Selos...........................................pág 3 Kekkey Genkay.........................pág 4 Equipamento Ninja....................pág 4 Jutsus..........................................pág 4 Domina...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-chaveiro-explosivo-1d6-de-dano-pulso1-14",
+      "name": "Chaveiro-explosivo: 1d6 de dano-pulso1",
+      "category": "core_rule",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "Chaveiro-explosivo: 1d6 de dano-pulso1 Se o personagem optar por colocar uma Kibaku Fuuda numa de suas kunais e arremessá-la em seu inimigo ele pode sacrificar seu turno de movimento e explodir a Kibaku Fuuda naquele mesmo turno sem possuir rank de velocidade 2, fazendo um teste da perícia “Explosivos [Int]”, isso se errar o oponente. Kunais com Kibaku Fuuda...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-mestres-em-marionetes-podem-controlar-17",
+      "name": "Mestres em marionetes podem controlar",
+      "category": "combat",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Mestres em marionetes podem controlar mais de uma marionete. Quando alcançarem o 5º nível estarão aptos a utilizar 2 marionetes. No 7º nível, 3 marionetes. No 9º nível, 4 marionetes. No 10º nível, 5 marionetes. No 11º nível 6 marionetes e assim sucessivamente até atingir o 15º nível podendo controlar 10 marionetes. O personagem escolhe quais os tamanhos das...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-descricao-com-este-componente-a-19",
+      "name": "Descrição: Com este componente a",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          19,
+          21
+        ]
+      ],
+      "summary": "Descrição: Com este componente a marionete é capaz de lançar kunais com papeis explosivos que, assim que atingem o alvo, explodem automaticamente causando um dano equivalente ao da kibaku fuuda utilizada (normalmente a Kibaku fuuda de 4d6 dano pulso 2/1). Com este componente é possível realizar uma rajada. Neste caso o dano dos explosivos é cumulativo. Cauda...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-necessaria-afinidade-elemental-com-o-22",
+      "name": "necessária afinidade elemental com o",
+      "category": "core_rule",
+      "pages": [
+        [
+          22,
+          34
+        ]
+      ],
+      "summary": "necessária afinidade elemental com o jutsu copiado. Memorizar: O shinobi que escolhe a ação “memorizar”, deve fazer um teste difícil de INT não importando se possui “Copy Ninja” como talento. Em caso de sucesso o shinobi começa com 15% de domínio sobre o jutsu copiado (17% caso possua “genialidade” como talento e 20% caso possua “Copy Ninja” como talento). O...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-personagem-com-esta-manobra-nao-35",
+      "name": "Personagem com esta Manobra não",
+      "category": "combat",
+      "pages": [
+        [
+          35,
+          44
+        ]
+      ],
+      "summary": "Personagem com esta Manobra não sofrem nenhuma penalidade por lutar às cegas, a menos que estejam privados também do sentido de audição; neste caso siga as regras normais. Iniciativa Aprimorada (30) Você consegue agir rapidamente, e por isso recebe um bônus de +4 em todos os testes de Iniciativa. Trespassar (50) Exigências: Apenas personagens com FR 13 ou ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-monstros-legendarios-tendem-a-aparecer-45",
+      "name": "monstros legendários tendem a aparecer",
+      "category": "core_rule",
+      "pages": [
+        45
+      ],
+      "summary": "monstros legendários tendem a aparecer quando uma pessoa luta contra um Soushi. Embora o clã tenha tal poder, apenas poucos do clã têm o presente da linhagem avançada despertado. Em regras de jogo: personagens do clã Soushi podem criar qualquer animal existente. Eles variam de tamanho: pequenos; médios; grandes; gigantes. Usando um jutsu chamado “Ninpou: Cho...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-inuzuka-46",
+      "name": "Inuzuka",
+      "category": "core_rule",
+      "pages": [
+        [
+          46,
+          47
+        ]
+      ],
+      "summary": "Inuzuka tem este redutor aplicado permanentemente em sua ficha e pode até mesmo desistir de se tornar ninja. Jutsus Iniciais: Gijuu Ninpou: Juujin Bunshin / Gijuu Ninpou: Shikyaku no Jutsu / Tsuuga Akimichi: Exigencias: clã e linhagem sanguínea O famoso clã dos gordinhos. São sempre muito comilões e sorridentes. Detestam serem chamados de gordinhos. Mas não...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-suas-tecnicas-sozinho-ver-inventando-48",
+      "name": "suas técnicas sozinho (ver “Inventando",
+      "category": "core_rule",
+      "pages": [
+        [
+          48,
+          52
+        ]
+      ],
+      "summary": "suas técnicas sozinho (ver “Inventando Jutsus” na pág 08). Um Koori começa a aventura com os aprimoramentos positivos “Selo com uma mão” e “Rank de Velocidade Aprimorado” e o negativo “Negação (Genjutsu)”. Podem aprender jutsus de Suiton, mas nunca de Fuuton. Jutsus iniciais: Sensatsu Suishou (Mil Agulhas Voadoras de Água) apenas. Clã de Deidara: Exigencias:...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-cla-akimichi-jutsus-exclusivos-53",
+      "name": "Clã Akimichi (Jutsus exclusivos",
+      "category": "combat",
+      "pages": [
+        [
+          53,
+          61
+        ]
+      ],
+      "summary": "Clã Akimichi (Jutsus exclusivos do clã Akimichi de Konoha): Baika no Jutsu (Técnica da Multiplicação do Peso) Quem usa: Akimichi Chouji, Akimichi Chomaru, clã Akimichi Rank: D Chakra: 3pts Dano: Caso o Akimichi aumente o tamanho de todo o seu corpo inflando-se, ele adquire IP +3 somando com o IP de sua roupa. Distancia mínima: 4m do inimigo Descrição: O clã...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-distancia-minima-10m-do-inimigo-62",
+      "name": "Distancia mínima: 10m do inimigo",
+      "category": "core_rule",
+      "pages": [
+        [
+          62,
+          64
+        ]
+      ],
+      "summary": "Distancia mínima: 10m do inimigo Descrição: Criando uma armadura espiritual o ninja fica envolvido por ela e não sofre danos por qualquer forma de ataque. A armadura espiritual adquire poderes formidáveis com o passar do tempo. Magen • Kyouten Chiten (Ilusão Demoníaca • Mudança do Espelho do Céu e da Terra) Quem usa: Uchiha Itachi Rank: B Chakra: 4pts Dano:...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-quem-usa-terceiro-hokage-hatake-65",
+      "name": "Quem usa: Terceiro Hokage, Hatake",
+      "category": "combat",
+      "pages": [
+        [
+          65,
+          67
+        ]
+      ],
+      "summary": "Quem usa: Terceiro Hokage, Hatake Kakashi, Yakushi Kabuto, Touji Mizuki, Namikaze Minato e Ebisu Rank: C Chakra: 4pts Dano: nenhum (a vitima tem direito a um teste de percepção para conseguir esquivar, caso contrário não é possível a esquiva). O alvo tem direito a um teste difícil de CON por turno para se livrar (enquanto preso o alvo é considerado indefeso)...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-descricao-usando-sua-kekkei-genkai-68",
+      "name": "Descrição: Usando sua Kekkei Genkai,",
+      "category": "core_rule",
+      "pages": [
+        68
+      ],
+      "summary": "Descrição: Usando sua Kekkei Genkai, Haku cria agulhas de água que vão na direção do inimigo. Makyou Hyoushou (Espelhos Demoníacos de Cristais de Gelo) Quem usa: Clã Koori, Haku. Rank: A Chakra: 5pts+1pt turno Dano: nenhum. O ninja obtém, com esta técnica, Rank de Velocidade 6, podendo atacar 6 vezes por turno. Neste estado ele não pode ser atingido no turno...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-katon-gouryuuka-no-jutsu-libertacao-69",
+      "name": "Katon: Gouryuuka no Jutsu (Libertação",
+      "category": "core_rule",
+      "pages": [
+        [
+          69,
+          72
+        ]
+      ],
+      "summary": "Katon: Gouryuuka no Jutsu (Libertação do Fogo: Técnica do Grande Dragão de Fogo) Quem usa: Uchiha Sasuke Rank: - Chakra: 5pts Dano: 4d6 Distancia mínima: 6m do inimigo Descrição: Após fazer os selos, Sasuke expele pela boca um enorme dragão de fogo que queima tudo o que encontra pela frente. Katon: Housenka no Jutsu (Libertação do Fogo: Técnica do Fogo Místi...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-chakra-habilidade-natural-nao-gasta-73",
+      "name": "Chakra: habilidade natural (não gasta",
+      "category": "combat",
+      "pages": [
+        [
+          73,
+          77
+        ]
+      ],
+      "summary": "Chakra: habilidade natural (não gasta chakra) Dano: nenhum Distancia mínima: 2m do inimigo Descrição: Usando sua habilidade, Gaara levita areia sob seus pés, fazendo-o flutuar. Sabaku Kyuu (Caixão do Deserto) Quem usa: Gaara Rank: - Chakra: 4pts Dano: 1d3 (o alvo pode fazer um teste difícil de esquiva para tentar esquivar. Em caso de falha ficará preso e não...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-descricao-invocando-armas-tenten-78",
+      "name": "Descrição: Invocando armas, Tenten",
+      "category": "combat",
+      "pages": [
+        78
+      ],
+      "summary": "Descrição: Invocando armas, Tenten flutua e liga as armas na sua mão com cordas, e se cria uma muralha com shurikens, kunais, foices, entre outras caindo acima do oponente vindas da lateral e da frente. Após esta técnica o usuário é considerado indefeso. Raidenber (Defesa Absoluta) Quem usa: Tenten Mitsashi Rank: - Chakra: 4pts Dano: 1d6+3 Exigências: Aprimo...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-descricao-usada-anteriormente-pelo-79",
+      "name": "Descrição: Usada anteriormente pelo",
+      "category": "combat",
+      "pages": [
+        [
+          79,
+          80
+        ]
+      ],
+      "summary": "Descrição: Usada anteriormente pelo Sandaime Kazekage, que ao observar o controle de areia do jinchuuriki do Shukaku criou essa técnica, onde ele controla uma areia de ferro a partir de seu chakra, que emite ondas magnéticas. Sasori o transformou num Hitokugutsu e agora pode usá-la. Satetsu Houkai (Areia de Ferro do Método do Mundo) Quem usa: Sasori (com San...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-descricao-utilizando-shurikens-comuns-81",
+      "name": "Descrição: Utilizando shurikens comuns,",
+      "category": "core_rule",
+      "pages": [
+        [
+          81,
+          88
+        ]
+      ],
+      "summary": "Descrição: Utilizando shurikens comuns, o Ninja cria clones de sombra das mesmas que são tão fatais como as originais. Kanashibari no Jutsu (Técnica de Paralisia Corporal Temporária) Quem usa:, Esquadrão ANBU, Hatake Kakashi, Anko Mitarashi, Haruno Sakura e Tsunade Rank: B Chakra: 3pts Dano: nenhum (é considerado um teste normal de ataque mas em caso de acer...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed-nome-do-jogador-89",
+      "name": "Nome do jogador:________________________",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          89,
+          93
+        ]
+      ],
+      "summary": "Nome do jogador:________________________ Nome do personagem:____________________________________________ Profissão:____________________Categoria:_______Status:____________ Vila Oculta:_____________________________País:__________Nível:_____ Data de nascimento:____/____ Idade real:______aparente:_____ Sexo:_____________________Altura:_________Peso:_________ Cl...",
+      "entityRefs": []
+    }
+  ]
+}

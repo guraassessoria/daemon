@@ -1,0 +1,40 @@
+{
+  "source": "supers01",
+  "title": "supers01",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "core_rule",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "supers01-novos-poderes-para-supers-1",
+      "name": "Novos poderes para SUPERS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "Novos poderes para SUPERS Um breve comentário: Caros amigos aqui encontra-se novos e diferentes poderes para aumentar a diversidade de escolha ou de sorteio de poderes. Agradecimentos: Poderia ficar agradecendo a muitas pessoas , mas creio que não teria espaço para todos ,então um muito obrigado a todos que sentem prazer em explicar para quem não sabe o que...",
+      "entityRefs": []
+    },
+    {
+      "id": "supers01-expansao-de-poder-5",
+      "name": "Expansão de Poder",
+      "category": "item_equipment",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Expansão de Poder Np, Duração( x 2 rodadas) O personagem consegue ampliar seus poderes de tal forma que faz com que eles possam fazer mais do que deveriam, este é um poder muito poderoso capaz de ultrapassar os limites do mesmo. Um exemplo de expansor de poder seria o “cérebro” que utilizado peso prof. Xavier aumenta o alcance de seus poderes mentais. Np: In...",
+      "entityRefs": []
+    }
+  ]
+}

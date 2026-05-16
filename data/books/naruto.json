@@ -1,0 +1,76 @@
+{
+  "source": "naruto",
+  "title": "naruto",
+  "status": "full-read-auto-pass-1",
+  "pages": 24,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "character_option",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "naruto-mikan-version-1",
+      "name": "Mikan Version",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Mikan Version FOSCO “MIKAN JIN” ESPALHA-OURO BANDOBRÁS “MIKAN MITSUKAI” ESPALHA-OURO",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-introducao-3-2",
+      "name": "Introdução............................................................3",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "Introdução............................................................3 Chakra..................................................................4 Exceções: chakras duplos..................................4 Selos.....................................................................5 Jutsus...................................................................6 Cat...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-chamada-de-jutsu-na-maior-parte-dos-6",
+      "name": "chamada de JUTSU. Na maior parte dos",
+      "category": "core_rule",
+      "pages": [
+        [
+          6,
+          13
+        ]
+      ],
+      "summary": "oda a técnica utilizada por um shinobi é chamada de JUTSU. Na maior parte dos casos existe aplicação de chakra, o que o torna mais forte e preciso. O jutsu, em Naruto, é combinado a os animais do horóscopo Japonês e a elementos da natureza. Existem seis espécies de jutsus divididos em duas categorias distintas: Ninjutsu: É a arte de realizar um jutsus atravé...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-senbon-agulhas-14",
+      "name": "Senbon [Agulhas]",
+      "category": "core_rule",
+      "pages": [
+        [
+          14,
+          20
+        ]
+      ],
+      "summary": "Senbon [Agulhas] Agulhas afiadas grandes que podem ser jogadas em um oponente, porém, com poucas chances de matar, a não ser que atinja um órgão vital. Dano: 1 ponto para cada Sebon. Se for dano critico é considerado como se tivesse pegado em um ponto vital. Desta forma o membro atingido ficará paralisado por 1 d6 rodadas. Shuriken Também é uma arma muito co...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-hegamos-agora-ao-ultimo-capitulo-desse-net-21",
+      "name": "hegamos agora ao último capitulo desse Net-",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          24
+        ]
+      ],
+      "summary": "D @ hegamos agora ao último capitulo desse Net- Book. E trataremos o mais importante de todos os tópicos: A criação de fichas. Se você, em algum momento de sua vida, já jogou RPG sabe que sem ficha o personagem simplesmente não existe. Ela é como um documento de identidade, que contém todos os dados sobre um determinado individuo, sendo ele NPC ou jogador. É...",
+      "entityRefs": []
+    }
+  ]
+}

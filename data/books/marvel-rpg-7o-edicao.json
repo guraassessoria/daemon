@@ -1,0 +1,447 @@
+{
+  "source": "marvel-rpg-7o-edicao",
+  "title": "MARVEL RPG 7º Edição",
+  "status": "full-read-auto-pass-1",
+  "pages": 178,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "marvel-rpg-7o-edicao-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-agradecimentos-2",
+      "name": "Agradecimentos",
+      "category": "race_lineage",
+      "pages": [
+        2
+      ],
+      "summary": "Agradecimentos Rodrigo de Alves Ferreira, o “Phersheu Mahatmah, o paladino quase celestial”, agradece ao apoio direto ou indireto de: Marcelo, que me iniciou no mundo do RPG com o guia do sabbat para Vampiro 2º edição, ( Ei !!! Naquela época apenas os malkavianos do Sabbat tinham demência talvez isso explique a minha insanidade...) Aos grandes Mestres Marcel...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-consideracoes-3",
+      "name": "Considerações",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Considerações Este Net-book é uma nova opção par os jogadores que queiram jogar com heróis de verdade, (quem nunca quando criança sonho em ser um super–herói !?), ele tem regras do sistema de RPG que não deu certo da MARVEL e que tentei então adapta-lo para daemon, tomará que tenha conseguido... Mas o mestre pode alterar o que quiser no livro para fazer a su...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-universo-marvel-comics-4",
+      "name": "Universo Marvel Comics",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          7
+        ]
+      ],
+      "summary": "Universo Marvel Comics UMA BREVE HISTÓRIA DO UNIVERSO MARVEL O Universo Marvel está vivo. Ele respira com energia palpável, e mexe com o interior dos mais poderosos titãs. Ele ainda ressona com emoção e paixão quando a vida luta para sobreviver e se multiplica e vários mundos. No espaço distante um planeta azul grita por estar chegando a maturidade, e o univ...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-super-heroismo-8",
+      "name": "SUPER HEROÍSMO",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "SUPER HEROÍSMO Todos temos, em algum lugar de nós, um Super-Herói esperando para ser libertado. Cada um de nós gostaria de imaginar que quando um prédio está em chamas ou quando ladrões roubam um banco ou aliens invadem a Terra, reagiríamos com rapidez, decididamente e diretamente. Achar uma gota de coragem num mar de medo é a essência de um super-herói. CAR...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-contradicoes-do-heroismo-9",
+      "name": "CONTRADIÇÕES DO HEROÍSMO",
+      "category": "power_magic",
+      "pages": [
+        9
+      ],
+      "summary": "CONTRADIÇÕES DO HEROÍSMO Super heróis lutam contra as contradições do heroísmo todo dia. Serem humanos (na maioria deles), é preciso reconciliar as tendências naturais humanas com os poderes não naturais. No decorrer do jogo, seu herói vai provavelmente encarar todas essas contradições. Se você acha que seu herói tem problemas, olhe para o nosso amigo da viz...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-violencia-e-repressao-10",
+      "name": "Violência e Repressão",
+      "category": "item_equipment",
+      "pages": [
+        10
+      ],
+      "summary": "Violência e Repressão O Homem Aranha viu o Duende Verde empurrar sua amada Gwen Stacy de uma ponte, e ainda ouviu o som de seu pescoço quebrando. Ele jurou fazer o Duende Verde pagar com a vida. Quando ele teve o Duende em suas mãos, o Aranha não conseguiu matá-lo. A morte aparente do Duende naquele dia foi um acidente, pois para o Homem Aranha ele não pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-individualismo-e-trabalho-de-equipe-11",
+      "name": "Individualismo e Trabalho de Equipe",
+      "category": "power_magic",
+      "pages": [
+        11
+      ],
+      "summary": "Individualismo e Trabalho de Equipe Homem Aranha é solitário. Em algumas ocasiões, ele tenta se aliar a alguém (o Quarteto Fantástico, os Vingadores, os Novos Guerreiros, e por aí vai), apenas para depois terminar e pular fora apreciando sua independência. Mas espere um momento, se ele é um solitário, qual é o tempo que ele passa com outros heróis!? Parece q...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-conceitos-basicos-12",
+      "name": "CONCEITOS BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "CONCEITOS BÁSICOS Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esse conceitos termos usados no sistema de Magias e combates também são t...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-sequencia-de-criacao-do-heroi-14",
+      "name": "SEQÜÊNCIA DE CRIAÇÃO DO HERÓI",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          14,
+          19
+        ]
+      ],
+      "summary": "14 SEQÜÊNCIA DE CRIAÇÃO DO HERÓI Durante essa seqüência, deixe sua mente aberta. Algumas vezes novas idéias vão lhe ocorrer para o seu herói quando começar a construí-lo, eu aconselho que não faça heróis rapidamente, talvez deixe uma seção inteira de jogo apenas dedicada a confecção de seu herói, esta talvez seja a parte mais importante do jogo. Talvez seria...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-atributos-20",
+      "name": "ATRIBUTOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "summary": "20 ATRIBUTOS Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com todos os RPGs lançados pela Daemon Editora. São oito Atributos, divididos entre Físicos e Ment...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-aprimoramentos-22",
+      "name": "APRIMORAMENTOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          22,
+          35
+        ]
+      ],
+      "summary": "22 APRIMORAMENTOS Aprimoramentos Positivos Ambidestria 2 pontos: o Personagem pode manusear armas e instrumentos tanto com a mão direita quanto com a esquerda, com igual eficiência. Também pode usar duas armas brancas ao mesmo tempo, se forem pequenas o bastante para o uso com uma única mão. Estão fora dessa categoria arcos, bestas, lanças, a maioria dos mac...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-pontos-heroicos-36",
+      "name": "PONTOS HERÓICOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "summary": "36 PONTOS HERÓICOS Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte”, que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-pericias-38",
+      "name": "PERÍCIAS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          38,
+          39
+        ]
+      ],
+      "summary": "38 PERÍCIAS São campos de especialização que qualquer um pode dominar, dados tempo de prática e aptidão natural. Você pode criar qualquer perícia que quiser, desde que seu Narrador aprove. SUPER PERÍCIAS* SUPER PODERES*: Esta não é uma perícia única mais sim um grupo bem variado. Toda vez que herói, quiser melhorar sua chance em determinado efeito ou poder,...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-pericias-comuns-40",
+      "name": "PERÍCIAS COMUNS",
+      "category": "attribute_skill",
+      "pages": [
+        40
+      ],
+      "summary": "40 PERÍCIAS COMUNS Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos d...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-lista-de-pericias-41",
+      "name": "LISTA DE PERÍCIAS",
+      "category": "item_equipment",
+      "pages": [
+        [
+          41,
+          45
+        ]
+      ],
+      "summary": "41 LISTA DE PERÍCIAS A lista de Perícias está apresentada no seguinte formato: Grupo* Subgrupos Observação: o símbolo * só aparecerá em casos nos quais a Perícia tiver subgrupos. Quando isso ocorrer, você deve escolher apenas UM dos subgrupos correspondentes. Animais* : Alguns subgrupos possíveis: Treinamento de animais (0), Montaria (AGI), Doma (0), Veterin...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-helipotianos-46",
+      "name": "HELIPOTIANOS",
+      "category": "character_option",
+      "pages": [
+        46
+      ],
+      "summary": "46 HELIPOTIANOS CUSTO 7 pontos. IDADE INICIAL 15+3d6 ATRIBUTOS +9 em CON, +6 em FR, +3 em AGI, +6 em WILL VANTAGENS Vida Eterna. DESVANTAGENS Estritamente Vegetariano. PODERES COMUNS Imortalidade, Invulnerabilidade HOMENS ANIMAIS CUSTO Depende do Animal IDADE INICIAL 18 +1d6 ATRIBUTOS *FR, *AGI, *CON, *PER, * CAR. VANTAGENS Sentidos Aguçados,... Depende do a...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-kree-47",
+      "name": "KREE",
+      "category": "character_option",
+      "pages": [
+        47
+      ],
+      "summary": "47 KREE CUSTO 6 pontos IDADE INICIAL 25+1d6 ATRIBUTOS +3 em todos atributos. VANTAGENS Vida Eterna DESVANTAGENS Nenhum PODERES COMUNS Nenhum MUTANTES CUSTO 2 pontos. IDADE INICIAL 15+1d6 ATRIBUTOS Nenhum VANTAGENS Nenhum DESVANTAGENS Nenhum PODERES COMUNS Qualquer poder (ganho por nível) OLIMPICOS CUSTO 7 pontos IDADE INICIAL 20+3d6 ATRIBUTOS +6 em CON, AGI...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-kits-de-personagem-48",
+      "name": "KITS DE PERSONAGEM",
+      "category": "combat",
+      "pages": [
+        [
+          48,
+          61
+        ]
+      ],
+      "summary": "48 KITS DE PERSONAGEM Agente Federal Custo: 4 pts. de Aprimoramento, 300 pts. de Perícia. Perícias: Armas de Fogo (Escolha 2 Subgrupos 40/0), Ciências (Direito 30%, Psicologia 20%), Condução (Escolha um Subgrupo 20%), Esportes (Artes Marciais 40/40), Informática (Escolha um Subgrupo 30%), Manipulação (Escolha 2 Subgrupos 30%), Negociação (Escolha um Subgrupo...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-combate-62",
+      "name": "COMBATE !!!",
+      "category": "combat",
+      "pages": [
+        62
+      ],
+      "summary": "62 COMBATE !!! Artes Marciais (AGI/AGI) Esta artes marciais abaixo são uma espécie de subgrupo de periciais, o jogador deve escolher qual arte ele luta, mas se o mestre quiser pode considerar a arte marcial como sendo a perícia e ignorar o subgrupo. Além do bônus de manobras iniciais o personagem para cada arte aqui descrita considera seu dano de 1d6 (não le...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-combate-nao-mortal-63",
+      "name": "COMBATE NÃO MORTAL",
+      "category": "combat",
+      "pages": [
+        [
+          63,
+          69
+        ]
+      ],
+      "summary": "63 COMBATE NÃO MORTAL Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da Campanha que se desentenderam por algum problema da Aventura e acabam perdendo a paciência um com o outro. As lutas como Briga de Rua, Boxe e Artes Marciais também se encaixam nesta categoria. Nenhum dos Personagens pretende matar o outro: venc...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-itens-heroicos-70",
+      "name": "ITENS HERÓICOS",
+      "category": "item_equipment",
+      "pages": [
+        [
+          70,
+          72
+        ]
+      ],
+      "summary": "70 ITENS HERÓICOS Existem alguns itens que são fontes de grandes poderes, ou são extremamente famosos, pois o que seria o Homem de Ferro sem sua valiosa armadura, Homem Aranha sem seu atirador de teia ( não ele não joga direto do braço como no filme...) EQUIPAMENTO Como o Besouro poderia dizer, uma boa armadura, com muitos poderes, pode desfazer uma vida int...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-resistencia-dos-materiais-73",
+      "name": "RESISTÊNCIA DOS MATERIAIS",
+      "category": "combat",
+      "pages": [
+        [
+          73,
+          74
+        ]
+      ],
+      "summary": "73 Alguns equipamentos são feitos de materiais raros, e jogadores também pode ter tais materiais... Mas primeiro devemos entender como funciona a resistência de alguns materiais... RESISTÊNCIA DOS MATERIAIS A resistência dos materiais é quanto ele pode aguentar de dano, pois isso poderia ser simbolizado pelo IP, mas o material para ser destruído não basta ap...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-regras-e-testes-75",
+      "name": "REGRAS E TESTES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          75,
+          83
+        ]
+      ],
+      "summary": "75 REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-experiencia-84",
+      "name": "EXPERIÊNCIA",
+      "category": "core_rule",
+      "pages": [
+        [
+          84,
+          85
+        ]
+      ],
+      "summary": "84 EXPERIÊNCIA As regras de passagem de nível a princípio continuam as mesmas do sistema Daemon, fora as alterações feitas abaixo... NÍVEL Nível é um conceito humano, criado para Personagens mortais que não dispõem da eternidade para desenvolver seus poderes. O nível máximo que um Personagem humano pode chegar é o 15o nível. Mas como estamos jogando um RPG d...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-tabela-de-avanco-de-nivel-86",
+      "name": "TABELA DE AVANÇO DE NÍVEL",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          86,
+          88
+        ]
+      ],
+      "summary": "86 TABELA DE AVANÇO DE NÍVEL Nível Experiência PV Atributos Pontos de Aprimoramentos Pontos de Perícias 0 - inicial 100 inicial inicial 1 0 +1 101 inicial inicial 2 5 +2 102 +1 +25 3 15 +3 103 +1 +50 4 30 +4 104 +1 +75 5 50 +5 105 +2 +100 6 80 +6 106 +2 +125 7 120 +7 107 +2 +150 8 180 +8 108 +3 +175 9 250 +9 109 +3 +200 10 400 +10 110 +3 +225 11 550 +11 111...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-regras-super-poder-89",
+      "name": "REGRAS : SUPER PODER",
+      "category": "core_rule",
+      "pages": [
+        89
+      ],
+      "summary": "89 REGRAS : SUPER PODER Esta enorme lista possui uma completa descrição dos maiores poderes encontrados no Universo Marvel. No entanto, você nunca deve encará-la como uma limitação de suas escolhas. Se você quiser criar um novo poder, tenha certeza que o Mestre o aprova e então coloque-o no jogo. Super Poder : o Personagem por algum motivo, recebeu poderes e...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-intensidades-90",
+      "name": "INTENSIDADES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          90,
+          92
+        ]
+      ],
+      "summary": "90 INTENSIDADES Quando você possui o aprimoramento Super Poder, você ganha pontos para distribuir em intensidade e proezas, mas o que é Intensidade ? Intensidade é uma medida abstrata de poder, cada poder deste livro funciona como se fosse uma atributo deste jogo, (como força, agilidade, percepção...), mas ao invés de possuir um valor fixo, ele utiliza “dado...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-proezas-93",
+      "name": "PROEZAS",
+      "category": "core_rule",
+      "pages": [
+        93
+      ],
+      "summary": "93 PROEZAS Além dos poderes padrão, (conferidos por sua intensidade) seu herói pode ter uma ou mais proezas associadas para cada poder, elas funcionam como uma perícia, pois são habilidades possíveis que um herói pode ter acesso. Mas lembre-se que estas perícias podem ser compradas na lista de acordo com os poderes, quando você compra um poder gasta pontos e...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-limites-94",
+      "name": "LIMITES",
+      "category": "core_rule",
+      "pages": [
+        [
+          94,
+          95
+        ]
+      ],
+      "summary": "94 LIMITES Como regra geral, quanto mais fortes são os poderes mais restritos eles são. Limites fornecem um meio de reduzir o efeito padrão de um poder, diminuir sua eficácia ou causar-lhe efeitos colaterais em troca do aumento de intensidade, habilidade ou aquisição de mais proezas. Assumir um limite aprovado pelo seu narrador, permitirá a você adicionar po...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-fonte-dos-poderes-96",
+      "name": "FONTE DOS PODERES",
+      "category": "power_magic",
+      "pages": [
+        96
+      ],
+      "summary": "96 FONTE DOS PODERES O poder de um herói pode ter uma centena de origens diferentes, mas algumas delas ocorrem com uma espantosa regularidade. Um poder não está ligado intimamente a uma origem específica; qualquer poder pode ter qualquer origem, desde que ela seja aprovada pelo narrador. Aprendizagem: alguns poderes são adquiridos pela busca do auto-aperfeiç...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-terminologia-dos-poderes-97",
+      "name": "TERMINOLOGIA DOS PODERES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          97,
+          98
+        ]
+      ],
+      "summary": "97 TERMINOLOGIA DOS PODERES Nome: O poder é identificado pelo nome e listado em ordem alfabética para facilitar sua localização. Tanto para os heróis da Marvel quanto para os heróis criados para jogo, o nome de um poder pode ser único para identificar um poder particular de um herói e suas variações. O poder de Míssil é chamado de “Campo de Explosão” apesar...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-ddeeesssc-99",
+      "name": "DDEEESSSC",
+      "category": "combat",
+      "pages": [
+        [
+          99,
+          172
+        ]
+      ],
+      "summary": "99 D DDEEESSSC CCRRRIIIÇ ÇÇÃÃÃO OO D DDO OOSSS PPPO OOD DDEEERRREEESSS Absorção Exemplos: Sebastian Shaw, Fortão, Mancha Solar Poderes Relacionados: Conversão de energia, Refração de energia Seu herói pode absorver um certo tipo de dano (exemplos são: dano por fogo, dano por frio ou dano cinético). A Absorção de diferentes tipos de dano devem ser escolhidos...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-poderes-especiais-173",
+      "name": "PODERES ESPECIAIS",
+      "category": "power_magic",
+      "pages": [
+        173
+      ],
+      "summary": "173 PODERES ESPECIAIS Estes poderes como o Psiquismo em Invasão, ou a Magia em Trevas, Poderes de Fé, Pontos Heróicos... E ou outros poderes misteriosos, podem ser utilizados juntos ou substituindo por alguma regra de super poder, mas se o mestre não tem acesso estes poderes há regras, para simulá-los usando o super poder Alguns deles são estes: (se o mestre...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-psi-174",
+      "name": "PSI",
+      "category": "combat",
+      "pages": [
+        [
+          174,
+          175
+        ]
+      ],
+      "summary": "174 PSI Exemplos: Professor X, Jean Grey Poderes Relacionados: Hiper Intelecto Os poderes Psi são habilidades desenvolvidas pelo desenvolvimento mental, este desenvolvimento pode vir através de treinamento da mente. Na maioria das vezes as pessoas que desenvolvem estes poderes despertam eles na adolescência, como os mutantes, mas os poderes da mente, não são...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-nome-codinome-176",
+      "name": "NOME _______________________________________________________ CODINOME __________________",
+      "category": "attribute_skill",
+      "pages": [
+        176
+      ],
+      "summary": "176 NOME _______________________________________________________ CODINOME __________________ LOCAL DE NASCIMENTO __________________________ SEXO ________ ALTURA ________ PESO ________ CLASSE SOCIAL / PROFISSÃO ___________________NÍVEL ______ IDADE: APARENTE _____ REAL _______ ATRIBUTOS VALOR / MOD / % CONSTITUIÇÃO (CON) _____ /_____ /_____ FORÇA (FR) _____ /...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao-background-177",
+      "name": "BACKGROUND",
+      "category": "item_equipment",
+      "pages": [
+        [
+          177,
+          178
+        ]
+      ],
+      "summary": "177 BACKGROUND ____________________________________________________ ____________________________________________________ ____________________________________________________ ____________________________________________________ ____________________________________________________ ____________________________________________________ ___________________________...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "source": "kidous-arte-das-trevas",
+  "title": "Kidous - Arte das Trevas",
+  "status": "full-read-auto-pass-1",
+  "pages": 34,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "kidous-arte-das-trevas-arte-das-trevas-1",
+      "name": "Arte das Trevas",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Arte das Trevas Kidous Daniel Duarte",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-dedicatoria-2",
+      "name": "DEDICATÓRIA",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "2 DEDICATÓRIA Este livro é dedicado a Willian Pereira Duarte, meu único e falecido irmão. Que Deus o tenha. AGRADECIMENTOS ●A Deus, pela vida, família, saúde e oportunidades a que me destinou. ●Aos meus pais, pelos ensinamentos, paciência, carinho e atenção dedicados a mim. ●A todos os meus amigos que me ajudaram a desenvolver esse livro, jogando uma “campan...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-ao-leitor-3",
+      "name": "AO LEITOR",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "3 AO LEITOR Ao amigo leitor que dispõe de tão caro tempo para ler esse prefácio, meus sinceros agradecimentos. Quando, em 2005, comecei a escrever esse livro, tinha o entusiasmo de iniciar uma empreitada que há tempos ambicionava. Sempre quis formular regras para RPG que possibilitassem, aos jogadores, a criação dos poderes de seus personagens. Imaginei que...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-arte-das-trevas-kidous-4",
+      "name": "ARTE DAS TREVAS – KIDOUS",
+      "category": "core_rule",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "4 ARTE DAS TREVAS – KIDOUS O termo “Kidous”, arte das trevas, ou mesmo “arte demoníaca”, é mais amplamente difundido por via do anime BLEACH e consiste em magias utilizadas por deuses da morte (Shinigamis) como uma das quatro formas de combate utilizadas por eles. Kidous são técnicas muito interessantes de serem inseridas em uma aventura de RPG, pois recorda...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-desenvolvendo-kidous-6",
+      "name": "DESENVOLVENDO KIDOUS",
+      "category": "core_rule",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "summary": "6 DESENVOLVENDO KIDOUS O desenvolvimento de kidous exige talento e empenho por parte do artífice e do jogador. Sim, o jogador também precisa ter uma boa imaginação para desenvolver um bom hadou ou bakudou. Adquirindo o aprimoramento Kidous (Página 09) o jogador compra para seu personagem certos níveis de kidous, que são pontos usados para se comprar Efeitos...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-novos-aprimoramentos-9",
+      "name": "NOVOS APRIMORAMENTOS",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          11
+        ]
+      ],
+      "summary": "9 NOVOS APRIMORAMENTOS Kidous Este aprimoramento permite ao artífice se tornar um grande mestre em kidous, oferecendo- lhe pontos para serem gastos no desenvolvimento de técnicas e pontos para serem gastos na ativação dessas técnicas. 1 ponto – Seu personagem iniciou recentemente nas artes das trevas - Confere ao artífice 10 pontos de kidou. Mais 5 pontos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-efeitos-de-kidous-12",
+      "name": "EFEITOS DE KIDOUS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          12,
+          20
+        ]
+      ],
+      "summary": "12 EFEITOS DE KIDOUS Alterar atributos Por meio de um ritual, o artífice é capaz de aumentar ou reduzir seus atributos ou de seus oponentes. Cada nível adquirido altera (para mais ou para menos) 02 (dois) pontos em um determinado atributo: CON, FR, AGI, DEX, PER ou CAR. (A Inteligência e a Força de vontade nunca podem ser alteradas). Na compra do efeito o jo...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-matematica-de-jogo-21",
+      "name": "MATEMÁTICA DE JOGO",
+      "category": "core_rule",
+      "pages": [
+        [
+          21,
+          24
+        ]
+      ],
+      "summary": "21 MATEMÁTICA DE JOGO Recitação e iniciativa Em termos de regras, a recitação invocadora de um kidou implica um redutor de 10 pontos na iniciativa do artífice, caso opte por pular a recitação da técnica, o artífice não terá redutor algum na iniciativa, porem fará o teste com um redutor de 20% em sua perícia “kidou”. Invocando um bakudou Fora de combate, um a...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-exemplos-de-kidous-25",
+      "name": "EXEMPLOS DE KIDOUS",
+      "category": "combat",
+      "pages": [
+        [
+          25,
+          26
+        ]
+      ],
+      "summary": "25 EXEMPLOS DE KIDOUS Nome: Dark Arrows Recitação: Senhor da Guerra, mestre de longas batalhas, sangue suor e lágrimas, duro caminho percorrido pelos que lutam, feliz atalho seguido pelos que vencem, trazei das profundezas das trevas espectros derradeiros. Descrição: Esse hadou permite ao artífice disparar através de suas mãos uma rajada contendo 12 flechas...",
+      "entityRefs": []
+    },
+    {
+      "id": "kidous-arte-das-trevas-cenarios-27",
+      "name": "CENÁRIOS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          27,
+          34
+        ]
+      ],
+      "summary": "27 CENÁRIOS Este livro permite que suas regras sejam usadas em qualquer espécie de cenário. Desde fantasia medieval, passando por oriente feudal até os dias atuais. Até mesmo cenários futuristas podem ser usados como plano de fundo para uma aventura na qual os protagonistas e antagonistas se utilizam deste estranho método de combate para alcançar seus objeti...",
+      "entityRefs": []
+    }
+  ]
+}

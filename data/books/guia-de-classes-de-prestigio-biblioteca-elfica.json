@@ -1,0 +1,1209 @@
+{
+  "source": "guia-de-classes-de-prestigio-biblioteca-elfica",
+  "title": "Guia-de-classes-de-prestigio-biblioteca-elfica",
+  "status": "full-read-auto-pass-1",
+  "pages": 130,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "kit_class",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guiaae-2",
+      "name": "Guiaãe",
+      "category": "kit_class",
+      "pages": [
+        2
+      ],
+      "summary": "Guiaãe e Marcelo Cassara & Norson Botrel Daemon Editora fax (11) 3675-1860 email: daemon@daemon.com.br http://www.daemon.com.br",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guiaae-3",
+      "name": "Guiaáe",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Guiaáe Cfasses Pl\\._ÊSTfQtO Criação: Marcelo Cassara, Norson Hotrel Desenvolvimento: Norson Botrel, Marcelo Del Debbio Revisão: Fabrício GiZmo Capa: Rod Reis , Ilustrações: Davi Calil, Rod Reis, Fred Kellar10, Márcio Fiorito, Edu Silva, André Freirns, Sam Hart, Andrei Bressan, Ronaldo Santana, Emerson Penerari, Marcelo Cassara, Rodrigo Mesquita, Vinicius Men...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cfntroaucao-4",
+      "name": "Cfntroáução",
+      "category": "kit_class",
+      "pages": [
+        4
+      ],
+      "summary": "Cfntroáução Olá RPGista, A lústóría deste livro é muito interessante: O Guia de Kits, Classes e Classes de Prestígio surgiu para comemorar a Festa e.la cen- tésima revista Dragão Brasil, no dia 5 de ovembro de 2003. A Daemon estava com um dos stands mais importantes de evento e tinha a obrigação de fazer um lançamento de peso, que todos os jogadores pudessem...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-como-asar-este-o-5",
+      "name": "Como <asar 'Este ~o",
+      "category": "core_rule",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Como <asar 'Este ~o Do que trata este livro? O Guia de Kits, Classes e Classes de Prestígio contém 100 novos kits para Sistema Daemon e 100 novas classes/ classes de prestígio para Sistema d20. Neste livro você encon- trará todas as informações completas de que necessita para jogar com cada uma delas. E as ilustrações ? Os kits/ classes estão ordenados alfab...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-alquimista-7",
+      "name": "Alquimista",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "Alquimista O Alquimista é um mago especializado no preparo de poçtíes. Ele pesquisa materiais, ingredientes e formas de prepa- ro para todo tipo de poção e elixir mágico. Uma vez que as mais poderosas fórmulas e ingredientes só podem ser obtidos em lugares secretos, remotos ou perigosos, é comum que estes magos participem de missões com grupos de aventureiro...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-amazona-8",
+      "name": "Amazona",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Amazona Amazonas são talentosas na montaria, no trato com ani- mais e no uso da espada, lança e arco. Aventure.iras mulheres não chegam a ser raridade em mundos de fantasia, mas elas geralmen- te atuam como dérigas, magas ou mesmo ladras - não guerrei- ras! Uma mulher com grandes habilidades de combate será sem- pre uma surpresa, que os oponentes tendem a su...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-arqueiro-9",
+      "name": "Arqueiro",
+      "category": "attribute_skill",
+      "pages": [
+        9
+      ],
+      "summary": "Arqueiro O Arqueiro é um guerreiro especialista no uso do arco e flecha - a mais comum arma de longo alcance em mundos medievais. Muitos adotam esta arma porque não têm a força (ou a coragem!) necessária para manejar uma espada ou lutar corpo-a-corpo. Outros a escolhem por ser silenciosa e sorra- teira, ideal para caçadas ou emboscadas. O arco é a arma tradi...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-artifice-10",
+      "name": "Artífice",
+      "category": "item_equipment",
+      "pages": [
+        10
+      ],
+      "summary": "Artífice O Aráfice é um Mago especializado na fabricação de ar- mas, armaduras, escudos e outros itens mágicos. Este tipo de atividade exige muita magia e experiência, de forma que ape- nas Magos extremamente poderosos conseguem ser Artífices. A fabricação de Objetos mágicos é uma atividade comple- xa, que exige dedicação e planejamento. A construção de um i...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-artilheiro-halfling-11",
+      "name": "Artilheiro Halfling",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Artilheiro Halfling A raça halfling tem como uma de sua~ t,>Tandes paixões o arremesso de pedras, seja como esporte, seja como habili- dade de çombatc. Desta forma, os Peyueninos acabaram tor- nando esta sua principal arma, e os melhores guerreiros halflings .~ã.o especializados em seu uso. O halfling comum é hábil no manejo da funda - uma simples tira de co...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-assassino-13",
+      "name": "Assassino",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "Assassino Nunca chame alguém de Assassino! Eles consideram isso uma imperdoável grosseria. Preferem se conhecidos como \"Removedores de Pessoas Inconvenientes''. Os Assassin ... ahn ... Removedores são especialistas na fabricação de venenos (e antídotos), armadilhas, disfar- ces, arrombamento, falsificação, camuflagem, demolição e outras atividades de espiona...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-baloeiro-goblin-14",
+      "name": "Baloeiro Goblin",
+      "category": "combat",
+      "pages": [
+        14
+      ],
+      "summary": "Baloeiro Goblin Em campanhas de fantasia medieval, transporte aéreo é um luxo para poucos. Montarias voadoras são raras, e apenas alguns magos podem usar seu poder para voar ou fazer voar seus aliados. Agueles que decidem cobrar por esses serviços exigem preços muito altos. Existe, contudo, uma opção mais barata ... Famosa por sobreviver mesmo nas piores con...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-barbaro-das-montanhas-15",
+      "name": "Bárbaro das Montanhas",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Bárbaro das Montanhas A única grande diferença entre o civilizado e o não- civilizado está na linguagem escrita: um povo que não tenha sua própria linguagem escrita não é considerado civilizado. Será, portanto, um povo bárbaro - e existem muitos assim cm mundos de fantasia. Ainda mais rústico que o ranger, o Bárbaro <las Monta- nhas pertence a uma sociedade...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-batedor-16",
+      "name": "Batedor",
+      "category": "core_rule",
+      "pages": [
+        16
+      ],
+      "summary": "Batedor O Batedor é uma espécie de \"ajudante de herói\", mui- to parecido com o Escudeiro. A diferença é que Escudeiros trabalham para heróis mais \"sofisticados\", como Cavaleiros, Samurais, Paladinos e Gladiadores. Eles fazem serviços de criadagem, como cuidar dos animais, limpar as armas e arma- duras, caçar e preparar comida ... O Batedor, no entanto, traba...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-batedor-de-carteiras-17",
+      "name": "Batedor de Carteiras",
+      "category": "character_option",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Batedor de Carteiras O punguista é o mais desprezível dos ladrões - o simples e vulgar batedor de bolsas. Ele vive de surrupiar os valores de suas vítimas sem que elas percebam, ou escapar rapidamente quando elas percebem. Batedores de Carteiras atuam tipicamente nas ruas de grandes cidades, onde podem apanhar uma bolsa com um movimento rápido e sumir na mul...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-beduino-19",
+      "name": "Beduíno",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Beduíno Estes guerreiros fazem pme das tribos nômades que vivem espalhadas pelos desertos de mundos de fantasia. Em- bora não sejam exatamcme clérigos ou paladinos, eles veneram o Deus do Sol e recebem dele alguns poderes divinos. Quase da mesma forma que um Ranger, um Beduíno não aprecia grandes cidades e outros locais \"civilizados\". Ele também se sente mui...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-berserker-20",
+      "name": "Berserker",
+      "category": "combat",
+      "pages": [
+        20
+      ],
+      "summary": "Berserker Normalmente originário de uma tribo bárbara, o Berserker é um tipo de guerreiro muito temido em todos os reinos. Em combate ou situações de tensão, ele pode invocar um tipo de fúria incontrolável que aumenta sua força, mas também rouba sua razão e bom senso - transformando-o em uma fera assas- sina que não vai descansar até a morte do adversário. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-bruxo-21",
+      "name": "Bruxo",
+      "category": "character_option",
+      "pages": [
+        21
+      ],
+      "summary": "Bruxo De modo geral, os magos se orgulham de conquistar seus poderes através de empenho próprio, em vez de atuar como servos ou devotos para os deuses. Mas existe um tipo de mago - o Bruxo - muito semelhante a um clérigo, pois ele também recebe sua magia de uma entidade poderosa. A diferença é que essa entidade não precisa, necessariamente, ser um Deus: pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cacador-22",
+      "name": "Caçador",
+      "category": "combat",
+      "pages": [
+        22
+      ],
+      "summary": "Caçador Mesmo após o desenvolvimento da agricultura, a caça ainda é uma importante atividade econômica em muitos mun- dos de fantasia. Assim, este é um aventureiro muito comum. Entre socie<la<les primitivas, a maioria <los guetTeiros se- rão Caçadores. Um Caçador é auto-suficiente e livre para dei- xar a vida familiar durante muitos dias. Contudo, ele tem sé...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cacador-de-fantasmas-23",
+      "name": "Caçador de Fantasmas",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "Caçador de Fantasmas Os fantasmas estão entre os mais poderosos tipos de mortos-vivos, e os mais difíceis de destruir. O Caça- Fantasmas é um guerreiro treinado e equipado para vencer esse tipo de inimigo. Pode parecer uma tarefa ingrata para um guerreiro, uma vez que fantasmas não podem ser vencidos pela força - ape- nas magia e armas mágicas os afetam. Mas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-llustraca-o-por-fred-24",
+      "name": "llustraçã o por Fred",
+      "category": "kit_class",
+      "pages": [
+        24
+      ],
+      "summary": "llustraçã o por Fred",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cacador-de-magos-25",
+      "name": "Caçador de Magos",
+      "category": "combat",
+      "pages": [
+        25
+      ],
+      "summary": "Caçador de Magos Esre úpo de guerreiro é extremamente comum em reinos onde a prática da magia é proibida e também entre muitos povos bárbaros, que temem os magos. Matar um mago não é assim tão difícil: sendo huma- no (ou dfo, meio-dfo, anão ... ), um mago maligno po<le su- cumbir a um golpe de espada tão facilmente quanto qual- quer criatura. No confronto di...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cacador-de-vampiros-26",
+      "name": "Caçador de Vampiros",
+      "category": "combat",
+      "pages": [
+        26
+      ],
+      "summary": "Caçador de Vampiros Em mundos de fantasia medieval existem muitos tipos de mortos-vivos. Eles podem ser fracos, predadores que atacam vítimas indefesas em emboscadas noturnas - ou poderosos magos ou clérigos do Deus da Noite, capazes de controlar cida- des inteiras. De qualquer forma, todos eles têm certas caracterís- ticas e fraquezas cm comum; o Caçador de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cavaleiro-alado-27",
+      "name": "Cavaleiro Alado",
+      "category": "combat",
+      "pages": [
+        27
+      ],
+      "summary": "Cavaleiro Alado O Cavaleiro Ala<lo é Lun gut:m::iro abt:nçoado com w11a monmria alada, um animal ou monstro raro capaz de voar. A c:;colha m1clicional é o grifo - criatura meio águia e meio leão - mas também existem cavaleiros de abelhas-gigantes, morcegos- gigantes, protodracos e até dragões! E alguns ainda cavalgam estranhos golens voadores construidos par...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-cavaleiro-de-justa-28",
+      "name": "Cavaleiro de Justa",
+      "category": "combat",
+      "pages": [
+        28
+      ],
+      "summary": "Cavaleiro de Justa Ao contrário do Cavaleiro convencional, o Cavaleiro de Justa não é um aristocrata. Nesta profissão, onde o cavalo é considerado um animal sagrado, todos têm direi- to a uma montaria própria. Não é preciso ser rico para ser um Cavaleiro de J usta. O típico Cavaleiro de Justa tem aparência e modos mais simples se comparado a um Cavaleiro com...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-cura-29",
+      "name": "Clérigo do Deus da Cura",
+      "category": "combat",
+      "pages": [
+        29
+      ],
+      "summary": "Clérigo do Deus da Cura O Deus da Cura, é venerado principalmente em pe- quenas vilas e regiões rurais - onde stus Clérigos rogam à deusa 9ue traga saúde e boas colheitas. Em cidades maiores, o aspecto \"curandeiro\" é mais exaltado. É comum ouvir pre- ces em seu templo quando os exércitos voltam de suas guer- ras, suplicando para que os feridos sejam curados....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ilustracao-por-marcio-fo-30",
+      "name": "Ilustração por Márcio fº",
+      "category": "kit_class",
+      "pages": [
+        30
+      ],
+      "summary": "Ilustração por Márcio fº . 1or1to",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-forca-31",
+      "name": "Clérigo do Deus da Força",
+      "category": "combat",
+      "pages": [
+        31
+      ],
+      "summary": "Clérigo do Deus da Força O Deus da Força e da Coragem valori7.a a força física, coragem, força de vontade e proteção dos mais fracos. Tam- bém determina que o fraco deve ser dominado pelo forte - o que combina com a política escravista dos seus seguidores. Um Clérigo do Deus da Força não precisa necessariamen- te adotar um servo ou escravo. No entanto, ele s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-guerra-32",
+      "name": "Clérigo do Deus da Guerra",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Clérigo do Deus da Guerra Os Clérigos da Guerra existem espalhados em todas as regiões dos mundos de fantasia medieval. Pode-se dizer, sem sombra de dúvida, que há pelo menos dois ou três deles em cada reino ocupando cargos relativamente importantes. Ao contrário do que se pensa, nem sempre os servos do Deus da Guerra são malignos; boa parte deles divide sua...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-intriga-33",
+      "name": "Clérigo do Deus da Intriga",
+      "category": "attribute_skill",
+      "pages": [
+        33
+      ],
+      "summary": "Clérigo do Deus da Intriga Esses sacerdotes são extremamente práticos e inte- ligentes, quase sempre recorrendo a métodos considera- dos desonrados ou covardes: veneno, chantagem, intriga, mentiras e quaisquer meios que se provem úteis. Sua or- dem crê que este é o caminho daqueles que devem coman- dar o mundo. Para eles a força bruta é apenas uma ferra- men...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-justica-34",
+      "name": "Clérigo do Deus da Justiça",
+      "category": "combat",
+      "pages": [
+        34
+      ],
+      "summary": "Clérigo do Deus da Justiça Além de seu papel como conselheiros espirituais, os Sa- cerdotes da Justiça de alta patente também atuam como repre- sentantes da Lei na maioria dos tribunais. Embora cada cidade costume ter sua própria independência e corte, sempre deve estar presente algum membro deste clero - e na maioria das vezes é este quem dá o veredicto fin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-magia-35",
+      "name": "Clérigo· do Deus da Magia",
+      "category": "character_option",
+      "pages": [
+        [
+          35,
+          36
+        ]
+      ],
+      "summary": "Clérigo· do Deus da Magia Ninguém duvida da existência da magia - seus feitos maravilhosos podem ser testemunhados por qualquer pes- soa quase todos os dias. Muitas acreditam que a magia é apenas uma energia, assim como um recurso natural. Ou- tros, contudo, estão certos de que essa dádiva é oferecida aos mortais por um Deus, o Deus da Magia. Quase não exist...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-morte-37",
+      "name": "Clérigo do Deus da Morte",
+      "category": "combat",
+      "pages": [
+        37
+      ],
+      "summary": "Clérigo do Deus da Morte De origem tribal, o culto ao Deus da Morte não costuma ter templos nos mundos de fantasia medieval. Entretanto, em alguns locais onde guerras e pragas produziram vítimas muito numerosas, um misto de terror e admiração pode tomar conta das pessoas comuns. Antigos templos de outros deuses foram transformados em locais de adoração ao De...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-noite-38",
+      "name": "Clérigo do Deus da Noite",
+      "category": "combat",
+      "pages": [
+        38
+      ],
+      "summary": "Clérigo do Deus da Noite O Deus das Trevas é muito querido entre o povo anão. Em locais onde não é visto como maligno, o Deus da Noite tem grandes templos e uma ordem bem organizada. Os Clérigos do Deus da Noite se empenham em de- monstrar ao mundo que ele não é nenhum demônio malig- no. Ele é wn Deus de esperança, pronto a oferecer conforto e força a seus d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-paz-39",
+      "name": "Clérigo do Deus da Paz",
+      "category": "combat",
+      "pages": [
+        39
+      ],
+      "summary": "Clérigo do Deus da Paz Reconhecidos com facilidade por suas vestes toral- menle brancas e por seu símbolo sagrado, esses clérigos são pregadores da paz. Sua grande missão é deter a violên- cia, evitar guerras, acalmar conflitos, buscar soluções di- plomáticas. Muitos são escolhidos como conselheiros, di- plomatas e embaixadores. Não é raro que vítimas de des...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-40",
+      "name": "Clérigo do Deus da",
+      "category": "combat",
+      "pages": [
+        40
+      ],
+      "summary": "Clérigo do Deus da Profecia e Ressurreição Sacerdotes do Deus da Ressurreição, são particular- mente notórios em grandes cidades, onde têm a tarefa de cuidar das pessoas mortas. E les também tratam de infor- mar e confortar aqueles que ficam extremamente pertur- bados com o fenômeno. Graças aos poderes que recebem, são constantemente procurados por grupos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-tirania-41",
+      "name": "Clérigo do Deus da Tirania",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          41,
+          42
+        ]
+      ],
+      "summary": "Clérigo do Deus da Tirania O Deus da 'Tirania reconhece o poder, em todos os seus aspectos, como principal atributo a ser atingido. Seus Clérigos põem em prática esse pensamento. Poder não deve ser confundido com força. Nessa cren- ça, um homem fraco que consiga comandar um homem for- te através de magia, coação ou ameaça é tão bem visto quanto um guerreiro...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-das-43",
+      "name": "Clérigo do Deus das",
+      "category": "attribute_skill",
+      "pages": [
+        43
+      ],
+      "summary": "Clérigo do Deus das Estradas e Viagens Este é outro Deus lembrado apenas nos momentos de maior necessidade. Comumente encontrados nos mtmdos de fan- tasia medieval, onde as viagens entre dois reinos disrantes podem ser mais perigosas do que e>..plorar uma caverna, os Clérigos do Deus das Estradas e V iagcns abençoam caravanas, grupos de aven- tureiros e viaj...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-44",
+      "name": "Clérigo do Deus",
+      "category": "attribute_skill",
+      "pages": [
+        44
+      ],
+      "summary": "Clérigo do Deus do Conhecimento O devoto do Deus do Conhecimento tem como missão educar os povos. Nas grandes cidades dos mun- dos de fantasia medieval, eles assumem o papel de profes- sores, ensinando ciências, artes e especialmente leitura e escrita. Em áreas remotas, eles se empenham em levar cultura a povos bárbaros. Na maioria das cidades de mundos de f...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-do-heroismo-45",
+      "name": "Clérigo do Deus do Heroísmo",
+      "category": "character_option",
+      "pages": [
+        45
+      ],
+      "summary": "Clérigo do Deus do Heroísmo O Clérigo do Deus do Heroísmo só atinge o máximo grau de iluminação ao morrer em combate heróico. É por isso que são excelentes combatentes e excelentes companhei- ros de luta. Pena que não duram muito. Esses sacerdotes não devem sem encarados como bri- gões ou causadores de problemas. São ponderados, excelen- tes estrategistas de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-do-sol-46",
+      "name": "Clérigo. do Deus do Sol",
+      "category": "combat",
+      "pages": [
+        46
+      ],
+      "summary": "Clérigo. do Deus do Sol O culto ao Deus do Sol é mais comum em lugares quentes e desérticos, mas podem ser encontrados represen- tantes em todas as partes dos mundos de fantasia medieval. Existem devotos do Deus do Sol em todo o mundo, mas não há templos. Seus fiéis costumam louvá-lo com pri- vacidade em pequenos altares. Em algumas regiões afasta- das, agri...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-anoes-47",
+      "name": "Clérigo do Deus dos Anões",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Clérigo do Deus dos Anões Nos mundos de fantasia medieval, nem sempre os anões acreditam que sua criação se deva a algum Deus em particular. Mas se este for o caso, então estamos falando de um 5équito de 5eguidore5 um tanto particular. Os anões são conhecidos por suas maneiras rudes, o que jamais significa falta de educação. Seus métodos milirnri7.antes deix...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-elfos-49",
+      "name": "Clérigo do Deus dos Elfos",
+      "category": "attribute_skill",
+      "pages": [
+        49
+      ],
+      "summary": "Clérigo do Deus dos Elfos A vocação élfica para magia e o fanatismo com que cuidam das florestas faz com que a maioria dos elfos se torne magos ou rangers. Poucos acabam se dedicando à religião. O Deus dos Elfos, embora seja o criador de uma <las mais nobre raças humanóides, não é uma entidade influente. O modo discreto (omisso na opinião dos anões) com que...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-halflings-50",
+      "name": "Clérigo do Deus dos Halflings",
+      "category": "combat",
+      "pages": [
+        50
+      ],
+      "summary": "Clérigo do Deus dos Halflings Os halfings, assim como os elfos, não são notórios por sua religiosidade. Normalmente, aproveitando sua pe- quena estatura para se tornarem infiltradores, ladinos, es- piões e até mesmo ladrões, poucos se interessam por uma vida! de orações. A religião halfling é um reflexo do modo de vida ale- gre e festivo dos pequenos. Os clé...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-ladroes-51",
+      "name": "Clérigo do Deus dos Ladrões",
+      "category": "combat",
+      "pages": [
+        51
+      ],
+      "summary": "Clérigo do Deus dos Ladrões Os Deuses da Trapaça têm como maiores devotos não os sacerdotes - mas sim ladrões, que fa:i:em orações antes de executar algum \"serviço\". Mesmo assim, o Deus dos La- drões também tem Clérigos. Eles geralmente atuam como conselheiros dos chefes de guildas e quadrilhas (isso quando os chefes não são eles próprios). Templos destes de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-mares-52",
+      "name": "Clérigo do Deus dos Mares",
+      "category": "attribute_skill",
+      "pages": [
+        52
+      ],
+      "summary": "Clérigo do Deus dos Mares A maior parte destes Clérigos são criaturas marinhas (elfos-do-mar, sereias e outras raças que tenham capacidade anfíbia) que orientam suas vilas e aldeias. Seu papel é ensinar à comunidade como viver em harmonia com o mar e seus habitantes. Mas também existem sacerdotes deste Deus em terra, e pertencentes a outras raças. Em terra f...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-ores-53",
+      "name": "Clérigo do Deus dos Ores",
+      "category": "combat",
+      "pages": [
+        [
+          53,
+          54
+        ]
+      ],
+      "summary": "Clérigo do Deus dos Ores Dizem que o Deus protetor dos ores, goblins e goblinóides deseja varrer do mundo os humanos, anões e elfos para vingar-se dos milênios de humilhações sofridos pelos goblinóides nas mãos destas raças. D izem que o avatar do Deus dos Goblins participou de todas as batalhas importantes que os ores venceram. Dizem que os Clérigos do Deus...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-dos-segredos-55",
+      "name": "Clérigo do Deus dos Segredos",
+      "category": "item_equipment",
+      "pages": [
+        55
+      ],
+      "summary": "Clérigo do Deus dos Segredos Um dos Sacerdotes mais temidos e respeitados dos Mundos de Fantasia Medieval, o Clérigo dos Segredos é res- ponsável por carregar pelo mundo o peso de conhecer todas as informações que devem ser esquecidas. O Clérigo dos Segredos caminha pelo mundo apagan- do da mente das pessoas as informações que os deuses não querem que os mor...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-curandeiro-56",
+      "name": "Curandeiro",
+      "category": "character_option",
+      "pages": [
+        56
+      ],
+      "summary": "Curandeiro Nem roda a cura vem dos deuses. Em sociedades onde não há Clérigos ou Xamãs com poderes mágicos de cura, deve-se recorrer à medicina convencional. Esse é o papel do Curandeiro. O Curandeiro é uma pessoa treinada na cura de do- entes e uso de produtos vegetais (e também animais) para fabricar remédios, drogas, venenos e poções. Ele também pode ser...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-demonologista-57",
+      "name": "Demonologista",
+      "category": "power_magic",
+      "pages": [
+        57
+      ],
+      "summary": "Demonologista O Demonologista é um Mago altamente especializa- do no estudo, controle e combate de Demônios, sejam eles criaturas de Arkanun, Infernun, Abismo ou de ou- tros Planos Malignos. Vale esclarecer que, para este Mago, \"demônio\" pode ser qualquer monstro mágico ou sobrenatural. Isso inclui praàcamente todo àpo de criatura viva ou morta, exceto human...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-druida-do-deus-da-natureza-58",
+      "name": "Druida do Deus da Natureza",
+      "category": "combat",
+      "pages": [
+        58
+      ],
+      "summary": "Druida do Deus da Natureza Os Druidas do Deus da Natureza são reclusos, vivendo isolados em uma área selvagem - sozinhos ou em pequenos grupos formados apenas por outras Druidas. Por seu contato maior com a natureza, o Druida tem mais facilidade para sobre- viver em lugares selvagens e lidar com animais. Por outro lado, ele tem grande dificuldade em se relac...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-dungeon-crawler-59",
+      "name": "Dungeon Crawler",
+      "category": "item_equipment",
+      "pages": [
+        59
+      ],
+      "summary": "Dungeon Crawler Originária de um idioma não muito conhecido, Dungeon Crawler é uma expressão usada entre aventureiros para desig- nar os \"rastejantes de masmorras\". Em geral é uma expressão pejorativa, usada por heróis veteranos para se referir a novatos - pois é comum, entre os iniciantes, acreditar que a vida de um aventureiro se resume a explorar túneis,...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ilustracao-por-ronaldo-santana-60",
+      "name": "Ilustração por Ronaldo Santana",
+      "category": "kit_class",
+      "pages": [
+        60
+      ],
+      "summary": "Ilustração por Ronaldo Santana",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-elementalistas-61",
+      "name": "Elementalistas",
+      "category": "power_magic",
+      "pages": [
+        61
+      ],
+      "summary": "Elementalistas A magia é dividida em seis Caminhos Elementais - Ar, Água, Fogo, Luz, Terra e Trevas - que compõem tudo que existe. Combinados de várias formas, esses Caminhos podem realizar qualquer efeito. Alguns Magos, contudo, pre- ferem se especializar no domínio de um único Caminho. Estes são os Magos Elementalistas. Quando se concentra cm um único Cami...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-elementalista-da-terra-62",
+      "name": "Elementalista da Terra",
+      "category": "power_magic",
+      "pages": [
+        62
+      ],
+      "summary": "Elementalista da Terra O Caminho da Terra não é para Magos sutis. É a magia da força bruta, resistência, determinação e durabilidade. Representa a firmeza da montanha, e também o poder devastador do terre- moto e da avalanche. Tudo que é sólido está ligado à Terra. Esta é também a magia ligada à resistência metal, a força de vontade. O Mago da Terra procura...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-encantor-63",
+      "name": "Encantor",
+      "category": "combat",
+      "pages": [
+        63
+      ],
+      "summary": "Encantor Não são pouca:; a:; ocasiões em que manipular as pes- soas certas é mais eficiente que disparar bolas de fogo. Saben- do disso; alguns Magos se especializam em magias de influ- ência e controle da ~ente e das emoções. Ao contrário do Mago da Mente (veja mais adiante), o Encantor não é necessariamente um telepata. Sua magia é combinada com meios mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-engenhoqueiro-goblin-64",
+      "name": "Engenhoqueiro Goblin",
+      "category": "core_rule",
+      "pages": [
+        64
+      ],
+      "summary": "Engenhoqueiro Goblin Como na maioria dos mundos, o goblin é totalmente incapaz de lidar com magia arcana - eles nunca podem ser magos. Apesar disso, um goblin pode ser tão inteligente quanto qualquer humano. Como resultado, essa deficiência em magia incentivou a raça na busca por soluções alternativas para seus problemas. Da mesma forma que seus primos hobgo...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-escriba-de-pergaminhos-65",
+      "name": "Escriba de Pergaminhos",
+      "category": "kit_class",
+      "pages": [
+        [
+          65,
+          66
+        ]
+      ],
+      "summary": "Escriba de Pergaminhos O Escriba é um tipo menor de Mago, um estudioso ou monge encarregado de produzir pergaminhos mágicos. Uma vez que essa atividade exige muito talento e consome muito tempo, ele praticamente passa a vida enclausurado em um laboratório ou templo, de pena em punho. É um trabalho tedioso, mas seguro - ideal para aqueles sem a coragem ou dis...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-escudeiro-67",
+      "name": "Escudeiro",
+      "category": "combat",
+      "pages": [
+        67
+      ],
+      "summary": "Escudeiro O Escudeiro é um tipo de \"ajudante de herói\". Aque- le que acompanha aventureiros - ou grupos deles - para carregar seus pertences, montar acampamentos, apa- nhar lenha, preparar refeições e cuidar de outros aspectos \"mundanos\" da vida. Tudo isso pode parecer pouco brilhante ou digno, mas em uma sociedade repleta de heróis o trabalho do Escudeiro é...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-espiao-68",
+      "name": "Espião",
+      "category": "combat",
+      "pages": [
+        68
+      ],
+      "summary": "Espião Seja em tempos de guerra ou de paz, a espionagem é uma atividade vital. Governantes procuram saber o que ocorre nos reinos vizinhos. Generais buscam descobrir sobre as condições das tropas inimigas. Guildas de la- drões tentam se infiltrar em organizações rivais. Lordes e mercadores de todos os tipos desejam saber sobre os ne- gócios de seus concorren...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-gladiador-69",
+      "name": "Gladiador",
+      "category": "combat",
+      "pages": [
+        69
+      ],
+      "summary": "Gladiador O Gladiador é um guerreiro profissional, um artista que usa sua habilidade em combate para ruvertir o público durante grandes shows. Em grandes cidades e metrópoles, onde com- bates de arena são um entretenimento popular, os Gladiadores são os maiores a5tros e estrelas. Poder e habilidade em combate são importantes para o Gladiador, mas ainda mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guardiao-70",
+      "name": "Guardião",
+      "category": "core_rule",
+      "pages": [
+        70
+      ],
+      "summary": "Guardião O Guardião ou Guarda-Costas é um Guerreiro respon- sável pela proteção de um lugar, item ou pessoa. Ele pode ser um aventureiro contratado para proteger algo, ou então um Guardião treinado durante toda a vida para um único objetivo - como ocorria em algumas ordens de monges encarregadas da proteção de templos, monastérios, artefatos, animais raros e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guerreiro-da-serpente-71",
+      "name": "Guerreiro da Serpente",
+      "category": "attribute_skill",
+      "pages": [
+        71
+      ],
+      "summary": "Guerreiro da Serpente O Guerreiro da Serpente luta para provar a força <le sua deusa. Não é preciso ser um clérigo para receber suas graças; uma vez que decida ser seu devoro, qualquer guerreiro recebe poder da Deusa Serpente. Ele usa esse poder para dominar os fracos, mas também para protegê-los. De acordo com a Serpente, o fraco deve ser protegido pelo for...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-llustracao-por-72",
+      "name": "llustraçâo por",
+      "category": "kit_class",
+      "pages": [
+        72
+      ],
+      "summary": "llustraçâo por Marcelo Cassaro",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guerreiro-das-sombras-73",
+      "name": "Guerreiro das Sombras",
+      "category": "attribute_skill",
+      "pages": [
+        73
+      ],
+      "summary": "Guerreiro das Sombras Este aventureiro sombrio parece, à primeira vista, ter muito em comum com o Ninja e o Shinobi - os assassinos furtivos. Grande engano. Na ven.la<le, este é um guerreiro que escolheu harmonizar seu corpo e seus movimentos com as Trevas. I\\fais do que apenas se esconder nas sombras, ele pode moldar a própria escuridão como arma de ataque....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guerreiro-do-gelo-74",
+      "name": "Guerreiro do Gelo",
+      "category": "combat",
+      "pages": [
+        74
+      ],
+      "summary": "Guerreiro do Gelo São comuns em Reinos de Fantasia histórias sobre guerreiros de coração gélido, cujo simples toque transformar uma pessoa em estátuas de gelo. Alguns acreditam que estes lutadores sejam, na verdade, filhos dos dragões brancos. Ou- tros, melhor informados, conhecem a verdade: eles são sim- ples mortais, mas conseguiram tornar seus corpos e al...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-guerreiro-treinado-75",
+      "name": "Guerreiro Treinado",
+      "category": "combat",
+      "pages": [
+        75
+      ],
+      "summary": "Guerreiro Treinado Esle é o típico jovem que se arma com espada e escudo e abandona sua vila na companhia de colegas aventureiros. É a forma mais simples e conhecida de herói aventureiro, o tipo mais comum em Mundos de Fantasia. Não é preciso muita coisa para ser um Guerreiro: basta uma arma e a disposição para usá-la. Todas as raças possuem guerreiros. Será...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ilusionista-76",
+      "name": "Ilusionista",
+      "category": "power_magic",
+      "pages": [
+        76
+      ],
+      "summary": "Ilusionista Todo Mago que possua magia da Luz é capaz de criar ilusões. Esta é uma mágica muito comum e fácil de realizar. O Ilusionista, contudo, é um Mago extremamente hábil nesse tipo de magia - de tal forma que pode realizá-las mais facilmente, sem grande dispêndio de energia. E suas ilusões são muito mais convincentes. Um Ilusionista raramente se aprese...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-impostor-77",
+      "name": "Impostor",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          77,
+          78
+        ]
+      ],
+      "summary": "Impostor O Impostor é o mestre dos disfarces, um ladrão ou bardo especializado em personificar papéis e fingir ser ou- tra pessoa. Com as roupas certas, maquiagem, voz disfarçada e até rituais mágicos menores, ele pode adotar a aparência <le qualquer pessoa, incluindo do sexo oposto ou de outras raças. O bom Impostor não sabe apenas simular uma apa- rência f...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-infiltrador-79",
+      "name": "Infiltrador",
+      "category": "combat",
+      "pages": [
+        79
+      ],
+      "summary": "Infiltrador Enquanto o Impostor é um espião especializado em disfarces e interpretação de papéis, o Infiltrador é o mestre da invisibilidade. Seu objetivo é invadir lugares protegidos sem ser visto, usando técnicas de camuflagem, movimento furtivo, distração e subterfúgio. Muitos Infiltradores tentam conquistar poderes má- gicos de ilusão e/ ou invisibilidad...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-invocador-de-criaturas-80",
+      "name": "Invocador de Criaturas",
+      "category": "combat",
+      "pages": [
+        80
+      ],
+      "summary": "Invocador de Criaturas Apesar do poder destrutivo de certas magias, o Mago típico não é um aventureiro combativo. Enquanto a espada é reservada aos de braço forte, a magia é própria para os de mente aguçada. Alguns aventureiros são agraciados com músculos e cérebro acima de média, de forma que podem dominar tanto a magia quanto as artes do combate. Mas estes...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-jogador-81",
+      "name": "Jogador",
+      "category": "combat",
+      "pages": [
+        81
+      ],
+      "summary": "Jogador Uns diriam que o Jogador não é um aventureiro; ou- tros, melhor informados, dizem com certeza que este deve ::;er o mais ousado e audacioso avenmreiro de Mundos de Fantasia Medieval. O Jogador é um grande mestre dos jogos de azar. Cartas, dados, charadas ... ele conhece as regras para todos, e também todas as formas de trapaceá-las! Suas mangas e bol...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ladrao-82",
+      "name": "Ladrão",
+      "category": "combat",
+      "pages": [
+        82
+      ],
+      "summary": "Ladrão O cidadão comum pode estranhar o fato de que valoro- sos guerreiros, clérigos, paladinos ou magos às vezes sejam vis- tos na companhia de \"ladrões\". Afinal, por que um grupo de heróis aceitaria a presença de um criminoso entre eles? Isso acontece porque, entre os aventureiros, um La- drão não é .necessariamente 1.1m criminoso ou pessoa malig- na. Ele...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-lanceiro-83",
+      "name": "Lanceiro",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "summary": "Lanceiro A lança é uma das armas mais antigas e primitivas - perde apenas para a clava. Apesar disso, é uma das melho- res armas de Mundos de Fantasia Medieval. Uma lança é mais barata que uma espada. Construir e montar uma lança leve custará no máximo 75 moedas de prata, enquanto uma modesta espada curta (que causa o mesmo dano) não sai por menos de 100 moe...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-legionario-85",
+      "name": "Legionário",
+      "category": "combat",
+      "pages": [
+        85
+      ],
+      "summary": "Legionário O Legionário é um guerreiro altamente treinado para lutar em exércitos no estrangeiro. Embora tenha alguma ha- bilidade em combate individual, seu verdadeiro poder apare- ce quando ele trabalha em equipe, lutando ao lado de vários companheiros que tenham o mesmo treinamento. Um gru- po de Legionários bem treinados pode atuar como uma for- ça de co...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-lenhador-mistico-86",
+      "name": "Lenhador Místico",
+      "category": "combat",
+      "pages": [
+        86
+      ],
+      "summary": "Lenhador Místico Mestre no uso do machado e em combate sobre as árvores, poucos podem vencê-lo quando luta em seu ambi- ente favorito. Guerreiro rústico e habituado à vida na floresta densa, o lenhador Místico é quase um tipo de Ranger. Ele tem no machado sua arma mais importante, com o qual consegue realizar as mais inacreditáveis façanhas - não ape- nas ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-da-mente-87",
+      "name": "Mago da Mente",
+      "category": "power_magic",
+      "pages": [
+        87
+      ],
+      "summary": "Mago da Mente Muit0s ~rudiosos pregam que, além da magia, 1!.XÍSte um outro tipo de poder sobrenatural proveniente <la mente humana -o poder psíquico. Emboraalgunsconsigamapont.ardiferenças entre esses p<>dercs, na maioria dos aspectos eles são iguais: forças sobrenaturais usadas pata gerru-efeitos. Em tenno~ práticos, não há diferença alguma entre magia e p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-de-combate-88",
+      "name": "Mago de Combate",
+      "category": "power_magic",
+      "pages": [
+        88
+      ],
+      "summary": "Mago de Combate Tipicamente, Magos não são combativos. A magia costuma ser empregada quando a espada não funciona. Mesmo assim, quando você pode disparar bolas de fogo ou relâmpagos pelas pontas dos dedos, é impossível para al- guns ignorar o poder destrutivo da mágica. Magos de Combate se concentram no estudo de magias que causam ou protegem contra dano. Po...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-do-caos-89",
+      "name": "Mago do Caos",
+      "category": "combat",
+      "pages": [
+        [
+          89,
+          90
+        ]
+      ],
+      "summary": "Mago do Caos A maioria dos Magos se orgulha da precisão e exatidão de seus poderes; o efeito de suas mágicas é cuidadosamente calculado, não permitindo resultados inesperados. Mas nada disso se aplica ao Mago do Caos. Em vez de esrudar magia por meios convencionais, atra- vés de fórmulas e diagramas, este Mago domina energias mági- cas selvagens que não pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-do-relampago-91",
+      "name": "Mago do Relâmpago",
+      "category": "power_magic",
+      "pages": [
+        91
+      ],
+      "summary": "Mago do Relâmpago O Caminhos Elementais do Ar e da Luz, combina- dos, formam o que chamamos de Caminho Elemental do Rel~mpago. Este é um dos Caminhos Secundários que atrai mais adeptos. O Mago do Relâmpago é clevotaJu ao estudo e do- mínio dos fenômenos elétricos. Ele pode ser identificado por suas roupas (que em geral trazem o desenho de relâm- pagos) e jói...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-glacial-92",
+      "name": "Mago Glacial",
+      "category": "power_magic",
+      "pages": [
+        92
+      ],
+      "summary": "Mago Glacial Encontrado mais freqüentemente entre os esquimós das Montanhas Geladas dos Mundos de Fantasia, este Mago é um Elementalista Secundário que domina os Caminhos da Água e do Ar.. Suas magias são baseadas em frio e gelo. Magias lançadas por um Mago Glacial serão sempre em \"versão congelada\": a magia Transporte, por exemplo, permite ao Mago deslizar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-mago-mensageiro-93",
+      "name": "Mago Mensageiro",
+      "category": "power_magic",
+      "pages": [
+        93
+      ],
+      "summary": "Mago Mensageiro O Mago Mensageiro é um tipo especial de Ilusionist.a. Ele também se especializa em magias ilusórias - mas, em vez de tomá-las mais reais, de bu~ca aumentar seu alcance. Com isso o Mago pode projetar ilusões a grandes distâncias, em geral como forma de comunicação. O trabalho destes Magos é muito valorizado por reis, lordes ou generais que pre...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-malabarista-94",
+      "name": "Malabarista",
+      "category": "combat",
+      "pages": [
+        94
+      ],
+      "summary": "Malabarista Da mesma forma que as atuações de bardos e os com- bates de gladiadores, shows de circo são um entretenimen- to muito popular em Mundos de Fantasia. E neste mundo repleto de aventureiros com poderes incomuns, os artistas circenses são muito mais impressionantes: acrobatas quase capazes de voar (ou REALMENTE capazes de voar), doma- dores de feras...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-maquina-de-combate-95",
+      "name": "Máquina de Combate",
+      "category": "combat",
+      "pages": [
+        [
+          95,
+          96
+        ]
+      ],
+      "summary": "Máquina de Combate Em geral, um consuuto é feito com uma forma humana nu humanóide - cabeça, tronco, dois braços e duas pernas. Essa escolha não é apenas estética, mas também prática: uma vez 9uc a maioria das armas, ferramentas e utensílios do mundo são feitos para humanos, desta forma uma criatura com forma humana poderia usá-las mais facilmente. Então, qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-matador-de-dragoes-97",
+      "name": "Matador de Dragões",
+      "category": "combat",
+      "pages": [
+        97
+      ],
+      "summary": "Matador de Dragões Como dic. o nome, este é um guerreiro especializa- do no combate a dragões e criaturas aparentadas. Por iro- nia, este aventureiro é mais comum em um Reino cujo governante é um dragão. Explica-se: uma vez que dragões são territoriais e não aceitam a presença de outros de sua espécie, o Rei Dragão incentiva entre seus súditos treina- mento...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-matador-de-gigantes-98",
+      "name": "Matador de Gigantes",
+      "category": "combat",
+      "pages": [
+        98
+      ],
+      "summary": "Matador de Gigantes Em regiões onde a sobrevivência é ameaçada pelo ata- que de gigantes, os guerreiros locais não apenas aprendem a se defender deles - mas também ousam caçá-los em seus covis. Alguns se tornam tão competentes nessa perigosa ta- refa que viajam pelo mundo em busca de pessoas que dese- jem contratá-los para eliminar algum gigante que esteja c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-matador-de-pestes-99",
+      "name": "Matador de Pestes",
+      "category": "combat",
+      "pages": [
+        99
+      ],
+      "summary": "Matador de Pestes Grandes heróis para grandes ameaças, pequenos he- róis para pequenos problemas. Embora os halflings, goblins e fadas não sejam tradicionalmente guerreiros (a maioria dos aventureiros destas raças sã.o ladrões ou magos), alguns de- les se 1.0rnam especialistas em lutar com oponentes de seu próprio tamanho - ou menores. O Matador de Pestes é...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-matador-de-trolls-100",
+      "name": "Matador de Trolls",
+      "category": "combat",
+      "pages": [
+        100
+      ],
+      "summary": "Matador de Trolls Um tipo de guerreiro comum entre os anões, este aven- tureiro conhece todas as variedades de trolls e as formas cor- retas de enfrentá-los e derrotá-los. O Matador de Trolls existe onde quer que uma comu- nidade seja perturbada por estas criaturas repulsivas. Para contra-atacar seu grande poder de regeneração, o matador faz ataques rápidos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-menestrel-101",
+      "name": "Menestrel",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          101,
+          102
+        ]
+      ],
+      "summary": "Menestrel Mundos de Fantasia são lugares de grandes heróis, grandes aventuras e grandes feitos. Essas histórias devem ser contadas. Esse é o papel dos .Mem:strd. A profissão de Menestrel está entre as mais respeitadas dos Reinos de famasia - pois, em uma sociedade sem co- municação a longa distância, cabe a eles transmitir notícias de lugares afastados. Tamb...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-necromante-103",
+      "name": "Necromante",
+      "category": "power_magic",
+      "pages": [
+        103
+      ],
+      "summary": "Necromante O Necromante é um Mago especializado no estudo, criação e controle de mortos-vivos. Na maioria <las socieda- des ele seria considerado um vilão - e muitos de fato o são, usando esqueletos e zumbis como soldados e servos diabólicos. Por seu desrespeito pela vida, Necromantes são os mais clássicos inimigos dos grupos de aventureiros. Mas o Necromant...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-pacificador-104",
+      "name": "Pacificador",
+      "category": "combat",
+      "pages": [
+        104
+      ],
+      "summary": "Pacificador Treinados pela ordem do Deus da Paz, os Pacifica- dores são guerreiros dedicados ao fim da violência e à pre- servação da paz em tempos difíceis. Seu grande objetivo é vencer a luta sem matar o oponente. Para isso eles recor- rem a redes, laços, boleadeiras, manobras de contenção e demais formas de imobilizar, bem como técnicas de de- sarme, esqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-forca-105",
+      "name": "Paladino do Deus da Força",
+      "category": "attribute_skill",
+      "pages": [
+        105
+      ],
+      "summary": "Paladino do Deus da Força O Paladino do D eus da Força não acredita no bem nem nu mal, mas que a superioridade é conseqüência natural da9uele 9ue for fisicamente mais forte. Esse Paladino gosta de provações físicas. Isso inclui luras e combates, mas não existe a obrigação de participar de todas as lutas que lhe aparecerem pela frente. Longas travessi- as, do...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-guerra-106",
+      "name": "Paladino do Deus da Guerra",
+      "category": "combat",
+      "pages": [
+        106
+      ],
+      "summary": "Paladino do Deus da Guerra O Deus da Guerra entende que o combate entre grandes exércitos é o caminho certo para evoluir as socie- dades. Como apenas os mais fortes sobrevivem, os rei- nos se tornam mais fortes. E não apenas as vitórias agra- da a essa divindade. Reconstruir uma nação devastada tam- bém é algo engrandecedor. O Paladino do Deus da Guerra luta...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-justica-107",
+      "name": "Paladino do Deus da Justiça",
+      "category": "combat",
+      "pages": [
+        [
+          107,
+          108
+        ]
+      ],
+      "summary": "Paladino do Deus da Justiça Em alguns casos, a lei dos homens não consegue se fazer aplicar. Talvez porque algum nobre se ache acima da lei. Talvez algum avc:ntun:iro louco tenha se tornado poderoso demais. Talvez algum ser maligno extra-planar tenha se ins- talado nas proximidades de um vilarejo e esreja corrompen- do as forças do bem. É para lidar com esta...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-morte-109",
+      "name": "Paladino do Deus da Morte",
+      "category": "core_rule",
+      "pages": [
+        109
+      ],
+      "summary": "Paladino do Deus da Morte Em tempos de grande prosperidade e colheitas fartas, as pessoas comuns têm melhores condições de vida, e aca- bam vivendo mais tempo: não acontecem mortes por fome e as doenças são tratadas com mais facilidade. Reccow de cair no esquecimento, o Deus da Morte envia um de seus escolhidos para reequilibrar as balança. Sua missão é caus...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-tirania-110",
+      "name": "Paladino do Deus da Tirania",
+      "category": "combat",
+      "pages": [
+        110
+      ],
+      "summary": "Paladino do Deus da Tirania Paladinos possuem missões difíceis e perigosas. Para serem capazes de realizá-las, os Deuses do Bem lhes conce- dem grandes poderes. Paladinos enfrentam perigos acima de suas capacidades e vencem. Isso pode torná-los arrogantes. É essa fraqueza que o Deus da Tirania explora. A diferença entre certo e errado às vezes é muito sutil....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-paladino-do-deus-da-heroismo-111",
+      "name": "Paladino do Deus da Heroísmo",
+      "category": "combat",
+      "pages": [
+        111
+      ],
+      "summary": "Paladino do Deus da Heroísmo Herói é a~1uele yue sacrifica a si mesmo por um bem maior. O Paladino do Heroísmo é o personagem que viaja pelos mundos de Fantasia Medieval buscando oportunida- des para provar seu valor. Não importa o quão perigoso, forte ou poderoso é um inimigo, o Paladino do Heroísmo sempre irá enfrentá- lo. Na verdaJe, quanto mais arriscada...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-pirata-corsario-112",
+      "name": "Pirata / Corsário",
+      "category": "combat",
+      "pages": [
+        112
+      ],
+      "summary": "Pirata / Corsário O Pirata é um guerreiro fora-da-lei que age a bordo de navios. Na maioria dos mundos de Fantasia, a navegação oceânica é pouco praticada, devido ao terreno litorâneo ruim e porque as principais cidades ficam longe do mar. Não há comércio marítimo em grande escala. Assim, o Pirata de Mundos de Fantasia é especi- alizado em atacar expedições...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-pistoleiro-113",
+      "name": "Pistoleiro",
+      "category": "combat",
+      "pages": [
+        [
+          113,
+          114
+        ]
+      ],
+      "summary": "Pistoleiro Na maioria dos mundos medievais mágicos, a magia substitui vários setores da tecnologia. Uma vez que a mági- ca é muito mais poderosa, segura e confiável, muitos inventos que conhecemos na Terra jamais seriam amplamente usa- dos nesses mundos. Um deles é a pólvora. A pólvora já foi descoberta em muitos locais, mas - após uma sfaie de experimentos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ranger-das-cavernas-115",
+      "name": "Ranger das Cavernas",
+      "category": "combat",
+      "pages": [
+        115
+      ],
+      "summary": "Ranger das Cavernas Muitíssimo comum entre os anões e outras raças subterrâneas, este guerreiro é exatamente o que diz seu nome: um tipo de aventureiro rústico especializado na exploração e mapeamento de cavernas. Ele será diferente do ranger comum, uma vez que os reinos subterrâneos obedecem a suas próprias leis ... Este solitário andarilho dos túneis é a c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-rei-da-montanha-116",
+      "name": "Rei da Montanha",
+      "category": "attribute_skill",
+      "pages": [
+        116
+      ],
+      "summary": "Rei da Montanha Quando um aventureiro busca a força bruta, a resis- tência e a força de vontade, ele deve procurá-la no elemen- to que melhor simboliza essas qualidades - a própria terra. Entrando em harmonia com a rocha e o metal, extraindo poder do próprio solo, ele se torna um Rei da Montanha - um guerreiro ligado ao elemento terra. Membros de muitas raça...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-sabotador-117",
+      "name": "Sabotador",
+      "category": "combat",
+      "pages": [
+        117
+      ],
+      "summary": "Sabotador O Sabotador é um ladrão ou espião altamente treina- do na fabricação, detecção e anulação de armadilhas. É um grande estudioso de engenhos mecânicos (ou mesmo má- gicos) destinados a matar, ferir, aprisionar, retardar ou ape- nas humilhar suas vítimas. Além de saber lidar com alçapões, jaulas, dardos e lâminas nas paredes, pedras rolantes, agulhas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-senhor-das-chamas-118",
+      "name": "Senhor das Chamas",
+      "category": "attribute_skill",
+      "pages": [
+        118
+      ],
+      "summary": "Senhor das Chamas Quando não se pode contar com magia, o fogo é uma das armas mais eficientes contra criaturas que não podem ser vencidas pela força. Existem até mesmo alguns mons- tros que podem ser feridos APENAS pelo fogo. Sabendo disso, alguns guerreiros decidem dominar sua chama interi- or e harmonizar seu corpo com o elemento fogo. Tornar-se um Senhor...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-soldado-morto-119",
+      "name": "Soldado-Morto",
+      "category": "combat",
+      "pages": [
+        119
+      ],
+      "summary": "Soldado-Morto Em vários lugares de Arcádia são contadas histórias so- bre valoi:osos guerreiros que sacrificaram suas vidas em batalhas grandiosas e sangrenta.~ , com o único objetivo de derrotar seus inimigos. Contudo, alguns desses mesmos guerreiros eram de- votos tão fervorosos do Deus da Guerra que, mesmo após sua morte, em seus corpos ainda permanecia o...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-ilustracao-por-xanditz-120",
+      "name": "Ilustração por Xanditz",
+      "category": "kit_class",
+      "pages": [
+        120
+      ],
+      "summary": "Ilustração por Xanditz",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-swashbuckler-121",
+      "name": "Swashbuckler",
+      "category": "combat",
+      "pages": [
+        121
+      ],
+      "summary": "Swashbuckler Em um mundo de pesadas couraças metálicas e espa- das imensas, o Swashbuckler é o mais ousado, galante e ro- mântico dos guerreiros. Ele despreza as arma<luras, preferin- do se exibir em roupas de cores vivas e finamente trabalha- das. F.:le g::trgalha dos machados e espadas montantes, bran- dindo seu florete ou trazendo uma adaga - ou uma rosa!...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-teleporter-122",
+      "name": "Teleporter",
+      "category": "power_magic",
+      "pages": [
+        122
+      ],
+      "summary": "Teleporter Em mundos de fantasia, a magia substitui muitas tecnologias que normalmente não existem em mundos medie- vais. Transporte é uma delas. Para aqueles sem recursos mágicos, a forma de viajar mais acessível são as montarias animais. Não é surpreendente, portanto, que a magia de transporte seja muito importante - e então entra em cena o Teleporter. O T...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-vigilante-123",
+      "name": "Vigilante",
+      "category": "combat",
+      "pages": [
+        123
+      ],
+      "summary": "Vigilante O Vigilante é um jusciceiro fora-da-lei. Seguindo um có- digo de justiça próprio, ele age sem autorização ou permissão das autoridades para p'-mir aqueles que considera malignos ou criminosos. Por esse motivo, embora muitos Vigilantes sejam heróis valorows, eles são perseguidos pelas Ordens de Paladi- nos e outras entidades que representam a lei. N...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-visionario-124",
+      "name": "Visionário",
+      "category": "power_magic",
+      "pages": [
+        124
+      ],
+      "summary": "Visionário Esta figura mística tem pouco em comum com o típi- co Mago aventureiro. Seu poder mágico verdadeiro é mo- desto: a maior habilidade do Visionário está em sua percep- ção sobrenatural, sua capacidade de ver e ouvir coisas que outros não podem. Este é o eremita que vive isolado na caverna, a feiticeira que observa sua bola <le cristal, ou o Mago con...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-warlock-125",
+      "name": "Warlock",
+      "category": "combat",
+      "pages": [
+        125
+      ],
+      "summary": "Warlock O Warlock é completamente diferente dos outros Ma- gos. Ele nunca teve a intenção de aprender magia, mas aca- bou recebendo esse poder de alguma forma. Uma das razões mais comuns é que ele seja descen- dente de uma criatura mágica poderosa, como um dragão, gênio, fada ou até um Deus menor. Mas também pode ocorrer que ele tenha sido abençoado pelos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-al-e-x-126",
+      "name": "AL..E.X",
+      "category": "kit_class",
+      "pages": [
+        126
+      ],
+      "summary": "--=-- - - AL..E.X 200E --... ' '",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-qutl-as-9-u-hcacoes-127",
+      "name": "Qutl'as 9?u&Hcações",
+      "category": "creature_npc",
+      "pages": [
+        127
+      ],
+      "summary": "Qutl'as 9?u&Hcações Se você não encontrou algum destes livros na sua loja ou distribuidor preferido, visite www.daemon.com.br. Guia de Itens Mágicos O aguardado livro sobre itens mágicos, artefatos e relíquias finalmente saiu! Este Guia traz para você cerca de 1.000 novos itens, entre anéis, poções, óleos, elixires, varinhas, cajados, varas, gemas, pedras, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-anime-rpg-128",
+      "name": "Anime RPG",
+      "category": "creature_npc",
+      "pages": [
+        128
+      ],
+      "summary": "Anime RPG Al'\\JIME RPG foi feim clirera.meme para os fãs de Anime e lvfangá. Comém regras completas para criar e desenvolver um universo baseado em qualquer desenho ou quadrinho japonês. Contém regras para criação de Pei:sona- gens baseados nos prinàpais Animes da atualidade. Além disso, ANllvfE traz regras para a construç.\"í.o de MECHAs (robôs gigantes), Ci...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-arkanun-3a-edicao-129",
+      "name": "Arkanun 3ª Edição",
+      "category": "creature_npc",
+      "pages": [
+        129
+      ],
+      "summary": "Arkanun 3ª Edição Um dos mais antigos, conhecidos e conceituados RPGs do Brasil, Arkanun é ambientado em uma Idade Média sombria e ameaçadora, enquanto a Peste Negra assolava a Europa, onde a Inquisição perse- guia e condenava à fogueira qualguer manifestação de atos demoníacos como bruxas, magos ou filhos do demônio. Onde feudos imundos e abadias escondidas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica-isbn-85-87013-34-3-130",
+      "name": "ISBN 85- 87013- 34-3",
+      "category": "kit_class",
+      "pages": [
+        130
+      ],
+      "summary": "ISBN 85- 87013- 34-3 ~ 1 !' 11 ll 9 88587 013347",
+      "entityRefs": []
+    }
+  ]
+}

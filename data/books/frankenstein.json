@@ -1,0 +1,47 @@
+{
+  "source": "frankenstein",
+  "title": "Frankenstein",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "creature_npc",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "frankenstein-frankenstein-1",
+      "name": "Frankenstein",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "Frankenstein A criação Por “GrishnaK” “Aprenda, se não pelos meus preceitos, pelo menos por meu exemplo, o perigo que representa a assimilação indiscriminada da ciência, e quanto é mais feliz o homem para quem o mundo não vai além do ambiente cotidiano, do que aquele que aspira tornar-se maior do que sua natureza lhe permite”. - Victor Frankenstein Nos RPGs...",
+      "entityRefs": []
+    },
+    {
+      "id": "frankenstein-poderes-5",
+      "name": "Poderes",
+      "category": "attribute_skill",
+      "pages": [
+        5
+      ],
+      "summary": "Poderes Abaixo seguem os Poderes que podem ser apresentados pelos golens. Aperfeiçoamentos Em suas pesquisas, a Criatura realizou diversas experiências com humanos. Algumas evolviam apenas variação de tamanho, trocas de órgãos humanos por animais e outras coisas mais “simples”. Com o tempo, porém, a Criatura começou a colocar em prática teorias mais radicais...",
+      "entityRefs": []
+    },
+    {
+      "id": "frankenstein-extra-na-rodada-6",
+      "name": "extra na rodada.",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "extra na rodada. Resistência à Dor Este poder confere ao golem que o possuir uma fantástica tolerância a danos de qualquer origem, aumentando se Índice de Proteção (IP) em um ponto para cada nível de Poder gasto com Resistência à Dor, porém, sem acarretar penalidades nos Atributos Destreza ou Agilidade, como acontece com armaduras. Corpus Corpus é um conjunt...",
+      "entityRefs": []
+    }
+  ]
+}

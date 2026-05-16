@@ -1,0 +1,73 @@
+{
+  "source": "energia-mistica",
+  "title": "Energia Mistica",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "power_magic",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "energia-mistica-salatiel-1",
+      "name": "Salatiel",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Salatiel Lokken Energia Mistica Internas",
+      "entityRefs": []
+    },
+    {
+      "id": "energia-mistica-suplemento-para-rpg-daemon-2",
+      "name": "Suplemento para RPG Daemon",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "Suplemento para RPG Daemon Energia Mistica Internas Suplemento que visa dar novas opções para Mestres e Jogadores. Ao utilizarem magos em suas campanhas e aventuras de RPG. A Ordem da Lua - Role Playing Game Guarulhos - Sp Criação Desnvolvimento Revisão Capa Artes : Salátiel : Salátiel e Lokken (Stefano Paranho de Lima) : Vânia (Minha Mãe) e Lokken : Google...",
+      "entityRefs": []
+    },
+    {
+      "id": "energia-mistica-prefacio-5",
+      "name": "Prefácio",
+      "category": "power_magic",
+      "pages": [
+        [
+          5,
+          8
+        ]
+      ],
+      "summary": "Prefácio 7 Energia Místicas Internas Não importa o quando você se importe algumas pessoas simplesmente não se importam. Shakespeare 8 Energia Místicas Internas Londres, 10 de julho de 1985 Existem várias teorias de como se produzir o efeito chamado magia. Existem diversos magos e mágicos espalhados pelo mundo, e outra grande quantidade de pessoas que se julg...",
+      "entityRefs": []
+    },
+    {
+      "id": "energia-mistica-energia-misticas-internas-9",
+      "name": "Energia Místicas Internas",
+      "category": "power_magic",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "summary": "Energia Místicas Internas 11 mais forte, sua aura estará mais visível e ele ficará Prata bem reforçado e pode vir a ser considerado mais resistente contra os mesmos ataques e um Semi-Deus por alguns desavisados (e caçado tentativas de dominação. por outros!). Seu Cordão de Prata fica com um traço bem mais forte (ler sua aura requer um teste Lista de Efeitos...",
+      "entityRefs": []
+    },
+    {
+      "id": "energia-mistica-forum-da-daemon-13",
+      "name": "Forum da Daemon;",
+      "category": "creature_npc",
+      "pages": [
+        13
+      ],
+      "summary": "Forum da Daemon; Trevas 3.5; Grimorio; Anjos; Demônios; Spiritum; Google; E diversos livros de espiritismo que nem me lembro o nome. Bibliográfia 16 Energia Místicas Internas",
+      "entityRefs": []
+    }
+  ]
+}

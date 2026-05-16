@@ -1,0 +1,24 @@
+[
+  {
+    "id": "auxiliar-alastor",
+    "name": "Auxiliar dos Alastores",
+    "category": "kit_class",
+    "source": "alastores-a-justica-infernal",
+    "page": 28,
+    "entries": ["Kit/perfil de apoio humano ou demonologista ligado aos Alastores e a Ordem do Templo de Set."],
+    "tags": ["kit", "alastores", "auxiliar"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "legionario-alastor",
+    "name": "Legionario Alastor",
+    "category": "kit_class",
+    "source": "alastores-a-justica-infernal",
+    "page": 30,
+    "entries": ["Kit/perfil guerreiro associado a milicia ou legioes de Alastores."],
+    "tags": ["kit", "alastores", "combatente"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  }
+]

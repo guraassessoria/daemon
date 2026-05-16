@@ -1,0 +1,34 @@
+{
+  "source": "escudos02",
+  "title": "escudos02",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "escudos02-escudos-1",
+      "name": "Escudos",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Escudos: Manual de Instruções A perícia escudo é tratada como a de qualquer outra arma (ataque/defesa). A vantagem é que armado com o escudo o personagem pode defender sem abdicar do seu ataque, ou seja por ele está posicionado à frente do corpo, o personagem pode, com a mão oposta à que segura o escudo executar um ataque, mesmo defendendo o ataque adversári...",
+      "entityRefs": []
+    },
+    {
+      "id": "escudos02-manobras-de-combate-2",
+      "name": "Manobras de Combate",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "Manobras de Combate Arremesso (20) Seu Personagem pode arremessar o escudo à distância (até FR metros) com um teste de Ataque do escudo (mas ele NÃO vai ricochetear e voltar pra sua mão, a menos que você utilize o Poder de Fé: Arremesso de Arma que se encontra no Net-Book - Novos Poderes de Fé). O dano causado é de 1d6+bônus escudos comuns e 2d6+bônus os com...",
+      "entityRefs": []
+    }
+  ]
+}

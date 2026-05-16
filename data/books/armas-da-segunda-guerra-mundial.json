@@ -1,0 +1,328 @@
+{
+  "source": "armas-da-segunda-guerra-mundial",
+  "title": "Armas da Segunda Guerra Mundial",
+  "status": "full-read-auto-pass-1",
+  "pages": 42,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "armas-da-segunda-guerra-mundial-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-2",
+      "name": "ARMAS DA",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL Autor: Diego “n1ghtmare” Meneses de Souza nightmare_domain@hotmail.com Colaborador: Tiago “Murazor” Maraschin tiagomm@hotmail.com Agradecimentos: Lucas “Andrewsboy”, Marcos “Shutz”, Du “Spider”, Marlon, Anthony, o resto do pessoal do meu grupo de jogo e as opiniões do pessoal do fórum da Rede RPG.",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-introducao-3",
+      "name": "INTRODUÇÃO",
+      "category": "item_equipment",
+      "pages": [
+        3
+      ],
+      "summary": "INTRODUÇÃO A Segunda Guerra foi um marco sem precedentes na história de toda a humanidade. Sem dúvida alguma, é o conflito que mais gerou polêmica, e que fascina aqueles que se sentem encorajados a entender o palco de batalha e assusta todos pela violência e tenacidade pelo qual milhares de pessoas serviram e morreram por uma causa. Foi neste épico acontecim...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-regras-4",
+      "name": "REGRAS",
+      "category": "combat",
+      "pages": [
+        [
+          4,
+          10
+        ]
+      ],
+      "summary": "REGRAS Como já mencionado, as regras básicas sobre as armas de fogo (no caso, apenas as variantes do grupo de perícias Armas de Fogo) já foram apresentadas no netbook do Tiago, sendo desnecessário toda sua adição aqui novamente. Portanto, trarei aqui algumas mecânicas adicionais apenas para armas que não se enquadram no que foi descrito acima. Como uma infor...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-11",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL A L I A D O S ARMAS DA SEGUNDA GUERRA MUNDIAL E.U.A.",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-pistolas-13",
+      "name": "PISTOLAS",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "PISTOLAS Colt M1911A1: Uma das armas mais produzidas no mundo, chegando a casa dos milhões de unidades. Planejada para ser potente o suficiente para derrubar os guerreiros filipinos que, durante as operações militares dos Estados Unidos na região (final do séc. 19), continuavam a atacar, mesmo após atingidos. Teve sua produção iniciada em 1911; sendo licenci...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-municao-50-bmg-15",
+      "name": "Munição: .50 BMG",
+      "category": "combat",
+      "pages": [
+        15
+      ],
+      "summary": "Munição: .50 BMG Pente: 100 ou 250 (cinta) Alcance: 500m Dano: 5d10 [IP/2] ROF: 5 ou 8 Preço: $1000 Peso: 52.6kg GRANADAS Granada de Mão Mk. II: A granada padrão americana é uma cópia de um desenho francês, tendo sido apelidada de abacaxi, por ter o corpo serrilhado – em tese para auxiliar a fragmentação, o que não ocorria. Diferente da maior parte das outra...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-morteiros-16",
+      "name": "MORTEIROS",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "MORTEIROS 81mm Mortar: Este modelo de morteiro era muito utilizado para prover auxílio de fogo indireto às tropas, sendo prático para o transporte em curtas distâncias. Calibre: 88mm Alcance: 1000m Dano: 9d10 Pulso: 0,5m/1d ROF: ½ (um disparo a cada duas rodadas) Nº de Usuários: 2 Peso: 62kg Preço: $800",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-17",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        17
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL FRANÇA",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-revolveres-18",
+      "name": "Revólveres",
+      "category": "item_equipment",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "Revólveres MAS 1892: Revólver com um inovador cartucho de 8mm. Foi usado pelo exército francês nas duas guerras mundiais. Munição: 8x27mm R Pente: 6 (tambor) Alcance: 30m Dano: 1d6+1 ROF: 2 Preço: - Peso: 0,8kg Pistolas MAS 1935A: Pistola semiautomática desenvolvida para se competir contra as 9mm alemãs. Foi usada tanto pelo serviço secreto quanto pelo própr...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-tipo-ofensivo-20",
+      "name": "Tipo: Ofensivo",
+      "category": "combat",
+      "pages": [
+        20
+      ],
+      "summary": "Tipo: Ofensivo Alcance: 35 metros (lançamento manual) Carga explosiva: 60 gramas de TNT Retardo: 1 rodada Dano: 5d10 Pulso: 2m/1d Peso: 0,8kg Viveen: Granada de fuzil introduzida em 1915, tinha a imensa vantagem de dispensar o uso de varetas de lançamento ou o uso de munições especiais para o disparo. Colocada em um bocal acoplado a um fuzil comum, o disparo...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-21",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        21
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL INGLATERRA",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-revolveres-22",
+      "name": "REVÓLVERES",
+      "category": "combat",
+      "pages": [
+        22
+      ],
+      "summary": "REVÓLVERES Webley Mk. IV: Arma de longa tradição nas forças armadas inglesas, o primeiro revólver Webley foi adotado em 1887. Durante os anos diversas variantes foram adotadas, tanto pelo exército, como pela marinha e RAF, o último deles em 1942, no calibre .38 (Webley Mark 4), os Webley, apesar de terem começado a ser substituídos em 1932, ainda foram muito...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-alcance-500m-23",
+      "name": "Alcance: 500m",
+      "category": "combat",
+      "pages": [
+        23
+      ],
+      "summary": "Alcance: 500m Dano: 4d6 [IP/2] ROF: 1 Preço: $30 Peso: 3.2kg METRALHADORAS Bren Mk. I: Baseada na metralhadora tcheca ZB vz.33, a Bren (da junção das letras BR, de Brno, sede da firma ZB e EN de Enfield Lock, onde foi produzida na Inglaterra), era robusta e confiável, sendo produzida durante toda a guerra. Após a derrota em Dunquerque, onde milhares delas fo...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-lanca-chamas-24",
+      "name": "LANÇA-CHAMAS",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "LANÇA-CHAMAS Nº 2 Mk I Lifebuoy: O exército britânico sempre soube da necessidade de um operador de lança-chamas, porém na guerra do deserto era uma arma pouco efetiva. Foi se mostrar mais útil no teatro de operações europeu, onde teve uma produção em massa. Munição: Varia desde gasolina, gás metano a napalm Capacidade: 4 galões de 15,14l de combustível Pent...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-25",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        25
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL U.R.S.S.",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-revolveres-26",
+      "name": "Revólveres",
+      "category": "core_rule",
+      "pages": [
+        26
+      ],
+      "summary": "Revólveres Nagant M 1895: Desenhada por Nagant, da Béliga, era a arma pessoal dos oficiais russos. Tinha a curiosidade de ter um \"mecanismo selante\": o tambor movia-se para frente no momento do disparo, evitando o escape de gases entre ele e o cano. Esta sofisticação mecânica, contudo, não implicava em um melhor desempenho. Apesar de obsoleto, continuou em u...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-rifles-27",
+      "name": "Rifles",
+      "category": "combat",
+      "pages": [
+        27
+      ],
+      "summary": "Rifles Mosin-Nagant 1891/30: Adotado pelo exército Czarista, foi empregado a partir de 1918 pelo Exército Vermelho. O modelo 1891/30, usado na II Guerra, era ligeiramente menor e foi simplificado para facilitar sua produção, dispondo ainda de acessórios como lançadores de granada, silenciadores, baionetas e miras telescópicas. Munição: 7,62x54mm R Pente: 5 (...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-tipo-defensivo-28",
+      "name": "Tipo: Defensivo",
+      "category": "combat",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "summary": "Tipo: Defensivo Alcance: 30 metros (lançamento manual) Carga explosiva: 45-50 gramas de TNT Retardo: 1 rodada Dano: 5d6 Pulso: 4m/1d Preço: $10 Peso: 0.6kg RDG 33: A O RGD-33 (Ruchnaya Granata Degtyareva - granada Degtyarev de mão) foi desenvolvida por Diakonov em 1933, e é inspirada pelo modelo 1914 de V.I.Rdutlovskiy. Foi melhorada então pelo coordenador D...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-30",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL EIXO ARMAS DA SEGUNDA GUERRA MUNDIAL Alemanha",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-pistolas-32",
+      "name": "Pistolas",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Pistolas Luger P-08: Uma pistola clássica da 2ª guerra, facilmente reconhecível pelo seu formato característico, a Luger P08 entrou em serviço no exército alemão em 1908, sendo produzida até 1942, quando foi, afinal, substituída (pela Walther P 38), pois sua fabricação era muito complexa e cara, fato não desejável em períodos de guerra. Munição: 9mm L Pente:...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-fallschirmjager-gewerhr-42-fuzil-desenvolvido-33",
+      "name": "Fallschirmjager Gewerhr 42: Fuzil desenvolvido",
+      "category": "combat",
+      "pages": [
+        33
+      ],
+      "summary": "Fallschirmjager Gewerhr 42: Fuzil desenvolvido especificamente para a Luftwaffe, demonstrando os problemas da rivalidade entre serviços na Alemanha, já que era uma arma inferior ao fuzil de assalto padrão em estudos para o Exército. Tinha o inconveniente de usar um cartucho normal, muito poderoso para uma arma automática. No final, somente 5.000 fuzis foram...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-municao-7-92mm-mauser-34",
+      "name": "Munição: 7.92mm Mauser",
+      "category": "item_equipment",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "Munição: 7.92mm Mauser Pente: 75 (clip) ou 50-250 (cinta) Alcance: 1000m Dano: 3d10 [IP/2] ROF: 4 ou 15 Preço: $400 Peso: 13,1kg (versão de infantaria portátil) ou 36,7kg (versão fixa) MG-42: A MG42 foi desenvolvia durante a segunda guerra mundial pela Alemanha com a intenção de substituir a MG34, com processo de fabricação mais simples. Seu batismo de fogo...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-36",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        36
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL I t á l i a",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-pistolas-37",
+      "name": "Pistolas",
+      "category": "core_rule",
+      "pages": [
+        [
+          37,
+          38
+        ]
+      ],
+      "summary": "Pistolas Beretta M1934: A Beretta foi o resultado de uma evolução que começou com o modelo 1915, tornando-se uma das melhores pistolas desenhadas no entreguerras. Adotada pelas forças armadas italianas, sua excelente qualidade de fabricação tornou-a um troféu de guerra muito procurado, apesar de seu cartucho um pouco fraco para uso militar. Essa munição não...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-39",
+      "name": "ARMAS DA SEGUNDA GUERRA",
+      "category": "combat",
+      "pages": [
+        39
+      ],
+      "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL JAPãO",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-pistolas-40",
+      "name": "Pistolas",
+      "category": "combat",
+      "pages": [
+        40
+      ],
+      "summary": "Pistolas Taisho 14: A “14 Nen Shiki Kenju” é um pistola descendente do modelo Taisho 04 (1915), que não chegou a ser adotado oficialmente, mas que foi muito usada por oficiais japoneses. O Modelo Taisho 14 (1925) é um desenho simplificado, visando facilitar a fabricação. Mesmo assim, era um projeto ruim, com uma série de problemas, inclusive uma trave de seg...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-municao-7-7x58mm-41",
+      "name": "Munição: .7,7x58mm",
+      "category": "combat",
+      "pages": [
+        41
+      ],
+      "summary": "Munição: .7,7x58mm Pente: 30 (clip) Alcance: 800m Dano: 4d6 [IP/2] ROF: 3 ou 13 Preço: $100 Peso: 9,1kg aisho Type 3: Resultado de pequenas modificações cosmé Hotchkiss francesa, esta arma do Gen ia de um sério problema oriundo do usado. Esta não permitia uma ação auto r causa disso, os cartuchos tinham que ser l e serem disparados, o que era muito problemát...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial-morteiros-42",
+      "name": "Morteiros",
+      "category": "combat",
+      "pages": [
+        42
+      ],
+      "summary": "Morteiros penas uma cópia do 81mm francês, sem a da de novo Type 99: A adição de na . Calibre: 81mm Alcance: 1500m Dano: 8d10 Pulso: 0,5m/1d ROF: ½ (um disparo a cada 2 rodadas) Nº de Usuários: 2 Preço: $500 Peso: 47,5kg",
+      "entityRefs": []
+    }
+  ]
+}

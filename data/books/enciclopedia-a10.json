@@ -1,0 +1,27 @@
+{
+  "source": "enciclopedia-a10",
+  "title": "Enciclopedia_A10",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "race_lineage",
+    "setting_lore"
+  ],
+  "parts": [
+    {
+      "id": "enciclopedia-a10-consulte-aah-1",
+      "name": "Consulte Aah.",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 Aa 1) Na mitologia assírio-babilônica, Aa é considerada a “grande mãe”, a “mãe de todas as coisas” e também a deusa da aurora. Segundo seus sacerdotes, Aa inspirou a invenção das letras. Na Mesopotâmia, também era o nome que os habitantes da cidade de Ur davam ao Sol.Inicialmente representado como divindade mas- culina, foi fundido a Aya e tornou-se uma di...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source": "a-assassina",
+  "title": "A Assassina",
+  "status": "full-read-pass-1",
+  "pages": 6,
+  "primaryCategories": ["adventure", "creature_npc", "setting_lore"],
+  "parts": [
+    {
+      "id": "gary-evan-profile",
+      "name": "Gary Evan",
+      "category": "creature_npc",
+      "pages": [1],
+      "summary": "Perfil da antagonista principal, com dados pessoais, historia, atuacao, modus operandi e elementos encontrados em sua casa.",
+      "entityRefs": ["gary-evan"]
+    },
+    {
+      "id": "a-assassina-adventure",
+      "name": "Aventura",
+      "category": "adventure",
+      "pages": [2, 3, 4, 5, 6],
+      "summary": "Aventura investigativa em torno de uma sequencia de assassinatos, com locais, vitimas, pistas, calendario e desfechos possiveis.",
+      "entityRefs": ["a-assassina"]
+    },
+    {
+      "id": "a-assassina-locations",
+      "name": "Locais importantes",
+      "category": "setting_lore",
+      "pages": [2],
+      "summary": "Locais urbanos relevantes para a investigacao, incluindo uma boate e uma rede de papelarias.",
+      "entityRefs": ["funny-club", "shells-papers"]
+    },
+    {
+      "id": "a-assassina-victims-and-clues",
+      "name": "Assassinatos, vitimas e pistas",
+      "category": "adventure",
+      "pages": [2, 3, 4, 5, 6],
+      "summary": "Sequencia de crimes com cenas, vitimas, bilhetes, ligacoes, possiveis evidencias e calendario de eventos.",
+      "entityRefs": ["augusta-hell", "christine-valkien", "kelly-hopkins"]
+    },
+    {
+      "id": "a-assassina-experience",
+      "name": "Experiencia",
+      "category": "core_rule",
+      "pages": [5],
+      "summary": "Recompensas de experiencia associadas a conclusao da aventura.",
+      "entityRefs": []
+    }
+  ]
+}

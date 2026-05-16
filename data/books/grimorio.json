@@ -1,0 +1,1155 @@
+{
+  "source": "grimorio",
+  "title": "Grimorio",
+  "status": "full-read-auto-pass-1",
+  "pages": 180,
+  "primaryCategories": [
+    "power_magic",
+    "core_rule",
+    "ritual_spell",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "grimorio-adequado-1",
+      "name": "ADEQUADO",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "ADEQUADO Pak 16 E Marcelo Del Debbio system Sistema Daemon",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-daemon-editors-o-c-4",
+      "name": "Daemon Editors o Ç",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "Daemon Editors o Ç FAX. ID 3675-1860 e-mail: deemonBdaemon.com.br . www.daemon.com.br",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-grimorio-5",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        [
+          5,
+          8
+        ]
+      ],
+      "summary": "Grimório Criação: Marcelo Del Debbio Desenvolvimento: Marcelo Del Debbio, Norson Botrel ' Revisão: Fabrício “GiZmo” nl | Capa: Evandro Gregório Arte: Joe Prado, Yes Cabrita, Cuistiano Rodrigo, Alexandre Xavier, Alex Sunders. Diagramação: Daemon Editora Fotolitos: Daemon Editora e Paper Express Impressão: Quebecor World - À Luciana Bacci, por me ajudar com os...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-entender-9",
+      "name": "Entender",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "summary": "Entender Os três sephiroth centrais formam o Triângulo da Compreen- são, ou do Entendimento e incluem os sephiroth Hesed, Giburah eTiferet. Hesed representa o grande amor, a piedade e a glória. Seus deuses principais eram os que representavam a justiça divina e imparcial, como Forseti, Heimdall, as Nornes, Tyx, Osíris, Bhahma (a face justa) e outros. Giburah...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-combinando-formas-e-caminhos-13",
+      "name": "Combinando formas e Caminhos",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Combinando formas e Caminhos Caminhos e Formas podem ser combinados para os chama- dos Efeitos Secundários. O mago pode combinar Caminhos di- ferentes para gerar novos efeitos (por exemplo, pode combinar Ar é Luz para gerar Eletricidade) ou combinar Formas (pode acrescentar Controlar a uma Bola de Fogo para fazê-la seguir exa- tamente a direção que escolheu)...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-efeito-14",
+      "name": "Efeito",
+      "category": "power_magic",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "Efeito Finalmente, cria-se o efeito escolhido, dentro dos limites possí- veis. Nesta etapa, as vítimas podem tentar contra-atacar magica- mente o efeito, ou tentar escapar dele de alguma forma (fugindo, escondendo-se ou saindo da área de efeito). Usamos 3d6 roda- das como padrão, mas alguns Mestres costumam usar 10 roda- das como base; ou se o Mestre não qui...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-desencantando-16",
+      "name": "Desencantando",
+      "category": "power_magic",
+      "pages": [
+        16
+      ],
+      "summary": "Desencantando O mago pode necessitar de Pontos de magia que estejam armaze- nados em algum efeito. Nesse caso, tudo que o mago precisa fazer é concentrar-se e anular o efeito místico. O objeto criado, ou efeito, ainda permanecerá na Terra por 3d6 rodadas (ou uma cena) é desapa- recerá em seguida, rompendo a ligação arcana. Outra maneira de livrar o objeto de...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-grimorio-pessoal-17",
+      "name": "Grimório Pessoal",
+      "category": "power_magic",
+      "pages": [
+        17
+      ],
+      "summary": "Grimório Pessoal Não é porque o mago possui determinado número de Pontos de Focus em um Caminho e Forma que ele pode sair por aí fazendo o que quiser. Para realizar um efeito mágico de maneira satisfatória, o mago precisa primeiro estudar os Rituais que deseja efetuar, os gestos que precisa fazer, as frases, os desenhos é os materiais necessários. Isso não p...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-como-usar-este-livro-18",
+      "name": "Como usar este livro ?",
+      "category": "core_rule",
+      "pages": [
+        18
+      ],
+      "summary": "Como usar este livro ? Essa é aquela parte do livro que ninguém lê. Acontece que se a gente não põe isso no livro, o tal de ninguém vai mandar uma carta quilométrica com um monte de dúvidas simples. Portanto, leia estas poucas páginas pois elas responderão todas as coisas que você não entendeu folheando o livro (sim, nós sabemos que você já folheou o livro!)...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-1o-circulo-19",
+      "name": "1º Círculo",
+      "category": "combat",
+      "pages": [
+        [
+          19,
+          21
+        ]
+      ],
+      "summary": "1º Círculo Água Amaldiçoada Ataque Mágico Aumento de Dano ntil Cura Mágica Dom de Bacchus Encontrar Água Guarda-chuva Kronenbier “oque das Pérolas 2º Círculo Afogamento gua em Vinho Água IEnvenenada Áspide Bolas de Ácido Chuva Quente Gasolina Lama Pequenas Curas Piso Escorregadio Runa da ? “Tintas de Michelângelo Venter Água em Pedra 3º Círculo Anfibio Ao Al...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-te-circulo-22",
+      "name": "te Círculo |",
+      "category": "creature_npc",
+      "pages": [
+        22
+      ],
+      "summary": "te Círculo | Armadura de “Atenção Dor de Cabeça Enxergar Pessoas Mortas, lião Fiel Lembrete - Mesas Girantes “Olhar de Pedince Ouija Pegadas Luminosas 2º Círculo Detectar Possessão Espada de Gabriel Espada Espiritual “Mãos Espectrais Olhar de Minerva “Pena dos Rumores Voz do Mestre. 3º Círculo Ao Alcance da Mão Armadura Espectral Baisca E Casamento. Chamado...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-acalmar-os-animais-23",
+      "name": "Acalmar os Animais",
+      "category": "creature_npc",
+      "pages": [
+        23
+      ],
+      "summary": "Acalmar os Animais “Adagas de Vaenoor Afetar Foguciras . Água Amaldiçoada Armadura de Espíritos Arrepio Demoníaco Ataque Mágico Atenção Ateavessar Janelas Aumento de Dano Beijo de Hades Beleza Impecável Boooo Braço de Metal Cabana de Cabelos Mágicos Cadáver Fresco Canalização da Pé Canibalismo til Chicote de Escorpião Chuva de Pétalas Click Conjurar Animais...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-imagem-tur-24",
+      "name": "“Imagem Tur",
+      "category": "creature_npc",
+      "pages": [
+        24
+      ],
+      "summary": "“Imagem Tur “Infecção - Infemo de Gelo : a Insanidade, oque de Kali O Invisibilidade Tropa a CO Invisibilidadea Mons Vi Trovão i O Invocar Demônios ll | Os “Truque deHoudint 0 Lágrimas deHyninn “Vespas Guardias Co Localizar Cadáveres vei Mágica Silenciosa de“Talude Vingança de Allhadina, a Maldição de Allihanna “Visão da Criatura Maligna | Maldição de N Vôo...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-necromancia-morte-25",
+      "name": "Necromancia [morte]",
+      "category": "core_rule",
+      "pages": [
+        25
+      ],
+      "summary": "Necromancia [morte] Criar Animais 9 Componentes: V,G, F/FD (um martelo) Tempo de Formulação: 1 rodada Alcance: 30m Área: 10m de raio / nível Duração: ver descrição Teste de Resistência: fortitude (CON) anula Resistência à Magia: não Pela duração do ritual, o feiticeiro indica uma espécie de animal que esteja presente na área de efeito da magia e um raio negr...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-absorcao-mistica-26",
+      "name": "Absorção Mística",
+      "category": "core_rule",
+      "pages": [
+        26
+      ],
+      "summary": "Absorção Mística Abjuração Entender Metamagia 7 Componentes: V, G, M (um colar de pérolas) Tempo de Formulação: 1 rodada Alcance: toque Área: Im de raio, centrada no mago Duração: 1 cena (D) Teste de Resistência: nenhum Resistência à Magia: não Este ritual envolve o mago com uma esfera de Metamagia ca- paz de absorver magias protegendo-o. Para realizar o rit...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-acao-27",
+      "name": "Tempo de Formulação: 1 ação",
+      "category": "power_magic",
+      "pages": [
+        [
+          27,
+          29
+        ]
+      ],
+      "summary": "Tempo de Formulação: 1 ação Alcance: Im de raio Efeitos: cria uma adaga a cada dois níveis Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Esta magia foi desenvolvida por um mago que sempre tinha o azar em suas aventuras de ser preso e ter suas adagas retiradas pelos guardas. Após alguns meses de pesquisa, saiu de seu labo- ratório com...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-30",
+      "name": "Teste de Resistência: nenhum",
+      "category": "ritual_spell",
+      "pages": [
+        30
+      ],
+      "summary": "Teste de Resistência: nenhum Resistência à Magia: não Esta magia cria uma Átea onde a gravidade não atua, equivalente a um cubo de 5x5x5m por nível do conjurador. Dentro dessa área, objetos, pessoas e demais materiais não sofrem a influência da gra- vidade, ficando sem peso nenhum, podendo ser facilmente empur- tados ou movidos por qualquer pessoa. Objetos a...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-uma-cena-d-31",
+      "name": "Duração: uma cena (D)",
+      "category": "core_rule",
+      "pages": [
+        31
+      ],
+      "summary": "Duração: uma cena (D) Teste de Resistência: nenhum Resistência à Magia: não Esta magia faz brotar do chão uma arma qualquer, à escolha do clérigo — espada, machado, lança, arco e flecha — feita de madeira, cipó e espinhos muito afiados. Ela é considerada uma arma má- gica e seu bônus é igual a um terço do nível do mago (limitado um máximo de +5). A Arma de A...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-armadura-de-aranhas-32",
+      "name": "Armadura de Aranhas",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Armadura de Aranhas Abjuração Criar/Controlar Animais/Terra 2 Componentes: V, G, E'/ED (um broche na forma de aranha) Alcance: o próprio mago Efeitos: cria uma armadura de aranhas Duração: 1 cena (D) “Teste de Resistência: nenhum Resistência à Magia: não Esta magia de combate é muito interessante. Ela conjura do Pla- no Astral centenas de aranhas de metal, q...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-1-cena-33",
+      "name": "Duração: 1 cena",
+      "category": "creature_npc",
+      "pages": [
+        33
+      ],
+      "summary": "Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Esta armadura espectral concede BA +5 (IP 4) ao mago, indepen- dente do tipo de atmadura que ele possua, durante uma cena. À armadura lembra uma cota de malha fantasmagórica e bloqueia ape- nas ataques físicos (socos, espadadas, flechas, quedas, etc). O mago deve colocar o amuleto ao redor...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-arvore-de-sombra-34",
+      "name": "Árvore de Sombra",
+      "category": "combat",
+      "pages": [
+        [
+          34,
+          36
+        ]
+      ],
+      "summary": "Árvore de Sombra Conjuração (Criação) Criar Plantas 4 Componentes: V,G, F/FD (uma semente) Tempo de Formulação: 1 rodada Alcance: toque Efeitos: cria uma arvore Duração: até o pôr-do-sol (D) Teste de Resistência: nenhum Resistência à Magia: não Este maravilhoso ritual faz com que uma árvore frondosa bro- te imediatamente do solo, onde o mago colocar sua seme...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-acao-37",
+      "name": "Tempo de Formulação: 1 ação",
+      "category": "ritual_spell",
+      "pages": [
+        37
+      ],
+      "summary": "Tempo de Formulação: 1 ação Alcance: 30m Área: ver descrição Duração: 3d6 rodadas Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim Utilizando-se de um pequeno sino de prata, o mago pode roubar o som de uma área ao redor de um alvo, impossibilitando qualquer ritual que envolva versos ou frases de ativação ou encobrindo as ações barulhentas...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-banf-38",
+      "name": "Banf'!",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          38,
+          39
+        ]
+      ],
+      "summary": "Banf'! “Transmutação [teletransporte] Controlar Ar/Metamagia 4 Componentes: V “Tempo de Formulação: 1 ação Alcance: o próprio mago + até uma pessoa Efeitos: teleporta o mago por curtas distâncias Duração: instantânea Teste de Resistência: nenhum e reflexos (AG!) anula Resistência à Magia: não : Esta magia élfica funciona como um teleporte de pequeno al- canc...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-40m-40",
+      "name": "Alcance: 40m",
+      "category": "combat",
+      "pages": [
+        [
+          40,
+          42
+        ]
+      ],
+      "summary": "Alcance: 40m Efeitos: cria armas e armaduras Duração: até o pôr do sol Teste de Resistência: nenhum Resistência à Magia: não Este ritual deve ser realizado diante das tropas de um exército, antes de uma grande batalha. Invocando todos os poderes dos deuses, o mago pode encantar até 50 armas e 50 armaduras com um bônus de +1 (as armas são consideradas mágicas...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-bola-de-fogo-elemental-43",
+      "name": "Bola de fogo Elemental",
+      "category": "ritual_spell",
+      "pages": [
+        43
+      ],
+      "summary": "Bola de fogo Elemental Evocação [fogo] Criar/Controlar Fogo 3 Componentes: V, G, M (um punhado de enxofre) Tempo de Formulação: 1 ação Alcance: 100m Área: 4m de raio Duração: instantânea Teste de Resistência: reflexos (AGI) reduz à metade Resistência à Magia: sim Talvez o mais famoso e difundido ritual do Caminho do Fogo, foi utilizado por grande parte dos m...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-boooo-44",
+      "name": "Boooo",
+      "category": "item_equipment",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "Boooo “Transmutação * Criar Metamagia 1 Componentes: nenhum Tempo de Formulação: 1 ação Alcance: 3m Efeitos: mover objetos Duração: Concentração Teste de Resistência: nenhum Resistência à Magia: não | Usado somente quando o mago está no Plano Astral ou em Spiritum. Através de concentração, o mago é capaz de manipular, tocar ou empurrar objetos no Plano Físic...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-cabana-de-trevas-46",
+      "name": "Cabana de Trevas",
+      "category": "core_rule",
+      "pages": [
+        46
+      ],
+      "summary": "Cabana de Trevas Ilusão (Sombra) Controlar/Criar Trevas 1 Componentes: V; G, E (duas árvores ou dois pilares próximos um do outro) Tempo de Formulação: 1 rodada Alcance: toque Efeitos: cria uma cabana de sombras Duração: até o nascer do sol Teste de Resistência: vontade (PER) desacredita Resistência à Magia: não ê Este feitiço precisa de duas árvores ou pila...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-caldo-negro-47",
+      "name": "Caldo Negro",
+      "category": "power_magic",
+      "pages": [
+        47
+      ],
+      "summary": "Caldo Negro Abjuração Criar Arkanun/Humanos 7 Componentes: V, G, M (as cinzas de um demônio poderoso) Tempo de Formulação: 7 dias e 7 noites Alcance: toque Efeitos: protege contra danos não mágicos Duração: 12 horas Teste de Resistência: vontade (WILL) anula (benéfica) Resistência à Magia: sim (benéfica) O segredo deste ritual se esconde nos antigos sacerdot...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-canalizacao-da-fe-48",
+      "name": "Canalização da Fé",
+      "category": "power_magic",
+      "pages": [
+        [
+          48,
+          51
+        ]
+      ],
+      "summary": "Canalização da Fé Encantamento (Comipulsão) Entender Metamagia 1 Componentes: V, ED (um crucifixo) Tempo de Formulação: 1 ação Alcance: Sm Alvo: 1 morto-vivo Duração: instantânea Teste de Resistência: vontade (WILL vs CAR do mago) anula Resistência à Magia: sim Um dos poucos tituais aceitos (por alguns clérigos) dentro da Igreja Católica, é utilizado para ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-instantanea-52",
+      "name": "Duração: instantânea",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          52,
+          54
+        ]
+      ],
+      "summary": "Duração: instantânea Teste de Resistência: nenhum Resistência à Magia: não Usada por wiccas em seus rituais, permite acender até cento e uma velas dentro de um mesmo salão. Este ritual foi desenvolvi- do durante a Idade Média para facilitar a vida dos feiticeiros den- tro de suas torres. Chama Branca Abjuração Entender Fogo/Spiritum 5 Componentes: V, G, M (u...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-cimitarras-55",
+      "name": "Cimitarras",
+      "category": "ritual_spell",
+      "pages": [
+        55
+      ],
+      "summary": "Cimitarras Conjuração (Criação) Criar Terra 3 Componentes: G, E'/E'D (manto, capa ou sobretudo) Tempo de Formulação: 1 ação Alcance: toque Efeitos: cria uma cimitarra Dutação: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Desenvolvido pelos E>iticeiros mais velhos da Ordem Mármo- re, este ritual cria uma cimitarra árabe de dentro de um manto,...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-click-56",
+      "name": "Click",
+      "category": "ritual_spell",
+      "pages": [
+        56
+      ],
+      "summary": "Click Evocação [caos] Controlar Terra 1 Componentes: nenhum Tempo de Formulação: 1 ação Alcance: 30m Alvo: uma arma de fogo ou arco a cada 2 níveis Duração: ver descrição ) Teste de Resistência: nenhum Resistência à Magia: não Este é um dos primeiros rituais que um mago moderno apren- de. Com um estalo de dedos, o mago é capaz de emperrar o gatilho ou cão de...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-toque-57",
+      "name": "Alcance: toque",
+      "category": "ritual_spell",
+      "pages": [
+        57
+      ],
+      "summary": "Alcance: toque Efeitos: guarda conhecimentos em uma porção de água Dutação: Permanente Teste de Resistência: vontade (WILL) anula (benéfica) Resistência à Magia: sim (benéfica) Este poderoso ritual foi designado como uma das melho- res maneiras de se passar informações sem despertar suspei- tas. Através dos versos corretos, pode-se colocar o conheci- mento n...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-conjurar-fther-spirit-58",
+      "name": "Conjurar fther Spirit",
+      "category": "ritual_spell",
+      "pages": [
+        58
+      ],
+      "summary": "Conjurar fther Spirit Conjurar (Invocação) Criar/Controlar Spiritum 8 Componentes: V,G, M (alguma jóia ou gema valiosa) Tempo de Formulação: 20 minutos Alcance: ver descrição Alvo: 1 Aither Spirit Duração: 1 dia / nível Teste de Resistência: nenhum Resistência à Magia: não Como o nome indica, o feiticeiro torna-se capaz de conjurar um servo espiritual dos di...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-cs-cony-a-59",
+      "name": "Cs (Cony: a",
+      "category": "ritual_spell",
+      "pages": [
+        59
+      ],
+      "summary": "Cs (Cony: a Criar/Controlar Animais3 | E Componentes: ver descrição E Tempo de Formulação: 15 minutos Alcance: ver descrição * Efeitos: conjura um animal “Duração: 1 dia / nível | * Teste de Resistência; nenhum , Resistência à à Magia: não. o Cu Animais mv * Conjuração Coe “ Criar/Controlar Animais 4 * Componentes: ver descrição | \"Tempo de Formulação: 15 au...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-conjurar-balrog-60",
+      "name": "Conjurar Balrog",
+      "category": "ritual_spell",
+      "pages": [
+        60
+      ],
+      "summary": "Conjurar Balrog Conjuração (Invocação) Criar Arkanun/Fogo 9 Componentes: V, G, M (enxofre e um círculo de conjuração) Tempo de Formulação: 15 minutos Alcance: Om Efeitos: conjura um balrog Duração: 10 minutos / nível Teste de Resistência: nenhum Resistência à Magia: não O Balrog é uma das criaturas mais poderosas de Arkanun. Composto ao mesmo tempo de fogo e...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-contatar-madelein-anjo-dos-sonhos-61",
+      "name": "Contatar Madelein, Anjo dos Sonhos",
+      "category": "ritual_spell",
+      "pages": [
+        61
+      ],
+      "summary": "Contatar Madelein, Anjo dos Sonhos Adivinhação Entender Spiritum 8 Componentes: V,G, M (ervas alucinógenas) Tempo de Formulação: 1 hora Alcance: ver descrição Efeitos: conversar com Madelein Duração: concentração Teste de Resistência: nenhum Resistência à Magia: não Para realizar este ritual, o mago deve se sentar em posição de lótus, recitar os encantamento...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-controle-de-emocoes-62",
+      "name": "Controle de Emoções",
+      "category": "core_rule",
+      "pages": [
+        62
+      ],
+      "summary": "Controle de Emoções Encantamento (Compulsão) [ação mental] Controlar Humanos 4 Componentes: G, M (ervas especiais) Tempo de Formulação: ver descrição Alcance: ver descrição Alvo: 1 pessoa Duração: 1 minuto / nível Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim O mago precisa fazer a pessoa ingerir determinadas ervas especiais para este r...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-rodada-63",
+      "name": "Tempo de Formulação: 1 rodada",
+      "category": "ritual_spell",
+      "pages": [
+        63
+      ],
+      "summary": "Tempo de Formulação: 1 rodada Alcance: 800m Efeitos: conversa com o fogo Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Este ritual foi muito utilizado na Espanha medieval. Com esta magia, a feiticeira é capaz de invocar os antigos espíritos das salamandras e conversar com o fogo. Através deste ritual, o mago pode ficar sabendo de even...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-convocar-lemures-64",
+      "name": "Convocar Lemures",
+      "category": "ritual_spell",
+      "pages": [
+        64
+      ],
+      "summary": "Convocar Lemures Conjuração (Invocação) Criar Arkanun 7 Componentes: V,G, M (um pentagrama, sangue animal e 64 lesmas) Tempo de Formulação: 2 rodadas Alcance: ver descrição Efeitos: conjura 64 lemures Duração: 10 minutos / nível Teste de Resistência: nenhum Resistência à Magia: não É necessário um pentagrama desenhado com sangue de algum animal, grande o suf...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-correio-de-dumbledore-65",
+      "name": "Correio de Dumbledore",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          65,
+          67
+        ]
+      ],
+      "summary": "Correio de Dumbledore Conjuração (Criação) Entender /Controlar Spiritum / Animais /Metamagia 4 Componentes: V, G, M (papel, tinta e 2 penas de pombo) Tempo de Formulação: 5 minutos Alcance: ver descrição Efeitos: entrega uma mensagem escrita para um destinatário Duração: 1 dia / nível Teste de Resistência: nenhum Resistência à Magia: não Esta é uma das manei...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-criacao-de-mortos-vivos-68",
+      "name": "Criação de Mortos-Vivos",
+      "category": "ritual_spell",
+      "pages": [
+        68
+      ],
+      "summary": "Criação de Mortos-Vivos Controlar Spiritum/Trevas 5 Componentes: V, G, M (um cadáver, um pentagrama, sangue) Tempo de Formulação: 1 rodada Alcance: toque Alvo: 1 cadáver Duração: Permanente Teste de Resistência: nenhum Resistência à Magia: não Esta é apenas uma variação necromante de Criatura Mágica. Só que, em vez de construir uma criatura com magia pura, v...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-1-semana-69",
+      "name": "Duração: 1 semana",
+      "category": "core_rule",
+      "pages": [
+        69
+      ],
+      "summary": "Duração: 1 semana Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim Este ritual afeta um grande grupo de pessoas (até 10 pesso- as por nível do mago) de modo que eles sejam influenciados pelo modo de pensar do feiticeiro. Não funciona como um ritual de charm ou dominação, mas apenas como um catalisador para emoções que estejam enraizadas no...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-instantanea-70",
+      "name": "Duração: instantânea",
+      "category": "ritual_spell",
+      "pages": [
+        70
+      ],
+      "summary": "Duração: instantânea Teste de Resistência: nenhum Resistência à Magia: não Esta magia é extremamente rara e muito valorizada por aven- tureiros. Uma vez recitados os versos do ritual, o alvo ingere o torrão de açúcar é imediatamente se livra de todos os efeitos do álcool que tenha bebido. Caso o mago esteja completamente bêbado e tente recitar os en- cantame...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-dardos-misticos-de-astaroth-71",
+      "name": "Dardos Místicos de Astaroth",
+      "category": "power_magic",
+      "pages": [
+        [
+          71,
+          73
+        ]
+      ],
+      "summary": "Dardos Místicos de Astaroth Evocação [energia] Criar Luz 3 Componentes: V, G, M (uma pena de pavão) Tempo de Formulação: 1 ação Alcance: 20m Área: Im de raio Duração; instantânea Teste de Resistência: nenhum Resistência à Magia: não Este ritual cria, das mãos do mago, setas de luz que disparam em direção de qualquer alvo que o mago indique. Os dardos causam...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-detectar-magia-74",
+      "name": "Detectar Magia",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          74,
+          75
+        ]
+      ],
+      "summary": "Detectar Magia Adivinhação Entender Metamagia 1 Componentes: V, G, F/FD (um pequeno cristal) Tempo de Formulação: 1 ação Alcance: 20m Efeitos: detecta Efeitos e itens mágicos Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Este é o primeiro ritual que um mago aprende. Mesmo na época medieval, quando os magos ainda não conheciam o Cami-...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-dissolver-armadura-76",
+      "name": "Dissolver Armadura",
+      "category": "power_magic",
+      "pages": [
+        [
+          76,
+          78
+        ]
+      ],
+      "summary": "Dissolver Armadura “Transmutação Entender Terra 1 Componentes: V, G, M (um pouco de ferrugem) Tempo de Formulação: 1 rodada Alcance: 2m Alvo: 1 armadura Duração: 1 cena / permanente Teste de Resistência: nenhum / nível anula Resistência à Magia: não e sim Uma das mais perigosas magias de ataque do Caminho da Terra. O mago atremessa a ferrugem sobre qualquer...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-79",
+      "name": "Teste de Resistência: nenhum",
+      "category": "power_magic",
+      "pages": [
+        [
+          79,
+          85
+        ]
+      ],
+      "summary": "Teste de Resistência: nenhum Resistência à Magia: não Este ritual antigo funciona através de uma lanterna a gás com runas especialmente desenhadas. Quando a luz das chamas ilu- minar o chão, as pegadas da pessoa que o mago deseje encontrar ficarão marcadas em cor de sangue. Isso ocorrerá somente se o mago possuir um objeto com ligação arcana, como unhas, cab...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-farpas-86",
+      "name": "farpas",
+      "category": "ritual_spell",
+      "pages": [
+        86
+      ],
+      "summary": "farpas Evocação Criar Plantas 3 Componentes: V, G, M (algum objeto grande de madeira) Tempo de Formulação: 1 ação Alcance: 10m Área: 3m de raio Duração: instantânea Teste de Resistência: reflexos (AGI) reduz à metade Resistência à Magia: sim Apenas tocando um objeto de madeira (uma mesa ou cadeira, por exemplo), a bruxa é capaz de explodi-lo em dezenas de fa...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-87",
+      "name": "Teste de Resistência: nenhum.",
+      "category": "core_rule",
+      "pages": [
+        87
+      ],
+      "summary": "Teste de Resistência: nenhum. Resistência à Magia: sim (objeto) Este ritual consiste em arremessar contra o objeto alvo um punhado de sal grosso (enquanto recita os versos de Abramelin), o mago e a bruxa será capaz de converter ferro em vidro ou vidro em ferro durante alguns minutos. Este ritual cria os chamados “cacos de ferro” quando a magia perde seu efei...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-flechas-incandescentes-88",
+      "name": "Flechas Incandescentes",
+      "category": "combat",
+      "pages": [
+        88
+      ],
+      "summary": "Flechas Incandescentes Evocação [fogo] Criar Fogo 3 Componentes: V,G, M (salitre) Tempo de Formulação: 1 rodada Alcance: 20m Alvo: até 33 pontas de flechas Duração: 1 rodada Teste de Resistência: nenhum Resistência à Magia: não Este ritual era utilizado durante a Idade Média para auxiliar os arqueiros do exército beneficiado pelo feiticeiro. Os arqueiros faz...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-fogo-papal-89",
+      "name": "fogo Papal",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          89,
+          92
+        ]
+      ],
+      "summary": "fogo Papal Adivinhação Entender Fogo/Humanos 4 Componentes: V,G, M (uma fogueira é papiros especialmente preparados) Tempo de Formulação: 1 hora Alcance: Om Área: 1 sala Duração: instantânea Teste de Resistência: nenhum Resistência à Magia: não Através deste ritual, que requer a cooperação de vários magos, é possível captar a vontade de cada uma das pessoas...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-componentes-v-g-93",
+      "name": "Componentes: V,G",
+      "category": "ritual_spell",
+      "pages": [
+        93
+      ],
+      "summary": "Componentes: V,G Tempo de Formulação: 1 rodada Alcance: o próprio mago Efeitos: altera a aparência Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Um dos truques mais simples de magia wicca consiste em alterar temporariamente a cor de cabelo, olhos ou tom de pele da feiticeira, apenas deslizando as mãos sobre eles. Se a parte modificada...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-grouxo-94",
+      "name": "Grouxo",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          94,
+          95
+        ]
+      ],
+      "summary": "Grouxo Transmutação Controlar Animais/Humanos 2 Componentes: V, G, M (uma língua de sapo seca) Tempo de Formulação: 1 rodada Alcance: toque Alvo: 1 pessoa Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Este ritual'medonho faz com que a língua do feiticeiro (ou de um alvo escolhido por ele) se torne magicamente longa, dura e pegajosa, c...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-wusao-96",
+      "name": "“Wusão ||",
+      "category": "ritual_spell",
+      "pages": [
+        96
+      ],
+      "summary": "“Wusão || Ilusão (Padrão) [ação mental) Criar/Controlar Luz 4 Componentes: V, G, M (pó de giz multicolorido) Tempo de Formulação: 1 ação Alcance: 40m Efeitos: cria uma ilusão Duração: 1 cena (D) Teste de Resistência: vontade (PER) desacredita Resistência à Magia: sim Funciona exatamente como Ilusão 1, mas o tamanho da ilusão pode ser o de uma vaca ou de um c...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-60m-97",
+      "name": "Alcance: 60m",
+      "category": "core_rule",
+      "pages": [
+        97
+      ],
+      "summary": "Alcance: 60m Efeitos: cria uma ilusão Duração: 1 cena (D) Teste de Resistência: vontade (PER) desacredita Resistência à Magia: sim Funciona exatamente como Ilusão Avançada 1, mas o tama- nho da ilusão pode ser o de uma pequena casa. Ilusão Avançada |V Ilusão (Padrão) [ação mental] Criar/Controlar Luz/Ar 7 Componentes: V, G, M (pó de giz multicolorido) Tempo...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-ilusao-total-v-98",
+      "name": "Ilusão Total V",
+      "category": "power_magic",
+      "pages": [
+        [
+          98,
+          100
+        ]
+      ],
+      "summary": "Ilusão Total V Ilusão (Sombra) [ação mental) Criar/Controlar Ar/Luz/Trevas 9 Componentes: V,G, (uma varinha especialmente preparada) “Tempo de Formulação: 1 ação Alcance: 100m Efeitos: cria uma ilusão Duração: 1 cena Teste de Resistência: vontade (PER) desacredita Resistência à Magia: sim Funciona exatamente como Ilusão Total L mas o tamanho da ilusão pode s...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-2d6-rodadas-101",
+      "name": "Tempo de Formulação: 2d6 rodadas",
+      "category": "power_magic",
+      "pages": [
+        [
+          101,
+          103
+        ]
+      ],
+      "summary": "Tempo de Formulação: 2d6 rodadas Alcance: ver descrição Efeitos: conjura uma fênix Duração: ver descrição Teste de Resistência: nenhum Resistência à Magia: não Tista magia pode ser usada apenas por Personagens que possu- am o Código de Honra dos Heróis e/ou da Honestidade, inclu- indo paladinos. Através dela é possível invocar o lendário pássaro fênix, que l...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alvo-1-liquido-104",
+      "name": "Alvo: 1 líquido",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          104,
+          105
+        ]
+      ],
+      "summary": "Alvo: 1 líquido Dutação: 1 rodada / nível Teste de Resistência: nenhum Resistência à Magia: não Este feitiço simples permite camuflar o odor e o gosto de álco- ol em uma bebida. Pode ser realizado de duas maneiras. À pri- meita é acrescentando o gosto e o cheiro de álcool em uma bebida não-alcoólica, por exemplo, melhorando o gosto de um drinque ou para enga...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-des-agi-rodadas-d-106",
+      "name": "Duração: Des (AGI) rodadas (D)",
+      "category": "core_rule",
+      "pages": [
+        106
+      ],
+      "summary": "Duração: Des (AGI) rodadas (D) Teste de Resistência: nenhum Resistência à Magia: não Este ritual chinês foi desenvolvido pelos magos mandarins muitas gerações antes do Nazareno, como uma forma de arte e demonstração de poder. Este ritual cria na frente do mago uma cortina cintilante com cores muito fortes, que acompanharão seus movimentos formando uma imagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-acao-107",
+      "name": "Tempo de Formulação: 1 Ação",
+      "category": "item_equipment",
+      "pages": [
+        107
+      ],
+      "summary": "Tempo de Formulação: 1 Ação Alcance: Toque Alvo: uma criatura ou objeto Duração: uma cena Teste de Resistência: fortitude (CON) anula Resistência à Magia: sim Com a força dos mantras, o feiticeiro é capaz de levitar objetos ou pessoas através da concentração. O peso do objeto levitado depende do nível do mago (máximo de 25kg por nível). Uma vez levitado, o m...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-lingua-de-serpente-108",
+      "name": "Lingua de Serpente",
+      "category": "core_rule",
+      "pages": [
+        [
+          108,
+          109
+        ]
+      ],
+      "summary": "Lingua de Serpente “Transmutação Controlar Animais/Humanos 3 Componentes: V, G, M (veneno de cobra) Tempo de Formulação: 1 rodada Alcance: o próprio mago Efeitos: cria uma língua serpente Duração: 1 cena (D) Teste de Resistência: nenhum Resistência à Magia: não Este ritual pode ser feito por qualquer mago maligno e é im- pressionante de ser observado. O mago...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-madeira-para-bronze-110",
+      "name": "Madeira para Bronze",
+      "category": "ritual_spell",
+      "pages": [
+        110
+      ],
+      "summary": "Madeira para Bronze Transmutação Controlar Plantas/Terra 6 Componentes: V, G, M (um pedaço de bronze) Tempo de Formulação: 1 rodada Alcance: toque Alvo: 1 objeto de madeira ou uma árvore Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Este ritual permite ao mago transformar grandes quantidades de madeira (uma árvore frondosa, por exempl...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-magica-silenciosa-de-talude-111",
+      "name": "Mágica Silenciosa de Talude",
+      "category": "core_rule",
+      "pages": [
+        [
+          111,
+          119
+        ]
+      ],
+      "summary": "Mágica Silenciosa de Talude Transmutação [sônico] Controlar Ar 4 Componentes: V, G, K'/ED (um pequeno sino) Tempo de Formulação: 1 rodada Alcance: 30m Área: Im de raio por nível Duração: 1 cena Teste de Resistência: reflexos (AGI) anula Resistência à Magia: sim Este ritual cria um campo circular de raio Im por nível do mago ao redor do alvo escolhido, onde n...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-om-120",
+      "name": "Alcance: Om",
+      "category": "power_magic",
+      "pages": [
+        120
+      ],
+      "summary": "Alcance: Om Efeitos: conjura 1d3 trolls Duração: 1 cena : Teste de Resistência: nenhum Resistência à Magia: não Com esta magia é possível invocar em qualquer lugar, dentro de 20m de raio, 1d3 trolls para lutar pelo mago. Trolls são criaturas humanóides feitas de matéria vegetal, com garras, presas e um altíssimo poder de regeneração: eles recuperam 2 PVs por...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-mudanca-de-forma-121",
+      "name": "Mudança de forma",
+      "category": "core_rule",
+      "pages": [
+        [
+          121,
+          122
+        ]
+      ],
+      "summary": "Mudança de forma Transmutação Controlar Humanos/ Arkanun 5 Componentes: V, G, M (ervas especiais) Tempo de Formulação: 3 rodadas Alcance: o próprio mago Efeitos: altera a forma do mago Duração: 1 dia / nível Teste de Resistência: nenhum Resistência à Magia: não Este ritual permite ao mago alterar sua forma fisica de uma maneira permanente e da forma que esco...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-necromancia-123",
+      "name": "Necromancia",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          123,
+          125
+        ]
+      ],
+      "summary": "Necromancia Nectomancia Entender Spiritum/ Arkanun 3 Componentes: V, G, M (ver descrição) Tempo de Formulação: 15 minutos Alcance: ver descrição Efeitos: conjura um espírito Duração: 1 hora / nível Teste de Resistência: nenhum Resistência à Magia: não O mago se torna capaz de, através de complexos rituais envol- vendo oferendas (rum, comida, charutos e sacri...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-acao-126",
+      "name": "“Tempo de Formulação: 1 ação",
+      "category": "power_magic",
+      "pages": [
+        126
+      ],
+      "summary": "“Tempo de Formulação: 1 ação Alcance: toque Alvo: 1 pessoa ' Duração: instantânea Teste de Resistência: vontade (WILL) anula (benéfico) Resistência à Magia: sim (benéfico) Este ritual simples permite ao mago descobrir doenças em uma pessoa. Para isso, basta ao mago derramar o conteúdo do cálice sobre a pessoa e as partes infectadas por algum tipo de doença o...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-127",
+      "name": "Teste de Resistência: nenhum",
+      "category": "attribute_skill",
+      "pages": [
+        127
+      ],
+      "summary": "Teste de Resistência: nenhum Resistência à Magia: não Liste ritual simples faz aparecer nas mãos do mago 1dó moedas pot nível que possua. As moedas são réplicas perfeitas de qual- quer tipo de moeda que o mago escolher (mesmo bronze, prata, ouro ou as complexas ligas modernas podem ser falsificadas). As moedas permanecem na terra por uma hora por nível do ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-parlamento-das-arvores-128",
+      "name": "Parlamento das Árvores",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          128,
+          129
+        ]
+      ],
+      "summary": "Parlamento das Árvores Universal Entender Plantas 9 Componentes: V, G, M (um círculo de conjuração adequado) Tempo de Formulação: 1 semana Alcance: Om Efeitos: convoca o Parlamento das Árvores Duração: o tempo que for necessário Teste de Resistência: nenhum Resistência à Magia: não Este ritual druida só pode ser realizado durante o solstício de inverno e uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-pena-dos-rumores-130",
+      "name": "Pena dos Rumores",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          130,
+          136
+        ]
+      ],
+      "summary": "Pena dos Rumores Adivinhação Entender Spiritum 2 Componentes: V, G, M (uma pena, papel e tinta) Tempo de Formulação: 15 minutos Alcance: ver descrição Efeitos: transcreve os principais rumores em um pergaminho Duração: ver descrição Teste de Resistência: nenhum Resistência à Magia: não Outro feitiço envolvendo espíritos, a Pena dos Rumores é um nitual que os...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-protecao-contra-vampirismo-137",
+      "name": "Proteção contra Vampirismo",
+      "category": "ritual_spell",
+      "pages": [
+        137
+      ],
+      "summary": "Proteção contra Vampirismo Abjuração Criar/Controlar Humanos 4 Componentes: V, G, E/FD (uma faca ritualística) Tempo de Formulação: 15 minutos Alcance: toque Alvo: o próprio mago / 1 pessoa Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Este ritual necessita de uma faca especialmente preparada, de preferência a faca (ferramenta mística...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tempo-de-formulacao-1-rodada-138",
+      "name": "Tempo de Formulação: 1 rodada",
+      "category": "ritual_spell",
+      "pages": [
+        138
+      ],
+      "summary": "Tempo de Formulação: 1 rodada Alcance: toque Alvo: 1 pegada de uma pessoa Duração: 1 hora / nível Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim O mago coloca os quatro pregos ao redor da pegada de uma vítima (que precisa necessariamente ter sido feita em chão de terra) eavítima não poderá se afastar mais do que 1km daquela pegada pela d...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-om-139",
+      "name": "Alcance: Om",
+      "category": "power_magic",
+      "pages": [
+        [
+          139,
+          142
+        ]
+      ],
+      "summary": "Alcance: Om Área: uma linha de 2m / nível Duração: instantânea Teste de Resistência: fortitude (CON) anula Resistência à Magia: sim Este é um dos mais poderosos rituais do Caminho da Luz. Com ele o mago é capaz de disparar dos dedos de sua mão um raio da mais perfeita luz branca, que segue em linha reta até 2m por nível do feiticeiro, atingindo todas as cria...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-reserva-143",
+      "name": "Reserva",
+      "category": "item_equipment",
+      "pages": [
+        [
+          143,
+          144
+        ]
+      ],
+      "summary": "Reserva Encantamento (Compulsão) Entender/Controlar Metamagia 2 Componentes: V, G, E (uma cédula de dinheiro de valor eleva- do ou um cartão de crédito) Tempo de Formulação: 1 ação Alcance: ilimitado Efeitos: ver descrição Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Liste ritual funciona da seguinte maneira: uma vez realizado, o fei...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-rocha-cadente-de-vectorius-a-145",
+      "name": "Rocha Cadente de Vectorius, A",
+      "category": "power_magic",
+      "pages": [
+        145
+      ],
+      "summary": "Rocha Cadente de Vectorius, A Fivocação Controlar Fogo/Terra/Metamagia 7 Componentes: V, G, 1º (um astrolábio) Tempo de Formulação: 3 rodadas Alcance: 100m Área: 9m de raio Duração: instantânea Teste de Resistência: reflexos (AGI) reduz à metade Resistência à Magia: sim Esta temível mágica faz com que um meteoro caia dos céus sobre a vítima, causando dano de...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-roubar-a-sombra-146",
+      "name": "Roubar a Sombra",
+      "category": "ritual_spell",
+      "pages": [
+        146
+      ],
+      "summary": "Roubar a Sombra “Transmutação Controlar Trevas/Spiritum 4 Componentes: V, G, M (um pedaço de carbone) Tempo de Formulação: 1 ação Alcance: toque Alvo: a sombra de uma pessoa Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: sim ) Este curioso ritual cigano permite ao mago literalmente roubar a sombra de uma pessoa, guardando-a em um cristal n...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-roubar-o-folego-147",
+      "name": "Roubar o Fôlego",
+      "category": "combat",
+      "pages": [
+        147
+      ],
+      "summary": "Roubar o Fôlego Nectomancia Controlar Ar 3 Componentes: V, G, M (um pedaço de veludo roxo) Tempo de Formulação: 1 ação Alcance: 30m Alvo: 1 criatura que respire Duração: instantânea Teste de Resistência: fortitude (CON) reduz à metade Resistência à Magia: sim A bruxa utiliza um pedaço de veludo roxo e, respirando sobre ele, pode roubar o ar dos pulmões da ví...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-runa-das-trevas-148",
+      "name": "Runa das Trevas",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          148,
+          149
+        ]
+      ],
+      "summary": "Runa das Trevas Evocação [escuridão] Entender/Criar Metamagia/Trevas 2 Componentes: V, G, M (pó de ônix) Tempo de Formulação: 15 minutos Alcance: Om Área: 6m de raio Duração: permanente / 3d6 rodadas Teste de Resistência: nenhum Resistência à Magia: sim As Runas das Trevas são armadilhas que geralmente são utili- zadas em conjunto com criaturas ou armadilhas...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-toque-150",
+      "name": "Alcance: toque",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          150,
+          151
+        ]
+      ],
+      "summary": "Alcance: toque Alvo: 1 pessoa Duração: 1 hora Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim Esta mágica é oposta à Magia Loucura de Atavus; ela pode anular o efeito da Desvantagem Insano durante uma hora ou então cancelar o efeito da Loucura de Atavus. Santuário Satânico Abjuração” Entender Arkanun 7 Componentes: V, G, M (sangue de um i...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-servos-mumificados-152",
+      "name": "Servos Mumificados",
+      "category": "power_magic",
+      "pages": [
+        152
+      ],
+      "summary": "Servos Mumificados Necromancia [morte] Controlar Humanos/Spiritum 7 Componentes: V, G, M (um voluntário, ervas raras, um cova, material para embalsamar um cadáver) Tempo de Formulação: 1 semana (1' parte) e 1 mês e 1 dia (2* parte) Alcance: toque Efeito: cria uma múmia Duração: permanente Teste de Resistência: nenhum Resistência à Magia: não Eiste macabro ri...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-somar-forcas-153",
+      "name": "Somar forças",
+      "category": "ritual_spell",
+      "pages": [
+        153
+      ],
+      "summary": "Somar forças Universal Entender Metamagia 1 Componentes: V,G, M (um círculo de conjuração) Tempo de Formulação: 2 rodadas + o Tempo de Formula- ção dos rituais seguintes Alcance: toque Efeitos: soma as habilidades místicas de vários magos Duração: concentração Teste de Resistência: nenhum Resistência à Magia: não Este ritual permite que mais de um mago somem...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-sopro-de-areia-154",
+      "name": "Sopro de Areia",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          154,
+          155
+        ]
+      ],
+      "summary": "Sopro de Areia Encantamento (Compulsão) Criar Terra 1 Componentes: G, M (um pouco de areia) Tempo de Formulação: | ação Alcance: Om Área: um arco de 90º, com 2m de raio Duração: 1d3 rodadas Teste de Resistência: fortitude (CON) anula Resistência à Magia: sim Este ritual serve para distrair um grupo de pessoas (para ga- nhar tempo para que o mago e seu grupo...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teia-mistica-de-loth-156",
+      "name": "Teia Mística de Loth",
+      "category": "power_magic",
+      "pages": [
+        156
+      ],
+      "summary": "Teia Mística de Loth Conjuração (Criação) Criar Animais 3 Componentes: V, G, M (um pedaço de teia de viúva-negra e uma pequena estatueta de jade) Tempo de Formulação: 1 rodada Alcance: 30m Área: 25mº Duração: 10 minutos / nível Teste de Resistência: ver descrição Resistência à Magia: não Este ritual criará uma espécie de “teia” semelhante às de aranha, que s...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-2km-157",
+      "name": "Alcance: 2km",
+      "category": "power_magic",
+      "pages": [
+        [
+          157,
+          159
+        ]
+      ],
+      "summary": "Alcance: 2km Área: 400m de raio Duração: 10 minutos / nível Teste de Resistência: nenhum Resistência à Magia: não Desenvolvido pelos sacerdotes de Luft, este ritual permite ao mago conjurar uma tempestade fortíssima em questão de minu- tos (a chuva começa no início do ritual e vai aumentando de intensidade nos primeiros dez minutos), além de mantê-la du- ran...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alcance-toque-160",
+      "name": "Alcance: toque",
+      "category": "core_rule",
+      "pages": [
+        160
+      ],
+      "summary": "Alcance: toque Alvo: um frasco com líquido Duração: instantânea Teste de Resistência: nenhum Resistência à Magia: não Com este ritual, o mago é capaz de identificar se um líquido é ou não venenoso. O mago faz os gestos correspondentes e coloca a pérola no líquido. Se ele estiver envenenado, a pérola se dissolverá. Este ritual detecta qualquer tipo de veneno,...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-transferencia-de-sensacoes-161",
+      "name": "Transferência de Sensações",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          161,
+          162
+        ]
+      ],
+      "summary": "Transferência de Sensações Iincantamento (Compulsão) Entender Humanos 4 Componentes: V, G, FD (um terço) Tempo de Formulação: 1 rodada Alcance: 100m Alvo: duas pessoas (ver descrição) Duração: 1 rodada / nível Teste de Resistência: nenhum e vontade (WILL) anula Resistência à Magia: sim (benéfica) e sim Um dos principais rituais desenvolvidos pelos hospitalár...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-alvo-1-pessoa-morta-163",
+      "name": "Alvo: 1 pessoa morta",
+      "category": "ritual_spell",
+      "pages": [
+        163
+      ],
+      "summary": "Alvo: 1 pessoa morta Duração: permanente Teste de Resistência: nenhum Resistência à Magia: não Eiste é considerado um dos mais difíceis rituais que um mago pode realizar, apesar de sua relativa praticidade. Com ele, o mago pode oferecer ao Spiritum sua própria vida, em troca da vida de uma outra pessoa. O corpo deve estar presente, não importando há quanto t...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-trovao-espectral-164",
+      "name": "Trovão Espectral",
+      "category": "ritual_spell",
+      "pages": [
+        164
+      ],
+      "summary": "Trovão Espectral Evocação [eletricidade] Criar Luz/ Ar/Spiritum 4 Componentes: uma varinha de ferro frio Tempo de Formul..ção: 1 ação Alcance: 20m Área: uma linha de 20m x Im Duração: imediata Teste de Resistência: reflexos (AGI) reduz à metade Resistência à Magia: sim Este ritual é uma versão especial do feitiço Raio, mas voltado especialmente para seres as...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-165",
+      "name": "Teste de Resistência: nenhum",
+      "category": "ritual_spell",
+      "pages": [
+        165
+      ],
+      "summary": "Teste de Resistência: nenhum Resistência à Magia: não Este ritual faz com que apareçam ao redor do mago centenas de pequenos vaga-lumes, que geram iluminação suficiente para ler um mapa. À luz é muito fraca e permite enxergar perfeitamente até 5m de distância, identificação de pessoas até 10m de distância, detectar figuras paradas a até 20m e movimento a até...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-duracao-instantanea-166",
+      "name": "Duração: instantânea",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          166,
+          167
+        ]
+      ],
+      "summary": "Duração: instantânea Teste de Resistência: nenhum Resistência à Magia: não Esta Magia reproduz o poder natural recebido pelos clérigos de Azgher. Como sinal de respeito ao deus Sol dos Sar-Allan, a Magia pode ser invocada apenas durante o dia. À água gerada com este efeito é suficiente para saciar seis pessoas e pode ser realizada apenas uma vez por dia. Ves...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-vidro-a-prova-de-balas-168",
+      "name": "Vidro à Prova de Balas",
+      "category": "combat",
+      "pages": [
+        [
+          168,
+          169
+        ]
+      ],
+      "summary": "Vidro à Prova de Balas “Transmutação Controlar Terra 2 Componentes: V, G, M (água destilada) Tempo de Formulação: 1 rodada / vidro Alcance: toque Alvo: até 1 vidro / nível Duração: 1 cena Teste de Resistência: nenhum Resistência à Magia: não Esta magia moderna faz com que um vidro comum por nível do mago receba IP 12 contra ataques balísticos pela duração do...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-vitamina-170",
+      "name": "Vitamina",
+      "category": "ritual_spell",
+      "pages": [
+        170
+      ],
+      "summary": "Vitamina Transmutação Controlar Humanos 2 Componentes: V, G, M (comprimidos de vitamina ou frutas) (RE Tempo de Formulação: 3 rodadas Alcance: toque Alvo: 1 pessoa Duração: 1 cena Teste de Resistência: fortitude (CON) anula (benéfico) Resistência à Magia: sim (benéfico) Este ritual utiliza como materiais simples comprimidos de vi- tamina ou frutas frescas. L...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-teste-de-resistencia-nenhum-171",
+      "name": "Teste de Resistência: nenhum",
+      "category": "ritual_spell",
+      "pages": [
+        171
+      ],
+      "summary": "Teste de Resistência: nenhum Resistência à Magia: não Permite ao mago voar a até 20m/s, com o controle total de seus movimentos, como se estivesse “nadando” no ar, enquanto se desloca misticamente, O movimento de vôo não exige concen- tração, permitindo ao realizar outras magias. Vôo Rasante Transmutação Controlar Ar 3 Componentes: V, G, 1º (sapatos de ponta...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-windows-172",
+      "name": "Windows",
+      "category": "power_magic",
+      "pages": [
+        172
+      ],
+      "summary": "Windows Abjuração Entender Arkanun/Ar/Luz 2 Componentes: V, G, E (um disquete) Tempo de Formulação: 2 rodadas Alcance: toque Alvo: 1 computador Duração: 1 hora Teste de Resistência: nenhum Resistência à Magia: não Ao conjurar esta magia, o computador que o mago estiver utilizando não travará pela duração do ritual, mesmo que ele este- ja utilizando o Windows...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-guia-de-itens-magicos-173",
+      "name": "Guia de Itens Mágicos",
+      "category": "creature_npc",
+      "pages": [
+        173
+      ],
+      "summary": "Guia de Itens Mágicos O aguardado livro sobre itens mágicos, artefatos e relíquias finalmente saiul Este Guia traz para você cerca de 1.000 novos itens, entre anéis, poções, óleos, elixires, varinhas, cajados, varas, gemas, pedras, amuletos, correntes, braceletes, bolsas, oupas, botas, capas, armaduras, escudos, espadas, machados, Ss. lanças e uma infinidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-anjos-a-cidade-de-prata-174",
+      "name": "Anjos: A Cidade de Prata",
+      "category": "creature_npc",
+      "pages": [
+        174
+      ],
+      "summary": "Anjos: A Cidade de Prata Este RPG explica detalhadamente as cinco castas de anjos que habitam a Cidade de Prata, possibilitando a utilização dos anjos tanto como Personagens quanto como NPC's: Corpore, os anjos da Guarda; Protetore, os anjos cabalísticos; Captare, os caçadores de demônios; Recípere, os negociantes de almas e Nimbus, os governantes celestiais...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-trevas-175",
+      "name": "TREVAS",
+      "category": "creature_npc",
+      "pages": [
+        175
+      ],
+      "summary": "TREVAS Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno, usando os humanos como peças em seu jogo de xadrez celestial, Neste RPG, você está convidado a fazer parte dos mortais que sabem a verdade. Após quase dez anos desde sua primcira versão em Fanzine, a Daemon Editora tem o prazer em anunc...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-tormenta-176",
+      "name": "Tormenta",
+      "category": "creature_npc",
+      "pages": [
+        176
+      ],
+      "summary": "Tormenta Imagine um mundo de magias, aventuras e tesouros. Imagine terríveis vilões, monstros perigosos « histórias fabulosas. Faça parte disso tudo em Arton! A Editora Dacmon tem o prazer de apresentar a terceira edição de TORMENTA, o ambiente de RPG mais omo você pode ver, esta edição caprichada traz muitas novidades para os antigos mestres, bem jogado no...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-indice-do-grimorio-pessoal-177",
+      "name": "Indice do Grimório Pessoal",
+      "category": "ritual_spell",
+      "pages": [
+        177
+      ],
+      "summary": "01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 Indice do Grimório Pessoal 51 52 5a 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 70 n 72 73 74 75 76 77 78 gb) 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-grimorio-178",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        178
+      ],
+      "summary": "Grimório NOME: Escola: Tempo de Formulação: Alvos, Efeitos ou Área: Teste de Resistência: Formas e Caminhos: Componentes: V, G, M, E FD, XP Alcance: Duração: Resistência à Magia: NOME: Escola: Tempo de Formulação: Alvos, Efeitos ou Área: Teste de Resistência: Formas e Cam Componentes: V, Alcance: ) XP ! Duração: Resistência à Magia: NOME: Escola: Tempo de Fo...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-open-game-license-179",
+      "name": "OPEN GAME LICENSE",
+      "category": "race_lineage",
+      "pages": [
+        179
+      ],
+      "summary": "OPEN GAME LICENSE Version . 1.0a “The following text is the property of Wizards of the Coast, Inc. and às Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved. 1. Definitions: (a)”Contributors” means the copyright and/or trademark owners who have contributed Open Game Content; (b)”Denivative Mate- ria” means copyrighted material includin...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio-grimorio-180",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        180
+      ],
+      "summary": "Grimório Esta é uma obra de ficção. Apesar de muitos dos Rituais citados neste livro terem sido extraídos de lendas e histórias reais de diversos povos, a Magia e os Rituais como são aqui descritos não devem ser utilizados fora do jogo, pois poderiam ferir seriamente os participantes. Mesmo os eventos, agências, Sociedades Secretas e personagens verdadeiros...",
+      "entityRefs": []
+    }
+  ]
+}

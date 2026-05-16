@@ -1,0 +1,27 @@
+{
+  "source": "trappers",
+  "title": "Trappers",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "attribute_skill",
+    "power_magic",
+    "combat",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "trappers-trappers-e-1",
+      "name": "Trappers e",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Trappers e Armadilhas Trapper Do inglês, “trap” é armadilha; “trapper” seria alguém que faz ou prepara armadilhas. Quando o Trapper instala uma armadilha, ela aparece para ele como um brilho mágico - mas não pode ser vista ou detectada, por mais ninguém, exceto por Detecção de Magia. Depois de instalada (ou acionada), leva três rodadas até que ela esteja pro...",
+      "entityRefs": []
+    }
+  ]
+}

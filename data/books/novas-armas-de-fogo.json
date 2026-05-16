@@ -1,0 +1,47 @@
+{
+  "source": "novas-armas-de-fogo",
+  "title": "Novas Armas de Fogo",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "novas-armas-de-fogo-novas-armas-de-fogo-1",
+      "name": "Novas Armas de Fogo",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Novas Armas de Fogo Neste livro virtual vocês encontrarão uma lista com novas armas de fogo para o Sistema Daemon, vocês também encontrarão a ilustração de todas elas acompanhando. ATENÇÃO: Você irá precisar conhecer as regras do Sistema Daemon para utilizar estas armas, você pode encontrar o manual básico no site da Editora – www.daemon.com.br. Agradeciment...",
+      "entityRefs": []
+    },
+    {
+      "id": "novas-armas-de-fogo-lista-das-armas-2",
+      "name": "Lista das Armas",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "Lista das Armas A-680 Munição: .600 Pente: 6 Alcance: 650m Dano: 2d6+2 ROF: 1 BSA-5T-84 Munição: cal. 12 Pente: 10 Alcance: 500m Dano: 2d6+4 ROF: 2 Carabina .40 Munição: .40 Pente: 50 Alcance: 700m Dano: 2d6+6 ROF: 8 CBC 586 2P-7 PG Munição: 5.56mm Pente: 40 Alcance: 800m Dano: 1d10+2 ROF: 4 Metralhadora portátil Turus-Famae Munição: .40 Pente: 100 Alcance:...",
+      "entityRefs": []
+    },
+    {
+      "id": "novas-armas-de-fogo-magnum-357-cp-3",
+      "name": "Magnum .357 CP",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Magnum .357 CP Munição: .357 Pente: 6 Alcance: 40m Dano: 1d6+1 ROF: 1 PT 917C Munição: 9mm Pente: 8 Alcance: 50m Dano: 1d6+2 ROF: 1 Rossi 775 Munição: cal. 12 Pente: 6 Alcance: 400m Dano: 2d6 ROF:1 Rossi 636 Munição: .38 Pente: 6 Alcance: 35m Dano: 1d6 ROF: 1 Casull .454 Munição: .454 Pente: 6 Alcance: 45m Dano: 1d6+1 ROF: 1 .38 Munição: .38 Pente: .6 Alcanc...",
+      "entityRefs": []
+    }
+  ]
+}

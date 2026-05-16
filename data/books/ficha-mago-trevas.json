@@ -1,0 +1,24 @@
+{
+  "source": "ficha-mago-trevas",
+  "title": "ficha_mago_trevas",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "attribute_skill",
+    "kit_class",
+    "power_magic",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "ficha-mago-trevas-nome-1",
+      "name": "Nome:________________________________________________",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "Nome:________________________________________________ Classe:______________________________ Nível:___________ Idade Aparente:___________ Idade Real:__________________ Descrição:____________________________________________ ______________________________________________________ ______________________________________________________ ATRIBUTOS Original Modificad...",
+      "entityRefs": []
+    }
+  ]
+}

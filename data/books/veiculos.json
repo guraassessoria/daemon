@@ -1,0 +1,66 @@
+{
+  "source": "veiculos",
+  "title": "Veiculos",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 35,
+  "primaryCategories": [
+    "item_equipment",
+    "core_rule",
+    "attribute_skill",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "veiculos-evolucao-1-1",
+      "name": "EVOLUÇÃO (1-10)",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "EVOLUÇÃO: Guia de Veículos Por Yanes “Drommar” T.S. 2 Olá RPGista, eu sou Drommar autor do net-book EVOLUÇÃO, e venho lhes apresentar um dos prometidos suplementos para o cenário. Agradecimentos: - Thcrown, pelo apoio tremendo; - Ao meus três grupos de RPG; - Ao Marcelo Del Debio, por motivos óbvios; - Ao Fernando “Mac Gun” Menezes; - Ao Leishmaniose; - Aos...",
+      "entityRefs": []
+    },
+    {
+      "id": "veiculos-evolucao-1-2",
+      "name": "EVOLUÇÃO (11-20)",
+      "category": "core_rule",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 to e desfavorecer o outro, podemos considerar que: Os pneus são classificados de 0 a 20 seguidos do atributo que ele favorece. Em jogo isso significa que se um pneu tem aerodinâmica 16, ele dá mais 16% nos valores de aerodinâmica do carro, e retira 16% do valor total da estabilida- de. Fernando tem pneus de aerodinâmica 5, já André opta por pneus de estab...",
+      "entityRefs": []
+    },
+    {
+      "id": "veiculos-evolucao-1-3",
+      "name": "EVOLUÇÃO (21-30)",
+      "category": "core_rule",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 O2 líquido pode ser usado juntamente com NOS, se usado dá ao carro uma aceleração de mais 5m/s (ignorando a regra de níveis do Nitro) mais as regras normais de bônus de aceleração do O2, mas a cada rodada de uso aumenta em 15% as chances do motor explodir por superaquecimento (acumulando com outras porcentagens de aqueci- mento, como “Forçando o Motor”)....",
+      "entityRefs": []
+    },
+    {
+      "id": "veiculos-evolucao-1-4",
+      "name": "EVOLUÇÃO (31-35)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          31,
+          35
+        ]
+      ],
+      "summary": "31 formance e estilo, com uma mistura única de clas- sico com linhas futurísticas”. O time desenvolveu um verdadeiro vencedor, à frente do seu tempo, na mais verdadeira tradição da Lotus. Naturalmente, o Elise apresenta as últimas inovações em estilo, aerodinâmica e dirigibilidade, é um verdadeiro Lotus. Seu projeto ultra-leve foi desenvolvido pa- ra atingir...",
+      "entityRefs": []
+    }
+  ]
+}

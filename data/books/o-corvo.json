@@ -1,0 +1,271 @@
+{
+  "source": "o-corvo",
+  "title": "O Corvo",
+  "status": "full-read-auto-pass-1",
+  "pages": 40,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "core_rule",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "o-corvo-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-o-corvo-3",
+      "name": "O Corvo",
+      "category": "source",
+      "pages": [
+        3
+      ],
+      "summary": "O Corvo 2 Edição",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-o-corvo-4",
+      "name": "O CORVO",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "O CORVO AGRADECIMENTOS - Em primeiro lugar a James O’Barr por este personagem fantástico e a todos aqueles que ilustraram as imagens presen- tes neste livro. - A Marcelo Del Debbio pelo fabuloso cenário de Trevas, pelo Sistema Daemon e principalmente por Spiritum, que além de um excelente livro, foi a base das atualizações desse netbook. - Ao meu irmão, pela...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-introduao-5",
+      "name": "INTRODUÀˇO",
+      "category": "character_option",
+      "pages": [
+        5
+      ],
+      "summary": "INTRODUÀˇO Nascido e alimentado de tragédias, O Corvo teve sua primeira aparição em uma história em quadrinhos escrita e ilustrada por James O'Barr, porém, sua gênese deu-se muito antes. Tudo começou em 1978 quando a namorada de James morreu em um acidente, ela foi atropelada por um motorista que estava bêbado. Como uma forma de tentar esquecer a tra- gédia,...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-estou-morto-6",
+      "name": "Estou morto…",
+      "category": "power_magic",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Estou morto… A última coisa de que me lembro com clareza é da- queles homens atirando em mim depois de assassinar Dana. O resto são imagens distorcidas... Não, não foi tão simples assim, agora começo a me lembrar. Eu a havia pegado no trabalho, tinha saído cedo e co- mo seu pai estava viajando resolvemos ir para sua casa mes- mo. Ele não gostava de mim, me c...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-conceitos-bsicos-8",
+      "name": "CONCEITOS BÐSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "CONCEITOS BÐSICOS Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esses conceitos, termos usados no sistema de Magias e combates também são...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-criaao-de-personagens-10",
+      "name": "CRIAÀˇO DE PERSONAGENS",
+      "category": "creature_npc",
+      "pages": [
+        10
+      ],
+      "summary": "CRIAÀˇO DE PERSONAGENS Na maioria dos RPGs, os Jogadores são os únicos res- ponsáveis pela criação de seus Personagens. No Sistema Dae- mon isto também é permitido, mas recomendamos que os Per- sonagens sejam construídos apenas pelo Mestre ou com gran- de participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policia...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-2-como-ele-se-auto-descreveria-11",
+      "name": "2. Como ele se auto-descreveria?",
+      "category": "attribute_skill",
+      "pages": [
+        11
+      ],
+      "summary": "2. Como ele se auto-descreveria? 3. Qual é a atitude de seu Personagem em relação ao mundo? 4. Qual é a atitude dele em relação às outras pessoas? 5. Ele tem atitudes diferenciadas para certos grupos de pesso- as? Gostos e preferências 1. Como ele passa suas horas de lazer? 2. Que coisas ele gosta de vestir? 3. O que ele gosta mais no trabalho/ocupação? 4. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-int-12",
+      "name": "INT",
+      "category": "attribute_skill",
+      "pages": [
+        12
+      ],
+      "summary": "INT 12 12 48% WILL 10 10 40% PER 13 13 52% CAR 10 10 40% Passo 6: Profissão e Perícias Dependendo da Época da Campanha, tipo de Aventu- ras e tipo de grupo, existem infinitas possibilidades de profis- sões para escolher. Nos anos 90, a quantidade possível de em- pregos, subempregos ou bicos que uma pessoa pode fazer é extensa demais para ser listado aqui. As...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-equipamentos-13",
+      "name": "EQUIPAMENTOS",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "EQUIPAMENTOS Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Personagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-os-renascidos-14",
+      "name": "Os Renascidos",
+      "category": "race_lineage",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "Os Renascidos \"Antigamente as pessoas acreditavam que quando alguém morria, um corvo carregava sua alma para a terra dos mortos. Mas às vezes algo tão ruim acontecia que uma terrível tristeza a acompanhava, e a alma não conseguia descansar. Então às vezes, apenas às vezes, o corvo pode trazer a alma de volta para acertar as coisas” Desde a Idade média que a...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-atributos-16",
+      "name": "ATRIBUTOS",
+      "category": "attribute_skill",
+      "pages": [
+        16
+      ],
+      "summary": "ATRIBUTOS Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Persona- gens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem co- mo com todos os RPGs lançados pela Daemon E...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-carisma-car-17",
+      "name": "Carisma (CAR)",
+      "category": "attribute_skill",
+      "pages": [
+        17
+      ],
+      "summary": "Carisma (CAR) Determina o charme do Personagem, sua capacidade de fazer com que outras pessoas gostem dele. Um alto valor em Carisma não quer dizer que ele seja bonito ou coisa assim, apenas simpático: uma modelo profissional que tenha alta Constituição e baixo Carisma seria uma chata insuportável; um baixinho feio e mirrado, mas simpático, poderia reunir se...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-aprimoramentos-18",
+      "name": "APRIMORAMENTOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          18,
+          20
+        ]
+      ],
+      "summary": "APRIMORAMENTOS Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem Renascido começa o jogo com 5 pontos de Apri- moramentos e o Jogador pode gastá-los como desejar. Esses pontos não podem simplesmente serem “gas- tos”, mas o Mestre e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-sentidos-agucados-21",
+      "name": "Sentidos Aguçados",
+      "category": "attribute_skill",
+      "pages": [
+        21
+      ],
+      "summary": "Sentidos Aguçados 1 ponto para cada sentido: o Personagem possui sentidos mais aguçados do que os outros Personagens. Sua vi- são, audição, tato, olfato e/ou paladar são muito mais desen- volvidos. Em Testes de Percepção que utilizem esses sentidos, o Mestre deve reduzir a dificuldade em um nível (um Teste Di- fícil torna-se Normal; um Teste Normal torna-se...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-perycias-22",
+      "name": "PERýCIAS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          22,
+          23
+        ]
+      ],
+      "summary": "PERýCIAS Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula- se quantos pontos de Perícias ele terá para gastar. Esses pon- tos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos de Per¤c...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-poderes-pstumos-24",
+      "name": "PODERES P×STUMOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "PODERES P×STUMOS A seguir apresentamos os poderes provenientes da atual situação do Renascido. Estes são os mais comuns, mas pode haver outros. Esta lista é apenas uma sugestão e ponto de partida para que, se necessário, jogadores e mestres criem seus próprios Poderes Póstumos. Os Poderes estão divididos em níveis para sua melhor compreensão, sendo que a mai...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-novos-rituais-26",
+      "name": "NOVOS RITUAIS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "summary": "NOVOS RITUAIS Absorção de Almas Controlar Spiritum 4 Custo: 2 pts Tempo de Conjuração: 1d6 horas Materiais: um corpo recém falecido Inventado em 1600 AC, em Arkanun, por Lilith, rainha das Sucubus. Com este ritual, o mago é capaz de absorver os resíduos mágicos do corpo de uma pessoa ou criatura morta. O mago aumenta seus Pontos máximos de Magia em 1d4, du-...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-regras-e-testes-28",
+      "name": "REGRAS E TESTES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          28,
+          36
+        ]
+      ],
+      "summary": "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Pa- ra isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo È privilegiada a resolução...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-pontos-hericos-37",
+      "name": "PONTOS HER×ICOS",
+      "category": "core_rule",
+      "pages": [
+        37
+      ],
+      "summary": "PONTOS HER×ICOS Pontos Heróicos funcionam como uma medida abstra- ta de heroísmo; eles não são exatamente Pontos de Vida ex- tras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-experiyncia-38",
+      "name": "ExperiŸncia",
+      "category": "creature_npc",
+      "pages": [
+        38
+      ],
+      "summary": "ExperiŸncia Dos outros quatro Personagens da Campanha, dois fo- ram destruídos pela Inquisição, um ficou louco e o último aça- bou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demôni...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-aprimoramentos-39",
+      "name": "Aprimoramentos",
+      "category": "creature_npc",
+      "pages": [
+        39
+      ],
+      "summary": "Aprimoramentos Recomenda-se que os Jogadores anunciem antes qual Aprimoramento novo escolheram e que o desenvolvam durante as Aventuras. Dessa forma, n„o ser· apenas um “prêmio”, mas um importante elemento narrativo para o desenvolvimento da Campanha. Outros prŸmios Além dessas mudanças, que são reflexos do desenvol- vimento do Jogador, os Personagens podem...",
+      "entityRefs": []
+    },
+    {
+      "id": "o-corvo-o-corvo-40",
+      "name": "O CORVO",
+      "category": "attribute_skill",
+      "pages": [
+        40
+      ],
+      "summary": "O CORVO Nome_________________________________________________________________Data de Cria÷‘o_____________ Ðrea de Atua÷‘o__________________________________________________Altura_________Peso___________ Ano da Morte _______________________ Local da Morte_____________________________________________ Idade: Aparente ( ) Real ( ) Atributo Original Modif Atual Te...",
+      "entityRefs": []
+    }
+  ]
+}

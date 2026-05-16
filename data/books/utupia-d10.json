@@ -1,0 +1,76 @@
+{
+  "source": "utupia-d10",
+  "title": "Utupia d10",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 41,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "attribute_skill",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "utupia-d10-utopia-d10-1-1",
+      "name": "UTOPIA D10 (1-10)",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 UTOPIA D10 Produção e Editoração Cláudio Muniz MITSUKAI EDITORA www.mitsukai-editora.com.br utopia@mitsukai-editora.com.br 2 UTOPIA D10 O PROJETO UTOPIA D10 É um projeto de autoria de Cláudio Muniz e visa incrementar a versatilidade do RPG e a possibilidade de mestres e jogadores verem seus trabalhos editados e distribuídos, onde cada um pode enviar suas s...",
+      "entityRefs": []
+    },
+    {
+      "id": "utupia-d10-utopia-d10-1-2",
+      "name": "UTOPIA D10 (11-20)",
+      "category": "core_rule",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 UTOPIA D10 Vontade Fraca (-6 PONTOS) Todos os testes de Determinação sofrem um modificador de -5, tornando o personagem muito sugestionável. Justiceiro (variável) O personagem tem como meta de vida a busca por justiça, principalmente por suas próprias mãos. Justiça não tem ligação com lei, que às vezes protege os criminosos com falsos pudores. Leve (-2):...",
+      "entityRefs": []
+    },
+    {
+      "id": "utupia-d10-utopia-d10-1-3",
+      "name": "UTOPIA D10 (21-30)",
+      "category": "power_magic",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 UTOPIA D10 Magia da língua Cada palavra dita provoca ressonância entre o que é dito e a manifestação energética da palavra. Um Dragão, draconiano ou mesmo alguém que tenha sangue de Dragão é capaz de utilizar a língua draconiana como magia, combinando cada palavra como se estivesse montando uma frase. Neste caso, a mente do operador (que executa a magia)...",
+      "entityRefs": []
+    },
+    {
+      "id": "utupia-d10-utopia-d10-1-4",
+      "name": "UTOPIA D10 (31-40)",
+      "category": "core_rule",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "31 UTOPIA D10 Linha da ilusão Criar ilusão Magia capaz de gerar uma imagem e/ou som que será percebido como real por qualquer um. Os que souberem de existência de um ilusão na cena podem realizar um teste de Percepção com modificador negativo igual a margem de sucesso do operador da magia. C: 3 para cada ilusão e mais três para cada metro que ela ocupar. CT:...",
+      "entityRefs": []
+    },
+    {
+      "id": "utupia-d10-utopia-d10-1-5",
+      "name": "UTOPIA D10 (41-41)",
+      "category": "attribute_skill",
+      "pages": [
+        41
+      ],
+      "summary": "41 UTOPIA D10 de dano AT (objetos contundentes) ou DF (objetos perfurantes) para cada nível de Psicocinese. C: 8 / CT: 3 segundos Pirocinese / Criocinese – Habilidade para alterar a temperatura de um alvo, seja orgânico ou não. Cada nível possibilita aumentar ou diminuir em 30o C para cada minuto que o poder for mantido. O custo é dobrado para cada diferença...",
+      "entityRefs": []
+    }
+  ]
+}

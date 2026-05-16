@@ -1,0 +1,780 @@
+{
+  "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+  "title": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
+  "status": "full-read-auto-pass-1",
+  "pages": 126,
+  "primaryCategories": [
+    "core_rule",
+    "item_equipment",
+    "combat",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-contenda-eterna-1",
+      "name": "A Contenda Eterna",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "A Contenda Eterna A Contenda Eterna João Fernando Rech Wachelke",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luiz-antonio-rech-wachelke-2",
+      "name": "Luiz Antonio Rech Wachelke",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Luiz Antonio Rech Wachelke Luz e Sombra RPG Luz e Sombra é um sistema de RPG completo, contendo ambientação e regras. Passa-se num cenário de fantasia medieval próprio, o Chayriah. Não foi feito com o intuito de introduzir o leitor no mundo do RPG; para isso recomendamos o acesso a alguns sites especializados na Internet que fornecem essas informações de uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-estrutura-do-4",
+      "name": "Estrutura do",
+      "category": "item_equipment",
+      "pages": [
+        4
+      ],
+      "summary": "Estrutura do Texto Terra de Luz e Sombra A História do Chayriah Os Reinos do Chayriah Os Povos do Chayriah A Contenda Eterna Mestres Elementais Faces do Chayriah Os Palcos da Contenda Eterna Idéias para Aventuras Criando o Personagem Características Gerais Tipo Origem Atributos Básicos Habilidades e Conhecimentos Equipamento Índice de Armadura, Bônus de Escu...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-magia-5",
+      "name": "A Magia",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "A Magia Ordens da Magia Criação de um Mago Regras Básicas de Magia Feitiços Itens Mágicos Regras do Jogo Teste de Valores Combate Evolução do Personagem Modos de Jogo Regra de Ouro Anexos Frente da Ficha de Personagem Não-Mago Frente da Ficha de Personagem Mago Parte de trás da Ficha de Personagem: Background e Desenho Mapa Físico do Chayriah Mapa Político d...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-terra-de-luz-6",
+      "name": "Terra de Luz",
+      "category": "combat",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Terra de Luz e Sombra o começo havia apenas o Limbo, povoado por almas, sem corpo, sem vida. Ao largo, espiava o Único. Pura curiosidade fez com que escolhesse a mais perfeita das almas e a desse vida, chamando-a Aylia. O Único desposou Aylia, e para ela criou Ethilion, o jardim divino que seria sua morada. Milênios passaram, e o casal vivia em felicidade, r...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-elementos-fundamentais-fogo-terra-8",
+      "name": "elementos fundamentais: Fogo, Terra,",
+      "category": "power_magic",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "elementos fundamentais: Fogo, Terra, Ar e Água. O detentor de cada Conjunto seria decidido por meio de combates mortais e honrados entre os candidatos. Os vinte guerreiros privilegiados seriam chamados de Mestres Elementais. De cinco em cinco anos reuniam-se numa localidade escondida entre as montanhas centrais do continente, o Vale Ethil, onde havia uma cid...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-entwan-e-novo-entwan-10",
+      "name": "Entwan e Novo Entwan",
+      "category": "ritual_spell",
+      "pages": [
+        10
+      ],
+      "summary": "Entwan e Novo Entwan Entwan e Novo Entwan Partindo do sudoeste do continente, defrontamo-nos com Entwan, reino próspero com atividade agrícola e comercial. A capital também tem o nome de Entwan, e é uma cidade modelo. Há trinta anos (contando a partir de 1805, ano atual) Dulkar, primo distante do Rei Badhellor IV, foi exilado do reino após tentar tomar o pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-reino-governada-pelo-prefeito-harlon-11",
+      "name": "Reino, governada pelo prefeito Harlon",
+      "category": "core_rule",
+      "pages": [
+        11
+      ],
+      "summary": "Reino, governada pelo prefeito Harlon Carligium, apesar de uma cidade menor, Gahar, também servir de porto ao norte. Thorgadryth Thorgadryth A leste de Larth, há o litorâneo reino de Thorgadryth, de forma alongada. Desde sua fundação governado por reis ambiciosos, Thorgadryth vive em guerra com Argus desde sua origem. Atualmente é aliado comercial do Novo En...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-por-yvalius-mestre-elemental-do-12",
+      "name": "por Yvalius, Mestre Elemental do",
+      "category": "core_rule",
+      "pages": [
+        12
+      ],
+      "summary": "por Yvalius, Mestre Elemental do Relâmpago. Num desfiladeiro ao norte do reino, entre as montanhas, há a Torre de Geldor, onde reside Geldor, mago que já pertenceu à Ordem da Luz mas desligou-se dela já há algum tempo. A oeste de Acradhil, oculto entre as Montanhas de Acrad, existe o Vale Ethil. Ali, uma vez a cada cinco anos, no Conselho, os Mestres Element...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-aos-13",
+      "name": "Aos",
+      "category": "core_rule",
+      "pages": [
+        13
+      ],
+      "summary": "Aos poucos Acayr foi se alinhando com Argus, tornando-se quase que uma \"grande província\". Geralmente os reis de Acayr são primos dos de Argus, e apóiam as decisões tomadas pelos governantes dos reinos mais ricos, razões pelas quais são por vezes bastante criticados. Não é segredo que os acayrianos tem uma certa inveja do status dos argusianos. Apenas uma ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-nao-exatamente-um-reino-mas-14",
+      "name": "Não exatamente um reino, mas",
+      "category": "core_rule",
+      "pages": [
+        14
+      ],
+      "summary": "Não exatamente um reino, mas um grande território composto por feudos e essencialmente descentralizado, Thurgad é um lugar \"selvagem\", onde predomina a lei do mais forte. No passado uma potência agrícola com porte semelhante ao de Larth, foi dividido entre os nove filhos de um rei, o que gerou disputas mútuas por territórios, e mais tarde, guerras sangrentas...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-vilas-15",
+      "name": "vilas",
+      "category": "creature_npc",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "vilas descentralizadas, mas que se comunicam entre si. Bondolak Bondolak Dirigindo-se para o norte, além da floresta, passamos pelas terras selvagens, pradarias habitadas por bárbaros Tergar de organização patriarcal. Seguindo então para o leste dessas terras, além das montanhas, temos Bondolak, o “Reino de Fora”, território habitado pelos B'dolaki. Bondolak...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-geralmente-lembram-o-modelo-medieval-17",
+      "name": "geralmente lembram o modelo medieval",
+      "category": "item_equipment",
+      "pages": [
+        17
+      ],
+      "summary": "geralmente lembram o modelo medieval com um castelo central e muralhas protetoras. Geralmente militarizadas, com grandes praças comerciais, e espaços agrícolas circundantes. Economia Economia: São os maiores praticantes do comércio no Chayriah, mas também vivem de agropecuária. Nas cidades, há prestação de serviços e artesanato, em nível regional. Seu comérc...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-aparencia-18",
+      "name": "Aparência",
+      "category": "core_rule",
+      "pages": [
+        18
+      ],
+      "summary": "Aparência Aparência: Possuem pele morena, devido à longa exposição ao sol e vida ao ar livre. São ligeiramente mais altos que os Tergar, e têm membros fortes e musculosos graças aos esforços que realizam em sua árdua rotina de trabalho. Têm traços fortes e cabelos escuros. Os homens e as mulheres os mantém longos, mas as últimas normalmente os têm maiores. S...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-alem-disso-sao-extremamente-ceticos-19",
+      "name": "Além disso, são extremamente céticos",
+      "category": "combat",
+      "pages": [
+        [
+          19,
+          21
+        ]
+      ],
+      "summary": "Além disso, são extremamente céticos quanto à existência de qualquer efeito místico. Em toda a História do Chayriah, somente há registros de uma maga Ghiar. Relação com outros povos Relação com outros povos: : Bastante fechados a contatos, os Ghiares apenas se comunicam com os Tergar, ocasionalmente, para fins diplomáticos ou comércio complementar. A saber,...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-uma-relativa-hostilidade-com-membros-22",
+      "name": "uma relativa hostilidade com membros",
+      "category": "power_magic",
+      "pages": [
+        22
+      ],
+      "summary": "uma relativa hostilidade com membros da Ordem da Luz. Alguns dos magos mais poderosos do Chayriah são Vynev, refletindo a tradição milenar desse povo com a Magia da Luz. Relação com outros povos Relação com outros povos: Os Vynev mantêm relações diplomáticas e mesmo ocasionais com alguns reinos dos Tergar, mas os vêem como belicosos e desorganizados. Apenas...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-em-seguida-serao-apresentadas-as-23",
+      "name": "Em seguida serão apresentadas as",
+      "category": "item_equipment",
+      "pages": [
+        [
+          23,
+          24
+        ]
+      ],
+      "summary": "Em seguida serão apresentadas as principais organizações do Chayriah, e suas características. Ordem da Luz Ordem da Luz A Ordem da Luz, juntamente com a Ordem Negra, foi uma das primeiras organizações ideológicas do Chayriah. Fundada por magos da Luz, é fundamentada nos princípios da bondade, paz e justiça. Sua origem se deve à necessidade desses magos de ju...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-magos-menores-compreende-os-25",
+      "name": "Magos Menores. Compreende os",
+      "category": "power_magic",
+      "pages": [
+        [
+          25,
+          26
+        ]
+      ],
+      "summary": "Magos Menores. Compreende os aprendizes de Magia da Ordem, e também magos com pouca experiência. Cavaleiros da Luz: Nessa situação se encaixa a maioria dos Cavaleiros da Luz, guerreiros sagrados que seguem um forte código de honra e ética de acordo com as idéias defendidas pela Ordem. Grandes Guerreiros da Luz: Os Cavaleiros da Luz que já possuem bastante ex...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-promocao-de-outros-membros-em-27",
+      "name": "promoção de outros membros. Em",
+      "category": "combat",
+      "pages": [
+        [
+          27,
+          30
+        ]
+      ],
+      "summary": "promoção de outros membros. Em ordem crescente de importância, os graus são: Servos Menores: A “população civil”, encarregada da manutenção do grande sistema militar da Ordem Negra, ocupa permanentemente esse nível de baixo status social. Guerreiros da Ordem: A maior parte dos guerreiros da Ordem Negra, com suas armaduras escuras e armas diversas, ocupa esse...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-grandes-31",
+      "name": "Grandes",
+      "category": "core_rule",
+      "pages": [
+        31
+      ],
+      "summary": "Grandes Conselheiros: Os indivíduos com mais de sessenta anos de idade formam esse grau, e devido à sua experiência discutem os rumos da vila da Montanha. No entanto, raramente dão ordens com relação às missões importantes da Irmandade, tendo pouco contato com os Filhos do Fogo. O Dragão: Daltalagar é o grande líder da Irmandade Draconiana. Dá ordens diretam...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-os-cavaleiros-edhrad-vestem-32",
+      "name": "Os Cavaleiros Edhrad vestem",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Os Cavaleiros Edhrad vestem armaduras de metal douradas finamente trabalhadas, com detalhes em vermelho. Utilizam-se de uma infinidade de tipos de armas, embora seja de conhecimento que seus líderes preferem as espadas. No passado, um Cavaleiro Edhrad que também era Rei de Argus, Arthus Ruberalthus I, brandiu Aegis, uma das maiores espadas da história do Cha...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-capital-e-lhae-simplesmente-decide-33",
+      "name": "capital é Lhae), simplesmente decide",
+      "category": "combat",
+      "pages": [
+        33
+      ],
+      "summary": "capital é Lhae), simplesmente decide ignorar sua atividade e dedicar-se a questões mais urgentes, dando a eles uma agradável liberdade de atuação. Gahalla é uma poderosa Maga Livre, que se destacou em anos passados como uma voz expressiva na Aliança de Lhae. Já Arden, décadas mais velho, é um grande feiticeiro com tendências pacifistas. Geralmente magos de o...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-candidatos-34",
+      "name": "candidatos",
+      "category": "combat",
+      "pages": [
+        [
+          34,
+          36
+        ]
+      ],
+      "summary": "candidatos à posição de Mestre Elemental. Os Eleitos são selecionados magicamente, de forma inconsciente. Se uma pessoa possui habilidade considerável em alguma arma existente nos Conjuntos, e ao mesmo tempo também tem uma mente forte e capaz de liderar, várias “coincidências” ocorrem em sua vida. Subitamente, ela entra em contato com pessoas que sabem da ex...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-nota-37",
+      "name": "Nota",
+      "category": "core_rule",
+      "pages": [
+        [
+          37,
+          39
+        ]
+      ],
+      "summary": "Nota dos autores: Informações detalhadas e regras envolvendo os Mestres Elementais serão encontradas em Ethilion, um suplemento gratuito para Luz e Sombra RPG, que estará disponível no site oficial do sistema. Faces do Chayriah Faces do Chayriah Na presente seção serão fornecidos dados sobre personalidades importantes do Chayriah, referentes ao Segundo Perío...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-convocado-por-kalisis-o-dragao-40",
+      "name": "Convocado por Kalisis, o Dragão",
+      "category": "power_magic",
+      "pages": [
+        40
+      ],
+      "summary": "Convocado por Kalisis, o Dragão Neutro veio ao Chayriah e fundou a Irmandade Draconiana, principal organização a serviço da doutrina do equilíbrio e manutenção da Contenda Eterna. Vive em uma câmara dentro da Montanha do Dragão, e ocasionalmente sobrevoa as terras ao seu redor. Daltalagar é um dragão gigantesco. Suas escamas índigo ostentam um brilho impress...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-ravenellos-41",
+      "name": "Ravenellos",
+      "category": "core_rule",
+      "pages": [
+        [
+          41,
+          43
+        ]
+      ],
+      "summary": "Ravenellos possui uma coloração vermelho-escura, e dimensões gigantescas, como a maioria dos dragões. É irritadiço, impaciente, egoísta e violento, um terrível adversário em combate, utilizando-se de suas garras, mordidas ou sua potente baforada de fogo. Aparentemente mais ativo no passado, Ravenellos permanece escondido em seu covil, tomando conta principal...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-completa-44",
+      "name": "completa",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "completa da Ordem da Luz. A armadura é prateada, com uma grande mão aberta em alto relevo no peitoral. Possui também um rica capa branca. É o maior Cavaleiro da Luz da atualidade, um valioso apoio no combate contra a Sombra. Gantara Gantara é figura conhecida em todos os feudos de Thurgad, seja por sua destreza com o arco ou por sua beleza traiçoeira. Criada...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-muita-acao-literalmente-nao-para-46",
+      "name": "muita ação. Literalmente não pára,",
+      "category": "combat",
+      "pages": [
+        46
+      ],
+      "summary": "muita ação. Literalmente não pára, tamanha a responsabilidade que traz em seus ombros, delegada por Kalisis e Daltalagar. Uma fera solta e irracional quando em combate, Ahad é uma verdadeira máquina de matar quando lhe é exigido adotar essa conduta. Pessoalmente, é uma pessoa dura, séria, sem amigos, que põe as metas da Irmandade à frente de suas necessidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-treinado-47",
+      "name": "Treinado",
+      "category": "core_rule",
+      "pages": [
+        47
+      ],
+      "summary": "Treinado para isso desde o nascimento, Iniram tornou-se o Mestre Elemental das Cinzas com vinte e sete anos, mantendo o Conjunto nas mãos da Ordem Negra, como vinha acontecendo há gerações. É um dos mais confiáveis servos de Sooth, ocupando o posto de Discípulo da Noite dentro da Ordem. Está no comando da Torre de Vigia, responsável por detectar possíveis in...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-uma-48",
+      "name": "Uma",
+      "category": "combat",
+      "pages": [
+        48
+      ],
+      "summary": "Uma curiosa maldição está presente no Conjunto Elemental do Vácuo. Todos aqueles que conquistam o direito de portá-lo, invariavelmente vão perdendo sua vida ao longo dos anos, até que são tomados por um espírito maligno presente nele, e se transformam numa entidade morta-viva, chamada Worak, cujo corpo é de carne putrefata, e cuja cabeça é um crânio humano c...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-mais-49",
+      "name": "mais",
+      "category": "combat",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "summary": "mais poderoso senhor feudal de Thurgad. É o dono de um castelo situado no interior de suas terras, que se estendem pela porção central do reino. A seu serviço, tem um exército de mercenários, e protege uma grande população camponesa, de quem cobra pesados tributos. Para sua diversão, organiza a cada cinco anos um torneio entre guerreiros de todas as partes d...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-rei-51",
+      "name": "Rei",
+      "category": "combat",
+      "pages": [
+        51
+      ],
+      "summary": "Rei de Vynevgard Osthoff, Wusuf governa desde seus dezesseis anos. Sua falecida rainha, Diagnis, morreu ao dar a luz pela segunda vez, à sua filha Árthemis, hoje Maga de Chayrethilion. Wusuf também é pai de Valyan, Mestre Elemental do Gelo e membro do Conselho Supremo de Chayrethilion. Atualmente o soberano já ultrapassa os sessenta anos, mas ainda ostenta f...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-sua-52",
+      "name": "sua",
+      "category": "attribute_skill",
+      "pages": [
+        52
+      ],
+      "summary": "sua origem é completamente desconhecida. Não se sabe se ele é partidário da Luz ou da Sombra. É um homem de poucas palavras, respeitadíssimo por seu poder. Atualmente vaga sem destino por todo o mundo, montado em seu cavalo. Certamente, o Mestre Elemental do Fogo é uma peça sem igual na Contenda Eterna, e quando for posta em jogo, definitivamente algo grandi...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-ptos-de-vida-53",
+      "name": "Ptos de Vida",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          53,
+          54
+        ]
+      ],
+      "summary": "Ptos de Vida 15 Bravura -1 Ptos de Magia 18 Equipamento Equipamento Armadura Armadura Cajado Cabeça 0 Dinheiro (43 pP) Tronco 0 Punhal Membros 0 Pena e tinta Poder 4 Execução 6 Rapidez de Execução 3 Lekaon é um Grande Mago da Sombra. Vive na Fortaleza, e ocasionalmente toma parte em missões fora do Território da Neblina. Veste uma túnica verde-escura. Ladrão...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-guerreiro-tergar-55",
+      "name": "Guerreiro Tergar",
+      "category": "attribute_skill",
+      "pages": [
+        55
+      ],
+      "summary": "Guerreiro Tergar Eskal Mercenário de Thorgadryth Atributos Atributos Valor Valor Habilidad Habilidades e Conhecimentos es e Conhecimentos Força 10 Mangual/atq 14 Agilidade 11 Luta s/ armas 14 Habilidade 13 Espada/atq 14 Inteligência 9 Lábia 11 Resistência 12 Esquiva 12 Ptos de Vida 18 Rastreamento 11 Bravura 0 Corrida 12 Ptos de Magia 8 Equipamento Equipamen...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-malakkias-e-um-tenente-da-56",
+      "name": "Malákkias é um Tenente da",
+      "category": "attribute_skill",
+      "pages": [
+        56
+      ],
+      "summary": "Malákkias é um Tenente da Ordem Negra, fazendo parte do grau dos Irmãos das Trevas. Chefia um grande número de soldados no Covil da Ordem Negra. Cavaleiro Vynev Halfus Guerreiro de Chayrethilion Atributos Atributos Valor Valor Habilidades e Conhecimentos Habilidades e Conhecimentos Força 14 Alabarda/atq 15 Agilidade 9 Alabarda/def 14 Habilidade 12 Teologia 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-equipamento-57",
+      "name": "Equipamento",
+      "category": "attribute_skill",
+      "pages": [
+        57
+      ],
+      "summary": "Equipamento Equipamento Armadura Armadura Espada bimanual Cabeça 4 Armadura de metal Tronco 7 Elmo Membros 7 Dinheiro (21 pP) Kelther é um Cavaleiro saído do treinamento há apenas dois anos. Vive em Entwan, usando uma armadura padronizada local. Preza pela segurança de algumas fazendas próximas à capital. Mago Vynev Wefaier Maga de Chayrethilion Atributos At...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-resistencia-58",
+      "name": "Resistência",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          58,
+          59
+        ]
+      ],
+      "summary": "Resistência 7 Literatura 13 Ptos de Vida 10 Bravura 0 Ptos de Magia 12 Equipamento Equipamento Armadura Armadura Túnica branca Cabeça 0 Pequeno grimório Tronco 0 Membros 0 Poder 1 Execução 2 Rapidez de Execução 1 Kim é aprendiz do grande mago Geldor em sua própria torre. Ainda está em estágio incipiente de seu aprendizado nas artes arcanas. Mestre Elemental...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-anos-60",
+      "name": "anos.",
+      "category": "core_rule",
+      "pages": [
+        60
+      ],
+      "summary": "anos. Baixa criminalidade, mas progresso bastante vagaroso. Cratera de Dallegar: localizada no noroeste de Thurgad, foi palco de uma batalha impressionante entre Irisis, a única maga Ghiar da história, e Kalakorxes, um Dragão da Sombra. Após esse confronto de titãs, as terras ao redor do confronto foram destruídas, e em seu lugar ficou uma cratera profunda....",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-prisma-reto-e-coloracao-acinzentada-61",
+      "name": "prisma reto e coloração acinzentada,",
+      "category": "core_rule",
+      "pages": [
+        [
+          61,
+          67
+        ]
+      ],
+      "summary": "prisma reto e coloração acinzentada, com algumas poucas janelas. Torre Perdida: construção imponente, dos tempos de Balthar, localizada nos limites setentrionais do Território da Neblina. Em épocas passadas, já foi a principal fortaleza da Ordem Negra. Com a derrota de Balthar, ficou em ruínas, e foi abandonada. Comenta-se que Gaharax, Dragão da Sombra, esta...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-uma-situacao-completamente-fora-do-68",
+      "name": "uma situação completamente fora do",
+      "category": "combat",
+      "pages": [
+        [
+          68,
+          70
+        ]
+      ],
+      "summary": "uma situação completamente fora do comum. Tê-la como inimigo ou aliado pode render intrigas muito interessantes. Descoberta da verdade: às vezes acontecem nas vidas dos indivíduos revelações bombásticas que dizem respeito a eles próprios e sua história. Essas descobertas podem alterar completamente o modo como se vêem e vêem aos outros, e trazem conflitos in...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-criando-o-71",
+      "name": "Criando o",
+      "category": "core_rule",
+      "pages": [
+        71
+      ],
+      "summary": "Criando o Personagem este capítulo você aprenderá a criar e dar vida a seu herói, seu personagem. O personagem será seu alter ego que interagirá no mundo fantástico do Chayriah. Nas páginas a seguir você receberá instruções e obterá valores numéricos que refletem o quão bom seu personagem é em variados campos. Você também determinará o nome, idade, tipo de p...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideravel-e-empunhe-uma-espada-72",
+      "name": "considerável e empunhe uma espada",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          72,
+          74
+        ]
+      ],
+      "summary": "considerável e empunhe uma espada bimanual de quatro quilos pareceria mais real se tivesse cerca de dois metros de altura e uns cem quilos. Da mesma forma um ladrão esguio não deveria ter muito mais de um metro e setenta centímetros de altura. Basicamente apenas tente ser lógico. Uma alternativa seria basear-se no atributo básico Força de seu personagem para...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-atributos-basicos-75",
+      "name": "Atributos Básicos",
+      "category": "core_rule",
+      "pages": [
+        [
+          75,
+          79
+        ]
+      ],
+      "summary": "Atributos Básicos Atributos Básicos A determinação das estátisticas (valores numéricos) que definem os pontos fortes e fracos de um personagem é estabelecida através de Pontos de Personagem. Ao criar um personagem iniciante você dispõe de 100 Pontos de Personagem que são gastos na “compra” dos valores de Atributos Básicos e das Habilidades e Conhecimentos. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-funcoes-devera-comprar-apenas-a-80",
+      "name": "funções deverá “comprar” apenas a",
+      "category": "attribute_skill",
+      "pages": [
+        80
+      ],
+      "summary": "funções deverá “comprar” apenas a desejada. Quanto aos valores considerados bons ou ruins para as Habilidades e Conhecimentos o que foi dito sobre os valores dos Atributos vale aqui também, e quanto à maneira com que são incluídos no jogo, tudo será explicado no capítulo destinado às regras. Segue agora uma descrição de todas as Habilidades e Conhecimentos d...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-alvos-pre-determinados-com-precisao-81",
+      "name": "alvos pré-determinados com precisão.",
+      "category": "core_rule",
+      "pages": [
+        81
+      ],
+      "summary": "alvos pré-determinados com precisão. Esses objetos podem incluir armas, porém a Habilidade deve ser especificada na hora da “compra” abrangendo somente arremessos com o tipo de arma especificado. Personagens que desejarem realizar uma ação que se enquadre como um Arremesso de arma e não possuírem esta Habilidade terão um redutor de -4 no Atributo respectivo....",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-astronomia-geografia-geologia-e-82",
+      "name": "Astronomia, Geografia, Geologia e",
+      "category": "combat",
+      "pages": [
+        [
+          82,
+          84
+        ]
+      ],
+      "summary": "Astronomia, Geografia, Geologia e assim por diante. Personagens que realizarem testes que impliquem a ciência em questão e não a possuírem terão um redutor de –4 nesses testes. Clava. Uma Habilidade baseada no valor de Habilidade geral do personagem, confere a este a possibilidade de atacar ou defender com uma clava, um porrete de madeira. Uma clava causa 1d...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-uma-lanca-como-instrumento-de-85",
+      "name": "uma lança como instrumento de",
+      "category": "combat",
+      "pages": [
+        [
+          85,
+          86
+        ]
+      ],
+      "summary": "uma lança como instrumento de combate e não possuírem essa habilidade serão submetidos a um redutor de –4 na Habilidade geral. Línguas. Este Conhecimento, baseado em Inteligência, consiste no estudo dos idiomas do Chayriah. Deve ser especificado, opções podem incluir a língua dos Vynev, o dialeto de Bondolak, inscrições mágicas, e assim por diante. O persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-inconscientes-e-morrerao-em-1d20-87",
+      "name": "inconscientes, e morrerão em 1d20",
+      "category": "combat",
+      "pages": [
+        87
+      ],
+      "summary": "inconscientes, e morrerão em 1d20 rodadas (o resultado de um dado de 20 faces corresponde ao número de rodadas), a menos que algum fator externo aja. Personagens sem a Habilidade Natação que desejarem nadar terão um redutor de –4 em sua Agilidade. Além disso, condições adversas podem implicar redutores, a critério do Mestre. Navegação. Este Conhecimento, bas...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-salto-esta-habilidade-baseada-88",
+      "name": "Salto. Esta Habilidade (baseada",
+      "category": "item_equipment",
+      "pages": [
+        [
+          88,
+          89
+        ]
+      ],
+      "summary": "Salto. Esta Habilidade (baseada na Agilidade do personagem) dá a seu detentor a capacidade de saltar tanto alto quanto longe. Útil para superar obstáculos como valas, cercas, e assim por diante. Personagens que porventura tentarem realizar saltos longos ou altos e não tiverem esta Habilidade terão um redutor de –2 em sua Agilidade. Sobrevivência. Este Conhec...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-couraca-armadura-formada-por-90",
+      "name": "*Couraça. Armadura formada por",
+      "category": "item_equipment",
+      "pages": [
+        90
+      ],
+      "summary": "*Couraça. Armadura formada por placas de couro costuradas entre si. Confere a quem a veste um Índice de Armadura de valor 2 ao tronco. Uma couraça pesa três unidades de Equipamento. *Cota de malha. Armadura de fios de metal entrelaçados, confere Índice de Armadura 4 ao tronco e membros. Uma cota pesa quatro unidades de Equipamento. *Armadura de placas de met...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-para-situacoes-de-emergencia-91",
+      "name": "Para situações de emergência,",
+      "category": "item_equipment",
+      "pages": [
+        [
+          91,
+          92
+        ]
+      ],
+      "summary": "Para situações de emergência, Dagann traz consigo dois dias de mantimentos (duas unidades). Como objetos pessoais, leva em uma bolsa de couro um cantil (uma unidade), umas quinze peças de ouro (meia unidade) e um medalhão de família que traz de Vynevgard (meia unidade). Por fim, concedemos a ele uma armadura de placas confeccionada em Carvynev, que ocupa 7 u...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-cavaleiros-dagann-foi-um-aluno-93",
+      "name": "cavaleiros, Dagann foi um aluno",
+      "category": "core_rule",
+      "pages": [
+        93
+      ],
+      "summary": "cavaleiros, Dagann foi um aluno destaque. Com vinte anos foi sagrado cavaleiro. Age principalmente nas missões diplomáticas do rei pelo Chayriah, atuando como parte da escolta, e no treinamento de novos cavaleiros para a corte de Wusuf. Dagann é um homem alto, forte, de feições decididas. Possui longos cabelos dourados, e barba espessa, mas bem cortada, da m...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-magia-94",
+      "name": "A Magia",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          94,
+          97
+        ]
+      ],
+      "summary": "A Magia sta seção está relacionada ao uso de feitiços e efeitos mágicos por parte dos personagens. Como já dissemos, a Magia é parte integrante do Chayriah, representada pela Luz e pela Sombra, que funcionam como uma espécie de junção entre os diversos elementos, moldando a realidade. Apesar de a grande maioria das pessoas possuir certa afinidade com a Magia...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-nao-98",
+      "name": "Não",
+      "category": "power_magic",
+      "pages": [
+        [
+          98,
+          100
+        ]
+      ],
+      "summary": "Não importa o valor da Execução, um resultado 0 no dado é sempre uma falha terrível, com conseqüências desastrosas, a cargo do Mestre, para os magos mais fracos, ou apenas falha, para magos com valor de Execução 7, 8 ou 9. Quando um mago realiza um feitiço, ele gasta um pouco da energia mística que traz dentro de si. São os pontos de magia. Cada feitiço exig...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-moldar-pequenas-porcoes-de-energia-101",
+      "name": "moldar pequenas porções de energia",
+      "category": "core_rule",
+      "pages": [
+        101
+      ],
+      "summary": "moldar pequenas porções de energia negra, que não são capazes de causar dano a uma pessoa. Custo: * 1 ponto de magia se o Poder do mago for menor que 6. * 0 pontos de magia se o Poder do mago for 6 ou mais. Notas: a duração do feitiço varia segundo a vontade do mago. O efeito é instantâneo. Ilusão Ilusão. Feitiço da Luz ou Sombra. O mago pode conjurar uma il...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-poder-iv-102",
+      "name": "Poder IV",
+      "category": "item_equipment",
+      "pages": [
+        102
+      ],
+      "summary": "Poder IV Poder IV Recompor Recompor. Feitiço da Luz. O mago é capaz de recompor a estrutura física de objetos ou matéria. Custo: * 1 ponto de magia para coisas simples. * custo variável para outras coisas, a cargo do Mestre. Notas: efeito instantâneo. Recuperar Recuperar. Feitiço da Luz. O mago pode recuperar a índole de uma pessoa má, tornando-a boa. Custo:...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-horror-103",
+      "name": "Horror",
+      "category": "combat",
+      "pages": [
+        [
+          103,
+          104
+        ]
+      ],
+      "summary": "Horror Horror. Feitiço da Sombra. Causa paralisia e horror na vítima, que se falhar num teste de Inteligência fica impossibilitada de tomar qualquer ação por algumas rodadas. Custo: * Metade da Inteligência da vítima em pontos de magia. Notas: para sua realização do feitiço o mago sofre redutor na sua Execução equivalente a Inteligência da vítima dividida po...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-fazer-o-dia-105",
+      "name": "Fazer o Dia",
+      "category": "core_rule",
+      "pages": [
+        [
+          105,
+          107
+        ]
+      ],
+      "summary": "Fazer o Dia Fazer o Dia. Feitiço da Luz. O mago consegue manipular as características do tempo de uma grande área, fazendo o amanhecer de um dia de sol na área em questão. Custo: * 2 pontos de magia se o céu estiver nublado inicialmente. * 4 pontos de magia se for noite. Notas: o efeito é instantâneo. Afastar Criaturas da Sombra Afastar Criaturas da Sombra....",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-ressureicao-108",
+      "name": "Ressureição",
+      "category": "core_rule",
+      "pages": [
+        108
+      ],
+      "summary": "Ressureição Ressureição. Feitiço da Luz. O mago consegue trazer uma pessoa de volta à vida, após morta. Custo: * quantidade de pontos de magia igual em valor ao total de pontos de vida da pessoa a ser ressuscitada. Notas: efeito instantâneo. Somente pessoas mortas há menos de um mês podem ser trazidas de volta à vida, e seus corpos devem estar razoavelmente...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-itens-magicos-109",
+      "name": "Itens Mágicos",
+      "category": "item_equipment",
+      "pages": [
+        109
+      ],
+      "summary": "Itens Mágicos Itens Mágicos Além dos feitiços, a Magia também pode estar expressa em objetos, artefatos mágicos que carregam consigo diferentes poderes. A maioria dos itens mágicos exige uma quantidade mínima de pontos de magia de seu portador para manifestar suas características sobrenaturais. Caso esse pré-requisito não seja atendido, o item se comportará...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-regras-do-110",
+      "name": "Regras do",
+      "category": "combat",
+      "pages": [
+        [
+          110,
+          113
+        ]
+      ],
+      "summary": "Regras do Jogo ara garantir o bom andamento do jogo, o Mestre e os jogadores devem se basear num conjunto de regras. Luz e Sombra possui regras simples, mas bastante adequadas, e com um bom nível de realismo. Teste de Valores Teste de Valores Para efetuar todos os valores de testes, com exceção dos testes de Magia, deve ser utilizado um dado de vinte faces (...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-personagens-114",
+      "name": "Personagens",
+      "category": "combat",
+      "pages": [
+        [
+          114,
+          115
+        ]
+      ],
+      "summary": "Personagens comumente recuperam 1 ponto de vida a cada duas horas, se os ferimentos não forem causados por fatores especiais, sejam eles quais forem. Um personagem que tenha ficado inconsciente em combate ou devido a qualquer tipo de dano poderá voltar à consciência naturalmente quando atingir 5 pontos de vida. Se um personagem for atingido na cabeça ou pesc...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-vamos-116",
+      "name": "Vamos",
+      "category": "combat",
+      "pages": [
+        [
+          116,
+          118
+        ]
+      ],
+      "summary": "Vamos ao combate. Como Kelther e Falken atacam subitamente, os guardas têm que testar suas Inteligências, para verificar se seus reflexos permitem ou não defesas. O primeiro guarda falha no teste, mas o segundo poderá defender o ataque. Kelther decide atacar a cabeça do primeiro guarda com sua alabarda. Obtendo 15 no dado, ele falha. Falken tenta derrubar o...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-saga-119",
+      "name": "Saga.",
+      "category": "core_rule",
+      "pages": [
+        119
+      ],
+      "summary": "Saga. Uma série de aventuras diretamente ligada a um grande objetivo. O desafio está sempre presente, e influenciando todas as decisões tomadas pelos personagens. Enfoque heróico. Regra de Ouro Regra de Ouro O Mestre tem todo direito de modificar o uso de qualquer regra, para garantir a diversão do jogo, bem como evitar excesso de poder por parte dos jogador...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-120",
+      "name": "Luz e Sombra",
+      "category": "core_rule",
+      "pages": [
+        [
+          120,
+          124
+        ]
+      ],
+      "summary": "Luz e Sombra Nome: Nome: Idade: Idade: Altura e Peso: Altura e Peso: Tipo e Origem: Tipo e Origem: Atributos Básicos Atributos Básicos Força: Força: Ajuste: Ajuste: Agilidade: Agilidade: Habilidade: Habilidade: Inteligência: Inteligência: Resistência: Resistência: Pontos de Vida: Pontos de Vida: Bravura: Bravura: Pontos de Magia Pontos de Magia Equipamento:...",
+      "entityRefs": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideracoes-125",
+      "name": "Considerações",
+      "category": "core_rule",
+      "pages": [
+        [
+          125,
+          126
+        ]
+      ],
+      "summary": "Considerações Finais Agradecimentos João Agradeço a meu irmão Luiz por ter me ajudado nesse projeto, sem ele isso aqui não “rolava”. Agradeço a Moema, meu amor, por ter suportado todas as sessões de jogo e “alabardas” e “bolas de rubi”. Também mando um abraço para todos aqueles que jogaram – e jogam – “Olhos de Fogo”, a campanha que eu fiz que acabou dando o...",
+      "entityRefs": []
+    }
+  ]
+}

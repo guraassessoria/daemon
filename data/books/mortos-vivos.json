@@ -1,0 +1,57 @@
+{
+  "source": "mortos-vivos",
+  "title": "Mortos Vivos",
+  "status": "full-read-auto-pass-1",
+  "pages": 58,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "character_option",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "mortos-vivos-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "mortos-vivos-mortos-vivos-2",
+      "name": "Mortos Vivos",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "Mortos Vivos 2ª edição",
+      "entityRefs": []
+    },
+    {
+      "id": "mortos-vivos-historia-da-necromancia-3",
+      "name": "História da Necromancia",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "História da Necromancia 4 Criação de Personagem 6 Ghouls 10 Esqueletos 12 Filhos de hecate 13 Aletchs 16 Gangrenos 18 Warkelets 20 Liches 22 Múmias 24 Lamets 26 Adruach 28 Necromantes 30 Necromancia 32 Aprimoramentos 34 Lychware 36 Poderes Mortuários 40 Fraquezas 53 Mortos Vivos Índice Criação: Rodrigo “Lammazuz” Vaz Linn Co-Criação: Alex Pina, Hatalíbio Alm...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortos-vivos-introducao-4",
+      "name": "Introdução",
+      "category": "creature_npc",
+      "pages": [
+        [
+          4,
+          58
+        ]
+      ],
+      "summary": "Introdução Olá, caro RPGista. Este é um pequeno suplemento para o RPG Arkanun. Mas desta vez, os personagens encararão um novo desafio. Não, nada de demônios ou templário. Muito pelo contrário. Agora, eles terão de enfrentar as criaturas mais comuns dos folclores e mitologias de todo o mundo: os mortosvivos. Você não achava que mortos-vivos eram apenas defun...",
+      "entityRefs": []
+    }
+  ]
+}

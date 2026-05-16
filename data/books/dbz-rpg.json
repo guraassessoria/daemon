@@ -1,0 +1,225 @@
+{
+  "source": "dbz-rpg",
+  "title": "DBZ_RPG",
+  "status": "full-read-auto-pass-1",
+  "pages": 32,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "dbz-rpg-marcelo-de-matos-o-guaxinim-1",
+      "name": "Marcelo de Matos, O Guaxinim.",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Marcelo de Matos, O Guaxinim. 2a Edição",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-editorial-2",
+      "name": "Editorial",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-a-historia-de-dragon-ball-3",
+      "name": "A Historia de Dragon Ball",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "A Historia de Dragon Ball Conta uma lenda chinesa que, espalhados pelo mundo, en- contram-se sete artefatos mágicos conhecidos como as esferas do dragão. Aquele que conseguir reunir as sete esferas terá o direito de invocar Shen Long, o deus dragão, e dele exigir a rea- lização de um desejo, qualquer que seja. Foi inspirado nessa lenda e em outra origem indi...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-passo-3-atributos-7",
+      "name": "Passo 3: Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        7
+      ],
+      "summary": "Passo 3: Atributos Como estamos trabalhando com DBZ, os Personagens pos- suirão 150 pontos para distribuir em seus oito Atributos. Os Atributos devem ser distribuídos de acordo com a sua concepção do Personagem. Como você imagina que ele é? For- te como um touro, ou magro e franzino? Inteligente? Um perito em acrobacias? Os Atributos servem para colocar suas...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-atributos-fisicos-8",
+      "name": "Atributos Físicos",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Atributos Físicos Constituição (CON) Determina o vigor, saúde e condição física do Personagem. De modo geral, um Personagem com baixo valor em Constitui- ção é franzino e feio, enquanto um valor alto garante uma boa aparência ou um aspecto de brutamontes, você decide. Isso não significa necessariamente que o Personagem seja forte ou fra- co; isso é determina...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-carisma-car-9",
+      "name": "Carisma (CAR)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Carisma (CAR) Determina o charme do Personagem, sua capacidade de fa- zer com que outras pessoas gostem dele. Um alto valor em Carisma não quer dizer que ele seja bonito ou coisa assim, ape- nas simpático: uma modelo profissional que tenha alta Consti- tuição e baixo Carisma seria uma chata insuportável; um baixi- nho feio e mirrado, mas simpático, poderia r...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-engenharia-0-11",
+      "name": "Engenharia (0)*",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Engenharia (0)* Alguns subgrupos possíveis: Aeronáutica, Alimentos, Ci- vil, Computação, Demolições, Elétrica, Eletrônica, Materiais, Mecânica, Mecatrônica, Naval e Química. Escutar (PER) Esquiva (AGI) Esportes* Outros subgrupos possíveis: Acrobacia (AGI), Alpinismo (AGI), Arremesso (DEX), Artes Marciais (AGI), Basquete (DEX), Boxe (AGI), Caça (PER), Canoage...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-guardiao-de-artefato-13",
+      "name": "Guardião de Artefato",
+      "category": "attribute_skill",
+      "pages": [
+        13
+      ],
+      "summary": "Guardião de Artefato 3 pontos: como o próprio nome indica, o Personagem foi designado como guardião de um item de grande valor. Às ve- zes, este Aprimoramento pode ser menos vantajoso e mais da- ninho: objetos poderosos atraem a atenção de seres podero- sos. Cabe ao Mestre escolher qual artefato seu Personagem possui e as razões dele estar com esse Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-sabio-14",
+      "name": "Sábio",
+      "category": "core_rule",
+      "pages": [
+        14
+      ],
+      "summary": "Sábio 1 ponto: existe uma Perícia (exceto Perícias de combate) na qual seu Personagem conhece absolutamente tudo o que existe a respeito. Considere que ele tenha 90% nessa Perícia, além de experiência, contatos e conhecimentos relacionados a essa área. Cada Personagem pode escolher este Aprimoramento so- mente UMA vez e no máximo dois Personagens de cada gru...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-regras-15",
+      "name": "Regras",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          18
+        ]
+      ],
+      "summary": "Regras Por mais cautelosos que os Personagens sejam, por maio- res os cuidados que eles tenham, em algum momento da Aven- tura eles serão obrigados a enfrentar algo ou alguém (espera ai... isso é DBZ os jogadores sempre vão enfrentar alguém!!!!). Para isso, é necessário definir com bastante cuidado as re- gras para Combates e Testes. As regras são simples, p...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-ataques-fora-de-alcance-19",
+      "name": "Ataques Fora de Alcance",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Ataques Fora de Alcance São Ataques que sempre erram o alvo. No caso de flechas, elas caem no chão antes de chegar ao alvo. No caso de balas, elas passam pelo inimigo, mas a distância é tão grande que não há precisão suficiente no Ataque para acertar o alvo. Há um fator importante nisso. O fato de um Ataque estar fora de alcance não significa que o inimigo s...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-posicao-desvantajosa-20",
+      "name": "Posição Desvantajosa",
+      "category": "combat",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "summary": "Posição Desvantajosa Acontece com alguma freqüência de um dos combatentes estar em posição desvantajosa no combate. Ele pode estar sen- tado em uma mesa quando é surpreendido pelo inimigo ou pode ter caído no chão. Existem uma infinidade de situações que po- dem ser consideras desvantajosas. Nestes casos, o Mestre deve aplicar uma penalidade tanto no valor d...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-divisao-de-corpo-23",
+      "name": "Divisão de Corpo",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "Divisão de Corpo Apenas Namekuseijins podem desenvolver. Custo: 10 Pontos por nível Nível Máximo: 10 Descrição: Você consegue dividir seu corpo em X+1 vezes, (sendo X o nível desta técnica), cada um com 1/X do poder ori- ginal. Esta técnica tem suas vantagens, com a divisão você fi- cará com múltiplas copias idênticas de seu corpo, que terão to- das técnicas...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-espada-ki-24",
+      "name": "Espada Ki",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          24,
+          26
+        ]
+      ],
+      "summary": "Espada Ki Custo: 1 Ponto por nível Nível Máximo: 3 Descrição: Com esta técnica você pode criar uma espada de sua mão com até 1m de comprimento por nível, esta espada fun- cionará como uma extensão da mão, causando dano à distância Sono Custo: 2 Pontos por nível Nível Máximo: 30 Descrição: O oponente precisa passar em um teste de Will vs. o Nível do Poder x1d...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-torre-karin-27",
+      "name": "Torre Karin",
+      "category": "item_equipment",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Torre Karin No topo da torre Karin mora nada mais nada menos que o Mestre Karin. Para chegar até lá é preciso ir à terra sagrada de Karin (que é protegida por uma tribo de índios guerreiros) e escalar a torre com suas próprias forças. Goku demorou quase um dia inteiro para escalar esta torre! Uma vez lá em cima, você pode conseguir com ele as Senzu (Sementes...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-exemplos-de-npcs-29",
+      "name": "Exemplos de NPCs",
+      "category": "power_magic",
+      "pages": [
+        29
+      ],
+      "summary": "Exemplos de NPCs Bactéria FR 15, CON 18, DEX 10, AGI 12 INT 5, WILL 10, PER 10, CAR 1 PVs 20, PH 10, Ki 1 Att. [1] Artes Marcias 30/30 Dano 1d3, IP 1d3 Poderes: Não toma banho des- de que nasceu. Qualquer um perto dele deve fazer um teste de CON vs. 3D ou todos os ataques serão fei- tos com metade do Valor contra ele. Nam FR 20, CON 17, DEX 17, AGI 12 INT 15...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-dr-kotchin-30",
+      "name": "Dr. Kotchin",
+      "category": "combat",
+      "pages": [
+        30
+      ],
+      "summary": "Dr. Kotchin FR 10, CON 20, DEX 13, AGI 15 INT 25, WILL 26, PER 20, CAR 12 PVs 20, PH 52, Ki 0 Att. [1] Briga 30/30 Dano 1d3+2, IP 1d6 Poderes: Dr. Kotchin não pos- sui poderes de luta, mas conta com uma infinidade de andróides, máquinas e ciborgues para utilizar para seus propósitos. Seu princi- pal objetivo é trazer de volta à vida seu colega dr. Willow, in...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-as-esferas-do-dragao-31",
+      "name": "As Esferas do Dragão",
+      "category": "race_lineage",
+      "pages": [
+        31
+      ],
+      "summary": "As Esferas do Dragão Na Terra existem sete esferas chamadas de Esferas do Dra- gão. Elas são de cristal translúcido e cada uma destas sete con- tém de uma a sete estrelas vermelhas dentro de si. Quando qualquer pessoa consegue reunir estas sete esfe- ras em um local e conjurar as palavras mágicas, um gigantesco dragão chamado Shen-Long aparece e concede ao d...",
+      "entityRefs": []
+    },
+    {
+      "id": "dbz-rpg-atributos-32",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        32
+      ],
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
+      "entityRefs": []
+    }
+  ]
+}

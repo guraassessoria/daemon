@@ -1,0 +1,53 @@
+{
+  "source": "desentsu",
+  "title": "desentsu",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 30,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "attribute_skill",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "desentsu-desentsu-senshi-1-1",
+      "name": "Desentsu Senshi (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "Desentsu Senshi Desentsu Senshi - Guerreiros do Oriente Autor: Victor”Ramuel”Martins Desentsu Senshi Introdução A editora Daemon lançou o livro Anime RPG (na época que escrevi esse netbook ele acaba de ser lançado e por motivos pessoas não pude lança-lo,sendo assim achei que deveria lançar agora q voltei a jogar Daemon), lá podem ser encontradas regras para...",
+      "entityRefs": []
+    },
+    {
+      "id": "desentsu-desentsu-senshi-1-2",
+      "name": "Desentsu Senshi (11-20)",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "Desentsu Senshi Capitulo 3: As Habilidades “... na dissimulação do combate, um chefe que é capaz deve fingir ser incapaz; se está pronto, deve fingir-se despreparado; se estiver perto do inimigo deve parecer estar longe......” Sun Tzu Para que se encaixem na regra de uma maneira mais fácil, as perícias marciais seram divididas em 6 tipos: soco, chute, queda,...",
+      "entityRefs": []
+    },
+    {
+      "id": "desentsu-desentsu-senshi-1-3",
+      "name": "Desentsu Senshi (21-30)",
+      "category": "core_rule",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "Desentsu Senshi 1 ponto –Aumento de cadencia : ROF +1 1 ponto_ Aumento de pente :mais 5 balas no pente 2 Pontos – Dano aprimorado :+1 no dano 1 ponto – Arma sagrada :+1 no dano contra um tipo de criatura 1 ponto – Alcance aprimorado :mais 10m na distancia 1ponto-Mira laser: +5% na perícia da Arma de fogo (só pode ser comprada uma vez por arma). 2 pontos-Sagr...",
+      "entityRefs": []
+    }
+  ]
+}

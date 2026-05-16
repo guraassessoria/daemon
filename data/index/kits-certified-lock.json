@@ -1,0 +1,1793 @@
+{
+  "version": 1,
+  "area": "kits",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_kit_claims_do_not_enter_kits": true
+  },
+  "certifiedCount": 178,
+  "rejectedCount": 144,
+  "records": [
+    {
+      "id": "kit-alastores-a-justica-infernal-auxiliares",
+      "source": "alastores-a-justica-infernal",
+      "name": "Auxiliares",
+      "nameKey": "auxiliares",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:auxiliares"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-alastor",
+      "source": "alastores-a-justica-infernal",
+      "name": "Alastor",
+      "nameKey": "alastor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:alastor"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-alastor-majora",
+      "source": "alastores-a-justica-infernal",
+      "name": "Alastor Majora",
+      "nameKey": "alastor-majora",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:alastor-majora"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-cainitas",
+      "source": "alastores-a-justica-infernal",
+      "name": "Cainitas",
+      "nameKey": "cainitas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:cainitas"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-legionario",
+      "source": "alastores-a-justica-infernal",
+      "name": "Legionário",
+      "nameKey": "legionario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:legionario"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-centuriao",
+      "source": "alastores-a-justica-infernal",
+      "name": "Centurião",
+      "nameKey": "centuriao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:centuriao"
+    },
+    {
+      "id": "kit-alastores-a-justica-infernal-milicianos-de-ferro",
+      "source": "alastores-a-justica-infernal",
+      "name": "Milicianos de Ferro",
+      "nameKey": "milicianos-de-ferro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:alastores-a-justica-infernal:milicianos-de-ferro"
+    },
+    {
+      "id": "kit-canislux-agradeco-especialmente-ao-danilo",
+      "source": "canislux",
+      "name": "Agradeço especialmente ao Danilo",
+      "nameKey": "agradeco-especialmente-ao-danilo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:canislux:agradeco-especialmente-ao-danilo"
+    },
+    {
+      "id": "kit-clube-de-caca-guia-do-jogador-exorcizado",
+      "source": "clube-de-caca-guia-do-jogador",
+      "name": "Exorcizado",
+      "nameKey": "exorcizado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:clube-de-caca-guia-do-jogador:exorcizado"
+    },
+    {
+      "id": "kit-daemon-medieval-feiticeiro",
+      "source": "daemon-medieval",
+      "name": "Feiticeiro",
+      "nameKey": "feiticeiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-medieval:feiticeiro"
+    },
+    {
+      "id": "kit-daemon-medieval-mago",
+      "source": "daemon-medieval",
+      "name": "Mago",
+      "nameKey": "mago",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-medieval:mago"
+    },
+    {
+      "id": "kit-elf-cacador",
+      "source": "elf",
+      "name": "Caçador",
+      "nameKey": "cacador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:elf:cacador"
+    },
+    {
+      "id": "kit-elf-shaman",
+      "source": "elf",
+      "name": "Shaman",
+      "nameKey": "shaman",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:elf:shaman"
+    },
+    {
+      "id": "kit-elf-guerreiro",
+      "source": "elf",
+      "name": "Guerreiro",
+      "nameKey": "guerreiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:elf:guerreiro"
+    },
+    {
+      "id": "kit-elf-bardo",
+      "source": "elf",
+      "name": "Bardo",
+      "nameKey": "bardo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:elf:bardo"
+    },
+    {
+      "id": "kit-elf-clerigo",
+      "source": "elf",
+      "name": "Clérigo",
+      "nameKey": "clerigo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:elf:clerigo"
+    },
+    {
+      "id": "kit-etruscos-exorcista-de-roma",
+      "source": "etruscos",
+      "name": "Exorcista de Roma",
+      "nameKey": "exorcista-de-roma",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:etruscos:exorcista-de-roma"
+    },
+    {
+      "id": "kit-etruscos-cavaleiro-de-santo-estevao-medieval",
+      "source": "etruscos",
+      "name": "Cavaleiro de Santo Estevão Medieval",
+      "nameKey": "cavaleiro-de-santo-estevao-medieval",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:etruscos:cavaleiro-de-santo-estevao-medieval"
+    },
+    {
+      "id": "kit-etruscos-cavaleiro-de-santo-estevao-moderno",
+      "source": "etruscos",
+      "name": "Cavaleiro de Santo Estevão Moderno",
+      "nameKey": "cavaleiro-de-santo-estevao-moderno",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:etruscos:cavaleiro-de-santo-estevao-moderno"
+    },
+    {
+      "id": "kit-etruscos-capanga",
+      "source": "etruscos",
+      "name": "Capanga",
+      "nameKey": "capanga",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:etruscos:capanga"
+    },
+    {
+      "id": "kit-etruscos-capo-crimine",
+      "source": "etruscos",
+      "name": "Capo Crimine",
+      "nameKey": "capo-crimine",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:etruscos:capo-crimine"
+    },
+    {
+      "id": "kit-gaki-artista-kabuki",
+      "source": "gaki",
+      "name": "Artista Kabuki",
+      "nameKey": "artista-kabuki",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:artista-kabuki"
+    },
+    {
+      "id": "kit-gaki-empresario",
+      "source": "gaki",
+      "name": "Empresário",
+      "nameKey": "empresario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:empresario"
+    },
+    {
+      "id": "kit-gaki-golpista",
+      "source": "gaki",
+      "name": "Golpista",
+      "nameKey": "golpista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:golpista"
+    },
+    {
+      "id": "kit-gaki-jogador",
+      "source": "gaki",
+      "name": "Jogador",
+      "nameKey": "jogador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:jogador"
+    },
+    {
+      "id": "kit-gaki-playboy",
+      "source": "gaki",
+      "name": "Playboy",
+      "nameKey": "playboy",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:playboy"
+    },
+    {
+      "id": "kit-gaki-politico",
+      "source": "gaki",
+      "name": "Político",
+      "nameKey": "politico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:politico"
+    },
+    {
+      "id": "kit-gaki-yakuza",
+      "source": "gaki",
+      "name": "Yakuza",
+      "nameKey": "yakuza",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gaki:yakuza"
+    },
+    {
+      "id": "kit-guerreiros-orientais-monge",
+      "source": "guerreiros-orientais",
+      "name": "Monge",
+      "nameKey": "monge",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guerreiros-orientais:monge"
+    },
+    {
+      "id": "kit-guerreiros-orientais-ninja",
+      "source": "guerreiros-orientais",
+      "name": "Ninja",
+      "nameKey": "ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guerreiros-orientais:ninja"
+    },
+    {
+      "id": "kit-guerreiros-orientais-kunoichi",
+      "source": "guerreiros-orientais",
+      "name": "Kunoichi",
+      "nameKey": "kunoichi",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guerreiros-orientais:kunoichi"
+    },
+    {
+      "id": "kit-guerreiros-orientais-esposa-de-samurai",
+      "source": "guerreiros-orientais",
+      "name": "Esposa de Samurai",
+      "nameKey": "esposa-de-samurai",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guerreiros-orientais:esposa-de-samurai"
+    },
+    {
+      "id": "kit-guerreiros-orientais-samurai",
+      "source": "guerreiros-orientais",
+      "name": "Samurai",
+      "nameKey": "samurai",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guerreiros-orientais:samurai"
+    },
+    {
+      "id": "kit-guia-dos-dragoes-1-biblioteca-elfica-cacador-de-dragoes",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "name": "CAÇADOR DE DRAGÕES",
+      "nameKey": "cacador-de-dragoes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dos-dragoes-1-biblioteca-elfica:cacador-de-dragoes"
+    },
+    {
+      "id": "kit-guia-dos-dragoes-1-biblioteca-elfica-cavaleiro-de-bestas",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "name": "CAVALEIRO DE BESTAS",
+      "nameKey": "cavaleiro-de-bestas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dos-dragoes-1-biblioteca-elfica:cavaleiro-de-bestas"
+    },
+    {
+      "id": "kit-guia-dos-dragoes-1-biblioteca-elfica-mago-draconico",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "name": "MAGO DRACÔNICO",
+      "nameKey": "mago-draconico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dos-dragoes-1-biblioteca-elfica:mago-draconico"
+    },
+    {
+      "id": "kit-guia-dragoes-vol-ii-cultista-sanguinario",
+      "source": "guia-dragoes-vol-ii",
+      "name": "CULTISTA SANGUINÁRIO",
+      "nameKey": "cultista-sanguinario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dragoes-vol-ii:cultista-sanguinario"
+    },
+    {
+      "id": "kit-guia-dragoes-vol-ii-dragao-sanguinario",
+      "source": "guia-dragoes-vol-ii",
+      "name": "DRAGÃO SANGUINÁRIO",
+      "nameKey": "dragao-sanguinario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dragoes-vol-ii:dragao-sanguinario"
+    },
+    {
+      "id": "kit-guia-dragoes-vol-ii-feiticeiro",
+      "source": "guia-dragoes-vol-ii",
+      "name": "FEITICEIRO",
+      "nameKey": "feiticeiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:guia-dragoes-vol-ii:feiticeiro"
+    },
+    {
+      "id": "kit-imortal-advogado",
+      "source": "imortal",
+      "name": "ADVOGADO",
+      "nameKey": "advogado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:advogado"
+    },
+    {
+      "id": "kit-imortal-antiquario",
+      "source": "imortal",
+      "name": "ANTIQUÁRIO",
+      "nameKey": "antiquario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:antiquario"
+    },
+    {
+      "id": "kit-imortal-lutador-de-judo",
+      "source": "imortal",
+      "name": "LUTADOR DE JUDÓ",
+      "nameKey": "lutador-de-judo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:lutador-de-judo"
+    },
+    {
+      "id": "kit-imortal-lutador-de-box",
+      "source": "imortal",
+      "name": "LUTADOR DE BOX",
+      "nameKey": "lutador-de-box",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:lutador-de-box"
+    },
+    {
+      "id": "kit-imortal-lutador-de-taekwondo",
+      "source": "imortal",
+      "name": "LUTADOR DE TAEKWONDO",
+      "nameKey": "lutador-de-taekwondo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:lutador-de-taekwondo"
+    },
+    {
+      "id": "kit-imortal-lutador-de-kung-fu",
+      "source": "imortal",
+      "name": "LUTADOR DE KUNG FU",
+      "nameKey": "lutador-de-kung-fu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:lutador-de-kung-fu"
+    },
+    {
+      "id": "kit-imortal-lutador-de-karate",
+      "source": "imortal",
+      "name": "LUTADOR DE KARATE",
+      "nameKey": "lutador-de-karate",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:lutador-de-karate"
+    },
+    {
+      "id": "kit-imortal-samural",
+      "source": "imortal",
+      "name": "SAMURAl",
+      "nameKey": "samural",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:samural"
+    },
+    {
+      "id": "kit-imortal-religiosos",
+      "source": "imortal",
+      "name": "RELIGIOSOS",
+      "nameKey": "religiosos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:religiosos"
+    },
+    {
+      "id": "kit-imortal-shaolin",
+      "source": "imortal",
+      "name": "SHAOLIN",
+      "nameKey": "shaolin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:imortal:shaolin"
+    },
+    {
+      "id": "kit-kits-advogado",
+      "source": "kits",
+      "name": "Advogado",
+      "nameKey": "advogado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:advogado"
+    },
+    {
+      "id": "kit-kits-agente-federal",
+      "source": "kits",
+      "name": "Agente Federal",
+      "nameKey": "agente-federal",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:agente-federal"
+    },
+    {
+      "id": "kit-kits-indiana",
+      "source": "kits",
+      "name": "Indiana",
+      "nameKey": "indiana",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:indiana"
+    },
+    {
+      "id": "kit-kits-artista",
+      "source": "kits",
+      "name": "Artista",
+      "nameKey": "artista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:artista"
+    },
+    {
+      "id": "kit-kits-artista-marcial",
+      "source": "kits",
+      "name": "Artista Marcial",
+      "nameKey": "artista-marcial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:artista-marcial"
+    },
+    {
+      "id": "kit-kits-cientista",
+      "source": "kits",
+      "name": "Cientista",
+      "nameKey": "cientista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:cientista"
+    },
+    {
+      "id": "kit-kits-colecionador",
+      "source": "kits",
+      "name": "Colecionador",
+      "nameKey": "colecionador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:colecionador"
+    },
+    {
+      "id": "kit-kits-detetive-particular",
+      "source": "kits",
+      "name": "Detetive Particular",
+      "nameKey": "detetive-particular",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:detetive-particular"
+    },
+    {
+      "id": "kit-kits-engenheiro",
+      "source": "kits",
+      "name": "Engenheiro",
+      "nameKey": "engenheiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:engenheiro"
+    },
+    {
+      "id": "kit-kits-espioes",
+      "source": "kits",
+      "name": "Espiões",
+      "nameKey": "espioes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:espioes"
+    },
+    {
+      "id": "kit-kits-explorador",
+      "source": "kits",
+      "name": "Explorador",
+      "nameKey": "explorador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:explorador"
+    },
+    {
+      "id": "kit-kits-hackers",
+      "source": "kits",
+      "name": "Hackers",
+      "nameKey": "hackers",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:hackers"
+    },
+    {
+      "id": "kit-kits-jornalista",
+      "source": "kits",
+      "name": "Jornalista",
+      "nameKey": "jornalista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:jornalista"
+    },
+    {
+      "id": "kit-kits-ladrao",
+      "source": "kits",
+      "name": "Ladrão",
+      "nameKey": "ladrao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:ladrao"
+    },
+    {
+      "id": "kit-kits-medico",
+      "source": "kits",
+      "name": "Médico",
+      "nameKey": "medico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:medico"
+    },
+    {
+      "id": "kit-kits-mercenario",
+      "source": "kits",
+      "name": "Mercenário",
+      "nameKey": "mercenario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:mercenario"
+    },
+    {
+      "id": "kit-kits-prostituta",
+      "source": "kits",
+      "name": "Prostituta",
+      "nameKey": "prostituta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:prostituta"
+    },
+    {
+      "id": "kit-kits-soldado",
+      "source": "kits",
+      "name": "Soldado",
+      "nameKey": "soldado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits:soldado"
+    },
+    {
+      "id": "kit-kits-militares-arma-pesada",
+      "source": "kits-militares",
+      "name": "Arma Pesada",
+      "nameKey": "arma-pesada",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-militares:arma-pesada"
+    },
+    {
+      "id": "kit-kits-militares-bazuqueiro",
+      "source": "kits-militares",
+      "name": "Bazuqueiro",
+      "nameKey": "bazuqueiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-militares:bazuqueiro"
+    },
+    {
+      "id": "kit-kits-militares-cabeca-de-ponte",
+      "source": "kits-militares",
+      "name": "Cabeça-de-Ponte",
+      "nameKey": "cabeca-de-ponte",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-militares:cabeca-de-ponte"
+    },
+    {
+      "id": "kit-kits-militares-radio-alerta",
+      "source": "kits-militares",
+      "name": "Rádio Alerta",
+      "nameKey": "radio-alerta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-militares:radio-alerta"
+    },
+    {
+      "id": "kit-kits-militares-raio-laser",
+      "source": "kits-militares",
+      "name": "Raio Laser",
+      "nameKey": "raio-laser",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-militares:raio-laser"
+    },
+    {
+      "id": "kit-kitsat-advogado",
+      "source": "kitsat",
+      "name": "Advogado",
+      "nameKey": "advogado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:advogado"
+    },
+    {
+      "id": "kit-kitsat-amazona",
+      "source": "kitsat",
+      "name": "Amazona",
+      "nameKey": "amazona",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:amazona"
+    },
+    {
+      "id": "kit-kitsat-barbaro",
+      "source": "kitsat",
+      "name": "Bárbaro",
+      "nameKey": "barbaro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:barbaro"
+    },
+    {
+      "id": "kit-kitsat-shaman-barbaro",
+      "source": "kitsat",
+      "name": "Shaman Bárbaro",
+      "nameKey": "shaman-barbaro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:shaman-barbaro"
+    },
+    {
+      "id": "kit-kitsat-bibliotecario",
+      "source": "kitsat",
+      "name": "Bibliotecário",
+      "nameKey": "bibliotecario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:bibliotecario"
+    },
+    {
+      "id": "kit-kitsat-cientista-do-oculto",
+      "source": "kitsat",
+      "name": "Cientista do Oculto",
+      "nameKey": "cientista-do-oculto",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:cientista-do-oculto"
+    },
+    {
+      "id": "kit-kitsat-cigano",
+      "source": "kitsat",
+      "name": "Cigano",
+      "nameKey": "cigano",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:cigano"
+    },
+    {
+      "id": "kit-kitsat-atirador-de-facas",
+      "source": "kitsat",
+      "name": "Atirador de Facas",
+      "nameKey": "atirador-de-facas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:atirador-de-facas"
+    },
+    {
+      "id": "kit-kitsat-domador-de-feras",
+      "source": "kitsat",
+      "name": "Domador de Feras",
+      "nameKey": "domador-de-feras",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:domador-de-feras"
+    },
+    {
+      "id": "kit-kitsat-ator",
+      "source": "kitsat",
+      "name": "Ator",
+      "nameKey": "ator",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:ator"
+    },
+    {
+      "id": "kit-kitsat-malabarista-e-acrobata",
+      "source": "kitsat",
+      "name": "Malabarista e Acrobata",
+      "nameKey": "malabarista-e-acrobata",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:malabarista-e-acrobata"
+    },
+    {
+      "id": "kit-kitsat-palhaco",
+      "source": "kitsat",
+      "name": "Palhaço",
+      "nameKey": "palhaco",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:palhaco"
+    },
+    {
+      "id": "kit-kitsat-demonologista",
+      "source": "kitsat",
+      "name": "Demonologista",
+      "nameKey": "demonologista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:demonologista"
+    },
+    {
+      "id": "kit-kitsat-explorador",
+      "source": "kitsat",
+      "name": "Explorador",
+      "nameKey": "explorador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:explorador"
+    },
+    {
+      "id": "kit-kitsat-gladiador",
+      "source": "kitsat",
+      "name": "Gladiador",
+      "nameKey": "gladiador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:gladiador"
+    },
+    {
+      "id": "kit-kitsat-medico",
+      "source": "kitsat",
+      "name": "Médico",
+      "nameKey": "medico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:medico"
+    },
+    {
+      "id": "kit-kitsat-monge",
+      "source": "kitsat",
+      "name": "Monge",
+      "nameKey": "monge",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:monge"
+    },
+    {
+      "id": "kit-kitsat-shaolin",
+      "source": "kitsat",
+      "name": "Shaolin",
+      "nameKey": "shaolin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:shaolin"
+    },
+    {
+      "id": "kit-kitsat-necromante",
+      "source": "kitsat",
+      "name": "Necromante",
+      "nameKey": "necromante",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:necromante"
+    },
+    {
+      "id": "kit-kitsat-pirata",
+      "source": "kitsat",
+      "name": "Pirata",
+      "nameKey": "pirata",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:pirata"
+    },
+    {
+      "id": "kit-kitsat-profeta",
+      "source": "kitsat",
+      "name": "Profeta",
+      "nameKey": "profeta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:profeta"
+    },
+    {
+      "id": "kit-kitsat-samurai",
+      "source": "kitsat",
+      "name": "Samurai",
+      "nameKey": "samurai",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:samurai"
+    },
+    {
+      "id": "kit-kitsat-satanista",
+      "source": "kitsat",
+      "name": "Satanista",
+      "nameKey": "satanista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:satanista"
+    },
+    {
+      "id": "kit-kitsat-padre-negro",
+      "source": "kitsat",
+      "name": "Padre Negro",
+      "nameKey": "padre-negro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:padre-negro"
+    },
+    {
+      "id": "kit-kitsat-taverneiro",
+      "source": "kitsat",
+      "name": "Taverneiro",
+      "nameKey": "taverneiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:taverneiro"
+    },
+    {
+      "id": "kit-kitsat-apostador",
+      "source": "kitsat",
+      "name": "Apostador",
+      "nameKey": "apostador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:apostador"
+    },
+    {
+      "id": "kit-kitsat-artista-multimidia",
+      "source": "kitsat",
+      "name": "Artista Multimídia",
+      "nameKey": "artista-multimidia",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:artista-multimidia"
+    },
+    {
+      "id": "kit-kitsat-capanga-da-mafia-italiana",
+      "source": "kitsat",
+      "name": "Capanga da Máfia Italiana",
+      "nameKey": "capanga-da-mafia-italiana",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:capanga-da-mafia-italiana"
+    },
+    {
+      "id": "kit-kitsat-capanga-da-yakusa",
+      "source": "kitsat",
+      "name": "Capanga da Yakusa",
+      "nameKey": "capanga-da-yakusa",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:capanga-da-yakusa"
+    },
+    {
+      "id": "kit-kitsat-cientista",
+      "source": "kitsat",
+      "name": "Cientista",
+      "nameKey": "cientista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:cientista"
+    },
+    {
+      "id": "kit-kitsat-detetive",
+      "source": "kitsat",
+      "name": "Detetive",
+      "nameKey": "detetive",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:detetive"
+    },
+    {
+      "id": "kit-kitsat-escritor",
+      "source": "kitsat",
+      "name": "Escritor",
+      "nameKey": "escritor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:escritor"
+    },
+    {
+      "id": "kit-kitsat-estudante",
+      "source": "kitsat",
+      "name": "Estudante",
+      "nameKey": "estudante",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:estudante"
+    },
+    {
+      "id": "kit-kitsat-gamer",
+      "source": "kitsat",
+      "name": "Gamer",
+      "nameKey": "gamer",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:gamer"
+    },
+    {
+      "id": "kit-kitsat-hacker",
+      "source": "kitsat",
+      "name": "Hacker",
+      "nameKey": "hacker",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:hacker"
+    },
+    {
+      "id": "kit-kitsat-hippie-artesao",
+      "source": "kitsat",
+      "name": "Hippie Artesão",
+      "nameKey": "hippie-artesao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:hippie-artesao"
+    },
+    {
+      "id": "kit-kitsat-militar",
+      "source": "kitsat",
+      "name": "Militar",
+      "nameKey": "militar",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:militar"
+    },
+    {
+      "id": "kit-kitsat-musico",
+      "source": "kitsat",
+      "name": "Músico",
+      "nameKey": "musico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:musico"
+    },
+    {
+      "id": "kit-kitsat-ninja",
+      "source": "kitsat",
+      "name": "Ninja",
+      "nameKey": "ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:ninja"
+    },
+    {
+      "id": "kit-kitsat-playboy",
+      "source": "kitsat",
+      "name": "Playboy",
+      "nameKey": "playboy",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:playboy"
+    },
+    {
+      "id": "kit-kitsat-policial",
+      "source": "kitsat",
+      "name": "Policial",
+      "nameKey": "policial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:policial"
+    },
+    {
+      "id": "kit-kitsat-politico",
+      "source": "kitsat",
+      "name": "Político",
+      "nameKey": "politico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:politico"
+    },
+    {
+      "id": "kit-kitsat-prostituta",
+      "source": "kitsat",
+      "name": "Prostituta",
+      "nameKey": "prostituta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:prostituta"
+    },
+    {
+      "id": "kit-kitsat-rpgista",
+      "source": "kitsat",
+      "name": "RPGista",
+      "nameKey": "rpgista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:rpgista"
+    },
+    {
+      "id": "kit-kitsat-teologo",
+      "source": "kitsat",
+      "name": "Teólogo",
+      "nameKey": "teologo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:teologo"
+    },
+    {
+      "id": "kit-kitsat-traficante",
+      "source": "kitsat",
+      "name": "Traficante",
+      "nameKey": "traficante",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:traficante"
+    },
+    {
+      "id": "kit-kitsat-padre",
+      "source": "kitsat",
+      "name": "Padre",
+      "nameKey": "padre",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:padre"
+    },
+    {
+      "id": "kit-kitsat-exercito-forca-da-acao-rapida",
+      "source": "kitsat",
+      "name": "Exército – Força da Ação Rápida",
+      "nameKey": "exercito-forca-da-acao-rapida",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:exercito-forca-da-acao-rapida"
+    },
+    {
+      "id": "kit-kitsat-comando-de-operacoes-taticas-cot",
+      "source": "kitsat",
+      "name": "Comando de Operações Táticas (COT)",
+      "nameKey": "comando-de-operacoes-taticas-cot",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:comando-de-operacoes-taticas-cot"
+    },
+    {
+      "id": "kit-kitsat-centro-de-inteligencia-ci",
+      "source": "kitsat",
+      "name": "Centro de Inteligência (CI)",
+      "nameKey": "centro-de-inteligencia-ci",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:centro-de-inteligencia-ci"
+    },
+    {
+      "id": "kit-kitsat-coordenacao-de-informatica-coinf",
+      "source": "kitsat",
+      "name": "Coordenação de Informática (COINF)",
+      "nameKey": "coordenacao-de-informatica-coinf",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:coordenacao-de-informatica-coinf"
+    },
+    {
+      "id": "kit-kitsat-seguranca-da-comunicacoes-cepesc",
+      "source": "kitsat",
+      "name": "Segurança da Comunicações (CEPESC)",
+      "nameKey": "seguranca-da-comunicacoes-cepesc",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:seguranca-da-comunicacoes-cepesc"
+    },
+    {
+      "id": "kit-kitsat-subsecretaria-de-analise-e-avaliacao-saa",
+      "source": "kitsat",
+      "name": "Subsecretaria de Análise e Avaliação (SAA)",
+      "nameKey": "subsecretaria-de-analise-e-avaliacao-saa",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsat:subsecretaria-de-analise-e-avaliacao-saa"
+    },
+    {
+      "id": "kit-kitsdaemon-anjo-da-guarda",
+      "source": "kitsdaemon",
+      "name": "Anjo da Guarda",
+      "nameKey": "anjo-da-guarda",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsdaemon:anjo-da-guarda"
+    },
+    {
+      "id": "kit-kitsdaemon-martir",
+      "source": "kitsdaemon",
+      "name": "Mártir",
+      "nameKey": "martir",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsdaemon:martir"
+    },
+    {
+      "id": "kit-kitsdaemon-demonio-do-fogo",
+      "source": "kitsdaemon",
+      "name": "Demônio do Fogo",
+      "nameKey": "demonio-do-fogo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsdaemon:demonio-do-fogo"
+    },
+    {
+      "id": "kit-kitsdaemon-fugitivo-do-inferno",
+      "source": "kitsdaemon",
+      "name": "Fugitivo do Inferno",
+      "nameKey": "fugitivo-do-inferno",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsdaemon:fugitivo-do-inferno"
+    },
+    {
+      "id": "kit-kitsdaemon-torturador",
+      "source": "kitsdaemon",
+      "name": "Torturador",
+      "nameKey": "torturador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kitsdaemon:torturador"
+    },
+    {
+      "id": "kit-livrodomal-feiticeiro-da-peste",
+      "source": "livrodomal",
+      "name": "Feiticeiro da Peste",
+      "nameKey": "feiticeiro-da-peste",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:feiticeiro-da-peste"
+    },
+    {
+      "id": "kit-livrodomal-cacador-de-mortais",
+      "source": "livrodomal",
+      "name": "Caçador de Mortais",
+      "nameKey": "cacador-de-mortais",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:cacador-de-mortais"
+    },
+    {
+      "id": "kit-livrodomal-devorador-de-almas",
+      "source": "livrodomal",
+      "name": "Devorador de Almas",
+      "nameKey": "devorador-de-almas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:devorador-de-almas"
+    },
+    {
+      "id": "kit-livrodomal-senhor-dos-vermes",
+      "source": "livrodomal",
+      "name": "Senhor dos Vermes",
+      "nameKey": "senhor-dos-vermes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:senhor-dos-vermes"
+    },
+    {
+      "id": "kit-livrodomal-vingador",
+      "source": "livrodomal",
+      "name": "Vingador",
+      "nameKey": "vingador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:vingador"
+    },
+    {
+      "id": "kit-livrodomal-torturador",
+      "source": "livrodomal",
+      "name": "Torturador",
+      "nameKey": "torturador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:livrodomal:torturador"
+    },
+    {
+      "id": "kit-magia-negra-bruxo",
+      "source": "magia-negra",
+      "name": "Bruxo",
+      "nameKey": "bruxo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:magia-negra:bruxo"
+    },
+    {
+      "id": "kit-magia-negra-feiticeiro",
+      "source": "magia-negra",
+      "name": "Feiticeiro",
+      "nameKey": "feiticeiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:magia-negra:feiticeiro"
+    },
+    {
+      "id": "kit-magia-negra-membro-da-thule",
+      "source": "magia-negra",
+      "name": "Membro da Thule",
+      "nameKey": "membro-da-thule",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:magia-negra:membro-da-thule"
+    },
+    {
+      "id": "kit-magia-negra-neonazista",
+      "source": "magia-negra",
+      "name": "Neonazista",
+      "nameKey": "neonazista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:magia-negra:neonazista"
+    },
+    {
+      "id": "kit-magia-negra-magos-das-sombras",
+      "source": "magia-negra",
+      "name": "Magos das Sombras",
+      "nameKey": "magos-das-sombras",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:magia-negra:magos-das-sombras"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-adeptos-da-virtualidade",
+      "source": "mago-sistema-daemon",
+      "name": "Adeptos da Virtualidade",
+      "nameKey": "adeptos-da-virtualidade",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:adeptos-da-virtualidade"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-coro-celestial",
+      "source": "mago-sistema-daemon",
+      "name": "Coro Celestial",
+      "nameKey": "coro-celestial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:coro-celestial"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-culto-do-extase",
+      "source": "mago-sistema-daemon",
+      "name": "Culto do Êxtase",
+      "nameKey": "culto-do-extase",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:culto-do-extase"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-eutanatos",
+      "source": "mago-sistema-daemon",
+      "name": "Eutanatos",
+      "nameKey": "eutanatos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:eutanatos"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-filhos-do-eter",
+      "source": "mago-sistema-daemon",
+      "name": "Filhos do Éter",
+      "nameKey": "filhos-do-eter",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:filhos-do-eter"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-irmandade-de-akasha",
+      "source": "mago-sistema-daemon",
+      "name": "Irmandade de Akasha",
+      "nameKey": "irmandade-de-akasha",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:irmandade-de-akasha"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-oradores-dos-sonhos",
+      "source": "mago-sistema-daemon",
+      "name": "Oradores dos Sonhos",
+      "nameKey": "oradores-dos-sonhos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:oradores-dos-sonhos"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-ordem-de-hermes",
+      "source": "mago-sistema-daemon",
+      "name": "Ordem de Hermes",
+      "nameKey": "ordem-de-hermes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:ordem-de-hermes"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-vazios",
+      "source": "mago-sistema-daemon",
+      "name": "Vazios",
+      "nameKey": "vazios",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:vazios"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-verbena",
+      "source": "mago-sistema-daemon",
+      "name": "Verbena",
+      "nameKey": "verbena",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:verbena"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-engenheiros-do-vacuo",
+      "source": "mago-sistema-daemon",
+      "name": "Engenheiros do Vácuo",
+      "nameKey": "engenheiros-do-vacuo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:engenheiros-do-vacuo"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-iteracao-x",
+      "source": "mago-sistema-daemon",
+      "name": "Iteração X",
+      "nameKey": "iteracao-x",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:iteracao-x"
+    },
+    {
+      "id": "kit-mago-sistema-daemon-nefandi",
+      "source": "mago-sistema-daemon",
+      "name": "Nefandi",
+      "nameKey": "nefandi",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mago-sistema-daemon:nefandi"
+    },
+    {
+      "id": "kit-mortal-kombat-kombatente",
+      "source": "mortal-kombat",
+      "name": "Kombatente",
+      "nameKey": "kombatente",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mortal-kombat:kombatente"
+    },
+    {
+      "id": "kit-mortal-kombat-ninja",
+      "source": "mortal-kombat",
+      "name": "Ninja",
+      "nameKey": "ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:mortal-kombat:ninja"
+    },
+    {
+      "id": "kit-ray-guerreiros",
+      "source": "ray",
+      "name": "Guerreiros",
+      "nameKey": "guerreiros",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:ray:guerreiros"
+    },
+    {
+      "id": "kit-ray-magos",
+      "source": "ray",
+      "name": "Magos",
+      "nameKey": "magos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:ray:magos"
+    },
+    {
+      "id": "kit-ray-cavaleiros",
+      "source": "ray",
+      "name": "Cavaleiros",
+      "nameKey": "cavaleiros",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:ray:cavaleiros"
+    },
+    {
+      "id": "kit-rocknrt-roqueiro",
+      "source": "rocknrt",
+      "name": "Roqueiro",
+      "nameKey": "roqueiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:roqueiro"
+    },
+    {
+      "id": "kit-rocknrt-metaleiro",
+      "source": "rocknrt",
+      "name": "Metaleiro",
+      "nameKey": "metaleiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:metaleiro"
+    },
+    {
+      "id": "kit-rocknrt-punk",
+      "source": "rocknrt",
+      "name": "PUNK",
+      "nameKey": "punk",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:punk"
+    },
+    {
+      "id": "kit-rocknrt-skin-head",
+      "source": "rocknrt",
+      "name": "Skin Head",
+      "nameKey": "skin-head",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:skin-head"
+    },
+    {
+      "id": "kit-rocknrt-hell-angel",
+      "source": "rocknrt",
+      "name": "Hell Angel",
+      "nameKey": "hell-angel",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:hell-angel"
+    },
+    {
+      "id": "kit-rocknrt-musico-famoso",
+      "source": "rocknrt",
+      "name": "Musico famoso",
+      "nameKey": "musico-famoso",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:musico-famoso"
+    },
+    {
+      "id": "kit-rocknrt-rock-star",
+      "source": "rocknrt",
+      "name": "Rock Star",
+      "nameKey": "rock-star",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:rocknrt:rock-star"
+    },
+    {
+      "id": "kit-steampunk-maquina-de-combate",
+      "source": "steampunk",
+      "name": "MÁQUINA DE COMBATE",
+      "nameKey": "maquina-de-combate",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:steampunk:maquina-de-combate"
+    },
+    {
+      "id": "kit-steampunk-pistoleiro",
+      "source": "steampunk",
+      "name": "PISTOLEIRO",
+      "nameKey": "pistoleiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:steampunk:pistoleiro"
+    },
+    {
+      "id": "kit-steampunk-engenhoqueiro",
+      "source": "steampunk",
+      "name": "ENGENHOQUEIRO",
+      "nameKey": "engenhoqueiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:steampunk:engenhoqueiro"
+    },
+    {
+      "id": "kit-steampunk-alquimista-quimico",
+      "source": "steampunk",
+      "name": "ALQUIMISTA/QUÍMICO",
+      "nameKey": "alquimista-quimico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:steampunk:alquimista-quimico"
+    },
+    {
+      "id": "kit-trevas-de-marte-piloto-de-tripod",
+      "source": "trevas-de-marte",
+      "name": "Piloto de Tripod",
+      "nameKey": "piloto-de-tripod",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:trevas-de-marte:piloto-de-tripod"
+    },
+    {
+      "id": "kit-trevas-de-marte-koboldjager",
+      "source": "trevas-de-marte",
+      "name": "Koboldjager",
+      "nameKey": "koboldjager",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:trevas-de-marte:koboldjager"
+    },
+    {
+      "id": "kit-trevas-de-marte-investigador-de-homenzinhos-verdes-moderno",
+      "source": "trevas-de-marte",
+      "name": "Investigador de Homenzinhos Verdes Moderno",
+      "nameKey": "investigador-de-homenzinhos-verdes-moderno",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:trevas-de-marte:investigador-de-homenzinhos-verdes-moderno"
+    },
+    {
+      "id": "kit-vaticano-agente-de-campo-da-umbra-domini",
+      "source": "vaticano",
+      "name": "Agente de Campo da Umbra Domini",
+      "nameKey": "agente-de-campo-da-umbra-domini",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vaticano:agente-de-campo-da-umbra-domini"
+    },
+    {
+      "id": "kit-vaticano-cyber-templario",
+      "source": "vaticano",
+      "name": "Cyber-Templário",
+      "nameKey": "cyber-templario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vaticano:cyber-templario"
+    },
+    {
+      "id": "kit-vaticano-inquisidor",
+      "source": "vaticano",
+      "name": "Inquisidor",
+      "nameKey": "inquisidor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vaticano:inquisidor"
+    },
+    {
+      "id": "kit-vaticano-cacador-de-demonios-do-vaticano",
+      "source": "vaticano",
+      "name": "Caçador de Demônios do Vaticano",
+      "nameKey": "cacador-de-demonios-do-vaticano",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vaticano:cacador-de-demonios-do-vaticano"
+    },
+    {
+      "id": "kit-vaticano-exorcista",
+      "source": "vaticano",
+      "name": "Exorcista",
+      "nameKey": "exorcista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vaticano:exorcista"
+    }
+  ]
+}

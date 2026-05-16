@@ -1,0 +1,37 @@
+{
+  "source": "judaismo",
+  "title": "Judaismo",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "setting_lore",
+    "combat",
+    "creature_npc",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "judaismo-judaismo-1",
+      "name": "Judaísmo",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Judaísmo Por Antônio Augusto Shaftiel O texto a seguir é apenas uma síntese da história e dos costumes do judaísmo. Não é, de forma alguma, uma referência completa aos costumes de um povo ou um guia religioso. Aqui se segue uma adaptação para o RPG, principalmente para Trevas e Arkanun, para que se possam usar personagens judeus com um pouco mais de fidelida...",
+      "entityRefs": []
+    },
+    {
+      "id": "judaismo-antonio-augusto-shaftiel-orifiel-hotmail-com-2",
+      "name": "Antônio Augusto Shaftiel (orifiel@hotmail.com)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "summary": "Antônio Augusto Shaftiel (orifiel@hotmail.com) Autor de Entre Anjos e Demônios, Assassino de Almas e Busca por Sangue Introdução O nome judaísmo vem do chamado reino de Judá, antigo reino do Oriente Médio e, durante muito tempo, foi usada para designar os habitantes deste reino. Com o passar os séculos, o termo passou a abranger os seguidores derivados da re...",
+      "entityRefs": []
+    }
+  ]
+}

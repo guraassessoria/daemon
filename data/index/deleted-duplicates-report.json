@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "deletedAt": "2026-05-16T15:19:20",
+  "duplicatesDeleted": 12,
+  "sourceCountBefore": 289,
+  "sourceCountAfter": 277,
+  "entitiesRemoved": 12,
+  "records": [
+    {
+      "duplicate": "gmonark",
+      "canonical": "guia-de-monstros-de-arkanum",
+      "reason": "duplicate same extracted text; clearer canonical slug",
+      "deletedPaths": [
+        "Livros/gmonark.pdf",
+        "data/text/gmonark.txt",
+        "data/books/gmonark.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "grimorio-compressed",
+      "canonical": "grimorio",
+      "reason": "compressed duplicate variant",
+      "deletedPaths": [
+        "Livros/Grimorio_compressed.pdf",
+        "data/text/grimorio-compressed.txt",
+        "data/books/grimorio-compressed.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "guia-de-itens-magicos-compressed",
+      "canonical": "guia-de-itens-magicos",
+      "reason": "compressed duplicate variant",
+      "deletedPaths": [
+        "Livros/Guia de Itens Mágicos_compressed.pdf",
+        "data/text/guia-de-itens-magicos-compressed.txt",
+        "data/books/guia-de-itens-magicos-compressed.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "guiadragoes",
+      "canonical": "guia-dos-dragoes-1-biblioteca-elfica",
+      "reason": "duplicate same extracted text or exact file",
+      "deletedPaths": [
+        "Livros/guiadragoes.pdf",
+        "data/text/guiadragoes.txt",
+        "data/books/guiadragoes.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "inquisicao",
+      "canonical": "inquisicao-biblioteca-elfica",
+      "reason": "duplicate same extracted text or exact file",
+      "deletedPaths": [
+        "Livros/Inquisição.pdf",
+        "data/text/inquisicao.txt",
+        "data/books/inquisicao.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "monstros-e-viloes",
+      "canonical": "anime-rpg-supers-monstros-e-viloes",
+      "reason": "duplicate same extracted text",
+      "deletedPaths": [
+        "Livros/Monstros e Vilões.pdf",
+        "data/text/monstros-e-viloes.txt",
+        "data/books/monstros-e-viloes.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "nordica",
+      "canonical": "mitologia-nordica",
+      "reason": "duplicate same extracted text; clearer canonical slug",
+      "deletedPaths": [
+        "Livros/nordica.pdf",
+        "data/text/nordica.txt",
+        "data/books/nordica.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "neokosmos-biblioteca-elfica-compressed",
+      "canonical": "neokosmos-biblioteca-elfica",
+      "reason": "compressed duplicate same extracted text",
+      "deletedPaths": [
+        "Livros/Neokosmos-biblioteca-elfica_compressed.pdf",
+        "data/text/neokosmos-biblioteca-elfica-compressed.txt",
+        "data/books/neokosmos-biblioteca-elfica-compressed.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "religioes01",
+      "canonical": "mitraismo",
+      "reason": "duplicate same extracted text; clearer canonical slug",
+      "deletedPaths": [
+        "Livros/religioes01.pdf",
+        "data/text/religioes01.txt",
+        "data/books/religioes01.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "sistema-daemon-modulo-basico-expandido-e-modificado",
+      "canonical": "modulo-basico-expandido-e-modificado",
+      "reason": "duplicate same extracted text",
+      "deletedPaths": [
+        "Livros/Sistema-Daemon-Modulo-Basico-Expandido-e-Modificado.pdf",
+        "data/text/sistema-daemon-modulo-basico-expandido-e-modificado.txt",
+        "data/books/sistema-daemon-modulo-basico-expandido-e-modificado.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "supers-monstros-e-viloes-biblioteca-elfica",
+      "canonical": "anime-rpg-supers-monstros-e-viloes",
+      "reason": "duplicate same extracted text",
+      "deletedPaths": [
+        "Livros/Supers-monstros-e-viloes-biblioteca-elfica.pdf",
+        "data/text/supers-monstros-e-viloes-biblioteca-elfica.txt",
+        "data/books/supers-monstros-e-viloes-biblioteca-elfica.json"
+      ],
+      "missingPaths": []
+    },
+    {
+      "duplicate": "templarios",
+      "canonical": "templarios-biblioteca-elfica",
+      "reason": "duplicate same extracted text",
+      "deletedPaths": [
+        "Livros/Templários.pdf",
+        "data/text/templarios.txt",
+        "data/books/templarios.json"
+      ],
+      "missingPaths": []
+    }
+  ]
+}

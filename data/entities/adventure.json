@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-assassina",
+    "name": "A Assassina",
+    "category": "adventure",
+    "source": "a-assassina",
+    "page": 2,
+    "entries": [
+      "Aventura investigativa centrada em assassinatos seriados e na identificacao da responsavel.",
+      "Contem locais importantes, cenas de crime, vitimas, bilhetes, calendario de eventos, possibilidades de final e recompensas de experiencia."
+    ],
+    "tags": ["investigacao", "terror", "urbano", "serial-killer"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "despertar",
+    "name": "Fase 1: Despertar",
+    "category": "adventure",
+    "source": "abismo-infinito-quick-start",
+    "page": 38,
+    "entries": [
+      "Primeira fase de uma historia de Abismo Infinito.",
+      "Foco em terror, curiosidade, investigacao, instabilidade psicologica e percepcao ainda limitada das manifestacoes."
+    ],
+    "tags": ["estrutura-de-historia", "horror-espacial"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "pesadelo",
+    "name": "Fase 2: Pesadelo",
+    "category": "adventure",
+    "source": "abismo-infinito-quick-start",
+    "page": 38,
+    "entries": [
+      "Segunda fase de uma historia de Abismo Infinito.",
+      "Foco em horror explicito, caos, ataques das manifestacoes e ruptura da realidade."
+    ],
+    "tags": ["estrutura-de-historia", "horror-espacial", "sonho"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "redencao",
+    "name": "Fase 3: Redencao",
+    "category": "adventure",
+    "source": "abismo-infinito-quick-start",
+    "page": 39,
+    "entries": [
+      "Terceira fase de uma historia de Abismo Infinito.",
+      "Foco em confrontar medos pessoais por provacoes de coragem ate alcancar redencao pessoal."
+    ],
+    "tags": ["estrutura-de-historia", "horror-espacial", "redencao"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  }
+]

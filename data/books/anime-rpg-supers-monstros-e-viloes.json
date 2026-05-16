@@ -1,0 +1,113 @@
+{
+  "source": "anime-rpg-supers-monstros-e-viloes",
+  "title": "Anime RPG - Supers - Monstros e Viloes",
+  "status": "full-read-pass-1",
+  "pages": 55,
+  "primaryCategories": ["creature_npc", "source"],
+  "parts": [
+    {
+      "id": "monstros-viloes-front-matter",
+      "name": "Capa, creditos e abertura",
+      "category": "source",
+      "pages": [[1, 4]],
+      "summary": "Capa, creditos de criacao, edicao, realizacao, ilustracao, agradecimentos e paginas iniciais.",
+      "entityRefs": []
+    },
+    {
+      "id": "monstros-viloes-introducao",
+      "name": "Introducao",
+      "category": "source",
+      "pages": [[5, 6]],
+      "summary": "Introduz Monstros e Viloes como suplemento nao oficial para desafiar herois em campanhas de Daemon SUPERS.",
+      "entityRefs": ["monstros-e-viloes-supers"]
+    },
+    {
+      "id": "monstros-viloes-humanos",
+      "name": "Humanos e arquetipos urbanos",
+      "category": "creature_npc",
+      "pages": [[7, 18]],
+      "summary": "Fichas de humanos e NPCs urbanos para SUPERS, como agente federal, agente secreto, assaltante, assassino, bombeiro, capanga, cientista, civil, contrabandista, crianca, cultista, detetive, hacker, investigador, jornalista, ladrao, lutadores, mago, membro de gangue, mercenario, mordomo, necromante, ninja, policial, politico, seguranca e terrorista.",
+      "entityRefs": ["humanos-supers", "agente-federal", "agente-secreto", "assaltante", "assassino", "cientista-maluco", "cultista-supers", "ninja-supers", "terrorista-supers"]
+    },
+    {
+      "id": "monstros-viloes-animals-front",
+      "name": "Abertura de animais",
+      "category": "source",
+      "pages": [19],
+      "summary": "Pagina de transicao para a secao de animais e criaturas naturais.",
+      "entityRefs": []
+    },
+    {
+      "id": "monstros-viloes-animais",
+      "name": "Animais",
+      "category": "creature_npc",
+      "pages": [[20, 30]],
+      "summary": "Fichas de animais e animais gigantes, incluindo aranha, aranha gigante, baleia, cachorro, carcaju, cavalo, cobras, crocodilos, elefante, escorpio, gato, gorila, javali, leao, leopardo, lobo, morcego, rato, rinoceronte, sapo gigante, tigre, tubarao e urso.",
+      "entityRefs": ["animais-supers", "aranha-gigante", "cobra-venenosa", "crocodilo-marinho", "gorila-gigante", "tubarao", "urso"]
+    },
+    {
+      "id": "monstros-viloes-dinosaurs-front",
+      "name": "Abertura de dinossauros",
+      "category": "source",
+      "pages": [31],
+      "summary": "Pagina de transicao para a secao de dinossauros.",
+      "entityRefs": []
+    },
+    {
+      "id": "monstros-viloes-dinossauros",
+      "name": "Dinossauros",
+      "category": "creature_npc",
+      "pages": [[32, 35]],
+      "summary": "Fichas de dinossauros, incluindo braquiossauro, composognato, dinonico, ictiossauro, pteranodon, terizinossauro, tiranossauro-rex, triceratops e velociraptor.",
+      "entityRefs": ["dinossauros-supers", "tiranossauro-rex", "velociraptor"]
+    },
+    {
+      "id": "monstros-viloes-fantasy-front",
+      "name": "Abertura de criaturas fantasticas",
+      "category": "source",
+      "pages": [36],
+      "summary": "Pagina de transicao para criaturas fantasticas e sobrenaturais.",
+      "entityRefs": []
+    },
+    {
+      "id": "monstros-viloes-criaturas-fantasticas",
+      "name": "Criaturas fantasticas e sobrenaturais",
+      "category": "creature_npc",
+      "pages": [[37, 47]],
+      "summary": "Fichas de criaturas fantasticas, como arvore animada, chacal guardiao, dragao, elementais, esqueleto, estatua viva, gargula, gigante, golem, homem-escorpio, homem-lagarto, homem-morcego, homem-sapo, homem-serpente, kraken, lobisomem, mumia, serpente marinha, vampiro e zumbi.",
+      "entityRefs": ["criaturas-fantasticas-supers", "dragao-supers", "elementais-supers", "golem-supers", "kraken", "vampiro-supers", "zumbi-supers"]
+    },
+    {
+      "id": "monstros-viloes-demons-front",
+      "name": "Abertura de demonios",
+      "category": "source",
+      "pages": [48],
+      "summary": "Pagina de transicao para a secao de demonios.",
+      "entityRefs": []
+    },
+    {
+      "id": "monstros-viloes-demonios",
+      "name": "Demonios",
+      "category": "creature_npc",
+      "pages": [[49, 51]],
+      "summary": "Arquétipos genericos de demonios para campanhas SUPERS, incluindo demonio general, guerreiro, imp e succubus.",
+      "entityRefs": ["demonios-supers", "demonio-general", "demonio-guerreiro", "demonio-imp", "demonio-succubus"]
+    },
+    {
+      "id": "monstros-viloes-robos",
+      "name": "Robos",
+      "category": "creature_npc",
+      "pages": [[52, 53]],
+      "summary": "Regras e fichas para robos, androides, ciborgues e implantes roboticos, com robo auxiliar e robo de combate.",
+      "entityRefs": ["robos-supers", "robo-auxiliar", "robo-de-combate"]
+    },
+    {
+      "id": "monstros-viloes-indice-e-propaganda",
+      "name": "Indice e pagina final",
+      "category": "source",
+      "pages": [[54, 55]],
+      "summary": "Indice de criaturas/NPCs e pagina final promocional da OPERA Cultural.",
+      "entityRefs": []
+    }
+  ]
+}

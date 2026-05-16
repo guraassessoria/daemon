@@ -1,0 +1,87 @@
+{
+  "source": "aprimoramentos-2",
+  "title": "Aprimoramentos 2",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "combat",
+    "attribute_skill",
+    "core_rule",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "aprimoramentos-2-aprimoramentos-2-0-1",
+      "name": "APRIMORAMENTOS 2.0",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "APRIMORAMENTOS 2.0 Olá de novo! Venho mais uma vez apresentar mais uma lista de Aprimoramentos, mas desta vez atualizados e muitos novos, presentes em recentes livros da Daemon. A intenção é “colorir” um pouco o SISTEMA, que por ser o mesmo de Trevas, muitos acham que não pode ser usado para aventuras de qualquer tipo. Espero que gostem. Qualquer dúvida, crí...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-acerto-critico-aprimorado-2",
+      "name": "ACERTO CRÍTICO APRIMORADO",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "ACERTO CRÍTICO APRIMORADO 1 PONTO:Toda vez que o personagem consiga um acerto crítico, ele causa, além do dano dobrado, um dano de +1d6 pontos. Mas deve ser especificado com qual arma o personagem poderá usufruir deste bônus. 2 PONTOS:O mesmo que o acima mas o bônus é de +2d6. 3 PONTOS:O mesmo que acima, mas o bônus é de +3d6. ACROBÁTICO 1 PONTO:O personagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-cacador-de-criaturas-3",
+      "name": "CAÇADOR DE CRIATURAS",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "CAÇADOR DE CRIATURAS 1 PONTO:Quando o jogador escolhe este Aprimoramento, seu personagem possui a “missão” de caçar e exterminar algum tipo de criatura específica (vampiros, licantropos, demônios, etc) por um motivo qualquer (vingança, ódio, dinheiro, um juramento). O personagem passará a vida toda atrás deste objetivo e sempre se aliará a outros caçadores....",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-genialidade-5",
+      "name": "GENIALIDADE",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "GENIALIDADE 3 PONTOS: Algumas pessoas nascem com uma inteligência privilegiada, e são capazes de entender assuntos com o qual tenham tido contato por livros, experiência ou mesmo observando e analisando alguns eventos. Todos os testes de INT considerados difíceis (perícias baseadas em INT também são beneficiadas) devem ser tratados como testes normais. Os te...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-prontidao-6",
+      "name": "PRONTIDÃO",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "PRONTIDÃO 2 PONTOS: O personagem está sempre atento ao menor sinal de perigo. Ele ganha +5 em iniciativas e nunca recebe nenhuma penalidade quando for atacado pelas costas e/ou sofrer ataques surpresa. SINCRONIA 1 PONTO: O personagem adquiriu um árduo treinamento em grupo. Quando ele entra em combate junto com um ou mais colegas (personagens que devem obriga...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-tiro-preciso-7",
+      "name": "TIRO PRECISO",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "TIRO PRECISO RESTRIÇÃO: O personagem deve possuir o Aprimoramento Tiro Certeiro 1 PONTO: O personagem pode atirar ou arremessar uma arma num oponente engajado em combate corpo-a-corpo sem receber a penalidade na sua jogada de ataque. SORTE EXAGERADA 3 PONTOS: Seu personagem é MUITO sortudo...O mestre deve ignorar jogada de dados em quedas, explosões acrobaci...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-2-pontos-de-magia-extras-8",
+      "name": "PONTOS DE MAGIA EXTRAS",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "PONTOS DE MAGIA EXTRAS 1 PONTO: Este ponto de aprimoramento extra permite que o personagem ganhe um ponto de magia extra, por nível. POTENCIALIZAR MAGIA 2 PONTOS: Todos os efeitos da Magia são aumentados em 50% (como dano, alcance e duração). Testes de Resistência não são afetados, e o custo da Magia também aumenta em 50% arredondado para cima (se antes o cu...",
+      "entityRefs": []
+    }
+  ]
+}

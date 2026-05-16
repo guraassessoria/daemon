@@ -1,0 +1,131 @@
+{
+  "source": "sistema-daemon-3-0",
+  "title": "Sistema-Daemon-3-0",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 82,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-1",
+      "name": "Pagina inicial (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 2 Introdução Já há muito tempo eu tenho uma idéia. A idéia de que qualquer um de nós pode criar um cenário excelente de jogo. Quando o primeiro jogo de horror pessoal chegou ao Brasil, eu vi ali uma fantástico RPG. Infelizmente, a editora do lobo branco foi demasiadamente gananciosa, jogando dezenas de suplementos no mercado, e cada um de seus livros preza...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-2",
+      "name": "Pagina inicial (11-20)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados pela Daemon Ed...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-3",
+      "name": "Pagina inicial (21-30)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 ver se o improviso deu certo. Qualquer coisa que seja única ou específica (fora do conhecimento da maioria das pessoas), realmente não suportando nenhum tipo de improviso (como o fetiche para um ritual) resultará em falha automática. Imunidade a Venenos 2 pontos: por algum motivo, seu Personagem nasceu imune a venenos naturais e recebe um bônus de 1D cont...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-4",
+      "name": "Pagina inicial (31-40)",
+      "category": "core_rule",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "31 Dificuldade de Fala -1 ponto: o personagem é gago, tem a língua preza, ou qualquer outro problemas de dicção que dificulta o entendimento do que ele fala pelas outras pessoas. Distração -1 ponto: o personagem não consegue se concentrar em nada, vivendo no mundo das nuvens. Todos os Testes de WILL para se concentrar são Difíceis. Um personagem com Distraçã...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-5",
+      "name": "Pagina inicial (41-50)",
+      "category": "combat",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "summary": "41 geralmente significa que o Personagem não contentou a platéia, desafinou ou esqueceu da letra... Culinária (PER): A habilidade de cozinhar bem. Esta Perícia permite não apenas preparar bons alimentos como também identificar ingredientes de certas receitas. Alguns pratos sofisticados e mais requintados podem ser produzidos apenas com um Teste Difícil. Danç...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-6",
+      "name": "Pagina inicial (51-60)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          51,
+          60
+        ]
+      ],
+      "summary": "51 Pesquisa/Investigação (PER) Esta Perícia esta relacionada à obtenção de informações. Ela pode ser usada em uma biblioteca para encontrar os livros certos sobre o assunto, nas ruas para encontrar a pessoa ou lugar que se procura, ou em uma sala onde estão as provas de um crime. Uma falha pode significar não achar tais informações, enquanto uma falha crític...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-7",
+      "name": "Pagina inicial (61-70)",
+      "category": "core_rule",
+      "pages": [
+        [
+          61,
+          70
+        ]
+      ],
+      "summary": "61 mais fáceis de serem controlados por Mestre iniciantes. Márcio Alexsunder tenta soltar um pequeno mecanismo, mas está equipado com ferramentas um pouco defeituosas. O Mestre decide aplicar uma penalidade de -10% em seu Teste. Caso especial: Força A Força é um Atributo diferente. No capítulo de Atributos, há uma tabela que relaciona pesos (em quilos) com o...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-8",
+      "name": "Pagina inicial (71-80)",
+      "category": "core_rule",
+      "pages": [
+        [
+          71,
+          80
+        ]
+      ],
+      "summary": "71 Ao levar um dano que provoque uma hemorragia, seja interna ou externa, além do dano levado, a personagem começa a perder sangue e portanto Pontos de Vida. Nesse caso, até que a hemorragia seja estancada, para cada dado de dano que o personagem levou perderá 1 PV por rodada durante algumas rodadas, tempo determinado pelo Mestre. Paralisia Um Personagem pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "sistema-daemon-3-0-pagina-inicial-1-9",
+      "name": "Pagina inicial (81-82)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          81,
+          82
+        ]
+      ],
+      "summary": "81 Pontos de Magia 7/Focus 9 Magia: Trevas 4, Humanos 4 Duque Infernal CON 40, FR 35, DEX 30, AGI 30, INT 27, WILL 30, CAR 17, PER 18 #Ataques [2], IP 15 (rituais), 60 PVs Regenera 2 PVs/Rodada Possui todos os Poderes Demoníacos Garras 90/90 dano 1d10+13 Pontos de Magia 22/Focus 24 Magia: Criar 3, Controlar 4, Trevas 1, Fogo 2, Humanos 3, Arkanun 3, Spiritum...",
+      "entityRefs": []
+    }
+  ]
+}

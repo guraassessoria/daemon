@@ -1,0 +1,347 @@
+{
+  "source": "one-punch-man-rpg",
+  "title": "One Punch Man RPG",
+  "status": "full-read-auto-pass-1",
+  "pages": 49,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "combat",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "one-punch-man-rpg-1a-edicao-1",
+      "name": "1ª Edição",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1ª Edição RPG",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-editorial-2",
+      "name": "Editorial",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Enrike Saint Silver, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe de visitar esta página! Agra...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-one-punch-man-rpg-3",
+      "name": "One Punch-Man RPG",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "One Punch-Man RPG O universo do jogo é o mundo de One Punch-Man; o anime/mangá, apesar das motivações pessoais dos personagens, exige a tradição de GRUPO, ou seja, os personagens formam um time que atua em conjunto; Por esse motivo, recomenda-se que todos os jogadores criem os seus personagens juntos e com uma história interligada. No mundo de OnePunch-Man,...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-conceitos-basicos-4",
+      "name": "Conceitos Básicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Conceitos Básicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esses conceitos termos usados no sistema de Magias e combates também são...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-criacao-de-personagens-6",
+      "name": "Criação de Personagens",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policiais, agen...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-objetivos-motivacao-7",
+      "name": "Objetivos / Motivação",
+      "category": "attribute_skill",
+      "pages": [
+        7
+      ],
+      "summary": "Objetivos / Motivação 1. Ele tem algum objetivo? Se tem, qual é? 2. E por que ele tenta fazer isso? 3. O que ele vai fazer quando conseguir cumprir seu objetivo? 4. O que ele vai fazer se falhar? 5. O que ele considera seu maior obstáculo no seu sucesso? 6. O que ele faz para sobrepujar esses obstáculos? 7. Se ele pudesse mudar alguma coisa no mundo, o que s...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-tabela-de-valores-de-atributos-8",
+      "name": "Tabela de Valores de Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Tabela de Valores de Atributos FR Bônus AGI Atributo Carregar Levantar de dano Velocidade (kg) (kg) (m/s) 1D 1-2 15 30 -3 1,5 3-4 20 40 -2 2,0 5-6 25 50 -1 2,5 2D 7-8 30 60 -1 3,0 9 35 70 0 3,5 10 40 80 0 4,0 11 45 90 0 4,5 12 50 100 0 Caminhar 3D 13 55 110 0 5,5 14 60 120 0 6,0 15 70 140 +1 7,0 16 80 160 +1 8,0 17 90 180 +2 9,0 18 100 200 +2 10 4D 19 110 22...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-passo-6-pericias-de-combate-9",
+      "name": "Passo 6: Perícias de Combate",
+      "category": "combat",
+      "pages": [
+        9
+      ],
+      "summary": "Passo 6: Perícias de Combate Assim como as Perícias normais, as Perícias de combate são compradas com pontos de Perícia. A diferença entre estas Perícias e as Perícias normais é que as perícias de combate possui em DOIS valores: o valor de ataque e o de defesa. Todos os Personagens começam com a Perícia Briga DEX/DEX, mas pode aumentá-la com Pontos de Períci...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-atributos-10",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        10
+      ],
+      "summary": "Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados pela Daemon Edito...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-tabela-de-valores-de-atributos-11",
+      "name": "Tabela de Valores de Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        11
+      ],
+      "summary": "Tabela de Valores de Atributos FR Bônus AGI Atributo Carregar Levantar de dano Velocidade (kg) (kg) (m/s) 1D 1-2 15 30 -3 1,5 3-4 20 40 -2 2,0 5-6 25 50 -1 2,5 2D 7-8 30 60 -1 3,0 9 35 70 0 3,5 10 40 80 0 4,0 11 45 90 0 4,5 12 50 100 0 Caminhar 3D 13 55 110 0 5,5 14 60 120 0 6,0 15 70 140 +1 7,0 16 80 160 +1 8,0 17 90 180 +2 9,0 18 100 200 +2 10 4D 19 110 22...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-aprimoramentos-basicos-12",
+      "name": "Aprimoramentos Básicos",
+      "category": "core_rule",
+      "pages": [
+        12
+      ],
+      "summary": "Aprimoramentos Básicos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa o jogo com 5 pontos de Aprimoramentos e o Jogador pode gastá-los como desejar. Esses pontos não podem simplesmente serem “gastos”, mas o Mestre e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-bom-senso-13",
+      "name": "Bom Senso",
+      "category": "item_equipment",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "summary": "Bom Senso 1 ponto: todas as vezes que um Personagem que tenha bom senso for fazer alguma coisa obviamente estúpida, o Mestre pode dizer a ele que o que ele pretende fazer é uma burrice. Este Aprimoramento é muito útil para Jogadores iniciantes, como uma forma de justificar a ajuda que o Mestre dá aos Personagens que estão começando, sem enfurecer os demais J...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-pericias-16",
+      "name": "Perícias",
+      "category": "attribute_skill",
+      "pages": [
+        16
+      ],
+      "summary": "Perícias Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos de Perícia...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-lista-de-pericias-17",
+      "name": "Lista de Perícias",
+      "category": "combat",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Lista de Perícias A lista de Perícias está apresentada no seguinte formato: Grupo* Subgrupos Observação: o símbolo * só aparecerá em casos nos quais a Perícia tiver subgrupos. Quando isso ocorrer, você deve escolher apenas UM dos subgrupos correspondentes. Animais* Alguns subgrupos possíveis: Treinamento de animais (0), Montaria (AGI), Doma (0), Veterinária...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-equipamentos-19",
+      "name": "Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "summary": "Equipamentos Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da Mafia que aponta a arma para sua cabeça, não). O Personag...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-pontos-heroicos-21",
+      "name": "Pontos Heróicos",
+      "category": "core_rule",
+      "pages": [
+        21
+      ],
+      "summary": "Pontos Heróicos Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de fle...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-regras-e-testes-22",
+      "name": "Regras e Testes",
+      "category": "attribute_skill",
+      "pages": [
+        22
+      ],
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-atributo-vs-atributo-23",
+      "name": "Atributo vs. Atributo",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "Atributo vs. Atributo Existem situações onde há o confronto de dois Atributos. Já foi citado o caso de um Personagem tentando levantar um peso. Há diversos outros exemplos: dois Personagens tirando um braço de ferro para saber quem é mais forte (FR), ou uma competição para testar qual Personagem consegue ficar mais tempo embaixo d’água sem respirar (CON). Ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-teste-de-resistencia-24",
+      "name": "Teste de Resistência",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "Teste de Resistência Em alguns casos, os Personagens são submetidos a provações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por venenos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-iniciativa-negativa-26",
+      "name": "Iniciativa Negativa",
+      "category": "combat",
+      "pages": [
+        [
+          26,
+          29
+        ]
+      ],
+      "summary": "Iniciativa Negativa Se um Personagem, após ter os modificadores aplicados, ficar com iniciativa negativa, ele perde sua ação nessa rodada. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumuladas de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada seguinte, se...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-luta-as-cegas-30",
+      "name": "Luta às Cegas",
+      "category": "combat",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "summary": "Luta às Cegas Por algum motivo qualquer, o Personagem pode estar sem condições de enxergar. Pode estar escuro ou ele pode estar sob efeito de um veneno ou de uma Magia. O escuro pode ser tanto para um Personagem como para todos. Esta situação se aplica para cada Personagem impedido de ver. Se o Personagem possui a manobra de combate Luta às Cegas (ver Períci...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-experiencia-32",
+      "name": "Experiência",
+      "category": "creature_npc",
+      "pages": [
+        32
+      ],
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos por monstros, um ficou louco e o último acabou aprisionado na Presídio do Mau Cheiro para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outro...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-pontos-de-pericia-33",
+      "name": "Pontos de Perícia",
+      "category": "creature_npc",
+      "pages": [
+        33
+      ],
+      "summary": "Pontos de Perícia Os pontos de Perícia podem ser distribuídos em qualquer Perícia, mas pontos que não forem alocados serão perdidos. O Jogador pode colocar um mínimo de 5 pontos e um máximo de 10 pontos por Perícia escolhida. Caso seja uma Perícia nova (que ele ainda não tenha na ficha), deve gastar um míni mo de 10 pontos para comprá-la. Pontos de Magia e p...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-regras-de-um-soco-34",
+      "name": "REGRAS DE UM SOCO",
+      "category": "core_rule",
+      "pages": [
+        34
+      ],
+      "summary": "REGRAS DE UM SOCO Bem, já criamos nosso Personagem e vamos viver as aventuras com nosso grupo, mas antes do mestre começar a Campanha, ele precisa saber que os Personagens em One Punch-Man RPG evoluem acima dos limites humanos. Por exemplo, o próprio Genus. Ele começa a saga de One Punch-Man como um ciborgue que, apesar de forte, era facilmente derrotado e n...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-artes-marciais-35",
+      "name": "Artes Marciais",
+      "category": "core_rule",
+      "pages": [
+        35
+      ],
+      "summary": "Artes Marciais No Sistema Daemon um ataque desarmado causa 1d3 de dano mais o modificador de FR, porém, no mundo de One Punch-Man o treino possibilita causar o mesmo dano da força bruta. Sendo assim, as artes marciais no mundo de One Punch-Man causam o dobro de dano, ou seja, com treinamento o Personagem causará 1d6 de dano mais o modificador de FR. Estilos...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-perigo-e-emergencia-36",
+      "name": "Perigo e emergência",
+      "category": "creature_npc",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "summary": "Perigo e emergência Para classificar a ameaça de desastres, bandidos e monstros, existe um ranking para herois capacitados darem foco naquilo que podem dar conta. Os níveis de ameaças são:  Nível Deus: uma ameaça para toda a humanidade.  Nível Dragão: uma ameaça para várias cidades.  Nível Demônio: uma ameaça para toda uma cidade.  Nível Tigre: uma ameaç...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-npcs-38",
+      "name": "NPCs",
+      "category": "combat",
+      "pages": [
+        [
+          38,
+          43
+        ]
+      ],
+      "summary": "NPCs A classificação dos heróis é baseada nos pontos ganhos com a imprensa heroica com critérios definidos pela comissão de avaliação (testemunhas oculares e relatórios), a ficha dos NPCs foram criadas com as estatísticas observadas durante a história de One Punch-Man em comparação com a tabela de atributos do Sistema Daemon; todos utilizaram kits em sua con...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-att-1-punhos-4d6-20-44",
+      "name": "Att. [1] Punhos: 4d6+20",
+      "category": "combat",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "Att. [1] Punhos: 4d6+20 Mísseis balísticos: (Genie AIR 2-A comprimido em 1m, 5 unidades, 200kg cada, alcance 10km) 60+20d10 Míssel teleguiado: (WAAM comprimido em 50cm, 10 unidades, 25kg cada, alcance 5km) 50+5d6 (90% de chance de acertar o alvo através de sensor térmico) * Tatica: O Cavaleiro de Metal destrói inimigos com suas armas e tudo ao seu redor. Sam...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-desafios-46",
+      "name": "Desafios",
+      "category": "combat",
+      "pages": [
+        [
+          46,
+          48
+        ]
+      ],
+      "summary": "Desafios O mestre deve criar o desafio de acordo com as habilidades dos personagens jogadores; podem ser armadilhas, criminosos, heróis humanos ou mesmo monstros. Abaixo, exemplos de criaturas que apareceram durante o primeiro arco de histórias de One Punch-Man: Vaccine Man: Criatura gerada pela poluição contínua da Terra provocada pelos humanos. Forma human...",
+      "entityRefs": []
+    },
+    {
+      "id": "one-punch-man-rpg-nome-49",
+      "name": "Nome____________________________________________",
+      "category": "attribute_skill",
+      "pages": [
+        49
+      ],
+      "summary": "Nome____________________________________________ Raça____________________________ Nível ___________ Sexo ____________ Altura __________ Peso ___________ Atributos Valor / Mod / % Perícias Gasto/Total Constituição (CON) _____ /_____ /_____ ________________________ ______/______ Força (FR) _____ /_____ /_____ ________________________ ______/______ Destreza (DE...",
+      "entityRefs": []
+    }
+  ]
+}

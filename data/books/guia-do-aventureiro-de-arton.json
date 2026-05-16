@@ -1,0 +1,312 @@
+{
+  "source": "guia-do-aventureiro-de-arton",
+  "title": "Guia do Aventureiro de Arton",
+  "status": "full-read-auto-pass-1",
+  "pages": 84,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "guia-do-aventureiro-de-arton-bruno-garrido-e-bruno-burp-schlatter-1",
+      "name": "Bruno Garrido e Bruno “BURP” Schlatter",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Bruno Garrido e Bruno “BURP” Schlatter",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-guia-do-aventureiro-de-arton-2",
+      "name": "GUIA DO AVENTUREIRO DE ARTON",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "GUIA DO AVENTUREIRO DE ARTON Introdução Este trabalho contém vários kits de personagens para serem utilizados em campanhas de Tormenta, o cenário de fantasia medieval da Dragão Brasil. É certo que uma grande quantidade de outros kits já foi publicada em suplementos oficiais como o Manual do Aventureiro, mas é sempre interessante adicionar elementos novos ao...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-estrutura-do-guia-3",
+      "name": "ESTRUTURA DO GUIA",
+      "category": "combat",
+      "pages": [
+        3
+      ],
+      "summary": "ESTRUTURA DO GUIA PARTE I – GUERREIROS Aniquilador: guerreiro do pó e da corrosão capaz de degenerar a matéria com um simples toque. Artilheiro Pesado: especialista no uso de grandes máquinas de guerra, como balistas e catapultas. Atacante: lutador especializado apenas em técnicas de ataque. Atirador de Knui Pkahn: usuário de uma exótica arma goblin de ataqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-ii-servos-dos-deuses-4",
+      "name": "PARTE II – SERVOS DOS DEUSES",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "PARTE II – SERVOS DOS DEUSES Acólito: é o dedicado aprendiz de clérigo. Clérigo da Sorte: um tipo curioso de clérigo de Nimb dotado de uma sorte extraordinária. Guardião de Keenn: devoto do deus da guerra especializado em proteger lugares e pessoas. Paladino de Wynna: o fervoroso defensor do emprego da magia para ajudar as pessoas. Paladino Negro: o curioso...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-esporte-5",
+      "name": "esporte.",
+      "category": "item_equipment",
+      "pages": [
+        5
+      ],
+      "summary": "esporte. Explorador de Valkaria: aventureiro cujo objetivo é organizar e participar de missões que visem o progresso da humanidade. Falsário: o mestre dos golpes e falsificações. Faz-Tudo: construto criado com o propósito de aprender e realizar tarefas diversas. Gueixa: uma graciosa dama cujo trabalho é entreter os homens com sua beleza, carisma e habilidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-i-guerreiros-6",
+      "name": "PARTE I - GUERREIROS",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "PARTE I - GUERREIROS Aniquilador Sem dúvida este é o mais raro e temido entre os guerreiros ligados aos elementos. Os Aniquiladores possuem poderes relacionados ao pó e à corrosão, elementos que representam a destruição e a decadência. Não se sabe como os Aniquiladores aprenderam suas habilidades especiais, pois eles não revelam seus métodos a ninguém. Comen...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-sobrevivencia-7",
+      "name": "Sobrevivência",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "Sobrevivência (ambientes devastados) 40, Subterfúgio 30 Aprimoramentos: Poder Elemental* 1, 4 Pontos Heróicos, Toque Letal -3* Pontos de Energia: 2 + 1 por nível Pontos Heróicos: 4 por nível * Vide a seção NOVAS REGRAS Artilheiro Pesado Na maioria dos grandes exércitos do Reinado, a principal força de combate é composta pelos soldados de cavalaria e infantar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-restricoes-nenhuma-8",
+      "name": "Restrições: Nenhuma",
+      "category": "combat",
+      "pages": [
+        [
+          8,
+          19
+        ]
+      ],
+      "summary": "Restrições: Nenhuma Perícias: Escolha uma arma 20/20, Artilharia Pesada 50, Besta 20/0, Camuflagem 20, Condução 30, Engenharia 30, Furtividade 20, Ler/Escrever 20, Mecânica 40, Mira (30) Aprimoramentos: Armas de Fogo 3, 2 Pontos Heróicos Pontos Heróicos: 2 por nível Atacante Um Atacante é um tipo de guerreiro devotado a um único princípio do combate: o ataqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-daemon-20",
+      "name": "Daemon",
+      "category": "character_option",
+      "pages": [
+        [
+          20,
+          23
+        ]
+      ],
+      "summary": "Daemon Custo: 3 pontos de Aprimoramento, 240 pontos de Perícia Restrições: Um Aprimoramento negativo relacionado à personalidade Perícias: Escolha duas armas (uma 40/40, outra 30/30), Empatia 20, Filosofia 30, Impressionar 20, Intimidação 20, Jogos 20, Oculto 30, uma Manobra de Combate, uma Sobrevivência 30 Aprimoramentos: Poder Oculto* 1, 4 Pontos Heróicos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-20-rede-20-0-subterfugio-20-24",
+      "name": "(20), Rede 20/0, Subterfúgio 20",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "(20), Rede 20/0, Subterfúgio 20 Aprimoramentos: 4 Pontos Heróicos Pontos Heróicos: 4 por nível Lutador Um lutador é um guerreiro especializado em luta desarmada. Ele repudia o uso de armas como espadas ou lanças, preferindo utilizar suas mãos e pés como arma, e geralmente como armas altamente perigosas!! Sendo suas mãos muito mais leves e balanceadas que qua...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-vindos-do-subterraneo-25",
+      "name": "vindos do subterrâneo.",
+      "category": "combat",
+      "pages": [
+        [
+          25,
+          27
+        ]
+      ],
+      "summary": "vindos do subterrâneo. 3D&T Custo: 2 Restrições: Apenas nativos de Callistia Vantagens: Recebe H+1 e FA final +1 em combates contra os lursh-lyins. Recebe H+2 em outros testes referentes aos lursh-lyins. Recebe Sentidos Especiais (Radar, Ver o Invisível) gratuitamente. Pode comprar Sobrevivência e Armadura Extra: Químico e Elétrico por 1 ponto cada Desvantag...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-tudo-28",
+      "name": "tudo.",
+      "category": "combat",
+      "pages": [
+        [
+          28,
+          31
+        ]
+      ],
+      "summary": "tudo. Uma de suas habilidades especiais é o mimetismo, ou seja, a capacidade de mudar de cor conforme o ambiente. Os Radiantes conseguiram desenvolver este poder a partir de treinamentos rigorosos de camuflagem em ambientes diversificados (desertos, selvas, florestas nevadas...). Alguns deles, ligados a seitas tribais, adquirem tal habilidade através de uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-senhores-das-brumas-costumam-praticar-32",
+      "name": "Senhores das Brumas costumam praticar",
+      "category": "combat",
+      "pages": [
+        [
+          32,
+          36
+        ]
+      ],
+      "summary": "Senhores das Brumas costumam praticar suas habilidades em locais com vapor em abundância, em especial fontes termais. Como Tapista conta com um grande número destas fontes de água quente, o reino dos minotauros torna-se um grande atrativo para Senhores das Brumas em busca de um bom lugar para treinar. Outros locais bastante procurados por eles são os lagos g...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-sobrevivencia-37",
+      "name": "Sobrevivência",
+      "category": "combat",
+      "pages": [
+        37
+      ],
+      "summary": "Sobrevivência (Pradarias) 40, Tratamento de Animais 30, Treinamento de Animais 20, Veterinária 20 Aprimoramentos: Familiar 2 (trobo), 3 Pontos Heróicos Pontos Heróicos: 3 por nível Trovejante Este guerreiro tem seus poderes baseados em um caminho secundário, assim como os guerreiros do gelo. Uma lenda bárbara diz que os Trovejantes são pessoas escolhidas pel...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-ii-servos-dos-deuses-38",
+      "name": "PARTE II- SERVOS DOS DEUSES",
+      "category": "power_magic",
+      "pages": [
+        [
+          38,
+          39
+        ]
+      ],
+      "summary": "PARTE II- SERVOS DOS DEUSES Acólito Seguir uma carreira religiosa é o sonho de várias pessoas em Arton. Sacerdotes de diversas religiões têm o respeito e admiração dos cidadãos comuns devido às suas funções como líderes, conciliadores, conselheiros e, em alguns casos, profetas. Contudo, o candidato precisa cumprir uma série de etapas a fim de alcançar determ...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-obediente-responsavel-e-principalmente-dedicar-se-40",
+      "name": "obediente, responsável e, principalmente, dedicar-se",
+      "category": "combat",
+      "pages": [
+        [
+          40,
+          43
+        ]
+      ],
+      "summary": "obediente, responsável e, principalmente, dedicar-se de coração a este trabalho. Durante o seu treinamento, os Guardiões de Keenn são instruídos a utilizarem suas habilidades apenas para proteger aquilo que ama (família, amigos, seu povo, sua igreja, a pessoa amada...). Esta filosofia é bem diferente daquela ensinada a outros devotos de Keenn, vistos pelos s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-ambiente-44",
+      "name": "ambiente)",
+      "category": "combat",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "ambiente) gratuitamente; pode comprar Sobrevivência e Animais por 1 ponto cada Desvantagens: veja em Obrigações e Restrições; 1º Lei de Asimov (mas apenas para animais), Código de Honra de Área (não lutar em cidades) Pontos de Vida/Magia: Rx5 Custo: 4 pontos de Aprimoramento, 330 pontos de Perícia Restrições: Proibido para Construtos e Mortos- Vivos Perícias...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-iii-magos-46",
+      "name": "PARTE III - MAGOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          46,
+          50
+        ]
+      ],
+      "summary": "PARTE III - MAGOS Aprendiz de Mago Em Arton, quando uma pessoa deseja seguir a carreira de mago, ela pode iniciá-la de duas formas diferentes: 1) ingressar-se em uma escola de magia — como a Grande Academia Arcana; 2) procurar um mago experiente e convencê-lo a aceitá-la como aprendiz. A primeira forma é a mais adotada por aqueles com condições financeiras o...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-cada-mago-d-armas-recebe-gratuitamente-51",
+      "name": "Cada Mago d'Armas recebe gratuitamente",
+      "category": "power_magic",
+      "pages": [
+        [
+          51,
+          57
+        ]
+      ],
+      "summary": "Cada Mago d'Armas recebe gratuitamente uma arma comum durante a sua criação. O tipo exato de item pode ser definido à vontade pelo jogador. Magias Iniciais: Ampliar Proteção, Arma Poderosa (Lento), Aumento de Dano, Detecção de Magia, Embutir Magia, Proteção Mágica, Proteção contra o Elemento 3D&T Custo: 0 Restrições: Habilidade 1, Focus 1 Vantagens: Recebe F...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-trazer-58",
+      "name": "trazer",
+      "category": "power_magic",
+      "pages": [
+        [
+          58,
+          62
+        ]
+      ],
+      "summary": "trazer conseqüências sérias se usadas indiscriminadamente. Se por acaso elas forem utilizadas para afetar o metabolismo de criaturas vivas (envelhecendo-as ou rejuvenescendo-as), os alvos ganham ou perdem um ano de vida permanentemente. Esta efeito pode ser ainda maior dependendo do poder da magia em questão e só pode ser revertido com a magia Desejo. Outros...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-iv-especialistas-63",
+      "name": "PARTE IV - ESPECIALISTAS",
+      "category": "combat",
+      "pages": [
+        [
+          63,
+          66
+        ]
+      ],
+      "summary": "PARTE IV - ESPECIALISTAS Acrobata O Acrobata, assim como o Mágico e o Malabarista, é um profissional do entretenimento. Ele procura impressionar e divertir o público através de números de contorcionismo, trapézio, equilíbrio em superfícies estreitas e saltos ousados. Seja em circos, companhias artísticas ou nas ruas de cidades movimentadas, os acrobatas proc...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-desvantagens-nenhuma-67",
+      "name": "Desvantagens: nenhuma",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          67,
+          69
+        ]
+      ],
+      "summary": "Desvantagens: nenhuma Pontos de Vida/Magia: Rx2 Daemon Custo: Não pode ser comprado (apenas NPCs podem adotar este kit) Restrições: CAR 14. Apenas mulheres Perícias: Adaga ou Punhal 30/30, Atuação 20, Dança 40, Herbalismo 20, Instrumento Musical 20, Lábia 30, Sedução 30 Aprimoramentos: 1 Ponto Heróico, Sedutor 1 Pontos Heróicos: 1 por nível Domador de Feras...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-falsario-70",
+      "name": "Falsário",
+      "category": "item_equipment",
+      "pages": [
+        [
+          70,
+          79
+        ]
+      ],
+      "summary": "Falsário O Falsário trata-se de mais uma categoria de ladino. Assim como o Impostor e outros, este profissional utiliza sua esperteza para obter vantagens e ludibriar as pessoas. As principais armas dos Falsários são a sua criatividade, boa comunicação e uma tremenda cara-de-pau. Os Falsários são conhecidos em Arton por outros nomes (picaretas, trambiqueiros...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-extras-de-personagem-80",
+      "name": "extras de personagem.",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          80,
+          82
+        ]
+      ],
+      "summary": "extras de personagem. Um Salva-Vidas jamais deve deixar de socorrer uma vítima, não importando quaisquer diferenças pessoais, religiosas ou étnicas. O Salva- Vidas deve tentar todos os meios possíveis para cumprir sua missão, arriscados ou não. Este é o mandamento principal de todos os grupos de resgate existentes em Arton, e são seguidos rigorosamente por t...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton-parte-v-novas-regras-83",
+      "name": "PARTE V - NOVAS REGRAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "summary": "PARTE V - NOVAS REGRAS Nesta seção vão constar algumas vantagens, desvantagens e aprimoramentos criados ou adaptados especialmente para dar suporte aos kits apresentados aqui. Poder Elemental ou Afinidade com Elemento (para Daemon) N.A: Este aprimoramento foi baseado na regra para poderes elementais disponível no netbook Guerreiras Mágicas de Rayearth, de Ma...",
+      "entityRefs": []
+    }
+  ]
+}

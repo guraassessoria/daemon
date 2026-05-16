@@ -1,0 +1,165 @@
+{
+  "source": "daemon-revisado-playtest-alfa-3-6",
+  "title": "Daemon_Revisado_playtest_alfa_3.6",
+  "status": "full-read-auto-pass-1",
+  "pages": 34,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-daemon-revisado-1",
+      "name": "Daemon Revisado",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Daemon Revisado Playteste Alpha v. 3.6 Texto e desenvolvimento: Victor Gaigaia 1",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-introducao-2",
+      "name": "INTRODUÇÃO",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "INTRODUÇÃO Este é apenas um jogo. A realidade é muito pior. Boas vindas ao playteste do Sistema Daemon revisado. Este documento tem foco em jogadores que já conhecem o sistema Daemon em suas versões anteriores, então as regras descritas aqui já pressupõem familiaridade do leitor. Nosso objetivo é analisar as bases da nova versão e, conforme avançar o playtes...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-sumario-3",
+      "name": "SUMÁRIO",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "SUMÁRIO Introdução Criação de Personagens Kits de personagens Perícias Aprimoramentos Equipamentos Regras e Testes Combate e Conflitos Evolução Ficha de personagem Anexo 1 – Lista de perícias Anexo 2 – Lista de aprimoramentos Versão 3.6, 13/06/2020: . Adicionado o método de criação de personagem baseado em Idade como opção. . Adicionado o método clássico de...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-criacao-de-personagens-4",
+      "name": "CRIAÇÃO DE PERSONAGENS",
+      "category": "attribute_skill",
+      "pages": [
+        4
+      ],
+      "summary": "CRIAÇÃO DE PERSONAGENS Passo 1: Campanha e Cenário O grupo decide qual tipo de jogo pretende jogar, o que determina quantos pontos os personagens terão em sua criação. Campanhas realistas: . Personagens começam no nível 0 . Atributos: Distribua os seguintes valores - 16/14/14/12/12/12/10/10. . Perícias: Escolha 3 grupos de perícias. Em cada um deles, distrib...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-passo-3-atributos-5",
+      "name": "Passo 3: Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          8
+        ]
+      ],
+      "summary": "Passo 3: Atributos São as capacidades inatas do personagem. Atributos têm um valor em pontos que costuma ir de 6 a 18 para humanos. Atributos básicos Atributos são somados à perícia para determinar o Valor de Teste. Você soma Atributo x2 à perícia relevante. Força (FOR), capacidade muscular do corpo. Usado para determinar dano físico e os pontos de vida em c...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-hacker-9",
+      "name": "Hacker",
+      "category": "core_rule",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Hacker Perícias: Tecnológicas (Hacker 40, Programação 30, Computação 30, Eletrônica 20), Ciências (Direito 30, Engenharia 30), Paramilitares (Investigação 40, Manha 30, Criminologia 30, Burocracia 20, Prontidão 20). Aprimoramentos: Talento 2 (escolha 2: Hacker, programação, computação, eletrônica), Recursos 1, Contatos 1, Senso Numérico. Investigador da Polí...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-lista-de-pericias-11",
+      "name": "Lista de Perícias",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Lista de Perícias A lista abaixo contém as principais perícias encontráveis nos principais cenários que seu grupo possa jogar. Contudo, a lista de possibilidades é infinita. Perícias como Maquiagem, Hotelaria, Forja, Análise de Inteligência, Contabilidade – tudo isso é possível, e muito mais. Você pode adicionar ou adaptar perícias ao jogo que quiserem jogar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-int-13",
+      "name": "(INT).",
+      "category": "attribute_skill",
+      "pages": [
+        13
+      ],
+      "summary": "Prontidão, Sobrevivência, Camuflagem, Exploração, Trato com animais (CAR), Montaria (AGI), Rastrear, Agricultura (INT). Prontidão é a perícia básica para perceber algo passivamente e é usada em disputas contra Furtividade e Furto. Camuflagem indica se mesclar num meio, podendo se esconder até mesmo em plena vista, mas precisa que o personagem fique estático...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-aprimoramentos-positivos-14",
+      "name": "APRIMORAMENTOS POSITIVOS",
+      "category": "combat",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "APRIMORAMENTOS POSITIVOS Aprimoramentos com * indicam aqueles de origem sobrenatural e que podem ou não ser permitidos, dependendo da decisão do mestre. Influência e recursos – aprimoramentos ligados a posses do personagem ou sua influência na sociedade. Armas de fogo (1 a 3): o personagem tem acesso e licença para carregar armas. Por 1 ponto são armas de pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-von-2-17",
+      "name": "+ VON]/2).",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          17,
+          23
+        ]
+      ],
+      "summary": "escondido numa caverna ou nas catacumbas de uma igreja e usar o Personagem como discípulo. Demônios de Infernun são os mais perigosos e não confiáveis de todos os mentores. Eles são traiçoeiros e tendem a pensar no próprio bem antes de qualquer coisa. E devem ter um bom motivo para ensinar as artes arcanas a um mero mortal. Apesar disso, são ótimas máquinas...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-acoes-em-grupo-24",
+      "name": "Ações em Grupo",
+      "category": "combat",
+      "pages": [
+        [
+          24,
+          30
+        ]
+      ],
+      "summary": "Ações em Grupo Às vezes, um grupo de pessoas trabalha em conjunto numa mesma ação ou as ações de um indivíduo podem afetar todo um grupo de pessoas. Nesses casos, todos os envolvidos rolam seus testes e o Mestre deve avaliar o resultado. Quando várias pessoas trabalham juntas numa mesma tarefa, como numa investigação de cena do crime, uma pesquisa na bibliot...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-nome-31",
+      "name": "Nome",
+      "category": "attribute_skill",
+      "pages": [
+        31
+      ],
+      "summary": "Nome Conceito Atributos (distribuir valores 16/14/14/12/12/12/10/10) Valor Percentual (x2) Força (FOR) Constituição (CON) Destreza (DES) Agilidade (AGI) Inteligência (INT) Percepção (PER) Vontade (VON) Carisma (CAR) Pontos de Vida FOR + CON/2 Bônus de dano físico (FOR - 10)/2 Iniciativa (AGI + PER)/2 Aprimoramentos (5 positivos e até -3 em negativos) . . . ....",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6-culturais-car-32",
+      "name": "Culturais (CAR)",
+      "category": "character_option",
+      "pages": [
+        [
+          32,
+          34
+        ]
+      ],
+      "summary": "Culturais (CAR) Artesanato (DES) Empatia Diplomacia Intimidação Lábia Sedução Música (INT) Ocultas (INT) Teoria da magia Rituais Divinação Ocultismo Sociedades Secretas Criaturas sobrenaturais Conhecimentos alienígenas Planos Astrais Paramilitares (PER) Armadilhas Agricultura (INT) Arrombamento (DES) Criminologia (INT) Escapismo (AGI) Furtividade (AGI) Furto...",
+      "entityRefs": []
+    }
+  ]
+}

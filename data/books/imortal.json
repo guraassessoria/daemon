@@ -1,0 +1,688 @@
+{
+  "source": "imortal",
+  "title": "Imortal",
+  "status": "full-read-auto-pass-1",
+  "pages": 130,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "imortal-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "\\ \\ , , • •",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-creditos-3",
+      "name": "CREDITOS",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "/ CREDITOS Copyright © Claudio Muruz Projeto e Desenvolvimento: Claudio Muniz Editoração e Projeto Gráfico: Claudio Muniz Capa e Artes: Claudio Muruz, Marcelo Barbosa AGRADECIMENTOS Luiz Eduardo Ricon, pela força. Leandro \"Feliz Aniversário\". Priscila \"Mitsukai\" Muniz, por existir. Jeferson \"Sempre Atrazado\" pela ajuda. Senhores do Infinito, pelas excelentes...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-sombras-do-passado-4",
+      "name": "SOMBRAS DO PASSADO",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "• SOMBRAS DO PASSADO 6 - INTRODUÇAO 14 CAPÍTULO UM (MUNDO DE REVELAÇÕES) 18 CAPÍTULO DOIS (CRIAÇÃO DE PERSONAGENS) 42 CAPÍTULO TRÊS (RESSONÃNCIA E DÁDIVAS) 72 CAPÍTULO QUATRO (HISTÓRIA) 88 CAPÍTULO CINCO (REGRAs' TESTES E EXPERIÊNCIA) 96 / PONTOS HEROICOS 114 KITS E PERSONAGENS FAMOSOS 116 EQUIPAMENTOS E ARMAS 126",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-tudo-oue-5",
+      "name": "TUDO OUE",
+      "category": "power_magic",
+      "pages": [
+        5
+      ],
+      "summary": "TUDO OUE PAI DISSE A SEU RES- PEITO ESPERAVA EN- CONTRAR ALGUÉM COM MAIS DE 100 BOM, COMO POS- SO TE AUXILIAR EM SUA PESQUISA? _ ESPERO NÃO TER DECEPCIONADO VOCÊ . É CLARO OUE NÃO, JOVENS DEDICADOS SAO RAROS. SUAS DESCOBERTAS SOBRE IMHOTEP TÊM CAUSADO VERDADEIRO FUROR ENTRE OS ARQUEÓLOGOS, SUA NARRATIVA PARE- CEM SER FEITAS POR ALGUÉM QUE VIVEU NAQUELA ÉPOCA...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-egito-50-ac-6",
+      "name": "EGITO, 50 AC.",
+      "category": "ritual_spell",
+      "pages": [
+        6
+      ],
+      "summary": "EGITO, 50 AC. UMA DAS MAIORES CIVILIZAÇÕES DO MUNDO ANTIGO, COM SUAS MAGNiFICAS PIRÂMIDES E UM POVO PRO- FUNDAMENTE ESPIRITUALIZADO. - • • • , ..... -_-::,- • • • ESTÁ SENSAÇÃO. UM IMORTAL SE APROXIMA, EU DEVIA TER FICADO NO SANTUÁRIO! , , • A} t.. - . , ii • •",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-para-levar-sua-cabe-7",
+      "name": "... PARA LEVAR SUA CABE-",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "... PARA LEVAR SUA CABE- ÇA E CONHECIMENTOS. PREPARE-SE. gosto que me COISAS PODEM DIFERENTES, NÃO DESEJO ~ LUTAR CONTRA VOCÊ . SEMPRE SOUBE QUE POR TRÁS DO NOME IMHOTEP ESCONDIA-SE UM COVARDE!",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-tera-que-se-esforcar-mais-8",
+      "name": "TERÁ QUE SE ESFORÇAR MAIS,",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "TERÁ QUE SE ESFORÇAR MAIS, SE QUISER SOBREVIVER. CHEGA DE BRINCADEIRAS! PENA QUE NÁO VIVERÁ O SUFICIENTE PARA SER PUNIDO POR SEU MESTRE~. _____ ~",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-no-ragnarok-9",
+      "name": "NO RAGNAROK ...",
+      "category": "power_magic",
+      "pages": [
+        [
+          9,
+          11
+        ]
+      ],
+      "summary": "NO RAGNAROK ... .. .,. F , .. ,APENAS UM TERA O PODER! • - _:- APOPHIS DEVE PAGAR POR TUDO QUE ESTÁ FAZENDO AO EGITO. MESMO DEPOIS DE TUDO QUE ACONTECEU EM ATLÁNTIDA AINDA EXISTEM IMORTAIS QUE O VENERAM COMO SE FOSSE UM DEUS.",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-cloud-12",
+      "name": "CLOUD .. .",
+      "category": "power_magic",
+      "pages": [
+        [
+          12,
+          14
+        ]
+      ],
+      "summary": "CLOUD .. . ClOUD .. . ESTAVA SANDD A RESPEITO DO QUE DISSE. ESTÁ PRESTANDO ATENÇÃO? SEGUNDO O QUE VOCÊ DES- CREVE NO CAPíTULO 3, O PANTEÃO EGíp- CIO PODE TER SIDO CONTROLADO POR SACER- DOTES QUE, PODEM ATÉ TER ASSUMIDO O \"POSTO\" DE DEUSES. ACREDITO QUE, DURANTE SURGIMENTO DA HUMANIDADE, MUITOS ACREDITARAM SER SUPERIORES E USARAM ISSO PARA CONSEGUIR O \"POSTO\"...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-lexico-15",
+      "name": "LEXICO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          18
+        ]
+      ],
+      "summary": ", LEXICO Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você esti ver criando seu Personagem, nós utilizaremos muitos termos que talvez você nâo esteja familiarizado. , (Y>-' .... -.szooÀ-..., .c:;;\" .. : ___ .. • __ ABISSAIS: Criaturas mais velhas...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-as-mudancas-19",
+      "name": "AS MUDANÇAS",
+      "category": "race_lineage",
+      "pages": [
+        19
+      ],
+      "summary": "AS MUDANÇAS Veja as transformaçoes que o rádio, a televisão, as máquinas e computadores fizeram, e como seriam nossas vidas sem tais invenções. Para nós, imortais, estas criações apareceram ontem e muitos não conseguiram se adaptar e realmente repudiam tal revolução. O que estes \"peqüenos avanços\" podem significar para seres como eu, que viram impérios cresc...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-cacao-telepatica-20",
+      "name": "cação telepática.",
+      "category": "power_magic",
+      "pages": [
+        [
+          20,
+          24
+        ]
+      ],
+      "summary": "cação telepática. Auxiliados por manais trazidos por nós erguemos o mais poderoso império do mundo, onde até os mortais pos- suíam longevidade. Mas a paz foi abalada pelo mais sábio e poderoso imortal da época, Apophis. Ele descobriu que, ao decapitar outro imonal, era possível absorver seu poder e conhecimento e, junto com alguns seguidores, fez disto um há...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-ia-guerra-mundial-25",
+      "name": "IA GUERRA MUNDIAL",
+      "category": "power_magic",
+      "pages": [
+        [
+          25,
+          33
+        ]
+      ],
+      "summary": "I IA GUERRA MUNDIAL (1914 A 1918) A I a Guerra Mundial foi o primeiro conllito anna- do que envolveu diretamente as principais potências do mun- do. Até então existiam apenas conflitos envolvendo deter- minadas regiões do planeta. O estopim do primeiro conflito mundial foi o assassinato, em 28 de junho de 1914, do arquiduque Francisco Ferdinando, herdeiro do...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-1eg-s-34",
+      "name": ".1EG/S",
+      "category": "combat",
+      "pages": [
+        [
+          34,
+          36
+        ]
+      ],
+      "summary": ".1EG/S Fundação: 465 Base: Espanha Atuação: Todo o mundo. Personagem Típico Custos: 3 pts. de Aprimoramento, 240 pts. de Perícias. Perícias: Camuflagem 30%, Disfarce 30%, Furtividade 35%, Ciências Ocultas (Vampiros 30%, Doppelganger 30%, Oculto 40% Anjos 25%, Demônios 25%). Aprimoramentos: Contatas 2, Recursos 1, Alguns imortais afirmam que estão sendo segui...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-warlocks-37",
+      "name": "WARLOCKS",
+      "category": "power_magic",
+      "pages": [
+        [
+          37,
+          42
+        ]
+      ],
+      "summary": "WARLOCKS CON 3-18, FR 3-18, DEX 3-18, AGI 3-18, INT 4-24, WILL 4-24, CAR 3-18, PER 3-18, IP (Variável), PVs 12-20. Poderes: (escolher um em nível 1 e 2 em nível 1) au- gúrio, Induzir, Ilusão, Telecinésia, Subterfúgio. Warlocks são um enigma para nós como somos para os mortais. Eles parecem ser humanos, mas possuem pode- res capazes de afetar a realidade e mu...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-atributos-43",
+      "name": "ATRIBUTOS",
+      "category": "combat",
+      "pages": [
+        [
+          43,
+          45
+        ]
+      ],
+      "summary": "ATRIBUTOS Os Atributos são os va- lores numéricos que representam as capacidades inatas do Perso- nagem. CABEÇALHO E PERSONALIDADE São as características auto-explicativas. Nome, Ocupação, Idade (real e aparente), Jogador, Residên- cia (do personagem), Local de Nascimento (do perso- nagem). Procure responder às perguntas da página 42. A personalidade é compo...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-tabela-de-pontos-46",
+      "name": "TABELA DE PONTOS",
+      "category": "attribute_skill",
+      "pages": [
+        46
+      ],
+      "summary": "TABELA DE PONTOS IDADE PONTOS DE PONTOS DE PONTOS DE PON TOS DE PONTOS DE • • ATRIBUTOS PERICJAS APRIMORAMENTO RESSONANCIA DADIVAS 50 a 300 301 a 500 501 a 1000 1001 a 1500 1051 a 2500 2501 a 3500 3501 a 5000 + -5000 120 140 160 180 200 220 240 ? • PASSO 5: A TRIBUTOS 550 650 800 1000 1100 1500 2000 ? • --- Em campanhas realistas, personagens mortais pos- su...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-passo-12-inimigos-47",
+      "name": "PASSO 12: INIMIGOS",
+      "category": "attribute_skill",
+      "pages": [
+        47
+      ],
+      "summary": "PASSO 12: INIMIGOS A imortalidade também traz alguns inconvenientes. Os mais perigosos sao os inimigos. Um personagem imortal possui 1 inimigo para cada 50 anos de vida (já inicia com no llÚnimo 1 inimigo). O Mestre pode permitir que persona- gens mais velhos possuam menos inimigos, sendo que estes serão mais poderosos. São considerados inimigos NPCs com pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-tabela-de-valores-de-a-tributos-48",
+      "name": "TABELA DE VALORES DE A TRIBUTOS",
+      "category": "attribute_skill",
+      "pages": [
+        48
+      ],
+      "summary": "sonage m não fica apavorado diante de uma situação TABELA DE VALORES DE A TRIBUTOS amedrontadora. Também está relacionada com a Magia e poderes psíquicos. FR Bônus AGI CARISMA (CAR) Atributo Carregar Levantar de dano Velocidade- (kg) (kg) (mi,) Detennina O charme do Personagem, sua capacida- lD 1-2 I 5 30 -3 1.5 de de fazer com que outras pessoas gostem dele...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-pericias-49",
+      "name": "PERICIAS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          49,
+          51
+        ]
+      ],
+      "summary": ", PERICIAS Perícias são as habilidades do seu Per- sonagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momen- to que o personagem é criado, verifique a Tabela de Pontos. Esses pontos po- dem ser gastos com quaisquer Períci- as descritas neste tópico, mas sem- pre com aprovação do mestre. SUBGRUPOS Algumas Perícias são marcadas com u...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-artifice-dex-52",
+      "name": "ARTÍFICE' (DEX)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          52,
+          54
+        ]
+      ],
+      "summary": "ARTÍFICE' (DEX) , E a habilidade de se trabalhar com um material es- pecifico. Pode-se construir ou concertar roupas, moveis, cai- xas, utensílios em geral, ferramentas. Potes, casas ou até ar- mas (veja subgrupos). Porem, ser um aJtífice dá apenas o conhecimento para utilizar um material escolhido. O projeto da casa fica para engenheiros e a fechadura da ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-eletronica-o-55",
+      "name": "ELETRÔNICA (O)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          55,
+          58
+        ]
+      ],
+      "summary": "ELETRÔNICA (O) o Personagem sabe consertar aparelhos eletrônicos, como telefones, computadores, eletrodomésticos e quaisquer máquinas que fUl1cjonem com circuitos complexos. Para máquinas mais simples, como calTOS e armas, usa-se a pelí- da Mecânica. Eletrônica não exige especialização em um subgrupo especifico. A perícia Eletrônica permite concertar circuit...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-meditacao-will-59",
+      "name": "MEDITAÇÃO (WILL)",
+      "category": "attribute_skill",
+      "pages": [
+        59
+      ],
+      "summary": "MEDITAÇÃO (WILL) O Personagem é capaz de entrar num estado de tran- se, concentrando-se por alguns minutos. Uma hora de medi- tação é o suficiente para cancelar qualquer modificar físico ou mental que tenham como causa stfess emocional. Tam- bém dá um bônus de 10% na Força de Vontade por UIT! dia inteiro. Mas se for interrompida deve ser reiniciada. MINERAÇÃ...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-aprimoramentos-60",
+      "name": "APRIMORAMENTOS",
+      "category": "combat",
+      "pages": [
+        [
+          60,
+          61
+        ]
+      ],
+      "summary": "APRIMORAMENTOS Aptimoramentos são detalhes incomuns, faros ou até mesmo sobrenaturais que tornam o Personagem diferen- te dos demais, além de conceder certas vantagens em jogo. A quantidade de Pontos de Aprimoramento dependem da idade do Personagem (veja Tabela de Pontos). Esses pontos não podem ser simplesmente \"gastos\", eles devem condizer com a história d...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-genialidade-62",
+      "name": "GENIALIDADE",
+      "category": "core_rule",
+      "pages": [
+        62
+      ],
+      "summary": "GENIALIDADE J PONTOS: Algumas pessoas nascem com uma in- teligência privilegiada e são capazes de compreender assun- tos com o qual tenham tido cantata por livros, experiência ou mesmo observando e analisando alguns eventos. Todos os testes de inteligência considerados difíceis (perícias liga- da a INT também são beneficiadas) devem ser tratados como testes...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-mestre-63",
+      "name": "MESTRE",
+      "category": "core_rule",
+      "pages": [
+        [
+          63,
+          64
+        ]
+      ],
+      "summary": "MESTRE 2 PONTOS: Todos sabem que imortais lutam entre si pelo pode e conhecimento do outro, mas a grande maioria se sente compelida a ensinar imortais recém-despertos, tOf- , nando-se mestre dele. E quase impossível encontrar um imor- tal que tenha aprendido sobre sua imortalidade sozinho. Em jogo esse imortal irá tentar auxiliar o persona- gem em seu prepar...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-capitulo-2-65",
+      "name": "CAPÍTULO 2",
+      "category": "core_rule",
+      "pages": [
+        65
+      ],
+      "summary": "CAPÍTULO 2 funciona em qualquer Plano Existencial que o Personagem esteja (Plano Astral, Inferno e etc). SENSO NUMÉRICO I PONTO: O Personagem é capaz de contar imedi- atamente grande quantidade de objetos. com muita precisão. Pode contar cabeças de gado. quantos palitos de fósforo ca- íram de uma caixa, caltas de baralho e coisas assim. SENTIDOS AGUÇADOS I P...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-talento-66",
+      "name": "TALENTO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          66,
+          68
+        ]
+      ],
+      "summary": "TALENTO / PONTO POR ARTE: Todos os Testes Normais ligados a uma determinada Arte (perícia) são feitos como se fossem Testes Fáceis e Testes Difíceis são feitos corno Nor- mais. A critério do Mestre, outras Perícias podem ser esco- lhidas pelo Jogador, desde que não sejam Perícias de Com- bate. VISÃO NOTURNA 2 PONTOS: Permite ao personagem enxergar per- feita...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-ironico-69",
+      "name": "IRONICO",
+      "category": "core_rule",
+      "pages": [
+        [
+          69,
+          74
+        ]
+      ],
+      "summary": "- IRONICO -1 PONTO: O Personagem é extremamente irônico e vive fazendo gracinhas e tentando rir às custas dos outros. É obrigatória a interpretação deste aprimoramento, caso o jogador insista em não fazê-lo o mestre pode fazê-lo ser sar- cástico com autoridades ou outros seres e em último caso perder o aprimoramento e o ponto ganho. IOVEM Alguns imortais des...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-corpus-75",
+      "name": "CORPUS",
+      "category": "combat",
+      "pages": [
+        [
+          75,
+          76
+        ]
+      ],
+      "summary": "CORPUS A Ressonância permite ao imortal realizar ações fí- sicas muito além do que um mortal poderá alcançar. Esta Dádiva afeta a resistência, força e velocidade. Todos duram 3 minutos (deve-se respeitar o limite máximo de Ressonân- cia que um Personagem pode usar por turno). Depois de ativar um poder, o Personagem só pode- rá usar mais pontos de Ressonância...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-capitulo-3-77",
+      "name": "CAPÍTULO 3",
+      "category": "core_rule",
+      "pages": [
+        77
+      ],
+      "summary": "CAPÍTULO 3 , NIVEL 3 LOCALIZAR: Permite localizar alguém em uma multidão ou dentro de um prédio. É necessário conhecer ou possuir algum objeto que pertença ao \"alvo\". NÍVEL 4 PRESSENTIMENTO: Permite saber se alguém está procurando por você ou se algo está prestes a acontecer como: um desastre, uma emboscada ou uma traição. O Mestre deve fornecer informações...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-nivelj-78",
+      "name": "NÍVELJ",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          78,
+          79
+        ]
+      ],
+      "summary": "NÍVELJ PÂNICO: Permite ao imortal infligir um medo tão profundo em sua vítima que ela não conseguirá realizar ne- nhuma ação a não ser fugir. 3 pontos de Ressonância. AURA DE MEDO: O Personagem será sempre evi- tado por outros, ao sentar em um ônibus ninguém irá sentar do seu lado, se for a uma reunião social ninguém irá se apro- ximar. Está sempre atiV3. NÍ...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-nivels-80",
+      "name": "NÍVELS",
+      "category": "core_rule",
+      "pages": [
+        [
+          80,
+          81
+        ]
+      ],
+      "summary": "NÍVELS TORNAR OUTROS INVISÍVEIS: Como Invisibilidade. 5 pontos de Ressonância para cada alvo por rmnuto. ILUSÃO REAL: neste nível todas as ilusões cria- das podem ser tocadas e serão sentidas como reais. ENERGIA A Ressonância é uma fonte de energia e como tal pode ser usada para afetar aparelhos eletrônicos ou mesmo a corrente elétrica . • NIVEL I INTERFERÊN...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-taj-do-82",
+      "name": "TAJ-DO",
+      "category": "combat",
+      "pages": [
+        82
+      ],
+      "summary": ", TAJ-DO As artes marciais foram desenvolvidas por imortais e aprendidas por mortais, mas a alie do Tai-dô só é domina- da põr imortais. Esta na verdade não é uma arte de luta, mas sim uma Dádiva que permite realizar ataques extras e mais potentes ou mesmo usar as mãos para defender armas. NÍVEL 1 MÃOS DEFENSIVAS: O Personagem pode apa- rar ou bloquear ataqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-vicor-83",
+      "name": "VICOR",
+      "category": "core_rule",
+      "pages": [
+        83
+      ],
+      "summary": "VICOR Imortais são os seres mais vigorosos do mundo e como tais dominam os segredos da vitalidade com maestria. Todos os seres possuem uma energia vital e esta Dádiva per- mitirá ao imortal manipular tanto a sua como a de outros. Todos os poderes abaixo podem ser usados em outros perso- nagens. Se desejar, o alvo pode fazer um teste de Resistência (WILL vs....",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-njvelj-84",
+      "name": "NJVELJ",
+      "category": "attribute_skill",
+      "pages": [
+        84
+      ],
+      "summary": ", NJVELJ RESSONANCIA: Permite ao Personagem recupe- rar +5 pontos de Ressonância Ativa a cada hora. FIM DE COMBA TE: Todos os que estão no raio de efeito do poder irão parar de lutar e se acalmar, incluindo quem usou o poder. 4 pontos de Ressonância e raio de efeito igual ao nível de Ressonância x5 metros. , N/VEL 4 COMPARTILHAR: Pennite ao Personagem com- p...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-nivels-85",
+      "name": "NÍVELS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          85,
+          88
+        ]
+      ],
+      "summary": "NÍVELS Permite mover até 400Kg com a força da mente. Pode mover ou levantar objetos como se tivesse FR 30. TELEPATIA É o segredo da comunicaçao mental, permitindo que imortais usem a energia da Ressonância para se comunica- rem com qualquer pessoa. O alvo só pode resistir a poderes que tentem alterar sua mente. Neste caso, será feito um Teste de Atributo (WI...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-prologo-89",
+      "name": "PROLOGO",
+      "category": "power_magic",
+      "pages": [
+        [
+          89,
+          93
+        ]
+      ],
+      "summary": "- PROLOGO Depois que os jogadores criaram seus personagens, é aconselhável que o Mestre realize urna sessão de jogo de apresentação. Essa é uma oportunidade para que os jogado- res apresentem seus personagens e comecem a se habituar com eles e com as regras. Um bom tema para este prólogo seria algum incidente ou fato ocorrido com o personagem no passado quan...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-cenario-94",
+      "name": "CENÁRIO",
+      "category": "core_rule",
+      "pages": [
+        [
+          94,
+          97
+        ]
+      ],
+      "summary": "juntar tudo de modo que a campanha tome uma forma con- sistente. Sempre dê um útulo à sua campanha e se desejar, dê títulos também às sessões (como se fosse um capítulo de uma serie). Veja a seguir um pequeno questionário que irá auxiliá- lo: CENÁRIO 1- Qual a data de inicio da campanha? 2- Em que cidade será ambientada? 3- Qual será o clima? 4- Os personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-sucesso-e-fracasso-98",
+      "name": "SUCESSO E FRACASSO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          98,
+          99
+        ]
+      ],
+      "summary": "res. Essa é a chance da Fonte Ativa vencer o Teste. SUCESSO E FRACASSO AUTOMATICOS Existem casos onde não há chances de vitória. Isto acontece quando a diferença entre os Atributos é igualou maior 'que 10. Neste caso, considera-se o Teste um sucesso automático, sendo desnecessário jogar dados. SOMANDO A TRIBUTOS E o que se deve fazer quando vários Personagen...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-serao-discutidos-mais-adiante-nesse-capitulo-100",
+      "name": "serão discutidos mais adiante, nesse capítulo.",
+      "category": "combat",
+      "pages": [
+        100
+      ],
+      "summary": "ordem de iniciativa. Detalhes sobre como fazer um ataque serão discutidos mais adiante, nesse capítulo. 1- CALCULA-SE OS ACERTOS E DANOS Verificam-se todos os acertos e calculam-se os da- nos. Detalhes sobre danos e proteções serão discutidos mais adiante. Depois das quatro etapas, verifica-se quais são os Personagens sobreviventes da batalha que pretendem c...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-inicia-tiva-nega-tiva-101",
+      "name": "INICIA TIVA NEGA TIVA",
+      "category": "combat",
+      "pages": [
+        [
+          101,
+          105
+        ]
+      ],
+      "summary": "INICIA TIVA NEGA TIVA Se um Personagem, após ter os modificadores apli- cados, ficar com iniciativa negativa, ele perde sua ação na rodada corrente. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumulada~ de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada se...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-ataque-total-106",
+      "name": "ATAQUE TOTAL",
+      "category": "combat",
+      "pages": [
+        [
+          106,
+          108
+        ]
+      ],
+      "summary": "ATAQUE TOTAL Também conhecido como Carga. O Personagem esquece todas as recomendações sobre prudência e ataca seu inimigo. Ele realiza um único ataque e não tem direito a de- fesa. Seu valor de ataque aumenta em 10% e o dano em +2. Além disso o dano de impacto passa a ser 3. DEFESA TOTAL Se o Personagem decidir que não pretende atacar o oponente e irá soment...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-cura-109",
+      "name": "CURA",
+      "category": "attribute_skill",
+      "pages": [
+        109
+      ],
+      "summary": "CURA Um Personagem, mortal, recupera um PV por dia completo de descanso. Lembre-se que o Personagem tam- bém pode sofrer danos especiais como torções, ruptura de ligamentos ou fraturas de ossos. Nesses casos, considere um tempo maior em semanas ou até meses para uma recupera- ção completa. Algumas substâncias e poderes permitem a um Personagem recuperar-se m...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-experiencia-110",
+      "name": "EXPERIÊNCIA",
+      "category": "attribute_skill",
+      "pages": [
+        110
+      ],
+      "summary": "EXPERIÊNCIA Em Imortal, sobreviver a uma Aventura muitas ve- zes já é um prêmio em si, mas para recompensar os Persona- gens que resistiram bravamente e conseguiram resolver uma Aventura (ou parte dela, ou que pelo menos saíram vivos ... ), existe um sistema que permite aos Personagens aumentarem seus poderes durante suas Aventuras. Esse sistema é chamado de...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-metodo-2-por-idade-111",
+      "name": "MÉTODO 2 - POR IDADE",
+      "category": "attribute_skill",
+      "pages": [
+        111
+      ],
+      "summary": "MÉTODO 2 - POR IDADE o Mestre que quiser dar mais vida e toniar suas aventuras mais empolgantes pode iniciar sua aventura em outra época da história do mundo (dê uma olhada na Linha de tempo no fim do livro para usar como referência). Usan- do este artifício, O Mestre pode controlar 3 a 5 aventuras ou uma pequena campanha por década, até a época que preten-...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-metodo-3-por-pontos-112",
+      "name": "METODO 3 - POR PONTOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          112,
+          115
+        ]
+      ],
+      "summary": ", METODO 3 - POR PONTOS Ao térmjno de cada sessão de jogo, você pode con~ ceder de O a 15 Pontos de Experiência para cada persona- gem, baseado na interpretação do jogador. Este método deve ser cuidadoso e cabe ao mestre dosar a quantidade adequada de pontos para cada um, para permitir que evoluam sem com- prometer o bom andamento da campanha. Para auxiliá-l...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-lutador-de-kung-fu-116",
+      "name": "LUTADOR DE KUNG FU",
+      "category": "kit_class",
+      "pages": [
+        116
+      ],
+      "summary": "LUTADOR DE KUNG FU Custo: 3 pts. de Aprimoramentos, 160 pts. de Perícia. Perícias: Artes Marciais (Kung Fu 50/50), Acrobacia 20%, Ciências (Filosofia 20%), Ciências Proibidas (Acupuntura 30%, Chi Kung 30%). , LUTADOR DE KARATE Custo: 3 pts. de Aprimoramento, 120 pts. de Perícias Perícias: Artes Marciais (Karatê 50/50), Acrobacia 10%, Ciências (Filosofia 20%)...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-bibliotecario-117",
+      "name": "BIBLIOTECÁRIO",
+      "category": "attribute_skill",
+      "pages": [
+        117
+      ],
+      "summary": "BIBLIOTECÁRIO Toda biblioteca tcm um encalTcgado de manter em ordem todo o acervo literário, catalogar livros, conhecer seus assuntos e reconhecer cada estante de uma biblioteca. Essa profissão perdura até os dias de hoje, mas na Idade Média ela era bastante importante, uma vez que para achar um li- vro, a única maneira era solicitá-lo ao Bibliotecário. Com...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-medico-118",
+      "name": "MEDICO",
+      "category": "combat",
+      "pages": [
+        118
+      ],
+      "summary": ", MEDICO Na época medieval, os médicos formavam uma clas- se social muito à parte. A medicina era pouco aprofundada e muitas doenças eram desconhecidas. Mas nos dias atuais a tecnologia possibilita a um médico descobrir e prescrever medicamentos para todas as doenças conhecidas. Custo: 2 pts. de Aprimoramento, 200 pts. de Perícia. Perícias: Ciências (Herbali...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-comando-de-operacoes-ta-ticas-119",
+      "name": "COMANDO DE OPERAÇÕES TÁ TICAS",
+      "category": "combat",
+      "pages": [
+        119
+      ],
+      "summary": "COMANDO DE OPERAÇÕES TÁ TICAS (COT) Custo: 3 pts. de Aprimoramento, 300 pts. de Perí- · ela. Perícias: Pistola 50/0, Rifle 30/0, Artes Marciais 40/30, Direito 40%, Burocracia 30%, Condução (Automóvel 30%), Informática (Computaçao 20%), Ciências (Psicologia 20%), Manha 20%, Manipu- lação (Lábia 40%, Interrogatório 30%), Pesquisai Investigação 50%, Arrombament...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-algumas-personalidades-120",
+      "name": "ALGUMAS PERSONALIDADES",
+      "category": "combat",
+      "pages": [
+        [
+          120,
+          122
+        ]
+      ],
+      "summary": "ALGUMAS PERSONALIDADES Aqui apresentaremos alguns personagens prontos, com história e estatísticas. Eles podem ser usados como PCs ou NPCs, mas em ambos os casos o Mestre deve ficar atento porque alguns personagens aqui apresentados podem desequilibrar uma campanha, por serem muito poderosos. _ \"\"0:::\"''':::;;' ;'\"--- V - .. ARTHUR CAVALlER DA TA E LOCAL DE...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-tancas-123",
+      "name": "TAnCAS",
+      "category": "power_magic",
+      "pages": [
+        123
+      ],
+      "summary": "TAnCAS Mesmo não sendo um covarde, escolhe muito bem suas lutas. Sabe que ainda é muito jovem e prefere usar sua gangue para enfraquecer seus inimigos antes de combater. Isso tem feito com que outros imortais não o vejam com bons olhos, o que pode decretar sua morte em muito breve, ou apenas fortalecê-lo. IMORTAIS LENDARIOS Estes são imortais que ainda podem...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-nefertlte-124",
+      "name": "NEFERTlTE",
+      "category": "power_magic",
+      "pages": [
+        124
+      ],
+      "summary": "NEFERTlTE $' \" -• Última representante do povo Etrusco, uma das mais enigmáticas culturas do mundo. Nascida há mais de 3000 mil anos, é extremamente carismática e uma líder nata, mas sua vida é marcada por tragédias que poderiam deixar qual- quer um louco. Durante sua adolescência, sua aldeia foi atingida por uma peste que provocou a morte de quase todos. El...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-dinheiro-125",
+      "name": "DINHEIRO",
+      "category": "item_equipment",
+      "pages": [
+        125
+      ],
+      "summary": "DINHEIRO De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Persona- gem pode ser r...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-armas-126",
+      "name": "ARMAS",
+      "category": "item_equipment",
+      "pages": [
+        126
+      ],
+      "summary": "ARMAS Armas ajudam, mas nem sempre resolvem tudo no universo de Imortal. Creia, você vai ficar muito desapontado quando descobrir que tiros nada valem contra a criatura que se aproxima de seus Personagens nos túneis de esgotos. Cuidado com o período em que se passa sua Cam- panha. Armas de fogo não existiam na Idade Antiga, nem na Idade Média, e mesmo antes...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-elexorien-sword-of-war-127",
+      "name": "ELEXORIEN SWORD OF WAR",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          127,
+          128
+        ]
+      ],
+      "summary": "ELEXORIEN SWORD OF WAR , DANO :/D/O INICIATIVA :-J DANO :2D6 INICIATIVA : -6 MORTHOSETH SWORD OF SHADOWS t .. --... DANO :/DIO INICIATIVA: -5 * 7 • . , - LIONHEART DANO :2D6 INICIATIVA :-5 - E & • = RING HILT RAPIER DANO :/D6+2 INICIA TIV A :-J BARBARIAN SWORD DANO : INICIATIVA :-7 SERPENTE MASTER SWORD DANO :/DIO INICIATIVA: -6 - = 2 - - UNITED STATE MARINE...",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-background-129",
+      "name": "BACKGROUND",
+      "category": "item_equipment",
+      "pages": [
+        129
+      ],
+      "summary": ". - • • • BACKGROUND • ------------------------ . • • - .- - -- ~~-:_=--. ....... - ---:--~~-- - EQUIPAMENTOS BENS ALIADOS E CONTATOS INIMIGOS CONHECIDOS ,",
+      "entityRefs": []
+    },
+    {
+      "id": "imortal-quem-quer-vi-ver-para-sempre-130",
+      "name": "Quem Quer Vi'ver Para Sempre?",
+      "category": "power_magic",
+      "pages": [
+        130
+      ],
+      "summary": "Quem Quer Vi'ver Para Sempre? Neste Mundo de Revelações, onde a ciência está fazendo o impossível e a humanidade o improvável, imortais caminham. Muitos viram o nascimento da humanidade. A chama da vida que queima em suas essências é muito mais poderosa e a morte nada representa para eles, pois são imortais. . Todas as culturas do mundo têm mitos sobre eles....",
+      "entityRefs": []
+    }
+  ]
+}

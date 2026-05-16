@@ -1,0 +1,27 @@
+{
+  "source": "os-invocadores-de-demencia",
+  "title": "Os Invocadores de demência",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "race_lineage",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "os-invocadores-de-demencia-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Os Invocadores de demência são seres treinados pela Cabala para chegar até os confins de sua psiquê e liberar os monstros mais aterradores baseados em seus próprios medos mais profundos e a mais obscura imaginação. Este magos vagam pelo mundo procurando observar animais e monstros para mais tarde arrancá-los de suas memórias como aberrações distorcidas de su...",
+      "entityRefs": []
+    }
+  ]
+}

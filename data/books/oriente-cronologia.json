@@ -1,0 +1,96 @@
+{
+  "source": "oriente-cronologia",
+  "title": "Oriente_Cronologia",
+  "status": "full-read-auto-pass-1",
+  "pages": 28,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "setting_lore",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "oriente-cronologia-trevas-do-1",
+      "name": "Trevas do",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "Trevas do Oriente Cronologia HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "category": "setting_lore",
+      "pages": [
+        2
+      ],
+      "summary": "CONSIDERACOES Este Netbook (aliás, o meu primeiro) trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estuda...",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "category": "setting_lore",
+      "pages": [
+        3
+      ],
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-antes-do-inicio-4",
+      "name": "Antes do Início",
+      "category": "creature_npc",
+      "pages": [
+        [
+          4,
+          14
+        ]
+      ],
+      "summary": "Antes do Início A História conhecida por todos os Iluminados ocidentais se inicia com a chegada de Demiurge ao plano de Paradísia, vindo do plano altíssimo, o Edhen. Mas, para os orientais, o início de tudo acontece muito antes. Paradísia já tinha seus habitantes antes da chegada dos edhênicos e da criação de todos os seus servos. Estes paradisianos tinham i...",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-parte-da-china-nao-aceitava-a-dominacao-15",
+      "name": "Parte da China não aceitava a dominação",
+      "category": "power_magic",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "Parte da China não aceitava a dominação do norte pelos Hunos, e a primeira Tríade foi criada, sob o comando do imortal Huang Ti, o Tatsu Sin- Fang e o Kiang-Shi Te Kwan. Sua criação foi feita ao mesmo tempo em que sua presença era aceita dentro dos 28 Palácios Lunares. A Tríade auxiliou a família Wei a assumir o governo chinês no norte, após a queda da dinas...",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-budismo-na-china-17",
+      "name": "Budismo na China",
+      "category": "power_magic",
+      "pages": [
+        [
+          17,
+          21
+        ]
+      ],
+      "summary": "Budismo na China Os Kiang-Shi, no controle da dinastia Tang que dominava a China, resolveu enfraquecer a influência do Budismo sobre seu país, criando uma verdadeira perseguição aos budistas, torturando-os e exilando-os da China. Como nenhuma das cidades paradisianas sabia para qual das cidades Buda realizou seus feitos, nem Katmaran nem Shang- Qing se pronu...",
+      "entityRefs": []
+    },
+    {
+      "id": "oriente-cronologia-revoltas-anti-imperialistas-22",
+      "name": "Revoltas Anti-Imperialistas",
+      "category": "kit_class",
+      "pages": [
+        [
+          22,
+          28
+        ]
+      ],
+      "summary": "Revoltas Anti-Imperialistas Nesta época, o Japão estava completamente isolado de todos os outros países, buscando estabilidade política e social. Os Iluminados americanos perceberam a ameaça que o Japão se tornaria se a cidade de Amaterasu se consolidasse no arquipélago, e enviou um de seus agentes, o Comodoro Perry àquela nação. Perry ameaçou bombardear tod...",
+      "entityRefs": []
+    }
+  ]
+}

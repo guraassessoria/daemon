@@ -1,0 +1,50 @@
+{
+  "source": "daiphir-legado-de-sangue-biblioteca-elfica",
+  "title": "Daiphir-legado-de-sangue-biblioteca-elfica",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 21,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "power_magic",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "daiphir-legado-de-sangue-biblioteca-elfica-pagina-inicial-1-1",
+      "name": "Pagina inicial (1-10)",
+      "category": "race_lineage",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 2 Introdu÷‘o Nesse netbook serão tratados os daiphiri, crias da união proibida entre humanos e vampiros. Sim, o fruto dessa união existe, pois existe a mínima chance de um vampiro engravidar uma humana – ou vice-versa. Infelizmente, esse netbook não atingiu a meta esperada e tive de resumir algumas coisas que eu queria colocar aqui, porque se ele não saíss...",
+      "entityRefs": []
+    },
+    {
+      "id": "daiphir-legado-de-sangue-biblioteca-elfica-pagina-inicial-1-2",
+      "name": "Pagina inicial (11-20)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 poderá acessar o poder vampírico Transformação em Animais, mas não poderá mais evoluir no poder vampírico Spiritum. Caso continue no Caminho da Alma ele poderá evoluir livremente no poder Spiritum. Vale a pena mencionar que os Dratvoz não aprendem o poder vampírico Spiritum com estudo mágico em tomos ou tábuas; eles aprendem com o convívio com o mundo, na...",
+      "entityRefs": []
+    },
+    {
+      "id": "daiphir-legado-de-sangue-biblioteca-elfica-pagina-inicial-1-3",
+      "name": "Pagina inicial (21-21)",
+      "category": "race_lineage",
+      "pages": [
+        21
+      ],
+      "summary": "- 21 - Fruto de uma uni‘o proibida. Fruto de magia antiga. Fruto de erros. Fruto do Mal. No netbook DAIPHIR: Legado de Sangue, escrito por H. P. Almeida, ser‘o descritas quatro fam¤lias- daphiri, linhagens de daphiri que conseguiram se destacar e adquirir suas caracter¤sticas pr‡prias ao longo dos s◊culos.",
+      "entityRefs": []
+    }
+  ]
+}

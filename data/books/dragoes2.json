@@ -1,0 +1,86 @@
+{
+  "source": "dragoes2",
+  "title": "dragoes2",
+  "status": "full-read-auto-pass-1",
+  "pages": 28,
+  "primaryCategories": [
+    "setting_lore",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "dragoes2-dragoes-1",
+      "name": "Dragões",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Dragões by BURP",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes2-introducao-2",
+      "name": "Introdução",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Introdução Apresento-lhes, então, o meu primeiro netbook para Daemon. É bem verdade que eu já colaborei, de uma forma ou de outra, com outros nebooks, mas acredito que este é o primeiro que pode realmente ser considerado de minha autoria - em outros, eu era pouco mais (ou as vezes menos) do que um simples colaborador. Alguns talvez me conheçam pelos meus tra...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes2-capitulo-i-4",
+      "name": "Capítulo I",
+      "category": "creature_npc",
+      "pages": [
+        [
+          4,
+          9
+        ]
+      ],
+      "summary": "Capítulo I Dragões!! O que é um dragão? Responder esta pergunta parece fácil para um jogador de RPG com um mínimo de experiência - muito provavelmente você pensou em uma grande besta reptiliana que cospe fogo, ou algo parecido, certo? Na verdade, esta é uma questão muito mais complexa do que parece, e é impossível de ser resumida a algo tão simples. A quanti...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes2-capitulo-ii-10",
+      "name": "Capítulo II",
+      "category": "creature_npc",
+      "pages": [
+        [
+          10,
+          23
+        ]
+      ],
+      "summary": "Capítulo II Personagens Dragões Jogadores que queiram podem utilizar dragões como personagens, utilizando as regras presentes neste livro. Deve-se, no entanto, tomar muito cuidado em permiti-los como personagens jogadores em um grupo, pois o poder destas criaturas pode facilmente desequilibrar uma campanha, sobretudo utilizando o Sistema Daemon, em que norma...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes2-nivel-1-baforada-comum-causando-24",
+      "name": "Nível 1: baforada comum, causando",
+      "category": "core_rule",
+      "pages": [
+        [
+          24,
+          27
+        ]
+      ],
+      "summary": "Nível 1: baforada comum, causando 1d6+2 de dano para cada nível de Poder. Nível 2: troca o dado para calcular o dano para d8: 1d8+2 para cada nível de Poder. Nível 3: neste nível, a baforada passa a ser capaz de ferir normalmente criaturas feridas apenas por magia. Nível 4: troca o dado para calcular o dano para d10: 1d10+2 para cada nível de Poder. Nível 5:...",
+      "entityRefs": []
+    },
+    {
+      "id": "dragoes2-sistema-daemon-28",
+      "name": "Sistema Daemon: *",
+      "category": "core_rule",
+      "pages": [
+        28
+      ],
+      "summary": "Sistema Daemon: * ?? Regras Básicas do Sistema Daemon, de Marcelo Del Debbio ?? Gerador de Raças, de Rodrigo “Lamazuus” Linn e Anderson “Anúbis” ?? Guia de Dragões de Arton, de Maury “Shi Dark” Abreu ?? Sangue de Dragão, de Eduardo “Ed” Cardoso *NOTA: todos estes livros podem ser baixados gratuitamente em http://www.daemon.com.br Imagens: ?? Here Be Dragons...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "source": "um-sussurro-nas-trevas",
+  "title": "Um Sussurro nas Trevas",
+  "status": "full-read-auto-pass-1",
+  "pages": 113,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "item_equipment",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "um-sussurro-nas-trevas-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-um-sussurro-2",
+      "name": "Um Sussurro",
+      "category": "setting_lore",
+      "pages": [
+        2
+      ],
+      "summary": "Um Sussurro nas Trevas Alexander “El Brujo” Siqueira",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-um-sussurro-nas-trevas-3",
+      "name": "Um Sussurro nas Trevas",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Um Sussurro nas Trevas Agradecimentos: Ao Howard Phillips Lovecraft por desenvolver todo um sistema mitológico insandecedor para sua literatura de Horror. Ao Sand Petersen por criar o primeiro RPG de Horror investigativo Call of Cthulhu. Ao Marcelo Del Debbio por criar o Sistema Daemon. A Minha Amada Esposa Fabiana por aturar minhas loucuras e sempre me ince...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-introducao-4",
+      "name": "Introdução",
+      "category": "creature_npc",
+      "pages": [
+        4
+      ],
+      "summary": "Introdução Um dos grandes estilos de aventuras de RPG são, sem sombra de dúvida, as tramas que envolvem horror e mistério, sejam estes de caráter policial, sobrenatural ou histórico. Ainda, um extenso e famoso nicho deste tipo de aventura é onde temos a inclusão dos famosos Mythos de Cthulhu na trama. Mas afinal de contas, quem é esse tal de Cthulhu? O Grand...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-criacao-de-personagens-5",
+      "name": "Criação de Personagens",
+      "category": "creature_npc",
+      "pages": [
+        [
+          5,
+          10
+        ]
+      ],
+      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policiais, agen...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-aprimoramentos-basicos-11",
+      "name": "Aprimoramentos Básicos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "summary": "Aprimoramentos Básicos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa o jogo com 5 pontos de Aprimoramentos e o Jogador pode gastá-los como desejar. Esses pontos não podem simplesmente serem “gastos”, mas o Mestre e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-pericias-15",
+      "name": "Perícias",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Perícias Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos de Perícias...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-lista-de-pericias-16",
+      "name": "Lista de Perícias",
+      "category": "item_equipment",
+      "pages": [
+        16
+      ],
+      "summary": "Lista de Perícias A lista de Perícias está apresentada no seguinte formato: Grupo *Subgrupos Observação: o símbolo * só aparecerá em casos nos quais a Perícia tiver subgrupos. Quando isso ocorrer, você deve escolher apenas UM dos subgrupos correspondentes. Animais* Alguns subgrupos possíveis: Treinamento de animais (0), Montaria (AGI), Doma (0), Veterinária...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-jogos-17",
+      "name": "Jogos*",
+      "category": "race_lineage",
+      "pages": [
+        17
+      ],
+      "summary": "Jogos* Alguns subgrupos possíveis: Cartas (PER), Tabuleiro (INT), Videogames (DEX), RPG (INT). Manipulação* Alguns subgrupos possíveis: Empatia (CAR), Hipnose (0), Impressionar (CAR), Interrogatório (INT), Intimidação (WILL), Lábia (CAR), Liderança (CAR), Manha (CAR), Sedução (CAR), Tortura (INT). Manuseio de Fechaduras (0) Mecânica (DEX) Medicina* Cirurgia...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-equipamentos-18",
+      "name": "Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "Equipamentos Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Personagem...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-armas-de-fogo-20",
+      "name": "Armas de fogo",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "summary": "Armas de fogo A seguir, apresentamos algumas das armas preferidas dos investigadores. Muitas delas são armas pessoais deles, algumas são facilmente encontradas ou simples de manusear e outras ainda foram escolhidas pelo seu alto poder de fogo. Para outras opções de armas, consulte o GUIA DE ARMAS, que contém mais de trezentos tipos de armas de fogo, incluind...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-teste-de-resistencia-23",
+      "name": "Teste de Resistencia",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "Teste de Resistencia Em alguns casos, os Personagens são submetidos a provações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por venenos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-intencoes-24",
+      "name": "Intenções",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "Intenções Todos os Jogadores dizem ao Mestre o que, quando, como e de que maneira pretendem realizar suas ações durante essa rodada de combate. Não importa a ordem em que os Jogadores anunciam seus intentos, desde que seja rápido o suficiente para não atrapalharem o andamento do jogo. O Mestre deve dar a cada um dos Jogadores cerca de 10 a 20 segundos. Caso...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-fazer-um-teste-de-pericia-25",
+      "name": "Fazer um Teste de Perícia.",
+      "category": "combat",
+      "pages": [
+        [
+          25,
+          31
+        ]
+      ],
+      "summary": "Fazer um Teste de Perícia. Levantar-se do chão e postar-se em posição de combate. Pegar um objeto caído e colocá-lo em posição de uso (uma arma ou escudo, por exemplo). Usar um objeto que esteja nas mãos. Montar ou desmontar de um cavalo. Mover-se até AGI metros, mantendo posição de defesa. Correr até CONx3 metros, abdicando de sua esquiva. Largar um objeto...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-experiencia-32",
+      "name": "Experiência",
+      "category": "creature_npc",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demônios e...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-os-anos-20-34",
+      "name": "Os Anos 20",
+      "category": "power_magic",
+      "pages": [
+        34
+      ],
+      "summary": "Os Anos 20 Porque a década de 20? Porque os anos 20 são sem dúvida uma época popular para o RPG sobrenatural e existe uma boa quantidade de informação disponível sobre este período. Mas, existem razões mais fortes para o Mestre escolher os anos 20 do que o fato dele poder saber quanto custa um relógio. A primeira vantagem do jogo ambientado nos anos 20 é a a...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-cenarios-35",
+      "name": "Cenários",
+      "category": "adventure",
+      "pages": [
+        [
+          35,
+          40
+        ]
+      ],
+      "summary": "Cenários Não esqueça que os anos 20 estão repletos de cenários que não estão relacionados com o gangsterismo e as melindrosas. Em Nova York, o Harlem tinha a melhor vida noturna do mundo conhecido para negros e brancos ricos, e circulava rumores sobre locais onde acontecia absolutamente de tudo. As Chinatowns ainda eram locais misteriosos para as pessoas que...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-lidando-com-armas-41",
+      "name": "Lidando com Armas",
+      "category": "power_magic",
+      "pages": [
+        [
+          41,
+          43
+        ]
+      ],
+      "summary": "Lidando com Armas Existem várias maneiras de se evitar o problema da aniquilação das aventuras por de Personagens fortemente armados. Primeiro este tipo de armamento só funciona contra ameaças físicas. Fantasmas, espíritos e outros tipos de entidades incorpóreas não são afetados pelas armas não importa quantos tiros ela dispara por turno. É possível parar cu...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-equipamentos-e-servicos-44",
+      "name": "Equipamentos e Serviços",
+      "category": "item_equipment",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "Equipamentos e Serviços Pá Relógio de pulso Lampião elétrico 10m de corda Binoculo (aumento de 5x) Coldre axilar Microscópio (aumento de até 250x) Câmera Kodak Bicicleta Lanterna (precisa de 3 pilhas) Bateria Relógio de corda Roupas comuns Roupas formais Vestido simples Vestido de alta qualidade Vestido formal Sapatos ou botas Baú Material de acampamento Mat...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-regiao-do-medo-46",
+      "name": "Região do Medo",
+      "category": "power_magic",
+      "pages": [
+        [
+          46,
+          58
+        ]
+      ],
+      "summary": "Região do Medo A Região Lovecraftiana (por vezes chamada de Lovecraftian Country) se localiza no noroeste do estado de Massachussetts na costa leste dos Estados Unidos. A porção mais importante se estende ao longo do vale do Rio Miskatonic, sendo os pontos mais distantes Dunwich a oeste e a embocadura do Oceano Atlântico a Leste. Aqui está uma pequena descri...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-dreamlands-59",
+      "name": "Dreamlands",
+      "category": "power_magic",
+      "pages": [
+        [
+          59,
+          60
+        ]
+      ],
+      "summary": "Dreamlands O Dreamlands é um local fictício do ciclo sonho de HP Lovecraft. Ele também é o cenário para uma série de pastiches escritos por outros autores. A Dreamlands é uma vasta, dimensão alternativa que pode ser acessada através de sonhos, semelhante a projeção astral. Sonhadores experientes estão entre os habitantes mais poderosos da Dreamlands e podem...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-mythos-de-cthulhu-61",
+      "name": "Mythos de Cthulhu",
+      "category": "creature_npc",
+      "pages": [
+        [
+          61,
+          62
+        ]
+      ],
+      "summary": "Mythos de Cthulhu Arkanun e Trevas foram os primeiros jogos de terror com um conceito lovercraftiano lançados no Brasil. Este livro tem por objetivo aprofundar o conteúdo dos Mythos de Cthulhu dentro do universo de Trevas/Arkanun. Mythos que, com seus Deuses/Extraterrestres podem integrar tanto o RPG de Horror sobrenatural quanto uma proposta do terror que v...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-magia-nos-mythos-63",
+      "name": "Magia nos Mythos",
+      "category": "power_magic",
+      "pages": [
+        63
+      ],
+      "summary": "Magia nos Mythos “Toda vez que se quiser chamar quem está em outra parte, será preciso notar convenientemente as estações e as épocas durante as quais as esferas se interceptam, e o fluxo de influências advindas do vazio. ” Necronomicon A magia em relação aos Mythos de Cthulhu é sempre tida como de difícil execução, posto que lida com criaturas perdidas em r...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-nomes-trocados-e-mitologias-falsificadas-64",
+      "name": "Nomes Trocados e mitologias falsificadas",
+      "category": "power_magic",
+      "pages": [
+        64
+      ],
+      "summary": "Nomes Trocados e mitologias falsificadas Nem sempre os rituais encontrados em relação aos Deuses e Raças dos Mythos se dirigem diretamente a eles, e na grande maioria das vezes não. O Mal entendimento de ocultistas, os cultos nativos, a interação das raças com a humanidade, geraram versões relatando formas mais amenas sobre estas criaturas e a associação del...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-magias-de-contato-65",
+      "name": "Magias de Contato",
+      "category": "power_magic",
+      "pages": [
+        65
+      ],
+      "summary": "Magias de Contato Estas magias chamarão um representante da raça invocada até a localização do usuário. O encanto não controla ou inibe a criatura. Se o ser invocado perceber que o usuário está em meio a uma multidão ou mostra- se perigoso, ele pode atacar ou recuar, voltando para onde veio. Para utilizar uma magia de contato, o mágico deve encontrar todas a...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-contatar-cthulhu-entender-mythos-16-66",
+      "name": "Contatar Cthulhu (Entender Mythos 16)",
+      "category": "ritual_spell",
+      "pages": [
+        66
+      ],
+      "summary": "Contatar Cthulhu (Entender Mythos 16) Quando contatado, a resposta de Cthulhu sempre será na forma de um sonho ou pesadelo; contudo este sonho necessita de um teste de sanidade como se Cthulhu em pessoa estivesse à frente do mago. O Grimório Inferior Estas magias não fazem referência a um Antigo específico, apesar de concentrarem e usarem seus poderes. Este...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-tomos-malditos-67",
+      "name": "Tomos Malditos",
+      "category": "power_magic",
+      "pages": [
+        [
+          67,
+          69
+        ]
+      ],
+      "summary": "Tomos Malditos “Através dos portões assombrados do sono para além do noturno abismo, tenebroso, tenho vivido minhas vidas incontáveis e sondado com a vista a multidão das coisas; e me debato e grito antes do amanhecer, enlouquecido pelo medo”. Nêmeses - H. P. Lovecraft Sempre presentes nas melhores aventuras de Call of Cthulhu, livros e textos arcanos adicio...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-exemplos-de-livros-do-oculto-70",
+      "name": "Exemplos de Livros do Oculto",
+      "category": "power_magic",
+      "pages": [
+        70
+      ],
+      "summary": "Exemplos de Livros do Oculto Aqueles que possuem os livros dos Mitos, provavelmente possuirão também volumes sobre ocultismo. Um Livro do Oculto sempre acrescenta no mínimo +1% à perícia Ocultismo após a leitura. Existem centenas livros sobre o oculto. Esta página contém apenas alguns exemplos. Ler um livro do oculto usualmente não causa teste de sanidade, m...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-exemplos-de-livros-dos-mitos-71",
+      "name": "Exemplos de Livros dos Mitos",
+      "category": "power_magic",
+      "pages": [
+        [
+          71,
+          72
+        ]
+      ],
+      "summary": "Exemplos de Livros dos Mitos Esta seção discute importantes escritos humanos que descrevem uma porção dos Mitos de Cthulhu. Algumas destas informações são largamente conhecidas por bibliófilos, historiadores e algumas pessoas no mercado de livros. Muitas outras versões destes volumes e livros menores dos Mitos existem assim como notas incidentais, diários e...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-the-necronomicon-73",
+      "name": "THE NECRONOMICON",
+      "category": "creature_npc",
+      "pages": [
+        [
+          73,
+          74
+        ]
+      ],
+      "summary": "THE NECRONOMICON (Cinco versões) AL-AZIF – em Árabe, escrito por Abdul Al Hazred (Abd al-Azrad), 730 d.C. Este é o original escrito pelo poeta louco. Literalmente significa Livro sobre os Demônios do Deserto, e é imensamente preciso no que relata. É considerado perdido deste o séc. XII, mas alguns fragmentos traduzidos circularam pela Europa Medieval. É o ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-loucura-75",
+      "name": "Loucura",
+      "category": "core_rule",
+      "pages": [
+        [
+          75,
+          77
+        ]
+      ],
+      "summary": "Loucura “Loucura é necessária para alcançar os deuses. Sim, esta é a verdade. Poucos mortais a possuem...a chance de se afastar da sanidade. Caminhar nas selvas da insanidade...” Neil Gaiman-Entes Queridos É surpreendente que até hoje o Sistema Daemon não tenha nenhuma regra que determine o enlouquecimento que um personagem possa vir a sofrer, por isso, esta...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-os-deuses-antigos-78",
+      "name": "Os Deuses Antigos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          78,
+          91
+        ]
+      ],
+      "summary": "Os Deuses Antigos Na Mitologia criada por H.P. Lovecraft, forças sobrenaturais de incomensurável poder controlam o Cosmos e tudo que nele existe. Essas forças compõem um conjunto de seres que são chamados coletivamente por alguns poucos estudiosos de \"Os Mythos de Cthulhu\". A designação denota uma tentativa humana de categorizar e interpretar o que são e qua...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-estagio-2-92",
+      "name": "Estagio 2",
+      "category": "core_rule",
+      "pages": [
+        92
+      ],
+      "summary": "Estagio 2 CON 3D6+15 PVs 22-25 FOR 3D6+2 DEX 2D6 IP 2 AGI 12 7 cavando INT 5D6 PMs 2-12 WILL 2D6 PER 4D6 CAR 4D6 Resistencia a temperatura: 250ºC Regeneração por rodada: 2PV/Rodada #Ataque: Tentáculos: 75/0 Dano: 2 a 3d6 (por tentáculo) mais 1d6 pontos de CON por dreno de líquidos vitais. Esmagar: 80/0 Dano: 5 a 6d6 num raio de 1 a 6 metros. Estagio 3 CON 3D...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-con-93",
+      "name": "CON",
+      "category": "combat",
+      "pages": [
+        [
+          93,
+          94
+        ]
+      ],
+      "summary": "CON 1D100+100 PVs 350 FOR 1D100+10 DEX 1D4 IP 10 AGI 4D6 3D6 cavando INT 2D6 PMs 0 WILL 10D6 PER 2D6 CAR 1D6 #Ataque: Escarro: 50/0 Dano: O personagem é envolvido pela baba. Tragada: 80/0 Dano: O personagem junto com o catarro é absorvido pelo Dhole Esmagar: 50/0 Dano: 10d100 Ghouls Ghouls são criaturas humanoides pegajosas, com cascos no lugar de pés, ferid...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-caes-de-tindalos-95",
+      "name": "Cães de Tindalos",
+      "category": "combat",
+      "pages": [
+        [
+          95,
+          96
+        ]
+      ],
+      "summary": "Cães de Tindalos Cães de Tindalos são criaturas do distante passado da terra, quando a vida normal de nosso planeta não havia ultrapassado a evolução dos seres unicelulares. Habitam os ângulos do tempo, enquanto a humanidade, e toda a vida na terra, vivem em suas curvas. São criaturas semelhantes a cães galgos, com a pele ao contrário (com a carne viva e vas...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-con-97",
+      "name": "CON",
+      "category": "combat",
+      "pages": [
+        [
+          97,
+          98
+        ]
+      ],
+      "summary": "Um Mi-Go pode atacar corpo a corpo com duas pinças por vez. Tentará imobilizar a vítima (FR x FR) para a deixar cair de uma altura respeitável, ou levá-la ao vácuo (onde ela morrerá por asfixia). Após sua morte, o corpo de um Mi-Go se dissolve em poucas horas. Todas as armas de perfuração fazem apenas o dano mínimo (Ex. uma arma de 1d10+2 faria apenas 3 de d...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-polipos-voadores-99",
+      "name": "Pólipos Voadores",
+      "category": "core_rule",
+      "pages": [
+        99
+      ],
+      "summary": "Pólipos Voadores Os Pólipos Voadores são criaturas flutuantes do tamanho de elefantes, não totalmente materiais com partes de sua anatomia sumindo e ressurgindo o tempo todo. Não tem uma forma Fixa, e são difíceis de definir: parecem vermes descarnados, cheios de tentáculos, constantemente perdendo e ganhando pedaços. Produzem um característico ruído sibilan...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-polipos-100",
+      "name": "pólipos",
+      "category": "combat",
+      "pages": [
+        100
+      ],
+      "summary": "pólipos formam e dissolvem continuamente tentáculos a partir de seus corpos; utilizam sempre 2d6 tentáculos para atacar por rodada, cada tentáculo causa 1d10 de dano. Devido à natureza parcialmente imaterial destas criaturas, os tentáculos ignoram qualquer IP mundano, penetrando armaduras, roupas, etc. As feridas que causam têm a forma de queimaduras devidas...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-racas-servidoras-101",
+      "name": "Raças Servidoras",
+      "category": "creature_npc",
+      "pages": [
+        [
+          101,
+          102
+        ]
+      ],
+      "summary": "Raças Servidoras Anjos Descarnados da Noite Poucas criaturas encarnam melhor a imagem do diabo que os Anjos descarnados da Noite. Criaturas negras e chocantes, com pele lisa e oleosa como a pele de uma baleia, desagradáveis chifres que se curvam sobre suas cabeças, asas de morcego que não fazem ruído ao bater, membros esguios e cauda desengonçada que balança...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-con-103",
+      "name": "CON",
+      "category": "combat",
+      "pages": [
+        [
+          103,
+          104
+        ]
+      ],
+      "summary": "CON 2D6+6 PVs 14-15 FOR 3D6+12 DEX 3D6+6 IP 2 AGI 2D6 5D6 voando INT 3D6 PMs 10-11 WILL 1D6+12 PER 3D6+6 CAR 3D6 #Ataques: (2) Garras: 35/35 Dano: 2D6 Mordida: 35/0 Dano: 1D6 (+1D6 Pto. de FOR/rodada por sucção) Furtividade: 50% Rastreio: 50% Habitantes da Areia De pele rugosa, olhos grandes, grandes orelhas, com uma horrível e distorcida semelhança facial a...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-con-105",
+      "name": "CON",
+      "category": "combat",
+      "pages": [
+        [
+          105,
+          106
+        ]
+      ],
+      "summary": "CON 3D6 PVs 13-14 FOR 4D6 DEX 3D6 IP 1 AGI 3D6 +2 nadando INT 2D6+6 PMs 10-11 WILL 3D6 PER 3D6 CAR #d6 #Ataques: Garras: 25/25 Dano: 1D10 Tridente: 25/25 Dano: 1D10+1 Dagon e Hydra São profundos de enorme tamanho e grande idade, medem cerca de 6 metros de altura. Cogita-se que chegaram a terra como sumo-sacerdotes de Cthulhu e deram origem a raça dos profund...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-prole-estrelar-de-cthulhu-107",
+      "name": "Prole estrelar de Cthulhu",
+      "category": "creature_npc",
+      "pages": [
+        107
+      ],
+      "summary": "Prole estrelar de Cthulhu Os antigos habitantes de R’lyeh que se encontraram deslocados e confusos quando sua cidade afundou. Vivem nas profundezas do oceano atendidos pelos profundos, ou nas estrelas, como os que infestam o lago Hali ou em Aldebarã na constelação de touro. São criaturas semelhantes a Cthulhu porem menores. Podem atacar com 1d4 tentáculos ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-aproximadamente-e-aproximadamente-como-uma-108",
+      "name": "aproximadamente é aproximadamente como uma",
+      "category": "combat",
+      "pages": [
+        108
+      ],
+      "summary": "aproximadamente é aproximadamente como uma esfera de uns 4,5 metros de diâmetro enquanto flutua livremente. Em combate ocupa uma área de 5 X 5 metros, dentro da qual todos que se encontram devem fazer um teste de FR x FR com a criatura, sob pena de serem absorvidos por ela. Se ataca mais de uma vítima por vez, a criatura deve repartir sua força entre todos o...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-linha-do-tempo-da-mitologia-109",
+      "name": "Linha do Tempo da Mitologia",
+      "category": "race_lineage",
+      "pages": [
+        [
+          109,
+          110
+        ]
+      ],
+      "summary": "Linha do Tempo da Mitologia Cthulhiana Essa é uma linha do tempo dos eventos relacionados aos Grandes Antigos, aos Mitos de Cthulhu. Os eventos REAIS podem ser lidos em livros de história ou na Wikipédia. Nesse artigo teremos apenas os eventos relacionados aos Mitos de Cthulhu. 4,5 bilhões de anos atrás: a Terra é gelada, e Cthugha e seus servos Vampiros de...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-ficha-de-personagens-111",
+      "name": "Ficha de Personagens",
+      "category": "attribute_skill",
+      "pages": [
+        111
+      ],
+      "summary": "Ficha de Personagens Nome:______________________________ Profissão:____________________________________ Local de Nascimento:_______________________Data de Nascimento:______________________ Crença:_____________________Idade:_____Sexo:____Altura:____Peso:_____Nível:_________ Atributo Valor Ajuste Teste Constituição Força Destreza Agilidade Inteligência Força d...",
+      "entityRefs": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas-historico-112",
+      "name": "Histórico",
+      "category": "adventure",
+      "pages": [
+        [
+          112,
+          113
+        ]
+      ],
+      "summary": "Histórico ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ___________________________________________________________________________________...",
+      "entityRefs": []
+    }
+  ]
+}

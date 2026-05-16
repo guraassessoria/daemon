@@ -1,0 +1,685 @@
+{
+  "version": 1,
+  "id": "fontes",
+  "name": "Fontes",
+  "readySourceCount": 190,
+  "entityCount": 0,
+  "sourcePartCount": 33,
+  "entities": [],
+  "sourceParts": [
+    {
+      "id": "abismo--abismo-front-matter",
+      "name": "Capa, avisos, creditos e sumario",
+      "area": "fontes",
+      "category": "source",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          1,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Capa, autoria, avisos de ficcao, creditos, agradecimentos e sumario completo do livro.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo--abismo-introducao",
+      "name": "Introducao",
+      "area": "fontes",
+      "category": "source",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        9
+      ],
+      "page": 9,
+      "summary": "Apresenta Abismo como livro de antagonistas e horrores para o Mundo de Trevas, com orientacao de uso para mestres.",
+      "entityRefs": [
+        "abismo-livro"
+      ],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo--abismo-back-page",
+      "name": "Pagina final",
+      "area": "fontes",
+      "category": "source",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        200
+      ],
+      "page": 200,
+      "summary": "Pagina final sem conteudo textual extraido.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-front-matter",
+      "name": "Capa, aviso, creditos e indice",
+      "area": "fontes",
+      "category": "source",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Capa, aviso de ficcao, creditos, agradecimentos e indice do suplemento.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alianca-daemon-01--alianca-front-matter",
+      "name": "Capa e paginas iniciais",
+      "area": "fontes",
+      "category": "source",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Alianca Daemon 01",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Paginas iniciais sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alianca-daemon-01--alianca-blank-page",
+      "name": "Pagina em branco",
+      "area": "fontes",
+      "category": "source",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Alianca Daemon 01",
+      "pages": [
+        31
+      ],
+      "page": 31,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alianca-daemon-01--alianca-call-for-submissions",
+      "name": "Chamada para contribuicoes",
+      "area": "fontes",
+      "category": "source",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Alianca Daemon 01",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Chamada para envio de artigos e adaptacoes para futuras edicoes da Alianca.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-9",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (160-160)",
+      "area": "fontes",
+      "category": "source",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        160
+      ],
+      "page": 160,
+      "summary": "160",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "charadas--charadas-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "charadas",
+      "sourceTitle": "Charadas",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-marcelo-de-matos-o-guaxinim-1",
+      "name": "Marcelo de Matos, O Guaxinim.",
+      "area": "fontes",
+      "category": "source",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Marcelo de Matos, O Guaxinim. 2a Edição",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-henrique-morcego-santos-1",
+      "name": "HENRIQUE “MORCEGO” SANTOS",
+      "area": "fontes",
+      "category": "source",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "HENRIQUE “MORCEGO” SANTOS ETRUSCOS",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gdac-light--gdac-light-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "gdac-light",
+      "sourceTitle": "GdAC - Light",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-henrique-morcego-santos-1",
+      "name": "HENRIQUE “MORCEGO” SANTOS",
+      "area": "fontes",
+      "category": "source",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "HENRIQUE “MORCEGO” SANTOS PÉRICLES “THIEFACE””VINICIUS GIGANTES GIGANTES GIGANTES GIGANTES GIGANTES MITOL MITOL MITOL MITOL GICOS GICOS GICOS GICOS MITOLóGICOS",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-bruno-garrido-e-bruno-burp-schlatter-1",
+      "name": "Bruno Garrido e Bruno “BURP” Schlatter",
+      "area": "fontes",
+      "category": "source",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Bruno Garrido e Bruno “BURP” Schlatter",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "\\ \\ , , • •",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha-2--imortal-a-centelha-2-imortal-1",
+      "name": "IMORTAL",
+      "area": "fontes",
+      "category": "source",
+      "source": "imortal-a-centelha-2",
+      "sourceTitle": "Imortal-a centelha",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "IMORTAL IMORTAL IMORTAL IMORTAL IMORTAL a CENTELHA a CENTELHA a CENTELHA a CENTELHA a CENTELHA HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "mortal-kombat",
+      "sourceTitle": "MORTAL KOMBAT",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "uma-sucubo-em-extase--uma-sucubo-em-extase-is-what-she-loves-5",
+      "name": "Is what she loves",
+      "area": "fontes",
+      "category": "source",
+      "source": "uma-sucubo-em-extase",
+      "sourceTitle": "Uma sucúbo em êxtase",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Is what she loves Granted with powers, gifted with magic Watching the world through raven eyes Damned woman mischievous whore Heretic princess Devil's own Her seductive elegance Excites your weak flesh Her diabolical beauty Enchants your bewildered mind You damn woman You mischievous whore You heretic princess You are Devil's own [performing an ecstatic danc...",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-who-watches-25",
+      "name": "WHO WATCHES",
+      "area": "fontes",
+      "category": "source",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        25
+      ],
+      "page": 25,
+      "summary": "WHO WATCHES THE WATCHMEN ?",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "animalidade--animalidade-front-matter",
+      "name": "Capa e abertura",
+      "area": "fontes",
+      "category": "source",
+      "source": "animalidade",
+      "sourceTitle": "animalidade",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina inicial/capa com pouco texto extraido.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-os-ceifadores-de-leen-1",
+      "name": "OS CEIFADORES DE LEEN",
+      "area": "fontes",
+      "category": "source",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "OS CEIFADORES DE LEEN Bruno Garrido",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cobaias15--cobaias15-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "cobaias15",
+      "sourceTitle": "cobaias15",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1 1",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "conan--conan-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "conan",
+      "sourceTitle": "conan",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cura--cura-por-ivan-skady-soares-1",
+      "name": "Por Ivan “Skady” Soares",
+      "area": "fontes",
+      "category": "source",
+      "source": "cura",
+      "sourceTitle": "cura",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Por Ivan “Skady” Soares",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "deform--deform-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "deform",
+      "sourceTitle": "deform",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gaki--gaki-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "gaki",
+      "sourceTitle": "gaki",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "- 1 -",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "harrypotter--harrypotter-flavio-bombonatti-1",
+      "name": "Flávio Bombonatti",
+      "area": "fontes",
+      "category": "source",
+      "source": "harrypotter",
+      "sourceTitle": "harrypotter",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1 Flávio Bombonatti",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "livrodomal--livrodomal-as-f-19",
+      "name": "AS F",
+      "area": "fontes",
+      "category": "source",
+      "source": "livrodomal",
+      "sourceTitle": "livrodomal",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "AS F F F F FACES ACES ACES ACES ACES DO DO DO DO DO M M M M MAL AL AL AL AL 19",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ninjutsu--ninjutsu-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "ninjutsu",
+      "sourceTitle": "ninjutsu",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "pets--pets-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "fontes",
+      "category": "source",
+      "source": "pets",
+      "sourceTitle": "pets",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "1",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-marcelo-de-matos-1",
+      "name": "Marcelo de Matos,",
+      "area": "fontes",
+      "category": "source",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Marcelo de Matos, O Guaxinim. 1a Edição",
+      "entityRefs": [],
+      "tags": [
+        "fontes",
+        "source"
+      ],
+      "confidence": 0.64,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

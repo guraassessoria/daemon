@@ -1,0 +1,99 @@
+{
+  "source": "rocknrt",
+  "title": "rocknrt",
+  "status": "full-read-auto-pass-1",
+  "pages": 17,
+  "primaryCategories": [
+    "kit_class",
+    "character_option",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "rocknrt-rock-and-roll-1",
+      "name": "ROCK AND ROLL",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          6
+        ]
+      ],
+      "summary": "ROCK AND ROLL Por IVAN SKADY SOARES I get up, and nothing gets me down. You got it tough. I've seen the toughest around. Oh can't you see me standing here, I've got my back against the record machine I ain't the worst that you've seen. Oh can't you see what I mean? Might as well jump. (...Jump!) -David Lee Roth, Michael Anthony, Alex Van-Halen, Edward Van-Ha...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-3-pontos-7-instrumentos-7",
+      "name": "3 pontos: 7 instrumentos.",
+      "category": "core_rule",
+      "pages": [
+        7
+      ],
+      "summary": "3 pontos: 7 instrumentos. 4 pontos: 9 instrumentos. 5 pontos: 11 instrumentos. Status Musical (1+) Você é famoso, disso não existem duvidas. As dúvidas vêm quando a pergunta é outra: Como você é famoso! Ozzy é muito famoso entre os metaleiros, que chegam a cultua-lo, o que não acontece em relação aos fanáticos religiosos (é o que se espera...). A não ser que...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-van-halen-em-1980-8",
+      "name": "Van-Halen em 1980.",
+      "category": "character_option",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Van-Halen em 1980. KITS Roqueiro Você é mais que esses daí que saem com a roupa de uma banda, ou que se vestem de preto e cantam alguma coisa pela rua. Seu espírito é ROCK, você grita ROCK, você ouve ROCK, e é claro, você sai por aí de preto ou com um moletom da sua banda favorita. Por influencia das bandas que você adora, pode ser que você não tenha atos mu...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-musico-famoso-10",
+      "name": "Musico famoso",
+      "category": "core_rule",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Musico famoso Conhecido em um país ou em um continente, esses músicos são realizados profissionalmente, aparecem na televisão, toca nas rádios e fazem grandes shows. Porém, apesar de tudo isso, ainda falta um estágio para serem Rock stars. Falta serem reconhecidos em todo o mundo, fazerem turnês internacionais, ganharem milhares de dólares... Custo: 4 pontos...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-soma-dos-status-12",
+      "name": "Soma dos Status",
+      "category": "core_rule",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "Soma dos Status musicais da banda. Dinheiro pago a banda, em média por cada grande show. 3-5 Até 2.500 U$$ 6-9 Até 10.000 U$$ 10-14 Até 40.000 U$$ 15-18 100.000 U$$ + 19-20 150.000 U$$ + Com direitos autorais Quando a banda chama a atenção de um empresário, e ele decide gravar um CD (ou DVD, ou disco,...) a banda deve ter todas as composições (regras para co...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-3-shows-14",
+      "name": "3. Shows.",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "3. Shows. Para determinar o quanto um show foi bom, lá vai mais uma formula: 1o passo. Some as pontuações musicais das músicas apresentadas e divida pelo número de músicas apresentadas. Some as perícias dos músicos (canto+guitarra+,...) e divida pelo número de músicos participantes. 2o passo. Teste o CAR dos 3 (ou 2, ou 1) integrantes do grupo que tenham mai...",
+      "entityRefs": []
+    },
+    {
+      "id": "rocknrt-america-trini-lopez-17",
+      "name": "America - Trini lopez",
+      "category": "power_magic",
+      "pages": [
+        17
+      ],
+      "summary": "America - Trini lopez The boys are back in town - Thin lizzy There´s a kind of hush - Eerman's hermits I got you (i feel good) - James brown Two out of three ain´t bad Meat loaf Tuesday afternoon - Moody blues Hello i love you - Doors Mellow yellow - Donovan Sitting on the dock of the bay - Ottis redding listen to the music - Dobbie brothers American pie - D...",
+      "entityRefs": []
+    }
+  ]
+}

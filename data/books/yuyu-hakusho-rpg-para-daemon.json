@@ -1,0 +1,142 @@
+{
+  "source": "yuyu-hakusho-rpg-para-daemon",
+  "title": "yuyu_hakusho_RPG_para_Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 29,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-hakusho-1",
+      "name": "Hakusho",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Hakusho RPG Por Marcelo Matos “Guaxinim”, Ajota & Grupo de RPG PVH Yu Yu V2.01",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-guaxinim-2",
+      "name": "Guaxinim",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Guaxinim - Em primeiro lugar a minha família por me dar tudo que preciso tanto materialmente como espiritualmente. - Ao meu irmão Alexandre (Keenn) que sempre me apóia nos meus projetos e me ajuda quando eu preciso (ele é expert no tratamento de imagens e Designers de sites). - Ao meu eterno amor a Angra que eu tanto amo e que me ama também, me aturando (poi...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-historico-do-anime-3",
+      "name": "Histórico do Anime",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "Histórico do Anime A série de TV tem 112 episódios, e estreou na Fuji Television em Novembro de 1992, essa série de Yoshihiro Togashi foi um sucesso no Japão, que se repetiu no Brasil pela falecida Rede Manchete. O nome Yu Yu Hakusho significa : “As aventuras do fantasma brincalhão” ou “A história do fantasma brincalhão”. No primeiro capítulo Yusuke Urameshi...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-humanos-doutrinados-7",
+      "name": "Humanos Doutrinados",
+      "category": "character_option",
+      "pages": [
+        7
+      ],
+      "summary": "Humanos Doutrinados Os Doutrinados são pessoas com uma grande quantidade de energia espiritual, chamada Rei Ki, e treinados por tempos no uso de esquecidas artes místicas. São lutadores ou quase isso, sempre andando por aí, procurando novos desafios ou um jeito de deixar essa vida de lutas. Os grandes mestres jamais podem deixar essa vida, pois sempre serão...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-monstruoso-8",
+      "name": "Monstruoso",
+      "category": "creature_npc",
+      "pages": [
+        8
+      ],
+      "summary": "Monstruoso Esses são os verdadeiros demônios. Eles são completa- mente inumanos, criaturas deformadas, com aparências bizarras (como o inesquecível touro de um olho só que enfrentou o time Dr. Itigaki). Esses Onis podem apenas vir ao nosso mundo se outros Onis mais poderosos os mandarem para cá. Eles podem assumir a forma Humana a hora que desejarem, mas iss...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-espiritualistas-9",
+      "name": "Espiritualistas",
+      "category": "core_rule",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Espiritualistas Os Espiritualistas são monges criados desde a infância para manipular sua energia espiritual. “Corpo e mente forte, para se obter espirito forte”, esse é o lema dos espiritualista. Eles escon- dem o uso de seus poderes do resto do mundo, pois se as pessoas soubessem que esses poderes existem, não se saberia como eles reagiriam. Eles possuem t...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-aprimoramentos-11",
+      "name": "Aprimoramentos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          11,
+          19
+        ]
+      ],
+      "summary": "Aprimoramentos Negativos Detetive Sobrenatural 2 pontos: Você, por algum motivo, deve favores ao mun- do espiritual e agora deve realizar serviços para eles. Não pode- se negar a atender as ordens de lá. Odiado 3 pontos: Demônios conhecem você por sua fama e força ao derrotar alguns deles. Eles te odeiam e sempre que puderem vão te azucrinar ou testar seus p...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-battle-aura-20",
+      "name": "Battle Aura",
+      "category": "core_rule",
+      "pages": [
+        [
+          20,
+          24
+        ]
+      ],
+      "summary": "Battle Aura A Aura de Batalha, uma poderosa Doutrina em que o per- sonagem cria uma aura esverdeada em torno dele, podendo fa- zer diversos efeitos. Nível 1: Armadura - A aura envolve o personagem redu- zindo os danos contra ele. Reduz em 1 ponto de qualquer dano contra o personagem para cada 1 ponto de Rei/You-Ki gastos. Só podem ser utilizados desta maneir...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-alongamento-25",
+      "name": "Alongamento",
+      "category": "core_rule",
+      "pages": [
+        25
+      ],
+      "summary": "Alongamento Essa doutrina permite ao usuário alongar seus membros (pernas e braços) e pescoço, uma certa quantidade de metros, dependendo do nível da doutrina. O personagem recebe tam- bém uma grande flexibilidade, podendo se esquivar mais facil- mente dos ataques. Para cada nível, o personagem pode esticar um metro. O nível máximo dessa doutrina é o quinto....",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-novas-regras-26",
+      "name": "Novas Regras",
+      "category": "core_rule",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "summary": "Novas Regras REI-KI O Rei-Ki é a energia espiritual que uma pessoa possui. Em termos de jogo, funciona como pontos de fé. Quanto maior seu Rei-Ki mais fácil é você ser percebido. Se dois Doutrinados/ Espiritualistas estiverem em um mesmo lugar, faz-se um teste resistido de Will contra Will, acrescente +5% para o ativo para cada ponto de Rei-Ki que o passivo...",
+      "entityRefs": []
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon-npcs-28",
+      "name": "NPCs",
+      "category": "item_equipment",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "summary": "NPCs YUSUKE URAMESHI FR 18, CON 16, DEX 15, AGI 17, INT 10, WILL 14, PER 17, CAR 13. PVS 17 + 28 Rei Ki 12. Att [1] Briga 65/55. Dano 1d3+2 IP 0 Doutrinas: Reikohadouken 1 Principais Perícias: Investigação 20%. Aprimoramentos Principais: Amor verdadeiro; Keiko (1) e Detetive espiritual (-1). Histórico: Era um jovem sem perspectivas de vida. Morre atropelado...",
+      "entityRefs": []
+    }
+  ]
+}

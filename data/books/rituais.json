@@ -1,0 +1,76 @@
+{
+  "source": "rituais",
+  "title": "rituais",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "creature_npc",
+    "attribute_skill",
+    "power_magic",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "rituais-novas-magias-e-rituais-1",
+      "name": "Novas Magias e Rituais",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Novas Magias e Rituais Obs: Neste texto estará GENERALIZADO o realizador do ritual em muitas vezes como necromante, mas não quer dizer que apenas um necromante possa realizar tal ritual, a decisão cabe ao mestre e óbvio ao bom senso, se necessário mande-me um e-mail, o endereço está ao fim do texto. Absorção de Energia Controlar Espíritos / Humanos / Metamag...",
+      "entityRefs": []
+    },
+    {
+      "id": "rituais-absorcao-de-magia-2",
+      "name": "Absorção de Magia",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "Absorção de Magia Controlar / Entender Metamagia 5 ou 10 Utilizando-se de um cadáver de um usuário de magia (necromante, necromante, clérigo elementalista etc...). Quando o necromante inicia o ritual, ele deve definir qual será seu efeito (há duas opções; escolher uma magia que o atual cadáver conhecia quando vivo, ou aprender 1d4 - 1 (mínimo 1) magias aleat...",
+      "entityRefs": []
+    },
+    {
+      "id": "rituais-car-6",
+      "name": "Car",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "summary": "Car -- -- + 1 + 2 + 3 + 4 Ip + 1 + 2 + 3 + 4 + 6 + 8 Pvs + 1 + 2 + 3 + 4 + 6 + 8 nº Ataques 1 1 1 2 2 3 Perícias (%) + 25 % + 30 % + 60 % + 65 % + 115 % + 150 % Perícias Possíveis: Máximo permitido pelo focus (O valor entre parênteses significa o número máximo de subgrupos permitidos) Perícia - Inicial / Focus 2 4 6 8 10 12 Armas Brancas - Dex / Dex 20 / 20...",
+      "entityRefs": []
+    },
+    {
+      "id": "rituais-asas-e-rabo-2pvs-9",
+      "name": "Asas e rabo = 2pvs",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Asas e rabo = 2pvs Garras (cada uma), bico, chifres e guelras = 1 pv. Alcances: Sonar = 100m, radar = 50m, visão noturna = 20m, visão aguçada = 20m, olfato = 10m, audição 100m. Veneno (focus 6): Necessita de um teste de Con vs For 6d, falha o alvo perde 1 pv por turno até a morte ou ser socorrido (testar primeiros socorros fácil, ou qualquer magia de cura, q...",
+      "entityRefs": []
+    },
+    {
+      "id": "rituais-garras-aos-mortos-11",
+      "name": "Garras aos Mortos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "Garras aos Mortos Controlar / Entender Animais (ou Demônios) / Trevas / Espíritos 5 a 7 Idem aos anteriores, mas com as seguintes alterações: Material: Garra (s) de um animal, demônio ou monstro já morto (até + 20% ou - 25%). E o ritual completo durará em torno de 10 a 14 horas (2x o focus) e consome 8, 9 e 11 pms (focus 5, 6 e 7 respectivamente), Para garra...",
+      "entityRefs": []
+    }
+  ]
+}

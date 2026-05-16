@@ -1,0 +1,50 @@
+{
+  "source": "ninjutsu",
+  "title": "ninjutsu",
+  "status": "full-read-auto-pass-1",
+  "pages": 12,
+  "primaryCategories": [
+    "combat",
+    "kit_class",
+    "core_rule",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "ninjutsu-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "ninjutsu-ninjutsu-2",
+      "name": "NINJUTSU",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "NINJUTSU Introdução Ninjutsu é uma arte marcial japonesa com raízes que datam mais de mil anos atrás. Existiam no Japão, muitas escolas e famílias de ninjutsu, mas durante a era de paz civil no Japão, não eram mais necessários, os serviços dos ninjas. Em razão disso, muitas dessas escolas desapareceram, porém algumas mantiveram a tradição viva ensinando as s...",
+      "entityRefs": []
+    },
+    {
+      "id": "ninjutsu-ninjutsu-6",
+      "name": "NINJUTSU...",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          12
+        ]
+      ],
+      "summary": "passando a cada geração os modos e métodos do NINJUTSU... Treinamento Em termos históricos, o shinobi ou guerreiro Ninja herdava sua profissão ao nascer. O jovem ninja começava sua aprendizagem nas artes de operações secretas e destruição quase desde o berço. Desde tenra infância, as crianças das famílias ninja eram condicionadas a ficarem constantemente ale...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "source": "gigantes-mitologicos",
+  "title": "Gigantes Mitologicos",
+  "status": "full-read-auto-pass-1",
+  "pages": 55,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "gigantes-mitologicos-henrique-morcego-santos-1",
+      "name": "HENRIQUE “MORCEGO” SANTOS",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "HENRIQUE “MORCEGO” SANTOS PÉRICLES “THIEFACE””VINICIUS GIGANTES GIGANTES GIGANTES GIGANTES GIGANTES MITOL MITOL MITOL MITOL GICOS GICOS GICOS GICOS MITOLóGICOS",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-agradecimentos-2",
+      "name": "AGRADECIMENTOS",
+      "category": "race_lineage",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "02 AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo “Chuck Norris”, o Rafael “Feijão”, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e principalmente meu irmão C...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-desafiadores-de-5",
+      "name": "DESAFIADORES DE",
+      "category": "creature_npc",
+      "pages": [
+        5
+      ],
+      "summary": "DESAFIADORES DE DEUSES A Humanidade evolui em velocidades cada vez maiores, provando a si própria ser capaz de romper limites e paradigmas de maneiras fantásticas. Enquanto em um certo século previa-se os fenômenos astronômicos sob conhecimentos falhos de astrologia e xamanismo, no século seguinte os astrolábios e sextantes guiavam grandes desbravadores atra...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-personagens-6",
+      "name": "PERSONAGENS",
+      "category": "core_rule",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "PERSONAGENS GIGANTES Um Personagem da raça Gigante constrói sua Ficha de Personagem com 250 pts de Perícia , 120 pts de Atributos, 5 pts de Aprimoramentos e 5 pts de Poderes de Gigante. O ganho de mais pontos vai continuar seguindo a mesma lógica que ocorre com os outros Seres Sobrenaturais de Trevas. Os Gigantes Mortais pode assumir uma forma humana para se...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-curigueres-8",
+      "name": "CURIGUERÊS",
+      "category": "power_magic",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "CURIGUERÊS “Heracles Tropicais” Origem Em tempos muito antigos, na borda do grande cerrado, havia uma enorme árvore, cujos ramos abrigavam o ninho de uma águia gigantesca. Suas garras eram tão grossas quanto um tronco de árvore, a cavidade de sua boca era parecida com a fauce do tapir, suas plumas lembravam folhas de bananeira e seus olhos eram de um tamanho...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-gibborim-10",
+      "name": "GIBBORIM",
+      "category": "power_magic",
+      "pages": [
+        [
+          10,
+          12
+        ]
+      ],
+      "summary": "GIBBORIM “Poderosos” Origem Os conhecidos Gigantes mencionados na Bíblia são outra opção para os filhos de Anjos com Humanos. Além dos Nephalins, humanos comuns que lembram-se perfeitamente de suas encarnações anteriores, ainda há os Gibborims, seres de grande estatura. Os Grigori, 300 Anjos que protegeriam a Terra e seus habitantes sob o comando de Samyaza,...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-gigas-13",
+      "name": "GIGAS",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "GIGAS “Enormes” Origem Pouco depois que Gaea e Uranus romperam a barreira de Edhen para Paradísia, seus descendentes formaram basicamente três grandes raças: as poderosas personificações da natureza Titãs, os brutais Hekatoncheiros, e os criadores das tempestades Ciclopes. Os Gigas eram Gigantes nascidos do sangue de Urano derramado sobre Gaea (a Terra), fat...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-korybantes-15",
+      "name": "KORYBANTES",
+      "category": "power_magic",
+      "pages": [
+        15
+      ],
+      "summary": "KORYBANTES “Dançarinos da Korybas” Origem e História Cria de Réia, Hoplodamos foi o protetor pessoal desta Titânida quando Khronos tentou atacá-la (ao descobrir que Zeus não foi engolido). Hoplodamos (“Homem Armado”) liderou os arkanitas Dáctilos na missão de esconderem Zeus e treiná-lo nas artes da guerra e da magia. Réia então presenteou Hoplodamos com dez...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-kotan-nukur-16",
+      "name": "KOTAN-NUKUR",
+      "category": "creature_npc",
+      "pages": [
+        [
+          16,
+          17
+        ]
+      ],
+      "summary": "16 KOTAN-NUKUR “Homens da Vila” Origem Na antiga língua dos bárbaros japoneses Ainu, Kotan significava vila, mas também passou a significar os próprios habitantes desta vila. Os seres obscuros cultuados como deuses pelos Ainu (chamados Kamui), presenteavam de tempos em tempos uma criança, nascida do ventre de uma xamã Ainu. É dito que durante uma noite espec...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-kyclopes-18",
+      "name": "KYCLOPES",
+      "category": "power_magic",
+      "pages": [
+        18
+      ],
+      "summary": "18 KYCLOPES “Olhos Redondos” Origem Pouco depois que Gaea e Uranus romperam a barreira de Edhen para Paradísia, seus descendentes formaram basicamente três grandes raças: as poderosas personificações da natureza Titãs, os brutais Hekatoncheiros, e os criadores das tempestades chamados Ciclopes. Eles eram em três (Brontes, Arges e Estéropes), e tinham uma ene...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-quinametzin-huetlacame-19",
+      "name": "QUINAMETZIN HUETLACAME",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "summary": "QUINAMETZIN HUETLACAME “Homens Grandes e Deformados” História Os Quinametzin são Gigantes que viviam na América central no período do Terceiro Sol, e vieram de Arkanun em grande número. Arrogantes, eram muito odiados pelos povos Nahuals(quase todos os povos da Mesoamérica, humanos), e foram enfrentados diversas vezes por estes povos. Quetzacoatl, Tlaloc e os...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-trolls-21",
+      "name": "TROLLS",
+      "category": "combat",
+      "pages": [
+        [
+          21,
+          22
+        ]
+      ],
+      "summary": "21 TROLLS “Seres Sobrenaturais” História Não se sabe exatamente a origem da raça Troll, apenas que eles possuem uma afinidade profunda com a Nova Arcádia. Muitos acreditam que eles tenham surgido dos pesadelos das primeiras crianças humanas, e se manifestaram no Sonhar. Após séculos se consolidando no imaginário humano, eles migraram para a região da Arcádia...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-poderes-de-gigante-23",
+      "name": "PODERES DE GIGANTE",
+      "category": "core_rule",
+      "pages": [
+        [
+          23,
+          26
+        ]
+      ],
+      "summary": "23 PODERES DE GIGANTE Todas as raças: Aumento de Atributos, Benção a Mãe-Terra, Controle Mental, Defesas, Defesas Especiais, Glifo, Séismos, Tamanho, Telecinésia, Urania. Um Gigante que compra o poder Séismos não pode comprar Urania, e vice-versa. Curiguerês: Camuflagem, Ig, Poderes Silvestres Gibborim: Armas Espectrais, Comunhão, Rephaim Gigas: Cauda, Comun...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-1-ponto-materiais-mundanos-preparados-27",
+      "name": "1 ponto: Materiais mundanos preparados,",
+      "category": "item_equipment",
+      "pages": [
+        [
+          27,
+          37
+        ]
+      ],
+      "summary": "1 ponto: Materiais mundanos preparados, como aço purificado com alquimia, madeira ritualmente abençoada, ossos e sangue. 2 pontos: Materiais raros, como madeira de uma árvore atingida 3 vezes por raios, ossos de um necromante, sangue de um nobre nascido em ambiente pobre. 3 pontos: Materiais extremamente raros, como madeira da floresta mais antiga da florest...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-rituais-e-itens-magicos-38",
+      "name": "RITUAIS E ITENS MÁGICOS",
+      "category": "power_magic",
+      "pages": [
+        38
+      ],
+      "summary": "38 RITUAIS E ITENS MÁGICOS Adaptação das Armas Entender/Controlar Humanos/Metamagia 2 Componentes: V,G Tempo de formulação: 1 rodada Efeitos: Ver magia Duração: 1d6+10 minutos Este Ritual foi criado por um Gigante Mago. O intuito deste Ritual é fazer com que armas brancas e armas de fogo se adaptem às mão do Gigante em seu tamanho normal. Para ser realizada...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-criacao-de-vozhd-39",
+      "name": "Criação de Vozhd",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          39,
+          40
+        ]
+      ],
+      "summary": "Criação de Vozhd Criar/Controlar Spiritum/Arkanun 6 Componentes: V, G, M Tempo de Formulação: 6 horas Efeito: Criação de Morto-Vivo especial Duração: Permanente Um dos tipos mais raros de Morto- Vivo é o Vozhd, o Ogro-Esqueleto. Esta criatura aterrorizante é criada somente em momentos de extrema importância em uma batalha que envolva grande necessidade de fo...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-protegida-41",
+      "name": "protegida.",
+      "category": "combat",
+      "pages": [
+        [
+          41,
+          42
+        ]
+      ],
+      "summary": "protegida. O Mago Hermético Pedro o Trovador criou um Ritual, muito usado pelos membros da Ordem Luft, na Noruega, para proteção dos recém-nascidos do Ritual da Troca. Este Ritual protege a criança contra um Troll com uma quantidade de dados igual ao Focus do Ritual (portanto, Focus 4 dá à criança 4D de resistência contra o Troll). O Troll não poderá causar...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-espada-dos-gigantes-43",
+      "name": "Espada dos Gigantes",
+      "category": "combat",
+      "pages": [
+        43
+      ],
+      "summary": "Espada dos Gigantes (Artefato) Este artefato foi encontrado pelo herói Beowulf na caverna onde o Ogro Grendel se escondia. Como a própria espada de Beowulf não conseguia causar nenhum dano aos monstros, ele teve de utilizar-se desta magní- fica espada para conseguir destruir os mons- tros que assolavam sua vila natal. Após a morte de Beowulf, este artefato d...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-combate-singular-44",
+      "name": "combate singular.",
+      "category": "combat",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "summary": "combate singular. Um jovem guerreiro chamado Davi, que havia sido aceito nas tropas há pouco, disse que aceitaria o desafio. Sendo ainda inexperiente no combate com a espada, não quis usá-la. Ele foi até o rio e pegou cinco pedras lisas, colocando-as em seu bornal de pastor. Quando se apresentou em combate, Golias zombou da juventude de Davi, mas não sabia q...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-antagonistas-e-46",
+      "name": "ANTAGONISTAS E",
+      "category": "combat",
+      "pages": [
+        46
+      ],
+      "summary": "ANTAGONISTAS E COADJUVANTES Cavaleiro de Ogros Custo: 1 ponto de Aprimoramento, 120 pontos de Perícia Requisito: altura máxima de 1,80m (ver Especial) Perícias: Montaria 40, Idioma (Troll) 30, Intimidação 40, Escalar 20, Doma 20, Rastreio 30 Aprimoramentos: 3 Pontos Heróicos Pontos Heróicos: 3 por nível Especial: - Um Cavaleiro de Ogros automaticamente possu...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-durante-o-expansionismo-romano-47",
+      "name": "Durante o expansionismo romano,",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          47,
+          54
+        ]
+      ],
+      "summary": "Durante o expansionismo romano, muito do conhecimento das caças a Gigantes foi enriquecida com a união dos bárbaros caçadores de Trolls da Escandinávia, e pelos perseguidores de Kyclopes das ilhas gregas. Plentyn Newid Aprimoramento de 3 pts O Plentyn Newid é uma espécie muito rara existente apenas na Europa, muito temida, que representa o máximo de relação...",
+      "entityRefs": []
+    },
+    {
+      "id": "gigantes-mitologicos-gigantes-mitologicos-55",
+      "name": "GIGANTES MITOLÓGICOS",
+      "category": "power_magic",
+      "pages": [
+        55
+      ],
+      "summary": "44 GIGANTES MITOLÓGICOS inclui uma provável inserção dos Gigantes no cenário de Trevas, bem como Personagens coerentes com a própria ambientação deste cenário. GIGANTES detalha as oito ra- ças mitológicas que habitam o plano da Terra (Curiguerês, Gibborim, Gigas, Korybantes, Kotan-Nukur, Kyclopes, Quinametzin e Trolls) para serem utilizados como Personagens...",
+      "entityRefs": []
+    }
+  ]
+}

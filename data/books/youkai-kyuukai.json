@@ -1,0 +1,165 @@
+{
+  "source": "youkai-kyuukai",
+  "title": "Youkai_Kyuukai",
+  "status": "full-read-auto-pass-1",
+  "pages": 29,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "kit_class",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "youkai-kyuukai-trevas-do-1",
+      "name": "Trevas do",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "Trevas do Oriente YOUKAI E KYUUKAI HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "category": "race_lineage",
+      "pages": [
+        2
+      ],
+      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-watashimori-7",
+      "name": "Watashimori",
+      "category": "power_magic",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "Watashimori Os chamados “Barqueiros” utilizam grandes barcas ancoradas na beira de cemitérios, onde recolhem os espíritos dos recém-mortos para levá- los ao tribunal de Emma-o, uma das regiões do Jigoku. Muitas vezes agem como mensageiros dos deuses para os vivos (quando utilizam somente o remo como transporte para voar, como uma bruxa usa uma vassoura). Seu...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-ponaturi-9",
+      "name": "Ponaturi",
+      "category": "race_lineage",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "summary": "Ponaturi Conhecidos como Profundos no Ocidente, os Ponaturi são os representantes de Dagon na região da Polinésia, híbridos dos humanos com antigas entidades servas do próprio Senhor das Profundezas. Costumam habitar as profundezas oceânicas, indo à superfície para capturar oferendas humanas, ou mesmo para reinar sobre os humanos (como no antigo Império de J...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-chi-13",
+      "name": "Chi",
+      "category": "race_lineage",
+      "pages": [
+        13
+      ],
+      "summary": "Chi Os Chi são muito antigos, representantes do elemento Terra. Suas cores normalmente são de tons naturais, com verde, marrom, amarelo, dourado, e tons escuros de laranja, vermelho e rosa. Sua preferência por locais abertos sempre é percebida, assim como seu incômodo quando perto de um corvo (teóricos especulam que este mal-estar é relacionado aos Tengu ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-tigbanua-14",
+      "name": "Tigbanua",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Tigbanua Não tão numerosos, os Tigbanua são esqueletos ciclópicos que espalham uma maldição pestilenta com suas garras ósseas, fazendo suas vítimas entrarem em um estado selvagem e descontrolado à noite. Dizem que são ciclópicos porque a alma fica presa dentro do único olho que restou, embora a outra órbita vazia enxergue normalmente, mesmo sem o olho. São m...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-podem-ser-consideradas-verdadeiros-teriantropos-15",
+      "name": "podem ser consideradas verdadeiros Teriantropos",
+      "category": "kit_class",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "podem ser consideradas verdadeiros Teriantropos (Hengeyokai) orientais, assim como os Lobisomens são os Teriantropos no Ocidente: os Kitsune, Tanuki, Tengu, Wang-wa e os Reflictys. Kitsune Os Kitsune são os trapaceiros homens- raposa do Japão. Normalmente são raposas que se tornaram humanos, e são ótimos metamorfos, assumindo a aparência de qualquer pessoa....",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-daiphir-17",
+      "name": "Daiphir",
+      "category": "power_magic",
+      "pages": [
+        [
+          17,
+          21
+        ]
+      ],
+      "summary": "Daiphir Daiphires são os filhos bastardos de Rakshasas e humanas, nascidos de estupros ou abusos, e abandonados pela mãe (se ela sobreviveu ao parto). Eles são adotados pelos caçadores de Kyuuketsuki e treinados, pois a essência vampírica neles contida tornar-se-á uma forte aliada dos caçadores. Possuem poderes ligados aos seus pais Rakshasas a partir da pub...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-jigoku-22",
+      "name": "Jigoku",
+      "category": "power_magic",
+      "pages": [
+        [
+          22,
+          24
+        ]
+      ],
+      "summary": "Jigoku Uma verdadeira colcha de retalhos espiritual, Jigoku absorveu diversos bolsões e vales espirituais, tornando-se com o tempo quase um plano físico por si só. Habitando pelos Youma e dividido em incontáveis reinos, é também chamado de “Os 1000 Infernos”, por causa de tantos reinos e Reis Yama existentes. Quando uma alma maligna morre em um dos planos fí...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-izumo-25",
+      "name": "Izumo",
+      "category": "creature_npc",
+      "pages": [
+        25
+      ],
+      "summary": "Izumo O mundo abaixo do Makai, o Izumo é o lar de criaturas de Mal absoluto, que abriram mão da alma há milênios pela sobrevivência, entregando-a aos poderosos deuses negros da Liga das Sombras. Na verdade, este plano é praticamente o refúgio dos piores monstros desta ordem mística de adoradores de seres dos pesadelos e da danação. Um fato curioso é a maldiç...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-ku-hun-zhan-chang-26",
+      "name": "Ku Hun Zhan Chang",
+      "category": "power_magic",
+      "pages": [
+        26
+      ],
+      "summary": "Ku Hun Zhan Chang O Campo de Batalha das Almas Inquietas, um nome que os Obake dão para qualquer área carregada de energia negativa no Reikai. Para eles, é uma infinita planície envolta em uma espessa e perpétua névoa de almas atormentadas. Aqui é onde um Obake (principalmente Yuurei) luta sua maior batalha – contra seus próprios medos. Di Yu Tradicionalment...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkai-kyuukai-doriimukai-27",
+      "name": "Doriimukai",
+      "category": "kit_class",
+      "pages": [
+        [
+          27,
+          29
+        ]
+      ],
+      "summary": "Doriimukai Svapnavati é uma deusa hindu pacífica e serena, com várias virtudes conhecidas. Ela assume a forma perfeita de uma donzela, com uma única face e dois braços (diferente do que ocorre com a maioria dos outros deuses hindus). Ela costuma estar segurando um botão de lótus azul na mão esquerda, enquanto mantém sua mão direita sob o gesto da Generosidad...",
+      "entityRefs": []
+    }
+  ]
+}

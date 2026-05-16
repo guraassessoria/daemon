@@ -1,0 +1,64 @@
+{
+  "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+  "title": "Novos poderes para fadas e fadas da Luz",
+  "status": "full-read-auto-pass-1",
+  "pages": 5,
+  "primaryCategories": [
+    "attribute_skill",
+    "power_magic",
+    "race_lineage",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz-super-velocidade-1",
+      "name": "Super velocidade",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "Novos poderes para fadas e fadas da Luz Nesse netbook, você ira encontrar novos poderes para fadas e fadas da luz para Arcádia As fadas recebem 1 ponto racial a cada 10 anos de vida e mais um por nível. Super velocidade Uso Automático A fada pode se locomover mais rapidamente que o normal. Custo 1 Aumenta a velocidade de deslocamento voando 50 m/s Custo 3 Au...",
+      "entityRefs": []
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz-seducao-nata-2",
+      "name": "Sedução Nata",
+      "category": "power_magic",
+      "pages": [
+        2
+      ],
+      "summary": "Sedução Nata Uso Automático Todas as fadas recebem o poder sobrenatural da sedução por possuírem uma beleza e aura natural que atraem qualquer criatura. Teste WILL X CAR da fada Custo 1 pode estimular e seduzir qualquer humano ou humanóide Custo 2 pode criar sensações extremamente fortes a qualquer humano ou humanóide Custo 3 pode estimular e seduzir qualque...",
+      "entityRefs": []
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz-deusa-da-magia-3",
+      "name": "Deusa da Magia",
+      "category": "race_lineage",
+      "pages": [
+        3
+      ],
+      "summary": "Deusa da Magia Somente fada da Luz Custo 5 ponto e precisa ter (Magia perfeita, Contramagia, Esplendor da Magia). Pelo menos nível 9 e 1000 anos de vida Esse é o nível Maximo da fada da luz, a fada passa a ser como uma deusa da magia, fica imune a seu elemento oposto e imune a ferro frio, logo imune a qualquer tipo de dano e totalmente indestrutível, ela ain...",
+      "entityRefs": []
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz-dor-em-prazer-4",
+      "name": "Dor em Prazer",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "Dor em Prazer Custo 3 Deve ser ativada, a fada escolhe o alvo, sem limite de alvos. A fada é capaz de transformar dor dos outros em prazer, assim se ela causar dano em alguém ela lhe causará muito prazer, o alvo sempre roda em seus testes de CON. Pode assim acalmar dores dos outros. OBS: Quanto mais dor mais prazer. Amor Custo 5 Uso Automático Semelhante à v...",
+      "entityRefs": []
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz-bencao-da-luz-5",
+      "name": "Benção da luz",
+      "category": "attribute_skill",
+      "pages": [
+        5
+      ],
+      "summary": "Benção da luz custo 1 Toda magia lançada pelo seu mestre, não pode ser identificada e também pode ser camuflada como o mestre desejar. Magias simples custo 1 O mestre pode lançar rituais simples sem gastar componente. Dança da sedução custo 3 O mestre da fada pode fazê-la dançar uma dança muito sensual e provocante, que hipnotiza qualquer criatura do sexo ma...",
+      "entityRefs": []
+    }
+  ]
+}

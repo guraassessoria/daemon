@@ -1,0 +1,247 @@
+{
+  "source": "guia-de-racas-de-arton-tormentarpg",
+  "title": "guia_de_raças_de_arton_tormentarpg",
+  "status": "full-read-auto-pass-1",
+  "pages": 37,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "attribute_skill",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-maury-shi-dark-abreu-1",
+      "name": "Maury “Shi Dark” Abreu",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Maury “Shi Dark” Abreu Arton é um mundo extremamente grande, e em eterna ex- pansão. Suas terras são habitadas pelas mais variadas espécies e povos conhecidos, e alguns até desconhecidos: é verdade que a Academia Arcana de Valkaria ainda não teve êxito em ca- talogar todas as raças encontradas neste mundo. No entanto nem todas as espécimes encontradas aqui s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-brokk-macho-3",
+      "name": "Brokk Macho",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "Brokk Macho Custo: 2 pontos. Idade Inicial: 16+1d6. Atributos: +5 CON, +5 FR, -3 DEX, +2 AGI, -1 INT, -3 WILL, -3 CAR. Vantagens: Devido a seus dois braços, podem usar duas armas ou equipamento por rodada, sem nenhuma penalida- de, como se tivesse o Talento Ambidestria. Possui gratuita- mente o Aprimoramento Talento (Carpintaria). Desvantagens: Não pode fala...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-bugbear-4",
+      "name": "Bugbear",
+      "category": "race_lineage",
+      "pages": [
+        4
+      ],
+      "summary": "Bugbear Custo: 5 pontos. Idade Inicial: 12+2d6. Atributos: +2 CON, +6 FR, -1 DEX, -3 INT, -3 WILL, -3 CAR, +3 PER. Vantagens: Infravisão (20m). Possuem o Aprimoramento Sentido Aguçado (olfato). Desvantagens: Nenhuma. Os bugbears, ou goblins gigantes, como também costumam ser chamados, tornaram-se uma das raças bestiais mais famosas de Arton nos últimos anos....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-gigante-5",
+      "name": "Gigante",
+      "category": "attribute_skill",
+      "pages": [
+        5
+      ],
+      "summary": "Gigante Custo: 6 pontos. Idade Inicial: 16+2d6. Atributos: +12 CON, +12 FR, -3 DEX, -2 AGI. Vantagens: IP natural 1. Desvantagens: Nenhuma. Existem muitas teorias sobre a origem dos gigantes em Arton. Nenhuma delas, no entanto, é mais ou menos aceita. Todos teorizam que os gigantes artonianos teriam surgido a partir de magias. Alguns dizem que estas magias s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-gnoll-6",
+      "name": "Gnoll",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "Gnoll Custo: 1 ponto. Idade Inicial: 10+1d6. Atributos: +2 CON, +2 FR, -4 CAR. Vantagens: Nenhuma. Desvantagens: Código de Honra da Derrota (veja o texto). Gnolls são humanóides altos, com cerca de 2 metros e meio de altura, membros longos e uma cara de hiena. Sua organiza- ção é similar à de cães selvagens, formando matilhas e vagando o mundo em busca de ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-golem-7",
+      "name": "Golem",
+      "category": "character_option",
+      "pages": [
+        7
+      ],
+      "summary": "Golem Custo: 2 pontos. Idade Inicial: 16+2d6. Atributos: Normais. Vantagens: Não precisa dormir, comer, beber; imunidade a veneno, doenças e magias que afetam a mente. Desvantagens: Não recupera PV com descanso. Não po- dem ser magos nem clérigos. Os golens não são criaturas naturais como a maioria dos po- vos de Arton. Tais criaturas não surgem naturalmente...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-golens-na-sociedade-8",
+      "name": "Golens na Sociedade",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "Golens na Sociedade Ver golens andando pelas ruas não é algo assim tão normal. Cidades grandes como Valkaria e Vectora podem ter este tipo de Personagem com certa regularidade (uma vez que eles normal- mente chamam muito a atenção). Em lugares menores, no en- tanto, eles costumam ser muito raros. Após alguns anos de tabu, os golens agora começam a ser aceito...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-hobgoblin-9",
+      "name": "Hobgoblin",
+      "category": "character_option",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Hobgoblin Custo: 1 ponto. Idade Inicial: 16+3d6. Atributos: -2 WILL, -2 CAR, +4 PER. Vantagens: Enxergam no Escuro. Desvantagens: Nenhuma. Nativos do continente de Lamnor, os hobgoblins são pa- rentes distantes dos goblins, apesar de serem muito mais altos, aproximadamente da mesma altura que um humano. Tipicamen- te, são robustos com pêlos que variam entre...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-homem-lagarto-11",
+      "name": "Homem-Lagarto",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "Homem-Lagarto Custo: 6 pontos. Idade Inicial: 10+1d6. Atributos: +2 CON, +4 FR, +2 DEX, +2 AGI, -1 INT, -4 CAR, +4 PER. Vantagens: IP natural 1. Infravisão (20m). Locomoção normal debaixo d’água. Desvantagens: IP 0 e +50% de dano contra ataques de frio. Seres bípedes, de aspecto reptiliano, selvagens e anfíbios. Têm aproximadamente o mesmo tamanho de um ser...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-homem-sapo-12",
+      "name": "Homem-Sapo",
+      "category": "combat",
+      "pages": [
+        [
+          12,
+          14
+        ]
+      ],
+      "summary": "Homem-Sapo Custo: 0 pontos. Idade Inicial: 16+1d6. Atributos: -3 INT, -5 CAR. Vantagens: Sobre as árvores, todos os seus testes são considerados um nível abaixo, e os ataques e defesas rece- bem +20% de bônus. Seus saltos atingem 10m para cima e 5m para cima. Bônus de +10% em Camuflagem. Desvantagens: Necessitam de umidade. Estes anfíbios bípedes são os prin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-lobisomem-bestial-15",
+      "name": "Lobisomem Bestial",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "Lobisomem Bestial Custo: 3 pontos. Idade Inicial: 16+1d6. Atributos: Normais. Vantagens: Licantropia em lobo (+3 FOR, +3 CON, +1 AGI, IP natural 1). Garras. Desvantagens: Nenhuma. Estes licantropos, os mais famosos de todos, são aqueles cuja forma animalesca é similar a de um grande lobo das cavernas. Os homens-lobos são aqueles que mais facilmente trabalham...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-manta-17",
+      "name": "Manta",
+      "category": "character_option",
+      "pages": [
+        17
+      ],
+      "summary": "Manta Custo: 0 pontos. Idade Inicial: 16+2d6. Atributos: +2 INT. Vantagens: Poderes telepáticos. Levitação. Desvantagens: Dependência à água. Não possui mem- bros. Primitivismo. Os manta são um tipo de povo-arraia, encontrados nos ma- res de Arton, especialmente próximos à Galrasia, a ilha pré-his- tórica no lado oeste do continente. Os estudos realizadas at...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-meio-dragap-18",
+      "name": "Meio-Dragãp",
+      "category": "power_magic",
+      "pages": [
+        18
+      ],
+      "summary": "Meio-Dragãp Custo: 9 pontos. Idade Inicial: igual à sua raça de aparência. Atributos: +1 CON, +1 FR, +1 DEX, +1 AGI, +1 INT, +1 WILL, +1 CAR, +1 PER. Vantagens: Afinidade com Magia OU Poderes Mágicos 1. Invulnerabilidade a um tipo de ataque elemental. Desvantagens: Nenhuma. Em Arton todos os dragões adultos são capazes de adquirir uma forma humana ou semi-hu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-meio-dragoes-bicefalos-19",
+      "name": "Meio-Dragões Bicéfalos",
+      "category": "power_magic",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "summary": "Meio-Dragões Bicéfalos Apesar desta criatura nunca ter sido encontrada, alguns estudiosos teorizam que podem existir meio-dragões filhos de bicáfalos, dragões com duas cabeças que combinam as carac- terísticas de dois dragões elementais. Segundo alguns estudiosos, estes meio-dragões seriam invulneráveis a dois ataques elementais, ao invés de um único. Outros...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-fantasma-21",
+      "name": "Fantasma",
+      "category": "power_magic",
+      "pages": [
+        [
+          21,
+          23
+        ]
+      ],
+      "summary": "Fantasma Custo: 4 pontos. Idade Inicial: 20+3d6. Atributos: Normais. Vantagens: Apenas sofre dano por Magias e armas má- gicas. Imortal. Pode voar e levitar. Translúcido (75%). Pos- sessão. Aura de medo. Desvantagens: Devoção. Fantasmas são mortos-vivos imateriais, não possuem cor- po físico como os esqueletos e zumbis. Fantasmas normalmen- te estão presos a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-ogre-24",
+      "name": "Ogre",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          24,
+          28
+        ]
+      ],
+      "summary": "Ogre Custo: 1 ponto. Idade Inicial: 16+1d6. Atributos: +3 CON, +3 FR, -2 DEX, -1 AGI, -2 CAR, -2 INT. Vantagens: Nenhuma. Desvantagens: Má Reputação. Não pode usar equipamen- tos destinados a humanos e semi-humanos devido ao tama- nho muito grande do Ogre. Conhecidos em alguns pontos como ogros, estes imensos humanóides costumam medir entre 2,5 e 3m de altur...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-dragoas-e-a-divina-serpente-29",
+      "name": "Dragoas e a Divina Serpente",
+      "category": "combat",
+      "pages": [
+        [
+          29,
+          31
+        ]
+      ],
+      "summary": "Dragoas e a Divina Serpente A fúria das dragoas-caçadoras deve-se principalmente à sua crença religiosa. Estas antropossauras são devotadas ferrenhas da Diina Serpente, Deusa da coragem e da força. Na verdade por muito tempo acreditou-se que a Dinia Serpen- te seria uma Deusa maior no Panteão artoniano. Quando os pri- meiros contatos com os minotauros de Tap...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-veloci-32",
+      "name": "Veloci",
+      "category": "combat",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "summary": "Veloci Custo: 2 pontos. Idade Inicial: 10+1d6. Atributos: -1 CON, +2 AGI. Vantagens: Chifres. Em corrida, pode quadruplicam sua velocidade normal. Super-salto. Aprimoramentos Sentidos Aguçados (visão e olfato) gratuitamente. Desvantagens: Envelhecem aos 38 anos. Covardia e Pacifismo. Velocis são altos e magros, com uma pele azul-acinzentada. Apresenta também...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-dragonete-34",
+      "name": "Dragonete",
+      "category": "power_magic",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "Dragonete Custo: 2 pontos. Idade Inicial: 14+1d6. Atributos: Normais. Vantagens: Pode voar com velocidade de 10m/s. Pode- res Mágicos 1 gratuitamente. Comunicação telepática. Desvantagens: Não podem usar Magias de ataque. Vul- neráveis a Magias. Medindo não mais de meio metro de altura, os dragonetes também são conhecidos como dragões-fadas, uma vez que com-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-racas-de-arton-tormentarpg-religiao-36",
+      "name": "Religião",
+      "category": "power_magic",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "summary": "Religião Os sprites acreditam em Wynna como sua mãe criadora, e esta é sua divindade mais importante. No entanto, devido à sua proximidade com a natureza, Allihanna também é uma divinda- de bastante comum entre eles. Lena, Deusa da Paz, também é uma divindade muito cultuada em Pondsmânia, como conseqüência da vida pacífica deste povo. Thyatis, Nimb e Hynnin...",
+      "entityRefs": []
+    }
+  ]
+}

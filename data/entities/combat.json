@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ferimentos",
+    "name": "Ferimentos",
+    "category": "combat",
+    "source": "abismo-infinito-quick-start",
+    "page": 34,
+    "entries": [
+      "Trilha de dano fisico de Abismo Infinito.",
+      "Personagens acumulam pontos de Ferimentos; o texto descreve danos por intencao, de atordoar ate matar."
+    ],
+    "tags": ["dano", "combate", "ferimentos"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "males-do-espaco",
+    "name": "Males do Espaco",
+    "category": "combat",
+    "source": "abismo-infinito-quick-start",
+    "page": 34,
+    "entries": [
+      "Perigos ambientais do espaco, incluindo assombro visual, gravidade nula e vacuo.",
+      "Aplicam desvantagens circunstanciais ou dano direto conforme a exposicao."
+    ],
+    "tags": ["perigo", "espaco", "ambiente"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  }
+]

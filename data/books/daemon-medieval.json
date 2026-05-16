@@ -1,0 +1,675 @@
+{
+  "source": "daemon-medieval",
+  "title": "Daemon Medieval",
+  "status": "full-read-auto-pass-1",
+  "pages": 74,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "daemon-medieval-daemon-medieval-1",
+      "name": "Daemon MedievaL",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Daemon MedievaL Daemon MedievaL Daemon MedievaL Módulo Básico Design e Desenvolvimento: Leandro \"Gandalfo\" Gomes Agradecimentos - Primeiramente a deus, se é que ele existe, ou quem quer que seja o responsável por tudo isso. - A Gary Gigax e Dave Anerson, por criarem o primeiro e melhor RPG do mundo. - Ao Marcelo Del Debbio, por criar os melhores RPGs do Bras...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-1-conceitos-basicos-4",
+      "name": "Capítulo 1 – Conceitos Básicos",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "Capítulo 1 – Conceitos Básicos 4 Clérigos conseguem fazer, como o nome desses efeitos. Para efeito didático, Magia com letra maiúscula representa a Magia em si, o poder mágico, enquanto magia com letra minúscula é o nome dos efeitos (por exemplo: o Mago utiliza a Magia para fazer uma magia de Bola de Fogo). Da mesma forma, Mago representa o kit Mago, e mago...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-5",
+      "name": "Daemon Medieval",
+      "category": "attribute_skill",
+      "pages": [
+        5
+      ],
+      "summary": "Daemon Medieval 5 Capítulo 2 Criação de Personagens m Daemon Medieval a criação de um Personagem é algo bastante fácil de fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobrevivência no futuro. Existem também fatores relacionados com o Background do personagem, seus anseios e temores, sua história e sua caracterização. Em Daem...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-2-criacao-de-personagens-6",
+      "name": "Capítulo 2 – Criação de Personagens",
+      "category": "character_option",
+      "pages": [
+        6
+      ],
+      "summary": "Capítulo 2 – Criação de Personagens 6 Laura é uma Humana e não possui nenhuma vantagem ou desvantagem de Raça. 5. Kit Os Kits foram desenvolvidos para facilitar a criação de Personagem. Tratam-se dos tipos mais comuns de Personagens encontrados pelos jogadores e englobam a maior parte dos Pontos de Aprimoramento e de Perícia disponíveis. O Kit é um reflexo d...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-7",
+      "name": "Daemon Medieval",
+      "category": "attribute_skill",
+      "pages": [
+        7
+      ],
+      "summary": "Daemon Medieval 7 Ciências (Teologia) 0 50 50% Conhecimento 0 30 30% Artes (Canto) CAR 30 44% Etiqueta CAR 30 44% Primeiros Socorros INT 30 48% Ciências (História) 0 40 40% Ciências (Filosofia) 0 30 30% Perceba que ambos gastaram os Pontos restantes em algumas das Perícias do próprio Kit e em outras Perícias que fazem parte de seu Background, mas que não são...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-3-atributos-8",
+      "name": "Capítulo 3 – Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Capítulo 3 – Atributos 8 Capítulo 3 Atributos tributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. São oito Atributos, divididos entre Físicos e Mentais. Os Físicos são a Constituição, Força, Destreza e Agilidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-9",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        9
+      ],
+      "summary": "Daemon Medieval 9 Argos, o Anão, deseja forçar uma porta que está emperrada. O Mestre decide que o Atributo mais indicado para esta ação é a Força. Argos possui FR 16, logo seu Valor de Teste será 64%. Pontos de Vida Os Pontos de vida indicam a quantidade de dano que um Personagem pode receber antes de cair inconsciente. Para calcular quantos PVs tem um Pers...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-4-racas-10",
+      "name": "Capítulo 4 – Raças",
+      "category": "attribute_skill",
+      "pages": [
+        10
+      ],
+      "summary": "Capítulo 4 – Raças 10 Capítulo 4 Raças s cenários de fantasia medieval não são habitados somente pela Raça humana, mas sim por uma série de Raças inteligentes que convivem no mesmo mundo. Uma das primeiras coisas que você terá de escolher para seu Personagem é a Raça a qual ele pertence, pois isso determinará muito de sua história, seus costumes e sua cultur...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-11",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        11
+      ],
+      "summary": "Daemon Medieval 11 pedras preciosas, enquanto as mulheres anãs (que raramente tornam- se aventureiras) cuidam dos lares. Os anões são conhecidos como ótimos artífices e exímios cervejeiros: suas armas e a bebida são apreciados por todo o mundo. Aqueles anões que optam por viver uma vida de aventuras geralmente tornam-se Guerreiros ou Clérigos de alguma divin...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-4-racas-12",
+      "name": "Capítulo 4 – Raças",
+      "category": "character_option",
+      "pages": [
+        12
+      ],
+      "summary": "Capítulo 4 – Raças 12 sofrem preconceito dos Elfos, o que leva a maioria a viver em terras humanas. Meio-Elfos misturam as características das duas raças de seus pais, tanto física quanto psicologicamente. Dos humanos, herdam o gosto pela aventura, a curiosidade e a ambição. Dos elfos, o amor à natureza, a delicadeza dos sentidos e o gosto pelas coisas simpl...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-13",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Daemon Medieval 13 Capítulo 5 Kits de personagem s Kits são as profissões que seu personagem escolhe para seguir. Para se usar um kit, gaste os Pontos de Perícia e de Aprimoramentos para cada Kit e receba os benefícios correspondentes. O Mestre pode vetar qualquer kit que não esteja de acordo com o tipo de campanha que deseja realizar. A ficha do Kit apresen...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-5-kits-14",
+      "name": "Capítulo 5 – Kits",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Capítulo 5 – Kits 14 encorajam Guerreiros com sua música mágica. Um Bardo extrai a magia de sua alma, não de um livro. Sua magia valoriza feitiços e ilusões em vez de magias de evocação, que Magos e Feiticeiros usam freqüentemente. Um Bardo não faz magia somente mediante feitiços - também pode fazê-lo através da música e da poesia. É capaz de encorajar seus...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-15",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        15
+      ],
+      "summary": "Daemon Medieval 15 conhecimento (especialmente sobre animais e plantas desconhecidas) e poder. Algumas vezes, seus superiores da ordem secreta dos Druidas exigem seus serviços e eles também podem usar seus poderes contra os destruidores daquilo que amam, normalmente incluindo árvores antigas ou montanhas inexploradas. Apesar dos Druidas aceitarem toda a crue...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-5-kits-16",
+      "name": "Capítulo 5 – Kits",
+      "category": "kit_class",
+      "pages": [
+        16
+      ],
+      "summary": "Capítulo 5 – Kits 16 Pontos de Magia: 4 + 2 por nível Pontos de Fé: 0 Caminhos Preferidos: Nenhum. Devido à sua natureza abundantemente mágica, um Feiticeiro começa o jogo com o dobro de Pontos de Magia que comumente ganharia pelo seu Aprimoramento Poderes Mágicos. Feiticeiros não aprendem Formas, ou seja, não podem gastar pontos de focus em Criar, Controlar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-17",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        17
+      ],
+      "summary": "Daemon Medieval 17 sendo equivalente a membros de outras Raças combatentes, um Ladrão sabe acertar exatamente onde seus golpes machucam mais e podem infringir danos enormes quando pegam um inimigo num ataque furtivo. Ladrões possuem um sexto sentido para evitar o perigo. À medida que dominam a arte do sigilo, a evasão e os ataques furtivos, os Ladrões experi...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-5-kits-18",
+      "name": "Capítulo 5 – Kits",
+      "category": "kit_class",
+      "pages": [
+        18
+      ],
+      "summary": "Capítulo 5 – Kits 18 antecipadamente de ataques através de uma percepção prematura, mesmo que não tenham notado nada conscientemente. À medida que um Monge adquire experiência e poder, tanto suas habilidades mundanas quanto seu chi aumentam, dando-lhe mais controle sobre si mesmo e, algumas vezes, sobre os outros. Um Monge costuma treina em um monastério. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-19",
+      "name": "Daemon Medieval",
+      "category": "kit_class",
+      "pages": [
+        19
+      ],
+      "summary": "Daemon Medieval 19 Os Rangers normalmente sabe usar muitos tipos de armas e são muito eficazes em combate. Suas Perícias lhe permitem sobreviver na intempérie, encontrar sua presa e evitar ser notado. Ele também possui conhecimentos especiais sobre certos tipos de criaturas, tornando-o mais capaz de encontrar e vencer esses inimigos. Os Rangers geralmente te...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-5-kits-20",
+      "name": "Capítulo 5 – Kits",
+      "category": "combat",
+      "pages": [
+        20
+      ],
+      "summary": "Capítulo 5 – Kits 20 costumam realmente mostrar que estão ali. Ainda que, a presença das divindades se faça notar principalmente através dde seus clérigos, os deuses também possuem seguidores leigos que tentam, de certa forma, viver seguindo suas idéias. Os deuses governam os vários aspectos da existência humana: o bem e o mal, a ordem e o caos, a vida e a m...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-21",
+      "name": "Daemon Medieval",
+      "category": "attribute_skill",
+      "pages": [
+        21
+      ],
+      "summary": "Daemon Medieval 21 4- O Jogador teve uma boa participação na aventura, teve boas idéias e descreveu bem suas cenas? 5- O Personagem foi heróico? Com base nessas perguntas, o Mestre deve dar uma nota de 0 a 2 em cada pergunta para cada Personagem, que será somada aos seus Pontos de Experiência. Uma nota 2 significa uma atuação excepcional no quesito analisado...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-6-aprimoramentos-22",
+      "name": "Capítulo 6 – Aprimoramentos",
+      "category": "combat",
+      "pages": [
+        22
+      ],
+      "summary": "Capítulo 6 – Aprimoramentos 22 Capítulo 6 Aprimoramentos primoramentos são toques pessoais na vida do seu Personagem. Peculiaridades, trejeitos e características que o tornam único. Os Aprimoramentos estão divididos em pontos, que refletem o quão poderosos estes méritos são. Assim, aqueles que custam 1 Ponto são mais comuns àqueles de 3 ou 4 Pontos. Em termo...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-23",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        23
+      ],
+      "summary": "Daemon Medieval 23 Se o Personagem puder pegar um oponente incapaz de defender- se bem do seu ataque, pode atingir um ponto vital para causar dano adicional. O ataque furtivo causa dano adicional sempre que seu alvo não puder usar o valor de AGI na Defesa. Se o Personagem conseguir um acerto crítico com um ataque furtivo, este dano adicional não é multiplica...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-6-aprimoramentos-24",
+      "name": "Capítulo 6 – Aprimoramentos",
+      "category": "core_rule",
+      "pages": [
+        24
+      ],
+      "summary": "Capítulo 6 – Aprimoramentos 24 Lembre-se que os aliados podem morrer com o passar do tempo (bom, até mesmo seres sobrenaturais podem morrer...). Quando isso ocorrer, assume-se que o Personagem conseguiu outro aliado no mesmo ramo, passou a conhecer os descendentes dele ou seu sucessor. O Mestre deve sempre se lembrar que os contatos e aliados do Personagem t...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-25",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        25
+      ],
+      "summary": "Daemon Medieval 25 1 ponto: os animais não vêem ameaça algum no personagem, chegando até a verem-no como um semelhante. Sua presença não afugenta animais selvagens e sua aproximação não os fará atacá-lo (a menos que estejam sendo controlados). Especialização em Arma 1 ponto: o personagem recebe um bônus de +1 em dano para cada dois níveis que possua, mas som...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-6-aprimoramentos-26",
+      "name": "Capítulo 6 – Aprimoramentos",
+      "category": "combat",
+      "pages": [
+        26
+      ],
+      "summary": "Capítulo 6 – Aprimoramentos 26 Falcão: CON 4, FR 1, DEX 1, AGI 15, INT 2, WILL 3, PER 18, CAR 4 #ataques: [1] Mordida 50%, dano 1d6 a 1d10, PV 2-4, IP 0 Coruja: CON 3, FR 1, DEX 1, AGI 10, INT 2, WILL 3, PER 18, CAR 4 #ataques: [1] Mordida 25%, dano 1d3 a 1d10, PV 2-4, IP 0 Rato: CON 1, FR 1, DEX 0, AGI 12, INT 0, WILL 0, PER 15, CAR 0 #ataques: [1] Mordida...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-27",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        27
+      ],
+      "summary": "Daemon Medieval 27 5 pontos: São personagens mais velhos, com muito poder acumulado e bastante conhecimento de magia. Possui pelo menos DOIS inimigos mortais a mais dos que já possuiria (a cargo do Mestre – e pode pegar pesado!). O personagem dispõe de 9 pontos de Focus e 7 pontos de Magia. Pontos de Fé Pontos de Fé expressam o poder máximo dos Deuses e Clér...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-6-aprimoramentos-28",
+      "name": "Capítulo 6 – Aprimoramentos",
+      "category": "core_rule",
+      "pages": [
+        28
+      ],
+      "summary": "Capítulo 6 – Aprimoramentos 28 Resistência à Dor 3 pontos: o personagem possui alta resistência à dor, não importa quanto dano físico sofra, ele não sentirá os ferimentos com a mesma intensidade que as demais pessoas sentem, e nem receber penalidades correspondentes por isso. Considere que o personagem mantêm-se consciente mesmo quando seus PVs atingirem o v...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-29",
+      "name": "Daemon Medieval",
+      "category": "combat",
+      "pages": [
+        29
+      ],
+      "summary": "Daemon Medieval 29 subordinados relutem quando não concordarem com a ordem (como atacar um exército visivelmente superior ou cometer qualquer ato que pareça suicídio). Um personagem com Voz de Comando faz um Teste de Liderança (sem precisar disputar contra a WILL dos demais) e o Mestre define se este será Fácil, Normal ou Difícil (levanto em conta o grau de...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-6-aprimoramentos-30",
+      "name": "Capítulo 6 – Aprimoramentos",
+      "category": "core_rule",
+      "pages": [
+        30
+      ],
+      "summary": "Capítulo 6 – Aprimoramentos 30 concentrar são Difíceis. Um personagem com Distração não pode comprar o Aprimoramento Concentração. Família ou Mentor Desonrado -1 ponto: seus descendentes ou seu mestre cometeram crimes terríveis no passado, e hoje você paga por isso, sendo descriminado e condenado como culpado também. Embora não haja realmente culpa sua, o Pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-31",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        31
+      ],
+      "summary": "Daemon Medieval 31 emboscar o personagem (por exemplo, se um Personagem tem a mania de todo o domingo ir ao parque, os inimigos dele saberão onde encontrá-lo quando quiserem lhe armar uma armadilha). Mau Humor -1 ponto: o personagem parece sempre acordar com o pé esquerdo, o que faz com que ele sempre esteja irritado, zangado, nervoso e de mau humor. Quando...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-7-pericias-32",
+      "name": "Capítulo 7 – Perícias",
+      "category": "attribute_skill",
+      "pages": [
+        32
+      ],
+      "summary": "Capítulo 7 – Perícias 32 Capítulo 7 Perícias erícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a apro...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-33",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        33
+      ],
+      "summary": "Daemon Medieval 33 Domar um animal selvagem ou monstruoso segue as mesmas regras apresentadas na Perícia Treinamento de Animais (tempo de treino, Testes necessários, etc.). A Perícia Doma também pode ser usada para domar animais selvagens e mantê-los afastados. Para isso, entretanto, deve-se obter sucesso em um Teste Normal (com penalidades à escolha do Mest...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-7-pericias-34",
+      "name": "Capítulo 7 – Perícias",
+      "category": "core_rule",
+      "pages": [
+        34
+      ],
+      "summary": "Capítulo 7 – Perícias 34 Espada Curta 20 dias Espada Longa 30 dias Espada de Duas Mãos 45 dias Besta Leve 15 dias Besta Pesada 20 dias Flechas 10 por dia Lança 20 dias Machado 10 dias Mangual 15 dias Tridente 20 dias Armadura de couro 50 dias Armadura de Anéis 60 dias Armadura de Malha 60 dias Armadura de Ferro 65 dias Armadura Completa 80 dias A Perícia Arm...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-35",
+      "name": "Daemon Medieval",
+      "category": "item_equipment",
+      "pages": [
+        35
+      ],
+      "summary": "Daemon Medieval 35 Artífice* (0) Um artífice é um Personagem com a habilidade de trabalhar com algum material específico, permitindo-lhe construir ou consertar roupas, móveis, caixas, utensílios, ferramentas, potes, armários ou até mesmo casas (mas não armas – para isso deve-se usar a Perícia Armeiro). Um artífice tem o conhecimento para fabricar e consertar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-7-pericias-36",
+      "name": "Capítulo 7 – Perícias",
+      "category": "creature_npc",
+      "pages": [
+        36
+      ],
+      "summary": "Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso os filósofos costumam ser pessoas que duvidam ou questionam tudo que lhe é apresentado. Para fins de...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-37",
+      "name": "Daemon Medieval",
+      "category": "combat",
+      "pages": [
+        37
+      ],
+      "summary": "Daemon Medieval 37 Um Teste de Conhecimento deve ser realizado toda vez que o Personagem deseja obter alguma informação sobre o conhecimento em questão. Geralmente o Teste será Normal, mas para lembrar-se de uma informação mais profunda e obscura o Mestre pode exigir um Teste Difícil. Antes de criar uma Perícia Conhecimento certifique-se de que não existe um...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-7-pericias-38",
+      "name": "Capítulo 7 – Perícias",
+      "category": "item_equipment",
+      "pages": [
+        38
+      ],
+      "summary": "Capítulo 7 – Perícias 38 Escalada (FR): Quando se tem o equipamento necessário, um Teste de Força é suficiente para escalar um muro, parede, calha ou outros similares. A Perícia Escalada é usada para escalar, muros, montanhas e outros lugares íngrimes sem nenhum equipamento apropriado. Escalar paredes muito lisas ou muito íngremes pode ser considerado um Tes...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-39",
+      "name": "Daemon Medieval",
+      "category": "combat",
+      "pages": [
+        39
+      ],
+      "summary": "Daemon Medieval 39 São diversos os Subgrupos de Manipulação, variando entre técnicas sutis e violentas. Quando o alvo da Perícia não deseja revelar a verdade ele pode fazer um Teste Resistido entre a Manipulação e sua WILL. Empatia (CAR): O Personagem compreende e é capaz de sentir as emoções de outras pessoas, estando apto a reagir prontamente a elas. Esta...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-7-pericias-40",
+      "name": "Capítulo 7 – Perícias",
+      "category": "core_rule",
+      "pages": [
+        40
+      ],
+      "summary": "Capítulo 7 – Perícias 40 Este grupo de Perícias permite ao Personagem sair-se bem no mundo das finanças e evita que faça maus negócios – seja no momento de pechinchar um preço melhor quando compra uma mercadoria, seja para evitar que seu negócio vá à falência. Barganha (CAR/Manha): Também chamado de “pechincha”, a habilidade de conseguir alguma coisa por um...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-41",
+      "name": "Daemon Medieval",
+      "category": "item_equipment",
+      "pages": [
+        41
+      ],
+      "summary": "Daemon Medieval 41 Capítulo 8 Armas e Equipamentos s peças são as moedas mais comumente utilizadas em cenários de Fantasia Medieval. A peça de Prata é a principal. A tabela abaixo mostra diversos itens em Peças de Prata (PP), encontrados em feiras ou grandes mercados nas cidades (em locais onde esses equipamentos são mais raros eles consequentemente serão ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-42",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        42
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 42 Transporte (cont.) Objetos Comuns (cont.) Item Preço Item Preço Knarr, navio pequeno 30.000 Ferro, 1kg 20 Liteira 1.000 Frasco 1 Longship 750.000 Frasco de água benta 250 Navio Brig 250.000 Frasco de Óleo 2 Navio Carrak 500.000 Gancho de alpinismo 40 Navio Clipper 1.000.000 Ganchos de Ferro 40 Navio Cog12 900.000 Garrafa...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-43",
+      "name": "Daemon Medieval",
+      "category": "item_equipment",
+      "pages": [
+        43
+      ],
+      "summary": "Daemon Medieval 43 Animais (cont.) Serviços Item Preço Serviço Preço Cão de caça 170 Acomodação em cidade, mês, comum 20 Cão de guarda 250 Acomodação em cidade, mês, pobre 6 Cão de guerra 200 Alimentação de montaria (dia) 0,5 Cão de montaria 1.500 Alquimista 60 Carneiro 40 Apresentação musical 20 Cavalo de carga 2.000 Assassinato 300 Cavalo de guerra, leve 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-44",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "combat",
+      "pages": [
+        44
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 44 Armas Arma (Dano/ Penalidade/ Alcance) Preço Arma (Dano/ Penalidade/ Alcance) Preço Açoite (1d6/ -3) 10 Guisarme (1d6+2/ -6) 90 Adaga de Prata (1d3/ -3) 100 Guisarme Voulge (1d10/ -8) 80 Adaga de Soco (1d3+1/ -1) 20 Javelin (1d6/ -3/ 20-40) 5 Adaga Kukri (1d3+1/ -3) 80 Kama (1d6/ -2) 20 Adaga ou Punhal (1d3/ -2/ 15-30) 20...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-45",
+      "name": "Daemon Medieval",
+      "category": "item_equipment",
+      "pages": [
+        45
+      ],
+      "summary": "Daemon Medieval 45 Armaduras e Escudos Item de proteção (IP, Penalidade DEX/AGI) Preço Item de Proteção (IP, Penalidade DEX/AGI) Preço Armadura Acolchoada (2, -1/0) 50 Cota de Malha (4, -4/-3) 1.500 Armadura Brigantina (5, -2/-4) 1.200 Cota de Talas (5, -4/-4) 2.000 Armadura de Anéis (2, -1/-2) 800 Cravo para Escudos 100 Armadura de Batalha (5, -3/-6) 15.000...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-46",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        46
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 46 Acônito: Punhado desta planta venenosa e medicinal, muito mal cheirosa, que os lobisomens tanto odeiam. Um licantropo em presença da planta tem de fazer um teste de WILL (Fácil) para não fugir do personagem. Algemas: Instrumento de ferro com que se prendem os braços pelos pulsos. Estas algemas podem atar uma criatura do t...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-47",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        47
+      ],
+      "summary": "Daemon Medieval 47 Martelo de pítons: um pequeno martelo com cabeça de ferro, usado para pregar os espigões na parede. Mochila: Onde você pretende guardar tudo isso?! Mochilas são bolsas de couro carregadas nas costas, geralmente com tiras para prendê-las. São grandes e suportam muitas coisas, mas não podem carregar mais que 35kg sem rasgarem. Parafina: Cera...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-48",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        48
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 48 Alforje: Espécie de saco, fechado nas extremidades e aberto no meio, por onde se dobra formando dois compartimentos. É posto sobre o lombo dos animais de carga. Armadura de Montaria: A armadura de montaria é simplesmente um tipo de proteção que cobre a cabeça, o pescoço, peito, corpo e possivelmente as pernas de um animal...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-49",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        49
+      ],
+      "summary": "Daemon Medieval 49 • Nome: o nome mais conhecido da arma. • Preço: o custo da arma, em PP. • Dano: a quantidade de dano causada pela arma. Às armas com um asterisco [*] não é somado o bônus de Força do personagem ao calcular o dano. A todas as outras, sim. • Penalidade na Iniciativa: Armas muito pesadas são mais difíceis de serem empunhadas depois de um golp...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-50",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "combat",
+      "pages": [
+        50
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 50 Shuriken: você pode lançar até três shurikens por ataque (todos contra o mesmo alvo). Não é aplicado o seu modificador de FR ao dano infligido por essa arma por ser pequena demais para transmitir o impulso do braço. Urgrosh Anão: A ponta do machado do Urgrosh é uma arma cortante que causa 1d6+2 de dano. Sua ponta de lança...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-51",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        51
+      ],
+      "summary": "Daemon Medieval 51",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-52",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        52
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 52",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-53",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        53
+      ],
+      "summary": "Daemon Medieval 53",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-8-armas-e-equipamentos-54",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "category": "item_equipment",
+      "pages": [
+        54
+      ],
+      "summary": "Capítulo 8 – Armas e Equipamentos 54",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-55",
+      "name": "Daemon Medieval",
+      "category": "creature_npc",
+      "pages": [
+        55
+      ],
+      "summary": "Daemon Medieval 55 CAPÍTULO 9 MAGIA agia é uma coisa muito importante – senão a mais importante – dos mundos e campanhas de fantasia medieval. Em Daemon Medieval, as magias são lançadas gastando-se pontos de Magia ou de Fé. “Mago” é qualquer personagem capaz de usar Magia verdadeira. Em termos de jogo, ele deve possuir pelo menos 1 ponto de Focus (veja mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-9-magia-56",
+      "name": "Capítulo 9 – Magia",
+      "category": "power_magic",
+      "pages": [
+        56
+      ],
+      "summary": "Capítulo 9 – Magia 56 Seu personagem possui um determinado número de Pontos de Focus, de acordo com o Aprimoramento Poderes Mágicos ou Pontos de Fé, e com o nível do personagem. Estes pontos devem ser gastos nas formas e caminhos que você escolher. Todos os personagens começam o jogo com Entender 0, Criar 0 e Controlar 0. O que isto significa? Que apesar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-57",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        57
+      ],
+      "summary": "Daemon Medieval 57 Magia e Kits de Personagem Cada kit tem uma forma diferente de utilizar as regras de Magia apresentadas. Não vamos entrar em explicações mais detalhas sobre o que realmente é a magia. Basta saber que é uma força caprichosa e muito poderosa da natureza. Aqueles que conseguem dobrar essa força podem criar efeitos impressionantes conhecidos c...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-9-magia-58",
+      "name": "Capítulo 9 – Magia",
+      "category": "power_magic",
+      "pages": [
+        58
+      ],
+      "summary": "Capítulo 9 – Magia 58 combate ou em uma situação qualquer), o jogador apenas anuncia ao Mestre qual das magias de seu Grimório seu personagem Mago irá lançar, gasta os Pontos de Magia necessários e o efeito se realiza. Há uma “ficha de magias” no final desse livro que representa o Grimório do Personagem. Um Personagem Mago começa o jogo com 1d6 magias, mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-59",
+      "name": "Daemon Medieval",
+      "category": "power_magic",
+      "pages": [
+        59
+      ],
+      "summary": "Daemon Medieval 59 Quando um jogador escolhe ser um Clérigo ou Paladino, deverá escolher também qual será o deus patrono de seu personagem, e esta escolha limitará os Caminhos aos quais o Personagem tem acesso. Druidas não têm deus, mas não podem gastar Pontos de Fé para adquirir Focus em nenhum Caminho que não Água, Fogo, Terra, Ar, Humanos, Animais e Plant...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-capitulo-10-60",
+      "name": "Capítulo 10",
+      "category": "attribute_skill",
+      "pages": [
+        60
+      ],
+      "summary": "Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, por...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-61",
+      "name": "Daemon Medieval",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          61,
+          62
+        ]
+      ],
+      "summary": "Daemon Medieval 61 Caso especial: Força A Força é um Atributo diferente. No capítulo de Atributos, há uma tabela que relaciona pesos (em quilos) com os Atributos. Quando um Personagem deseja levantar um peso qualquer, essa situação deve ser tratada como se ele estivesse combatendo uma Força oposta. Se o peso é 100 kg, ele está combatendo uma Força 12. Nesse...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-63",
+      "name": "Daemon Medieval",
+      "category": "combat",
+      "pages": [
+        [
+          63,
+          64
+        ]
+      ],
+      "summary": "Daemon Medieval 63 movimentos que duram algum tempo. As armas maiores possuem modificadores maiores. Modificador de Arma Mágica Armas mágicas possuem modificadores positivos. Para cada nível de encantamento, a arma terá uma bonificação extra na iniciativa. Ou seja, uma arma +2 dará um bônus de 2 na iniciativa. É claro que esse bônus NÃO exclui o modificador...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-65",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        [
+          65,
+          66
+        ]
+      ],
+      "summary": "Daemon Medieval 65 Armas de longa distância apresentam a vantagem de atacar o oponente de longe, evitando o contato corpo a corpo. Porém, em termos de jogo, há duas desvantagens. A primeira delas é a impossibilidade de gastar pontos em defesa, que será SEMPRE igual à zero. A segunda desvantagem é o custo em Dobro dos pontos. Cada dois pontos de Perícia gasto...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-67",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        [
+          67,
+          68
+        ]
+      ],
+      "summary": "Daemon Medieval 67 pois cavalos podem se assustar com o clamor da batalha. Ou então pode simplesmente definir que cavalos treinados para batalhas não têm esse problema). Usar arcos, bestas ou fundas ou lutar contra outro cavaleiro no lombo de um cavalo é outra história. Nestes casos os personagens ficam sujeitos a uma penalidade de -20% nos ataques. Ações Fí...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-daemon-medieval-69",
+      "name": "Daemon Medieval",
+      "category": "core_rule",
+      "pages": [
+        [
+          69,
+          70
+        ]
+      ],
+      "summary": "Daemon Medieval 69 Quedas Existem duas maneiras de um Personagem sofrer uma queda: intencional ou acidental. Em casos de queda acidental, o Personagem não espera sofrer a queda e seus músculos não estavam preparados para absorver o impacto. O dano é 1d6 a cada por metro de queda, com direito a Teste de AGI para reduzir o dano à metade. Já um pulo permite ao...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-medieval-ficha-de-personagem-71",
+      "name": "Ficha de Personagem",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          71,
+          74
+        ]
+      ],
+      "summary": "Ficha de Personagem 71 Background _____________________________________________________________________ _____________________________________________________________________ _____________________________________________________________________ _____________________________________________________________________ ______________________________________________...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "blade-marvel",
+  "title": "Blade Marvel",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "combat",
+    "race_lineage",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "blade-marvel-blade-1",
+      "name": "BLADE",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 BLADE 2 BLADE O personagem Blade (vivido no filme pelo ator Wesley Snipes) foi criado por Marv Wolfman e Gene Colan, concebido originalmente para histórias em quadrinhos, porém o grande sucesso veio mesmo com as filmagens da adaptação das histó- rias para o cinema. Blade é o caçador mais temido pelos vampiros, porque o san- gue que corre pelas veias dele é...",
+      "entityRefs": []
+    }
+  ]
+}

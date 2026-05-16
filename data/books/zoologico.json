@@ -1,0 +1,24 @@
+{
+  "source": "zoologico",
+  "title": "Zoologico",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "combat",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "zoologico-at-1-mordida-10-cada-dano-1d2-1",
+      "name": "#at: 1 (Mordida 10% cada, dano 1d2)",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "(1) 1d3 Ratos: Peso: 100 a 300g, PV 1, IP 0 #at: 1 (Mordida 10% cada, dano 1d2) CON 1 FR 1 DEX 0 AGI 12 INT 0 WILL 0 PER 15 CAR 0 (1) Gato: Peso: 400g a 2kg, PV 2, IP 0 #at: 1 (Mordida 15%, dano 1d3) CON 3 FR 2 DEX 2 AGI 16 INT 1 WILL 1 PER 18 CAR 3 (1) Cachorro: Peso: 2kg a 50kg, PV 2-20, IP 0 #at: 1 (Mordida 15%, dano 1d3 a 1d10) CON 3 FR 2 DEX 2 AGI 16 IN...",
+      "entityRefs": []
+    }
+  ]
+}

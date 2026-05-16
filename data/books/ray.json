@@ -1,0 +1,113 @@
+{
+  "source": "ray",
+  "title": "ray",
+  "status": "full-read-auto-pass-1",
+  "pages": 15,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "setting_lore",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "ray-marcelo-de-matos-1",
+      "name": "Marcelo de Matos,",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Marcelo de Matos, O Guaxinim. 1a Edição",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-editorial-2",
+      "name": "Editorial",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "Editorial Este livro virtual (ou NET-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br. Se você quer criar seu próprio RPG de Anime, não dei...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-alguns-lugares-de-zefir-6",
+      "name": "Alguns Lugares de Zefir",
+      "category": "power_magic",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Alguns Lugares de Zefir O Palácio do Pilar O Palácio do Pilar é o centro de Zefir. Ele parece ter sido (e foi) construído com alguma espécie de cristal opaco branco. O Palácio é formado por três torres enormes, de mesmo tamanho, unidas pelo meio por uma espécie de passarela. O Palácio é tam- bém a sede dos três maiores poderes da região: ele funciona como re...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-fenris-8",
+      "name": "Fenris",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Fenris Custo: 2 pontos Idade Inicial: 6+1d6 Atributos: PER e FR +3; CAR -5 Vantagens: Garras e Chifres (é necessário comprar perícias adequadas para atacar com estes artifícios). Fenris são criaturas parecidas com grandes lobos, do tama- nho aproximado de um leão (na verdade são um pouco maio- res). Eles têm dentes semelhantes aos de um tubarão (2d6 de dano)...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-kits-9",
+      "name": "KITs",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          11
+        ]
+      ],
+      "summary": "KITs Isso pode fazer parecer que eles são muito superiores a quaisquer outros personagens, mas lembre-se: os Magic Knights não são de Zefir e não conhecem nada nem ninguém, o que pode deixá-los a mercê de seus inimigos (e também de seus aliados!). Muita gente não vai confiar “naqueles sujeitos estra- nhos”, se eles não estiverem acompanhados de pessoas co- n...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-joia-do-interprete-12",
+      "name": "Jóia do Intérprete",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "Jóia do Intérprete Apenas jóias podem ter este poder. Aquele que possuir este Artefato poderá se comunicar com qualquer criatura, mesmo seres irracionais ou que não conheçam sua língua. Ele poderá falar normalmente com a criatura, e será capaz de entender o que ela “diz”. É possível travar um diálogo normal mesmo com criaturas irracionais, mas elas não são o...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-luci-13",
+      "name": "Luci",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Luci Guerreira Mágica de 1º Nível. FR 15, CON 12, DEX 14, AGI 16, INT 12, WILL 14, PER 13, CAR 15. PVS 15 + 3. Att [1] Espadas 40/30 Briga (kendo) 40/50 Dano: 1d3+1 por soco, IP 0 Tema: Fogo Poderes: Flecha de fogo (3d6 de dano) Principais Perícias: Veterinária 20%, Empatia com animais 30%, biologia 30%. NPCs (estes exemplos são do dia em que as guerreiras m...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-zagart-14",
+      "name": "Zagart",
+      "category": "combat",
+      "pages": [
+        14
+      ],
+      "summary": "Zagart Cavaleiro de 30º Nível. FR 30, CON 25, DEX 17, AGI 14, INT 20, WILL 15, PER 11, CAR 8 PVS 58 + 120 Att [3] Espadas (x3) 120/100 Dano 3d6+8 IP 10 (armadura mágica) Poderes: Desconhecidos Perícias: Varias de intimidação e manipulação. Princesa Esmeralda Pilar de 13º Nível FR 8, CON 8, DEX 10, AGI 12, INT 27, WILL 24, PER 14, CAR 20 PVS 21 + 13 Att [1] 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "ray-atributos-15",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
+      "entityRefs": []
+    }
+  ]
+}

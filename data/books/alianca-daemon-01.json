@@ -1,0 +1,73 @@
+{
+  "source": "alianca-daemon-01",
+  "title": "Alianca Daemon 01",
+  "status": "full-read-pass-1",
+  "pages": 32,
+  "primaryCategories": ["core_rule", "source", "race_lineage", "power_magic", "character_option"],
+  "parts": [
+    {
+      "id": "alianca-front-matter",
+      "name": "Capa e paginas iniciais",
+      "category": "source",
+      "pages": [[1, 2]],
+      "summary": "Paginas iniciais sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "alianca-desvendando-daemon",
+      "name": "Desvendando o Sistema Daemon",
+      "category": "core_rule",
+      "pages": [[3, 4]],
+      "summary": "Artigo introdutorio sobre o Sistema Daemon, sua historia, preconceitos, adaptabilidade e progressao matematica de atributos/pericias em dados.",
+      "entityRefs": ["desvendando-o-sistema-daemon", "progressao-de-atributos-daemon"]
+    },
+    {
+      "id": "alianca-vampiros-mitologicos-resenha",
+      "name": "Vampiros Mitologicos",
+      "category": "source",
+      "pages": [[5, 17]],
+      "summary": "Resenha/apresentacao do suplemento Vampiros Mitologicos, descrevendo proposta, capitulos, conceitos basicos, criacao de personagens, racas, atributos, aprimoramentos, pericias, equipamentos, poderes vampiricos, fraquezas, Sanguinus, timeline, vampiros notaveis, regras e campanha.",
+      "entityRefs": ["vampiros-mitologicos", "strigoi", "brujas", "sabios", "lamiai", "ekimmus", "vrikolakas", "eretiks", "arcadios", "kamazots", "kiang-shi", "rakshasas"]
+    },
+    {
+      "id": "alianca-ghuls",
+      "name": "Ghuls",
+      "category": "race_lineage",
+      "pages": [[18, 28]],
+      "summary": "Adaptacao/descricao dos Ghuls como raca vampirica: origem arabe, historia, relacoes com outras racas, fraquezas e poderes exclusivos.",
+      "entityRefs": ["ghuls", "controle-mental-ghul", "transformacao-em-areia", "transformacao-em-animais-ghul", "transformacao-em-humanos-ghul", "sentir-criaturas-ghul", "olhar-da-morte", "ras-al-ghul"]
+    },
+    {
+      "id": "alianca-prana",
+      "name": "Prana",
+      "category": "character_option",
+      "pages": [29],
+      "summary": "Aprimoramento Prana, baseado em pranayamas e corpo vital, com efeitos ligados a eteres quimico, vida, luminoso e refletor.",
+      "entityRefs": ["prana"]
+    },
+    {
+      "id": "alianca-atributos-aleatorios",
+      "name": "Geracao aleatoria de atributos",
+      "category": "core_rule",
+      "pages": [30],
+      "summary": "Regra alternativa para gerar atributos no Sistema Daemon rolando 1d10+8 para cada atributo e permitindo uma troca final.",
+      "entityRefs": ["geracao-aleatoria-de-atributos"]
+    },
+    {
+      "id": "alianca-blank-page",
+      "name": "Pagina em branco",
+      "category": "source",
+      "pages": [31],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "alianca-call-for-submissions",
+      "name": "Chamada para contribuicoes",
+      "category": "source",
+      "pages": [32],
+      "summary": "Chamada para envio de artigos e adaptacoes para futuras edicoes da Alianca.",
+      "entityRefs": []
+    }
+  ]
+}

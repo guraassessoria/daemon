@@ -1,0 +1,93 @@
+{
+  "source": "cura",
+  "title": "cura",
+  "status": "full-read-auto-pass-1",
+  "pages": 12,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "cura-por-ivan-skady-soares-1",
+      "name": "Por Ivan “Skady” Soares",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Por Ivan “Skady” Soares",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-introducao-2",
+      "name": "Introdução",
+      "category": "power_magic",
+      "pages": [
+        2
+      ],
+      "summary": "Introdução Serão apresentadas aqui, diversas formas convencionais e mágicas para cura. Boa parte do material convencional está no net-book “Viagem de Chihiro”. Este net-book é o segundo da série “SUGAR”, com temas alternativos. O primeiro da série foi “Rock ‘n’ Roll”, também de minha autoria. Os próximos (se é que ainda não foram lançados) serão provavelment...",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-1-banhos-3",
+      "name": "1 - Banhos",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "1 - Banhos Banho simples: Água quente, alguns (poucos) óleos, quem sabe, com sorte, algumas ervas refrescantes. Mesmo com pouco luxo, cada 15 minutos de banho, vão recuperar 1d3-1 pv’s. O banho nunca poderá recuperar mais de 6d3-6 pv’s. Banho de ervas calmantes: Água ligeiramente gelada, refrescante e confortável, esse banho, além de limpar o corpo como perf...",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-cura-de-skady-7",
+      "name": "Cura de Skady",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "Cura de Skady Custo: 15. Só pode ser usado uma vez em toda uma vida. Aquele que conjura esse poder perde 1d6 pontos de vida permanentes, em troca de curar qualquer male ou doença mágica ou não que envolve o receptor do poder (quem sabe esse seja o próprio clérigo). Força de Deus Custo: 1. Deve ser usado antes ou durante de um combate. A partir do momento em...",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-uivo-de-dor-8",
+      "name": "Uivo de dor",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Uivo de dor Custo: 3 O usuário não sentira dor durante duas horas. Receitas Nada como boa comida para espantar a fadiga e a dor. Segue a receita e modo de preparo, e então os efeitos ao ser digerida. Ingredientes: Salada de cogumelos Molho 3 colheres de sopa de azeite 2 colheres de sopa de vinho branco ou vinagre fino 1 colher de chá de açúcar 1 colher de ch...",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-5-claras-10",
+      "name": "5 claras",
+      "category": "power_magic",
+      "pages": [
+        10
+      ],
+      "summary": "5 claras 5 colheres (sopa) de adoçante em pó para culinária 2 colheres (sopa) de margarina light Modo de Preparo: Ligue o forno à temperatura baixa. Bata as claras na batedeira por 4 minutos, ou até obter picos firmes. Sem parar de bater, junte, aos poucos, o adoçante e continue a bater até obter um merengue brilhante e firme. Com a margarina, unte 4 fôrmas...",
+      "entityRefs": []
+    },
+    {
+      "id": "cura-brocolis-a-moda-toschir-11",
+      "name": "Brócolis a moda Toschir",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Brócolis a moda Toschir Ingredientes: 3 colheres (sopa) de óleo de gergelim 2 dentes de alho amassados 1 colher (sopa) de gengibre ralado 1 cebola média cortada em cubos 1/2 brócolis limpo (só com as flores) 1 pimentão vermelho médio cortado em cubos 1 pimentão amarelo médio cortado em cubos 150 g de cogumelos em conserva partidos ao meio 5 colheres (sopa) d...",
+      "entityRefs": []
+    }
+  ]
+}

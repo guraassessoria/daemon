@@ -1,0 +1,127 @@
+{
+  "source": "magia-negra",
+  "title": "Magia Negra",
+  "status": "full-read-auto-pass-1",
+  "pages": 12,
+  "primaryCategories": [
+    "power_magic",
+    "ritual_spell",
+    "creature_npc",
+    "setting_lore"
+  ],
+  "parts": [
+    {
+      "id": "magia-negra-magia-negra-1",
+      "name": "Magia Negra",
+      "category": "kit_class",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Magia Negra Magos, Bruxos e Feiticeiros Adaptação das mais negras escolas de Magia de Trevas para Anime RPG. Por Ricky D! Saudações, jovem Aprendiz; estamos de volta com mais uma adaptação do fascinante e misterioso mundo de Trevas para Anime RPG, desta vez trazendo a Ordem de Luvithy, a Irmandade de Tenebras, a Thule (Sagrada Ordem dos Magos) e os Magos das...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-definicoes-3",
+      "name": "Definições",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "Definições Bruxaria A palavra Bruxaria, segundo o uso corrente da língua portuguesa, designa as faculdades sobrenaturais de uma pessoa, que geralmente se utiliza de ritos mágicos, com intenção maligna - a magia negra - ou com intenção benigna - a magia branca. É também utilizada como sinônimo de curandeirismo e prática oracular, bem como de feitiçaria. Magia...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-bruxo-4",
+      "name": "Bruxo",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "Bruxo O Bruxo é um tipo de mago que recebe ou amplia seus poderes mágicos através dos serviços prestados à uma entidade superior: pode ser um demônio ou espírito (o mais comum), um Anjo, Uma Fada, um Vampiro, Um Lich ou outro tipo de criatura com enorme poder mágico. O Bruxo atua como seu servo e agente, recebendo novos poderes em troca da realização de miss...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-irmandade-de-tenebras-5",
+      "name": "Irmandade de Tenebras",
+      "category": "creature_npc",
+      "pages": [
+        5
+      ],
+      "summary": "Irmandade de Tenebras A Irmandade de Tenebras é a mais antiga escola de magia existente e controlada por entidades tão poderosas que até mesmo os demônios têm medo de invocar. Os círculos demoníacos de Tenebras são em número de 53, cada um coordenado por uma das entidades remanescentes de Tenebras, incrustados em uma montanha astral entre o Inferno e o Mundo...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-graus-6",
+      "name": "Graus",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Graus A irmandade é constituída de sete Círculos de Mistérios. Os dois primeiros são divididos em três graus cada: Aprendiz do primeiro Círculo, Iniciado do Primeiro Círculo e Mestre do Primeiro Círculo (igualmente para o Segundo Círculo). O rito de passagem só é realizado quando o acólito realiza algumas missões com êxito para os Mestres Invisíveis da Ordem...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-ordem-de-luvithy-7",
+      "name": "Ordem de Luvithy",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "Ordem de Luvithy Esta antiqüíssima ordem de feiticeiras originou-se na Grécia Antiga, das videntes e bruxas comedoras de carne humana. Com o tempo espalharam-se pela Europa e pela Rússia espalhando pragas e destruindo vilas, em busca de aprendizes dispostas a trilhar o caminho da verdadeira feitiçaria. Foram muito perseguidas durante a Idade das Trevas, quan...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-graus-8",
+      "name": "Graus",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "Graus As covens são organizadas sempre que uma coven é desfeita ou perde alguma de suas integrantes. Nesse caso, as remanescentes são chamadas Tutoras e procuram outras três jovens para compor suas novas covens. Essas jovens são escolhidas através de Rituais mágicos capazes de localizar pessoas com auras e interesses semelhantes aos das velhas feiticeiras. E...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-thule-9",
+      "name": "Thule",
+      "category": "kit_class",
+      "pages": [
+        9
+      ],
+      "summary": "Thule Durante muitos séculos as sociedades secretas alemãs (principalmente os iluminados) foram lentamente infiltradas pelos Thules (como são chamados pelos outros magos e ordens), inclusive alguns postos mais altos dentro dos Iluminados da Baviera. A organização permaneceu escondida durante muitas décadas, aguardando uma oportunidade de ouro, que surgiu ape...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-graus-10",
+      "name": "Graus",
+      "category": "power_magic",
+      "pages": [
+        10
+      ],
+      "summary": "Graus Muitos dos membros da Thule permanecem infiltrados em outras escolas de magia, atuando como agentes duplos, adotando os graus respectivos da escola onde estiverem infiltrados. Entre as cabalas da Thule, os magos adotam a seguinte hierarquia: Primeiro Círculo: Aprendiz, Iniciado, Companheiro, Mestre. Segundo Círculo: Cavaleiro do Sul, Cavaleiro do Oeste...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-magos-das-sombras-11",
+      "name": "Magos das Sombras",
+      "category": "creature_npc",
+      "pages": [
+        11
+      ],
+      "summary": "Magos das Sombras Os Magos das Sombras vêm da ordem de Tsorubél, irmão de Ksárul, Mestre da Sala Azulada, que traiu a Irmandade de Tenebras e fugiu para a Terra. Tsorubél traiu a Irmandade de Tenebras por influência de Satan, um dos três governantes do Inferno. Os três soberanos do Inferno não desejam de maneira nenhuma que os demônios do Reino Morto sejam d...",
+      "entityRefs": []
+    },
+    {
+      "id": "magia-negra-graus-12",
+      "name": "Graus",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "Graus Os Magos das Sombras seguem a mesma organização da Irmandade de Tenebras, mas sem os sacrifícios e ataques terroristas. Esta ordem possui grande número de criaturas sobrenaturais, principalmente Incubi, Succubi e Espectros em seus graus mais altos. Magos das Sombras Custo: 3 Pontos de Aprimoramento, 270 Pontos de Perícia Perícias: Armas brancas (Punhal...",
+      "entityRefs": []
+    }
+  ]
+}

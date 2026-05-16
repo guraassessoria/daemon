@@ -1,0 +1,66 @@
+{
+  "source": "corondor",
+  "title": "Corondor",
+  "status": "full-read-auto-pass-1",
+  "pages": 77,
+  "primaryCategories": [
+    "creature_npc",
+    "race_lineage",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "corondor-cronologia-1",
+      "name": "Cronologia",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          28
+        ]
+      ],
+      "summary": "Cronologia Assim como no mundo real, na história do Multiverso também existe um registro dos fatos ocorridos ao longo do tempo para determinar as datas e a ordem dos acontecimentos históricos, com o intuito de agrupá-los numa sequência lógica. A referência cronológica em Dominária é a Contagem Argiviana (do termo original Argivian Reckoning, ou simplesmente...",
+      "entityRefs": []
+    },
+    {
+      "id": "corondor-preparar-pocao-25-29",
+      "name": "Preparar Poção [25]",
+      "category": "combat",
+      "pages": [
+        [
+          29,
+          41
+        ]
+      ],
+      "summary": "Preparar Poção [25] O processo é idêntico ao de Criar Armas Mágicas, porém a perícia necessária é a perícia Herbalismo ou Alquimia ao invés de Armeiro. Criar Objeto Mágico [25] O processo é idêntico ao de Criar Armas Mágicas, porém a perícia necessária varia de acordo com o objeto a ser construído. Aumentar Magia [25] Com esta especialidade o arcano pode dob...",
+      "entityRefs": []
+    },
+    {
+      "id": "corondor-mecanoidessegundaparte-42",
+      "name": "MecanóidesSegundaParte",
+      "category": "item_equipment",
+      "pages": [
+        [
+          42,
+          46
+        ]
+      ],
+      "summary": "Podendo chegar a até cinco metros de altura. Pesados e de aspecto assustador, movem-se de maneira lenta com pisadas largas e rangidos metálicos que podem ser ouvidos a quilômetros. Seus pistões internos lançam o vapor com poder inigualável para os membros inferiores que realizam os movimentos destes verdadeiros monstros de ferro. O Império Anão são os maiore...",
+      "entityRefs": []
+    },
+    {
+      "id": "corondor-pontos-de-vida-iniciais-12-47",
+      "name": "Pontos de Vida Iniciais: 12",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          47,
+          77
+        ]
+      ],
+      "summary": "Pontos de Vida Iniciais: 12 Índice de Proteção: nenhum Perícias Sugeridas: qualquer Classe de Combate Os classe de combate parecem-se com um amálgama de um trator e um humano. Esses Mecanóides são obviamente inumanos, mais semelhantes com um trator do que com um homem: todo seu corpo é revestido com placas de metal super especial [IP 17], e armas implantadas...",
+      "entityRefs": []
+    }
+  ]
+}

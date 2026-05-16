@@ -1,0 +1,37 @@
+{
+  "source": "arquimago2",
+  "title": "arquimago2",
+  "status": "full-read-auto-pass-1",
+  "pages": 3,
+  "primaryCategories": [
+    "core_rule",
+    "power_magic",
+    "kit_class",
+    "adventure"
+  ],
+  "parts": [
+    {
+      "id": "arquimago2-por-lobo-de-diamante-1",
+      "name": "Por Lobo de Diamante",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b Por Lobo de Diamante",
+      "entityRefs": []
+    },
+    {
+      "id": "arquimago2-atencao-2",
+      "name": "Atenção!",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois o mesmo foi feito para livre download. Tudo relatado aqui é ficcional, trate tudo aqui como objeto de entretenimento. Importante! Este net-book usa as regras do Sistema Daemon, que podem facilmente ser obtidas no módulo básico que se encontra disponível para download no site Daemon. Como em...",
+      "entityRefs": []
+    }
+  ]
+}

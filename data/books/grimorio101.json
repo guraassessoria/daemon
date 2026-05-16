@@ -1,0 +1,63 @@
+{
+  "source": "grimorio101",
+  "title": "Grimorio101",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 31,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "grimorio101-grimorio-1-1",
+      "name": "Grimório (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 Grimório de Arton Versão 1.01 2 Saudações Este é um grande projeto iniciado pela Daemon Editora, com o objetivo de reunir todas as Magias e Rituais conhecidos, criados ou pesquisados pelos Mestres e Jogadores de TOR- MENTA, como um grande Grimório Virtual. A origem do Grimório Virtual ocorreu devido a um erro deste que vos escreve. Quando estávamos prepara...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio101-grimorio-1-2",
+      "name": "Grimório (11-20)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "1 1 Todos os mortos-vivos são imunes a magias que tenham Telepatia como exigência, bem como quaisquer outros pode- res que envolvem controle da mente, emoções ou sono. Mortos-vivos criados com esta magia podem ser Es- conjurados normalmente, ou então Controlados por outra pessoa (para retomar o controle, seu criador também terá que usar Controle de Mortos-Vi...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio101-grimorio-1-3",
+      "name": "Grimório (21-30)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "2 1 O tamanho ampliado pode ser mantido durante até uma hora. Esgotado esse prazo, o mago deve renovar o efeito (o que exige um toque) e gastar novamente a quanti- dade necessária de pontos. Uma vez que ele não pôde recu- perar os pontos gastos anteriormente, é impossível manter o Megalon por períodos muito longos. Diz a lenda que esta magia recebeu o nome d...",
+      "entityRefs": []
+    },
+    {
+      "id": "grimorio101-grimorio-1-4",
+      "name": "Grimório (31-31)",
+      "category": "character_option",
+      "pages": [
+        31
+      ],
+      "summary": "3 1 Vazio 3D&T: Luz 6, Trevas 6, Telepatia Daemon: Criar/Entender Humanos 6 Custo: padrão Duração: permanente Alcance: apenas ao toque Os bardos de Arton contam histórias tristes sobre he- róis poderosos que vagam pelo mundo como pessoas vul- gares, trabalhando em lavouras ou mercados, esquecidos de quem realmente foram  vítimas desta poderosa magia. Lançad...",
+      "entityRefs": []
+    }
+  ]
+}

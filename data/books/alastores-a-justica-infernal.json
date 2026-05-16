@@ -1,0 +1,113 @@
+{
+  "source": "alastores-a-justica-infernal",
+  "title": "Alastores - A Justica Infernal",
+  "status": "full-read-pass-1",
+  "pages": 43,
+  "primaryCategories": ["setting_lore", "creature_npc", "power_magic", "character_option", "kit_class", "item_equipment", "ritual_spell"],
+  "parts": [
+    {
+      "id": "alastores-front-matter",
+      "name": "Capa, aviso, creditos e indice",
+      "category": "source",
+      "pages": [[1, 4]],
+      "summary": "Capa, aviso de ficcao, creditos, agradecimentos e indice do suplemento.",
+      "entityRefs": []
+    },
+    {
+      "id": "alastores-introducao",
+      "name": "Introducao",
+      "category": "setting_lore",
+      "pages": [5],
+      "summary": "Explica o conceito dos Alastores como casa infernal de cacadores de fugitivos do Orco e sua relacao com Auxiliares e Templo de Set.",
+      "entityRefs": ["alastores", "auxiliares", "templo-de-set"]
+    },
+    {
+      "id": "alastores-origem",
+      "name": "Origem",
+      "category": "setting_lore",
+      "pages": [[6, 7]],
+      "summary": "Origem da Ordem Cacadora dos Alastores, Alastor original, divisao do Inferno em circulos e credo Alastor.",
+      "entityRefs": ["ordem-cacadora-dos-alastores", "credo-alastor"]
+    },
+    {
+      "id": "alastores-indice-carmesim",
+      "name": "O Indice Carmesim",
+      "category": "setting_lore",
+      "pages": [8],
+      "summary": "Lista dos mais procurados do Inferno, livro de leis e condenacoes mantido pelos Alastores.",
+      "entityRefs": ["indice-carmesim"]
+    },
+    {
+      "id": "alastores-cacada",
+      "name": "A Cacada",
+      "category": "adventure",
+      "pages": [[9, 12]],
+      "summary": "Procedimentos de Cacada, Vigiluns, Agmens, Coenobium, Cacada Perigosa e Veniam Peto.",
+      "entityRefs": ["cacada-alastor", "vigiluns", "agmens", "coenobium", "veniam-peto"]
+    },
+    {
+      "id": "alastores-jurisprudencia-infernal",
+      "name": "Jurisprudencia Infernal",
+      "category": "setting_lore",
+      "pages": [[13, 17]],
+      "summary": "Leis infernais, relacao com Juizes e Triunvirato, Templarios Caidos e leis dos Traidores/Cainismo.",
+      "entityRefs": ["jurisprudencia-infernal", "templarios-caidos", "cainismo-infernal"]
+    },
+    {
+      "id": "alastores-poderes-demoniacos",
+      "name": "Poderes Demoniacos",
+      "category": "power_magic",
+      "pages": [[18, 22]],
+      "summary": "Poderes demoniacos ligados aos Alastores e Templarios Caidos, incluindo marcas, formas, ataques, presenca e capacidades sobrenaturais.",
+      "entityRefs": ["poderes-demoniacos-alastores", "veredictum", "forma-alastor", "arrebate"]
+    },
+    {
+      "id": "alastores-aprimoramentos",
+      "name": "Aprimoramentos",
+      "category": "character_option",
+      "pages": [[23, 27]],
+      "summary": "Aprimoramentos relacionados aos Alastores, aliados, fetiches, Olho Alastor e recursos sobrenaturais.",
+      "entityRefs": ["olho-alastor", "aprimoramentos-alastores"]
+    },
+    {
+      "id": "alastores-kits",
+      "name": "Kits",
+      "category": "kit_class",
+      "pages": [[28, 31]],
+      "summary": "Kits e perfis como Auxiliares, Alastor Majora e Legionarios, com pericias, aprimoramentos e organizacao.",
+      "entityRefs": ["auxiliar-alastor", "alastor-majora", "legionario-alastor"]
+    },
+    {
+      "id": "alastores-objetos-magicos",
+      "name": "Objetos Magicos",
+      "category": "item_equipment",
+      "pages": [[32, 35]],
+      "summary": "Objetos, drogas e artefatos como Soro da Verdade, Caixa e Besouro, Areia de Agaures e Tebori.",
+      "entityRefs": ["soro-da-verdade", "caixa-e-besouro", "areia-de-agaures", "tebori"]
+    },
+    {
+      "id": "alastores-rituais",
+      "name": "Rituais",
+      "category": "ritual_spell",
+      "pages": [[36, 37]],
+      "summary": "Rituais como Convocar Lukhavim, Sellas locum e Ipsa Nomina.",
+      "entityRefs": ["convocar-lukhavim", "sellas-locum", "ipsa-nomina"]
+    },
+    {
+      "id": "alastores-guerreiros-notaveis",
+      "name": "Guerreiros Notaveis",
+      "category": "creature_npc",
+      "pages": [[38, 40]],
+      "summary": "Guerreiros e figuras notaveis dos Alastores, incluindo Gathering e Seddim.",
+      "entityRefs": ["gathering", "seddim"]
+    },
+    {
+      "id": "alastores-vitimas-inimigos",
+      "name": "Vitimas, inimigos e estatisticas",
+      "category": "creature_npc",
+      "pages": [[41, 43]],
+      "summary": "Fichas e estatisticas de criaturas/inimigos, incluindo Demonio Menor e Death Knight.",
+      "entityRefs": ["demonio-menor", "death-knight"]
+    }
+  ]
+}

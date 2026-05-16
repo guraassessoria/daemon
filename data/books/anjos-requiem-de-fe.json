@@ -1,0 +1,105 @@
+{
+  "source": "anjos-requiem-de-fe",
+  "title": "Anjos - Réquiem de Fé",
+  "status": "full-read-auto-pass-1",
+  "pages": 125,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "kit_class",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "anjos-requiem-de-fe-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "summary": "1 2 Caro aluno, Não pretendia me dar ao trabalho de escrever essa carta, mas sua pergunta ini- cial chamou minha atenção. A questão é se você tem chances de ir para o Céu porque aprendeu magia? Ah, bem provável que não, não com o que eu o ensinei. O mais pro- vável é sua ida para o Inferno. Mas não se preocupe. Os dois lugares são ruins o su- ficiente para q...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-sumario-6",
+      "name": "Sumário",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "6 Sumário Introdução .......................................................... 5 Versões ............................................................... 5 Capítulo Um: Luz e sombras ................................... 8 Arkanun e outras sombras ........................... 11 O Pacto com os Homens ............................... 11 Terra Prometida..............",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-capitulo-um-luz-e-8",
+      "name": "Capítulo Um: Luz e",
+      "category": "creature_npc",
+      "pages": [
+        [
+          8,
+          30
+        ]
+      ],
+      "summary": "8 Capítulo Um: Luz e sombras 9 Dizem que no princípio, Demiurgo criou o Céu e a Terra. Havia trevas sobre a face do abismo e Ele, em todo seu poder, ordenou que houvesse luz. A luz se fez, havendo separação entre noite e dia. Du- rante os próximos sete dias, Ele trabalhou nessa criação. Assim contam os mortais, assim contam os anjos, aqueles anjos novos dema...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-capitulo-dois-o-31",
+      "name": "Capítulo Dois: O",
+      "category": "creature_npc",
+      "pages": [
+        [
+          31,
+          56
+        ]
+      ],
+      "summary": "31 Capítulo Dois: O Anjo 32 Os anjos são alma transformada em carne. Os primeiros deles eram nada mais do que fios de luz e espíritos partidos que foram transformados pelo toque de Demi- urgo, criados a partir do nada para serem carne e osso em Paradísia. O ritual para gerar essas criaturas de imenso poder se perdeu agora. Demiurgo não mais cria an- jos, não...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-capitulo-tres-coros-57",
+      "name": "Capítulo Três: Coros",
+      "category": "power_magic",
+      "pages": [
+        [
+          57,
+          65
+        ]
+      ],
+      "summary": "57 Capítulo Três: Coros 58 A Cidade de Prata é profundamente dividida. Os anjos assumem posições es- pecíficas em suas vidas desde a criação. Cada um existe em sua Casta, com uma missão. Cabe a eles, entretanto, decidirem outras partes de seu caminho em especiali- zações denominadas Coros. Esses são gru- pos místicos que se desenvolvem para atender a necessi...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-capitulo-quatro-66",
+      "name": "Capítulo Quatro",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          66,
+          87
+        ]
+      ],
+      "summary": "66 Capítulo Quatro: Poderes 67 Abençoar Os mortais falam em seus cultos e missas sobre as graças fornecidas por De- miurgo e seus anjos. Apesar de os bons motivos comentados pelos humanos rara- mente serem verdadeiros, os celestiais são sim capazes de abençoar seus seguidores para lhes dar a paz e força necessárias para cumprirem os mandamentos da Cidade de...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-requiem-de-fe-capitulo-cinco-ma-88",
+      "name": "Capítulo Cinco: Ma-",
+      "category": "power_magic",
+      "pages": [
+        [
+          88,
+          125
+        ]
+      ],
+      "summary": "88 Capítulo Cinco: Ma- gia 89 A magia é um dos cernes do mundo de Trevas. É uma das razões de a Roda dos Mundos ser tão destrutiva. Cada vez que os habitantes de um mundo aprendem a usar as energias místicas para modificar a realidade, aumentam a velocidade de des- truição do mundo anterior e iniciam a de- cadência em seu próprio. Todo poder mágico existe co...",
+      "entityRefs": []
+    }
+  ]
+}

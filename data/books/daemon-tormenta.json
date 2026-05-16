@@ -1,0 +1,258 @@
+{
+  "source": "daemon-tormenta",
+  "title": "Daemon Tormenta",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 181,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "combat",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-1",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (1-10)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 1 TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Comecei a jogar RPG quando ainda tinha 13 anos, minha primeira crônica foi de Vampiro: A Máscara, uma garota mestrava. Meu personagem era um Gangrel que terminou sendo dominado e servindo como guarda- costas de u...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-2",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (11-20)",
+      "category": "adventure",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Passo 2: Passado Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Números não são importantes, o importante é criar um Personagem coerente. Escolha um nome, idad...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-3",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (21-30)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Força (FOR) Determina a força física do Personagem, sua capacidade muscular. A Força não tem tanta influência sobre a aparência quanto a Constituição — um monge magrinho pode ser forte o bastante para quebrar pilhas de tijolos, mas um bárbaro musculoso dificilmente poderia igualar a pro...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-4",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (31-40)",
+      "category": "core_rule",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Centauros Custo: 0 pontos Idade Inicial: 20 + 1d6 Atributos: +4 CON, -2 AGI, -2 CAR Vantagens: como uma raça de corpo equino os centauros possuem cascos que podem usar para o ataque, eles podem fazer um ataque com cada casco que causa 1d6+bônus de FOR pontos de dano, porém eles precisar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-5",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (41-50)",
+      "category": "combat",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES História: Há rumores de que a grande floresta a sudeste de Lamnor esconde uma cidade de Amazonas — mulheres guerreiras de uma sociedade matriarcal, onde elas governam e os homens são preservados com fins de reprodução. Talvez esse lugar realmente exista, ou talvez tenha sido arrasado pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-6",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (51-60)",
+      "category": "combat",
+      "pages": [
+        [
+          51,
+          60
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES História: O cidadão comum pode estranhar o fato de que valorosos guerreiros, clérigos, paladinos ou magos às vezes sejam vistos na companhia de “ladrões”. Afinal, por que um grupo de heróis aceitaria a presença de um criminoso entre eles? Isso acontece porque, entre aventureiros, um Lad...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-7",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (61-70)",
+      "category": "core_rule",
+      "pages": [
+        [
+          61,
+          70
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES História: Como a maior instituição do Reinado dedicada ao estudo e ensino da magia, a Grande Academia Arcana de Valkaria abriga em seus prédios a maior concentração de Magos e estudantes de magia de Arton. Tipicamente, os Membros da Academia trabalham como professores,mas comandar salas...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-8",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (71-80)",
+      "category": "combat",
+      "pages": [
+        [
+          71,
+          80
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES História: Graças a visão que os próprios elfos passaram a ter de sua Deusa, são raros os clérigos de Glórien, esse pequeno grupo busca ressuscitar o culto a sua Deusa e vingar a chacina ocorrida, eles se autodenominaram Espada de Glórien. Aqueles que restam porém, são devotos fervorosos...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-9",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (81-90)",
+      "category": "combat",
+      "pages": [
+        [
+          81,
+          90
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES História: Esta Deusa enigmática possui propósitos estranhos e um tanto contraditórios, sendo difícil perceber se seus sacerdotes são malignos ou bondosos. Os Clérigos da Divina Serpente veneram a força e a coragem, a determinação e a proteção dos mais fracos acima de tudo, mas também pr...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-10",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (91-100)",
+      "category": "combat",
+      "pages": [
+        [
+          91,
+          100
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Arcano 2 pontos: O personagem possui uma aptidão para magia, além de possuir uma afinidade natural com as energias místicas necessárias para realizá-la, podendo se tornar um grande mago facilmente. Você recebe automaticamente focus 1 em todos as formas de magia - e mais tarde pode eleva...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-11",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (101-110)",
+      "category": "core_rule",
+      "pages": [
+        [
+          101,
+          110
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES de dano até que ele deixe de tocar o ferro frio. Fetiche Material -1 ponto: a personagem precisa de um tipo de chave para poder usar sua magia. Essa chave é um objeto que ele carrega sempre com ele, uma espécie de receptáculo do seu poder mágico (como um cajado, amuleto, bola de cristal...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-12",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (111-120)",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          111,
+          120
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES consomem pouco tempo, como tarefas básicas de agricultura ou coisas como reconhecer o brasão de uma família são testes Fáceis; tarefas que exigem um tempo médio ou rápido como prever o clima ou lembrar-se de uma teoria científica são testes Normais, já fazer tarefas complicadas como sab...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-13",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (121-130)",
+      "category": "combat",
+      "pages": [
+        [
+          121,
+          130
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES bônus de +10% em ataque. Para usar a finta o personagem deve ter errado seu ataque assim ele abdica de sua defesa e realiza no lugar dela esse novo ataque com os devidos bônus. . Foco em Arma [25] Escolha uma arma, você recebe um bônus de +5/+5 ou +5/0 com esta arma cada vez que passar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-14",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (131-140)",
+      "category": "power_magic",
+      "pages": [
+        [
+          131,
+          140
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES magia possua. O alvo da magia faz o teste de resistência referente, se a magia exigir algum teste por parte do alvo. Personagem: o mago dispara a magia, ela segue seu rumo até o alvo/área desejada e então seu efeito se manifesta. Interpretando uma magia Um fator muito importante da magi...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-15",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (141-150)",
+      "category": "combat",
+      "pages": [
+        [
+          141,
+          150
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES mais pesada projetada para ser usada exclusivamente por 2 mãos para aproveitar o máximo de força do seu usuário, adiciona 1,5 o modificador de FOR ao dano. Espada longa: a espada tradicional medieval, com lâmina entre 70cm e 1m de comprimento. Espada montante: é a maior e mais larga esp...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-16",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (151-160)",
+      "category": "core_rule",
+      "pages": [
+        [
+          151,
+          160
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 151 Nome Peso(kg) 10 2 80 3,5 300 3 30 2 100 4 50 1 1 1 750 5 2000 7,5 50 3 10 2,5 50 3 Indumentária Preço T$ Descrição Traje de artesão Camisa com botões, saia ou calça e sapatos possivelmente um chapéu ou gorro. Traje de clima frio Casaco de lã, camisa, calça, luvas,capa,gorro e meias...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-17",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (161-170)",
+      "category": "combat",
+      "pages": [
+        [
+          161,
+          170
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES O jogador que controla Véndêr decide sacar a sua besta e fazer pontaria para tentar acertar o Orc. O narrador o comunica que devido ao Orc estar próximo à parede a linha de visão para o disparo está prejudicada e o teste será um teste difícil. Preocupado com as chances de errar o dispar...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-18",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (171-180)",
+      "category": "combat",
+      "pages": [
+        [
+          171,
+          180
+        ]
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Ataques à distância com a mão oposta Deve-se proceder da mesma maneira que no caso de um ataque corporal, sem o aprimoramento Ambidestria o personagem perde o bônus de DES, sem a manobra Lutar com 2 Armas, o personagem reduz o valor de ataque à metade, deve-se observar que se uma arma e...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)",
+      "category": "core_rule",
+      "pages": [
+        181
+      ],
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 181",
+      "entityRefs": []
+    }
+  ]
+}

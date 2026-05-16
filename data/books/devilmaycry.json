@@ -1,0 +1,67 @@
+{
+  "source": "devilmaycry",
+  "title": "Devilmaycry",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "item_equipment",
+    "attribute_skill",
+    "combat",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "devilmaycry-daniel-doutrina-man-andrade-1",
+      "name": "Daniel „Doutrina Man‰ Andrade",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Daniel „Doutrina Man‰ Andrade Há dois mil anos, um poderoso demônio decidiu que era seu destino controlar o Inferno e a Terra. Um Demônio chamado Sparda, porém, que tinha uma “queda” pelos humanos não gostou nada dessa idéia, e rebelou-se não apenas destruindo as legiões deste demônio sozinho, mas trancando-o em um cofre no inferno por pelo menos dois mil an...",
+      "entityRefs": []
+    },
+    {
+      "id": "devilmaycry-dante-3",
+      "name": "Dante",
+      "category": "item_equipment",
+      "pages": [
+        3
+      ],
+      "summary": "Dante Demon Slayer (Caçador de Demônios) do 18º Nível; Idade: Real (?), Aparente 25 Atributos: CON 23, FR 28, DEX 22, AGI 25, INT 14, WILL 20, PER 18, CAR 10 – 26 / 38 PVs, 72 Pontos Heróicos Aprimoramentos: Ambidestria, Armas de Fogo (2 Pontos), Caçador de Demônios (2 Pontos), Coragem (2 Pontos), Itens Mágicos (3 Pontos), Pontos Heróicos (4 Pontos) Poderes...",
+      "entityRefs": []
+    },
+    {
+      "id": "devilmaycry-trish-4",
+      "name": "Trish",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "Trish Atributos: CON 19, FR 21, DEX 22, AGI 20, INT 12, WILL 18, PER 15, CAR 11 – 20 / 29 PVs Aprimoramentos: Ambidestria, Amor Verdadeiro (1 Ponto), Armas de Fogo (1 Ponto) Poderes Demoníacos: Aumento de Atributos (“Forma Demoníaca”: FR x2, CON x1, AGI x1), Ataques Extras (Nível 2 – 2 ataques por rodada), Defesas Especiais (Nível 1 – Imunidade a Doenças, Ní...",
+      "entityRefs": []
+    },
+    {
+      "id": "devilmaycry-nelo-angelo-5",
+      "name": "Nelo Angelo",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "Nelo Angelo Death Knight do 14º Nível; Idade: Real (?), Aparente (?) Atributos: CON 27 (39), FR 35 (47), DEX 25 (37), AGI 27 (39), INT 12, WILL 21, PER 18, CAR 6 – 43 PVs, 28 Pontos Heróicos Aprimoramentos: Ambidestria, Coragem (2 Pontos), Itens Mágicos (1 Ponto), Pontos Heróicos (2 Pontos) Poderes Demoníacos: Aumento de Atributos (Forma Demoníaca: FR x2, CO...",
+      "entityRefs": []
+    },
+    {
+      "id": "devilmaycry-itens-magicos-6",
+      "name": "ITENS MÁGICOS",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "ITENS MÁGICOS Espada Alastor – 8 Pontos Dano de 2d6 + bônus, AGI + 10, +4 no dano e +40% para dividir entre ataque e defesa, proteção contra Trevas (Nível 4), Retornável Manoplas Ifrit – 6 Pontos Dano de 1d6 + bônus, FR + 10, +4 no dano e +40% para dividir entre ataque e defesa, proteção contra Fogo (Nível 4) Além destes dois (que são únicos), Dante encontra...",
+      "entityRefs": []
+    }
+  ]
+}

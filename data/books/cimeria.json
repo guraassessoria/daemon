@@ -1,0 +1,27 @@
+{
+  "source": "cimeria",
+  "title": "Ciméria",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "adventure",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "cimeria-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "Ciméria[align=center][/align]Uma difícil região de tundra, montanhas e florestas sob um frio e cinzento céu, são as terras da Ciméria. Cercada por aqueles que querem matar ou conquistar os clãs bárbaros nativos que vivem aqui desde o tempo dos Atlantes. A terra dura geralmente é amolecida com o barro temperado à sangue de invasores Pictos, Vanirs, Gurnakhis...",
+      "entityRefs": []
+    }
+  ]
+}

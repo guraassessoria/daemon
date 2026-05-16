@@ -1,0 +1,157 @@
+{
+  "source": "mortal-kombat",
+  "title": "MORTAL KOMBAT",
+  "status": "full-read-auto-pass-1",
+  "pages": 20,
+  "primaryCategories": [
+    "core_rule",
+    "kit_class",
+    "character_option",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "mortal-kombat-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-mortal-kombat-2",
+      "name": "MORTAL KOMBAT",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "summary": "2 MORTAL KOMBAT “Há milênios, numa batalha com um deus decadente conhecido como Shinnok, fui responsável pela morte de uma civilização inteira. Para livrar todos os reinos da ameaça de Shinnok, entrei numa guerra que deixou a Terra por séculos sob uma terrível escuridão, mesmo após o banimento o deus sombrio. Com a ajuda dos Deuses Antigos, Shinnok amarga se...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-ataques-multiplos-9",
+      "name": "ATAQUES MÚLTIPLOS",
+      "category": "combat",
+      "pages": [
+        9
+      ],
+      "summary": "9 ATAQUES MÚLTIPLOS O personagem é capaz de desferir uma seqüência rápida de golpes, seja com as mãos, seja com os pés. Não se tratam de ataques extras, mas sim de um conjunto de golpes menores, fei- tos com incrível rapidez. Para acertar cada ataque, o persona- gem ainda precisa ser bem sucedido em um Teste de Perícia cor- respondente (Briga, Artes Marciais...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-disparo-de-energia-10",
+      "name": "DISPARO DE ENERGIA",
+      "category": "combat",
+      "pages": [
+        10
+      ],
+      "summary": "1 0 DISPARO DE ENERGIA É a habilidade para direcionar os projéteis energéticos dis- parados por um kombatente. Um sucesso no Teste desta Perí- cia indica que o disparo atingiu o alvo visado. Assim como uma Arma de Fogo, esta perícia exige que o valor de ataque seja pago em dobro, uma vez que também não possui valor de defe- sa (será SEMPRE igual a zero) Assi...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-kombatente-11",
+      "name": "KOMBATENTE",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "1 1 KOMBATENTE Este é o Kit mais comum que os lutadores do Mortal Kombat utilizam. Ele representam a alma guerreira de cada kombatente e seus poderes incríveis, para não dizer sobre- humanos. Todo e qualquer Kombante luta por um objetivo – seja proteger a Terra ou destruí-la, aperfeiçoar suas técni- cas ou suas próprias ambições egoístas – e somente no gran-...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-atordoamento-12",
+      "name": "ATORDOAMENTO",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "1 2 ATORDOAMENTO Em certos momentos de uma luta, um combatente pode pro- vocar uma contusão tão grave no seu adversário que este sofra os efeitos do Atordoamento. A regra de Atordoação é aplicada sempre que um lutador sofrer mais do que 3 pontos de dano, ele precisa fazer um Teste de CON. Caso seja bem sucedido, conti- nuará o combate normalmente. Caso contr...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-liu-kang-13",
+      "name": "LIU KANG",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "1 3 LIU KANG FR 16, CON 17, DEX 20, AGI 20, INT 15, WILL 18, PER 17, CAR 17 Kombatente do 16º Nível PVs 30, Pontos Heróicos: 64, IP 1. Ataques [2]: Artes Marciais 140/140 (dano 1d4+1), Disparo de Energia 100/0 (dano 1d10) Espada Larga 90/90 (dano 1d10+1). Aprimoramentos: Ataques Múltiplos 5, Defesas Múltiplas 4, Disparo de Energia 3, Pontos Heróicos 4, Códig...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-sub-zero-14",
+      "name": "SUB-ZERO",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "1 4 SUB-ZERO FR 17, CON 17, DEX 18, AGI 18, INT 16, WILL 14, PER 16, CAR 12 Kombatente do 15º Nível PVs 33, Pontos Heróicos: 75, IP 1, Pontos de Magia 18. Ataques [1]: Artes Marciais 120/120 (dano 1d4+2), Maça de Gelo 90/90 (dano 1d10+1). Aprimoramentos: Ataques Múltiplos 4, Defesas Múltiplas 4, Poderes Mágicos 2 (Gelo 3), Pontos Heróicos 5, Aliado (Smoke) 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-reptille-15",
+      "name": "REPTILLE",
+      "category": "combat",
+      "pages": [
+        15
+      ],
+      "summary": "1 5 REPTILLE FR 18, CON 18, DEX 18, AGI 18, INT 17, WILL 16, PER 16, CAR 08 Demônio do 17º Nível PVs 35, Pontos Heróicos: 68, IP 1. Ataques [1]: Artes Marciais 120/120 (dano 1d4+1), Disparo de Energia 120/0 (dano 2d6). Aprimoramentos: Ataques Múltiplos 3, Defesas Múltiplas 3, Disparo de Energia 4, Pontos Heróicos 4, Itens Mágicos 1. Perícias Principais: Acro...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-kai-16",
+      "name": "KAI",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "1 6 KAI FR 18, CON 18, DEX 19, AGI 19 INT 15, WILL 17, PER 17, CAR 16 Kombatente do 16º Nível PVs 36, Pontos Heróicos: 64, IP 1. Ataques [1]: Artes Marciais 130/130 (dano 1d4+2), Disparo de Energia 100/0 (dano 2d6) Espada Larga 90/90 (dano 1d10+1). Aprimoramentos: Ataques Múltiplos 4, Defesas Múltiplas 4, Disparo de Energia 4, Pontos Heróicos 4, Código de Ho...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-fujin-17",
+      "name": "FUJIN",
+      "category": "combat",
+      "pages": [
+        17
+      ],
+      "summary": "1 7 FUJIN FR 20, CON 24, DEX 22, AGI 20 INT 20, WILL 22, PER 20, CAR 20 Forma Avatar: Kombatente do 19º Nível PVs 45, Pontos Heróicos: 76, IP 1, Pontos de Magia: 27. Ataques [1]: Artes Marciais 140/140 (dano 1d4+3), Disparo de Energia 140/0 (dano 1d10) Aprimoramentos: Ataques Múltiplos 4, Defesas Múltiplas 3, Disparo de Energia 3, Poderes Mági- cos 3 (Ar 5),...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-noob-saibot-18",
+      "name": "NOOB SAIBOT",
+      "category": "combat",
+      "pages": [
+        18
+      ],
+      "summary": "1 8 NOOB SAIBOT FR 19, CON 19, DEX 18, AGI 19, INT 17, WILL 18, PER 18, CAR 12 Kombatente do 20º Nível PVs 39, Pontos Heróicos: 80, IP 1. Ataques [1]: Artes Marciais 120/120 (dano 1d4+3), Disparo de Energia 120/0 (dano 1d6) Aprimoramentos: Ataques Múltiplos 3, Defesas Múltiplas 4, Disparo de Energia 2, Pontos He- róicos 4, Poderes Mágicos 3 (Trevas 5), Pacto...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-shang-tsung-19",
+      "name": "SHANG TSUNG",
+      "category": "kit_class",
+      "pages": [
+        19
+      ],
+      "summary": "1 9 SHANG TSUNG Um velho feiticeiro, Tsung começou a trabalhar para Kahn no momento em que ele quis invadir a Terra. Após muitos tor- neios, Tsung foi derrotado por Kung Lao e Kahn interveio na estratégia do feiticeiro, impondo Goro como o novo líder dos guerreiro de Outworld. Secretamente Tsung planejava vencer o décimo torneio e ganhar OutWorld só para si...",
+      "entityRefs": []
+    },
+    {
+      "id": "mortal-kombat-stryker-20",
+      "name": "STRYKER",
+      "category": "power_magic",
+      "pages": [
+        20
+      ],
+      "summary": "2 0 STRYKER Quando o portal de OutWorld se abriu sobre uma grande cidade da América do Norte, pânico e caos tomaram conta de todos. Kurtis Stryker era o líder de uma brigada de controle de tumultos quando Shao Kahn começou a angariar almas. Ele se encontra como o único sobrevivente de uma cidade já habitada por milhões: Nova Iorque. Na verdade, muitos fugira...",
+      "entityRefs": []
+    }
+  ]
+}

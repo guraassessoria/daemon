@@ -1,0 +1,295 @@
+{
+  "source": "marvel",
+  "title": "marvel",
+  "status": "full-read-auto-pass-1",
+  "pages": 158,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "marvel-marvel-rpg-1",
+      "name": "MARVEL RPG",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          8
+        ]
+      ],
+      "summary": "1 MARVEL RPG Phersheu Mahatmah 2 Agradecimentos Rodrigo de Alves Ferreira, o “Phersheu Mahatmah, o paladino quase celestial”, agradece ao apoio direto ou indireto de: Marcelo, que me iniciou no mundo do RPG com o guia do sabbat para Vampiro 2º edição, ( Ei !!! Naquela época apenas os malkavianos do Sabbat tinham demência talvez isso explique a minha insanida...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-super-heroismo-9",
+      "name": "SUPER HEROÍSMO",
+      "category": "power_magic",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "summary": "9 SUPER HEROÍSMO Todos temos, em algum lugar de nós, um Super-Herói esperando para ser libertado. Cada um de nós gostaria de imaginar que quando um prédio está em chamas ou quando ladrões roubam um banco ou aliens invadem a Terra, reagiríamos com rapidez, decididamente e diretamente. Achar uma gota de coragem num mar de medo é a essência de um super-herói. C...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-sequencia-de-criacao-do-heroi-13",
+      "name": "SEQÜÊNCIA DE CRIAÇÃO DO HERÓI",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          13,
+          18
+        ]
+      ],
+      "summary": "13 SEQÜÊNCIA DE CRIAÇÃO DO HERÓI Durante essa seqüência, deixe sua mente aberta. Algumas vezes novas idéias vão lhe ocorrer para o seu herói quando começar a construí-lo, eu aconselho que não faça heróis rapidamente, talvez deixe uma seção inteira de jogo apenas dedicada a confecção de seu herói, esta talvez seja a parte mais importante do jogo. Talvez seria...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-aprimoramentos-19",
+      "name": "APRIMORAMENTOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          19,
+          32
+        ]
+      ],
+      "summary": "19 APRIMORAMENTOS Aprimoramentos Positivos Ambidestria 2 pontos: o Personagem pode manusear armas e instrumentos tanto com a mão direita quanto com a esquerda, com igual eficiência. Também pode usar duas armas brancas ao mesmo tempo, se forem pequenas o bastante para o uso com uma única mão. Estão fora dessa categoria arcos, bestas, lanças, a maioria dos mac...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-pontos-heroicos-33",
+      "name": "PONTOS HERÓICOS",
+      "category": "core_rule",
+      "pages": [
+        33
+      ],
+      "summary": "33 PONTOS HERÓICOS Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte”, que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-pericias-34",
+      "name": "PERÍCIAS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "34 PERÍCIAS São campos de especialização que qualquer um pode dominar, dados tempo de prática e aptidão natural. Você pode criar qualquer perícia que quiser, desde que seu Narrador aprove. SUPER PERÍCIAS* SUPER PODERES* (ATRIB ou HABILIDADE + PERÍCIAS %*): Esta não é uma perícia única mais sim um grupo bem variado. Toda vez que herói, quiser melhorar sua cha...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-pericias-comuns-36",
+      "name": "PERÍCIAS COMUNS",
+      "category": "item_equipment",
+      "pages": [
+        [
+          36,
+          52
+        ]
+      ],
+      "summary": "36 PERÍCIAS COMUNS Grupo* Subgrupos Observação: o símbolo * só aparecerá em casos nos quais a Perícia tiver subgrupos. Quando isso ocorrer, você deve escolher apenas UM dos subgrupos correspondentes. Animais* : Alguns subgrupos possíveis: Treinamento de animais (0), Montaria (AGI), Doma (0), Veterinária (0). Armadilhas (PER) Armas Brancas* (DEX): Alguns subg...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-itens-heroicos-53",
+      "name": "ITENS HERÓICOS",
+      "category": "item_equipment",
+      "pages": [
+        [
+          53,
+          55
+        ]
+      ],
+      "summary": "53 ITENS HERÓICOS Existem alguns itens que são fontes de grandes poderes, ou são extremamente famosos, pois o que seria o Homem de Ferro sem sua valiosa armadura, Homem Aranha sem seu atirador de teia ( não ele não joga direto do braço como no filme...) EQUIPAMENTO Como o Besouro poderia dizer, uma boa armadura, com muitos poderes, pode desfazer uma vida int...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-armas-brancas-56",
+      "name": "ARMAS BRANCAS",
+      "category": "combat",
+      "pages": [
+        [
+          56,
+          57
+        ]
+      ],
+      "summary": "56 ARMAS BRANCAS ( 1 7 ) * )< ( 7 \" 2 \" \" 4 O 4/! $ 4 K4 O 4 O # 4 5 O M 4 5K O 4 5K O5 W 4 4 O/ X 4 ( \" 4 4 O5 X ( \" 5 OE B )( 5 OE ) ) 4 5K OG ) ;, 4 4 O5 ) 4 5K4 O5 ) ' 4 4 O/ 4 K4 O ) = 4 5 O # 4 5 O4 !O4 !4 : 4 5K OE!O4 F ! ; : 1 4 5 O4/!O4 !5 : ' = 4 5K OG : ' # ' 4 5 O5 4/! IP Específico - * + O C < \" 7< \" N 1 C 'I 1 1 * . - MO . G H N + + , , . % + C...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-resistencia-dos-materiais-58",
+      "name": "RESISTÊNCIA DOS MATERIAIS",
+      "category": "combat",
+      "pages": [
+        [
+          58,
+          59
+        ]
+      ],
+      "summary": "58 Alguns equipamentos são feitos de materiais raros, e jogadores também pode ter tais materiais... Mas primeiro devemos entender como funciona a resistência de alguns materiais... RESISTÊNCIA DOS MATERIAIS A resistência dos materiais é quanto ele pode aguentar de dano, pois isso poderia ser simbolizado pelo IP, mas o material para ser destruído não basta ap...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-experiencia-60",
+      "name": "EXPERIÊNCIA",
+      "category": "core_rule",
+      "pages": [
+        [
+          60,
+          61
+        ]
+      ],
+      "summary": "60 EXPERIÊNCIA As regras de passagem de nível a princípio continuam as mesmas do sistema Daemon, fora as alterações feitas abaixo... NÍVEL Nível é um conceito humano, criado para Personagens mortais que não dispõem da eternidade para desenvolver seus poderes. O nível máximo que um Personagem humano pode chegar é o 15o nível. Mas como estamos jogando um RPG d...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-tabela-de-avanco-de-nivel-62",
+      "name": "TABELA DE AVANÇO DE NÍVEL",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          62,
+          64
+        ]
+      ],
+      "summary": "62 TABELA DE AVANÇO DE NÍVEL Nível Experiência PV Atributos Pontos de Aprimoramentos Pontos de Perícias 0 - inicial 100 inicial inicial 1 0 +1 101 inicial inicial 2 5 +2 102 +1 +25 3 15 +3 103 +1 +50 4 30 +4 104 +1 +75 5 50 +5 105 +2 +100 6 80 +6 106 +2 +125 7 120 +7 107 +2 +150 8 180 +8 108 +3 +175 9 250 +9 109 +3 +200 10 400 +10 110 +3 +225 11 550 +11 111...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-regras-super-poder-65",
+      "name": "REGRAS : SUPER PODER",
+      "category": "core_rule",
+      "pages": [
+        65
+      ],
+      "summary": "65 REGRAS : SUPER PODER Esta enorme lista possui uma completa descrição dos maiores poderes encontrados no Universo Marvel. No entanto, você nunca deve encará-la como uma limitação de suas escolhas. Se você quiser criar um novo poder, tenha certeza que o Mestre o aprova e então coloque-o no jogo. Super Poder : o Personagem por algum motivo, recebeu poderes e...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-intensidades-66",
+      "name": "INTENSIDADES",
+      "category": "power_magic",
+      "pages": [
+        [
+          66,
+          67
+        ]
+      ],
+      "summary": "66 INTENSIDADES A maioria dos heróis tem algum tipo de super poder ou algum equipamento especializado, independente de onde venha este poder, ele é avaliado de maneira muito parecida com um atributo. Cada poder tem uma intensidade que varia de 1D a 30D (ou até 100D se utiliza a regra de nível épico). Quando você possui o aprimoramento Super Poder, você ganha...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-habilidades-68",
+      "name": "HABILIDADES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          68,
+          69
+        ]
+      ],
+      "summary": "68 HABILIDADES A maioria dos heróis, no início tem certa dificuldade para utilizar e se acostumar com seus poderes, isto decorre que quando um herói ganha um poder ele deve ter tempo e treino para se acostumar com ele, (para melhor entender faça uma analogia com quando você nasceu, você não começou a dois segundos depois a falar e andar isso leva tempo), par...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-tabela-de-super-poderes-70",
+      "name": "TABELA DE SUPER PODERES",
+      "category": "combat",
+      "pages": [
+        70
+      ],
+      "summary": "70 TABELA DE SUPER PODERES Dê uma olhada na tabela abaixo para verificar a intensidade de cada poder de seu herói. Armas e armaduras comuns têm bônus de danos e os poderes que causam danos diretos também aparece na lista. Em ANEXO há uma tabela completa de Intensidade, Habilidade e Poderes...(e também há uma ficha de personagem).",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-proezas-71",
+      "name": "PROEZAS",
+      "category": "core_rule",
+      "pages": [
+        71
+      ],
+      "summary": "71 PROEZAS Além dos poderes padrão, seu herói pode ter uma ou mais proezas associadas para cada poder, elas funcionam como uma perícia, pois são habilidades possíveis que um herói pode ter acesso. Mas lembre-se que estas perícias podem ser compradas na lista de acordo com os poderes, quando você compra um poder gasta pontos em intensidade (pelo menos 1 ponto...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-limites-72",
+      "name": "LIMITES",
+      "category": "core_rule",
+      "pages": [
+        [
+          72,
+          73
+        ]
+      ],
+      "summary": "72 LIMITES Como regra geral, quanto mais fortes são os poderes mais restritos eles são. Limites fornecem um meio de reduzir o efeito padrão de um poder, diminuir sua eficácia ou causar-lhe efeitos colaterais em troca do aumento de intensidade, habilidade ou aquisição de mais proezas. Assumir um limite aprovado pelo seu narrador, permitirá a você adicionar po...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-fonte-dos-poderes-74",
+      "name": "FONTE DOS PODERES",
+      "category": "power_magic",
+      "pages": [
+        74
+      ],
+      "summary": "74 FONTE DOS PODERES O poder de um herói pode ter uma centena de origens diferentes, mas algumas delas ocorrem com uma espantosa regularidade. Um poder não está ligado intimamente a uma origem específica; qualquer poder pode ter qualquer origem, desde que ela seja aprovada pelo narrador. Aprendizagem: alguns poderes são adquiridos pela busca do auto-aperfeiç...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-terminologia-dos-poderes-75",
+      "name": "TERMINOLOGIA DOS PODERES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          75,
+          76
+        ]
+      ],
+      "summary": "75 TERMINOLOGIA DOS PODERES Nome: O poder é identificado pelo nome e listado em ordem alfabética para facilitar sua localização. Tanto para os heróis da Marvel quanto para os heróis criados para jogo, o nome de um poder pode ser único para identificar um poder particular de um herói e suas variações. O poder de Míssil é chamado de “Campo de Explosão” apesar...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-deessc-77",
+      "name": "DEESSC",
+      "category": "combat",
+      "pages": [
+        [
+          77,
+          155
+        ]
+      ],
+      "summary": "77 D DEESSC CRRIIÇ ÇÃÃO O D DO OSS PPO OD DEERREESS Absorção Exemplos: Sebastian Shaw, Fortão, Mancha Solar Poderes Relacionados: Conversão de energia, Refração de energia Seu herói pode absorver um certo tipo de dano (exemplos são: dano por fogo, dano por frio ou dano cinético). A Absorção de diferentes tipos de dano devem ser escolhidos separadamente. Qual...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-poderes-especiais-156",
+      "name": "PODERES ESPECIAIS",
+      "category": "attribute_skill",
+      "pages": [
+        156
+      ],
+      "summary": "156 PODERES ESPECIAIS Estes poderes como o Psiquismo em Invasão, ou a Magia em Trevas, Poderes de Fé, Pontos Heróicos... E ou outros poderes misteriosos, podem ser utilizados juntos ou substituindo por alguma regra de super poder, mas se o mestre não tem acesso estes poderes há regras, para simulá-los usando o super poder Alguns deles são estes: (se o mestre...",
+      "entityRefs": []
+    },
+    {
+      "id": "marvel-psi-157",
+      "name": "PSI",
+      "category": "combat",
+      "pages": [
+        [
+          157,
+          158
+        ]
+      ],
+      "summary": "157 para esse poder. Essa proeza só pode ser feita por um verdadeiro mago (que tenha intensidade maior que 4D). Proeza – Feitiço Remoto (4): Seu herói pode enfeitiçar qualquer um que ele possa achar, independente da distância, normalmente com o Poder de Detecção Psíquica ou Mentalização (ESP). Proeza – Resistência a Magia (5): Seu herói ganha Resistência a M...",
+      "entityRefs": []
+    }
+  ]
+}

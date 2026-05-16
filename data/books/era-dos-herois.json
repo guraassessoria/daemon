@@ -1,0 +1,37 @@
+{
+  "source": "era-dos-herois",
+  "title": "ERA DOS HERÓIS",
+  "status": "full-read-auto-pass-1",
+  "pages": 9,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "attribute_skill",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "era-dos-herois-era-dos-herois-segunda-edicao-1",
+      "name": "ERA DOS HERÓIS – SEGUNDA EDIÇÃO",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "ERA DOS HERÓIS – SEGUNDA EDIÇÃO Jogo de Fantasia Medieval para o Sistema Daemon Por Vitor “Bartolomeu”. www.daemon.com.br (site oficial da Editora Daemon) daemon@daemon.com.br (e-mail da Editora Daemon) vitorsouzarural@yahoo.com.br (meu e-mail) O jogo se situa em um mundo de tecnologia medieval, repleto de criaturas fantásticas e poderes fora do comum. Nesse...",
+      "entityRefs": []
+    },
+    {
+      "id": "era-dos-herois-epoca-atual-2",
+      "name": "ÉPOCA ATUAL",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          9
+        ]
+      ],
+      "summary": "O Panteão pensava em uma maneira de reaver a ordem sobre o continente. Foi, então, que se viu forçado a ampliar ainda mais o poder e o conhecimento dos Paladinos. A ampliação foi tal que agora não apenas humanos do sexo masculino poderiam receber os poderes, mas sim, qualquer criatura que tivesse a vontade e a coragem de combater ao lado deles. Os Paladinos...",
+      "entityRefs": []
+    }
+  ]
+}

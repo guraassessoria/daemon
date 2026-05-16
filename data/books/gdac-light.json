@@ -1,0 +1,57 @@
+{
+  "source": "gdac-light",
+  "title": "GdAC - Light",
+  "status": "full-read-auto-pass-1",
+  "pages": 5,
+  "primaryCategories": [
+    "power_magic",
+    "core_rule",
+    "combat",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "gdac-light-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "gdac-light-agradecimentos-2",
+      "name": "AGRADECIMENTOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "AGRADECIMENTOS -À Felipe “Kurt” Storino e Fausto “Zell” Lira, por terem invocado os piores seres possíveis! -À Bruno “BURP” Schlatter, pelas dicas; -À todos os que postaram opiniões no Fórum da Daemon: VALEU, caras! CONSIDERAÇÕES Para utilizar esse net-book você irá precisar do módulo básico, distri- buído gratuitamente no site: www.daemon.com.br. Todo o mat...",
+      "entityRefs": []
+    },
+    {
+      "id": "gdac-light-tanna-toh-4",
+      "name": "Tanna - Toh",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "Tanna - Toh Elemento: Luz PMs: 2 A Deusa do Conhecimento revela os atributos básicos (os oito atributos, PVs, IP, etc.) de um único alvo, que tem direito a um teste de WILL para negar o efeito. Marah Elemento: Luz PMs: 5 A Deusa da Paz oferece IP+4 e imuni- dade total contra magias e efeitos prejudici- ais (exceto aqueles que causam dano) até o final do comb...",
+      "entityRefs": []
+    },
+    {
+      "id": "gdac-light-wynna-5",
+      "name": "Wynna",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "Wynna Elemento: Água PMs: 5 A Deusa da Magia oferece Focus +1 para todos os magos e aliados do conjurador, até o final do combate. Keen Elemento: Fogo PMs: 7 O Deus da Guerra oferece a todos os aliados bônus de ataque +30%, +3d6 nos danos e imunidade total contra medo; porém, os valores de defesa caem -20% e IP-4. Os efeitos duram até o final do combate. Ssz...",
+      "entityRefs": []
+    }
+  ]
+}

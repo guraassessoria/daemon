@@ -1,0 +1,63 @@
+{
+  "source": "origem-e-descendencia-racial-v-teste",
+  "title": "Origem e Descendência Racial (v. teste)",
+  "status": "full-read-auto-pass-1",
+  "pages": 16,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "power_magic",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "origem-e-descendencia-racial-v-teste-introducao-1",
+      "name": "Introdução",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          6
+        ]
+      ],
+      "summary": "Introdução Este netbook tem como objetivo expandir a customização de Personagem, ao fornecer regras e mecânicas que suportem diferentes raças jogáveis, visando o balanceamento e o custo benefício destas em Pontos de Aprimoramento (PA). Além disso, espera-se que este netbook sirva como auxilio na construção de novas raças para Personagens, assegurando uma pad...",
+      "entityRefs": []
+    },
+    {
+      "id": "origem-e-descendencia-racial-v-teste-origem-ana-nivel-2-7",
+      "name": "Origem Anã [Nível 2]",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          11
+        ]
+      ],
+      "summary": "Origem Anã [Nível 2] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno até Médio Imatura Entre 4 até 40 anos Adulto Médio Racional Entre 41 até 120 anos Ancião Médio Racional Entre 121 até 160 anos Ajuste de Atributos: +3 CON, +2 FOR, +2 VON, -3 AGI e -2 DES. Longevidade [Nível 1]: Confere uma expectativa de vida de a...",
+      "entityRefs": []
+    },
+    {
+      "id": "origem-e-descendencia-racial-v-teste-origem-gnomica-nivel-2-12",
+      "name": "Origem Gnômica [Nível 2]",
+      "category": "core_rule",
+      "pages": [
+        12
+      ],
+      "summary": "Origem Gnômica [Nível 2] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno Imatura Entre 4 até 60 anos Adulto Pequeno Racional Entre 61 até 180 anos Ancião Pequeno Racional Entre 181 até 240 anos Ajuste de Atributos: +3 AGI, +2 DES, +2 INT, -3 CON e -2 FOR. Longevidade [Nível 2]: Confere uma expectativa de vida de até...",
+      "entityRefs": []
+    },
+    {
+      "id": "origem-e-descendencia-racial-v-teste-origem-humana-nivel-0-13",
+      "name": "Origem Humana [Nível 0]",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          13,
+          16
+        ]
+      ],
+      "summary": "Origem Humana [Nível 0] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno até Médio Imatura Entre 4 até 20 anos Adulto Médio Racional Entre 21 até 60 anos Ancião Médio Racional Entre 61 até 80 anos Ajuste de Atributos: +1 [?] e -1 [?]. Longevidade [Nível 0]: Confere uma expectativa de vida de até 80 anos. Idioma Nativ...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "duplicates": [
+    {
+      "duplicate": "gmonark",
+      "canonical": "guia-de-monstros-de-arkanum",
+      "reason": "duplicate same extracted text; clearer canonical slug"
+    },
+    {
+      "duplicate": "grimorio-compressed",
+      "canonical": "grimorio",
+      "reason": "compressed duplicate variant"
+    },
+    {
+      "duplicate": "guia-de-itens-magicos-compressed",
+      "canonical": "guia-de-itens-magicos",
+      "reason": "compressed duplicate variant"
+    },
+    {
+      "duplicate": "guiadragoes",
+      "canonical": "guia-dos-dragoes-1-biblioteca-elfica",
+      "reason": "duplicate same extracted text or exact file"
+    },
+    {
+      "duplicate": "inquisicao",
+      "canonical": "inquisicao-biblioteca-elfica",
+      "reason": "duplicate same extracted text or exact file"
+    },
+    {
+      "duplicate": "monstros-e-viloes",
+      "canonical": "anime-rpg-supers-monstros-e-viloes",
+      "reason": "duplicate same extracted text"
+    },
+    {
+      "duplicate": "nordica",
+      "canonical": "mitologia-nordica",
+      "reason": "duplicate same extracted text; clearer canonical slug"
+    },
+    {
+      "duplicate": "neokosmos-biblioteca-elfica-compressed",
+      "canonical": "neokosmos-biblioteca-elfica",
+      "reason": "compressed duplicate same extracted text"
+    },
+    {
+      "duplicate": "religioes01",
+      "canonical": "mitraismo",
+      "reason": "duplicate same extracted text; clearer canonical slug"
+    },
+    {
+      "duplicate": "sistema-daemon-modulo-basico-expandido-e-modificado",
+      "canonical": "modulo-basico-expandido-e-modificado",
+      "reason": "duplicate same extracted text"
+    },
+    {
+      "duplicate": "supers-monstros-e-viloes-biblioteca-elfica",
+      "canonical": "anime-rpg-supers-monstros-e-viloes",
+      "reason": "duplicate same extracted text"
+    },
+    {
+      "duplicate": "templarios",
+      "canonical": "templarios-biblioteca-elfica",
+      "reason": "duplicate same extracted text"
+    }
+  ]
+}

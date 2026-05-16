@@ -1,0 +1,157 @@
+{
+  "source": "atributos",
+  "title": "Atributos",
+  "status": "full-read-auto-pass-1",
+  "pages": 15,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "creature_npc",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "atributos-atributos-1",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "Atributos Por Lobo",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-atencao-2",
+      "name": "Atenção!",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois ele foi feito para livre download. Tudo relatado aqui é ficcional, trate isto como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um maior divertimento, logo as informações aqui não expressam a realidade, apesar de tentar fazê-lo o...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-atributos-3",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "Atributos Definição Os atributos são elementos importantes quando chega o momento de colocar em números as noções mais básicas do personagem. Seja qualquer que seja o tipo de campanha, eles podem ser uma boa ferramenta para os mestres. Uma crônica de horror pode se valer dos atributos como uma forma de medir a dificuldade de um inimigo para melhor inserí-lo...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-valor-medio-4",
+      "name": "Valor Médio",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "Valor Médio Devido às leis da probabilidade, ao rolar dois valores aleatórios como os dados e somá-los, alguns valores passam a ter mais chances de saírem que outros. Rolando um 3D, o valor 10 e 11 tem 12,15% de chances de sair cada, enquanto 3 e 18 possuem 0,45%. Para não explicar cálculos complicadíssimos para determinar qual o valor médio de cada valor de...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-agilidade-5",
+      "name": "Agilidade",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "Agilidade Há dois atributos básicos que trabalham o movimento corporal: Destreza (ou DES) e Agilida- de (ou AGI). A diferença entre os dois será mais abordada no capítulo do primeiro. Este aqui irá trabalhar algumas regras e ponderações sobre a Agilidade que podem e devem ser utilizados em Destreza, guardada as devidas diferenças. Usan- do o bom senso, encon...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-carisma-6",
+      "name": "Carisma",
+      "category": "attribute_skill",
+      "pages": [
+        6
+      ],
+      "summary": "Carisma Existem basicamente sete inteligências no ser humano, sendo que o atributo mental carisma pode ser considerando como uma forma de medir a inteligência Interpessoal. Ela define nossa capa- cidade de se relacionar com as pessoas, de esta- belecer com um certo grau de eficiência algum tipo de troca. Quanto maior o carisma, a pessoa vai se tornando mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-constituicao-7",
+      "name": "Constituição",
+      "category": "core_rule",
+      "pages": [
+        7
+      ],
+      "summary": "Constituição Existem dois bônus que a CON pode con- ceder: IP Natural e IP Total. O primeiro trata-se de uma resistência superior aos danos. Ele não é apenas uma pele mais dura, mas também uma maior tolerância à dor física, orgãos melhores, os- sos mais resistentes, ou seja, o corpo inteiro é o responsável por essa bonificação, não apenas a pele como geralme...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-destreza-8",
+      "name": "Destreza",
+      "category": "attribute_skill",
+      "pages": [
+        8
+      ],
+      "summary": "Destreza Basicamente, tudo o que foi dito no capítu- lo da Agilidade vale para a Destreza em matéria de regras. Deve-se tomar cuidado na hora de con- verter essas regras para ambos os atributos, por exemplo, alguém com DES 50 não será capaz de se esquivar de uma bala, mas poderá afastá-la de sua direção com as mãos (se tentar agarrar, perde a mão). Ela també...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-forca-9",
+      "name": "Força",
+      "category": "attribute_skill",
+      "pages": [
+        9
+      ],
+      "summary": "Força Talvez o primeiro atributo que se vêm a mente para dar exemplos e aquele que é de mais fácil compreensão. A Força define a capacidade da Personagem em poder movimentar uma certa quantidade de massa. Quanto maior essa é, mais quilogramas poderão ser levantados, carregados, arremessados ou qualquer outro tipo de manipula- ção cuja espécie do PC seja capa...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-inteligencia-10",
+      "name": "Inteligência",
+      "category": "core_rule",
+      "pages": [
+        10
+      ],
+      "summary": "Inteligência Como mencionado outrora, existem vários tipos de inteligência, não apenas uma. A Inteligên- cia como nós conhecemos na verdade é apenas uma delas, a Lógico-Matemática. Esta define nos- sa capacidade de resolver problemas em pouco tempo. Qualquer um é capaz de resolver qualquer problema ou enigma, o que muda é o tempo que levaria para cada um faz...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-percepcao-11",
+      "name": "Percepção",
+      "category": "core_rule",
+      "pages": [
+        11
+      ],
+      "summary": "Percepção Percepção é a capacidade de um ser de observar eficientemente o mundo ao seu redor. A Personagem pode consegui sentir as condições de toda a realidade dada as devidas regras que valem aonde ela está inserida. Quanto maior a sua PER, ele conseguirá sentir mais coisas, mais longe, de maneira mais precisa, com mais detalhes etc. Percebe-se que o poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-vontade-12",
+      "name": "Vontade",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "Vontade O último atributo. A Vontade (Nome altera- do por uma denominação mais simples, outrora era chamado de Força de Vontade) rege a resis- tência da mente, num papel muito semelhante à Constituição para o corpo. De certa maneira, o que foi dito para esta última pode ser aplicado para a VON, porém num nível mental. A Vontade rege a capacidade da Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-idade-13",
+      "name": "Idade",
+      "category": "core_rule",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa regra se aplica à maioria das espécies conhecidas pela humanidade. Há nessa mesma orbe criaturas tão a...",
+      "entityRefs": []
+    },
+    {
+      "id": "atributos-seres-e-objetos-15",
+      "name": "Seres e Objetos",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Seres e Objetos Os atributos não são uma exclusividade dos humanos. Tudo no universo tem ao menos um atributo, nem que esteja com valor zerado. Nestes casos, os outros são considerados como nulos, ou seja, não existem. Não confundir valor zerado com valor nulo. O primeiro está com o menor valor possível, a ponto de ser quase impossível aplicá- lo. O outro si...",
+      "entityRefs": []
+    }
+  ]
+}

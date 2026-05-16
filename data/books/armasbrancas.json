@@ -1,0 +1,27 @@
+{
+  "source": "armasbrancas",
+  "title": "armasbrancas",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "armasbrancas-armas-brancas-1",
+      "name": "Armas Brancas",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Armas Brancas: Manual de Instruções A perícia de Armas Brancas deve ser tratada da seguinte maneira: ataque/defesa. Armas Brancas 1. Espadas (DEX/DEX) 2. Facas (DEX/DEX) 3. Adagas (DEX/DEX) 4. Punhais (DEX/DEX) 5. Manguais (DEX/DEX) 6. Martelos (DEX/DEX) 7. Machados (DEX/DEX) 8. Maças (DEX/DEX) 9. Lanças (DEX/DEX) PRA’s O que vem a ser PRA? PRA (Pontos de Re...",
+      "entityRefs": []
+    }
+  ]
+}

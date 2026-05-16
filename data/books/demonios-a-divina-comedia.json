@@ -1,0 +1,777 @@
+{
+  "source": "demonios-a-divina-comedia",
+  "title": "Demônios - A Divina Comédia",
+  "status": "full-read-auto-pass-1",
+  "pages": 132,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "demonios-a-divina-comedia-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-demonios-a-divina-comedia-2",
+      "name": "DEMÔNIOS A DIVINA COMÉDIA",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "DEMÔNIOS A DIVINA COMÉDIA Criação: Marcelo Del Debbio Desenvolvimento: Marcelo Del Debbio, Norson Botrel Revisão: Norson Botrel, Luciana Bacci Capa: Flávio Correia, em homenagem a Evandro Gregório Arte: Evandro Gregorio, Luciana Bacci Gustav Dore, DelaCroix, Cristiano Rodrigo Fotos de Marcelo Del Debbio e Luciana Bacci Programação Visual: Norson Botrel e Mar...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-aviso-3",
+      "name": "AVISO!",
+      "category": "creature_npc",
+      "pages": [
+        3
+      ],
+      "summary": "AVISO! Este livro pode ser considerado inapropriado para leitores jovens. Demônios - A Divina Comedia e apenas um livro de referencias para jogos de RPG. Ele NAO ensina a conjurar, controlar, negociar, invocar, barganhar, adorar, cultuar ou exorcizar demônios. Este livro NÃO é uma apologia ao Satanismo nem a Magia Negra ou qualquer outro culto semelhante, ne...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-sumario-4",
+      "name": "SUMÁRIO",
+      "category": "attribute_skill",
+      "pages": [
+        4
+      ],
+      "summary": "SUMÁRIO INTRODUÇÃO 5 LIBERDADE 6 CONCEITOS BÁSICOS 8 MANUAL DO PROPIETÁRIO 10 HISTÓRIA DO INFERNO 24 CRIAÇÃO DE PERSONAGENS 36 AS CASTAS ANJOS CAÍDOS 42 DEATH KNIGTHS 45 DAEMONS 46 HELLSPAWNS 50 SUCCUBUS E INCUBUS 52 ESPECTROS 54 HORDAS 56 ATRIBUTOS BÁSICOS 58 PERÍCIAS 60 APRIMORAMENTOS 62 PODERES DOMNÍACOS 66 FRAQUEZAS 74 TABELA DE PODERES E FRAQUEZAS 75 AN...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-introducao-5",
+      "name": "Introdução",
+      "category": "creature_npc",
+      "pages": [
+        5
+      ],
+      "summary": "Introdução Embora tenha passado boa parte de minha vida estudando o ocultismo, o tema Demônios me fascinou desde a primeira vez que li “A Divina Comedia”. O texto original da Divina Comédia foi escrito no século XIII, mas de lá para cá, muitos novos pecados surgiram, muitas novas religiões apareceram, certos pecados deixaram de ser pecados e alguns pares de...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-liberdade-6",
+      "name": "LIBERDADE",
+      "category": "creature_npc",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "LIBERDADE Por onde começar? Bem... Talvez nem tenha por onde começar. Sente ai, pegue uma bebida... Sou uma Succubus. Já ouviu falar? Como as das lendas medievais... Não muito poderosa, mas um pouco especial. Já estou entre vocês, humanos, ha bastante tempo... Às vezes nem me lembro quanto. Desde a fase da sua Historia que vocês chamam de classicismo, acho....",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-conceitos-basicos-8",
+      "name": "CONCEITOS BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "CONCEITOS BÁSICOS Como em qualquer jogo, como xadrez ou gamão, e preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG DEMONIOS não e uma exceção. No decorrer do Jogo, ou mesmo quando você estiver criando seu personagem, nos utilizaremos muitos termos que talvez você não esteja familiarizado. Muitos termos usados no sistema de Magias...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-inferno-manual-do-proprietario-10",
+      "name": "Inferno; Manual do Proprietário",
+      "category": "creature_npc",
+      "pages": [
+        [
+          10,
+          25
+        ]
+      ],
+      "summary": "Inferno; Manual do Proprietário A Entrada do Inferno Os sábios divergem em suas opiniões a respeito do Portal que leva ao inferno. Existem dezenas de entradas para o inferno perdidas em Spiritum, e doze ou treze portais principais situados na Terra. Um dos principais deles se encontra nas florestas próximas ao lago Averne, que podem ser encontradas no Sonhar...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-todas-as-suas-proles-26",
+      "name": "todas as suas proles.",
+      "category": "power_magic",
+      "pages": [
+        [
+          26,
+          29
+        ]
+      ],
+      "summary": "todas as suas proles. Rhea, quando o sexto filho nasceu (Zeus), decidiu esconde-lo do pai, moldando uma pedra na forma de uma criança, que Chronos devorou pensando ser Zeus. O deus verdadeiro foi enviado para a Ilha de Creta, na Terra, onde os dactilos (demônios de Arkanun refugiados na Terra) cuidaram dele ate que atingisse a idade adulta. Com a ajuda dos C...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-as-cruzadas-e-baphomet-30",
+      "name": "AS CRUZADAS E BAPHOMET",
+      "category": "creature_npc",
+      "pages": [
+        30
+      ],
+      "summary": "AS CRUZADAS E BAPHOMET Com a guerra em Jerusalém e a Jihad muçulmana, e necessária a criação de um exército para proteger os visitantes e peregrinos acidade sagrada, e para isto e fundada, em 1118, a Ordem dos Cavaleiros Templários. Esta Ordem foi criada com a finalidade secundária (e secreta) de eliminar toda e qualquer criatura sobrenatural que estivesse s...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-o-mercado-das-almas-31",
+      "name": "O Mercado das Almas",
+      "category": "power_magic",
+      "pages": [
+        31
+      ],
+      "summary": "O Mercado das Almas Foi aproximadamente neste período que um grande Conselho de Anjos Recíperes e demônios do Inferno montaram o Mercado das Almas como o conhecemos hoje, presidido por sete demônios e três anjos. Estabeleceu-se que as pessoas nasceriam com a alma livre, mas que, no decorrer de sua vida, poderiam vendê-la em troca de algum tipo de favor. Uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-a-peninsula-iberica-32",
+      "name": "A Península Ibérica",
+      "category": "creature_npc",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "summary": "A Península Ibérica Durante todo este processo, a Espanha e Portugal se tornaram propriedade absoluta da Inquisição, e as bruxas, os magos e os demônios foram praticamente exterminados. Com o casamento de Fernando, rei de Aragão com Isabel, rainha de Castela, os anjos conseguiram a soberania de toda a Península Ibérica, anexando o reino muçulmano de Granada....",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-os-nephalins-34",
+      "name": "OS NEPHALINS",
+      "category": "race_lineage",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "OS NEPHALINS Nesta historia de anjos e demônios, acabamos deixando um pouco de lado um grupo de personagens muito importantes para entender a guerra entre os Céus e o Inferno. Os Nephalins, filhos dos anjos com os humanos. Os primeiros Nephalins, chamados de Neflheim pelos nórdicos, deram origem a muitas ordens de magos (entre elas a Ordem de Luft, a mais po...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-criacao-de-personagem-36",
+      "name": "CRIAÇÃO DE PERSONAGEM",
+      "category": "power_magic",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "summary": "CRIAÇÃO DE PERSONAGEM Em DEMONIOS, a criação de um personagem e algo bastante simples de se fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobrevivência do personagem no futuro. Existem também fatores relacionados com o background do personagem, seus anseios e temores, sua historia e sua caracterização. Aqui, a história de um...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-2-escolha-uma-historia-38",
+      "name": "2. ESCOLHA UMA HISTÓRIA",
+      "category": "creature_npc",
+      "pages": [
+        38
+      ],
+      "summary": "2. ESCOLHA UMA HISTÓRIA Antes de se tornar um demônio, cada casta passou por uma provação diferente, e cada demônio possui sua própria historia Qual e a sua? Para melhor compor um personagem e sua historia, você pode responder as seguintes perguntas a respeito de seu personagem, e anotar os resultados em um diário, que servirá como base para definir futurame...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-personalidade-39",
+      "name": "PERSONALIDADE",
+      "category": "power_magic",
+      "pages": [
+        [
+          39,
+          41
+        ]
+      ],
+      "summary": "PERSONALIDADE: 1. Como os outros demônios descrevem seu personagem ? 2. Como ele se auto-descreveria? 3. Se ele pudesse mudar alguma coisa no mundo, o que seria? 4. Ele tem medo de alguma coisa? ATITUDE 1. Qual e a atitude de seu personagem em relação aos outros? 2. Qual e a atitude dele em relação as pessoas na terra? 3. E em relação aos outros demônios? GO...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-anjos-caidos-42",
+      "name": "Anjos Caídos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          42,
+          43
+        ]
+      ],
+      "summary": "Anjos Caídos Os primeiros Oficialmente, as primeiras entidades físicas a pisarem no Inferno foram os anjos caídos da Primeira Rebelião, liderados por Lúcifer e compondo cerca de um terço dos anjos da Cidade de Prata, quinze mil anos atrás. Os Anjos Caídos formaram uma cratera gigantesca no fundo do local onde hoje se encontra o Nono Círculo, e lá permanecera...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-querubins-44",
+      "name": "QUERUBINS",
+      "category": "creature_npc",
+      "pages": [
+        44
+      ],
+      "summary": "QUERUBINS Querubins Caídos são convertidos em Laminaks (pequenos gênios malvados), e passam a treinar com os imps e com os demônios menores. São muito pouco respeitados dentro dos reinos infernais. DOMINAÇÕES Muitos protetores caídos são Dominações, que já são rebeldes por sua própria natureza e podem ter ido longe demais. São a maioria dos Obscuri Protetore...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-death-knights-45",
+      "name": "DEATH KNIGHTS",
+      "category": "creature_npc",
+      "pages": [
+        45
+      ],
+      "summary": "DEATH KNIGHTS “Os Cavaleiros Negros” Os Cavaleiros da Morte, Cavaleiros Demoníacos, ou simplesmente Death Knights, são considerados os maiores guerreiros nos círculos infernais. Um ditado popular entre os demônios diz que nenhuma batalha é uma grande batalha sem os Cavaleiros Negros. Muitos sábios especulam sobre onde teriam se originado as Ordens de Cavalei...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-daemons-46",
+      "name": "DAEMONS",
+      "category": "power_magic",
+      "pages": [
+        [
+          46,
+          47
+        ]
+      ],
+      "summary": "DAEMONS “Os Espíritos Iluminados” Milênios atrás, na grande Roda dos Mundos, existia um plano semelhante à Terra, chamado Arkanum. Este plano era idêntico em praticamente todos os aspectos a Terra, inclusive no tocante ao uso de magia e feitiçaria. Existia apenas um único problema realmente sério: o uso indiscriminado da magia levou o plano a se corromper. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-filhos-de-anubis-48",
+      "name": "FILHOS DE ANÚBIS",
+      "category": "creature_npc",
+      "pages": [
+        48
+      ],
+      "summary": "FILHOS DE ANÚBIS Outra classe de demônios antigos, provenientes do antigo Egito, são os chamados filhos de Anúbis. Anúbis originalmente era filho de Osíris e Set, e o deus responsável por pesar as almas dos mortos. Anúbis, soberano da pirâmide de Anuat, também era chamado de o deus chacal, e seu culto atraiu servos em todos os planos de existência, inclusive...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-os-rebelde8-entre-os-rebeldes-49",
+      "name": "OS REBELDE8 ENTRE OS REBELDES",
+      "category": "creature_npc",
+      "pages": [
+        49
+      ],
+      "summary": "OS REBELDE8 ENTRE OS REBELDES Os Demônios e os Anjos Caídos geralmente formam duas frentes de batalhas. Os anjos consideram os demônios muito pouco confiáveis, e os demônios acham toda esta guerra celestial uma grande babaquice, estando mais interessados nos poderes e nas riquezas que os anjos têm a oferecer caso sejam derrotados. Outro fator que motiva a ba...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-hellspawns-50",
+      "name": "HELLSPAWNS",
+      "category": "creature_npc",
+      "pages": [
+        50
+      ],
+      "summary": "HELLSPAWNS “Os Condenados\" A casta dos condenados, chamados te Hellspawns por Merlin, no século V, são resultado das almas dos mortais pecadores que por um motivo ou outro conseguiu atrair a atenção dos poderes reinantes no inferno, e conseguiram ser transferidos de seus castigos para o serviço nas fileiras infernais. Todos os Condenados foram pessoas más du...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-a-cidade-dos-mortos-51",
+      "name": "A CIDADE DOS MORTOS",
+      "category": "creature_npc",
+      "pages": [
+        51
+      ],
+      "summary": "A CIDADE DOS MORTOS A única cidade to inferno que realmente pertence aos Condenados é a Cidade dos Mortos. Criada no final do século XVII por espíritos condenados dos portugueses e espanhóis, e é considerada a segunda maior cidade do inferno. É um complexo com mais de um milhão e meio de pessoas que vivem na mais completa podridão e devassidão. Nos seus port...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-succubi-e-incubi-52",
+      "name": "SUCCUBI E INCUBI",
+      "category": "creature_npc",
+      "pages": [
+        [
+          52,
+          53
+        ]
+      ],
+      "summary": "SUCCUBI E INCUBI “Qual é o seu prazer?” Dizem que as lendas sobre as Succubi começaram com Lillith, a segunda mulher de Adão. Segundo muitas escrituras antigas, a primeira mulher de Adão foi feita de barro também, mas acabou derretendo por causa do forte calor do Edhen. A segunda mulher criada para Adão chamou-se Lillith, mas por seu caráter extremamente fem...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-espectros-54",
+      "name": "ESPECTROS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          54,
+          55
+        ]
+      ],
+      "summary": "ESPECTROS “Reflexos distorcidos\" As primeiras referências aos Espectros datam de mais de quarenta séculos antes de Cristo, na região da Mesopotâmia e Egito. Os antigos espectros eram conhecidos pelo nome de Ekimma, ou \"os condenados\". Os Espectros originais eram seres poderosíssimos de Arkanun e Infernun, cujos corpos foram destruídos milênios atrás, e cujos...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-hordas-56",
+      "name": "HORDAS",
+      "category": "creature_npc",
+      "pages": [
+        56
+      ],
+      "summary": "HORDAS “Matar, pilhar, destruir\" As Hordas demoníacas surgiram das experiências dos demônios em criar legiões destinadas a atacar os anjos e os humanos em grandes quantidades; exércitos que se movimentassem seguindo apenas um único princípio, e que lutassem como uma única maquina de guerra. As primeiras experiências com hordas surgiram durante a Antiguidade....",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-como-as-hordas-funcionam-57",
+      "name": "COMO AS HORDAS FUNCIONAM",
+      "category": "combat",
+      "pages": [
+        57
+      ],
+      "summary": "COMO AS HORDAS FUNCIONAM As Hordas são personagens diferentes. Ao invés de apenas UM personagem, o jogador que escolher jogar com as Hordas controlara um pequeno grupo de demônios menores (2+1 d2), que aumentarão conforme o personagem for desenvolvendo. Cada demônio das Hordas começa o jogo com 50 pontos de Atributos (mínimo 3 e Maximo 12 em cada) e 50 ponto...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-atributos-basicos-58",
+      "name": "ATRIBUTOS BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          58,
+          59
+        ]
+      ],
+      "summary": "ATRIBUTOS BÁSICOS Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem e, se comparado a outros personagens e criaturas. Os Atributos apresentados aqui são compatíveis com ARKANUN, INVASÃO, TREVAS e ANJOS, bem como com todos os RPGs lançados pela Daemon Editora. São oito Atributos, divid...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-pericias-60",
+      "name": "PERÍCIAS",
+      "category": "attribute_skill",
+      "pages": [
+        60
+      ],
+      "summary": "PERÍCIAS Perícias são profissões que o personagem aprendeu ao longo do tempo. Algumas delas foram usadas em sua última vida como mortal, outras foram aprendidas durante seu desenvolvimento como demônio. VALOR INICIAL O nome de algumas perícias ou subgrupos pode vir seguido de um Atributo básico (CON, DEX, AGI, INT, WILL, CAR ou PER). O personagem começa com...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-adicionando-pericias-61",
+      "name": "ADICIONANDO PERÍCIAS",
+      "category": "attribute_skill",
+      "pages": [
+        61
+      ],
+      "summary": "ADICIONANDO PERÍCIAS Esta lista, apesar de extensa, não cobre de maneira nenhuma todas as possíveis profissões que uma pessoa poderia aprender. Sinta-se a vontade para desenvolver suas próprias pericias, adicionando-as a lista da pagina ao lado. Apenas tome cuidado quando colocar a nova perícia (ou uma das perícias desta lista) na ficha de seu personagem par...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-aprimoramentos-62",
+      "name": "APRIMORAMENTOS",
+      "category": "power_magic",
+      "pages": [
+        62
+      ],
+      "summary": "APRIMORAMENTOS Com o passar de cada duas décadas, o demônio adquire pontos de Aprimoramento para gastar da maneira que desejar. Estes pontos não podem simplesmente serem \"gastos”, mas o Mestre e o jogador precisam fazer todo o Roleplay de COMO e QUANDO seu personagem conseguiu estes Aprimoramentos. Lembre-se que para ter acesso a um Aprimoramento nível 2 e p...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-contatos-e-aliados-63",
+      "name": "CONTATOS E ALIADOS",
+      "category": "creature_npc",
+      "pages": [
+        63
+      ],
+      "summary": "CONTATOS E ALIADOS Lembre-se que estes aliados, caso não sejam imortais, magos, anjos, espíritos ou demônios, podem morrer com o passar do tempo. Quando isto ocorrer, assume-se que o demônio conseguiu outro aliado no mesmo ramo, ou passou a conhecer os descendentes dele, ou seu sucessor, etc (isto significa que o Aprimoramento não é perdido). Cada aliado pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-industria-64",
+      "name": "INDÚSTRIA",
+      "category": "power_magic",
+      "pages": [
+        64
+      ],
+      "summary": "INDÚSTRIA Seu demônio possui influencia na área industrial, sobre organizações de trabalhadores, artesãos, operários, engenheiros, transportes e outras pessoas ligadas à área industrial. Pode conseguir equipamentos, projetos, especificações, cálculos ou outras operações ligadas à área de engenharia. 1 ponto:U m bairro. 2 pontos: Alguns bairros ou um bairro e...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-pertencer-a-sociedade-de-orcus-65",
+      "name": "PERTENCER À SOCIEDADE DE ORCUS",
+      "category": "creature_npc",
+      "pages": [
+        65
+      ],
+      "summary": "PERTENCER À SOCIEDADE DE ORCUS 1 ponto: Seu personagem pertence a Sociedade Secreta de Orcus, uma organização secreta que opera em Dite, e visa trazer o fundador da cidade de volta ao poder. E claro que demônios pertencentes a esta seita são caçados e destruídos pelos outros demônios ligados a Baalzebub. Como vantagem, fornece ao membro varias vantagens polí...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-poderes-demoniacos-66",
+      "name": "PODERES DEMÔNIACOS",
+      "category": "attribute_skill",
+      "pages": [
+        66
+      ],
+      "summary": "PODERES DEMÔNIACOS A seguir fornecemos as características e Poderes mais comuns pertencentes aos demônios do Inferno. Note que esta lista e apenas uma sugestão, e que cada demônio desenvolve poderes únicos com o passar do tempo. Quando não especificado, entende-se que os Poderes funcionam APENAS na forma original do demônio, ou seja; quando este estiver dent...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-asas-67",
+      "name": "ASAS",
+      "category": "core_rule",
+      "pages": [
+        [
+          67,
+          68
+        ]
+      ],
+      "summary": "ASAS (Anjos Caídos, Daemons, Succubi/Incubi, Hordas) As asas de um demônio podem variar imensamente de forma e tamanho, mas seus limites estão especificados abaixo. Quando escolher este poder, o jogador deve descrever detalhadamente que tipo de asa deseja para seu demônio. Sugestões: Asas de morcego, esquelética, coberta de trapos de couro negro, de dragão,...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-controle-mental-69",
+      "name": "CONTROLE MENTAL",
+      "category": "creature_npc",
+      "pages": [
+        [
+          69,
+          70
+        ]
+      ],
+      "summary": "CONTROLE MENTAL (Anjos Caídos, Daemons, Succubi/Incubi, Espectros) Podem ser utilizados tanto na forma humana quanto na forma demoníaca. Nível 1: Hipnoses. Permite ao demônio (mediante o contato olho-a-olho) hipnotizar uma vitima e colocá-la sob seu controle mental. O demônio pode emitir comandos exatos como “siga-me\", \"Entre nesta taverna\" e outros. A vítim...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-custo-forca-alcance-dano-71",
+      "name": "Custo Força Alcance Dano",
+      "category": "combat",
+      "pages": [
+        [
+          71,
+          73
+        ]
+      ],
+      "summary": "Custo Força Alcance Dano Nível 0 1D 0m 0 Nível 1 2D 1m 1d6 Nível 2 3D 2m 2d6( Max ) Nível 3 4D 4m Nível 4 5D 8m Obs: Em caso de combate, a utilização de mais de um ataque deve respeitar o intervalo mínimo entre 2 disparos de 10 rodadas. MALDIÇÕES (Anjos Caídos, Daemons, Succubi/Incubi, Espectros) Nível 1: Causar Doenças Naturais. O demônio pode causar uma do...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-fraquezas-74",
+      "name": "FRAQUEZAS",
+      "category": "combat",
+      "pages": [
+        74
+      ],
+      "summary": "FRAQUEZAS Aqui são apresentadas as fraquezas possíveis de cada casta. Algumas são obrigatórias para certas castas, outras são possíveis de acontecerem. SOL O demônio é vulnerável a luz solar. Qualquer exposição à luz solar causa a ele certo dano por rodada, sem direito a Testes para reduzir o dano, nem proteção de IP, nem regeneração. Exposição total ao sol...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-tabela-de-poderes-e-fraquezas-75",
+      "name": "TABELA DE PODERES E FRAQUEZAS",
+      "category": "creature_npc",
+      "pages": [
+        75
+      ],
+      "summary": "TABELA DE PODERES E FRAQUEZAS Esta tabela apresenta de forma simplificada urna lista de todos os Poderes e Fraquezas de cada casta A lista de Poderes permite uma rápida visualização dos poderes que cada casta tem acesso. É importante lembrar que os Anjos Caídos eram Anjos que viviam na Cidade de Prata antes das duas Rebeliões. Assim, ao montar o personagem d...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-legioes-76",
+      "name": "LEGIÕES",
+      "category": "combat",
+      "pages": [
+        [
+          76,
+          77
+        ]
+      ],
+      "summary": "LEGIÕES Durante as aventuras, os personagens cedo ou tarde terão de lidar com os grandes exércitos infernais. Para tanto, fornecemos a seguir um capítulo sobre as legiões infernais, sua história, seus comandantes e idéias de como as legiões podem ser usados em uma Campanha te DEMONIOS. ORIGEM As Legiões tiveram sua origem com os primeiros exércitos que chega...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-antuerpia-78",
+      "name": "ANTUÉRPIA",
+      "category": "creature_npc",
+      "pages": [
+        [
+          78,
+          80
+        ]
+      ],
+      "summary": "ANTUÉRPIA Para começar uma campanha na Terra, a primeira coisa que você ou seu Mestre devera fazer e construir uma cidade pela lógica dos Demônios, magos e anjos. Para isto, basta ter em mãos a história da cidade em que vocês desejarem jogar e um pouco de criatividade. Não é difícil. Comece o cálculo pela seguinte conta. A menos que seja uma cidade especial...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-npc-importantes-81",
+      "name": "NPC IMPORTANTES",
+      "category": "creature_npc",
+      "pages": [
+        81
+      ],
+      "summary": "NPC IMPORTANTES BARKEN Barken e um demônio com cerca de 300 anos de idade, paciente e calmo, desde que não lhe pisem nos calos. E um dos principais informantes do inferno no que diz respeito a movimentação dos navios entre as Ilhas Britânicas e o continente, pois sua área de atuação permite a ele controlar a entrada e saída de produtos pelos portos da Antuér...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-o-clube-legerdemans-82",
+      "name": "O CLUBE LEGERDEMANS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          82,
+          87
+        ]
+      ],
+      "summary": "O CLUBE LEGERDEMANS Atenção: Esta é uma aventura pronta, para ser utilizada pelo Mestre como introdução ao universo de Arkanun/Trevas, portanto se você não pretende ser um Mestre de Jogo, pare de ler agora! Isto apenas estragará sua diversão. ANTUÉRPIA, 1998 Esta e uma aventura pronta para um grupo de 3 a 5 jogadores, com personagens iniciantes, mas pode ser...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-demonios-notaveis-88",
+      "name": "DEMÔNIOS NOTÁVEIS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          88,
+          95
+        ]
+      ],
+      "summary": "DEMÔNIOS NOTÁVEIS A Aaba: Succubus habitante da cidade de Sodoma, com o poder de se apresentar como mulher irresistível e seduzir a quem quiser Curiosamente, é considerada como incapaz de ver derramamento de sangue. Aam: Também Aman, Amamet. Divindade Egípcia, considerado o monstro devorador que presidia a destruição da alma do morto condenado pelo tribunal...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-ministros-96",
+      "name": "Ministros",
+      "category": "creature_npc",
+      "pages": [
+        [
+          96,
+          98
+        ]
+      ],
+      "summary": "Ministros das Regiões Infernais: Segundo os demonologistas, estes ministros são: Adramelech (Grande Chanceler), Astaroth (Grande Tesoureiro), Nergal (Chefe da Polícia Secreta) e Baal (General Chefe dos Exércitos Infernais). Minos: Soberano mítico de Creta, filho de Zeus e Europa, marido de Pasifae, que pedia um tributo anual de jovens homens e mulheres para...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-mapa-do-inferno-99",
+      "name": "MAPA DO INFERNO",
+      "category": "power_magic",
+      "pages": [
+        [
+          99,
+          101
+        ]
+      ],
+      "summary": "MAPA DO INFERNO O Inferno encontra-se localizado nas regiões mais baixas Spiritum, próxima ao baixo Umbral. Os conceitos de “alto” ou “baixo” não podem ser aplicados exatamente neste caso, por que não se trata de um plano físico, de três dimensões, mas de planos dimensionais sobrepostos. A ciência diz que dois corpos não ocupam o mesmo lugar no espaço. Magos...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-magos-demonologistas-102",
+      "name": "MAGOS DEMONOLOGISTAS",
+      "category": "power_magic",
+      "pages": [
+        102
+      ],
+      "summary": "MAGOS DEMONOLOGISTAS Demonologistas são aqueles magos humanos (e apenas humanos) poderosos (ou insanos) o suficiente para lidar diretamente com as forcas demoníacas e suas manifestações. A HISTÓRIA Os primeiros magos demonologistas surgiram na Terra junto com os primeiros magos na cidade de Ur, na antiga Babilônia, embora naquela época ainda não tinham este...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-zumbis-103",
+      "name": "ZUMBIS",
+      "category": "attribute_skill",
+      "pages": [
+        103
+      ],
+      "summary": "ZUMBIS O que seria de um demonologista sem seus auxiliares mortos-vivos? Um demonologista conhece os rituais para a criação de zumbis ou outros seres do reino dos mortos. O ritual para a criação de um zumbi e muito complexo, e envolvem ciclos lunares, poções conhecidas apenas pelos membros da Ordem e um cadáver (obvio). Para os rituais normais, cada zumbi ar...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-exorcistas-104",
+      "name": "EXORCISTAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          104,
+          105
+        ]
+      ],
+      "summary": "EXORCISTAS O Exorcista é uma classe de Personagem para Inquisidores, capaz de realizar os Rituais de exorcismo. É uma profissão ingrata: apenas os mais fortes e corajosos dentre os escolhidos por Deus são capazes de seguir adiante com este árduo fardo. Os Exorcistas formam um grupo muito unido, mas ao mesmo tempo sofrem todo tipo de discriminação entre seus...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-campanha-106",
+      "name": "CAMPANHA",
+      "category": "creature_npc",
+      "pages": [
+        106
+      ],
+      "summary": "CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os personagens que resistiram bravamente aos anjos, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-poderes-demoniacos-107",
+      "name": "PODERES DEMÔNIACOS",
+      "category": "power_magic",
+      "pages": [
+        107
+      ],
+      "summary": "PODERES DEMÔNIACOS O personagem desenvolve um Poder Demoníaco a sua escolha dentro dos Poderes possíveis. O ideal e que Mestre e jogadores combinem antes qual poder seu personagem esteja desenvolvendo, e trabalhar esta evolução durante as aventuras. APRIMORAMETOS Assim como os Poderes Demoníacos, recomenda-se que os jogadores anunciem antes qual Aprimorament...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-ideias-para-aventura-108",
+      "name": "IDÉIAS PARA AVENTURA",
+      "category": "creature_npc",
+      "pages": [
+        108
+      ],
+      "summary": "IDÉIAS PARA AVENTURA Em Demônios: A Divina Comédia, as possibilidades de aventuras são quase infinitas. No mundo de Arkanun/Trevas existem tantas forças políticas e ideológicas em jogo que se torna possível criar praticamente qualquer tipo de situação. A seguir fornecemos algumas idéias básicas que podem ser desenvolvidas pelo Mestre para suas campanhas. Not...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-velho-vs-novo-109",
+      "name": "VELHO VS NOVO",
+      "category": "creature_npc",
+      "pages": [
+        109
+      ],
+      "summary": "VELHO VS NOVO Demônios mais velhos tendem a enxergar o mundo como extremamente rígido e cheio de normas. Na cabeça deles, guerras são imagens de barcos de madeira, guerreiros com espadas e lanças, vestindo armaduras de centuriões e lançando-se uns contra os outros. A maioria dos demônios milenares nunca havia visto uma metralhadora até a chegada dos soldados...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-regras-e-testes-110",
+      "name": "REGRAS E TESTES",
+      "category": "attribute_skill",
+      "pages": [
+        110
+      ],
+      "summary": "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, e necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porem muito eficientes, pois neste jogo e privilegiada a resolução de...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-atributo-vs-atributo-111",
+      "name": "ATRIBUTO VS ATRIBUTO",
+      "category": "attribute_skill",
+      "pages": [
+        111
+      ],
+      "summary": "ATRIBUTO VS ATRIBUTO Existem situações onde ha o confronto de dois Atributos. Já foi citado o caso de um Personagem tentando levantar um peso. Há diversos outros exemplos: dois Personagens tirando um braço de ferro para saber quem e mais forte (FR), ou uma competição para testar qual Personagem consegue ficar mais tempo embaixo d‟água sem respirar (CON). Ver...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-teste-de-resistencia-112",
+      "name": "TESTE DE RESISTÊNCIA",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          112,
+          113
+        ]
+      ],
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a privações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por venenos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-iniciativa-negativa-114",
+      "name": "INICIATIVA NEGATIVA",
+      "category": "combat",
+      "pages": [
+        [
+          114,
+          117
+        ]
+      ],
+      "summary": "INICIATIVA NEGATIVA Se um Personagem, após ter os modificadores aplicados, ficar com iniciativa negativa, ele perde sua ação nessa rodada. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumuladas de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada seguinte, se...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-posicao-desvantajosa-118",
+      "name": "POSIÇÃO DESVANTAJOSA",
+      "category": "combat",
+      "pages": [
+        [
+          118,
+          119
+        ]
+      ],
+      "summary": "POSIÇÃO DESVANTAJOSA Acontece com alguma freqüência de um dos combatentes estar em posição desvantajosa no combate. Ele pode estar sentado em urna mesa quando e surpreendido pelo inimigo ou pode ter caído no chão. Existe uma infinidade de situações que podem ser consideras desvantajosas. Nestes casos, o Mestre deve aplicar uma penalidade tanto no valor de At...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-pontos-de-fe-120",
+      "name": "PONTOS DE FÉ",
+      "category": "creature_npc",
+      "pages": [
+        120
+      ],
+      "summary": "PONTOS DE FÉ Fé [do latim Fide] S.f 1. Crença Religiosa 2. Conjunto de Dogmas e Doutrinas que constituem um culto. 3. A primeira virtude teologal: adesão e anuência pessoal a Deus, seus desígnios e manifestações. Pontos de Fé expressam o poder máximo dos Inquisidores: a Fé Divina. Em termos de jogo, Fé representa os pequenos milagres que um Aventureiro dedic...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-ativacao-de-itens-magicos-121",
+      "name": "ATIVAÇÃO DE ITENS MÁGICOS",
+      "category": "creature_npc",
+      "pages": [
+        121
+      ],
+      "summary": "ATIVAÇÃO DE ITENS MÁGICOS Alguns itens mágicos (em especial aqueles criados pelos seres da Cidade de Prata) requerem Pontos de Fé para serem ativados ou utilizados. Somente pessoas com Fé podem utilizar tais artefatos. BÊNÇÃO O Inquisidor pode abençoar um grupo de Aventureiros (até 6 pessoas por Ponto de Fé) concedendo a eles um bônus de +5% em combates (na...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-objetos-magicos-122",
+      "name": "Objetos mágicos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          122,
+          123
+        ]
+      ],
+      "summary": "Objetos mágicos O que seria de uma campanha envolvendo demônios sem objetos mágicos? Neste capitulo, apresentaremos algumas sugestões armas e objetos mágicos que seu personagem poderá adquirir através do Aprimoramento \"Objetos Mágicos\". Para facilitar, dividimos este capítulo em duas partes. A primeira trata dos itens mágicos utilizados pelos humanos CONTRA...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-objetos-magicos-demoniacos-124",
+      "name": "OBJETOS MÁGICOS DEMONÍACOS",
+      "category": "combat",
+      "pages": [
+        [
+          124,
+          126
+        ]
+      ],
+      "summary": "OBJETOS MÁGICOS DEMONÍACOS Estes são os objetos mágicos usados pelos demônios, ou com origem no Inferno, Arkanun, seitas demoníacas ou magos necromantes. Observações: Poções: a menos que seja dito algo em contrário, o efeito das poções dura aproximadamente 5 minutos (25+1d6 rodadas) ou uma cena completa, o que o Mestre achar mais apropriado para a aventura....",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-efeitos-magicos-127",
+      "name": "EFEITOS MÁGICOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          127,
+          128
+        ]
+      ],
+      "summary": "EFEITOS MÁGICOS A seguir alguns das rituais mais conhecidos no Inferno, e utilizados tanto por demônios quanto pelos magos que aprenderam magia com eles. Para a realização destes rituais, e necessário ter acesso aos Caminhos e Formas utilizadas caso seja para utilizá-los como Magias espontâneas. Formas e Caminhos de Magia são explicados detalhadamente nos li...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-familiares-129",
+      "name": "FAMILIARES",
+      "category": "power_magic",
+      "pages": [
+        [
+          129,
+          130
+        ]
+      ],
+      "summary": "FAMILIARES Familiares são pequenos demônios que costumam acompanhar magos na Terra. Podem se manifestar de cinco formas diferentes: os imps, os animais demoníacos, as mandrágoras, os homúnculos e as gárgulas. Estes seres não são considerados propriamente demônios, e podem ser utilizados como companheiros pelos magos, demônios ou vampiros. Às vezes, até mesmo...",
+      "entityRefs": []
+    },
+    {
+      "id": "demonios-a-divina-comedia-nome-da-horda-131",
+      "name": "Nome da Horda",
+      "category": "combat",
+      "pages": [
+        [
+          131,
+          132
+        ]
+      ],
+      "summary": "Nome da Horda Aprimoramentos Poderes Demoníacos Fraquezas Nome _______________________ CON ______ INT _________ FR _______ WILL _______ DEX _______ CAR _______ AGI _______ PER _______ #Ataques ___ IP ___, PVs ____ Armas : _______ __/__ dano _____ _______ __/__ dano _____ Perícias: _______ ___ _______ ___ _______ ___ _______ ___ Nome ________________________...",
+      "entityRefs": []
+    }
+  ]
+}

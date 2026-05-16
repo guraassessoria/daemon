@@ -1,0 +1,37 @@
+{
+  "source": "guerra-de-monstros",
+  "title": "Guerra de Monstros",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "attribute_skill",
+    "character_option",
+    "race_lineage",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "guerra-de-monstros-newton-carvalho-1",
+      "name": "Newton Carvalho",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Newton Carvalho Newton Carvalho e e Vitor “Bartolomeu” Vitor “Bartolomeu” (vitorsouzarural@yahoo.com.br) (vitorsouzarural@yahoo.com.br) GUERRA DE MONSTROS GUERRA DE MONSTROS INTRODUÇÃO Seja bem vindo a um mundo em guerra, onde os homens se encontram em meio a uma grande batalha travada por duas lendas do folclore mundial: lobisomens e vampiros. Estamos em pl...",
+      "entityRefs": []
+    },
+    {
+      "id": "guerra-de-monstros-poderes-naturais-2",
+      "name": "PODERES NATURAIS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "PODERES NATURAIS: IP natural: Lobisomens recebem IP natural 1 para cada 1D em CON. Sombras: Lobisomens sabem se camuflar perfeitamente no escuro, sendo hábeis caçadores noturnos. Considera-se que eles possuem a perícia camuflagem em 50% e furtividade 30%, aumentando 5% a cada nível. Garras: Nível 1: 1d3 + BF (30/30); Nível 4: 1d6 + BF (45/45); Nível 7: 1d10...",
+      "entityRefs": []
+    }
+  ]
+}

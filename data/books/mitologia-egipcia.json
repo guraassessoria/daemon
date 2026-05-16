@@ -1,0 +1,40 @@
+{
+  "source": "mitologia-egipcia",
+  "title": "Mitologia Egípcia",
+  "status": "full-read-auto-pass-1",
+  "pages": 9,
+  "primaryCategories": [
+    "creature_npc",
+    "setting_lore",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "mitologia-egipcia-mitologia-egi-pcia-1",
+      "name": "Mitologia Egí pcia",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "summary": "Mitologia Egí pcia A Lenda da Criação Conta-se que no início havia apenas o caos, um abismo sem forma alguma, chamado apenas de Nun. Dali nasceu Rá, mas alguns dizem que ele nasceu das águas. Seja como for, assim que apareceu, o deus sol deu origem a outras duas divindades. Estes eram Chu, o deus do ar, e Tefnut, a deusa da umidade. Os netos de Rá foram Geb,...",
+      "entityRefs": []
+    },
+    {
+      "id": "mitologia-egipcia-neftis-6",
+      "name": "Néftis",
+      "category": "power_magic",
+      "pages": [
+        [
+          6,
+          9
+        ]
+      ],
+      "summary": "Néftis Antiga esposa de Set, Néftis é a deusa que ajuda nos funerais e nos nascimentos. É a mãe de Anúbis e irmã de Osíris e Ísis. Fica encarregada de confortar as pessoas que vêem seus parentes morrerem. Ainda ajuda as almas que acabaram de atravessar par ao mundo dos mortos oferecendo consolo. É a deusa que mais tem encontrado problemas. Não pode sair da C...",
+      "entityRefs": []
+    }
+  ]
+}

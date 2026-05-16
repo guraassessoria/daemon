@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tabela-de-atributos-supers",
+    "name": "Tabela de Valores de Atributos",
+    "category": "table_generator",
+    "source": "anime-rpg-powers",
+    "page": 42,
+    "entries": ["Tabela de referencia para atributos, carga, bonus, IP natural e velocidade em Anime RPG - Powers."],
+    "tags": ["tabela", "atributos", "supers"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "tabela-de-armas-supers",
+    "name": "Tabela de Armas",
+    "category": "table_generator",
+    "source": "anime-rpg-powers",
+    "page": 43,
+    "entries": ["Tabela de armas com dano, penalidade, ROF, pente e observacoes em Anime RPG - Powers."],
+    "tags": ["tabela", "armas", "supers"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  }
+]

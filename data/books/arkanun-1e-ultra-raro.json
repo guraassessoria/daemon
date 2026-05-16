@@ -1,0 +1,447 @@
+{
+  "source": "arkanun-1e-ultra-raro",
+  "title": "Arkanun-1e-ultra-raro",
+  "status": "full-read-auto-pass-1",
+  "pages": 80,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "core_rule",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "arkanun-1e-ultra-raro-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "pa o e e q [ê) (99) E [e] (6) E fo) fa) (o) o) o N o) = = jm)",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-arranun-2",
+      "name": "ARRANUN",
+      "category": "setting_lore",
+      "pages": [
+        2
+      ],
+      "summary": "ARRANUN Marcelo Del Debbio Digitalizado com CamScanner",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-editor-executivo-3",
+      "name": "Editor Executivo",
+      "category": "race_lineage",
+      "pages": [
+        3
+      ],
+      "summary": "Editor Executivo Ruy Pereira Direção de Arte Roberto Avelino Coordenação Gráfica Alvaro Corrêa Editoração Eletrônica Armando S. Pereira Rosilene de Andrade Scanner Ari Nelson Corrêa Supervisão Marcelo Cassaro Revisão Hebe Ester Lucas Impressão e acabamento Editora Parma Ltda. Todos os direitos reservados Trama Editorial Ltda. Rua Prof. Filadelfo Azevedo, 383...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-introducao-4",
+      "name": "INTRODUÇÃO",
+      "category": "creature_npc",
+      "pages": [
+        4
+      ],
+      "summary": "INTRODUÇÃO Olá, RPGista. Depois de Defensores de Tóquio, a DRAGÃO BRASIL tem o prazer de anunciar ARKA- NUN, mais uma edição es- pecial da revista, com um novo sistema de RPG me- * dieval para você. Até aí tudo bem, existem muitos ..; RPGs medievais no merca- do. O que faz de ARKA- NUN algo tão especial? Seu conceito, em primei- ro lugar. Alguns de vocês já...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-sumario-5",
+      "name": "SUMÁRIO",
+      "category": "attribute_skill",
+      "pages": [
+        5
+      ],
+      "summary": "SUMÁRIO O quet REGA... cerserenteatinvase no fico dino cos cre VAR Mas osnoa0 cogu p08 0 ES Sua 6 Um Exemplo de Jogo A História de ARKANUN Conceitos Básicos ............. se seessemaserrererseeereneerearerereeeereaera H Atributos Básicos.............emeentcsstecasttsserersios eecaneigea ss eniisesvesênácavo I4 Criação de Personagens ...... PERÍCIAS cesso dsc...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-caritulo-6",
+      "name": "CaríTULO",
+      "category": "race_lineage",
+      "pages": [
+        6
+      ],
+      "summary": "CaríTULO O QUE E RPG? ara jogar AR- KANUN, além deste livro, você vai precisar de mais algum material: aqueles dados estranhos com muitos lados (4, 6, 8 e TO faces), lá- pis e papel. Pode também usar materiais opcionais, como mi- niaturas, velas, candelabros, toalhas, capas, música de fun- do e outras coisas para dar cli- ma. Não há tabuleiro, nem console de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-um-exemplo-de-jogo-7",
+      "name": "UM EXEMPLO DE JOGO",
+      "category": "creature_npc",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "EO UM EXEMPLO DE JOGO ohan, Meggie, Susan e Stephen são um grupo de investigadores que reuniram-se para pro- curar a tumba de Dragnokk, um fa- moso mago, que as lendas dizem ter desaparecido em 1317. Johan encon- trou por acaso. entre os livros de um grupo de Inquisidores, anotações que levavam a uma pequena biblioteca sob a igreja da vila de Southlore. Após...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-conceitos-11",
+      "name": "CONCEITOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "CONCEITOS BÁSICOS omo em qualquer jogo, é preciso , feras conhecer as regras e uma série de NA termos técnicos para jogar ARKANUN. No decorrer do livro, ou mesmo quando você estiver criando seu per- “ sonagem, utilizaremos termos com os quais tal- vez você não esteja familiarizado. Muitas pala- as e combates tam- vras usadas no sistema de mã bém são tratadas...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-atributos-basicos-14",
+      "name": "ATRIBUTOS BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "EO) ATRIBUTOS BÁSICOS RQ ada personagem de ÁS) ARKANUN tem NA atributos básicos. Cada Jogador, durante a criação de um personagem, começa 9 jogo com 100 pontos para distribuir entre seus atributos. Um atributo pode ter um valor mínimo de 3 e máximo de 18, sendo 110 valor médio. Osatributos são comparativos: um personagem com Força 14 é mais forte que um pers...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-determine-o-passado-do-17",
+      "name": "Determine o passado do",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          17,
+          22
+        ]
+      ],
+      "summary": "Determine o passado do personagem Imagine onde seu personagem nasceu, como era sua famí- lia, em que condições ele foi criado e educado, quais o fatos marcantes em sua vida, e como ele chegou onde está. Max Le Plik nasceu em um condado pobre ao norte da Escócia. Quando criança tornou-se muito amigo de Erick, o mago local, até que « Inquisição aparecesse por...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-adaga-sdias-23",
+      "name": "Adaga Sdias",
+      "category": "item_equipment",
+      "pages": [
+        23
+      ],
+      "summary": "Adaga Sdias Espada de 2 mãos 45 dias Besta leve 15 dias Flechas 10 por dia Besta pesada 20 dias Lança 20 dias Espada curta 20 dias Machado de Batalha IO dias Espada longa 30 dias Tridente 20 dias Artífice* Valor inicial: O Éa habilidade de trabalhar com um material específico. Pode-se construir ou consertar roupas, móveis, caixas, utensílios em geral, ferram...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-ciencias-proibidas-24",
+      "name": "Ciências Proibidas*",
+      "category": "creature_npc",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "Ciências Proibidas* Valor inicial: O A perícia sobre conhecimentos ocultos abrange uma diver- sidade de assuntos que devem ser escolhidos pelo jogador. Incluem conhecimentos sobre Arkanun, Infernun, Paradisia, Éden e Spiritun, bem como reconhecimento de possessões, encantamentos, rituais € outros. E claro que tais conhecimentos são terminantemente proibi- do...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-ler-e-escrever-26",
+      "name": "Ler e Escrever",
+      "category": "item_equipment",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "summary": "Ler e Escrever Valor inicial: Idioma/2 Lere escrever significa saber interpretar sinais gráficos em uma determinada língua. O Personagem deve saber falar e entender alíngua que deseja lere escrever. Escrit U a simples pode ser alcançada a partir de 25% é. Testes somente devem ser feitos se 0 personagem está tentando decifrar línguas antigas ou escreveruma ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-pericias-com-28",
+      "name": "Perícias com",
+      "category": "combat",
+      "pages": [
+        [
+          28,
+          29
+        ]
+      ],
+      "summary": "Perícias com Armas Faça seu movimento, garoto E cufareio meu... As perícias com armas funcionam de maneira muito semelhan- teàs perícias normais. O jogador define quantos pontos irá gastar com armas e divide a seu gosto. Às perícias com armas funcionam da seguinte maneira: na fi- cha de personagem temos o nome da arma seguido por dois núme- Tos separados por...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-m-arkanun-30",
+      "name": "m ARKANUN",
+      "category": "power_magic",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "summary": "m ARKANUN temos dois Li- pos básicos de magia: a magia proveniente dos caminhos de aprendizado. e a magia dos rituais. Através dos caminhos de aprendizado. os magos aprendem a controlar os ele- mentos que os rodeiam, mol- dando-os com sua força de vontade no momento que de- sejarem. As magias dos ritu- ais, ao invés disso, são mais poderosas e intrincadas. (...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-2-dragao-especial-32",
+      "name": "(2) DRAGÃO ESPECIAL",
+      "category": "creature_npc",
+      "pages": [
+        32
+      ],
+      "summary": "(2) DRAGÃO ESPECIAL Digitalizado com CamScanner",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-luz-33",
+      "name": "Luz",
+      "category": "creature_npc",
+      "pages": [
+        33
+      ],
+      "summary": "Luz Magia relacionada à luz e claridade, é também chama- da magia angelical. E claro que o corte perfeito e liso dos cristais e a força destrutiva dos trovões não podem ser chamados de angelicais, mas os magos devotados à luz possuem uma índo- le boa. Bem, quase todos A luz também é a força da ilusão, mas uma ilusão fantasmagórica, pois apesar das imagens po...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-vapor-agua-luz-34",
+      "name": "Vapor (água + luz)",
+      "category": "power_magic",
+      "pages": [
+        34
+      ],
+      "summary": "Vapor (água + luz) Este é 0 caminho que governa todas as formas de va- pores. Dos vapores quentes às brumas geladas, passando pelos vapores medicinais e curativos. Os magos que estudam o caminho dos vapores geralmente são alquimistas ou curandei- ros que procuram melhores formas de administrar suas poções. Magos que desejam uma aura de mistério ou pesquisa g...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-de-um-mesmo-grupo-podem-35",
+      "name": "de um mesmo grupo podem",
+      "category": "creature_npc",
+      "pages": [
+        35
+      ],
+      "summary": "de um mesmo grupo podem ter aprendido seus feitiços com mestres diferentes, em partes diferentes do mundo, e assim mesmo pertencerem à mesma linha. pois o mestre de seus mes- tres era 0 mesmo demônio. As linhas de magia na terra re- trocedem por alguns séculos, até in- variavelmente chegarem a algum ser de Arkanun, € então continuam re- trocedendo até um ser...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-s-pontos-de-aprimora-36",
+      "name": "s pontos de aprimora-",
+      "category": "creature_npc",
+      "pages": [
+        [
+          36,
+          40
+        ]
+      ],
+      "summary": "s pontos de aprimora- | mento são pontos que o jogador pode utili- zar para melhorar a história de seu personagem. Quan- do o personagem é criado, o joga- dor eo Mestre discutirão sobre quão nobre, poderoso ou rico o per- sonagem será. Os pontos de apri- moramento servem justamente para quantificar esse poder em relação aos outros jogadores. Cada jogador com...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-arkanun-41",
+      "name": "Arkanun",
+      "category": "setting_lore",
+      "pages": [
+        41
+      ],
+      "summary": "Arkanun Digitalizado com CamScanner",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-12-dragao-especial-42",
+      "name": "(12) DRAGÃO ESPECIAL",
+      "category": "core_rule",
+      "pages": [
+        [
+          42,
+          43
+        ]
+      ],
+      "summary": "7 ; ra comum, na Idade Média, os magos possuírem sim- Eis n bolos ou marcas para se identificarem. Tais símbolos A ficaram conhecidos como Runas. Em ARKANUN um mago precisa possuir uma Runa por diversos moti- vos. Primeiro, porque é um símbolo usado em muitos rituais c está intimamente ligado ao mago que o criou (os magos normal- mente tatuam as Runas em seu...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-testes-44",
+      "name": "Testes",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          44,
+          46
+        ]
+      ],
+      "summary": "Testes Quando você decide que seu personagem vai arremessar uma pedra na cabeça de um Inquisidor, é necessário um mecanismo para que o Mestre saiba se você acertou ou não, Este mecanismo chama-se teste. Em ARKANUN os personagens pos- suem 8 atributos básicos, com valores entre 3e 18 (ou mais é o chamado valor de atributo. O valor de teste em um atributo é ig...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-escuridao-completa-47",
+      "name": "Escuridão completa",
+      "category": "combat",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Escuridão completa Tentativa de arrancar Surpresa Ataque pelas cos Acerto Crítico Divida o valor de ataque por 4, arredondando para cima. Se vatacante conseguir em TÁTOO um resultado abaixo deste va- or. diz-se que ele conseguiu um acerto crítico. Qacerto crítico não acrescenta nada ao ataque, mas o dano éjogado DUAS vezes e somado (pense nisto como acertar...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-como-49",
+      "name": "Como) )",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "summary": "Como) ) EXPERIÊNCIA E APRENDIZADO g $4| seu personagem foi o único sobrevivente de uma aventura. Dos outros quatro personagens, 2 [ || morreram, um ficou louco, e O último acabou aprisionado em Arkanun para sempre. Em um RPG Q A) de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os [ST A) jogadores que resistiram br...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-nha-eta-51",
+      "name": "Nha Eta",
+      "category": "setting_lore",
+      "pages": [
+        51
+      ],
+      "summary": "Nha Eta DO MESTRE RAN N",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-ente-imaginar-um-mundo-po-52",
+      "name": "ente imaginar um mundo po-",
+      "category": "creature_npc",
+      "pages": [
+        [
+          52,
+          58
+        ]
+      ],
+      "summary": "ente imaginar um mundo po- voado por criaturas de pesa- delos. Um mundo flamejan- te, onde rios de magma e flo- restas de fogo misturam-se a imensas re- giões cobertas de um gelo escuro como carvão. Imagine torres com centenas de metros de altura, habitadas por criaturas aladas semelhantes a morcegos do ta- manho de um homem. Imagine seres mágicos com garras...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-v-rituais-59",
+      "name": "v RITUAIS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          59,
+          63
+        ]
+      ],
+      "summary": "v RITUAIS tém dos caminhos da aprendizado, um mago também pode se utilizar de rituais para aumentar seu poder. Rituais são magias específicas, mais poderosas, pas- sadas de mestre para aprendiz através de livros de Para memorizar um ritual o mago deve estudá-lo e a seus cedimentos até que à técnica mágica seja aprendida. O mago, astão, ficará com O ritual me...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-capitulo-9-64",
+      "name": "Capítulo 9).",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          64,
+          66
+        ]
+      ],
+      "summary": "Ao final desse tempo, o mago retirará o braço do interior deteriorado da vítima, e o braço sempre voltará com sinais de Arkanun (consulte à tabela de sinais de Arkanun, no Capítulo 9). Ressurreição em Outro Corpo Este ritual permite ao mago trazer uma pessoa de volta à vida. Deve ser feito no máximo | mês por ponto de Força de Vontade da pessoa após a sua mo...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-bruxas-67",
+      "name": "Bruxas",
+      "category": "power_magic",
+      "pages": [
+        67
+      ],
+      "summary": "Bruxas CON 3d-4d Número de Ataques: | FR 3d-dd Índice de Proteção: Variado DEX 3d AGI 34 adaga Ritualista: 40/40 Danos: Id4+1 + Bônus INTO 3446 : WILL 3d CAR 4d Pontos de M Variados di 4d Caminhos: Variados (Vs 15-25 Rituais: Variados J Durante à Idade Média existia uma enorme gama de pesso- &S que a Inquisição julgava serem bruxas. Segundo a pi qualquer mul...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-demonios-68",
+      "name": "Demônios",
+      "category": "kit_class",
+      "pages": [
+        [
+          68,
+          69
+        ]
+      ],
+      "summary": "Demônios Demônio é o nome genérico usado para designar qual- quer criatura não catalogada pela Igreja. O fato é que muitos deles possuíam escamas, espinhos. dentes afiados e garras, bem como asas de morcego, rabos ou outros adereços reconhecíveis nos livros de mitologia. Demônios nada mais são do que os seres extraplanares de Arkanun que porventura estejam n...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-e-mn-70",
+      "name": "e mn",
+      "category": "creature_npc",
+      "pages": [
+        [
+          70,
+          71
+        ]
+      ],
+      "summary": "e mn Demônios tipo VI, ou Bestas de Bolgardan CON Sd+6 Número de Ataques: 2 FR 5d+6 Índice de Proteção: 9 DEX 4d+6 AGI O 4d Garras: 70/55 Dano: 2d6 + bônus INTO 3d+4 WILL 4d CAR 2d Pontos de Magi: PER 4d+6 Caminhos: tre PVs 40-50 Rituais: 3 ou mais Armas mágicas: Uma +2 ou +3 80% de chance de 244 demônios tipo | 50% de chance de Id4 demônios tipo Iou HI ) De...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-elementais-72",
+      "name": "Elementais",
+      "category": "combat",
+      "pages": [
+        [
+          72,
+          73
+        ]
+      ],
+      "summary": "Elementais CON Variável Número de Ataques: | FR Variável Índice de Proteção: Variável DEX Variável AGI Variável INTO WILL. Variável CAR Variável PER Variável Caminhos: apenas seu caminho de origem PVYs 30-40 “A esta classe pertencem os espíritos conhecidos em todas as nações por assombrar as florestas, as montanhas e as ca- taratas. Os elementais são geralme...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-dragao-especial-74",
+      "name": "DRAGÃO ESPECIAL",
+      "category": "power_magic",
+      "pages": [
+        74
+      ],
+      "summary": "DRAGÃO ESPECIAL Os vampiros são. talvez, os mais conhecidos mons- tros da história dos RPGs. Existem dezenas de defi- nições e explicações para seus poderes, desde a que conta a historia dos descendentes de Caim até a lenda do guerreiro que matou seu irmão pelo amor de uma mulher, e foi condenado pelos poderes negros de uma dimensão à per- manecer para sempr...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-5-fesrimno-75",
+      "name": "5 fesrimno(() )",
+      "category": "race_lineage",
+      "pages": [
+        75
+      ],
+      "summary": "5 fesrimno(() ) AS ESCOLAS DE MAGIA ste capítulo des- creve apenas al- gumas das seitas, irmandades e es- . colas de magia que existiram na Idade Média. O Mestre pode adicionar ou suprimir qualquer seita que achar necessário. Existem outras seitas menores, ordens de alquimistas, seitas para diversos tipos de demôni- os, ordens elementais, e até mesmo clãs de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-a-seita-de-luvithy-76",
+      "name": "A seita de Luvithy",
+      "category": "combat",
+      "pages": [
+        [
+          76,
+          77
+        ]
+      ],
+      "summary": "A seita de Luvithy — Você está preparado para receber a benção de Luvithy, a deusa da morte, meu filho ? — Sim, responde o jovem Khallid, firmemente. Nos últimos três meses nada mais tem feito a não ser treinar, estudar e rezar. Suas mãos estão feridas pelo uso das estranhas armas da seita. Sua mente parece mais forte, mais sábia, devido ao tempo entre os li...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro-caritulo-78",
+      "name": "CaríTULO",
+      "category": "creature_npc",
+      "pages": [
+        [
+          78,
+          80
+        ]
+      ],
+      "summary": "CaríTULO OB DEIAS PARA AVENTURA Si vis pacem, para bellum (Se desejas a paz, prepara-te para a guerra) Em ARKANUN as possibilidades de conflitos são quase infi- nitas, Por ser um mundo onde diversas forças antagônicas estão reunidas, confrontos entre elas passam a ser inevitáveis. Indica- mos neste capítulo apenas algumas idéias de conflitos, que podem ser a...",
+      "entityRefs": []
+    }
+  ]
+}

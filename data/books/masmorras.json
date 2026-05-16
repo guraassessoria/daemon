@@ -1,0 +1,24 @@
+{
+  "source": "masmorras",
+  "title": "Masmorras",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "core_rule",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "masmorras-castelo-voador-sneerra-1",
+      "name": "Castelo voador Sneerra",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Castelo voador Sneerra Lá existe três Dungeons ainda não exploradas: As fundações possuem cerca de 10 baus de tesouro de 1 a 2 tesouros, de 3 a 4 nada, 5 a 7 ataques de criaturas, 8 a 10 armadilhas. Cada bau deve ser rolado para determinar se é um tesouro ou uma armadilha, os tesouros ou armadilhas são rolados em 1D3 para determinar o que tem no baú. Para en...",
+      "entityRefs": []
+    }
+  ]
+}

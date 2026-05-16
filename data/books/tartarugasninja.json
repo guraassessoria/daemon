@@ -1,0 +1,50 @@
+{
+  "source": "tartarugasninja",
+  "title": "tartarugasninja",
+  "status": "full-read-auto-pass-1",
+  "pages": 9,
+  "primaryCategories": [
+    "combat",
+    "kit_class",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "tartarugasninja-diagramacao-takezomusashi-hotmail-com-1",
+      "name": "diagramação: takezomusashi@hotmail.com",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "diagramação: takezomusashi@hotmail.com",
+      "entityRefs": []
+    },
+    {
+      "id": "tartarugasninja-a-origem-das-tartarugas-ninja-2",
+      "name": "A Origem das Tartarugas Ninja",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "A Origem das Tartarugas Ninja Na luta minha jaula foi quebrada, eu estava livre... mas meu mestre acabou sendo morto. Eu vagava pela cidade, vivendo em meio ao lixo e sujeira das ruas. Então num dia enquanto procurava uma lata de lixo para minha próxima refeição, presenciei um acidente. Um cego, já de idade, quase foi atropelado por um grande caminhão. Na úl...",
+      "entityRefs": []
+    },
+    {
+      "id": "tartarugasninja-net-book-tartarugas-ninja-5",
+      "name": "Net-Book Tartarugas Ninja",
+      "category": "combat",
+      "pages": [
+        [
+          5,
+          9
+        ]
+      ],
+      "summary": "Net-Book Tartarugas Ninja 5 Tartaruga Mutante Com este aprimoramento o personagem é uma tartaruga mutante, como são as Tartarugas Ninjas. Seja qual for sua origem, contato com radiação, experimento, nova raça, doença, ritual místico, etc... Mas lembre-se, elas não nascem ninjas, as quatro Tartarugas Ninjas sofreram muito em seus treinamentos para chegar onde...",
+      "entityRefs": []
+    }
+  ]
+}

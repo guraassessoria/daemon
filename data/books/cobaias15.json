@@ -1,0 +1,37 @@
+{
+  "source": "cobaias15",
+  "title": "cobaias15",
+  "status": "full-read-auto-pass-1",
+  "pages": 22,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "cobaias15-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1 1",
+      "entityRefs": []
+    },
+    {
+      "id": "cobaias15-novos-aprimoramentos-2",
+      "name": "NOVOS APRIMORAMENTOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          22
+        ]
+      ],
+      "summary": "2 2 NOVOS APRIMORAMENTOS Identidade secreta (1 ponto) - Não existem fotos, registros ou documentos do Personagem arquivados em nenhum projeto governamental ou corporativo. De alguma forma sua existência foi apagada dos arquivos - talvez seja um agente à serviço de uma organização ou um belo sortudo, talvez tenha sido abduzido por aliens e dado como morto, vi...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "poder",
+  "title": "poder",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "core_rule",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "poder-poder-1",
+      "name": "Poder",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Poder Por George Bin laden As verdades do universo não estão ao primeiro olhar;elas de escondem nas profundezas da sabedoria e do conhecimento.Esta é uma frase curiosa;eu sempre pensei que tudo o que eu via,tinha sentido;eu pensava que o sistema que o homem criou era útil e eficaz;pensava que o homem tinha total domínio sobre a sua história;eu pensava que o...",
+      "entityRefs": []
+    }
+  ]
+}

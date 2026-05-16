@@ -1,0 +1,106 @@
+{
+  "source": "onmyodo",
+  "title": "Onmyodo",
+  "status": "full-read-auto-pass-1",
+  "pages": 29,
+  "primaryCategories": [
+    "core_rule",
+    "power_magic",
+    "kit_class",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "onmyodo-trevas-do-1",
+      "name": "Trevas do",
+      "category": "setting_lore",
+      "pages": [
+        1
+      ],
+      "summary": "Trevas do Oriente ONMYODO HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "category": "race_lineage",
+      "pages": [
+        2
+      ],
+      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-as-primeiras-licoes-4",
+      "name": "As primeiras lições...",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "As primeiras lições... Venha minha criança, sente-se à minha frente. Você já tem idade para saber o que se passa nestes muros, dentro destes portões, e espero que você entenda o que vou te falar agora. Recorda-se das vezes quando que você acordava no meio da noite e escutava os sons dos cantos das espadas praticando sua grande missão? Ótimo, você recorda des...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-segundo-michael-saso-onmyodo-significa-5",
+      "name": "Segundo Michael Saso, Onmyodo significa",
+      "category": "power_magic",
+      "pages": [
+        [
+          5,
+          15
+        ]
+      ],
+      "summary": "Segundo Michael Saso, Onmyodo significa “Caminho do Yin e Yang”. De acordo com seus praticantes, a arte do Onmyodo consiste em manipular as forças do Yin e do Yang, e também as forças dos Cinco Elementos (embora mais a frente será explicado que não são somente 5 elementos) sempre de modo a obrigar estas forças a tornarem real a vontade do Onmyoji, o Mago. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-muito-debatido-pelos-estarrecidos-magos-16",
+      "name": "Muito debatido pelos estarrecidos Magos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          16,
+          22
+        ]
+      ],
+      "summary": "Muito debatido pelos estarrecidos Magos ocidentais, o Caminho Metal é considerado um simples desvio do Caminho Terra, fora da Ásia. Já no Oriente, o Metal adquire uma conotação muito mais intensa e ampla. Ele é a perfeição do movimento, a certeza de uma trilha, a resistência aliada à agilidade. Do metal são fabricadas as moedas de valor comercial, mas também...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-nevoa-agua-ar-23",
+      "name": "Névoa (Água + Ar)",
+      "category": "power_magic",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "summary": "Névoa (Água + Ar) O nevoeiro esconde grandes mistérios e ameaças, como abismos e outros obstáculos. Os Magos das Névoas sabem muito bem utilizar o próprio ar à volta para se esconderem das vistas. Solidificando a névoa a ponto de torná-la tangível apenas por ele, o Mago pode atingir locais antes impossíveis (Criar Névoa 1), ou então ele próprio tornar-se név...",
+      "entityRefs": []
+    },
+    {
+      "id": "onmyodo-cristais-luz-terra-26",
+      "name": "Cristais (Luz + Terra)",
+      "category": "race_lineage",
+      "pages": [
+        [
+          26,
+          29
+        ]
+      ],
+      "summary": "Cristais (Luz + Terra) Os Magos orientais consideram os deuses na natureza como artistas, e talvez os cristais sejam a obra-prima dos deuses da terra. Seja fornecendo lâminas capazes de separar moléculas (Criar Cristais 3) ou tornando os ossos da vítima frágeis como copos de cristal (Controlar Cristais 5), eles ainda são responsáveis pelo Ch’iu Muh, a jóia p...",
+      "entityRefs": []
+    }
+  ]
+}

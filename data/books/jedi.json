@@ -1,0 +1,47 @@
+{
+  "source": "jedi",
+  "title": "jedi",
+  "status": "full-read-auto-pass-1",
+  "pages": 36,
+  "primaryCategories": [
+    "power_magic",
+    "attribute_skill",
+    "character_option",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "jedi-guilherme-obi-wan-pereira-1",
+      "name": "Guilherme “Obi-Wan“ Pereira",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1 Guilherme “Obi-Wan“ Pereira Daniel “Chewie“ Janning STAR WARS Flavio “Spider-Neo“ Araújo",
+      "entityRefs": []
+    },
+    {
+      "id": "jedi-introducao-2",
+      "name": "INTRODUÇÃO",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "2 INTRODUÇÃO HÁ 25 ANOS ATRÁS... Star Wars estreou sem alarde em algumas dezenas de salas dos EUA, e aos poucos foi se transformando num fenômeno. Enquanto “Guerra nas Estrelas - Uma Nova Esperança” arrebentava nas bilheterias e na imaginação de toda uma geração, o publico descobria um nome ao qual agradeceria por resgatar a emoção que eles haviam perdido, o...",
+      "entityRefs": []
+    },
+    {
+      "id": "jedi-uma-nova-esperanca-3",
+      "name": "UMA NOVA ESPERANÇA",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          36
+        ]
+      ],
+      "summary": "3 UMA NOVA ESPERANÇA Um pedido de socorro faz ressurgir um antigo Jedi e inicia uma saga sem precedentes. “Ajude-me Obiwan Kennobi. Você é minha ultima esperança!” O destino levou essas palavras de desesperada angustia da princesa Leia até Luke Skywalker. Numa época de Guerra Civil, espaçonaves da Aliança Rebelde sofrem uma derrota contra o temível Império G...",
+      "entityRefs": []
+    }
+  ]
+}

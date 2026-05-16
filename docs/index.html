@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Daemon Tools</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Daemon Tools</p>
+        <h1>Catalogo Daemon/Trevas</h1>
+      </div>
+      <div class="metrics" id="metrics" aria-live="polite"></div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar" aria-label="Areas">
+        <div class="sidebar-header">
+          <h2>Areas</h2>
+          <button class="icon-button" id="refreshButton" type="button" title="Recarregar dados" aria-label="Recarregar dados">
+            &#8635;
+          </button>
+        </div>
+        <nav class="area-list" id="areaList"></nav>
+      </aside>
+
+      <section class="workspace">
+        <div class="toolbar">
+          <label class="search">
+            <span>Buscar</span>
+            <input id="searchInput" type="search" placeholder="Nome, fonte, resumo ou tag">
+          </label>
+          <label class="select">
+            <span>Tipo</span>
+            <select id="typeFilter">
+              <option value="all">Tudo</option>
+              <option value="entities">Entidades</option>
+              <option value="sourceParts">Partes dos livros</option>
+            </select>
+          </label>
+          <label class="select">
+            <span>Categoria</span>
+            <select id="categoryFilter">
+              <option value="all">Todas</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="area-overview" id="areaOverview"></div>
+        <div class="results-head">
+          <h2 id="resultsTitle">Itens</h2>
+          <span id="resultsCount"></span>
+        </div>
+        <div class="results" id="results"></div>
+      </section>
+    </main>
+
+    <template id="areaButtonTemplate">
+      <button class="area-button" type="button">
+        <span class="area-name"></span>
+        <span class="area-count"></span>
+      </button>
+    </template>
+
+    <template id="itemTemplate">
+      <article class="item-card">
+        <div class="item-topline">
+          <span class="pill item-kind"></span>
+          <span class="muted item-source"></span>
+        </div>
+        <h3></h3>
+        <p class="summary"></p>
+        <dl class="item-meta">
+          <div>
+            <dt>Categoria</dt>
+            <dd class="item-category"></dd>
+          </div>
+          <div>
+            <dt>Pagina</dt>
+            <dd class="item-page"></dd>
+          </div>
+          <div>
+            <dt>Confianca</dt>
+            <dd class="item-confidence"></dd>
+          </div>
+        </dl>
+        <div class="tags"></div>
+      </article>
+    </template>
+
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>

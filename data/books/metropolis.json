@@ -1,0 +1,80 @@
+{
+  "source": "metropolis",
+  "title": "metropolis",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "ritual_spell",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "metropolis-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1",
+      "entityRefs": []
+    },
+    {
+      "id": "metropolis-metropolis-2",
+      "name": "METROPOLIS",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "2 METROPOLIS Em uma das civilizações com as quais o povo judeu entrou em contato - a dos babilônicos - havia um mito sobre a origem do mundo. Este mito, que ficou conhecido como Epopéia da Criação, diz como o mundo foi criado a partir das profundezas primordiais. O foco da história é a luta entre os deuses da luz e os poderes das trevas. Bel Meridath, o deus...",
+      "entityRefs": []
+    },
+    {
+      "id": "metropolis-a-cidade-3",
+      "name": "A CIDADE",
+      "category": "creature_npc",
+      "pages": [
+        3
+      ],
+      "summary": "3 A CIDADE Em Paradísia, Metrópolis é uma das cinco cidades prin- cipais existentes naquele plano, disputando espaço com a Ci- dade de Prata, Aasgard, Plympus e Katmaran. Seus habitantes são os medonhos anjos Keepers (Keepers of Leviathan, no ori- ginal), que residem entre ruínas de cidades futuristas e monu- mentos gregos. Metrópolis é assim mesmo: uma mist...",
+      "entityRefs": []
+    },
+    {
+      "id": "metropolis-os-anjos-de-metropolis-4",
+      "name": "OS ANJOS DE METRÓPOLIS",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "4 OS ANJOS DE METRÓPOLIS Além dos Keepers, a cidade também é habitada por cria- turas muito parecidas com humanos. Eles são idênticos aos humanos em todos os aspectos, pois Paradísia nada mais é do que um espelho da realidade dos outros planos. Os KEEPERS, por sua vez, são os verdadeiros guardiões de Metrópolis e principalmente do Fosso, bem como os cons- tr...",
+      "entityRefs": []
+    },
+    {
+      "id": "metropolis-pinhead-6",
+      "name": "PINHEAD",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "6 PINHEAD FR 25, CON 25, DEX 18, AGI 17 INT 30, WILL 25, PER 18, CAR 15 Cenobita com mais de 3000 anos # Ataques [3], IP 10, PVs 75+50. Regenera 2 PVs por rodada. Perícias Principais: Manipulação (Sedução 75%, Lideran- ça 75%, Tortura 155%, Lábia 125%), Artes (Atuação 75%), Ci- ências (Antropologia 50%, História da Terra 75%, Teologia 50%), Ciências Proibida...",
+      "entityRefs": []
+    },
+    {
+      "id": "metropolis-construindo-personagens-7",
+      "name": "CONSTRUÍNDO PERSONAGENS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "7 CONSTRUÍNDO PERSONAGENS Normalmente, seres de Metrópolis não devem ser usados como Personagens dos jogadores, pois eles desempenham muito melhor o papel de NPCs. Entretanto, para aqueles que anseiam jogarem com estes Anjos, vamos auxiliá-los a criar um personagem. Os filmes de Hellraiser apresentam muito bem o tipo de com- portamento usual dos habitantes d...",
+      "entityRefs": []
+    }
+  ]
+}

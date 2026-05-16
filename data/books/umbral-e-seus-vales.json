@@ -1,0 +1,96 @@
+{
+  "source": "umbral-e-seus-vales",
+  "title": "Umbral e seus vales",
+  "status": "full-read-auto-pass-1",
+  "pages": 19,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "power_magic",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "umbral-e-seus-vales-grupo-neodaemon-apresenta-1",
+      "name": "Grupo Neodaemon apresenta",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Grupo Neodaemon apresenta: Agradecimentos: • Ao melhor grupo de rpg que existe. • Aos nossos pais. • Ao Leandro Marlon (ele sabe porque...) • Ao Shaftiel pela paciência... • As nossas namoradas pela compreensão e dedicação constante. Introduzindo... Não precisa usar sempre o Inferno para aterrorizar seus jogadores, agora uma nova saída, O Umbral. Desejamos c...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-consideracoes-importantes-2",
+      "name": "Considerações Importantes",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "Considerações Importantes Conhecendo o Umbral “Após longo tempo cruzando grandes distâncias espirituais através dos poderes recém- adquiridos de volitação espiritual, surgia em nossas vistas uma região menos bela. O firmamento cobria-se de nuvens espessas e trovões, além disto, algo nos impedia a fácil volitação. A atmosfera começara a pesar muitíssimo e dec...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-as-localidades-umbralinas-5",
+      "name": "As localidades Umbralinas",
+      "category": "creature_npc",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "As localidades Umbralinas Templo do Desespero As brumas espirituais cercavam o local completamente, o mais profundo silêncio, que reinava absoluto, era deveras mais incômodo do que qualquer som ouvido na crosta (Terra). Nestas regiões de Spiritum a simples visão de determinadas paisagens, poderia corromper as mentes dos seres comuns, não preparados a enfrent...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-nivel-2-7",
+      "name": "Nível 2",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          7,
+          13
+        ]
+      ],
+      "summary": "Nível 2 Tortura dos espinhos - O sofrimento começa a se manifestar. Os pecados cometidos pela vítima tornam-se um peso para a mesma que começa a senti-los como dores por todo corpo. Recebe uma vez por dia dano de 1d6 cada vez que falhar em teste de Wil. Toda vez que reincidir no mesmo pecado deve fazer mais um teste, além do primeiro para não receber mais 1d...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-pactos-e-exigencias-14",
+      "name": "Pactos e exigências",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Pactos e exigências Realizar pactos é uma tarefa deveras perigosa, ainda mais em situações de desespero. A imensa maioria dos negociantes possui largas habilidades e conhecimento da mente de seus clientes através de uma simples análise. Portanto é realmente complicado conseguir meios de uma troca segura em um pacto. Citaremos aqui algumas sugestões interessa...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-npcs-umbralinos-15",
+      "name": "Npc’s Umbralinos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          15,
+          18
+        ]
+      ],
+      "summary": "Npc’s Umbralinos Quando nas regiões se explora as regiões umbralinas, até mesmo o mais valoroso dos guerreiros pode sentir medo. As piores criaturas enfrentadas aqui, se alimentam de seus medos e o pior, sabe fazer você senti-lo. Em geral, magos pouco poderosos deveriam se manter afastados das regiões umbralinas ou seriam presas fáceis. Os inimigos apresenta...",
+      "entityRefs": []
+    },
+    {
+      "id": "umbral-e-seus-vales-consideracoes-finais-19",
+      "name": "Considerações finais",
+      "category": "setting_lore",
+      "pages": [
+        19
+      ],
+      "summary": "Considerações finais Chegamos assim ao final de mais um material. Este material é apenas uma mostra de quão vasto é o Umbral, e se tornaria por demais fatigante, para não dizer impossível, mapeá-lo. De qualquer forma, passamos aqui algumas idéias para que você, narrador, desenvolva suas próprias histórias, locais e afins. Como sempre nosso objetivo é compart...",
+      "entityRefs": []
+    }
+  ]
+}

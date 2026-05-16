@@ -1,0 +1,140 @@
+{
+  "source": "assassinos-orientais",
+  "title": "Assassinos Orientais",
+  "status": "full-read-auto-pass-1",
+  "pages": 14,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "core_rule",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "assassinos-orientais-assassinos-orientais-1",
+      "name": "Assassinos Orientais",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Assassinos Orientais \u0003\u0003\u0003\u0003\u0003 SRU\u00036KLQREL \u0003 \u0003",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-judghflphqwrv-2",
+      "name": "\u0003\u0003\u0003\u0003$JUDGHFLPHQWRV\u0003",
+      "category": "kit_class",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "\u0003\u0003\u0003\u0003$JUDGHFLPHQWRV\u0003 - A Deus por permitir que eu nascesse. - A Marcelo Del Debbio por ter criado este fantástico sistema. - Ao Sebo que permitiu que eu comprasse alguns livros por um preço bem razoável. Quem desejar falar comigo para dar sua opinião sobre o net-book, esclarecer alguma dúvida ou simplesmente falar sobre RPG, é só me adicionar: ICQ: 303168698...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-ninja-4",
+      "name": "Ninja",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "Ninja Ninja Custo: 4pts. de aprimoramento, 370 pts. de Perícia. Perícias: escolha três armas orientais 20/20, Escapismo 20%, Armadilhas 20%, Herbalismo 30%, Camuflagem 40%, Esportes (Arremesso30%*, Acrobacia 20%, Alpinismo 30%, Salto 20%), Furtividade 40%, Fechaduras 20%, Escutar 20%, subterfúgio 30%, disfarces 20%, Manipulação (Intimidação 20%, Hipnose 20%)...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-ninja-5",
+      "name": "NINJA",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "NINJA NINJA -TO TO A Espada era uma das armas essências dos antigos guerreiros ninjas, a ninja-to é muito versátil para ataques, defesas, escaladas, abordagens e tudo o que a criatividade do ninja permitir. Note que a lâmina da espada era reta, diferentemente da lâmina da maioria das espadas orientais. Isso era para que o movimento golpe da espada não produz...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-tonfa-6",
+      "name": "TONFA",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "TONFA TONFA Assim como o nunchaku, a tonfa a princípio não era uma arma. Ela nada mais era do que a manivela dos poços de água e dos moinhos de trigo. Quando os yamabushis estavam em perigo e desarmados essas manivelas eram removidas e utilizadas para a defesa. Assim foram desenvolvidas várias técnicas de ataque e defesa com esta “arma”. É uma arma de curto...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-kogatana-7",
+      "name": "KOGATANA",
+      "category": "combat",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "KOGATANA KOGATANA A kogatana nada mais é do que a nossa conhecida faca, era muito utilizada por ninjas. Embora sejam armas simples, tornam-se armas poderosas nas mãos destes assassinos. A Faca é utilizada para ataque, defesa e abordagens. Pode até ser lançada contra o oponente, transformando-se em um instrumento de arremesso. O ninja camufla-se para ficar es...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-arco-e-flecha-9",
+      "name": "ARCO E FLECHA",
+      "category": "combat",
+      "pages": [
+        9
+      ],
+      "summary": "ARCO E FLECHA ARCO E FLECHA Os ninjas utilizavam o arco e as flechas para diversas finalidades, pois o arco não é só uma arma e sim um excelente instrumento de caça. Portanto para sua própria sobrevivência na mata, ele utilizava as flechas para caçar animais e pássaros, e também para pescar. As flechas são mortais e silenciosas, e podem ser lançadas de grand...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-equipamentos-10",
+      "name": "EQUIPAMENTOS",
+      "category": "item_equipment",
+      "pages": [
+        10
+      ],
+      "summary": "EQUIPAMENTOS EQUIPAMENTOS Logo a seguir estarão listados alguns utensílios que também eram muito utilizados por ninjas, mas não como armas e sim como ferramentas de trabalho. SHUKO SHUKO Shuko é um equipamento simples, porém muito útil. Consiste em uma tira de couro resistente que tem suas pontas juntadas de forma a ficar como uma espécie de luva. È muito se...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-tetsubishi-11",
+      "name": "TETSUBISHI",
+      "category": "item_equipment",
+      "pages": [
+        11
+      ],
+      "summary": "TETSUBISHI TETSUBISHI Os Tetsubishis são conhecidos também como pés de galinha, são pequenos objetos metálicos e pontiagudos projetados de modo que quando lançados ao solo sempre fiquem com pelo menos uma ponta para cima. Quando os ninjas estavam em fuga eles soltavam os tetsubishis no caminho, caso alguém pise ali terá seu pé perfurado algumas vezes, recebe...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-ninjitsu-12",
+      "name": "Ninjitsu",
+      "category": "kit_class",
+      "pages": [
+        12
+      ],
+      "summary": "Ninjitsu Ninjitsu Como se originou: Durante a longa guerra civil que durou até o final do século XVI, algumas famílias eram proibidas de portar armas, então desenvolveram técnicas marciais para se proteger. Foram forçados a praticar seus conhecimentos ninjas em segredo, nas montanhas e florestas. Essas famílias guerreiras treinavam suas habilidades em harmon...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-surpresa-13",
+      "name": "SURPRESA",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "SURPRESA SURPRESA Certamente esta é a melhor e mais efetiva arma que um ninja possui... A surpresa. Quando um inimigo é surpreendido ele perde parte de sua força de ataque, pois ele não esperava este acontecimento. A surpresa é a base das batalhas e guerras. De nada vale um grande exercito bem equipado se eles pretendem apenas empunhar a espada e correr na d...",
+      "entityRefs": []
+    },
+    {
+      "id": "assassinos-orientais-pericias-e-manobras-de-combate-14",
+      "name": "Perícias e manobras de combate",
+      "category": "combat",
+      "pages": [
+        14
+      ],
+      "summary": "Perícias e manobras de combate Luta com duas armas (50): O Personagem é capaz de lutar com duas armas, desde que sejam do mesmo tipo e uma delas seja menor do que a outra. Para usar cada arma, é feito o teste individualmente. Luta às cegas (40): Capacidade de lutar sem enxergar,o que inclui olhos vendados e cegueira. Refém (30): O personagem conhece técnicas...",
+      "entityRefs": []
+    }
+  ]
+}

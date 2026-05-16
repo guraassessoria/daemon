@@ -1,0 +1,84 @@
+{
+  "source": "spawn",
+  "title": "Spawn",
+  "status": "full-read-auto-pass-1",
+  "pages": 7,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "attribute_skill",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "spawn-anjos-demonios-e-vampiros-1",
+      "name": "Anjos, Demônios e Vampiros).",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Criado por Todd McFarlane, Spawn tornou-se rapidamente o personagem de quadrinhos mais vendido nos Estados Unidos, e mais tarde também se tornaria um sucesso de vendas aqui no Brasil. A DRAGÃO BRASIL traz com exclusividade para vocês todo o background de SPAWN para uso em Arkanun, Invasão, Trevas, Anjos, Demônios e Vampiros). O COMEÇO DO COMEÇO A história do...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-o-terceiro-dos-tres-2",
+      "name": "O TERCEIRO DOS TRÊS",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "O TERCEIRO DOS TRÊS De 2.500AC a 2.000 AC, a Terra encontrava-se governada pelos deuses Gregos, Egípcios, Assírios e Babilônicos. Neste período, Baal era o deus da fertilidade e da criação entre os Mesopotâmicos, Zebub era o deus escaravelho (semelhante ao deus escaravelho egípcio Khepera); Dagon era um deus marítimo aliado de Poseidon no controle dos mares...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-spawn-medieval-3",
+      "name": "SPAWN MEDIEVAL",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "SPAWN MEDIEVAL Em 1180, Gerard Lacoaste foi escolhido Hellspawn por Malebolge. Gerard pertenceu aos primeiros Cavaleiros Templários, e teve sua morte premeditada por um membro muito poderoso da Ordem Mármore, chamado Jeramiah Aziz, durante o final das primeiras Cruzadas. Gerard desceu aos Infernos, e Malebolge ofereceu-lhe a chance de redenção. Servir aos In...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-sam-twitch-4",
+      "name": "SAM & TWITCH",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "SAM & TWITCH Sam e Twitch são os dois detetives de Nova York encarregados de investigar as mortes suspeitas que aconteciam no beco, provocadas por Al Simmons quando chegou à Terra. Sam e Twitch estão na força policial há 14 anos, e conhecem muito bem todas as manhas de investigação e perseguição de criminosos. Podem ser usados em campanha como Personagens, o...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-cagliostro-5",
+      "name": "CAGLIOSTRO",
+      "category": "power_magic",
+      "pages": [
+        5
+      ],
+      "summary": "CAGLIOSTRO Cagliostro é um Mago das Sombras do sexto grau. Nascido em 1749, foi Grão- Mestre da maçonaria Egípcia e durante muito tempo praticou a magia na Itália, até ser preso e condenado à prisão perpétua pelo Vaticano, em 1791. Conseguiu escapar, forjando sua morte com o auxílio dos magos das Sombras, que o recrutaram devido ao seu vasto conhecimento sob...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-tony-twist-6",
+      "name": "TONY TWIST",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "TONY TWIST Filho de uma das mais tradicionais famílias mafiosas na Sicília, Antony Twistelli é conhecido dentro do submundo como Tony Twist. Herdou de seu falecido pai os negócios da família e mudou-se para NT. Hoje, Tony é o chefe da Máfia na Cidade de Nova York, e um dos doze mais poderosos mafiosos da América. Responsável por grandes sindicatos de crime o...",
+      "entityRefs": []
+    },
+    {
+      "id": "spawn-violador-7",
+      "name": "VIOLADOR",
+      "category": "attribute_skill",
+      "pages": [
+        7
+      ],
+      "summary": "VIOLADOR O demônio conhecido como Violador nasceu em 500 AC na província de Helakell, em Arkanun. Desde cedo se tornou um guerreiro muito poderoso em sua tribo, até que foi destruído em um combate com um general demônio de Luvithy. Chegando ao Inferno, mostrou grande competência em suas habilidades de combate, tortura e estratégia, e chamou a atenção de Male...",
+      "entityRefs": []
+    }
+  ]
+}

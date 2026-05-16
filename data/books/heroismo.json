@@ -1,0 +1,40 @@
+{
+  "source": "heroismo",
+  "title": "Heroísmo",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "heroismo-heroismo-1",
+      "name": "Heroísmo",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Heroísmo O material encontrado a seguir tem sido desenvolvido já faz alguns meses, como parte de um cenário de fantasia que eu estava criando para o Sistema Daemon. Uma das premissas do cenário é o fato de que ele seria baseado mais na ação humana mundana do que em qualquer tipo de presença sobrenatural - em outras palavras, seria um cenário em que um guerre...",
+      "entityRefs": []
+    },
+    {
+      "id": "heroismo-concede-los-a-qualquer-npc-encontrado-3",
+      "name": "concedê-los a qualquer NPC encontrado",
+      "category": "core_rule",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "concedê-los a qualquer NPC encontrado na aventura. E, se decidir utilizar as regras propostas aqui, também estes NPCs poderão utilizar Pontos Heróicos desta forma. É claro que, mesmo em uma campanha heróica, nem todos os NPCs precisam ter Pontos Heróicos. Isso pode ser uma boa forma de diferenciar os personagens secundários daqueles mais importantes: capanga...",
+      "entityRefs": []
+    }
+  ]
+}

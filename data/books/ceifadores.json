@@ -1,0 +1,103 @@
+{
+  "source": "ceifadores",
+  "title": "ceifadores",
+  "status": "full-read-auto-pass-1",
+  "pages": 18,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "adventure",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "ceifadores-os-ceifadores-de-leen-1",
+      "name": "OS CEIFADORES DE LEEN",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "OS CEIFADORES DE LEEN Bruno Garrido",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-a-ordem-das-foices-cruzadas-2",
+      "name": "A ORDEM DAS FOICES CRUZADAS —",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "A ORDEM DAS FOICES CRUZADAS — OS CEIFADORES DE LEEN Aviso: O conteúdo deste texto não é recomendável para pessoas sensíveis ou menores de 18 anos, pois este pode parecer-lhes agressivo ou incômodo. O objetivo da criação deste material é tornar as partidas de RPG mais interessantes, e não fazer apologia ao satanismo, cultos profanos de qualquer espécie ou a t...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-introducao-3",
+      "name": "Introdução",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          5
+        ]
+      ],
+      "summary": "Introdução Em Arton, existem diversas ordens religiosas conhecidas. A maioria delas é fundada em nome de deuses com boa índole e com ideais louváveis (justiça, amor, vida, nobreza etc). O mais cultuado destes é Khalmyr, o deus da justiça e da maioria dos paladinos. Em sua homenagem, foram constituídas as mais importantes ordens de cavaleiros do continente: A...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-todos-6",
+      "name": "todos.",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "todos. Baleyk utilizou a mesma tática contra Hassler, mas por um descuido foi descoberto por seu pior inimigo. Ambos começaram uma luta sangrenta. Hassler, mesmo fraco por causa do ferimento anterior, mostrou-se um adversário difícil para Baleyk. No final, porém, o ex- aprendiz de paladino superou o adversário, e aplicou-lhe um golpe certeiro no centro do pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-bonita-jovem-e-virgem-7",
+      "name": "bonita, jovem e virgem.",
+      "category": "setting_lore",
+      "pages": [
+        [
+          7,
+          12
+        ]
+      ],
+      "summary": "bonita, jovem e virgem. Baleyk encontrava-se em uma situação difícil. Depois de muitas dúvidas, decidiu aceitar a sugestão de Khael e sacrificar seu único amor. A dor em matá-la seria bem menor do que a dor de vê-la nos braços de outro. Além disso, a morte de Amanda seria para uma causa muito importante. O jovem assassino voltou a Lisburry para executar o pl...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-khael-yorkaih-lider-espiritual-13",
+      "name": "Khael Yorkaih, Líder Espiritual",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Khael Yorkaih, Líder Espiritual O sacerdote Khael Yorkaih tem o respeito de todos os Ceifadores de Leen, especialmente do pupilo Baleyk Ledewik, seu primeiro e mais valoroso discípulo. Além de ministrar os cultos e principais rituais em homenagem a Leen, dentre outros serviços típicos de clérigos, ele é o conselheiro espiritual da ordem. É constantemente pro...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-erishae-a-succubus-14",
+      "name": "Erishae, a succubus",
+      "category": "power_magic",
+      "pages": [
+        [
+          14,
+          17
+        ]
+      ],
+      "summary": "Erishae, a succubus A origem mais provável deste demônio são as profundezas de Deathok, a morada de Leen. Erishae foi designada pelo próprio deus da morte para auxiliar o guerreiro Baleyk Ledewik concedendo-lhe alguns benefícios especiais. No entanto, esta disposição em servir o guerreiro não surgiu de bom grado. Conta-se que Erishae violou pactos importante...",
+      "entityRefs": []
+    },
+    {
+      "id": "ceifadores-rumores-e-boatos-18",
+      "name": "Rumores e Boatos",
+      "category": "power_magic",
+      "pages": [
+        18
+      ],
+      "summary": "Rumores e Boatos • Alguns Ceifadores costumam dizer que o relacionamento entre Baleyk e a succubus Erishae é mais próximo que se imagina. Especula-se que os dois sejam amantes e que Erishae esteja grávida. • Com os sacrifícios de Baleyk, Erishae pretende reunir energia o suficiente para livrar- se de uma maldição. Ela não poderia ficar mais do que algumas ho...",
+      "entityRefs": []
+    }
+  ]
+}

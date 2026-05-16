@@ -1,0 +1,70 @@
+{
+  "source": "armamedieval",
+  "title": "armamedieval",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "armamedieval-armas-armaduras-1",
+      "name": "Armas, Armaduras &",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Armas, Armaduras & Escudos Por Lobo de Diamante",
+      "entityRefs": []
+    },
+    {
+      "id": "armamedieval-atencao-2",
+      "name": "Atenção!",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois o mesmo foi feito para livre download. Tudo relatado aqui é ficcional, trate tudo aqui como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um maior divertimento, logo, as informações aqui não expressam a realidade, apesar de tentar...",
+      "entityRefs": []
+    },
+    {
+      "id": "armamedieval-armas-armaduras-escudos-3",
+      "name": "Armas, Armaduras & Escudos",
+      "category": "combat",
+      "pages": [
+        3
+      ],
+      "summary": "Armas, Armaduras & Escudos Introdução Existe pouca coisa nas regras oficiais da Daemon no que tange os escudos, por isso este net-book irá, inicialmente, explica-los detalhadamente. Em seguida, serão mostradas diversas regras para durabilidade, criação e restauração de armas, armaduras e escudos. Essas regras aumentam consideravelmente a quantidade de número...",
+      "entityRefs": []
+    },
+    {
+      "id": "armamedieval-valores-de-ataque-no-escudo-4",
+      "name": "Valores de Ataque no Escudo",
+      "category": "combat",
+      "pages": [
+        [
+          4,
+          8
+        ]
+      ],
+      "summary": "Valores de Ataque no Escudo Normalmente, os escudos são dados pela fórmula 0/X, mas não é impossível comprar valores de Ataque em escudo, para isso, assume-se que o Personagem treinou manobras de ataque com o escudo também (usá-lo para bloquear um oponente, bater com ele na cara do adversário, etc...) O dano causado pelo impacto de um escudo é de 1d3 (madeir...",
+      "entityRefs": []
+    },
+    {
+      "id": "armamedieval-escudo-medio-com-1-efeito-9",
+      "name": "Escudo Médio com 1 Efeito",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Escudo Médio com 1 Efeito 2,0 Pontos de Itens Mágicos: Arma Pequena com 3 Efeitos Arma Média com 2 Efeitos Arma Grande (dano máximo superior a 2d6) com 1 Efeito Armadura Leve (IP igual ou menor a 2) com 1 Efeito Escudo Pequeno com 3 Efeitos Escudo Médio com 2 Efeitos Escudo Grande com 1 Efeito 3,0 Pontos de Itens Mágicos: Arma Pequena com 4 Efeitos Arma Médi...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source": "artes-marciais",
+  "title": "Artes Marciais",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "power_magic",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "artes-marciais-novas-pericias-para-artes-marciais-1",
+      "name": "Novas Perícias para Artes Marciais",
+      "category": "combat",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "1 Novas Perícias para Artes Marciais By Carlos “Eriol” Eduardo. Apresento aqui novas manobras de combate para deixar mais realístico (ou quase) os combates de artes marciais. Lógico que para poder comprar uma destas perícias o personagem tem que ter no mínimo 30% em qualquer arte marcial. Também precisará de um mestre para poder ensina-las (como no caso da m...",
+      "entityRefs": []
+    }
+  ]
+}

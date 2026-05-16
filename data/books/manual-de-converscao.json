@@ -1,0 +1,211 @@
+{
+  "source": "manual-de-converscao",
+  "title": "Manual de Conversção",
+  "status": "full-read-auto-pass-1",
+  "pages": 34,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "kit_class",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "manual-de-converscao-revolucao-uma-nova-maneira-de-jogar-tormenta-daemon-1",
+      "name": "\"Revolução, Uma nova maneira de jogar Tormenta Daemon",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "\"Revolução, Uma nova maneira de jogar Tormenta Daemon: Mais Magia, Mais Fantasia – Muitos netbooks em um!\" Em primeiro lugar, peço desculpas pela correria, mas são muitas idéias e pouco tempo para escrevê-las. Capítulo I: Editorial ou \"Tentando me explicar\" Foi recentemente publicado nas revistas Tormenta e Dragão Brasil que futuros suplementos de Tormenta s...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-2-pericias-3",
+      "name": "2-) Perícias",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "2-) Perícias Terminadas as correções nos atributos, podemos calcular as perícias das personagens: Em D20, para testar uma perícia, rola-se 1d20 + Bônus de perícia e compara-se com o Nível de Dificuldade pré estabelecido. Essa dificuldade varia geralmente entre 10 (quando está tudo ao seu favor) até 40 (quase impossível). O padrão é 20. Note que quando está t...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-capitulo-iv-conversao-de-pericias-4",
+      "name": "Capítulo IV: Conversão de Perícias",
+      "category": "item_equipment",
+      "pages": [
+        4
+      ],
+      "summary": "Capítulo IV: Conversão de Perícias D&D Daemon Abrir Fechaduras Manipulação de Fechaduras (0) Acrobacia Acrobacia (Agi) Adestrar Animais Treinamento de Animais (0) Alquimia Alquimia (0) Arte da Fuga Escapismo (Agi) Atuação Atuação (Car) Avaliação Avaliação de Objetos (Per) Blefar Lábia (Car/Manha) Cavalgar Montaria (Agi) Concentração ------------------ Conhec...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-novas-pericias-5",
+      "name": "Novas Perícias",
+      "category": "combat",
+      "pages": [
+        [
+          5,
+          10
+        ]
+      ],
+      "summary": "Novas Perícias Animais Empatia com Animais (Car): É como empatia, mas funciona com animais ao invés de humanóides Esportes Escalar (Agi): Serve para subir em montanhas, árvores e muros Artes Imitar (Int) : Capacidade de imitar sotaques, pessoas, sons e vozes. Arremesso (Dex): Esta perícia permite ao presonagem arremessar objetos em geral. É também valor inic...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-capitulo-vi-muuuuita-magia-11",
+      "name": "Capítulo VI: MUUUUITA Magia",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "desaparecer para sempre, você sofre o redutor PERMANENTEMENTE. Se quiser, você pode ter mais de um Protegido - mas isso aumenta seus riscos: caso eles estejam em perigo ao mesmo tempo, os redutores serão acumulados. Restrição de Magia É o aprimoramento \"Restrição de Magia\" (vide Tormenta 3E, página 51) Vulnerabilidade: (-2 Magia, -1outros) ignora o IP do alv...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-banf-13",
+      "name": "Banf!",
+      "category": "power_magic",
+      "pages": [
+        13
+      ],
+      "summary": "Banf! Bola de fogo (Bola de Fogo) A Bola de Fogo de Questor O Canto da Sereia - com Artes Chuva Quente Conhecer Direção (Conhecer Direção) Conjurar Criatura Extraplanar Conjurar Objetos O Crânio Voador de Vladislav Cura Para Mortos Desvio de Disparos Enxame de Trovões A Erupção de Aleph Explosão Fascinação Fazer Dever de Casa Fechadura Ferrões Venenosos Fest...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-sussurro-da-ninfa-14",
+      "name": "Sussurro da Ninfa",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "Sussurro da Ninfa Teleportação Teleportação Avançada A Teleportação Infalível de Vectorius Terremoto Terreno Escorregadio de Neo Transformação em Pudim de Ameixa Twilight Simphony Verificar Dever de Casa Visão do Passado Voz dos Ventos Lista de Magias Comuns (70) Podem ser usadas por todos Os nomes entre parêntesis são os nomes dos poderes psíquicos equivale...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-invocacao-do-dragao-15",
+      "name": "Invocação do Dragão",
+      "category": "power_magic",
+      "pages": [
+        15
+      ],
+      "summary": "Invocação do Dragão Invocação do Elemental Invocação da Fênix Invulnerabilidade Leitura de Auras A Loucura de Atavus Luz (entra em criar elemento) Megalon Mentir Mikron Monstros do Pântano Nobre Montaria Pacto com a Serpente Permanência Perda de Sentidos Praga de Kobolds Proteção Mágica* Proteção contra o elemento* Sanidade O Soco de Arsenal Sopro de Tenebra...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-cura-sagrada-16",
+      "name": "Cura Sagrada",
+      "category": "power_magic",
+      "pages": [
+        16
+      ],
+      "summary": "Cura Sagrada Descanso Empatia Esconjuro de Mortos Vivos Explosão de Azgher Fortalecer Magia Intensidade Lágrimas de Hyninn Paralisia A Pedra no Meio do Caminho Perigo! (Sensação de Perigo, Intuição) Prontidão Remover Possessão Ressurreição Retardar Envenenamento O Sacrifício do Herói Toque da Dor Lista de Magias para Telepatas (21) Exigem Telepatia ou Poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-custo-padrao-17",
+      "name": "Custo: Padrão",
+      "category": "core_rule",
+      "pages": [
+        [
+          17,
+          20
+        ]
+      ],
+      "summary": "Custo: Padrão Alcance: Apenas ao toque Tudo se torna mais fácil com os deuses (ou pelo menos um deles) do seu lado. Ao realizar esta magia, o clérigo pede ao(s) seu(s) deus(es) para ajudarem o alvo em sua próxima tarefa. O alvo recebe um bônus de +1 no próximo teste que fizer, seja ele um ataque, perícia, teste de resistência, etc. Esta magia NÃO é cumulativ...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-alcance-padrao-21",
+      "name": "Alcance: Padrão",
+      "category": "core_rule",
+      "pages": [
+        21
+      ],
+      "summary": "Alcance: Padrão Duração: Permanente Custo: Especial (veja abaixo) Esta magia é a maior prova de amor que um Mago pode fazer a uma pessoa. Num momento de desespero e perigo fatal iminente o Mago pode abdicar da sua vida para proteger sua amada. Todas as forças deste se concentram até o ponto em que a própria alma do mago se liberta do corpo e viaja o mundo in...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-custo-padrao-22",
+      "name": "Custo: Padrão",
+      "category": "core_rule",
+      "pages": [
+        [
+          22,
+          25
+        ]
+      ],
+      "summary": "Custo: Padrão Alcance: Apenas ao toque Este terrível poder causa um envelhecimento ou rejuvenescimento instantâneo no alvo do mago. O mago deve tocar a vitima e esta deve fazer um teste de CON. Se falhar, terá sua idade duplicada ou regredida em 10 anos! Existe uma poção capaz de reverter os efeitos dessa magia e/ou garantir sucesso automático em um teste de...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-limpeza-26",
+      "name": "Limpeza",
+      "category": "core_rule",
+      "pages": [
+        [
+          26,
+          27
+        ]
+      ],
+      "summary": "Limpeza Exigências: 3D&T: Água 1, Ar 1, Aptidão Mágica; Daemon: A. Mágica, Controlar Água 1, Ar 1 Duração: Instantânea Custo: 0 Alcance: Padrão A magia também pode ser utilizada para coisas simples, com varrer, lavar, limpar. Em poucos instantes, um aposento ou área livre de até 50 metros quadrados fica clara e perfumada, pronta para novo uso. Esta magia tam...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-porta-astral-28",
+      "name": "Porta Astral",
+      "category": "power_magic",
+      "pages": [
+        28
+      ],
+      "summary": "Porta Astral Exigências: 3D&T: Aptidão Mágica, Focus 6 em dois caminhos; Daemon: Criar Metamagia 4; Psi: Psicoportação 4 Custo: Padrão Duração: Sustentável Alcance: Padrão O mago pode criar uma porta para outro local (dentro do alcance do poder) do tamanho suficiente para uma pessoa passar. Presença da Natureza Exigências: 3D&T: Água, Ar, Clericato; Daemon:...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-alcance-padrao-29",
+      "name": "Alcance: Padrão",
+      "category": "core_rule",
+      "pages": [
+        [
+          29,
+          30
+        ]
+      ],
+      "summary": "Alcance: Padrão O mago pode exorcizar espíritos que estão possuindo um corpo físico. Proceda da mesma forma que o poder banir (o espírito não será realmente banido, apenas sairá do corpo do possuído) Retardar Envenenamento Exigências: 3D&T: Luz ou Água 1, Clericato; Daemon: Controlar Água ou Luz 1, Clericato; Psi: Força Vital 2 Duração: Instantânea Custo: Pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-transferencia-conhecimento-31",
+      "name": "Transferência Conhecimento",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          31,
+          32
+        ]
+      ],
+      "summary": "Transferência Conhecimento Exigências: 3D&T: Telepatia, Perícia (ou especialização) a ser \"emprestada\"; Daemon: Entender Humanos 3; Psi: Telepatia 3 Custo: 1 PM Alcance: Apenas ao toque Duração: Instantânea Alguns telepatas tem a capacidade de despertar o conhecimento (ou inserí-lo) na cabeça dos outros. O alvo pode, a partir desse momento, usar tal conhecim...",
+      "entityRefs": []
+    },
+    {
+      "id": "manual-de-converscao-capitulo-vii-pontos-heroicos-e-misticos-33",
+      "name": "Capítulo VII: Pontos Heróicos e Místicos",
+      "category": "core_rule",
+      "pages": [
+        [
+          33,
+          34
+        ]
+      ],
+      "summary": "mais elevados em Ar permitem uma área de efeito maior, e não há limites de quantidade de som ampliada magicamente. Na prática, é uma magia que aumenta o volume do som (a intensidade da onda sonora). Capítulo VII: Pontos Heróicos e Místicos Uma vez arrumadas as magias, vamos formalizar certas coisas: Pontos Heróicos: Assume-se que personagens possuem pontos h...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "source": "deform",
+  "title": "deform",
+  "status": "full-read-auto-pass-1",
+  "pages": 14,
+  "primaryCategories": [
+    "power_magic",
+    "item_equipment",
+    "combat",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "deform-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-deformacoes-2",
+      "name": "DEFORMAÇÕES",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "2 DEFORMAÇÕES (com contribuições indispensáveis de Marcelo del Debbio, José Paulo “LennonZ” e João “Azrael”) By Lamazuus No GRIMÓRIO 1ª Edição existia uma regra muito interessante para personagens Magos: o uso dos poderes mágicos começava a cobrar um preço a ponto de gerar mutações no próprio corpo do Mago, tornan- do-o cada mais parecido com os habitantes d...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-terra-4",
+      "name": "TERRA",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "4 TERRA 1-2 Cabeça 1- Os cabelos do Mago tornam-se acinzentados (cor do mármore) ou castanho-forte (cor da terra), e tendem a tornarem-se curto e duros, ou compridos e “em blocos” como se não fossem lavados há muito tempo. 2- O mago desenvolve uma espécie de “caspa”, só que composta de poeira e pedrinhas, que caem constantemente de seus cabelos. 3- O couro c...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-fogo-5",
+      "name": "FOGO",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "5 FOGO 1-2 Cabeça 1- O cabelo do Mago atinge uma coloração avermelhada, como o cobre, com pequenas mechas da cor natural do cabelo que parecem oscilar como uma fogueira. Às vezes, dá a impressão de brilhar fracamente no escuro. 2- O cabelo do Mago tende a ficar de pé, em uma forma que lembra uma fogueira e é impossível de pentear. Com o tempo, o cabelo torna...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-agua-6",
+      "name": "ÁGUA",
+      "category": "attribute_skill",
+      "pages": [
+        6
+      ],
+      "summary": "6 ÁGUA 1-2 Cabeça 1- Os cabelos crescem assustadoramente, chegando até quase a cintura. São pretos ou escuros, com tons azulados. Quando o Mago se move, ou quando o vento sopra com força suficiente para movê-los, os cabelos parecem formar ondas. 2- Os cabelos parecem estar sempre molhados, não importa quanto o Mago enxugue. 3- O Mago freqüentemente sente-se...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-luz-7",
+      "name": "LUZ",
+      "category": "kit_class",
+      "pages": [
+        7
+      ],
+      "summary": "7 LUZ 1-2 Cabeça 1- Os cabelos do Mago tendem a tornarem-se brancos, lisos, compridos e brilhantes. 2- Os cabelos e demais pêlos do corpo do Mago passam a ter uma pequena aura luminescente, que pode vir a tornar o Mago visível no escuro (somente a silhueta do Mago é visível). Um observador viria uma sala escura, com uma sombra envolta em uma aura de luz frac...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-trevas-8",
+      "name": "TREVAS",
+      "category": "race_lineage",
+      "pages": [
+        8
+      ],
+      "summary": "8 TREVAS 1-2 Cabeça 1- Os cabelos do Mago tornam-se cada vez mais negros e escuros, chegando a mesclarem-se, como se os fios fossem feitos de sombras. Algumas mechas ainda escapam, tendendo a cair sobre a testa do Mago. 2- Os cabelos do Mago crescem e tornam-se lisos e negros mesclados como se fossem realmente constituídos com sombras. O cabelo do Mago també...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-plantas-9",
+      "name": "PLANTAS",
+      "category": "kit_class",
+      "pages": [
+        9
+      ],
+      "summary": "9 PLANTAS 1-2 Cabeça 1- Entre os cabelos do mago começam a aparecer folhas e galhos de árvores de pequeno porte, como se este tivesse deitado na grama por algum tempo. 2- Os cabelos tornam-se verdes como de um psicodélico, ou ainda ficam parecidos com raízes de plantas. 3- Nas orelhas do Mago, pequenos galhos brotam e folhinhas surgem em suas extremidades. 3...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-animais-10",
+      "name": "ANIMAIS",
+      "category": "kit_class",
+      "pages": [
+        10
+      ],
+      "summary": "1 0 ANIMAIS O caminho Animalia é um caso especial. As mudanças irão ocorrer relacionadas com os outros Caminhos do personagem: répteis (Fogo), peixes (Água), mamíferos (Terra) e aves (Ar); Assim, você encontrará as mudanças possíveis segundo estes animais e abrevi- ados, respectivamente, como [r], [p], [m] e [a]. No caso de um personagem possuir mais de um d...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-humanos-11",
+      "name": "HUMANOS",
+      "category": "power_magic",
+      "pages": [
+        11
+      ],
+      "summary": "1 1 HUMANOS 1-2 Cabeça 1- Seu cabelo muda de tonalidade a cada mês. Essas alterações são imprevisíveis, como do loiro para o ruivo, do castanho- escuro para o loiro, etc. 2- Como no nível anterior, porém as alterações ocorrem diariamente. 3- As feições do Mago sofrem alterações. Seu nariz fica mais comprido ou mais largo, suas orelhas ficam maiores, seus olh...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-spiritum-12",
+      "name": "SPIRITUM",
+      "category": "core_rule",
+      "pages": [
+        12
+      ],
+      "summary": "1 2 SPIRITUM 1-2 Cabeça 1- Os cabelos do Mago tornam-se grisalhos até, gradativamente, atingirem o branco total. 2- Agora atingem uma tonalidade quase prateada, chegando a dar a impressão que refletem a luminosidade do ambiente onde o Mago se encontra. 3- Os cabelos do Mago passam a realmente refletir a luz do ambiente, como se fosse uma superfície espelhada...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-arkanun-13",
+      "name": "ARKANUN",
+      "category": "race_lineage",
+      "pages": [
+        13
+      ],
+      "summary": "1 3 ARKANUN 1-2 Cabeça 1- Pequenos (geralmente dois) chifres surgem na testa ou nas têmporas do personagem. Porém podem ser facilmente ocultáveis por um chapéu, capuz, etc. 2- Os chifres crescem até o tamanho e um chifre bovino (fica mais difícil não ser chamado de corno). 3- Os dentes tornam-se curvos como os de um tubarão, ou pontudos e afiados como os de...",
+      "entityRefs": []
+    },
+    {
+      "id": "deform-metamagia-14",
+      "name": "METAMAGIA",
+      "category": "power_magic",
+      "pages": [
+        14
+      ],
+      "summary": "1 4 METAMAGIA 1-2 Cabeça 1- Os cabelos do mago atingem tonalidades cada vez mais loiras, até tornarem-se dourados. 2- Uma auréola astral surge sobre a cabeça do personagem, que só é visível em ambientes escuros. Em ambientes iluminados isso não será problema, porém quando faltar luz... 3- Os lábios e sobrancelhas do Mago parecem estar permanentemente revesti...",
+      "entityRefs": []
+    }
+  ]
+}

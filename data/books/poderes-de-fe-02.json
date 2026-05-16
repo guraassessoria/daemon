@@ -1,0 +1,136 @@
+{
+  "source": "poderes-de-fe-02",
+  "title": "poderes de fe 02",
+  "status": "full-read-auto-pass-1",
+  "pages": 22,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "poderes-de-fe-02-2a-edicao-1",
+      "name": "2ª Edição",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "2ª Edição Bruno Garrido PODERES DA FÉ — 2ª EDIÇÃO Introdução Esta é a segunda edição do guia de milagres lançado em julho de 2002 no site da Editora Daemon. A proposta inicial deste trabalho era oferecer material de apoio para os jogadores de Tormenta 3E. No entanto, pelo que pude notar, ele também foi bem recebido por jogadores de outros cenários que também...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-aprimoramento-pontos-de-fe-3",
+      "name": "APRIMORAMENTO - PONTOS DE FÉ",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "APRIMORAMENTO - PONTOS DE FÉ Em termos de jogo, a Fé representa os pequenos milagres que um personagem dedicado pode alcançar através da devoção a uma entidade. Qualquer divindade maior de Arton — assim como as várias divindades menores deste mundo — pode conceder estes pequenos milagres a seus adoradores. Este aprimoramento é obrigatório para personagens cl...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-lista-de-poderes-4",
+      "name": "LISTA DE PODERES",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "LISTA DE PODERES Abençoar Arma, Armadura ou Escudo Este poder é muito comum entre clérigos e paladinos combativos. Ele confere um bônus de +1 no IP de armaduras e escudos tocados pelo devoto, além de um bônus de 5% nas jogadas de defesa com estes itens. Quando utilizado em armas, este milagre confere um bônus de 5% nas jogadas de ataque e +1 nos danos. Estes...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-este-poder-5",
+      "name": "Este poder",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "Este poder é semelhante ao Disfarce Ilusório, possuído pelos devotos de Hyninn, deus da trapaça. Contudo, o clérigo assume a aparência de um animal ou monstro que conheça. Ao gasto de 1 Ponto de Fé, esta habilidade funciona por 2d6 rodadas. Outras pessoas e também animais podem ser alvos deste poder, caso o clérigo as toque. Esta habilidade só pode ser utili...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-arremessar-6",
+      "name": "arremessar",
+      "category": "item_equipment",
+      "pages": [
+        [
+          6,
+          12
+        ]
+      ],
+      "summary": "arremessar uma arma que esteja empunhando a até 5 metros de distância e fazer ela retornar às suas mãos, ao gasto de 1 Ponto de Fé. Distâncias maiores podem ser alcançadas mediante o gasto de mais Pontos de Fé. Para acertar seu alvo, o personagem deve fazer um teste da perícia com a arma correspondente. Clérigos de Tauron consideram o uso deste poder como um...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-maioria-13",
+      "name": "maioria",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          16
+        ]
+      ],
+      "summary": "maioria dos servos dos deuses, especialmente aqueles que combatem mortos-vivos. A maior parte dos paladinos aprende este poder ainda durante o seu treinamento. Esconjuro de Criaturas Com este milagre, o clérigo pode afastar um certo tipo de criatura de sua vista. Para executá-lo, ele precisa gastar 1 Ponto de Fé e empunhar na direção do alvo algum tipo de ob...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-a-forma-reversa-desta-habilidade-17",
+      "name": "A forma reversa desta habilidade,",
+      "category": "combat",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "A forma reversa desta habilidade, chamada Perda de Poder, reduz um ponto nos atributos citados acima de um alvo. Ele pode evitar o efeito com um teste bem- sucedido de WILL contra a WILL do clérigo. A Perda de Poder também pode ser utilizada mais de uma vez em um mesmo alvo, mas para reduzir o mesmo atributo. A duração deste milagre é igual à do Poder Divino...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-bestas-etc-19",
+      "name": "bestas etc).",
+      "category": "power_magic",
+      "pages": [
+        19
+      ],
+      "summary": "bestas etc). Para realizar o Santuário, o clérigo precisa gastar 1 Ponto de Fé. A aura protetora será quebrada caso o alvo faça algum tipo de ataque ou utilize mágicas que visem os oponentes, sejam elas ofensivas ou não. Se ele usar outros tipos de feitiços (mágicas de cura, por exemplo), o Santuário continuará ativo. Senso de Direção Este milagre simples pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-muito-20",
+      "name": "muito",
+      "category": "power_magic",
+      "pages": [
+        20
+      ],
+      "summary": "muito conveniente para clérigos e necromantes. Enquanto eles se encarregam dos procedimentos mais complexos de um ritual, o esqueleto fica a cargo de tarefas mais simples, porém importantes (como a seleção e o transporte de ingredientes). No entanto, o servo também é bem-vindo para a execução de serviços mais triviais - como limpar a casa do criador, procura...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-rapidamente-elas-precisariam-dormir-12-21",
+      "name": "rapidamente. Elas precisariam dormir 12",
+      "category": "power_magic",
+      "pages": [
+        21
+      ],
+      "summary": "rapidamente. Elas precisariam dormir 12 horas para recuperarem 1 PV com descanso, em vez de um dia completo. A duração dos vapores é de uma hora. Este milagre também é útil se combinado com curas mágicas ou perícias médicas. O personagem ganha +2 PVs quando for tratado com estes métodos de cura em um ambiente tomado pelos Vapores Medicinais. Vigor Este poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "poderes-de-fe-02-bibliografia-22",
+      "name": "BIBLIOGRAFIA",
+      "category": "power_magic",
+      "pages": [
+        22
+      ],
+      "summary": "BIBLIOGRAFIA: ALLSTON, Aaron. The Complete Priest's Handbook. TSR, 1994. COOK, David et al. Advanced Dungeons & Dragons 2nd Edition – Player's Handbook. TSR, 1989. _______________. Advanced Dungeons & Dragons 2nd Edition – Tome of Magic. 6.ed. TSR, 1995. JACKSON, Steve. GURPS Magia. São Paulo: Devir, 1993. KURTZ, Steve. The Complete Book of Necromancers. TSR...",
+      "entityRefs": []
+    }
+  ]
+}

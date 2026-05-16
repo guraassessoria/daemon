@@ -1,0 +1,89 @@
+{
+  "source": "sda-rpg",
+  "title": "sda_rpg",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 48,
+  "primaryCategories": [
+    "attribute_skill",
+    "character_option",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "sda-rpg-julio-cesar-da-silva-1-1",
+      "name": "Júlio César da Silva (1-10)",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "Júlio César da Silva 2a Edição O Senhor dos Anéis RPG 2 Editorial Este livro virtual (ou E-BOOK) foi escrito originalmente por Júlio César “Gandalf” da Silva para a Equipe Valinor e foi adapta- do para o RPG por Fabrício Botelho, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. As informações deste livro foram retiradas do...",
+      "entityRefs": []
+    },
+    {
+      "id": "sda-rpg-julio-cesar-da-silva-1-2",
+      "name": "Júlio César da Silva (11-20)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "1 1 Na maioria dos RPGs, os Jogadores são os únicos respon- sáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Persona- gens sejam construídos apenas pelo Mestre ou com grande participação deste, para haver uma coesão à história e o grupo. Você sabe, o Personagem não! Interpretar um papel é bem mais do...",
+      "entityRefs": []
+    },
+    {
+      "id": "sda-rpg-julio-cesar-da-silva-1-3",
+      "name": "Júlio César da Silva (21-30)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "2 1 Atributos Atributos são números que transportam para o jogo as ca- racterísticas básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, cri- aturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados pela Daem...",
+      "entityRefs": []
+    },
+    {
+      "id": "sda-rpg-julio-cesar-da-silva-1-4",
+      "name": "Júlio César da Silva (31-40)",
+      "category": "combat",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "3 1 Ataque pelas Costas Existem dois tipos de Ataque pelas Costas. A diferença é se a vítima está ou não ciente do ataque. Se estiver, aplique uma penalidade de metade na defesa, devido à dificuldade de ver o oponente. Se a vítima não pode ver o oponente, considere um ataque surpresa. Quando alguém faz este ataque, considere o ataque um Teste Fácil se a víti...",
+      "entityRefs": []
+    },
+    {
+      "id": "sda-rpg-julio-cesar-da-silva-1-5",
+      "name": "Júlio César da Silva (41-47)",
+      "category": "race_lineage",
+      "pages": [
+        [
+          41,
+          47
+        ]
+      ],
+      "summary": "4 1 Terra-média. Inimigos principais de todas as sociedades são mal vistos em todos os lugares. Seu símbolo é a coroa de Morgoth. As Crias de Laracna: Esta ordem não é bem uma sociedade secreta e sim um grupo de Orcs e criaturas menores que servem a Laracna. Suas principais atividades são a obtenção de comida e informações, em troca os seguidores recebem pro...",
+      "entityRefs": []
+    },
+    {
+      "id": "sda-rpg-atributos-48",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        48
+      ],
+      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
+      "entityRefs": []
+    }
+  ]
+}

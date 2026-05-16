@@ -1,0 +1,100 @@
+{
+  "source": "watchmen",
+  "title": "Watchmen",
+  "status": "full-read-auto-pass-1",
+  "pages": 25,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "watchmen-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-introducao-2",
+      "name": "INTRODUÇÃO",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "INTRODUÇÃO Watchmen surgiu de um pedido que Dick Giordano, editor da D.C., Comics fez a Alan Moore. A editora do Super-homem adquirira os direitos sobre os heróis da extinta Charlton Comics e a idéia era fazer uma minissérie em 12 partes com eles. Mas a proposta apresentada pelo roteirista era tão revolucionária que Giordano resolveu disassociá-la dos heróis...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-new-3",
+      "name": "NEW",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "NEW FRONTIERSMAN LINHA DE CORTE Quinta-feira, 26 de dezembro de 1985 MARGEM 50 cents Ano VII N° 55 NEW FRONTIERSMAN O \"ANTIGO\" CENÁRIO MUNDIAL EUA: Embora consolidada como grande potência mundial, o clima de guerra fria havia chegado a um ponto crítico com a instalação de ogivas nucleares russas em solo cubano em 1962, fato que quase desencadeou uma guerra n...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-linha-de-corte-5",
+      "name": "LINHA DE CORTE",
+      "category": "item_equipment",
+      "pages": [
+        5
+      ],
+      "summary": "LINHA DE CORTE MARGEM NEW FRONTIERSMAN NEW FRONTIERSMAN 3 FATORES QUE CONTRIBUÍRAM PARA A PAZ MUNDIAL O quadro é ater rador: a humanidade apresenta uma crescente decadência . relações externas em situação crítica, corrida armamentista desgovernada e caótica, crescimento desordenado da população mundial e um forte declínio ambiental. Todos estes fatores conve...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-a-verdade-por-tras-da-paz-6",
+      "name": "A VERDADE POR TRÁS DA PAZ",
+      "category": "creature_npc",
+      "pages": [
+        6
+      ],
+      "summary": "A VERDADE POR TRÁS DA PAZ MUNDIAL A trama de Watchmen começa com o assassinato do diplomata Edward Blake, que depois descobre-se ser o Comediante. Quem costura a história é o anti- herói Rorchach que descobrindo a identidade secreta de Blake se convence de um \"matador de mascarados e a partir desta hipótese a trama revela complexidades inesperadas. O idealiz...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-linha-de-corte-7",
+      "name": "LINHA DE CORTE",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          23
+        ]
+      ],
+      "summary": "LINHA DE CORTE MARGEM NEW FRONTIERSMAN NEW FRONTIERSMAN 5 teoria de Rorchach. As pistas os levam a investigar uma empresa, a Entregas Pirâmide, mas antes eles decidem falar com Veidt em sua empresa mas a encontram vazia. Coruja decide investigar nos computadores de Veidt e descobre que ele é o dono da Entregas Pirâmide. Eles se dirigem ao refúgio de Veidt, K...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-aprimoramentos-24",
+      "name": "Aprimoramentos",
+      "category": "attribute_skill",
+      "pages": [
+        24
+      ],
+      "summary": "Aprimoramentos Custo Atributos Valor Mod % Constituição (CON) Força (FR) Destreza (DEX) Agilidade (AGI) Inteligência (INT) Força de Vontade (WILL) Percepção (PER) Carisma (CAR) Anotações Gerais: Armadura: _________________________ Nome __________________________________ Identidade Secreta___________________ Data de Nascimento ___/___/___ Local de Nascimento...",
+      "entityRefs": []
+    },
+    {
+      "id": "watchmen-who-watches-25",
+      "name": "WHO WATCHES",
+      "category": "source",
+      "pages": [
+        25
+      ],
+      "summary": "WHO WATCHES THE WATCHMEN ?",
+      "entityRefs": []
+    }
+  ]
+}

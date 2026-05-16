@@ -1,0 +1,139 @@
+{
+  "source": "aprimoramentos-3",
+  "title": "Aprimoramentos 3",
+  "status": "full-read-auto-pass-1",
+  "pages": 20,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "attribute_skill",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "aprimoramentos-3-aprimoramentos-1",
+      "name": "Aprimoramentos",
+      "category": "character_option",
+      "pages": [
+        1
+      ],
+      "summary": "Aprimoramentos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens ou desvantagens em jogo. Aprimoramentos são adquiridos através do gasto de Pontos de Aprimoramentos. Esses pontos não podem simplesmente serem “gastos”, mas o Mestre e o Jogador precisam fazer t...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-infernalista-2",
+      "name": "Infernalista",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "Infernalista Bruxo das Sombras Detetive do Sobrenatural 1 ponto: o Personagem possui um faro para eventos e criaturas sobrenaturais. Toda vez que se deparar com uma situação que envolve ou envolveu intervenção de entidades sobrenaturais, ele pode faezr um teste de PER para notar a interferência do sobrenatural. Ele também possui um bônus de +20% em Investiga...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-2-pontos-submetralhadoras-carabinas-calibre-5",
+      "name": "2 pontos: submetralhadoras, carabinas calibre",
+      "category": "item_equipment",
+      "pages": [
+        5
+      ],
+      "summary": "2 pontos: submetralhadoras, carabinas calibre 12, armas automáticas ou reservadas. 3 pontos: metralhadoras pesadas, outras armas militares, armas pesadas. Contatos e Aliados Lembre-se que os aliados podem morrer com o passar do tempo (bom, até mesmo seres sobrenaturais podem morrer...). Quando isso ocorrer, assume-se que o Personagem conseguiu outro aliado n...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-importam-as-consequencias-6",
+      "name": "importam as conseqüências.",
+      "category": "creature_npc",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "importam as conseqüências. Fama Você é famoso por seus feitos entre as pessoas mortais, sendo uma figura de destaque na mídia, política, submundo ou algum outro tipo de ambiente mundano, onde todos reconhecem seu nome e ele é freqüentemente um dos assuntos preferidos do público. Este tipo de reputação reflete um melhor tratamento por parte dos NPCs, uma séri...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-uma-estacao-do-ano-8",
+      "name": "uma estação do ano.",
+      "category": "power_magic",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "uma estação do ano. 4 pontos: freqüente, durante o dia ou à noite. Canalizador Apenas para Personagens magos. O feiticeiro é capaz de conectar sua própria essência vital a seus Poderes Mágicos e, com isso, pode drenar energia mística de seu próprio corpo. Trata-se de uma habilidade mágica extremamente rara e perigosa, que freqüentemente leva à morte seu prat...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-aprimoramentos-10",
+      "name": "Aprimoramentos",
+      "category": "power_magic",
+      "pages": [
+        [
+          10,
+          14
+        ]
+      ],
+      "summary": "Aprimoramentos Sobrenaturais Afinidade com Almas 2 pontos: o Personagem possui algum tipo de afinidade com o Reino dos Mortos. Espíritos vêm em busca de ajuda, auxílio em alguma missão ou mesmo conforto. Qualquer espírito não hostil sempre terá uma atitude amigável em relação ao Personagem (embora sua aparência possa ser assustadora e amedrontar o médium). E...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-pos-apocaliptico-tenham-mudado-seus-genes-15",
+      "name": "pós-apocaliptico tenham mudado seus genes",
+      "category": "character_option",
+      "pages": [
+        15
+      ],
+      "summary": "pós-apocaliptico tenham mudado seus genes antes de seu nascimento ou talvez você tenha “mudado” depois de um acidente. O importante é que você desenvolveu poderes e agora é considerado um mutante. Para mais detalhes sobre o Aprimoramento Superpoderes e os poderes, consulte o capítulo Genética. Recomenda-se bastante discernimento para o narrador ao incluir se...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-ysea-16",
+      "name": "Ysea",
+      "category": "attribute_skill",
+      "pages": [
+        16
+      ],
+      "summary": "Ysea 4 pontos: o ritual africano de passagem para o Reino dos Sonhos. O Personagem é capaz de entrar naturalmente no Reino dos Sonhos durante seu sono, quando desejar. Ysea são os indivíduos que nascem com esta capacidade instintivamente. Uma vez dentro do Reino dos Sonhos, ele cria um “simulacro” de si mesmo, com os mesmos valores de sua ficha, com a difere...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-azarado-17",
+      "name": "Azarado",
+      "category": "character_option",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Azarado -1 ponto: as coisas dão errado para este Personagem com indesejável frequência. Uma vez por sessão de jogo, um de seus Testes terá o pior resultado, sem a necessidade de jogar os dados. Isso sempre acontecerá no pior momento possível (momento esse escolhido pelo Mestre). Canibal Vide Dependência. Cleptomaníaco -2 pontos: seu personagem PRECISA furtar...",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-gremlins-19",
+      "name": "Gremlins",
+      "category": "creature_npc",
+      "pages": [
+        19
+      ],
+      "summary": "Gremlins são minúsculas criaturas empenhadas em sabotar aparelhos. As coisas quebram ou não funcionam em sua presença. Relógios não duram uma semana em seu pulso, rádios ficam fora do ar, TVs se enchem de chuviscos, carros quebram, peças se soltam, aparelhos novos apresentam defeitos e computadores travam. Este aprimoramento só funciona CONTRA o personagem....",
+      "entityRefs": []
+    },
+    {
+      "id": "aprimoramentos-3-apenas-para-personagens-espiritos-20",
+      "name": "Apenas para Personagens Espíritos",
+      "category": "core_rule",
+      "pages": [
+        20
+      ],
+      "summary": "Apenas para Personagens Espíritos -3 pontos: o Personagem pecou demais quando em vida, e não obteve perdão algum. Quando desencarnou seu espírito deveria ter sido levado ao inferno, mas por algum motivo (definido pelo Mestre) ele conseguiu evitar esse destino, permanecendo na Terra. O problema é que agora ele é perseguido por um grupo de sombras que podem ma...",
+      "entityRefs": []
+    }
+  ]
+}

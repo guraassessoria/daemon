@@ -1,0 +1,24 @@
+{
+  "source": "regra-opcional-ataques-a-objetos",
+  "title": "Regra Opcional Ataques a Objetos",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "core_rule",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "regra-opcional-ataques-a-objetos-regra-opcional-ataques-a-objetos-1",
+      "name": "Regra Opcional:Ataques a objetos",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Regra Opcional:Ataques a objetos Muitas vezes, ospersonagens precisaram atacar ou quebrar objetos, como por exemplo, quandoquiserem arrebentar uma corda ou derrubar uma porta. Objetos geralmentesão fáceis de golpear, pois não vão se defender ou se mover do lugar.Entretanto, alguns objetos podem se mover (por qualquer motivo que seja). Nestecaso o Mestre deve...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "source": "armas-de-fogo",
+  "title": "Armas de Fogo",
+  "status": "full-read-auto-pass-1",
+  "pages": 48,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "armas-de-fogo-armas-de-fogo-1",
+      "name": "Armas de Fogo",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Armas de Fogo Sistema Daemon Tiago “MURAZOR “ Maraschin Armas de Fogo Sistema Daemon Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin tiagomm@hotmail.com Colaborador: Colaborador: Colaborador: Colaborador: Diego \"nightmare\"Meneses Playtesters: Playtesters: Playtesters: Playtesters: Jean \"Noovix\" Fonseca,...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-introducao-3",
+      "name": "Introdução",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Introdução Introdução Introdução Introdução Este netbook tem como objetivo apresentar regras mais realistas para o uso de armas de fogo no sistema Daemon. As regras originais possuíam incoerências em certos pontos que sacrificavam o realismo em nome de diversão inocente e politicamente correta. Mas combates com armas de fogo não são inocentes nem politicamen...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-armas-de-fogo-4",
+      "name": "Armas de Fogo",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "Armas de Fogo Armas de Fogo Armas de Fogo Armas de Fogo Há vários fatores que influenciam no desempenho de uma arma de fogo, são eles o tipo de arma, o calibre da Munição, a capacidade do Pente, o alcance efetivo, o Dano causado e o Regime de Fogo do disparo. São muitos os tipos e marcas de armas de fogo existentes, mas se você conhece as características de...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-armas-longas-5",
+      "name": "Armas Longas",
+      "category": "combat",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Armas Longas São armas de fogo com cano longo, com maior alcance e precisão, mas menos mobilidade para tiros rápidos, por isso recebem uma penalidade a sua Iniciativa. Devem ser disparadas com as duas mãos (Teste DIFICÍL se usar apenas uma) e só podem ser ocultadas em um sobretudo ou capa. Fuzis: O fuzil é uma arma de cano longo que se tornou o armamento de...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-dano-7",
+      "name": "Dano",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "Dano O Dano que uma arma pode causar é determinado por seu calibre. Alguns tipos de munições especiais podem aumentar ou reduzir o dano padrão ou suas características. Balas de Revólver São as balas tradicionais, com uma ponta maciça de chumbo endurecido; geralmente utilizadas em revólveres, mas também são utilizadas em armas longas raiadas, conhecidas como...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-balas-de-fuzil-8",
+      "name": "Balas de Fuzil",
+      "category": "item_equipment",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Balas de Fuzil Classificadas como FMJ (Full Metal Jacket ou “Enjaquetada Total”) por causa do revestimento completo de cobre sobre o chumbo, são utilizadas em fuzis, rifles, metralhadoras e carabinas. São maiores e com ponta, além de atingirem altas velocidades, o que reduz a absorção de proteções. Divida a IP do Alvo pela METADE! Mas por outro lado transpas...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-novas-10",
+      "name": "Novas",
+      "category": "core_rule",
+      "pages": [
+        10
+      ],
+      "summary": "Novas Novas Novas Novas Regras Regras Regras Regras Com as novas escalas de dano e estatísticas de armas baseadas em suas correspondentes verdadeiras, elas se tornaram realmente mortais, exatamente como na vida real. Mas se agora uma arma de grande calibre é realmente algo que deva ser temido, quem deseja perder personagem após personagem até perceber isto?...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-posicao-de-tiro-11",
+      "name": "Posição de Tiro",
+      "category": "item_equipment",
+      "pages": [
+        11
+      ],
+      "summary": "Posição de Tiro Para evitar a penalidade de Recuo, o usuário de uma arma de fogo deve sempre dispara-la de uma posição que lhe dê o devido apoio para compensação do efeito do recuo produzido pela mesma. Revólveres, Pistolas e Submetralhadoras devem ser disparados utilizando-se as duas mãos para evitar o modificador de Recuo em tiros múltiplos. Escopetas, Esp...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-o-aprimoramento-ambidestria-neutraliza-a-12",
+      "name": "O Aprimoramento Ambidestria neutraliza a",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "O Aprimoramento Ambidestria neutraliza a penalidade de DES e a manobra Atirar com duas Armas elimina o modificador METADE. Mad Dog Macree dispara seus dois revólveres Colt Texas contra o xerife do condado. Mad Dog tem Destreza 15 e Revólveres 40%. Assim ele tem 20% de chance de acertar com a mão direita e 13% com a mão esquerda. Se Mad Dog fosse ambidestro,...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-armas-de-dois-canos-13",
+      "name": "Armas de Dois Canos",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "Armas de Dois Canos São espingardas e escopetas de 1ª geração, modelos mais antigos fabricados com dois canos, paralelos ou sobrepostos, com cães externos ou mochas. Pode ser utilizada para realizar dois disparos simultâneos contra um mesmo alvo. Para isso basta apenas UMA jogada de ataque. Caso seja bem sucedido, ambos os disparos atingem o alvo. Red Neck S...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-localizacao-aleatoria-de-dano-14",
+      "name": "Localização Aleatória de Dano",
+      "category": "combat",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "Localização Aleatória de Dano A maioria dos ataques com armas de fogo, principalmente as rajadas, raramente são mirados em alguma parte do corpo especifica, o personagem só esta procurando uma brecha para acertar. Isto significa que a não ser que o personagem esteja tentando um ataque localizado contra uma parte especifica (Teste Difícil), ele terá de determ...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-lista-de-armas-16",
+      "name": "Lista de Armas",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "Lista de Armas ista de Armas ista de Armas ista de Armas Muitos Mestres podem achar chatíssimo decidir qual oficial de polícia traz consigo uma S&W M640 ou uma M686, e simplesmente dizer que todos os tiras têm revólveres. Mas para os interessados em agitar mais um pouquinho as noites de sexta com um bom tiroteio, aqui serão apresentadas algumas armas de fogo...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-357-magnum-38-special-17",
+      "name": "Munição: .357 Magnum/.38 Special",
+      "category": "combat",
+      "pages": [
+        17
+      ],
+      "summary": "Munição: .357 Magnum/.38 Special Pente: 6 (tambor) Alcance: 30m Dano: 1d6+4/1d6+2 ROF: 2 Colt Anaconda: Esta poderosa magnum é usada principalmente para caçadas e para disparar contra alvos afastados. Também pode receber munição calibre .45 Special. Munição: .44 Magnum/.45 Special Pente: 6 (tambor) Alcance: 35 m Dano: 1d6+5/1d6+4? ROF: 2 Colt Python: Similar...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-pistolas-18",
+      "name": "Pistolas",
+      "category": "combat",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "Pistolas São armas de fogo curtas que podem ser disparadas com precisão apenas com uma das mãos. São semelhantes aos revólveres, mas a ejeção automática de cápsulas e o armamento automático do cão após cada disparo melhoram o seu desempenho; e a utilização de pentes melhora sua capacidade. Disparar uma pistola com as duas mãos elimina a penalidade de recuo n...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-9mm-357-sig-40-s-w-20",
+      "name": "Munição: 9mm/.357 Sig/.40 S&W",
+      "category": "combat",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "summary": "Munição: 9mm/.357 Sig/.40 S&W Pente: 15/12/12 (clip) Alcance: 50 m Dano: 1d10+1/1d6+4/1d10+2 ROF: 3 SIG Sauer P-230: A P-230 é a pistola de bolso da série SIG. Ela possui linhas arrojadas e opera da mesma forma que a velha P-220. Munição: 7.65mm/.380 ACP Pente: 8/7 (clip) Alcance: 50 m Dano: 1d6+3/1d6+4 ROF: 3 IMI Desert Eagle: Esta grande pistola tem tido p...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-5-7-mm-23",
+      "name": "Munição: 5.7 mm",
+      "category": "combat",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "summary": "Munição: 5.7 mm Pente: 50 (clip) Alcance: 150 m Dano: 1d6+1 [IP/2] ROF: 3, 4 ou 15 Skorpion: Metralhadora de mão do tamanho de uma pistola, a Skorpion tem sido a arma padrão dos terroristas e dos agentes dos serviços de inteligência nos últimos 30 anos. Estas armas tchecas pararam de ser fabricadas, mas ainda são populares nos romances de espionagem. Munição...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-7-62mm-nato-26",
+      "name": "Munição: 7.62mm NATO",
+      "category": "combat",
+      "pages": [
+        26
+      ],
+      "summary": "Munição: 7.62mm NATO Pente: 20 (clip) Alcance: 600m Dano: 3d6+2 [IP/2] ROF: 3 ou 10 HK G36: Este é atual fuzil de assalto da Bundeswehr (Forças Armadas Alemãs). O G36 foi desenvolvido como um fuzil modular, com capacidade se montar acessórios nele facilmente sem a necessidade de se usar a mão de um armeiro. O G36 é construído, quase na sua totalidade, em plá...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-carabinas-de-assalto-27",
+      "name": "Carabinas de Assalto",
+      "category": "combat",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Carabinas de Assalto São versões curtas dos fuzis de assalto, pouco maiores que as submetralhadoras. São mais portáteis, com o cano reduzido ou formato bullpup e coronhas rebatíveis ou deslizantes. Devem ser disparadas utilizando-se as duas mãos (Teste Difícil com apenas uma), mas se usar apoio adicional de ombro pode evitar a penalidade de recuo nos tiros m...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-5-56mm-nato-29",
+      "name": "Munição: 5.56mm NATO",
+      "category": "combat",
+      "pages": [
+        [
+          29,
+          31
+        ]
+      ],
+      "summary": "Munição: 5.56mm NATO Pente: 10, 30 ou 100 (clip) Alcance: 570m Dano: 2d6+2 [IP/2] ROF: 3, 4 ou 12 IMI Galil MAR: A Galil MAR (Micro Assault Rife) retém as características internas com uma nova armação e cano ainda mais curto. Foi relatado que esta versão sofre de um grave problema de sobreaquecimento, sendo praticamente impossível tocar-lhe após algumas raja...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-7-62mm-nato-32",
+      "name": "Munição: 7.62mm NATO",
+      "category": "combat",
+      "pages": [
+        32
+      ],
+      "summary": "Munição: 7.62mm NATO Pente: 5 ou 20 (clip) Alcance: 600m Dano: 3d6+2 [IP/2] ROF: 3 ou 10 IMI GALATZ: Este é um rifle de snipers baseado no fuzil de assalto Galil que por sua vez é baseado no AK-47 Kalashnikov. É uma arma semi-automática que tem em seu pente de 20 a 25 cartuchos. Tem uma alta potencia de fogo e é ideal para fogo de apoio táticos como o Dragun...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-308-win-33",
+      "name": "Munição: .308 Win",
+      "category": "combat",
+      "pages": [
+        33
+      ],
+      "summary": "Munição: .308 Win Pente: 5 (câmara) Alcance: 800m Dano: 3d6+2 [IP/2] ROF: 1 SIG SG-551: Explodir cabeças é uma tarefa prazerosa com este excelente e extremamente preciso fuzil SIG. Quando o assunto é abater inimigos à distância, o SIG SG 551 é a arma certa para o serviço! Parabéns, Sig Arms! Munição: .223 Rem Pente: 5, 20 ou 30 (clip) Alcance: 600m Dano: 2d6...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-metralhadoras-34",
+      "name": "Metralhadoras",
+      "category": "combat",
+      "pages": [
+        [
+          34,
+          36
+        ]
+      ],
+      "summary": "Metralhadoras Armas pesadas com altíssima cadência de disparo e recuo, geralmente fixas ou utilizadas por personagens fortes. Apesar de utilizar munição pesada como os rifles, fuzis e carabinas, sua munição não é compatível com aquelas armas, pois é disposta em cintas no alimentador ou carregadores especiais. Para evitar a penalidade de recuo em tiros múltip...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-municao-12g-37",
+      "name": "Munição: .12g",
+      "category": "combat",
+      "pages": [
+        37
+      ],
+      "summary": "Munição: .12g Pente: 8 (câmara) Alcance: 50m Dano: 3d6 ROF: 1 ou 3 Mossberg M500: Mais para uma arma da polícia do que de caça, ela é menor do que a Remington, mas não muito mais fácil de ser escondida. É uma típica espingarda “pump” para o uso da polícia e defesa do lar. Munição: .12g/.20g/.410g Pente: 7 (câmara) Alcance: 40m Dano: 3d6/3d3/3d2 ROF: 1 Reming...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-spas-12-espingarda-de-combate-semi-automatica-38",
+      "name": "SPAS-12: Espingarda de combate semi-automática,",
+      "category": "combat",
+      "pages": [
+        38
+      ],
+      "summary": "SPAS-12: Espingarda de combate semi-automática, muito difundida entre as forças especiais de policia de todo o mundo, por sua firmeza e estabilidade sob fogo cerrado. Munição: .12g Pente: 8 (câmara) Alcance: 40m Dano: 3d6 ROF: 1 ou 3 SPAS-15: Arma para uso militar, o SPAS-12 foi adotado em toda a Europa. Munição: .12g Pente: 6 (clip) Alcance: 40m Dano: 3d6 R...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-customizacao-39",
+      "name": "Customização",
+      "category": "combat",
+      "pages": [
+        [
+          39,
+          41
+        ]
+      ],
+      "summary": "Customização Customização Customização Customização No complexo conjunto de sistemas integrados que hoje é operado pelos soldados, policiais e outros combatentes modernos, a arma de fogo tem o papel de servir como base, eixo principal, onde os outros sistemas se agregam para, ao final, formar uma ferramenta otimizada, que o torna apto a realizar com a maior...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-armaduras-42",
+      "name": "Armaduras",
+      "category": "combat",
+      "pages": [
+        42
+      ],
+      "summary": "Armaduras Armaduras Armaduras Armaduras e Proteções e Proteções e Proteções e Proteções IP Especifico Nas armaduras apresentadas, o IP refere-se apenas à danos cinéticos (resultado de golpes) e balísticos (resultado de projéteis). Existem outros tipos de vestimentas apropriadas à outras situações. Estas vestimentas providenciam IP contra determinados tipos d...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-armaduras-sobrepostas-43",
+      "name": "Armaduras Sobrepostas",
+      "category": "combat",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "summary": "Armaduras Sobrepostas Teoricamente é possível vestir várias camadas de armaduras até se tornar invulnerável. Se um policial pudesse sobrepor camadas de armadura sobre si mesmo antes de atender uma chamada de problemas domésticos, pode apostar que ele o faria. Porém, ele não o faz, por que isto simplesmente não é prático. Veja o porquê: Quando você sobrepõe v...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-escudos-45",
+      "name": "Escudos",
+      "category": "combat",
+      "pages": [
+        [
+          45,
+          46
+        ]
+      ],
+      "summary": "Escudos As mesmas regras descritas para armaduras valem para escudos. Todo o dano recebido pelo personagem é reduzido pela IP do escudo, mas não protege contra ataques pelas costas, ataques localizados ou situações em que o personagem não pode agir. É possível realizar ataques localizados desviando do escudo e ignorando sua IP, mas estes ataques são consider...",
+      "entityRefs": []
+    },
+    {
+      "id": "armas-de-fogo-bibliografia-sites-47",
+      "name": "Bibliografia/Sites",
+      "category": "combat",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Bibliografia/Sites Bibliografia/Sites Bibliografia/Sites Bibliografia/Sites Vampiro a Mascara: Guia do Jogador GURPS Cyberpunk 2020 OPERA http://world.guns.ru/main-e.htm http://armeiros.vilabol.uol.com.br/index.htm http://www.geocities.com/Pentagon/Quarters/7050/ menu.html http://www.militarypower.com.br/ http://campobatalha.blogspot.com/ http://www.tropasel...",
+      "entityRefs": []
+    }
+  ]
+}

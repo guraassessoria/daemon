@@ -1,0 +1,74 @@
+{
+  "source": "hydora",
+  "title": "hydora",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "power_magic",
+    "combat",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "hydora-seguidores-de-hydora-1",
+      "name": "Seguidores de Hydora",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Seguidores de Hydora Vários dos Dragões Reis de Arton possuem suas próprias ordens religiosas. Como Beluhga que vive aprisionada nas Montanhas Uivantes ou Sckhar, senhor de seu próprio reino. Os Dragões são tidos como as criaturas mais antigas de Arton e geralmente também são muito orgulhosos a ponto de desenvolverem cultos a eles mesmos, como Sckhar. O como...",
+      "entityRefs": []
+    },
+    {
+      "id": "hydora-a-ordem-de-hydora-2",
+      "name": "A Ordem de Hydora",
+      "category": "race_lineage",
+      "pages": [
+        2
+      ],
+      "summary": "A Ordem de Hydora Divergências surgem e nenhuma conclusão é tirada quando, tantos os fiéis quantos os estudiosos, tentam datar o início da Ordem. O fato é que ela surgiu em momentos distintos em variados pontos de Arton, tendo esses pontos relação uns com os outros em alguns casos e em outros não. Essa inconstante ordem na formação da Ordem se deve ao fato d...",
+      "entityRefs": []
+    },
+    {
+      "id": "hydora-historia-da-ordem-3",
+      "name": "História da ordem",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "História da ordem História da ordem História da ordem História da ordem Em diversos pontos e datas diferentes de Arton Hydora desceu nos pontos mais altos – até mesmo nas Montanhas Uivantes – e se envolveu com os mortais. Muitos acreditam que os membros originais da Ordem carregam o sangue do Dragão Louco. Nesses encontros, seja na forma de Dragão ou na form...",
+      "entityRefs": []
+    },
+    {
+      "id": "hydora-caracteristic-4",
+      "name": "Característic",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "Característic Característic Característic Característicasasasas da Ordem da Ordem da Ordem da Ordem Hydora é famoso por ser inconstante, imprevisível e excêntrico. Resumindo, muitos o acham louco. Descendente do Céu ele tem as violentas tempestades em sua Natureza e o passageiro vento como parte de sua alma. Todos os seguidores de Hydora são nômades, sem exc...",
+      "entityRefs": []
+    },
+    {
+      "id": "hydora-tradicoes-da-ordem-5",
+      "name": "TRADIÇÕES DA ORDEM",
+      "category": "creature_npc",
+      "pages": [
+        5
+      ],
+      "summary": "TRADIÇÕES DA ORDEM TRADIÇÕES DA ORDEM TRADIÇÕES DA ORDEM TRADIÇÕES DA ORDEM Os membros da Ordem se reúnem em locais altos para suas celebrações. Como montanhas e picos. Existem alguns templos de adoração a Hydora, mas pela natureza nômade de seus seguidores esse é frequentemente renovado em suas fileiras e possuem um número pequeno de guardiões. Um Sacerdote...",
+      "entityRefs": []
+    },
+    {
+      "id": "hydora-restricoes-e-obrigacoes-6",
+      "name": "Restrições e Obrigações",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Restrições e Obrigações Restrições e Obrigações Restrições e Obrigações Restrições e Obrigações Os seguidores de Hydora devem sempre fazer uso apenas de armas leves e rápidas - como sabres, espadas curtas, bastões, lanças – e armas de arremesso e longo alcance – como arco e flecha, zarabatana, dardos, estrelas ninjas, correntes, chicotes. As armaduras utiliz...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source": "elf",
+  "title": "elf",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "race_lineage",
+    "core_rule",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "elf-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Elfos são criatura de aparência esguia, de orelhas pontudas e rosto imberbe. São apreciadores da natureza, da vida selvagem, e acreditam viverem sob a tutela da Grande Mãe Terra. São exímios arqueiros e caçadores, além de possuírem grande aptidão para a Magia. Esses seres joviais e belos originaram-se de um a terra chamada Alfheim, que conectava Aasgard a Ar...",
+      "entityRefs": []
+    },
+    {
+      "id": "elf-a-terra-sombria-4",
+      "name": "A Terra Sombria",
+      "category": "race_lineage",
+      "pages": [
+        4
+      ],
+      "summary": "A Terra Sombria Dispersos e sem mais uma nação, os renegados vagaram pelos campos astrais de Arcádia, alguns mudaram-se definitivamente para a Terra (para as regiões dos Reinos Nórdicos e Rússia, principalmente). Mas, a maioria daqueles elfos de pele negra e cabelos prateados migrou em busca de algum lugar remoto, onde pudessem construir seu próprio reino e,...",
+      "entityRefs": []
+    },
+    {
+      "id": "elf-algumas-poucas-excecoes-eram-concedidas-5",
+      "name": "Algumas poucas exceções eram concedidas",
+      "category": "kit_class",
+      "pages": [
+        [
+          5,
+          7
+        ]
+      ],
+      "summary": "Algumas poucas exceções eram concedidas entre os membros da Comunidade. Certos elfos que se tornavam mortais por razões compreendidas tinham sua vida na Comunidade mantida normalmente. Em geral são guerreiros enviados à Terra para auxiliar os humanos ao combate contra os elfos negros nas terras do norte (uma vez que os elfos se vêem compelidos a ajudarem, po...",
+      "entityRefs": []
+    },
+    {
+      "id": "elf-clerigo-8",
+      "name": "Clérigo",
+      "category": "creature_npc",
+      "pages": [
+        8
+      ],
+      "summary": "Clérigo Custo: 2 pts. de Aprimoramento, 220 pts. de Perícia. Perícias: Ciências (História 15%, Teologia 50%), Ciências Proibidas (Oculto 20%, Arcádia 30%), Etiqueta 30%, Escutar 25%, Manipulação (Empatia 25%, Liderança 10%), Negociação (Barganha 20%), Pesquisa/Investigação 35%, Sobrevivência (Florestas) 50%, Religião 50%. Aprimoramentos: Infravisão 1, Clero...",
+      "entityRefs": []
+    }
+  ]
+}

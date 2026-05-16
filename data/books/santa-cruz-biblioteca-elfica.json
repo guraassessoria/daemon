@@ -1,0 +1,307 @@
+{
+  "source": "santa-cruz-biblioteca-elfica",
+  "title": "Santa-cruz-biblioteca-elfica",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 202,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "santa-cruz-biblioteca-elfica-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "race_lineage",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-leandro-l-santos-2",
+      "name": "Leandro L. Santos",
+      "category": "power_magic",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "summary": "Leandro L. Santos SANTA CRUZ O RPG de horror barroco colonial 4 “/.../ Quem via na escuridão da noite aquelas fornalhas tremendas perpetuamente ardentes /.../ O ruído das rodas, das cadeias, da gente toda da cor da mesma noite, trabalhando vivamente, e gemendo tudo ao mesmo tempo, sem momento de trégua, nem de descanso; quem vir enfim toda máquina e aparato...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-1",
+      "name": "ÍNDICE (6-15)",
+      "category": "core_rule",
+      "pages": [
+        [
+          6,
+          15
+        ]
+      ],
+      "summary": "5 ÍNDICE Introdução 7 Cosntrução de personagem 15 A Sociedade Barroca Colonial 21 Atributos 29 Aprimoramentos 31 Perícias 43 Equipamento 57 Magia 65 Pontos Heroicos 84 Pontos de Fé 87 Regras e Testes 97 Combate Desarmado 102 Experiência 107 O Mundo de Santa Cruz 113 Novas Sociedades Secretas 132 Pindorama 139 Povos Fera 149 Icamiabas 157 Kupendiepes 159 Juru...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-2",
+      "name": "ÍNDICE (16-25)",
+      "category": "race_lineage",
+      "pages": [
+        [
+          16,
+          25
+        ]
+      ],
+      "summary": "15 História do Personagem Antes de qualquer coisa é necessário criar uma boa história (ou Background) para o Personagem. Descreva detalhes de sua vida, sua infância, quem são seus pais, se ele tem irmãos e amigos, como iniciou sua vida como aventureiro, quais são seus objetivos, como é sua personalidade, como o Personagem é fisicamente etc. O questionário ab...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-3",
+      "name": "ÍNDICE (26-35)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          26,
+          35
+        ]
+      ],
+      "summary": "25 a verdadeira crença. E expurgar qualquer ameaça de entrada dos mouros ou protestantes na nova e sacra terra de Roma. Custo: 2 pts. de aprimoramento, 300 pts. de Perícia Perícias: Conhecimentos Culturais (Cultura Ibérica 40%) Etiqueta (Clero 40%, Diplomacia 40%), História (História Antiga 40%, História Ibérica 40%, História Local e contemporânea 30%), Idio...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-4",
+      "name": "ÍNDICE (36-45)",
+      "category": "power_magic",
+      "pages": [
+        [
+          36,
+          45
+        ]
+      ],
+      "summary": "35 daninho: objetos poderosos atraem a atenção de seres poderosos. Cabe ao Mestre escolher qual artefato seu Personagem possui e as razões dele estar com esse Personagem. ESTE APRIMORAMENTO NÃO DEVE SER USADO LEVIANAMENTE. Influência Este é um Aprimoramento muito versátil, pois possibilita ao personagem a manipulação e controle sobre uma região e a sociedade...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-5",
+      "name": "ÍNDICE (46-55)",
+      "category": "combat",
+      "pages": [
+        [
+          46,
+          55
+        ]
+      ],
+      "summary": "45 naturais, ela geralmente não serve para monstros e criaturas demoníacas. Lidar com o Gado (0): O Personagem sabe controlar o gado, conduzir boiadas, criar cabras, etc. O teste desta perícia apenas se faz necessário em situações anormais, como conduzir o gado por terrenos acidentados, atravessando rios, durante um estouro, etc. Para possuir essa perícia fa...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-6",
+      "name": "ÍNDICE (56-65)",
+      "category": "item_equipment",
+      "pages": [
+        [
+          56,
+          65
+        ]
+      ],
+      "summary": "55 Pegadas espaçadas, areia +10% Trilha comum, piso de madeira 0 Pedra, água -50% Cada 2 integrantes no grupo +05% Cada 12 horas passadas -05% Cada hora de chuva ou neve -25% Iluminação fraca -30% Grupo tenta disfarçar a trilha -25% Senso de Orientação (PER) É a capacidade de saber sua localização em relação a um determinado ponto, se o personagem conhece a...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-7",
+      "name": "ÍNDICE (66-75)",
+      "category": "power_magic",
+      "pages": [
+        [
+          66,
+          75
+        ]
+      ],
+      "summary": "65 Formas e Caminhos A Magia no Sistema Daemon está dividida em Formas e Caminhos. Existem três Formas de Magia: Entender, Criar e Controlar. As formas dizem respeito ao COMO você faz a magia ou a intenção do Mago quando está criando um ritual. Os principais Caminhos da Magia são os seis Caminhos Elementáis: Fogo, Terra, Água, Ar, Luz e Trevas. Além destes,...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-8",
+      "name": "ÍNDICE (76-85)",
+      "category": "combat",
+      "pages": [
+        [
+          76,
+          85
+        ]
+      ],
+      "summary": "75 Trevas 1º Círculo Entender Trevas Enxerga melhor no escuro, mesmo sem uso de Magia. Adapta-se muito mais rápido à falta de luz. Pode enxergar no escuro, até uma distância de 10m. Ele pode descobrir o que está gerando uma sombra, desde que ela seja natural e não mágica. Criar Trevas O personagem é capaz de aumentar ou diminuir o tamanho de uma sombra em at...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-9",
+      "name": "ÍNDICE (86-95)",
+      "category": "combat",
+      "pages": [
+        [
+          86,
+          95
+        ]
+      ],
+      "summary": "85 cadeira apenas esbarra no ombro de dele e é arrebentada quando se choca com a parede. Foi por pouco... Sempre é permitido usar menos Pontos Heroicos do que um determinado dano, embora não pareça algo lógico. O que não for “anulado” pelo uso dos Pontos Heroicos será contado como dano normal. Além da absorção de dano, pontos heroicos podem ter outros usos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-10",
+      "name": "ÍNDICE (96-105)",
+      "category": "combat",
+      "pages": [
+        [
+          96,
+          105
+        ]
+      ],
+      "summary": "95 A Arte da Guerra O combate foi rápido e mortal, as blumas de medo da morte obscureciam a visão, quando Miguel se deu conta uma lança havia vasado seu braço esquerdo, Miguel rapidamente encostou sua pistola sobre o olho da criatura e atirou, sentindo um odor ensanecedor dos miolos da criatura que se espalharam sobre seu corpo, emquanto toda a criatura se d...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-11",
+      "name": "ÍNDICE (106-115)",
+      "category": "core_rule",
+      "pages": [
+        [
+          106,
+          115
+        ]
+      ],
+      "summary": "105 ** Golpes que não precisam ser comprados. Huka-Huka A Huka-Huka é praticada em festivais comemorativos das tribos indígenas que realizam, além das competições de Huka-Huka, competições de corrida, natação, e arco e flecha. Segue princípios de imobilizações, chaves e estrangulamentos específicos, que são mortais se bem aplicados. Uma chave e estrangulamen...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-12",
+      "name": "ÍNDICE (116-125)",
+      "category": "combat",
+      "pages": [
+        [
+          116,
+          125
+        ]
+      ],
+      "summary": "115 115 feitorias e entrepostos comerciais no oriente (China e Índia).Em 1498 Duarte Pacheco atravessa o oceano em uma expedição secreta ,a mando do rei D. Manuel I, e relata a existência de uma vasta porção de terra à coroa lusitana, um ano e meio depois a esquadra de Cabral toma posse do território. As viagens de Colombo, Vasco da Gama, Américo Vespúcio ap...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-13",
+      "name": "ÍNDICE (126-135)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          126,
+          135
+        ]
+      ],
+      "summary": "125 125 primeiros contatos diretos entre Olmec e a Cidade de Prata. A cidade de prata não mediu escrúpulos em aumentar seu poder na busca de novas almas e na supremacia do Demiurgo. Os novos Anjos foram chegando, e a xenofobia foi o traço fundamental que unificou o comportamento das missões tanto católicas, como protestantes nesta nova terra. Olmec, a Cidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-14",
+      "name": "ÍNDICE (136-145)",
+      "category": "power_magic",
+      "pages": [
+        [
+          136,
+          145
+        ]
+      ],
+      "summary": "135 135 Tomo V- Mysticum Creatura 136 136 137 137 Espíritos da morte “Então Miguel, Agora posso desfazer meu pacto e matar seus amigos e vou começar com aquela que está desmaiada ali”,o francês apontou uma pistola para a moça, o bater de milhares de asas começou a ser ouvido, uma névea invadiu a baia, a serpente de fogo urrou e começou uma saga de morte e de...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-15",
+      "name": "ÍNDICE (146-155)",
+      "category": "power_magic",
+      "pages": [
+        [
+          146,
+          155
+        ]
+      ],
+      "summary": "145 145 soltam temíveis labaredas de fogo pelas narinas, envolvem suas vítimas e as esmagam por contricção ou dão poderosas mordidas. O fogo não apaga suas chamas, embora as lendas digam que sim, esconder os olhos e os dentes também não distrai a criatura, sua fúria destrutiva é insaciável. Possui apenas uma aversão à luz solar e sofrem 1d6 pontos de dano po...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-16",
+      "name": "ÍNDICE (156-165)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          156,
+          165
+        ]
+      ],
+      "summary": "155 155 de Viracocha e Pachamama. Aprenderam os fundamentos da roda dos mundos e da magia com Nanco Cápac, criatura de Arkanun e primeiro imperador Inca, aliaram-se à Ordem de Coacalco, Ordem do Jaguar e Ordem do sol e ajudaram Pachacutec a expandir os limites do grande império do sol, sendo chamados de filhos do Sol e Guardiões dos imperadores. Se espalhara...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-17",
+      "name": "ÍNDICE (166-175)",
+      "category": "combat",
+      "pages": [
+        [
+          166,
+          175
+        ]
+      ],
+      "summary": "165 165 Lobisomem Lobisomens são homens que em noite de lua cheia, transformam-se em uma criatura bestial, meio homem, meio lobo, e assolam os campos em um ímpeto de fúria destrutiva. Os Ni-Guará os consideram guará caídos, Muari-Guara, as criaturas de pindorama, Loisons sem consciência do que são. Talvez não se trate de uma criatura, mas de várias, o que im...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-indice-6-18",
+      "name": "ÍNDICE (176-184)",
+      "category": "power_magic",
+      "pages": [
+        [
+          176,
+          184
+        ]
+      ],
+      "summary": "175 175 Agua: cada ponto gasto dá por uma rodada 1 ponto de fócus em água. Fogo: cada ponto gasto dá por uma rodada 1 ponto de fócus em fogo. Terra: cada ponto gasto dá por uma rodada 1 ponto de fócus em Terra. Ar: cada ponto gasto dá por uma rodada 1 ponto de fócus em Ar. Luz: cada ponto gasto dá por uma rodada 1 ponto de fócus em Luz. Trevas: cada ponto ga...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-animais-sao-uma-parte-importante-para-as-185",
+      "name": "Animais são uma parte importante para as",
+      "category": "race_lineage",
+      "pages": [
+        185
+      ],
+      "summary": "184 184 Animais são uma parte importante para as campanhas de Santa Cruz, As selvas, campos e cerrados estão cheios deles. Abaixo apresentamos uma lista dos principais animais existentes em Santa Cruz. O número entre parênteses indica a quantidade de pontos de fócus necessária para invoca-los. (1)Bem-Te-Vi: IP 00 PVs 06 Ataques 01 Bico 50% Dano desconsideráv...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-02-car-03-per-15-186-1",
+      "name": "02 CAR 03 PER 15 (186-195)",
+      "category": "adventure",
+      "pages": [
+        [
+          186,
+          195
+        ]
+      ],
+      "summary": "185 185 (2) Tatu: IP 03 casco/pele PVs 17 Ataques 01 Mordida 50% 1d6-1 CON 15 FR 06 DX 02 AGI 12 INT 03 WILL 02 CAR 03 PER 15 (2) Surucucu: IP 03 pele/escamas PVs 10 Ataques 01 Mordida/veneno 64% 1d6+3 por dia CON 07 FR 06 DX 00 AGI 14 INT 02 WILL 02 CAR 00 PER 15 (2) Urutu: IP 03 PVs 08 Ataques 01 Mordida/veneno 63% 1d6+2 por dia CON 05 FR 02 DX 02 AGI 13 I...",
+      "entityRefs": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica-02-car-03-per-15-186-2",
+      "name": "02 CAR 03 PER 15 (196-202)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          196,
+          202
+        ]
+      ],
+      "summary": "195 195 Albuquerque (Bandeirante/Traficante de Escravos 10º nível) Atributos CON 15 FR 15 DEX 12 AGI 14 INT 13 WILL15 PER 15 CAR 11 Perícias Animais [Montar Animais] 35%, Caça e pesca 40%, Conhecimentos culturais [Cultura Negra] 30%, Conhecimentos culturais [Cultura Indígena] 31%, Conhecimentos culturais [Mitos e Lendas] 31%, Conduzir Carroças 40%, Idiomas [...",
+      "entityRefs": []
+    }
+  ]
+}

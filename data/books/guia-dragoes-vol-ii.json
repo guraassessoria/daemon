@@ -1,0 +1,257 @@
+{
+  "source": "guia-dragoes-vol-ii",
+  "title": "guia-dragoes_vol-II",
+  "status": "full-read-auto-pass-1",
+  "pages": 48,
+  "primaryCategories": [
+    "core_rule",
+    "power_magic",
+    "combat",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "guia-dragoes-vol-ii-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "1 2",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-guia-dos-3",
+      "name": "GUIA DOS",
+      "category": "creature_npc",
+      "pages": [
+        3
+      ],
+      "summary": "GUIA DOS DRAGÕES Volume II Maury “Shi Dark” Abreu 3",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-guia-dos-dragoes-4",
+      "name": "GUIA DOS DRAGÕES",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "GUIA DOS DRAGÕES Volume II Criação e Desenvolvimento: Maury “Shi Dark” Abreu. Ilustrações: Todas as ilustrações pertencem a seus respectivos autores, utilizadas aqui com o objetivo de resenha. Diagramação: Maury “Shi Dark” Abreu. Agradecimentos: A todos aqueles que ajudaram no desenvolvimento deste livro: - aos meus pais, que me apoiaram mesmo sem entender d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-introducao-5",
+      "name": "INTRODUÇÃO",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "INTRODUÇÃO Quando o Guia dos Dragões estava em produção reunia uma grande quantidade de raças e espécies de dragões. No entanto, muitos acabaram ficando de fora da edição final. Isso aconteceu principalmente por duas razões: para manter o livro dentro do tamanho programado, e porque certas criaturas não poderiam ser trabalhadas (leis de licença, direitos aut...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-sumario-6",
+      "name": "SUMÁRIO",
+      "category": "character_option",
+      "pages": [
+        6
+      ],
+      "summary": "SUMÁRIO Cap 1: Dragões Gema 07. Dragão de Ametista 08. Dragão de Cristal 09. Dragão de Esmeralda 10. Dragão de Safira 12. Dragão de Topázio 13. Cap 2: Outros Dragões 15. Dragão-Abissal 15. Dragão de Aço 15. Dragão Amarelo 17. Dragão das Brumas 18. Dragão Canção 19. Dragão de Magma 21. Dragão Marrom 22. Dragão de Mercúrio 24. Dragão das Nuvens 25. Dragão Plan...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-1-dragoes-gema-7",
+      "name": "CAPÍTULO 1: DRAGÕES GEMA",
+      "category": "power_magic",
+      "pages": [
+        7
+      ],
+      "summary": "CAPÍTULO 1: DRAGÕES GEMA Dragões gema recebem esta denominação não por serem feitos de metais preciosos, mas por suas escamas geralmente adquirirem uma coloração ou aspecto similar à elas. Diferente do que acontece com os dragões cromáticos e metálicos, os dragões gema não podem ser classificados como bons ou maus: há espécimes considerados bons e outros con...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-dragoes-gema-e-o-plano-astral-8",
+      "name": "Dragões-Gema e o Plano Astral",
+      "category": "core_rule",
+      "pages": [
+        [
+          8,
+          14
+        ]
+      ],
+      "summary": "Dragões-Gema e o Plano Astral Todos os dragões gema tem uma característica em comum muito peculiar: todos eles são capazes de se movimentar entre os Planos livremente. Acredita-se que esta habilidade tenha alguma relação com suas habilidades psíquicas, embora não se tenha certeza sobre nada. Justamente por essa incrível habilidade é possível encon- trar os d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-2-outros-dragoes-15",
+      "name": "CAPÍTULO 2: OUTROS DRAGÕES",
+      "category": "creature_npc",
+      "pages": [
+        [
+          15,
+          17
+        ]
+      ],
+      "summary": "CAPÍTULO 2: OUTROS DRAGÕES Existem dragões que não se enquadram em nenhuma das classificações conhecidas de dragões. Estes dragões apresentam características próprias, e por isso não podem ser enquadrados em tipos similares. Dragões deste tipo geralmente são sub-espécies de alguma outra espécie já conhecida e catalogada. Outros nem são realmente dragões, ape...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-caracteristicas-raciais-18",
+      "name": "Características Raciais",
+      "category": "power_magic",
+      "pages": [
+        18
+      ],
+      "summary": "Características Raciais Caminho Principal: O Caminho Principal dos dragões amarelos é Fogo. Eles também apreciam muito o Caminho Ar e a Forma Controlar. Imunidade: Dragões amarelos são imunes a todo tipo de calo ou fogo, naturais ou mágicos. Arma de Sopro: A arma de sopro de um dragão amarelo é um jato de ar muito poderoso misturado com areia, provo- cando d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-imunidade-dra-19",
+      "name": "Imunidade: Dra-",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Imunidade: Dra- gões das brumas são imunes a ácido, calor e fogo, naturais ou mágicos. Arma de Sopro: Dragões das brumas tem dois tipos de sopro: um cone de vapor escaldante que provoca dano por fogo (veja a tabela) e uma linha de limo cáustico. Criaturas golpeadas pelo limo devem fazer um Teste de Resistência de CON ou irão ficar enjoadas por 1d6 rodadas ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-arma-de-sopro-20",
+      "name": "arma de sopro.",
+      "category": "power_magic",
+      "pages": [
+        [
+          20,
+          24
+        ]
+      ],
+      "summary": "arma de sopro. Todos os dragões canção podem assumir a forma de uma mulher humana, de aproximadamente 20 a 30 anos de idade, a qualquer momento. Assim como os dragões de aço, os dra- gões canção gostam de passar mais tempo em sua forma humanóide do que na forma de dragão, e freqüentemente vivem pacificamente em cidades humanas. Nas grandes cidades que costum...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-realizam-as-mesmas-25",
+      "name": "realizam as mesmas",
+      "category": "combat",
+      "pages": [
+        [
+          25,
+          29
+        ]
+      ],
+      "summary": "realizam as mesmas ações que o dragão, mas sua única defesa possível é Esquiva e são automaticamente destruídas caso sejam atingidas. Adulto: Um dra- gão de mercúrio adulto ou mais velho pode assumir a forma de um animal ou humanóide de tama- nho humano ou menor. A habilidade pode ser utilizada até três vezes ao dia, sendo que voltar à forma de dragão não é...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-criaturas-veja-mais-adiante-30",
+      "name": "criaturas (veja mais adiante).",
+      "category": "race_lineage",
+      "pages": [
+        [
+          30,
+          32
+        ]
+      ],
+      "summary": "criaturas (veja mais adiante). Dragões das profundezas raríssimas vezes são vistos na superfície. Quando o fazem é apenas para perseguir ladrões e recuperar tesouros roubados. Do contrário, eles são encon- trados nas profundas cavernas subterrâneas, esgueirando-se por túneis e corredores rochosos. São naturalmente malignos e cruéis, e embora sejam solitários...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-3-parentes-de-dragoes-33",
+      "name": "CAPÍTULO 3: PARENTES DE DRAGÕES",
+      "category": "core_rule",
+      "pages": [
+        [
+          33,
+          34
+        ]
+      ],
+      "summary": "CAPÍTULO 3: PARENTES DE DRAGÕES Um mundo de fantasia apresenta inúmeras criaturas diferenciadas. Os dragões são apenas uma destas criaturas. Existem, no entanto, criaturas que apresentam características muito similares ou até mesmo iguais aos próprios dragões. Isso sugere que eles tenham tido algum parentesco evolutivo, o que na maioria das vezes é verdade,...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-considerados-uma-35",
+      "name": "Considerados uma",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          35,
+          37
+        ]
+      ],
+      "summary": "Considerados uma das maiores pragas do mundo, kobolds po- dem ser encontrados em praticamente qualquer terreno. Sozinhos, eles não representam ameaça alguma. No entanto geralmente são encon- trados em grandes grupos de caça. São traiçoeiros, utilizando- se de armadilhas e emboscadas para capturar suas presas. As tribos kobolds geralmente têm de 10 a 100 indi...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-wyvern-38",
+      "name": "WYVERN",
+      "category": "core_rule",
+      "pages": [
+        38
+      ],
+      "summary": "WYVERN Ferrão Venenoso As wyverns não apresentam arma de sopro, mas sua cauda é dotada de um ferrão venenoso. Aqueles que forem golpea- dos pelo ferrão sofrem o dano normal e devem realizar um Teste de Resistência de CON. Se falhar, a vítima sofre 2d6 pontos de dano em sua CON, o que também reduz seus Pontos de Vida. Este dano é temporário, e retorna à fraçã...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-4-39",
+      "name": "CAPÍTULO 4",
+      "category": "core_rule",
+      "pages": [
+        39
+      ],
+      "summary": "CAPÍTULO 4: NOVOS APRIMORAMENTOS PARA DRAGÕES Os dragões por si só já são criaturas bastante poderosas. No entanto, é possível ampliar ainda mais seus poderes e habilidades. Esse capítulo apresenta uma série de novas regras e habi- lidades que podem ser aplicadas a qualquer dragão, tornando- os ainda mais temíveis do que normalmente o são. Seu objeti- vo mai...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-drenar-forcas-temporario-40",
+      "name": "Drenar Forças Temporário",
+      "category": "core_rule",
+      "pages": [
+        40
+      ],
+      "summary": "Drenar Forças Temporário Custo: 3 pontos. Requisitos: Apenas dragões malignos; WILL ou CAR 15 ou mais. Exatamente igual à Drenar Forças, com a diferença que o dano NÃO é permanente. Estes pontos podem ser recupera- dos à fração de 1 ponto por dia de descanso. O dragão poderá usar esta habilidade uma vez a cada 2d6 rodadas. Engolir Custo: 2 pontos. Caso o dra...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-tabela-4-1-sopros-adicionais-41",
+      "name": "Tabela 4-1: Sopros Adicionais",
+      "category": "creature_npc",
+      "pages": [
+        [
+          41,
+          42
+        ]
+      ],
+      "summary": "Tabela 4-1: Sopros Adicionais Descrição Custo O sopro causa o mesmo dano, mudando apenas a natureza.* 2 pts Sopro de paralisia (caso a vítima receba dano o efeito é cancelado). † 2 pts Sopro de Sono (como a Magia de mesmo nome). 2 pts Sopro de lentidão (-6 em DEX e AGI). † 3 pts Sopro de enfraquecimento (-6 em FR). † 3 pts Sopro Anti-Magia (o sopro não causa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-5-novos-kits-para-personagens-43",
+      "name": "CAPÍTULO 5: NOVOS KITS PARA PERSONAGENS",
+      "category": "power_magic",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "summary": "CAPÍTULO 5: NOVOS KITS PARA PERSONAGENS CULTISTA SANGUINÁRIO O Culto do Sangue é uma organização cujas ações malignas são comentadas em todo o mundo. Seu líder é um misterioso dragão de poderes desconhecidos, assim como sua espécie – embora suspeita-se que se trata de um dragão negro. O cultista sanguinário é a casta guerreira e mística do Culto. Sua única m...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-dragoes-vol-ii-capitulo-6-personagens-dragoes-45",
+      "name": "CAPÍTULO 6: PERSONAGENS DRAGÕES",
+      "category": "creature_npc",
+      "pages": [
+        [
+          45,
+          48
+        ]
+      ],
+      "summary": "CAPÍTULO 6: PERSONAGENS DRAGÕES Embora seja relativamente incomum, alguns Mestres e Jo- gadores gostam de inovar, criar alternativas exóticas e usar Personagens ou regras que, a princípio, não se destinam aos Jogadores. Um bom exemplo disso é o fato de muitos Jogadores buscarem por regras ou oportunidades de jogar com dragões, uma das criaturas mais poderosa...",
+      "entityRefs": []
+    }
+  ]
+}

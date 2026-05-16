@@ -1,0 +1,53 @@
+{
+  "source": "redentor",
+  "title": "Redentor",
+  "status": "full-read-auto-pass-1",
+  "pages": 10,
+  "primaryCategories": [
+    "attribute_skill",
+    "power_magic",
+    "combat",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "redentor-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "Essa é a minha primeira adaptação, onde a Casta Redentor não consta no livro de Anjos: A Cidade de Prata. Portanto aqui vai as informações sobre essa casta. Agradecimentos: - A Deus por ter me ajudado a tomar uma decisão em relação sobre fazer essa adaptação - Aos meus pais, principalmente, por tudo que até hoje fazem por mim - À minha amada, Meire - Aos meu...",
+      "entityRefs": []
+    },
+    {
+      "id": "redentor-novos-aprimoramentos-5",
+      "name": "NOVOS APRIMORAMENTOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          8
+        ]
+      ],
+      "summary": "NOVOS APRIMORAMENTOS Redentor I – 3 pontos: Seu personagem é Humano, dos quais, vc tinha o perfil que a Estação Angélico-Orbital precisava no momento para se tornar um Redentor e ter a oportunidade de usar o seu podre contra os Soldados do Inferno, Vampiros, Liches, Lobisomens,etc... Vc recebe o simbionte, dos quais vem com: capa, soco inglês e correntes e a...",
+      "entityRefs": []
+    },
+    {
+      "id": "redentor-gastos-da-energia-de-treinamento-9",
+      "name": "GASTOS DA ENERGIA DE TREINAMENTO",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "GASTOS DA ENERGIA DE TREINAMENTO Abaixo vai uma tabela com o que pode ser feito com os simbiontes: celestiais e infernais e também, quanto ao custo de cada “ato” feito com o simbionte. O que pode ser feito com o simbionte celestial e/ ou infernal: Custo: R I E II Custo: Hellspawn Materializar armas de fogo* 25 30 Materializar munição* 10 15 Armas unanimadas...",
+      "entityRefs": []
+    }
+  ]
+}

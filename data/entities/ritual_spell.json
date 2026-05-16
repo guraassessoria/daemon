@@ -1,0 +1,35 @@
+[
+  {
+    "id": "convocar-lukhavim",
+    "name": "Convocar Lukhavim",
+    "category": "ritual_spell",
+    "source": "alastores-a-justica-infernal",
+    "page": 36,
+    "entries": ["Ritual Alastor para convocar Lukhavim, demonios construidos a partir de almas e cordoes de destino."],
+    "tags": ["ritual", "alastores", "demonio"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "sellas-locum",
+    "name": "Sellas locum",
+    "category": "ritual_spell",
+    "source": "alastores-a-justica-infernal",
+    "page": 37,
+    "entries": ["Ritual Alastor usado para restringir acesso ou passagem conforme descrito na secao de rituais."],
+    "tags": ["ritual", "alastores", "proteção"],
+    "confidence": 0.78,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "ipsa-nomina",
+    "name": "Ipsa Nomina",
+    "category": "ritual_spell",
+    "source": "alastores-a-justica-infernal",
+    "page": 37,
+    "entries": ["Ritual Alastor citado na secao de rituais, relacionado a nomes e criaturas sobrenaturais."],
+    "tags": ["ritual", "alastores"],
+    "confidence": 0.76,
+    "extractionMethod": "manual-pass-1"
+  }
+]

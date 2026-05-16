@@ -1,0 +1,155 @@
+{
+  "source": "secundarios",
+  "title": "secundarios",
+  "status": "full-read-auto-pass-1",
+  "pages": 23,
+  "primaryCategories": [
+    "item_equipment",
+    "creature_npc",
+    "power_magic",
+    "ritual_spell"
+  ],
+  "parts": [
+    {
+      "id": "secundarios-caminhos-1",
+      "name": "Caminhos",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "Caminhos Secundários- Rituais e Ordens (George Bin Laden) Alô, Galera!Aqui está um “complemento do complemento”,este net-book mostrará alguns rituais dos caminhos secundários para facilitar a vida dos nossos magos;além disso,mostrará também novas ordens baseadas nestes caminhos,que servirão para se ampliar horizontes de mestres e jogadores.Boa leitura, e esp...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-rituais-2",
+      "name": "Rituais",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "Rituais Andar em Brasas Andar em Gelo Águas Venenosas Armas de Cristal Água em Pedra Arma de Fogo Aurora Boreal Afundar Torre Aura Maldita Brilho Estelar Buraco Negro Choque Controle Elétrico Corrupção do Fogo Chagas Cortina de Fumaça Cura de Doenças Controlar Tempestade Corpo de Diamante Dedo Negro Detectar Invisibilidade Dádiva Venenosa Descanso Eterno Ent...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-lista-de-3",
+      "name": "Lista de",
+      "category": "creature_npc",
+      "pages": [
+        [
+          3,
+          7
+        ]
+      ],
+      "summary": "Lista de Rituais Nome Formas e caminhos Custo em pontos de magia Tempo de conjuração Componentes necessários;podem ser Verbal(V),Gestual(G) e Material(M) Descrição da magia, contendo suas limitações,materiais necessários,dano e restrições,quando for necessário . Entendimento das cinzas Entender Cinzas 1-6 Custo:1-3pts de magia Tempo de Conjuração:Imediato Co...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-armas-de-cristal-8",
+      "name": "Armas de Cristal",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "Armas de Cristal Criar Cristais 3-6 Custo:2-3 Tempo de Conjuração:Imediato Componentes:V,G,M(leia abaixo) Com este ritual ,o mago pode criar suas próprias armas,só que feitas de pedras preciosas.Com focus 3,o mago pode criar uma espada de safira ou de cristal que causa 3d6 de dano ou um escudo que confere IP 3;com focus 4,pode-se criar espadas ou escudos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-explosao-glacial-9",
+      "name": "Explosão Glacial",
+      "category": "power_magic",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Explosão Glacial Criar Gelo 3-6 Custo:2-3 pts Tempo de Conjuração:Imediato Componentes:V,G,M(um cubo de gelo) O mago deve colocar o cubo de gelo em sua mão e recitar e gestualizar;feito isso,o cubo irá se derreter e congelará a mão do mago,que deve direcioná-la para a vítima;então da mão do mago sairá um jato em forma de cone com inúmeros fragmentos de gelo...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-agua-em-pedra-11",
+      "name": "Água em Pedra",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "Água em Pedra Controlar Lama 3-6 Custo:2-3 pts Tempo de Conjuração:Imediato Componentes:V,G,M(um pedaço de barro) Com este ritual,o mago pode solidificar a água e transformá-la em pedra.O mago deve jogar o pedaço de barro na água;quando o barro entrar em contato com a água,esta se transformará em pedra,prendendo quem estiver nela.O volume atingido pela magia...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-transformacao-12",
+      "name": "Transformação",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "Transformação Entender/Criar Fumaça 3 Custo:2 pts Tempo de Conjuração:2 rodadas Componentes:V,G Este ritual é excelente para aqueles que agem como espiões.O mago deve entoar e gestualizar;quando fizer isso,começará a se transformar em fumaça,assim como tudo que estiver com o mago( até médios objetos).O Mago poderá sofrer danos letais num lugar em que haja mu...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-sobrenaturais-deve-adicionar-no-ritual-13",
+      "name": "sobrenaturais,deve adicionar no ritual",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "summary": "sobrenaturais,deve adicionar no ritual materiais específicos(se quiser,tiros com balas de prata,terá que colocar prata em pó junto com a pólvora;se quiser tiros com balas de hadjar,deve colocar hadjar em pó,e assim em diante...).O ritual dura 3d6 rodadas,ou até a “munição”acabar.O mago deve possuir a perícia da arma simulada,e irá testar seus tiros com a per...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-corpo-de-diamante-16",
+      "name": "Corpo de Diamante",
+      "category": "combat",
+      "pages": [
+        [
+          16,
+          17
+        ]
+      ],
+      "summary": "Corpo de Diamante Criar/Controlar Cristais 6 Custo:3 pts Tempo de Conjuração:3 rodadas Componentes:V,G,M(um diamante natural) Este é um dos rituais mais potentes deste caminho.Ao invocar os versos,o mago deve colocar o diamante em sua mão;ao colocá- lo,o diamante se espalhará pela superfície do mago e se transformará em uma armadura que cobrirá todo o corpo...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-ordens-de-magia-18",
+      "name": "Ordens de Magia",
+      "category": "power_magic",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "Ordens de Magia A seguir,verão algumas escolas de magia totalmente novas.Tais escolas não possuem tanta influência no globo,mas são dominantes em seus próprios territórios.São elas: Guardiões dos Portais Também conhecidos como Magos Vulcânicos. Fundação: Base:Havaí,Itália,Antártica, Atuação:Havaí,Itália,América Central e do Sul,Ilhas da Austrália,Antártica....",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-encantando-cobras-na-verdade-um-antigo-20",
+      "name": "encantando cobras(na verdade,um antigo",
+      "category": "power_magic",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "summary": "encantando cobras(na verdade,um antigo ritual do templo),e cada vez mais o templo se expande. Características Os magos da Serpente usam roupas verdes escuras,com serpentes desenhadas em seus mantos,durante seus rituais e reuniões.A domesticação de serpentes é extremamente comum entre os magos,que as usam como seus familiares.O templo da Serpente é inimigo de...",
+      "entityRefs": []
+    },
+    {
+      "id": "secundarios-tempestade-branca-22",
+      "name": "Tempestade Branca",
+      "category": "power_magic",
+      "pages": [
+        [
+          22,
+          23
+        ]
+      ],
+      "summary": "Tempestade Branca Também conhecidos como Magos Brancos. Fundação:século VIII Base:Norte da Europa Atuação:Norte da Europa,Norte do Canadá Personalidades:Thor Background No século VIII,a Ordem Luft se fragmentou em vários pedaços,formando inúmeras ordens.Dentre estas,está a Tempestade Branca.No princípio,tal fundação não tinha sido muito notada,ficando na pen...",
+      "entityRefs": []
+    }
+  ]
+}

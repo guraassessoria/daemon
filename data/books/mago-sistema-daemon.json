@@ -1,0 +1,57 @@
+{
+  "source": "mago-sistema-daemon",
+  "title": "Mago Sistema Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 46,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "power_magic",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "mago-sistema-daemon-iniciativa-1",
+      "name": "Iniciativa",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Iniciativa DAEMON Hatalíbio Almeida Sistema Daemon",
+      "entityRefs": []
+    },
+    {
+      "id": "mago-sistema-daemon-sistema-daemon-2",
+      "name": "Sistema Daemon",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Sistema Daemon 1ª edição",
+      "entityRefs": []
+    },
+    {
+      "id": "mago-sistema-daemon-magia-em-magika-3",
+      "name": "Magia em Mágika",
+      "category": "core_rule",
+      "pages": [
+        [
+          3,
+          45
+        ]
+      ],
+      "summary": "Magia em Mágika 4 Adeptos da Virtualidade 8 Coro Celestial 10 Culto do Êxtase 12 Eutanatos 14 Filhos do Éter 16 Irmandade de Akasha 18 Oradores dos SOnhos 20 Ordem d Hermes 22 Vazios 24 Verbena 26 Tecnocracia 28 Desauridos 30 Nefandi 31 Esferas 32 Novas Perícias 38 Aprimoramentos 40 Índice Criação: Hatalíbio Almeida Editor: Lobo Lancaster Desenvolvimento: Ha...",
+      "entityRefs": []
+    },
+    {
+      "id": "mago-sistema-daemon-iniciativa-46",
+      "name": "Iniciativa",
+      "category": "core_rule",
+      "pages": [
+        46
+      ],
+      "summary": "Iniciativa DAEMON Sistema Daemon Conheça a Realidade. Manipule seus sonhos. Ouça a voz do Avatar. E Desperte. Essa adaptação do jogo de RPG MAGO: A ASCENSÃO para o Sistema Daemon permite que os Personagens manipulem a Mágika Verdadeira, a habilidade de distorcer a Realidade e enxergá-la em sua natureza. Esse livro além disso contém adaptações de Qualidades e...",
+      "entityRefs": []
+    }
+  ]
+}

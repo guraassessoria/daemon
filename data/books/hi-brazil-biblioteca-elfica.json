@@ -1,0 +1,705 @@
+{
+  "source": "hi-brazil-biblioteca-elfica",
+  "title": "Hi-brazil-biblioteca-elfica",
+  "status": "full-read-auto-pass-1",
+  "pages": 102,
+  "primaryCategories": [
+    "race_lineage",
+    "combat",
+    "kit_class",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "hi-brazil-biblioteca-elfica-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "race_lineage",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-c-lm-ndo-cj-iferente-2",
+      "name": "C(lm ~ndo Cj)iferente",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          7
+        ]
+      ],
+      "summary": "C(lm ~ndo Cj)iferente O continente áe <.Hi-CfiraEiC Hi-Brazil é um mundo de campanha medieval fantástico, porém utiliz.ando quase que exclusivamente personagens do floclore e da mitologia brasileira e sul-americana. A ilha de Hi-Brazil fica localizada em Arcádia, nas regiões mais afastadas, e é considerada uma terra abençoada e santifica- da, para onde os es...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-grupo-terrorista-chamado-mst-encarrega-8",
+      "name": "--.._.,_.....,..=grupo terrorista, chamado MST (encarrega-",
+      "category": "race_lineage",
+      "pages": [
+        8
+      ],
+      "summary": "--.._.,_.....,..=grupo terrorista, chamado MST (encarrega- ~ as fortalezas e cidades inimigas, destruindo =:::J•o'c;.;% encontravam pela frente). O Exercito Vermelho foi responsável por muitas das qtie os Cavaleiros Negros enfrentaram, embora a F-21 destes ocorreu devido à Ordem da Luz. A -J:xih, como chamavam os Cavaleiros E!:::da Vconelha, era inspirada na...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cas-9",
+      "name": "~ças",
+      "category": "character_option",
+      "pages": [
+        9
+      ],
+      "summary": "~ças Apresentamos neste capítulo todas as raças principais de Hi- Bnzil. Os jogadores podem escolher qualquer uma delas para montar seu Personagem. Cada uma das raças possui algumas van- agens e desvantagens em relação a outras raças, não existindo nenhuma raça \"melhor' ou \"pior' que a outra. Cada Mestre determina quais serão as raças mais utiliza- das pelos...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ga-irus-10",
+      "name": "Ga&irus",
+      "category": "combat",
+      "pages": [
+        10
+      ],
+      "summary": "Ga&irus Comum: Hi-Bcizil, Império, F1oresta das Chuvas, Guilda, Trinidad Incomum: Reinos Incas, Reinos Mayas, Reinos do Oriente. Raro: PatllgÔ!lia, Reinos Súlfidos, Reinos A!gentos, Minas Gerais. Muito Raro: Terra dos Kanaymas. Vantagens: ~ergam no escuro (atê30m), Pele Resistente (IP 1), Sociedade Secreta (todos os gabirús ajudam uns aos outros). Desvantage...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cecfos-11",
+      "name": "CECfos",
+      "category": "attribute_skill",
+      "pages": [
+        11
+      ],
+      "summary": "CECfos Comum:- Incomum: Trinidad, Reinos Súlfidos, Guilda. Raro: Reinos Argentos, Império, Reinos do Oriente, Floresta das Chuvas, Reinos Incas, Reinos Mayas, Hi-Brazil. Muito Raro: Terra dos Kanaymas, Patagônia, Minas Gerais. Vantagens: Enxergam no Escuro (30m). Desvantagens: Estigma Social, Dimensões Especiais. Atributos Médios (Modificadores): FR 9 (-1),...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-su-fidos-12",
+      "name": "Sú[fidos",
+      "category": "race_lineage",
+      "pages": [
+        12
+      ],
+      "summary": "Sú[fidos Comum: - lncomum: Reinos Súlfidos. Raro: Reinos Argentos, Patagônia, Hi-Brazil Muito Raro: Todos os outros reinos Vantagens: Sentidos Aguçados. Desvantagens: Nenhuma. Atributos Médios (Modificadores): FR 8 (-2), CON 8 (-2), DEX 12 (+2), AGI 12 (+2) INT 11 (+1), WILL 12 (+2), PER 12 (+2), CAR 14 (+4) Os súlfidos são. uma raça faérica originária de Pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cfnaios-13",
+      "name": "cfnáios",
+      "category": "power_magic",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "cfnáios Comum: Floresta das Chuvas, Hi-Brazil, Gui1da. Incomwn: Reinos Mayas, Reinos Incas, Ten:a dos Kanaymas. Raro: Império, Trinidad, Reinos Súlfidos. Muito Rato: Todos os outros reinos Vantagens: Sentidos Aguçados. Desvantagens: Estigma Social. Atributos Médios (Modificadores): FR 11 (+1), CON 11 (+1), DEX 11(+1),AGI11 (+1) INT 10 (-), WILL 10 (-),PER 11...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-am-u-ona-15",
+      "name": "Am,u;ona",
+      "category": "core_rule",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "summary": "Am,u;ona Todas as Amazonas precisam escolher este Kit obrigatoria- mente, pois o treinamento entre elas durante toda a inf'ancia e adolescência resulta nestas habilidades. Muitas vezes, as Amazonas costumam adotar fêmeas de outras raças e treiná-las como se fossem suas filhas. Nesse caso, a criança adotada recebe treinamento militar em arco-e-flecha e com- b...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ccerigos-17",
+      "name": "CCérigos",
+      "category": "power_magic",
+      "pages": [
+        17
+      ],
+      "summary": "CCérigos Os clérigos são devotos dos diversos deuses de Hi-Brazil. De acordo com o deus escolhido, o clérigo apresenta pode- res rehcionados a seus domínios e atribuições. Para descrições de- talhadas dos clérigos de cada deus, consulte o GUIA DE CLAS- SES DE PRESTÍGIO, da Daemon Editora. Custo: 3 pontos de Aprimoramento, 260 pontos de Perícia. Pericias: Esc...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-gfaaiaaor-18",
+      "name": "Gfaáiaáor",
+      "category": "combat",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "Gfaáiaáor Uma profissão muito rentável e ao mesmo tempo muito perigosa. Os gladiadores são vistos como heróis pela população dos locais por onde passam, tanto se lutarem nas arenas quanto se forem participantes do Pok-a-tok. Podem estar estabelecidos em apenas uma arena ou passar a vida viajando a procura de novos desafios. Custo: 3 pontos de aprimoramento,...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-historia-20",
+      "name": "<História",
+      "category": "creature_npc",
+      "pages": [
+        20
+      ],
+      "summary": "<História A história de Hi-Brazil possui muitos milhares de anos, mas os eventos mais importantes são, sem dúvida nenhuma, os que se seguiram à chegada da Nova Era. Com a promessa de fartura e prosperidade, as pequenas vilas decidiram se unir em torno de um único ideal de grandeza e prosperidade e passaram a formar pequenos exércitos que juntos protegiam tod...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cequipamentos-21",
+      "name": "CEquipamentos",
+      "category": "item_equipment",
+      "pages": [
+        21
+      ],
+      "summary": "CEquipamentos Armas Sistema ~netário Com a unificação das vilas em reinos, há cerca de 500 anos, os comerciantes do continente passaram a utilizar moedas de metais preciosos como fator de troca de mercadorias. Originalmente, cada reino utilizava desenhos próprios nas faces de suas moedas (geral- mente o rosto do governante ou algum símbolo religioso), para i...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ipamentos-esptciais-22",
+      "name": "~ipamentos <EsptciAis",
+      "category": "race_lineage",
+      "pages": [
+        22
+      ],
+      "summary": "~ipamentos <EsptciAis = -?runa to Musical ec Pruneiros Socorros ~rio de Alquimia ...- de Aumento de Pesca (m2) <{)estucirio de Pok-a-Tok G::.mtlo luxuoso s1mplcs de Artesão trfC de Clima Frio l:z. de Corte de Entretenimento de Explorador de Monge de Nobre custo 25gp 2gp 5gp 1.000gp 5gp 55gp 15gp 1.000gp 30gp lOOgp 5gp 100gp 80gp 50gp 50gp 500gp 100gp 3sp cus...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-iir-23",
+      "name": "iir=",
+      "category": "item_equipment",
+      "pages": [
+        23
+      ],
+      "summary": "iir= 1>-bis C{)eicufos Salio Fokket·- 80 Bão Fokkc:r - 100 Barco de Pesca pequeno Suco de Pesca médio Ba!co de Pesca grande Biga (Reinos Argentos) Canoa comum Canoa de guerra Caravela Carroça comum Carruagem Carruagem Luxuosa Charrete Galeão Jangada Navio Mercante Trenó (Reinos Patagônicos) qte:ns ~9ionais item Açúcar (saco) Banana (saco) Borracha Café (saco...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-rapier-24",
+      "name": "Rapier",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "Rapier 1d6+1 70 100 A.rma dano pnço peso Sabre ld6+1 130 170 Adaga 1d3 2gp O,SKg Tridente 1d6 150 160 1 1 1 n ,, Zarabatana 5 6 Arco Composto 1d6+2 100gp 1,SKg A.rmadura q9? preço peso Arco Longo 1d6+2 75gp 1,SKg Corselete de Tecido 8gp 3Kg Arco Simples 1d6 30gp 1Kg Corselete de Couro lOgp 6Kg ~-~ Corselete de Couro Reforçado 25gp 6Kg Armadura de Couro Refor...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cffistoria-25",
+      "name": "Cffistória",
+      "category": "race_lineage",
+      "pages": [
+        [
+          25,
+          26
+        ]
+      ],
+      "summary": "Cffistória A história de Hi-Brazil possui muitos milhares de anos, mas os eventos mais importantes são, sem dúvida nenhuma, os que se seguiram à chegada da Nova Era. Coro a promessa de fartura e prosperidade, as pequenas vilas decidiram se unir em torno de um único ideal de grandeza e prosperidade e passaram a formar pequenos exércitos que juntos protegiam t...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cidades-de-cj-estaque-27",
+      "name": "Cidades de Cj)estaque",
+      "category": "kit_class",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Cidades de Cj)estaque San SJ?aoCo Cidade fortificada com aproximadamente quinhentos mil habitantes. É o maior conglomerado w:bano de todo o continen- te, com a presença constante de praticamente todas as raças, classes e religiões do continente. San Paolo é uma cidade-estado dividida em cinco grandes áreas, interligadas entre si: O Centro forma a parte mais...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-wol-to-de-o-de-gandro-29",
+      "name": "Wol'to de ~o de gandro",
+      "category": "creature_npc",
+      "pages": [
+        [
+          29,
+          30
+        ]
+      ],
+      "summary": "Wol'to de ~o de gandro O Porto do Rio de Janeiro é um dos maiores paradoxos do continente. Palácios suntuosos, castelos intransponíveis e torres maravilhosas cercadas por favelas e pobreza intermináveis, lidera- das por um governo paralelo. Geograficamente, a cidade com cerca de cem mil habitantes está localizada entte os morros e o mar. A região é dominada...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-powidon-36-31",
+      "name": "'Powidon 36",
+      "category": "creature_npc",
+      "pages": [
+        [
+          31,
+          32
+        ]
+      ],
+      "summary": "'Powidon 36 C ::::u das cidades mais bonitas de Hi-Brazil, Poseidon 36 foi ~ ?Or um feiticeiro muito poderoso chamado Columbus. ?oseirlon está localizada a cerca de 200km do Porto de Rio de _brx:iro. a uma profundidade de cerca de 1 OOm da superficie. Para chegar até a cidade de P-36, é necessário contratar os semços de um grupo de magos que vive em uma torr...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-oonas-gerais-33",
+      "name": "OOnas Gerais",
+      "category": "power_magic",
+      "pages": [
+        [
+          33,
+          34
+        ]
+      ],
+      "summary": "OOnas Gerais Cff istó1\"ia Também conhecidas como ''.As Montanhas dos Anões\", as Minas Gerais são montanhas de dificil acesso e estradas estreitas, permeadas por milhares de cavernas e túneis, escavados pelos anões. Além dos anões, vivem nas montanhas diversos tipos de mons- tros como trolls, hobgoblins, ogros e gigantes, além de criaturas como grifos, hárpia...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-historia-35",
+      "name": "<História",
+      "category": "power_magic",
+      "pages": [
+        35
+      ],
+      "summary": "<História A história do Império se confunde com a própria história da Nova Era. Logo nos primeiros anos após a visão das três estre- las da sorte, o feiticeiro conhecido como o Imperador chegou até wn vilarejo e decidiu tomá-lo sua capital. Quase nada se sabe a respeito desse necromântico, exceto pelo fato de que ele saiu do deserto da Caatinga sozinho e que...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ronteiras-36",
+      "name": "~ronteiras",
+      "category": "race_lineage",
+      "pages": [
+        36
+      ],
+      "summary": "~ronteiras As fronteiras do Império sempre estiveram em expansão, até a presente data. A oeste, o Império é limitado pelas montanhas que fonnam o território dos anões, embora não haja nenhum tipo de tratado ou acordo entre os exércitos. O território dos anões simplesmente é inóspito demais para valer a pena um avanço das tropas. Apesar disso, soldados imperi...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ciaaaes-ae-cj-estaque-37",
+      "name": "Ciáaáes áe CJ)estaque",
+      "category": "power_magic",
+      "pages": [
+        [
+          37,
+          39
+        ]
+      ],
+      "summary": "Ciáaáes áe CJ)estaque SaCvatot<i Conhecida como \"A cidade que foi erguida em um único dia\", Salvatori é a capital do Império. Possui cerca de 50.000 habi- tantes e 8.000 soldados. O Imperador proíbe qualquer tipo de religião. no entanto, o culto a Jizuis é muito difundido secretamente entre humanos e goblins. A cidade possui muitas torres e fortificações e e...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-tiuu-a-cicfcu-e-cf11s-cfuncis-40",
+      "name": "~tíuú, A cicfcu{e cf11s cfunCIS",
+      "category": "creature_npc",
+      "pages": [
+        40
+      ],
+      "summary": "~tíuú, A cicfcu{e cf11s cfunCIS Nathal possui 15.000 habitantes regulares, entre humanos, goblins e afrikans. A maior caractetística dessa cidade (e o maior perigo também) são as dunas que cercam toda a região. Originalmente, existia um forte chamado ''Forte dos Reis Ma- gos\", que eram feiticeiros mu,ito poderosos que fundaram a cidade. A vila foi crescendo...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-3dem-41",
+      "name": "<]3dém",
+      "category": "combat",
+      "pages": [
+        41
+      ],
+      "summary": "<]3dém Localizada às margen~ do rio Tocantins e próxima da fa- mosa Ilha dos Búfalos, a cidade de Belém é considerada uma das principais portas de entrada de visitantes no Império. Sua função estratégica de vigiar qualquer embarcação que entre pelo Tocantins por via marítima torna a cidade de extrema impor- tância para os exércitos imperiais. Patrulhas de ga...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cj-iul-cfos-ae-et-es-42",
+      "name": "CJ(íul cfos ~ae;et'es",
+      "category": "combat",
+      "pages": [
+        42
+      ],
+      "summary": "CJ(íul cfos ~ae;et'es Ilha localizada alguns dias de viagem para sudoeste de Nathal, dita como o paraíso intocado do continente. Dizem que a Ilha dos prazeres é o único local realmente sagrado do Império, cujos pode- res nem o Imperador ousou desafiar. A ilha dos Prazeres é habitada por pouco mais de 50 habi- tantes, membros de uma comunidade de devotos do d...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-oresta-das-cftu-as-43",
+      "name": "~oresta das Cftu'\\'as",
+      "category": "combat",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "summary": "~oresta das Cftu'\\'as <História A Floresta das Chuvas é a maior floresta tropical do conti- nente. Sua história possui alguns milhares de anos, mas é guarda- da a sete chaves pelos índios e outros habitantes nativos. \\ Não existe um reinado oficial na região, mas um aglomera- do de diversas tribos independentes que sobrevivem na floresta. Desta maneira, as h...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-x-attctus-45",
+      "name": "!:X,_attctUS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          45,
+          46
+        ]
+      ],
+      "summary": "!:X,_attctUS Manaus é a maior das cerca de sessenta cidades e vilas com predominância humana ao longo da Floresta das Chuvas. Possui aproximadamente 28.000 habitantes, com humanos (70%), afrikans (15%), goblins (10%) e outros (5%), o que é uma metró- pole para os padrões da região. A cidade possui uma grande peculiaridade. Todos os dias, exa- tamente às seis...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-inos-ao-oriente-47",
+      "name": "~inos ão Oriente",
+      "category": "race_lineage",
+      "pages": [
+        [
+          47,
+          49
+        ]
+      ],
+      "summary": "~inos ão Oriente 'História Os Reinos do Oriente são três pequenos reinos localizados no extremo leste do continente, que formaram uma aliança entre seus imperadores para sobreviver aos ataques dos kanaymas e gorkas (homens-gorila) que vivem na Floresta das Chuvas. Guiany Maior dos três reinos, é chamado de \"Reino dos Elfos\" porque é o único local do continen...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-c-fenne-50",
+      "name": "C«\"fenne",
+      "category": "creature_npc",
+      "pages": [
+        50
+      ],
+      "summary": "C«\"fenne ~a Velha Arcádia, não existem prisões ou qualquer institui- çio parecida, exceto o Tártaro, onde os demônios, criaturas e mons- tros mais perigosos são aprisionados pelos deuses. Para criminosos, o exílio é a pena mais utilizada. Contudo, o convívio dos habitantes da Velha Arcádia com visitantes do Oci- dente acabou criando assassinos e outros tipos...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-efrinidad-51",
+      "name": "éfrinidad",
+      "category": "race_lineage",
+      "pages": [
+        [
+          51,
+          54
+        ]
+      ],
+      "summary": "éfrinidad 'História Trinidad é conhecido como o Reino dos Navegantes ou ainda Reino dos Piratas. Está localizado no extremo leste do con- tinente e compreende uma estreita faixa de terra entre os Reinos Mayas e os Reinos Élficos, passando pelos territórios dos kanaymas. A história de Trinidad começa com a fundação de Port Trinidad, pelos navegantes de Nova A...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-historia-55",
+      "name": "'História",
+      "category": "power_magic",
+      "pages": [
+        [
+          55,
+          56
+        ]
+      ],
+      "summary": "'História Ninguém sabe.ao certo a história dos kanaymas. Os primei- ros ataques aos humanos foram reportados muitos séculos antes da passagem dos três cometas e de acordo com as lendas mais comuns entre os incas e os mayas, sabe-se que eles foram criados pelo deus Hun Pie Tok (cuja tradução é \"deus das oito mil espa- das de pedra'') para proteger a floresta...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-inos-as-57",
+      "name": "~inos ~~as",
+      "category": "power_magic",
+      "pages": [
+        57
+      ],
+      "summary": "~inos ~~as <História A história dos Reinos Mayas pode ser traçada até meados do século X AC e costuma ser dividida em três épocas. O primeiro período vai da chegada dos mayas ao novo continente até 600 AC, que marca o auge do Império Maya. Segundo as lendas, os primeiros habitantes chegaram através de portais de um plano chamado Ark-a-nun e eram humanos em t...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ciaaaes-de-q-estaque-58",
+      "name": "Ciáaáes de q)estaque",
+      "category": "race_lineage",
+      "pages": [
+        58
+      ],
+      "summary": "Ciáaáes de q)estaque Qftli;g( Capital do império e maior cidade maya, Tikal possui cerca e.e 120.000 habitantes, em sua maioria humanos, mas também tl:rikans refugiados, goblins foragidos do Império e algumas pou- .::25 guildas de anões e índios pacíficos. O maior templo da cidade chama-se Templo do Jaguar de ,:ide, em homenagem ao deus Hun Pie Tok. Ao lado...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-uxma-59",
+      "name": "<Uxma(",
+      "category": "creature_npc",
+      "pages": [
+        59
+      ],
+      "summary": "<Uxma( Uma das maiores cidad~s do Reino, com cerca de 100.000 habitantes, localizada às margens do rio Magdalena. Uxmal sig- nifica \"três vezes ocupada\" e tem esse nome por causa de um dos perigos da região: o povo-serpente. A primeira ocupação da vila aconteceu há mais de mil anos atrás, por um grupo de clérigos do deus das colheitas, Chac, que seguia uma v...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ji-tfto-60",
+      "name": "'Ji\\!,tfto",
+      "category": "power_magic",
+      "pages": [
+        60
+      ],
+      "summary": "'Ji\\!,tfto Kitho é a capital da região do norte, wna região montanho- 1oal nda no extremo norte do Reino Maya. Localizado às mar- ~ do gande lago Ekuator, Kitho possui cerca de 30.000 habi- c fia a alguns dias de viagem da costa, seguindo wna estrada ba de Tcka até Kitho através das montanhas. .Kitho é uma cidade fortificada, entalhada na montanha ca::i 2 a1...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-geo9rafia-61",
+      "name": "Geo9rafia",
+      "category": "creature_npc",
+      "pages": [
+        61
+      ],
+      "summary": "Geo9rafia Os Reinos Mayas estão ~ocalizados em uma grande planície, isolados do mar ao norte por uma cordilheira gigantesca de mon- tanhas chamadas Andhes. As planícies são preenchidas ao sul pela Floresta das Chu- vas, que vai perdendo intensidade até se tomar um campo verdejante, no centro do reino. Ao leste, existe uma pequena cadeia de montanhas chamada...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-o-cana-ae-mec-62",
+      "name": "O Cana[ áe ()[mec",
+      "category": "power_magic",
+      "pages": [
+        62
+      ],
+      "summary": "O Cana[ áe ()[mec , ,. ~ .,,,. Construído pelos gigantes que vivem nos Reinos Aztecas, o Canal de Olmec foi escavado por uma centena de gigantes das montanhas que viviam na região rochosa que liga o continente aos Reinos Aztecas durante quase duzentos anos . • \"\"\\ideia original dos gigantes er> escavar um fosso largo o suficiente para isolar sua pátria do te...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-inos-qncas-63",
+      "name": "~inos qncas",
+      "category": "race_lineage",
+      "pages": [
+        63
+      ],
+      "summary": "~inos qncas Cffistória Os Reinos Incas não formam propriamente um império, mas uma reunião de diversas tribos e cidades-estado independen- tes, que tomaram seu nome de um poderoso líder religioso cha- mado Ynca, o Imortal, sumo sacerdote de Inti, deus do sol Por volta de 400 AC, os incas eram apenas uma dezena de tribos organizadas ao redor de Cuzco, mas aos...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ciaa-des-de-cj-estaque-64",
+      "name": "Ciáa.des de CJ)estaque",
+      "category": "combat",
+      "pages": [
+        64
+      ],
+      "summary": "Ciáa.des de CJ)estaque ~iul'a _\\\"Cidade do Norte\", entreposto comercial onde estão lo- aSzadas as maiores companhias maritimas do Reino Inca. Piura CZiiliéin possui barcos especializados na pesca da baleira, cuja came e cnnro apreciada pelos nativos. Em toda a costa do Reino Inca ~baleias brancas e azuladas (algumas de proporções gigantes- c:u). que s~rvem d...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-acflu-icftu-65",
+      "name": "~Acflu ~icftu",
+      "category": "power_magic",
+      "pages": [
+        65
+      ],
+      "summary": "~Acflu ~icftu O nome significa \"Ve!P.a Montanha\" na língua antiga. Machu Pichu é uma pequena, porém muito importante cidade inca. Erguida em algum local na Cordilheira dos Andhes, a cidade foi projetada e construída de tal maneira que é pratica- mente invisível para quem está escalando as montanhas, até se chegar aos portões da cidade. Todos os edifkios da c...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cus-66",
+      "name": "~~cus",
+      "category": "creature_npc",
+      "pages": [
+        [
+          66,
+          68
+        ]
+      ],
+      "summary": "~~cus La Paz é uma grande cidade localizada no alto da Cordilheita _'uldhes, no centro do Império Inca. Também chamada de Cida- <io Port2l do So~ a cidade de 32000 habitantes é conhecida por uma pxic cstrunua em forma de arco, que dizem que já estava na região ç::z:::do os primeiros exploradores fundaram a cidade. O Arco d~ pedra é o conhecido como Portal do...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-agui-da-69",
+      "name": "AGui[da",
+      "category": "power_magic",
+      "pages": [
+        [
+          69,
+          71
+        ]
+      ],
+      "summary": "AGui[da Cffistória Desde tempos imemoriais, a Guilda têm representado tudo o que há de pior em Hi-Brazil. Terra para onde os fugitivos da lei, do Império e das prisões rumavam, onde falsificadores, traficantes e contrabandistas organizavam seus cartéis. A Guilda começou a ser formada após a desastrosa Gueua da Triplice Aliança, em 365 DC, quando a região per...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-opucacao-72",
+      "name": "~opuCaçao",
+      "category": "race_lineage",
+      "pages": [
+        [
+          72,
+          75
+        ]
+      ],
+      "summary": "~opuCaçao Cerca de 1.500.000 habitantes, com grandes concentrações ee todas as raças principais do continente. As principais raças que ilitam os Reinos Súlfidos são: humanos (60%), súlfidos (15%), anões (5%), afrikans (5%), goblins (5%), elfos (5%), índios (2%), f:adas (2%), outras raças (dríades, ents, centauros) (1 %). ~gente A rainha Súlfi.da é considerad...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-inos-areentos-76",
+      "name": "~inos Areentos",
+      "category": "race_lineage",
+      "pages": [
+        [
+          76,
+          77
+        ]
+      ],
+      "summary": "~inos Areentos <História A nação argenta surgiu de expedições colonizadoras de Nova Arcádia, estabelecendo postos comerciais no novo continente no início da Nova Era. Muitos dos deuses romanos e de sua influên- cia foi trazido com estes exploradores, o que se reflete na arquitetu- ra dos templos e das cidades. No início, os reinos viveram uma era de grande p...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-wccatca-78",
+      "name": "wccatca",
+      "category": "combat",
+      "pages": [
+        78
+      ],
+      "summary": "wccatca Em 246, uma expediç~o legionária fundou a cidade de Plata com o objetivo de catequizar os índios que viviam na região de Mar dei Plata e convertê-los ao Jizuismo. Localizada a cerca de 400km de Buenos, Plata é famosa por suas minas de prata e por suas praias maravilhosas. Atualmente, possui uma população de pouco mais de 3.000 habitantes: humanos (70...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-guifdas-e-oraanii-acoes-79",
+      "name": "Guifdas e Oraanii~;ações",
+      "category": "combat",
+      "pages": [
+        79
+      ],
+      "summary": "Guifdas e Oraanii~;ações A ~iÃo Argenta Motivo de orgulho para o reino, a Legião é composta de aproximadamente 18 a 20 mil soldados, divididos em centúrias (compostas de 100 soldados). Cada tropa é composta de duas a cinco cent4rias, dependendo da necessidade e da região. Os líderes de cada tropa são geralmente os melhores soldados de cada regi- mento e cost...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-clfistot9ia-80",
+      "name": "Clfistót9ia",
+      "category": "creature_npc",
+      "pages": [
+        [
+          80,
+          83
+        ]
+      ],
+      "summary": "Clfistót9ia A Patagônia é wna região gelada e isolada do resto do con- tinente e que esconde muitos segredos. Os habitantes que vivem nas áreas mais afastadas do oeste são reclusos e não gostam de visitantes. Os argentos já tentaram invadir a Patagônia várias vezes, todas frustradas pelo clima e pelos monstros terríveis que habitam o planalto gelado. CHma e...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-cidade-c-oadora-de-84",
+      "name": "Cidade C{)oadora de",
+      "category": "core_rule",
+      "pages": [
+        [
+          84,
+          85
+        ]
+      ],
+      "summary": "Cidade C{)oadora de g;f exus SJ?u(sfter Sem dúvida alguma, uma das cidades mais impressionantes de Hi-Brazil é a cidade voadora de Flexus Pulsher. É impossível não petceber a gigantesca estrutura que se eleva nos céus, com seus mercados multicoloridos, suas estruturas metálicas, seus canhões de ferro, seus balões goblins e zeppelins. A cidade voadora é uma c...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-onstros-e-criaturas-86",
+      "name": "~onstros e Criaturas",
+      "category": "combat",
+      "pages": [
+        86
+      ],
+      "summary": "~onstros e Criaturas Como todo mundo de fantasia medieval, Hi-Brazil possui uma gama enorme de criaturas estranhas e maravilhosas. Neste capítulo, descreveremos brevemente as criaturas mais comuns de serem encontradas durante as aventuras e explorações. Os animais possuem as estatísticas dadas quase sempre em uma faixa de valores (por exemplo, CON 20-24) e a...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-a-nasis-ftomens-at-aettfdeos-87",
+      "name": "A..nasis (ftomens-at'Aettfdeos)",
+      "category": "combat",
+      "pages": [
+        [
+          87,
+          88
+        ]
+      ],
+      "summary": "A..nasis (ftomens-at'Aettfdeos) CON 20-24, FR 20-24, DEX 10-12,AGI 12-14 INT 10-12, WIIL 10-12, CAR5-6,PER 12-16 #Ataques [1], IP 0/2 (parte aranha), PV s 20-30 Briga 60/ 60 dano 1d6 ou por arma Alguns possuem presas com veneno 60/0 dano 1d3+4d6 São capazes de produzir fios de teia com FR 16-20 capazes de formar redes, teias ou fios para aprisionar seus opon...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-concfor-89",
+      "name": "Concfor",
+      "category": "power_magic",
+      "pages": [
+        [
+          89,
+          90
+        ]
+      ],
+      "summary": "Concfor CON 20-24, FR 20-24, DEX 5, AGI 1 O INT 1, Wlll.1, CAR 1, PER20 #Ataques [2], IP 1, PVs 30-40 Bicada 40/0 dano 2d6 Garras 50/50 dano 2d6+6 Condores gigantes são encontrados nos Andhes, nas encostas das ~!2flhas mais al~ e inacessíveis. Sua envergadun pode chegar a ate 10m &nlmente e alimentam-se preferencialmente de camiça, em- bora possam atacar uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-j-ra5oes-cie-gacapa5os-91",
+      "name": "<j)rA5ões cíe GACápA5os",
+      "category": "power_magic",
+      "pages": [
+        [
+          91,
+          92
+        ]
+      ],
+      "summary": "<j)rA5ões cíe GACápA5os CON 30-36, FR 30-36, DEX 5,AGI 6-12 I>!T 3, WILL 3, CAR 3, PER 20 #Ataques [1 ], IP 3 (pele), PV s 30-40 Mordida 50/0 dano 1d10 +veneno (1d6x8) Cauda 60/50 dano 2d6+8 O dragão de Galápagos é um lagarto com cerca de 3m de comprimento e aspecto de dragão que vive nas Ilhas Malpelo. Ata- cam os cervos, ratos e outros animais da ilha mas...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-gttifos-93",
+      "name": "Gttifos",
+      "category": "combat",
+      "pages": [
+        [
+          93,
+          94
+        ]
+      ],
+      "summary": "Gttifos CON 24-36,PR24-36,DEX3,AGI 8-16 INT 3, WIIL 12-14, CAR 10-12, PER 20-24 #Ataques [3], IP 1, PVs 26-36 Garras x2 60/60dano1d10+5 Bicada 65/0dano1d6 Pode voar com velocidade de 25m/ s (90km/h) Grifos são animais com corpo de leão, cabeça, garras e asas de águia, que vivem nas Montanhas dos Anões. São animais selva- gens e muito raros, consideradas as c...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-l-gf-o-gucmi-95",
+      "name": "<l.gf> o Gucmi",
+      "category": "combat",
+      "pages": [
+        95
+      ],
+      "summary": "<l.gf> o Gucmi CON 8-10, FR 8-10, DEX 5,AGI 12-14 INT 3, W1LL 3, CAR 3, PER 20-24 #Ataques [1], IP O, PVs 10-12 Mordida 45/0 dano 1d10 Lobo que vive na região da Guilda, Reinos Argentos e oeste de Hi-Brazil Tem o pelo avermelhado e o focinho escuro. Evita o contato com os humanos, preferindo ficar em campinas e campos cerrados. Atualmente está sendo consider...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-g-anticof-cis-96",
+      "name": "g(anticOf'CIS",
+      "category": "combat",
+      "pages": [
+        96
+      ],
+      "summary": "g(anticOf'CIS CON 24-46, FR 24-46, DEX 3-6, AGI 12-18 INT 16-18, WII.l.. 6-18, CAR 5, PER 14-20 #Ataques [3], IP 3 (pele), PVs 36-50 Ganas [x2] 65/60 dano 2d6+bônus Ferrão Venenoso 50/0dano1d6 +veneno (4d6) ou Mordida 50/0 dano 2d6 Mantícoras (Manthik.oras) são monstros com o corpo de leão ou tigre, asas de morcego, cauda de escorpião e o rosto de um velho (...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-canticoj-cis-97",
+      "name": "~canticOJ'CIS",
+      "category": "combat",
+      "pages": [
+        97
+      ],
+      "summary": "~canticOJ'CIS CON 24-46, FR 24-46, DEX 3-6, AGI 12-18 INT 16-18, WilL 6-18, CAR 5, PER 14-20 #Ataques [3], IP 3 (pele), PVs 36-50 Garras [x2] 65/60 dano 2d6+bônus Ferrão Venenoso 50/0dano1d6 +veneno (4d6) ou Mordida 50/0 dano 2d6 Mantícoras (Manthikoras) são monstros com o corpo de leão ou tigre, asas de morcego, cauda de escorpião e o rosto de um velho (ape...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-ca-sem-calieca-98",
+      "name": "~Ca-sem-Calieça",
+      "category": "combat",
+      "pages": [
+        [
+          98,
+          99
+        ]
+      ],
+      "summary": "~Ca-sem-Calieça CON30-32,FR30-32,DEX3,AGI 10-12 INT 2-6, WILL 12-16, CAR 1, PER 20-24 #Ataques [1), IP 3 (pele), PVs 40-46 Coice 60/0 dano 3d6+3 ou Bafo de Fogo 65/0 dano 2d10 A mula-sem-cabeça é uma mula que possui seu ctânio penna- nentemente em chamas. Só pode existir durante a noite, desaparecen- do com o nascer do Sol Diz a lenda que qualquer mulher que...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-socdados-qmperiais-100",
+      "name": "SoCdados qmperiais",
+      "category": "combat",
+      "pages": [
+        [
+          100,
+          101
+        ]
+      ],
+      "summary": "SoCdados qmperiais CON 12,FR 12,DEX 12,AGI 12 INT 10, WILL 12, CARO, PER 12 #Ataques [1], IP 4 (armadura), PVs 12 Arma (espada ou lança) 45/ 50 dano por arma Os soldados imperiais são resultados de rituais desenvolvi- dos pelo Imperador, utilizando conhecimentos de conjuração de golens e de necromancia. Por fora, parecem à primeira vista guerrei- ros vestind...",
+      "entityRefs": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica-6fu-cl1-oes-102",
+      "name": "6fu&Cl1'Ões",
+      "category": "power_magic",
+      "pages": [
+        102
+      ],
+      "summary": "6fu&Cl1'Ões CON 30-32, FR 30-32, DEX O, AGI 15 INT 2, WILL 4, CARO, PER 15 #Ataques [1], IP 2, PVs 45 Mordida 65/0 dano 3d6 ou Pancada 50/0 dano 2d6+6 Os mares do Sul e do Caribbe são infestados de tubarões de várias espécies, que podem sentir uma gota de sangue na água a um quilômetro de distância. Das gélidas praias de Falkland às cris- talinas águas da Il...",
+      "entityRefs": []
+    }
+  ]
+}

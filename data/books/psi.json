@@ -1,0 +1,40 @@
+{
+  "source": "psi",
+  "title": "psi",
+  "status": "full-read-auto-pass-1",
+  "pages": 27,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "power_magic",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "psi-flavio-araujo-1",
+      "name": "Flávio Araújo",
+      "category": "power_magic",
+      "pages": [
+        [
+          1,
+          23
+        ]
+      ],
+      "summary": "1 Flávio Araújo Poderes da Mente 2 Agradecimentos Em primeiro lugar, a Deus. Em segundo, a Gery Gygax, por ter criado o RPG. E em terceiro, ao Marcos, por ter me apresentado ao RPG. Outros Agradecimentos - Ao pessoal do grupo de Tormenta (Bruno, Caio, Felipe e Rafael), com os quais eu praticamente aprendi a jogar RPG (claro... menos com o Rafael...). - Ao pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "psi-campanha-24",
+      "name": "CAMPANHA",
+      "category": "core_rule",
+      "pages": [
+        [
+          24,
+          27
+        ]
+      ],
+      "summary": "2 4 CAMPANHA Os Personagens começam com 101 pontos de Atributos (en- tre 5 e 18), 5 pontos de Aprimoramento e podem chegar a até 500 pontos em Perícias. Possuem 1 inimigo inicial. Sua Historia Ninguém simplesmente surge do nada. Depois de resolver quem e o que ele é (guerrilheiro, detetive, piloto comercial...), você precisa determinar como seu personagem ch...",
+      "entityRefs": []
+    }
+  ]
+}

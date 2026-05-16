@@ -1,0 +1,122 @@
+{
+  "source": "arcadia-nova-arcadia",
+  "title": "Arcádia - Nova Arcádia",
+  "status": "full-read-auto-pass-1",
+  "pages": 16,
+  "primaryCategories": [
+    "race_lineage",
+    "creature_npc",
+    "attribute_skill",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "arcadia-nova-arcadia-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-esta-e-uma-versao-2",
+      "name": "Esta é uma versão",
+      "category": "source",
+      "pages": [
+        2
+      ],
+      "summary": "Esta é uma versão Demo Em Breve, a versão completa estará disponível! H. P. Almeida",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-historia-de-nova-arcadia-3",
+      "name": "Historia de Nova Arcádia",
+      "category": "race_lineage",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Historia de Nova Arcádia A história de Arcádia começa com os conceitos básicos da Roda dos Mundos: ela gira, e, enquanto gradualmente os mundos perdem sua energia mágica individual, a Roda girará, e a cada giro, os mundos sofrem mudanças e se deterioram. No início de todas as coisas, antes mesmo de existir qualquer noção acerca de seres vivos, existiu uma pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-reinos-de-nova-arcadia-5",
+      "name": "Reinos de Nova Arcádia",
+      "category": "race_lineage",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Reinos de Nova Arcádia Azania Azan é filho de Arcas (filho de Zeus e Calisto, cuja qual por sua vez é filha de Lycaon, a única que não recebeu a Maldição de Zeus) e da ninfa Erato, a Amável (filha de Zeus e Mnemósine). Sendo filho de um humano e uma ninfa, Azan herdou algumas habilidades: ele não envelhecia e a magia que corria em suas veias era poderosa. Qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-racas-7",
+      "name": "Raças",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "Raças Humano Os humanos em Nova Arcádia chegaram há bastante tempo, em eras passadas, tornando-se bastante raros depois da Idade das Trevas, quando a maioria dos portais para a Terra foram fechados. Eles são apenas mais uma das raças que habitam aquele mundo. Eles não chegam a ser maioria e nem existem em grande número no Mundo Belo Aparência: possuem aparên...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-qualquer-raca-seja-humanoide-equina-9",
+      "name": "QUALQUER raça, seja humanóide, eqüina,",
+      "category": "race_lineage",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "QUALQUER raça, seja humanóide, eqüina, canina ou qual for. A cria será um ser típico da raça da mãe (exceto quando se tratarem de ninfas, estas darão luz à sátiros). Custo: 0 pontos Modificadores dos Atributos: DEX+2, WILL-1, CAR+1 Vantagens e desvantagens: Armas Naturais (chifres, dano 1D+Força), Galante, Fanfarronice. Pixie Pixies são os exemplares mais co...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-elfo-negro-11",
+      "name": "Elfo Negro",
+      "category": "race_lineage",
+      "pages": [
+        [
+          11,
+          12
+        ]
+      ],
+      "summary": "Elfo Negro Elfos Negros são uma subraça de elfos que, há muito tempo, fora expulsa da convivência dos outros elfos por pactuarem com demônios. Também chamados de drows, eles migraram para terras obscuras, que foram chamadas de Halzazee. No entanto, a própria natureza ambiciosa dos drow fizeram guerrerarem por muitos séculos, no que foi chamado da Guerra de U...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-guia-de-construcao-de-13",
+      "name": "Guia de Construcao de",
+      "category": "character_option",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "summary": "Guia de Construcao de Racas Arcadianas Nova Arcádia, bem como Arcádia como um todo, é uma fonte das mais variadas formas de vida fantásticas. Elas não podem ser todas listadas nesse suplemento, porém são dadas regras para a construção de tais raças nas regras abaixo para PJs e Narradores. Custo Cada raça possui um custo em pontos de aprimoramento. O custo é...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcadia-nova-arcadia-o-jovem-elfo-n-16",
+      "name": "O jovem elfo n",
+      "category": "power_magic",
+      "pages": [
+        16
+      ],
+      "summary": "O jovem elfo n o podia acreditar. Depois de todo aquele tempo, depois de largar seu povo na Floresta dos Unic rnios para ir atr s do Ovo, depois de tudo que lhe fez chegar at aquele momento, ele quase n o podia acreditar. Percorrera milhas sem fim at o Reino do Sul e enfim o artefato estava ali. O velho $ sua frente sorriu delicadamente, como se soubesse tud...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "source": "naruto-rpg-daemon-2a-edicao",
+  "title": "Naruto RPG Daemon - 2ª Edição",
+  "status": "full-read-auto-pass-1",
+  "pages": 23,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "attribute_skill",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-naruto-rpg-1",
+      "name": "Naruto RPG",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "Naruto RPG 2ª Edição 1 Thiago Luiz \"Guerrad\" S. Gomes Equipe RPG Anime Brasil www.rpganimebrasil.blogspot.com Pergaminho do Ninja: Porquê esta nova Edição?! Conhecido como o \"sucessor de DBZ\", o anime Naruto já é febre entre os Otakus brasileiros mesmo antes de estrear na TV aberta (fato que ainda não ocorreu quando estou escrevendo isto) com uma história qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-naruto-rpg-2a-edicao-3",
+      "name": "Naruto RPG - 2ª Edição!",
+      "category": "core_rule",
+      "pages": [
+        3
+      ],
+      "summary": "Naruto RPG - 2ª Edição! Olá pessoal de bom gosto! A partir de agora você vai conferir mais um trabalho promovido pela Equipe RPG Anime Brasil, uma associação de RPG que trabalha APENAS com RPGs de animes e mangás (quadrinhos e desenhos animados japoneses) utilizando também os Sistemas de RPG BRASILEIROS. Com o objetivo maior de divulgar o RPG Nacional, que é...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-construcao-de-personagens-4",
+      "name": "Construção de Personagens.",
+      "category": "core_rule",
+      "pages": [
+        4
+      ],
+      "summary": "Construção de Personagens. Todos os Personagens em NARUTO RPG 2ª Edição utilizam TODAS as regras de Criação de Personagens de ANIME RPG (isso mesmo, pode chorar!), com a exceção de que todos os Ninjas (Personagens Jogadores) possuem um Atributo Chamado Chakra (a \"energia espiritual\" dos Ninjas e equivalente a Cosmo em CDZ, Ki em DB e Poder Jurai em TM) e pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-hirearquia-ninja-5",
+      "name": "HIREARQUIA NINJA",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "HIREARQUIA NINJA Todos os Personagens em NARUTO RPG 2ªE vão pertencer a Hierarquia Ninja (como na página anterior). Eles vão receber Pontos de Experiência utilizando as mesmas mecânicas do ANIME RPG e seus Níveis são determinados pela sua Graduação na Hierarquia: por exemplo, um Genin NUNCA vai alcançar o 5° Nível se ele não passar no teste para Chuunin. Cas...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-os-ninjas-os-herois-6",
+      "name": "Os Ninjas, Os Heróis",
+      "category": "kit_class",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "summary": "Os Ninjas, Os Heróis (Detalhes Históricos sobre estes Andarilhos Perigosos) Ninjas •Como se originaram: Conta-se que poderosos demônios com forma semelhante à de pássaros eram mestres nas artes da luta com espadas e do desaparecimento. Esses demônios conhecidos como Tengu instalaram-se no Japão e lá fundaram as primeiras sociedades secretas de ninjas. Esses...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-chakra-a-energia-dos-ninjas-9",
+      "name": "Chakra, a Energia dos Ninjas",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Chakra, a Energia dos Ninjas Em NARUTO RPG (e também na \"Mitologia Ninja\") todas as pessoas possuem o que chamamos de Chakra, que é dividida em duas partes: a energia do corpo pertencente em cada célula do seu organismo e a energia espiritual, do espírito, que só pode ser adquirida mediante a treinamento. O Chakra é usado unicamente pelos Ninjas em Naruto pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-jutsus-as-tecnicas-ninjas-11",
+      "name": "Jutsus, as Técnicas Ninjas",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          15
+        ]
+      ],
+      "summary": "Jutsus, as Técnicas Ninjas Quando algum Personagem Ninja vai executar um Jutsu (técnica) ele deverá (além de gastar um pouco Pontos de Chakra, em termos de jogo) fazer uma combinação de movimentos especiais com as mãos que na qual os Ninjas o chamam de Selamentos). A seguir, vamos mostrar os primeiros doze selos (como é chamado cada movimento do Selamento),...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-esteticamente-o-personagem-16",
+      "name": "esteticamente... o Personagem",
+      "category": "core_rule",
+      "pages": [
+        16
+      ],
+      "summary": "esteticamente... o Personagem não vai ganhar os mesmos atributos e habilidades de uma criatura alvo transformada..) CHAKRA UTILIZADO: seu Nível de Personagem +1 ponto por turno ativado; ou seja, um Personagem de 3° Nível gasta 3 pontos +1 para cada turno quando estiver sob a transformação. [Kage Bushin no Jutsu] (Habilidade do Clone das Sombras) Categoria: N...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-kirigakure-no-jutsu-17",
+      "name": "[Kirigakure no Jutsu]",
+      "category": "core_rule",
+      "pages": [
+        17
+      ],
+      "summary": "[Kirigakure no Jutsu] (Névoa Oculta) Categoria: Ninjutsu. Usuários: Zabuza. Descrição: Técnica usada para criar névoa que dificulta a visão do inimigo. CHAKRA UTILIZADO: 10 pontos +1 para cada vez diminuir a visão dos inimigos na névoa. Esta névoa dura rodadas iguais ao seu Nível de Personagem + pontos na Hierarquia Ninja (a partir deste momento, o ninja dev...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-desta-vez-o-personagem-se-18",
+      "name": "desta vez o Personagem se",
+      "category": "core_rule",
+      "pages": [
+        18
+      ],
+      "summary": "desta vez o Personagem se transforma em uma linda mulher nua...) [Shuriken Kage Bunshin no Jutsu] ( Clones de Shurikens das Sombras) Categoria: Ninjutsu. Usuários: Sasuke. Descrição: O ninja pode criar muitas cópias transformando apenas uma Shuriken em dezenas. CHAKRA UTILIZADO: apenas 1 ponto de Chakra para cada duas shurikens ilusórias que vão aparecer. [S...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-fichas-de-npcs-e-personagens-19",
+      "name": "Fichas de NPCs e Personagens",
+      "category": "core_rule",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "summary": "Fichas de NPCs e Personagens A seguir, as fichas dos três principais personagens da série: de acordo com as regras do Naruto RPG 2ª Edição. Outros Personagens da série devem aparecer em suplementos (e assim quando vermos mais episódios....hehehehe!). Por enquanto, use estes aqui! -NOTA IMPORTANTE: não estão listados todos os Jutsus que os Personagens sabem f...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-bibliografia-do-netbook-21",
+      "name": "Bibliografia do Netbook.",
+      "category": "core_rule",
+      "pages": [
+        21
+      ],
+      "summary": "Bibliografia do Netbook. Criar um RPG como este (tanto na invenção das regras como sua confecção e textos) não foi uma tarefa fácil, e por isso recorremos um bom material que achamos que era bom demais para ficar apenas por lá - e trazemos ao nosso netbook. Abaixo, vamos listar os autores dos textos que utilizamos para a criação do Módulo Básico de NARUTO RP...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-agradecimentos-especiais-22",
+      "name": "Agradecimentos Especiais.",
+      "category": "core_rule",
+      "pages": [
+        22
+      ],
+      "summary": "Agradecimentos Especiais. Gostaríamos de agradecer a todos os jogadores, leitores, otakus e RPGistas que acompanham (de perto, ou de longe) nosso trabalho. Este é apenas o primeiro passo para adaptar Naruto corretamente para RPG, e, sem sombra de dúvida, o primeiro de muitos. -Agradeço primeiramente a Deus, pela Equipe RPG Anime Brasil, pela minha vida, pelo...",
+      "entityRefs": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao-ficha-de-personagem-23",
+      "name": "FICHA DE PERSONAGEM",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "FICHA DE PERSONAGEM Naruto RPG 2ª Edição (ATRIBUTOS) VALOR COMUM PORCENTAGEM •VILA___________ CONSTITUÍÇÃO (CON) ______________ ______________ _________________ FORÇA (FR) ______________ ______________ •GRADUAÇÃO:___ DESTREZA (DEX) ______________ ______________ _________________ AGILIDADE (AGI) ______________ ______________ •NÍVEL:_________ INTELIGÊNCIA (INT...",
+      "entityRefs": []
+    }
+  ]
+}

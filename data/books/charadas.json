@@ -1,0 +1,64 @@
+{
+  "source": "charadas",
+  "title": "Charadas",
+  "status": "full-read-auto-pass-1",
+  "pages": 5,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "combat",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "charadas-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "charadas-charadas-1-0-2",
+      "name": "Charadas 1.0",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Charadas 1.0 É com orgulho que os apresento o primeiro Net-Book feito por Bod!n. Este é um Net-Book que contem muitas charadas que podem ser usadas durante a aventura, sendo usado para abrir uma porta mágica, um baú do tesouro etc... Gostaria de agradecer JOE K.R e Falcon_, que contribuíram com algumas charadas. Este Net-Book está exposto no Fórum da Editora...",
+      "entityRefs": []
+    },
+    {
+      "id": "charadas-tem-raizes-que-ninguem-ve-3",
+      "name": "Tem raízes que ninguém vê,",
+      "category": "ritual_spell",
+      "pages": [
+        3
+      ],
+      "summary": "Tem raízes que ninguém vê, é mais alto que qualquer arvore. Vai para cima, mas não cresce jamais R: Montanha Chora sem voz, Flutua sem assas Morde sem dentes Murmura sem boca R: Vento \"Não se pode ver nem tocar, não se pode escutar nem cheirar Mora atrás das estrelas e debaixo das colinas Enche os buracos vazios Vem antes e depois de qualquer coisa Termina a...",
+      "entityRefs": []
+    },
+    {
+      "id": "charadas-jamais-mentirei-4",
+      "name": "jamais mentirei",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "jamais mentirei R: o espelho. Três vidas eu tenho gentil suficientemente para escorrer sobre a pele Leve o suficiente para acariciar o céu Dura o suficiente para quebrar pedras R: Água. Apareço todas as manhãs para acariciar os seus pés Te sigo todos os dias não importa o quanto corra Se bem, eu quase morro no sol de meio dia R: sombra. Um dente para morder...",
+      "entityRefs": []
+    },
+    {
+      "id": "charadas-sou-intocavel-5",
+      "name": "Sou intocável,",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "Sou intocável, Sou invisível, Se me cortares com uma espada, dano nenhum me causarás R: Ar Se você me causares danos os seus descendentes irão sofrer por isso Se fores contra mim, eu mesmo irei te destruir Se ignorares o que tenho a te mostrar, serás infeliz por toda a vida R: O Mundo Na água sempre a viver, translúcido sempre quando se vê quando se encosta...",
+      "entityRefs": []
+    }
+  ]
+}

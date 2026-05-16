@@ -1,0 +1,260 @@
+{
+  "source": "etruscos",
+  "title": "Etruscos",
+  "status": "full-read-auto-pass-1",
+  "pages": 48,
+  "primaryCategories": [
+    "power_magic",
+    "item_equipment",
+    "setting_lore",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "etruscos-henrique-morcego-santos-1",
+      "name": "HENRIQUE “MORCEGO” SANTOS",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "HENRIQUE “MORCEGO” SANTOS ETRUSCOS",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-agradecimentos-2",
+      "name": "AGRADECIMENTOS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico “Slinker”, o Rodrigo “Chuck Norris”, o Rafael “Feijão”, o Rafael “Ruffles”, o Dalton, o Lucas “Wargods”, o Renato “Cocaman”, os primos Luiz, W...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-ilicitas-cheguei-e-enfrentar-algumas-4",
+      "name": "ilícitas. Cheguei e enfrentar algumas",
+      "category": "power_magic",
+      "pages": [
+        4
+      ],
+      "summary": "ilícitas. Cheguei e enfrentar algumas Hordas mandadas pelo próprio Pompeo, e negociei almas com Vertumnus apenas para permitir que ele salvasse tais almas antes condenadas. Com meu conhecimento adquirido com o Fogo de Prometheus, eu tinha acesso ao Plano Elemental do Fogo, e ainda manifestava todas as formas e conceitos ligados a este elemento, como a Fumaça...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-misteriosos-5",
+      "name": "MISTERIOSOS",
+      "category": "power_magic",
+      "pages": [
+        5
+      ],
+      "summary": "MISTERIOSOS ETRUSCOS Desde crianças, estudamos a História Antiga a partir dos egípcios, mesopotâmicos, gregos e romanos, mas não temos contato com as centenas de outros povos que compu- nham e relacionavam-se com estes povos principais. Um destes povos é a misteriosa nação da região noroeste da Península Itálica, cujo reino era chamado Etrúria. Um povo extre...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-resumo-historico-6",
+      "name": "RESUMO HISTORICO",
+      "category": "setting_lore",
+      "pages": [
+        [
+          6,
+          9
+        ]
+      ],
+      "summary": "RESUMO HISTORICO Os Etruscos eram um aglomerado de povos que viveram na atual Itália na região ao sul do rio Arno e ao norte do Tibre, então denominada Etrúria e mais ou menos equivalente à atual Toscana, com partes no Lácio e na Úmbria. Desconhece-se ao certo quando os Etruscos se instalaram aí, mas foi provavelmente entre os anos 1200 e 700 a.C.. Nos tempo...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-misterios-10",
+      "name": "MISTERIOS",
+      "category": "power_magic",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "MISTERIOS O Labirinto do Rei Porsenna O rei Lars Porsenna foi enterrado abaixo da cidade de Clusium no lugar onde ele ergueu um monumento quadrangular de pedras cobertas. Cada lado tinha 90m de comprimento e 15m de altura, e abaixo da base havia um intrincado labirinto onde, caso alguém entre sem uma linha- guia, pode nunca encontrar o caminho da saída. Acim...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-sociedades-secretas-12",
+      "name": "SOCIEDADES SECRETAS",
+      "category": "power_magic",
+      "pages": [
+        12
+      ],
+      "summary": "SOCIEDADES SECRETAS ORDEM MARMORE DO OCIDENTE Fundação: data desconhecida, em Ark-a-nun. Base: Chiusi, Itália. Personalidades: Magnus Petraak (em Ark-a-nun), Chaluchasu, Malavisch (deusa etrusca dos espelhos), Nortia (deusa etrusca do destino e das probabilidades), Phersu (deus etrusco das máscaras), Giuliano Sarsini. Background: A Ordem Mármore foi fundada...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-desenvolveram-conceitos-avancados-para-sua-13",
+      "name": "desenvolveram conceitos avançados para sua",
+      "category": "power_magic",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "desenvolveram conceitos avançados para sua época. Tiveram de se manter em segredo, para escapar dos olhares dos deuses greco-romanos (em especial Júpiter), e criaram os primeiros códigos de escrita, baseados na matemática. Com o tempo, formaram uma Sociedade Secreta, chamada Sociedade Pitagórica, dedicada à pesquisa sobrenatural. Participaram da primeira for...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-cla-nemorensino-15",
+      "name": "CLA NEMORENSINO",
+      "category": "kit_class",
+      "pages": [
+        15
+      ],
+      "summary": "CLA NEMORENSINO Fundação: Século VIII a.C., reinos etruscos. Base: Lago Nemi, Friuli (Itália). Atuação: Costa mediterrânea européia. Personalidades: Vertumnus, Cels, Rainha Mab, Oberon, Celsclan, Pomona, Deméter/Ceres, Ártemis/Diana, Thiess, Samyaza. Background: Os celtas apareceram na história quando vieram do leste. Eles invadiram a Península Ibérica, a It...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-sagrada-ordem-16",
+      "name": "SAGRADA ORDEM",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "SAGRADA ORDEM MILITAR DE SANTO ESTEVAO Fundação: 1561, Florença, Itália. Base: Magione di San Giovanni al Ponte, Pisa (Itália). Atuação: Toscana, na Itália. Personalidades: Duque Cosimo de Médici, Duque Lodovico de Parma, D. Neri dei Principi Corsini, rei Victor Emmanuel III, Vicenzo Pietroforte. Background: A dissidência templária chamada Sagrada Ordem Mili...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-principais-personagens-17",
+      "name": "PRINCIPAIS PERSONAGENS",
+      "category": "power_magic",
+      "pages": [
+        [
+          17,
+          20
+        ]
+      ],
+      "summary": "PRINCIPAIS PERSONAGENS Rei Lars Porsenna / Laran, o deus da Guerra Admirador da própria cultura sobre a qual reinava, Porsenna exigia de todos os etruscos um grande respeito e veneração pelo panteão etrusco e principalmente pelo poderoso Orcus. Por fazer parte da Sociedade de Orcus, Porsenna treinava seus soldados com a promessa que fariam parte de um exérci...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-chattermouth-guerreiro-21",
+      "name": "Chattermouth, Guerreiro",
+      "category": "creature_npc",
+      "pages": [
+        21
+      ],
+      "summary": "Chattermouth, Guerreiro Cenobita Antigamente um grande general etrusco, Archimemnon foi desafiado diretamente por um Cenobita a desvendar uma charada que envolvia o Labirinto do lendário rei Porsenna. Archimemnon ficou semanas preso no labirinto antes de desvendar a charada, quando abriu um portal diretamente para Metrópolis. Ao chegar lá, teve contato diret...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-criacao-de-personagens-22",
+      "name": "CRIACAO DE PERSONAGENS",
+      "category": "combat",
+      "pages": [
+        [
+          22,
+          24
+        ]
+      ],
+      "summary": "CRIACAO DE PERSONAGENS ETRUSCOS/TOSCANOS Orkho, Devorador do Medo Os Orkhos são os Demônios que seguiam Orcus desde Ark-a-nun. Lendas dizem que eles foram uma das raças originais arkanitas, criados antes mesmo de muitos deuses, enquanto muitos acreditam que eles são Magos arkanitas deformados quando suas almas se corromperam com o poder de Orcus. Hoje eles n...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-lasa-25",
+      "name": "Lasa",
+      "category": "creature_npc",
+      "pages": [
+        [
+          25,
+          28
+        ]
+      ],
+      "summary": "Lasa Custo: 2 pts. de Aprimoramento, 210 pts. de Perícias. Perícias: Necromancia 50%, Ciências Proibidas (Spiritum 25%, Espíritos 40%, Mortos-Vivos 25%, Rituais 15%, Oculto 25%), Ciências (Herbalismo 15%), Manipulação (Tortura 15%). Aprimoramentos: Biblioteca Mística 1, Poderes Vampíricos 2. Poderes possíveis: Aumento de Atributos, Bruxaria, Controle de Anim...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-hoplita-guerreiro-supremo-29",
+      "name": "Hoplita, Guerreiro Supremo",
+      "category": "combat",
+      "pages": [
+        [
+          29,
+          30
+        ]
+      ],
+      "summary": "Hoplita, Guerreiro Supremo Hoplita (do grego hoplítes, pelo latim hoplites) era, na Era Clássica da Grécia antiga e na Etrúria, um soldado de infantaria pesada. Seu nome provém do grande escudo levado para as batalhas: o hoplon. O Hoplita era o principal soldado grego e etrusco da Antigüidade. Sua armadura era composta de elmo, couraça (peito de armas), escu...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-pericia-cels-31",
+      "name": "PERICIA: CELS",
+      "category": "power_magic",
+      "pages": [
+        31
+      ],
+      "summary": "PERICIA: CELS Cels é a deusa etrusca da Terra, a força que faz com que os grãos cresçam até o alto. Sua energia mística conecta a Terra, o Underworld, Asteris (como os estudiosos de Cels chamam a cidade paradisiana Olympus), o Reino do Sul da Nova Arcádia e o Reino de Luna (como chamam o plano de Spiritum). A energia mística Cels chega a tocar o próprio Sol...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-arezzo-32",
+      "name": "AREZZO",
+      "category": "attribute_skill",
+      "pages": [
+        32
+      ],
+      "summary": "AREZZO Região: Toscana Capital: Arezzo Área: 3.235 km² População Total: 323.288 hab. Densidade: 100 hab/km² Comunas: 39 Website: www.provincia.arezzo.it História A antiga Arezzo, situada na parte nordeste da Etrúria, nas colinas do Vale Clanis, e mantida por muitas fontes históricas como umas das 12 grandes cidades conhecidas como Lucumonie, foi considerada...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-pode-se-perceber-a-situacao-pluriestratografica-33",
+      "name": "pode-se perceber a situação pluriestratográfica",
+      "category": "power_magic",
+      "pages": [
+        [
+          33,
+          37
+        ]
+      ],
+      "summary": "pode-se perceber a situação pluriestratográfica existente no século VI a.C. No alto da colina, fica Piazzeta S. Niccolò, onde escavações recentes trouxeram à tona as ruínas do círculo de muros etrusco que circundava a cidade, assim como um local de ritos religiosos praticados a partir do século IV a.C. A cidadela etrusca se localizava mais distante, entre as...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-o-sangue-mais-puro-38",
+      "name": "O SANGUE MAIS PURO",
+      "category": "combat",
+      "pages": [
+        [
+          38,
+          44
+        ]
+      ],
+      "summary": "O SANGUE MAIS PURO AVENTURA Cena 1: Briga de Rua Todos os personagens dos jogadores encontram- se à noite na Piazza Grande de Arezzo, fazendo compras, cumprindo ordens ou cuidando de suas vidas. De repente, eles ouvem uma terrível confusão. Uma mulher grita. Homens berram. Pessoas correm. Armas são sacadas. Os personagens que se dirigirem até o local da conf...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-importantes-investigando-informacoes-que-45",
+      "name": "importantes, investigando informações que",
+      "category": "creature_npc",
+      "pages": [
+        [
+          45,
+          46
+        ]
+      ],
+      "summary": "importantes, investigando informações que julgarem importantes, ou simplesmente se divertirem. Durante este tempo para descanso, o Mestre pode dar a chance de combate para alguns PJs. Uma oportunidade é a revanche de quem foi vencido na Câmara da Mancha Púrpura: caso os membros da Mala del Brenta tenham sido vencidos, os PJs se verão em certas situações emba...",
+      "entityRefs": []
+    },
+    {
+      "id": "etruscos-provavelmente-este-tipo-de-missao-47",
+      "name": "Provavelmente este tipo de missão",
+      "category": "creature_npc",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Provavelmente este tipo de missão atrairá a fúria dos grandes Anjos milenares de Arezzo, condenando a existência dos PJs, a não ser que negociem com o Recípere Xikhal. • Miguel Tomás, do Templo da Contemplação, pode voltar a Arezzo com o intuito de reformar seu antigo templo e reorganizar a Sociedade de Orcus, disfarçada de Hellfire Club. O evento poderá cri...",
+      "entityRefs": []
+    }
+  ]
+}

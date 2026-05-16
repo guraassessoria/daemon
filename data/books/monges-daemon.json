@@ -1,0 +1,24 @@
+{
+  "source": "monges-daemon",
+  "title": "Monges Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "power_magic",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "monges-daemon-monges-1",
+      "name": "Monges",
+      "category": "combat",
+      "pages": [
+        1
+      ],
+      "summary": "Monges Copyright © 2004 – Francisco Antônio da Silva Souza 1 Monges para Daemon Esta é uma adaptação de Monges para o sistema Daemon, esta adaptação é de distribuição gratuita pelo site Mundo Daemon, todos os direitos autorais são reservados. A adaptação é baseada na descrição da revista Dragão Brasil número 75. Heróis Humildes Os monges vivem em Monastérios...",
+      "entityRefs": []
+    }
+  ]
+}

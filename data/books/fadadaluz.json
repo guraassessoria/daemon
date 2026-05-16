@@ -1,0 +1,103 @@
+{
+  "source": "fadadaluz",
+  "title": "fadadaluz",
+  "status": "full-read-auto-pass-1",
+  "pages": 11,
+  "primaryCategories": [
+    "attribute_skill",
+    "power_magic",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "fadadaluz-fada-da-luz-sistema-daemon-1",
+      "name": "Fada da Luz ( Sistema Daemon)",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Fada da Luz ( Sistema Daemon) Fadas da Luz são fadinhas criadas atraves de rituais para auxilar e adquirir poderes... Elas são exelentes companheiras e auxiliam em diversas coisas possuem muito poder e como genios estão destinadas a seguir uma mestre para todo sempre... Conhecidas por sua Luz propria que ilumina qualquer tipo de escuridão foram extintas ou s...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-poderes-arcadianos-2",
+      "name": "Poderes Arcadianos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Poderes Arcadianos Todas as Fadas da Luz mantém os mesmos poderes arcadianos da fada do ritual, e ganha mais um para cada 10 anos de vida e por nível. ( os de idade recebe apartir dessa data não receberá mais 10 por ter 100 anos por exemplo pois esses ela já recebeu antes do ritual ). A Forma Humana Toda Fada que deseje visitar a Terra alguma vez, deve apren...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-teleporte-arcadiano-4",
+      "name": "Teleporte Arcadiano",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Teleporte Arcadiano Nível 1: Arcádia. Permite à Fada se teleportar através de Arcádia (tanto Velha Arcádia, quanto Nova Arcádia). 3/nivel Nível 2: Abre Portal entre Planos (10 minutos de ritual) Aprimoração magica Fadas têm uma natureza altamente mágica. Nível 1: +3 focus / + 1 PM por nível da Fada Nível 2: +4 focus / + 1 PM por nível da Fada Nível 3: +5 foc...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-aumento-de-atributo-6",
+      "name": "Aumento de atributo",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "Aumento de atributo Aumento Pontos de Poder de 5 para cada atributo Podem aumentar qualquer atributo do mestre, cada ponto gasto nessa habilidade aumenta em 3 pontos a habilidade escolhida, multiplas seleções pode trocar os atributos a cada mestre ou seleção. Aprimoramentos extras Aumento Pontos de Poder de 10 para cada aprimoramento A Fada da Luz pode conce...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-desejo-menor-7",
+      "name": "Desejo menor",
+      "category": "item_equipment",
+      "pages": [
+        7
+      ],
+      "summary": "Desejo menor Pemite a Fada realizar pequenos desejos de seu mestre, qualquer objeto criado ou criatura dura apenas 24 horas, numero maximo de objetos ou criaturas criadas é igual a 3/nível da Fada da Luz. Nível 1: Permite criar objetos simples, como lápis, canetas, pápeis, chaves etc...; Nível 2: Permite criar objetos um pouco mais dificeis, como roupas, per...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-recipiente-magico-8",
+      "name": "Recipiente magico",
+      "category": "character_option",
+      "pages": [
+        8
+      ],
+      "summary": "Recipiente magico Obrigatório A Fada pode ser presa em um pote que seja encantado com seu elemento oposto ou seja feito de ferro frio, ela só poderá sair do pote se alguem o abrir. Desejos do Passado A Fada sente desejos de sua vida anterior, como a maioria das fadas arcadianas, adora ser o centro das atenções, gosta de passear, festejar e dançar, costuma ag...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-1-vantagem-lembrancas-ocultas-9",
+      "name": "1 Vantagem Lembranças ocultas",
+      "category": "power_magic",
+      "pages": [
+        9
+      ],
+      "summary": "1 Vantagem Lembranças ocultas A Fada da Luz terá todas as pericias e aprimoramentos da fada do ritual, tambem manterá qualquer fobia, inimigos* que a fada possuia, codigos de honra tambem serão mantidos, mais ela não lembrará deles apenas os realizará incoscientemente. *Os inimigos da Fada quando descobrirem que ela virou Fada da Luz e descobrir que ela não...",
+      "entityRefs": []
+    },
+    {
+      "id": "fadadaluz-montando-uma-ficha-10",
+      "name": "Montando uma ficha",
+      "category": "power_magic",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Montando uma ficha Exemplo básico: Ficha da Fada arcadiana antes do ritual Nome: Rosa escarlate Idade 400 anos nível 4 FOR 12 PV 17 PM 24 AGI 40 Focus total 20 CONS 14 caminho mais alto Plantas 6 DES 40 Perícias totais 2.000 INT 14 Poderes arcadianos 47 ( 40 da idade, 3 do Poder elevado, 4 de nível) WILL 14 Aprimoramentos totais 12 PER 12 Aprimoramentos nega...",
+      "entityRefs": []
+    }
+  ]
+}

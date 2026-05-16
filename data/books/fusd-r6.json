@@ -1,0 +1,27 @@
+{
+  "source": "fusd-r6",
+  "title": "FUSD-R6",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "attribute_skill",
+    "power_magic",
+    "combat",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "fusd-r6-arkanun-trevas-maytreia-1",
+      "name": "Arkanun / Trevas / Maytréia",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "Ficha Universal p/ S. Daemon – by Azharrel Arkanun / Trevas / Maytréia Jogador: ......................................................................................... Personagem: .......................................... Nome do personagem: ................................................................. Idade aparente: ........... Idade real: ...........",
+      "entityRefs": []
+    }
+  ]
+}

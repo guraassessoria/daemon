@@ -1,0 +1,70 @@
+{
+  "source": "anoes",
+  "title": "anoes",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "item_equipment",
+    "character_option",
+    "combat",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "anoes-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "item_equipment",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "Antes mesmo da construção de Aasgard, os deuses aesires já sabiam da existência de pequenos seres que se escondiam nos confins subterrâneos entre os mundos, mas dos quais era muito difícil aproximar-se: os Anões. Descritos pelo folclore dos Reinos Nórdicos como criaturas de baixa estatura, aparência carrancuda, porte robusto e longa barba. Apesar de discreto...",
+      "entityRefs": []
+    },
+    {
+      "id": "anoes-pequenos-habitantes-4",
+      "name": "Pequenos Habitantes",
+      "category": "item_equipment",
+      "pages": [
+        4
+      ],
+      "summary": "Pequenos Habitantes Anões são seres de baixa estatura (medindo entre 1,20 e 1,50 metros) que lembram muito, em aparência, os guerreiros vikings. Mesmo sendo rudes e grosseiros, preservando a força física como símbolo de poder, os Anões também são muito sábios e eruditos. Sua afinidade com o ambiente rochoso não só permi- tiu que a raça sobrevivesse no subsol...",
+      "entityRefs": []
+    },
+    {
+      "id": "anoes-honra-respeito-e-coragem-5",
+      "name": "Honra, Respeito e Coragem",
+      "category": "item_equipment",
+      "pages": [
+        5
+      ],
+      "summary": "Honra, Respeito e Coragem Os Anões possuem um senso comum que valoriza a cons- trução e a criação como um fundamento básico e indispensável da vida. Não é à toa que estejam sempre envolvidos com elabo- rações de projetos arquitetônicos e curiosos em aprender so- bre as ciências mecânicas, já que eles consideram que a melhor maneira de descobrir coisas é cria...",
+      "entityRefs": []
+    },
+    {
+      "id": "anoes-duegares-6",
+      "name": "Duegares",
+      "category": "item_equipment",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "Duegares A história como contada acima é uma versão narrada pelos Anões (e sobre a qual é muito difícil convencê-los a falar). Os Duegares, por outro lado, apresentam outros fatos relevantes que não são mencionados pelos Anões. Eles relatam que sua expul- são não foi, de forma alguma, disciplinada e pacífica. Batalhas fo- ram travadas, principalmente porque...",
+      "entityRefs": []
+    },
+    {
+      "id": "anoes-guerreiro-8",
+      "name": "Guerreiro",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "Guerreiro Custo: 2 pts. de Aprimoramento, 200 pts. de Perícia. Perícias: Machado 40/40, Martelo de Combate 40/40, Ar- meiro 30%, Artes (Arquitetura 10%, Escultura 15%, Joalheria 15%), Artífice (Ferreiro 25%), Armadilhas 30%, Avaliação de Objetos 15%, Mineração 30%, Manipulação (Intimidação 20%), Sobrevivência (Montanhas 50%). Aprimoramentos: Visão Noturna 2,...",
+      "entityRefs": []
+    }
+  ]
+}

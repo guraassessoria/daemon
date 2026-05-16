@@ -1,0 +1,600 @@
+{
+  "version": 1,
+  "id": "cenarios_lore",
+  "name": "Cenarios e Lore",
+  "readySourceCount": 190,
+  "entityCount": 9,
+  "sourcePartCount": 18,
+  "entities": [
+    {
+      "id": "alastores",
+      "name": "Alastores",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 5,
+      "entries": [
+        "Casa/ordem infernal encarregada de cacar fugitivos do Orco e fazer cumprir leis infernais."
+      ],
+      "tags": [
+        "cacadores",
+        "cenarios_lore",
+        "inferno",
+        "organizacao",
+        "setting_lore"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "cultos-de-tenebras",
+      "name": "Cultos de Tenebras",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 104,
+      "entries": [
+        "Estruturas de culto, hierarquia, sacerdotes, pactos, bases, forcas sobrenaturais e sociedades secretas ligadas a Tenebras."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "culto",
+        "organizacao",
+        "setting_lore",
+        "trevas"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "indice-carmesim",
+      "name": "Indice Carmesim",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 8,
+      "entries": [
+        "Lista dos mais procurados do Inferno, mantida pelos Alastores e ligada a leis infernais e condenacoes."
+      ],
+      "tags": [
+        "alastores",
+        "cenarios_lore",
+        "inferno",
+        "leis",
+        "setting_lore"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "infernun",
+      "name": "Infernun",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 12,
+      "entries": [
+        "Plano/reino infernal abordado na origem das trevas e retomado no capitulo Filhos Renegados das Trevas."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "cosmologia",
+        "inferno",
+        "plano",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "montanhas-do-abismo",
+      "name": "Montanhas do Abismo",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 28,
+      "entries": [
+        "Conjunto de regioes/montanhas abissais descritas no capitulo O Abismo, incluindo terceira, nona, decima, decima quarta, decima sexta e decima nona montanhas."
+      ],
+      "tags": [
+        "abismo",
+        "cenarios_lore",
+        "geografia",
+        "local",
+        "setting_lore"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "postos-de-vigilia",
+      "name": "Postos de Vigilia",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 24,
+      "entries": [
+        "Locais de vigilancia contra o Abismo, com exemplos como A Torre e estruturas mantidas por forcas misticas."
+      ],
+      "tags": [
+        "abismo",
+        "cenarios_lore",
+        "local",
+        "setting_lore",
+        "vigilancia"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "shells-papers",
+      "name": "Shell's Paper's",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "page": 2,
+      "entries": [
+        "Rede de papelarias com enderecos e sistema de filmagem, usada como local de investigacao."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "investigacao",
+        "local",
+        "setting_lore",
+        "urbano"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "tenebras",
+      "name": "Tenebras",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 10,
+      "entries": [
+        "Plano primordial das trevas na cosmologia de Abismo, origem de horrores, deuses negros e forcas tenebrianas."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "cosmologia",
+        "plano",
+        "setting_lore",
+        "trevas"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "umbral-dos-feras",
+      "name": "Umbral dos Feras",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "animalidade",
+      "sourceTitle": "animalidade",
+      "page": 3,
+      "entries": [
+        "Relacao dos Feras com o Umbral, incluindo entrada, criacao de dominio e chamado do espirito anciao."
+      ],
+      "tags": [
+        "animalidade",
+        "cenarios_lore",
+        "fera",
+        "setting_lore",
+        "umbral"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "4killers--4killers-introduction",
+      "name": "Saidos do Inferno",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "4killers",
+      "sourceTitle": "4killers",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Introducao para uso de quatro antagonistas famosos do cinema de terror no sistema Daemon, tratados como assassinos de 15 nivel.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "a-assassina--a-assassina-locations",
+      "name": "Locais importantes",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Locais urbanos relevantes para a investigacao, incluindo uma boate e uma rede de papelarias.",
+      "entityRefs": [
+        "funny-club",
+        "shells-papers"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "abismo--abismo-cantos-escuros-terra",
+      "name": "Capitulo V: Os Cantos Escuros da Terra",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          104,
+          146
+        ]
+      ],
+      "page": null,
+      "summary": "Cultos, hierarquia, sacerdote terreno, bases de culto, forcas de Tenebras, pactos, sociedades secretas e cultos tenebrianos pelo mundo.",
+      "entityRefs": [
+        "cultos-de-tenebras",
+        "sacerdote-terreno",
+        "pacto-da-alma",
+        "culto-da-serpente-mae",
+        "circulo-dos-invocadores",
+        "escravos-do-alem-trevas",
+        "igreja-da-libertacao-das-almas",
+        "igreja-da-virgem-salvadora",
+        "o-lar",
+        "quinquagesimo-terceiro-culto"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-jurisprudencia-infernal",
+      "name": "Jurisprudencia Infernal",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          13,
+          17
+        ]
+      ],
+      "page": null,
+      "summary": "Leis infernais, relacao com Juizes e Triunvirato, Templarios Caidos e leis dos Traidores/Cainismo.",
+      "entityRefs": [
+        "jurisprudencia-infernal",
+        "templarios-caidos",
+        "cainismo-infernal"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-introducao",
+      "name": "Introducao",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Explica o conceito dos Alastores como casa infernal de cacadores de fugitivos do Orco e sua relacao com Auxiliares e Templo de Set.",
+      "entityRefs": [
+        "alastores",
+        "auxiliares",
+        "templo-de-set"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-indice-carmesim",
+      "name": "O Indice Carmesim",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Lista dos mais procurados do Inferno, livro de leis e condenacoes mantido pelos Alastores.",
+      "entityRefs": [
+        "indice-carmesim"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-resumo-historico-6",
+      "name": "RESUMO HISTORICO",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        [
+          6,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "RESUMO HISTORICO Os Etruscos eram um aglomerado de povos que viveram na atual Itália na região ao sul do rio Arno e ao norte do Tibre, então denominada Etrúria e mais ou menos equivalente à atual Toscana, com partes no Lácio e na Úmbria. Desconhece-se ao certo quando os Etruscos se instalaram aí, mas foi provavelmente entre os anos 1200 e 700 a.C.. Nos tempo...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-neperari-18",
+      "name": "Neperari",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        18
+      ],
+      "page": 18,
+      "summary": "Neperari Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Origem e História Na mitologia egípcia, Nepri (também chamado de Nepra ou Neper) era uma divindade andrógina dos grãos, valiosa mercadoria do Antigo Egito, que enfrentou a fome sem eles. Seu nome simplesmente significa \"senhor da boca\", uma referência à funçã...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "onmyodo--onmyodo-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "onmyodo",
+      "sourceTitle": "Onmyodo",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente ONMYODO HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "oriente-cronologia--oriente-cronologia-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "oriente-cronologia",
+      "sourceTitle": "Oriente_Cronologia",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente Cronologia HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "oriente-cronologia--oriente-cronologia-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "oriente-cronologia",
+      "sourceTitle": "Oriente_Cronologia",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente OS 28 PALACIOS LUNARES HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-agradecimentos-3",
+      "name": "AGRADECIMENTOS",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas_de_Marte",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "T",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "umbral-e-seus-vales--umbral-e-seus-vales-consideracoes-finais-19",
+      "name": "Considerações finais",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "umbral-e-seus-vales",
+      "sourceTitle": "Umbral e seus vales",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "Considerações finais Chegamos assim ao final de mais um material. Este material é apenas uma mostra de quão vasto é o Umbral, e se tornaria por demais fatigante, para não dizer impossível, mapeá-lo. De qualquer forma, passamos aqui algumas idéias para que você, narrador, desenvolva suas próprias histórias, locais e afins. Como sempre nosso objetivo é compart...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "vaticano--vaticano-a-umbra-domini-3",
+      "name": "A Umbra Domini",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "vaticano",
+      "sourceTitle": "Vaticano",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "A Umbra Domini Na noite de 26 de junho de 1952,o papa Pio XII assinou a bula autorizando a criação de um pequeno grupo de elite, composto pelos melhores soldados da Guarda Suíça, para investigar crimes ou eventos considerados de grande importância para a religião Católica. Originalmente, o Umbra Domini compunha-se de membros da Inquisição, auxiliados pelos m...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "animalidade--animalidade-cultura-umbral-leis",
+      "name": "Cultura, costumes, leis e Umbral",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "animalidade",
+      "sourceTitle": "animalidade",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Apresenta cultura e costumes dos Feras, leis, relacao com o Umbral e praticas como adentrar no Umbral, criar dominio e chamado do espirito anciao.",
+      "entityRefs": [
+        "umbral-dos-feras",
+        "leis-dos-feras"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-bonita-jovem-e-virgem-7",
+      "name": "bonita, jovem e virgem.",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        [
+          7,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "bonita, jovem e virgem. Baleyk encontrava-se em uma situação difícil. Depois de muitas dúvidas, decidiu aceitar a sugestão de Khael e sacrificar seu único amor. A dor em matá-la seria bem menor do que a dor de vê-la nos braços de outro. Além disso, a morte de Amanda seria para uma causa muito importante. O jovem assassino voltou a Lisburry para executar o pl...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

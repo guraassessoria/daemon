@@ -1,0 +1,169 @@
+{
+  "source": "arte-da-guerra",
+  "title": "Arte da Guerra",
+  "status": "full-read-auto-pass-1",
+  "pages": 24,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "attribute_skill",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "arte-da-guerra-arte-da-guerra-1",
+      "name": "ARTE DA GUERRA",
+      "category": "kit_class",
+      "pages": [
+        1
+      ],
+      "summary": "ARTE DA GUERRA Pherseu Maratmah Mhobos “Samurai Metaliano”",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-consideracoes-2",
+      "name": "Considerações",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Considerações Bem, o sistema Daemon é um tipo de RPG preocupado com a interpretação dos personagens e não priorizar as batalhas e combates...Mas também sabemos que uma parte mais envolvente dos jogos são as lutas, e então tentei pegar as minhas frustrações, alguns amigos, alguns livros e algumas idéias para criar um suplemento definitivo de Artes Marciais pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-artes-marciais-3",
+      "name": "ARTES MARCIAIS",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          8
+        ]
+      ],
+      "summary": "ARTES MARCIAIS No livro original, fizemos numa reunião, havia cerca de 50, artes marciais, mas este número foi reduzido devido, aos conflitos sobre se esta ou aquela arte marcial é uma arte ou um estilo de luta, isto devido ao fato de muitas artes marciais foram criadas a partir de outras ou compostas de características de vários outras artes, assim coloquei...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-estilos-de-luta-9",
+      "name": "Estilos de Luta",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Estilos de Luta As Artes Marciais possuem variações, estas variações são os chamados estilos de luta. Cada estilo impõem redutores e penalidades que caracterizam os pontos fracos da mesma, e os bônus de que mostram as capacidades de cada estilo. O livro visa ser um guia e dizer como deve ser feito, é aconselhado que se os jogadores quiserem, (com autorização...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-manobras-especiais-11",
+      "name": "MANOBRAS ESPECIAIS",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "MANOBRAS ESPECIAIS As manobras especiais são manobras de combate complexas, feitas a partir de outras, manobras, são ataques famosos e complicados que vemos em animes e games. Esta aqui é a forma de se criar estas manobras: NOME : NOME DA MANOBRA. RESTRIÇÃO : O QUE É PRECISO PARA EXECUTAR A MANOBRA. CUSTO : AO USAR UMA MANOBRA VOCÊ PAGA SEU CUSTO EM PONTOS H...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-pontos-de-treinos-12",
+      "name": "PONTOS DE TREINOS",
+      "category": "attribute_skill",
+      "pages": [
+        12
+      ],
+      "summary": "PONTOS DE TREINOS Primeiro é bom explicar que este aprimoramento é opcional, e só deve ser usado em campanhas voltadas exclusivamente para o combate, do gênero Street Fight, Pontos de Treinamento(Técnica) Seu Personagem é um exímio Lutador e vive treinando para melhorar cada vez mais, embora isso seja normal o seu personagem, vê em tudo uma possibilidade de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-arte-da-batalha-13",
+      "name": "ARTE DA BATALHA",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "summary": "ARTE DA BATALHA As artes marciais não se limitam apenas combates com mãos nuas, combate armado também segue as mesmas regras. Armas Brancas 1. Espadas (DEX/DEX) 2. Facas (DEX/DEX) 3. Adagas (DEX/DEX) 4. Punhais (DEX/DEX) 5. Chicotes (DEX/DEX) 6. Manguais (DEX/DEX) 7. Martelos (DEX/DEX) 8. Machados (DEX/DEX) 9. Maças (DEX/DEX) 10. Arco (DEX/0) 11. Bestas (DEX...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-tecnicas-de-combate-16",
+      "name": "TÉCNICAS DE COMBATE",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "TÉCNICAS DE COMBATE Seguem a mesma regra de ESTILO DE LUTA. Exemplo: NOME : ESGRIMA RESTRIÇÃO : ESPADA(RAPIER E FLORETE) 65/30, ESTOCADA, MESTRE DA ARMA E FOCO. PONTOS DE TÉCNICA : 15 PTS. DESCRIÇÃO : UMA LUTA QUE SE UTILIZA DE MOVIMENTOS RÁPIDOS DE ESPADA PARA COMBATES DECISIVOS, POR SE UTILIZAR DA VELOCIDADE PERDE EM FORÇA. BÔNUS : +2 EM AGI E +4 EM DEX. P...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-regras-dano-17",
+      "name": "REGRAS : DANO",
+      "category": "attribute_skill",
+      "pages": [
+        17
+      ],
+      "summary": "REGRAS : DANO Dano Simples Em caso de acerto critico o personagem obriga o oponente a fazer um teste de constituição fácil, se passa ele leva o dano correspondente a acerto critico, mas em caso de falha além do dano critico o oponente é penalizado dependendo do tipo de dano... Corte - AMPUTAÇÃO Ele sofre dano mínimo da arma, (com o aumento correspondente ao...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-artes-misticas-18",
+      "name": "ARTES MÍSTICAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "summary": "ARTES MÍSTICAS Eu queria fazer uma regra de chi complexa e vou descrever tudo que garimpei e uni de diversas mitologias... O Mandala dos elementos é composto na realidade de 7 elementos : Fogo, Água, Ar, Terra, Luz, Trevas e Ether...(GITA). Todos elementos possuem seu correspondente antagônico mas o ether não, (ele seria representado no centro do selo de Sal...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-regras-chi-20",
+      "name": "Regras : CHI",
+      "category": "core_rule",
+      "pages": [
+        20
+      ],
+      "summary": "Regras : CHI CHI Os poderes de Chi são poderes que representam as energias interior dos seres, este poder pode ser representado como origem dos poderes considerados raciais. Considere que o personagem recupera um ponto de CHI a cada 30 minutos. 1 ponto: Desperto. 1 ponto de Chi + 1 a cada 2 níveis. 2 pontos: Espiritualista. 2 pontos de Chi + a cada 2 níveis....",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-vishuddha-21",
+      "name": "VISHUDDHA",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          22
+        ]
+      ],
+      "summary": "Quando é desgastado pelo uso indiscriminado, o Ajna pode gerar excesso de fantasia e sensação de isolamento ou perseguição. O Mestre deve fazer o personagem ver coisas que não existem e ter sensações como se fossem paranóicos. Para recuperar o equilíbrio deste chacra, é preciso em um estado de vegetação (isolar-se das percepções exteriores) sob uma noite int...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-poderes-misticos-23",
+      "name": "PODERES MÍSTICOS",
+      "category": "combat",
+      "pages": [
+        23
+      ],
+      "summary": "PODERES MÍSTICOS Representam pequenos efeitos que podem ser feitos através do domínio do CHI. Os poderes místicos consomem a essência de quem os usa, então quando se usa estes poderes você paga o custo do nível do poder em pontos de Chi. Este poderes são apenas exemplos, muitos outros podem ser criados e são especificados em doutrina... PS: Algum poderes de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arte-da-guerra-doutrinas-misticas-24",
+      "name": "DOUTRINAS MÍSTICAS",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "DOUTRINAS MÍSTICAS Se você leu o livro até aqui deve estar se perguntando, Por que se este poder de Chi, é tão importante por que o utilizamos para lutar ... É por que na luta é que nos concentramos num único, objetivo (principalmente na filosofia oriental) e assim mais facilmente atingimos o estado shintai. As doutrinas são desenvolvimentos de um aspecto de...",
+      "entityRefs": []
+    }
+  ]
+}

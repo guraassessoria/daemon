@@ -1,0 +1,144 @@
+{
+  "source": "daemonium",
+  "title": "daemonium",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 99,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "item_equipment",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "daemonium-dd-monion-1-1",
+      "name": "DD æmonion (1-10)",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 DD æmonion Neo Gênese © GCC Versão 1.01 Revisada e corrigida. Não possui adições ou modificações de conteúdo. 2 Uma breve justificativa: Este é um suplemento para ser usado juntamente com o jogo trevas ou quaisquer linhas de RPGs compatíveis com trevas, Arkanum, vampiros mitológicos, etc. Foi feito de forma resumida e não visa lucro, apenas a mais pura div...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-2",
+      "name": "DD æmonion (11-20)",
+      "category": "power_magic",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 que Daemons possuem e seu máximo é de 8 níveis por século. Nosso demônio possui 200 anos, um puro Daemon pode desenvolver tentáculos até nível 16, mas um 40% Daemon só poderá adquirir tentáculos até nível 6 (16 x 0,4 = 6,4 arredondando dá 6), um puro espectro pode desenvolver telecinésia até nível 6, mas um 30% espectro só poderá adquirir telecinésia até...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-3",
+      "name": "DD æmonion (21-30)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 Afastar espíritos: Permite ao ser sobrenatural repelir uma horda de mortos vivos ou espíritos que estiverem atacando. O morto vivo ou espírito repelido tem o direito a um teste de WILL vs WILL do ser sobrenatural para resistir a este poder. Nível 3: Afastar pragas: Semelhante ao mesmo poder em nível 2, mas o anjo é capaz de neutralizar pragas em até 1d6 p...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-4",
+      "name": "DD æmonion (31-40)",
+      "category": "core_rule",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "31 um custo extra de 1 ponto de aprimoramento ao ser adquirido. Necessário os poderes dreno de atributo (todos), dreno de atributo ampliado (todos), dreno de vida. Peste: Maximo 2 níveis por século de existência. Nível 1: Praga: (Anjos, Anjos caídos, Daemons, Espectros). Infecta 2d6 ratos com algum tipo de doença conhecida. Os ratos se encarregarão de espalh...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-5",
+      "name": "DD æmonion (41-50)",
+      "category": "combat",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "summary": "41 Dentes e boca: Maximo de 2 níveis por século de existência. (Daemons, Hordas, Hellspawns, Succubi/Incubi). Com o uso deste poder o ser sobrenatural pode tornar sua boca uma arma perigosa, deixando seus dentes tão afiados quanto espadas. Além disso, acima do nível dois, este poder confere a capacidade de deslocamento parcial a total da mandíbula do ser sob...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-6",
+      "name": "DD æmonion (51-60)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          51,
+          60
+        ]
+      ],
+      "summary": "51 Quer saber, eu prefiro pensar em uma horda de seres sobrenaturais. E isso mesmo, este poder permite ao ser sobrenatural marcar uma pessoa ou mesmo sua residência com algumas gotas de seu sangue. A vítima poderá ainda escolher seu terrível destino, ser atacada por hordas de ser sobrenatural e ter toda sua carne arrancada de seus ossos, ainda viva ou ser in...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-7",
+      "name": "DD æmonion (61-70)",
+      "category": "core_rule",
+      "pages": [
+        [
+          61,
+          70
+        ]
+      ],
+      "summary": "61 Correntes 2: (Death Knigths, Hellspawns). Semelhante a correntes, mas o ser sobrenatural possui até 6 correntes com 4m de comprimento, força 2D e IP1. Requer o poder correntes. Armas brancas: (Death Knigths, Hellspawns). O ser sobrenatural pode transformar seus braços e pernas em até 3 armas brancas diferentes, como espadas, machados, martelos ou qualquer...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-8",
+      "name": "DD æmonion (71-80)",
+      "category": "power_magic",
+      "pages": [
+        [
+          71,
+          80
+        ]
+      ],
+      "summary": "71 enrijecer 5, regeneração 4, aumento de atributos físicos 5, camuflagem 5, conversão 5, vampirismo 2, energia mística 3, resistência natural 3, encubar. Os poderes dos simbiontes: Até agora foram registrados apenas estes poderes do simbionte, mas as pesquisas com os simbiontes podem acabar revelando mais poderes entre outras características. Os pesquisador...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-9",
+      "name": "DD æmonion (81-90)",
+      "category": "core_rule",
+      "pages": [
+        [
+          81,
+          90
+        ]
+      ],
+      "summary": "81 Nível 2: Bônus de +3 AGI, +1 iniciativa, +10% em testes de agilidade. Nível 3: Bônus de +6 AGI, +2 iniciativa, +20% em testes de agilidade. Nível máximo. Destreza sobre-humana: (todos). As habilidades manuais de um ser sobrenatural podem aumentar imensamente com este poder. Seu personagem será capaz de realizar truques de carta entre outras coisas com per...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemonium-dd-monion-1-10",
+      "name": "DD æmonion (91-99)",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          91,
+          99
+        ]
+      ],
+      "summary": "91 sangramento equivalente a 1 PV por rodada. Mesmo na forma humana, este poder causa dano ao ser sobrenatural, mas a hemorragia fica visualmente contida (ela ainda está lá, mas não é mais percebida). Os membros separáveis, assim como membros esticáveis, englobam todas as juntas dos braços e pernas do ser sobrenatural; visualmente, os dedos do ser sobrenatur...",
+      "entityRefs": []
+    }
+  ]
+}

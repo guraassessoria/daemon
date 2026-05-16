@@ -1,0 +1,858 @@
+{
+  "source": "spiritum",
+  "title": "Spiritum",
+  "status": "full-read-auto-pass-1",
+  "pages": 114,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "combat",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "spiritum-spirde-um-1",
+      "name": "SPIRDÉ UM",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "SPIRDÉ UM W My Eis 1908 MONtOs",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-spiritum-2",
+      "name": "SPIRITUM",
+      "category": "item_equipment",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "SPIRITUM O Reino dos Mortos Marcelo Del Debbio Daemon Editora fax (11) 3675-1860 email: daemon Qdacmon.com.br http://www.daemon.com.br SPIRITUM Criação: Marcelo Del Debbio Desenvolvimento:Marcelo Del Debbio, Norson Botrel Revisão: Ana Flora Schlindwein. Capa: Evandro Gregório Arte: Joe Prado, Rod Reis, Evandro Gregório, Cristiano Rodrigo Fotolitos: Daemon Ed...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-introducao-4",
+      "name": "Introdução",
+      "category": "creature_npc",
+      "pages": [
+        4
+      ],
+      "summary": "Introdução Spiritum é o primeiro RPG da linha Daemon que eu escre- vo tendo em mente Jogadores e Mestres experientes, portanto, se este é o primeiro livro de RPG que você colocou as mãos, pode devolvê-lo para a prateleira e escolher um livro mais simples como TREVAS ou ARKANUN. Às pessoas para as quais este livro foi escrito já devem conhecer a mecânica do u...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-conceitos-basicos-5",
+      "name": "Conceitos Básicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "Conceitos Básicos omo em qualquer jogo, é preciso conhecer as regras e os termos utiliza- dos, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja familiarizado. Esse conceitos termos usados no sistema de Magias e combates tam- bém sã...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-crowley-7",
+      "name": "Crowley",
+      "category": "creature_npc",
+      "pages": [
+        [
+          7,
+          12
+        ]
+      ],
+      "summary": "Crowley “Olhe a sua volta, meu jovem. Olhe para estes prédios decaden- tes, para estas ruas mal iluminadas e para este céu esfumaçado. Olhe para as luzes daqueles arranha-céus. Tudo isto não se fez do nada, sabe? Milhares de anos vivendo neste mundo e os homens ainda não aprenderam. É ou não érmágica? —, Entre, eu estava. ândo-— E voçê - pra falar a verdade,...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-reino-dos-mortos-13",
+      "name": "O Reino dos Mortos",
+      "category": "creature_npc",
+      "pages": [
+        13
+      ],
+      "summary": "O Reino dos Mortos Esta é sua segunda lição sobre os Reinos Espirituais. Co- meçaremos a aula de hoje com uma breve explanação sobre o que vem a ser o conceito de forma-pensamento, sua aplicação e sua relação com o Plano Astral, Físico e Espiritual. Estas noções básicas um dia ainda poderão salvar sua vida, pois uma vez fora de seu corpo carnal, a mente e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-plano-astral-14",
+      "name": "O Plano Astral",
+      "category": "power_magic",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "O Plano Astral O Plano Astral também é chamado pelos ocultistas de Bor- da, Planos Tocantes, Véu ou Manto. É o Plano que está situado entre todos os Planos, sejam eles espirituais, carnais ou imaginários. É no Plano Astral que as idéias são formadas, transmitidas e armazenadas. Dizem que o Plano Astral é formado inteiramente de forma-pensamento em sua versão...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-simulacros-16",
+      "name": "Simulacros",
+      "category": "creature_npc",
+      "pages": [
+        16
+      ],
+      "summary": "Simulacros Os viajantes interplanares possuem um grande problema quando realizam suas jornadas, que é a falta de um corpo físico no local que desejam estar. Para viajar entre os planos físicos, existem duas maneiras conhecidas: Portais, onde o viajante atravessa fisicamente de um pla- no ao outro, levando consigo seu corpo verdadeiro, e Simula- cros, onde o...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-criacao-de-personagens-17",
+      "name": "Criação de Personagens",
+      "category": "creature_npc",
+      "pages": [
+        17
+      ],
+      "summary": "Criação de Personagens O Começo Antes de mais nada, um aviso que talvez vá deixá-lo cho- cado: seu Personagem não existe! Ele é fictício, irreal, inexistente. Tão destituído de substân- cia quanto Indiana Jones, o Homem-Aranha ou o capitão Kirk. Mesmo que seja baseado em uma pessoa real, ele não passa de uma cópia imaginária. E já que o Personagem não existe...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-2-escolha-sua-profissao-18",
+      "name": "2. Escolha sua Profissão",
+      "category": "attribute_skill",
+      "pages": [
+        18
+      ],
+      "summary": "2. Escolha sua Profissão SPIRITUM lida principalmente com humanos e, como huma- nos de um jogo de RPG, podemos escolher tantas atividades profissio- nais quanto aquelas que existem no mundo real. Talvez mais. A escolha de uma profissão não é obrigatória. Com permissão do Mestre, você pode ter outras fontes de renda (mesada do pai, aluguel de imóveis, riqueza...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-perguntas-19",
+      "name": "Perguntas",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "summary": "Perguntas Válido para esta encarnação, mas recomendamos que Jo- gadores e Mestres resolvem pequenas pontas em encarnações passadas, que serão resolvidas durante a campanha. Irmãos, amigos e colegas nunca estão com seu Personagem por acaso. Invista algum tempo neles, pois no futuro estas ligações vão render ótimas aventuras. Família 1. Onde seu Personagem nas...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-10-toques-finais-21",
+      "name": "10. Toques Finais",
+      "category": "combat",
+      "pages": [
+        21
+      ],
+      "summary": "10. Toques Finais Está tudo praticamente acabado! Seu Personagem já deve estar pronto para jogar. Falta ape- nas um único ponto a ser resolvido: COMO ele encontrou os outros Personagens do grupo? Isso vai depender do tipo de campanha que os Jogadores desejam. Um grupo especial do FBI pode eventualmente recru- tar cientistas civis para missões específicas, ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-glock-24-22",
+      "name": "Glock 24",
+      "category": "core_rule",
+      "pages": [
+        22
+      ],
+      "summary": "Glock 24 Munição: mm Pente: 24 (clip) Alcance: 50m Dano: 1d6+1 ROF:3 Munição: cal. 12 Pente: 7 Berettamiz Alcance: 60m Munição: 9mm Dano: 2d6+2 Pente: 20 ou 40 ROF:;1 Alcance: 150 m Dano: 1dó ROF: 5 Munição: 7.62 Pente: 30 (clip) Mini Lizi Alcance: 300m Munição: mm Dano: 1d10 Pente: 20 ou 30 ROF: 5 Alcance: 200m Dano: 1d6+2 ROF:10 £3 Parker Hale Munição: 7.6...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-atributos-23",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          23,
+          24
+        ]
+      ],
+      "summary": "Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, cria- turas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados pela Daemon Edi...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-espiritos-fantasmas-e-aparicoes-25",
+      "name": "Espíritos, Fantasmas e Aparições",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          25,
+          26
+        ]
+      ],
+      "summary": "Espíritos, Fantasmas e Aparições Espíritos Espíritos são os habitantes de Spiritum, o Reino dos Mortos. Eles também englobam todos aqueles que residem nos Vales Espirituais. Um espírito não “nasce” ou “cresce”, perma- necendo pela eternidade com a última forma que adotou, ou mesmo modificando essa forma. Normalmente, para começar uma campanha em que to- dos...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-espectros-e-27",
+      "name": "Espectros e",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Espectros e Espectros Às primeiras referências aos espectros datam de aproxima- damente 4.000 a.C., mas sabemos que estas criaturas existem desde a época em que Arkanun ocupava o lugar onde hoje está a Terra na Roda dos Mundos, assombrando os habitantes da Atlântida e Lemúria. Os espectros eram originalmente seres poderosíssimos de Infernun, cujos corpos fís...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-mediuns-29",
+      "name": "Médiuns",
+      "category": "ritual_spell",
+      "pages": [
+        29
+      ],
+      "summary": "Médiuns Médiuns são as pessoas que possuem qualquer tipo de contato com o mundo espiritual. No mundo real, praticamente todas as pessoas possuem algum tipo de dom mediúnico, em maior ou menor grau. No Universo de Trevas, os Médiuns são mais poderosos que seus equivalentes reais, sendo capazes de grandes feitos sobrenaturais. Tipos de Médium Os médiuns estão...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-poderes-30",
+      "name": "Poderes",
+      "category": "creature_npc",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "summary": "Poderes Os poderes mediúnicos são tão variados e exclusivos que não se poderia cadastrar todos os tipos de médiuns existentes. Estas divisões são apenas aproximações para fins de jogo e o Mestre pode permitir que os Jogadores criem outros poderes diferentes e únicos, ou combinação de diferentes poderes que gerem outros efeitos. Criação de Personagem O Person...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-graus-32",
+      "name": "Graus",
+      "category": "power_magic",
+      "pages": [
+        32
+      ],
+      "summary": "Graus Existem três graus no sistema Rosa-Cruz: Terceiro Grau (Querubim); Segundo Grau (Seraphim ou Eulis) e Primeiro Grau (Teraphim ou Ministro para os homens). Os membros do Pri- meiro Círculo são os Conselheiros da Ordem e transmitem os ensinamentos através dos templos. Os membros mais graduados, quando desencarnam, tor- nam-se membros do Colégio Invisível...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-estudiosos-do-umbral-33",
+      "name": "Estudiosos do Umbral",
+      "category": "creature_npc",
+      "pages": [
+        [
+          33,
+          34
+        ]
+      ],
+      "summary": "Estudiosos do Umbral Por volta de 1848, a atenção foi chamada, nos Estados Unidos da América, sobre os diversos fenômenos estranhos, consistentes em ruídos, pancadas e movimentos de objetos sem causa conhecida. Esses fenômenos ocorriam espontaneamente, com uma intensidade e persistência singulares. Notou-se que eles se produziam mais frequentemente sob a inf...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-videntes-oraculos-e-sibilas-35",
+      "name": "Videntes, Oráculos e Sibilas",
+      "category": "creature_npc",
+      "pages": [
+        35
+      ],
+      "summary": "Videntes, Oráculos e Sibilas Heráclito, em 500 a.C., descreveu Sibila como “aquela de lábios enfurecidos, proferindo palavras sombrias, sem adomos, sem perfume, penetra através de mil anos com sua voz”. Ele é a fonte mais antiga a descrever Sibila, a famosa sacerdotisa do Orá- culo de Delfos. O livro das profecias sibilinas, que sobreviveram à barga- nha inc...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-siibilas-36",
+      "name": "Siíbilas",
+      "category": "creature_npc",
+      "pages": [
+        36
+      ],
+      "summary": "Siíbilas Assim como seus irmãos videntes e oráculos, as sibilas também possuem poderes adivinhatórios, mas oriundos dos mundos mais destruídos na Roda dos Mundos, como Arkanun ou Inferno. Note que o fato de uma pessoa receber informações através de entidades demoníacas não significa que ela seja má, afinal, existem anjos e pastores mais perigosos e manipulad...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-nephalins-37",
+      "name": "Nephalins",
+      "category": "power_magic",
+      "pages": [
+        37
+      ],
+      "summary": "Nephalins OBS: pela sua complexidade, tanto na criação de Persona- gem quanto na construção das diversas histórias das reencarna- ções de um nephalin, recomenda-se que estes Personagens sejam utilizados apenas como NPCs ou controlados por Jogadores e Mestres experientes. Pela definição tradicional, os nephalins são os filhos dos anjos com as mulheres humanas...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-criando-um-personagem-nephalin-38",
+      "name": "Criando um Personagem Nephalin",
+      "category": "attribute_skill",
+      "pages": [
+        38
+      ],
+      "summary": "Criando um Personagem Nephalin A primeira coisa a ser determinada na campanha é a PRI- MEIRA encarnação do nephalin. Onde, quando e como são as perguntas que o Mestre deve determinar. O Mestre pode esco- lher quantas encarnações o nephalin possui ou sortear em 2d10+2 e “voltar no tempo” o número de encarnações sorteadas para encontrar a primeira encarnação (...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-habitantes-39",
+      "name": "Habitantes",
+      "category": "creature_npc",
+      "pages": [
+        39
+      ],
+      "summary": "Habitantes Os habitantes do Sonhar não são exatamente Persona- gens. Criados pela forma-pensamento humana ou por desejo de Phantasus, Morpheus ou Proebetus, os habitantes do Sonhar possuem uma existência efêmera e dependente da vontade de outros. Por outro lado, enquanto houver energia espiritual para mantê-los na existência, podem ser considerados imortais....",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-passeando-pela-terra-40",
+      "name": "Passeando pela Terra",
+      "category": "power_magic",
+      "pages": [
+        40
+      ],
+      "summary": "Passeando pela Terra Os habitantes do Sonhar podem visitar a Terra por curtos pesíodos de tempo, através de rituais de Metamagia relacionado E conjuração de seres fantásticos (Criar Metamagia 6+). Enquanto estiverem em nosso plano, os Personagens do Sonhar perdem um ponto de WILL a cada 12 horas (se estive- sem em uma floresta ou campo); ou um ponto de WILL...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-viajantes-espirituais-41",
+      "name": "Viajantes Espirituais",
+      "category": "ritual_spell",
+      "pages": [
+        41
+      ],
+      "summary": "Viajantes Espirituais Viajantes espirituais, também conhecidos como viajantes astrais, são aventureiros que escolheram os vales de Spiritum para suas campanhas. Podem ser aventureiros isolados ou per- tencerem a grandes grupos organizados (como os Estudiosos do Umbral) mas geralmente organizam-se em pequenos grupos de estudo da Cabala e de viagens astrais. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-viajante-espiritual-42",
+      "name": "Viajante Espiritual",
+      "category": "power_magic",
+      "pages": [
+        42
+      ],
+      "summary": "Viajante Espiritual Custo: 3 pts. de aprimoramento, 300 pts. de perícia. Perícias: Ciências (Teologia 20%), Ciências Proibidas (Alqui- mia 30%, Astrologia 40%, Conhecimento de Espíritos 50%, Oculto 25%, Rituais 40%, Teoria da Magia 50%, Viagem Astral 50%), Manipulação (Impressionar 30%, Liderança 20%), Pesquisa /Investigação 40%. Aprimoramentos: Poderes Mági...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-aprimoramentos-43",
+      "name": "Aprimoramentos",
+      "category": "creature_npc",
+      "pages": [
+        43
+      ],
+      "summary": "Aprimoramentos Aprimoramentos são detalhes incomuns, raros ou sobre- naturais que tornam o Personagem dos demais, além de conce- ber algumas vantagens dentro do Jogo. Estes pontos não devem ser simplesmente “gastos”, mas o Jogador precisa justificá-los com o Mestre, que precisa aprová- los para que possam ser utilizados em Campanha. A seguir apresentaremos a...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-contatos-c-aliados-44",
+      "name": "Contatos c Aliados",
+      "category": "power_magic",
+      "pages": [
+        44
+      ],
+      "summary": "Contatos c Aliados Lembre-se que os aliados podem morrer com o passar do tempo (bom, até mesmo seres sobrenaturais podem morrer...). Quando isso ocorrer, assume-se que o Personagem conseguiu outro aliado no mesmo ramo, passou a conhecer os descenden- tes dele ou seu sucessor. O Mestre deve sempre se lembrar que os contatos e alia- dos do Personagem também te...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-pontos-heroicos-45",
+      "name": "Pontos Heróicos",
+      "category": "attribute_skill",
+      "pages": [
+        45
+      ],
+      "summary": "Pontos Heróicos São Pontos de Vida “extras” que petimitériiaos Persona- gens em campanhas mais aventureiras iverem por mais tempo. Pontos Heróicos são utilizados como se fossem PVs mas na verdade funcionam como uma “sorte” que protege o Personagem de receber um dano maior. Cada nível de Pontos Heróicos fomece 1 PV extra (marcado separadamente na ficha de Per...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-aprimoramentos-negativos-46",
+      "name": "Aprimoramentos Negativos",
+      "category": "character_option",
+      "pages": [
+        46
+      ],
+      "summary": "Aprimoramentos Negativos Alma Escravizada -3 Pontos: sua alma foi escravizada por habitantes de Spiritum, criaturas poderosas que agora o enviam para várias missões ou a cometer atos insanos. Muitas vezes, o Persona- gem possui livre arbítrio enquanto seu dono não necessita dele para alguma missão. Neste caso, todas as outras priorida- des são ignoradas e o...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-pericias-47",
+      "name": "Perícias",
+      "category": "attribute_skill",
+      "pages": [
+        47
+      ],
+      "summary": "Perícias Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No mo- mento em que o Personagem é criado, calcula-se quantos pontos de Perícias ele terá para gastar. Esses pontos de Perícias podem ser gastos com quaisquer Perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos de Períci...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-animais-48",
+      "name": "Animais*",
+      "category": "item_equipment",
+      "pages": [
+        48
+      ],
+      "summary": "Animais* Alguns subgrupos possíveis: Treinamento de animais (0), Montaria (AGI), Doma (0), Veterinária (0). Armadilhas (PER) Armas Brancas* (DEX) Alguns subgrupos possíveis: Facas, Adagas, Punhais, Es- padas, Machados, Chicotes, Manguais, Maças, Martelos, Arcos, Bestas e Lanças. Existem armas brancas que não se encaixam nesses subgrupos, como nunchakus, bole...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-pontos-heroicos-49",
+      "name": "Pontos Heróicos",
+      "category": "power_magic",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "summary": "Pontos Heróicos Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quan- do ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, ser arrastado por u...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-pontos-de-fe-51",
+      "name": "Pontos de Fé",
+      "category": "creature_npc",
+      "pages": [
+        51
+      ],
+      "summary": "Pontos de Fé Fé [do latim Fide] S.f. 1. Crença Religiosa. 2. Conjunto de Dogmas é Doutrinas que constituem um out. 3. A primeira virtude teohgal adesão e anuência pessoal a Deus, seus desígmios e manifestações. Pontos de Fé expressam o poder máximo dos deuses e cléri- gos: a Fé Divina. Em termos de jogo, Fé representa os pequenos milagres que um investigador...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-controlar-mortos-vivos-52",
+      "name": "Controlar Mortos-Vivos",
+      "category": "power_magic",
+      "pages": [
+        52
+      ],
+      "summary": "Controlar Mortos-Vivos Custo: variável. Semelhante a Afastar Mortos-Vivos, mas utilizados por necromânticos e clérigos de deuses malignos. O Teste funciona da mesma maneira, mas o clérigo passa a comandar a criatura (ou criaturas) durante uma cena. Os mortos-vivos podem fazer um Teste de WILL vs. a WILL do clérigo para resistir (como esqueletos e zumbis não...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-poderes-espectrais-53",
+      "name": "Poderes Espectrais",
+      "category": "creature_npc",
+      "pages": [
+        [
+          53,
+          54
+        ]
+      ],
+      "summary": "Poderes Espectrais A maior parte dos poderes espectrais consiste no domínio da mente dos espíritos sobre a forma-pensamento ao seu redor (os espíritos moldam seu perispírito ou o ectoplasma quando estão interagindo com o mundo dos mortais). A seguir, descreveremos alguns poderes básicos relaciona- dos ao mundo dos espíritos. Eles podem ser comprados com pont...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-grandes-jornadas-55",
+      "name": "Grandes Jornadas",
+      "category": "item_equipment",
+      "pages": [
+        55
+      ],
+      "summary": "Grandes Jornadas Usando de suas memórias, o espírito pode viajar para qual- quer lugar do mundo onde suas lembranças já estiveram (geral- mente, para qualquer lugar em que sua última encarnação tenha estado). Para tanto, ele precisa entrar nos reinos mais distantes, afastando-se das áreas de Spiritum que tocam o Reino dos Vi- vos. Para o observador, o espíri...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-intangibilidade-56",
+      "name": "Intangibilidade",
+      "category": "creature_npc",
+      "pages": [
+        56
+      ],
+      "summary": "Intangibilidade O poder que faz com que os fantasmas atravessem pare- des. Na verdade, em teoria, todos os espíritos possuem este poder, mas suas consciências ainda estão ligadas ao plano físico, e é sua própria força de vontade que os impede de atravessar objetos sólidos, como paredes, portas e pessoas. Dominando sua própria mente, o espírito é capaz de pas...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-lembrancas-57",
+      "name": "Lembranças",
+      "category": "attribute_skill",
+      "pages": [
+        57
+      ],
+      "summary": "Lembranças Através de grandes estudos, um espírito consegue lem- bra-se de suas encamações passadas. Este poder só pode ser escolhido com a aprovação do Mestre e, para cada nível escolhido, o Jogador e o Mestre devem decidir toda a história passada do Personagem, seus atributos, habilidades, perícias e conhecimen- tos em cada uma das vidas passadas. Personag...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-materializacao-58",
+      "name": "Materialização",
+      "category": "ritual_spell",
+      "pages": [
+        58
+      ],
+      "summary": "Materialização Este é um dos poderes mais prezados dentro da socieda- de dos espíritos, pois permite a manifestação dentro do mundo dos vivos. Materialização NÃO envolve conversar com mortais ou mesmo escutar o que eles dizem (para isso existe o poder Comunicação), apenas materializar-se na Terra. Nível 1: Boo. A Materialização é muito fraca. Permite ao espí...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-olhar-morto-59",
+      "name": "Olhar Morto",
+      "category": "creature_npc",
+      "pages": [
+        59
+      ],
+      "summary": "Olhar Morto Nível 1: O/har do Futuro Morto. Uma das características do espíritos é a capacidade de enxergar o mundo com olhos de morto. Este poder permite a cles enxergar as coisas no futuro. Prédios são vistos como abandonados, destruídos ou reforma- dos, pessoas são vistas como velhas (ou cadáveres), objetos são vistos como serão em alguns anos (ou séculos...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-quebrar-a-barreira-infernal-60",
+      "name": "Quebrar a Barreira Infernal",
+      "category": "ritual_spell",
+      "pages": [
+        60
+      ],
+      "summary": "Quebrar a Barreira Infernal Nível 3: o espírito possui o poder de, através de comple- xos rituais (que demoram cerca de dez rodadas para serem reali- zados), atravessar a barreira entre Inferno e Spiritum quando bem entender. O local e o Círculo Infernal onde ele será transpor- tado são determinados pelo poder do espírito (e devem ser ne- gociados com o Mest...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-rituais-61",
+      "name": "Rituais",
+      "category": "creature_npc",
+      "pages": [
+        [
+          61,
+          63
+        ]
+      ],
+      "summary": "Rituais A seguir, colocamos alguns exemplos de rituais de magia envolvendo Spiritum ou o Reino dos Mortos, para uso em sua Campanha de Arkanun/Trevas: Aríete Espectral Criar Spiritum 4 Componentes: V, M (um aríete miniatura em prata) Tempo de Formulação: 1 ação Alcance: 3m Duração: 1 cena (D) Teste de Resistência: fortitude (CON) reduz à metade Este ritual c...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-maos-espectrais-64",
+      "name": "Mãos Espectrais",
+      "category": "power_magic",
+      "pages": [
+        [
+          64,
+          65
+        ]
+      ],
+      "summary": "Mãos Espectrais Criar/Controlar Spiritum/Metamagia 2 Componentes: V, G Tempo de Formulação: 1 ação Alcance: 20m Efeitos: cria uma mão mágica Duração: 1 cena Teste de Resistência: nenhum Este ritual permite ao mago criar mãos translúcidas e espectrais, que podem ser usadas como se fossem suas próprias mãos (para lutar à distância, mover objetos ou até realiza...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-pesadelo-66",
+      "name": "Pesadelo",
+      "category": "power_magic",
+      "pages": [
+        66
+      ],
+      "summary": "Pesadelo Criar Animais/Spiritum 6 Componentes: V, G, M (círculo de invocação adequado e uma asa de uma fada) Tempo de Formulação: 1 ação Alcance: toque Alvo: 1 cavalo Duração: até o nascer do sol Teste de Resistência: nenhum / fortitude (CON) anula Este ritual transforma um cavalo comum em um Pesade- lo, uma criatura mística bastante temida no norte da Europ...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-regras-e-testes-67",
+      "name": "Regras e Testes",
+      "category": "attribute_skill",
+      "pages": [
+        67
+      ],
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-atributo-vs-atributo-68",
+      "name": "Atributo vs. Atributo",
+      "category": "attribute_skill",
+      "pages": [
+        68
+      ],
+      "summary": "Atributo vs. Atributo Existem situações onde há o confronto de dois Atributos. Já foi citado o caso de um Personagem tentando levantar um peso. Há diversos outros exemplos: dois Personagens tirando um braço de ferro para saber quem é mais forte (FR), ou uma competição para testar qual Personagem consegue ficar mais tempo embaixo d'água sem respirar (CON). Ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-teste-de-resistencia-69",
+      "name": "Teste de Resistência",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          69,
+          72
+        ]
+      ],
+      "summary": "Teste de Resistência Em alguns casos, os Personagens são submetidos a pro- vações de ordem fisica ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por vene- n...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-ataques-fora-de-alcance-73",
+      "name": "Ataques Fora de Alcance",
+      "category": "combat",
+      "pages": [
+        [
+          73,
+          76
+        ]
+      ],
+      "summary": "Ataques Fora de Alcance São Ataques que sempre erram o alvo. No caso de flechas, elas caem no chão antes de chegar ao alvo. No caso de balas, elas passam pelo inimigo, mas a distância é tão grande que não há precisão suficiente no Ataque para acertar o alvo. Há um fator importante nisso. O fato de um Ataque estar fora de alcance não significa que o inimigo s...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-experiencia-77",
+      "name": "Experiência",
+      "category": "creature_npc",
+      "pages": [
+        [
+          77,
+          78
+        ]
+      ],
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisio- nado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura mui- tas vezes já é um prêmio em si, mas para recompensar os Perso- nagens que resistiram bravamente aos anjos, templários, Inquisição e outros demô...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-spiritum-79",
+      "name": "Spiritum",
+      "category": "creature_npc",
+      "pages": [
+        [
+          79,
+          80
+        ]
+      ],
+      "summary": "Spiritum Spiritum é o nome dado ao grande plano espiritual que envolve a Roda dos Mundos, permeando todos os planos fisi- cos (Infernun, Arkanun, Terra, Paradísia e Édhen). O Reino dos Espíritos existe e tem existido pela eternida- de, acompanhando o desenvolvimento da Roda dos Mundos, a ascenção e queda dos planos materiais e a criação e destruição dos semi...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-plano-astral-81",
+      "name": "Plano Astral",
+      "category": "power_magic",
+      "pages": [
+        81
+      ],
+      "summary": "Plano Astral Plano Astral é o nome pela qual é conhecido o grande oceano de forma-pensamento no qual Spiritum, Arcádia, Infer- no, os vales espirituais e todos os infindáveis planos de existên- cia estão emoldurados. O plano astral inclui o aether, matéria que envolve as diferentes orbes do universo. Ninguém (nem mesmo os deuses) sabem como ou por quê ele su...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-cordao-de-prata-82",
+      "name": "O Cordão de Prata",
+      "category": "power_magic",
+      "pages": [
+        82
+      ],
+      "summary": "O Cordão de Prata Todos os seres vivos que possuem um corpo físico em algum plano de existência material possuem uma ligação arcana permanente entre seu corpo e seu espírito, chamada Cordão de Prata. Este cordão é invisível, mas pode ser detectado com ritu- ais de Entender Spiritum/Metamagia e podem ser usados para rastrear a origem de aventureiros e viajant...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-cidades-astrais-83",
+      "name": "Cidades Astrais",
+      "category": "power_magic",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "summary": "Cidades Astrais Falamos sobre as viagens entre pontos conhecidos, agora é hora de explicarmos um pouco sobre as Cidades Astrais (também conhecidas como cidades espirituais). Na verdade, esta divisão entre planos espirituais, cidades astrais, vales espirituais e semiplanos é meramente classificatória. TODAS são exatamente a mesma coisa: buracos abertos pelo p...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-umbral-85",
+      "name": "Umbral",
+      "category": "power_magic",
+      "pages": [
+        [
+          85,
+          86
+        ]
+      ],
+      "summary": "Umbral As regiões mais densas do Reino Espiritual são chamadas pelos espíritos mais antigos de Regiões Umbrais. São forma- das por formas-pensamento pesadas e poluídas que chegam a se assemelhar muito com o plano material. A região umbral está diretamente relacionada com os maus pensamentos, com o ódio, a guerra, a miséria e o egois- mo. São regiões onde os...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-vales-espirituais-87",
+      "name": "Vales Espirituais",
+      "category": "power_magic",
+      "pages": [
+        [
+          87,
+          88
+        ]
+      ],
+      "summary": "Vales Espirituais Como o próprio nome indica, os vales espirituais são regi- des formadas em Spiritum por forma-pensamento organizada em uma área. O tamanho de um vale espiritual pode variar desde um simples campo de futebol até uma pequena cidade. Vales espirituais demoram anos para se formarem, acu- mulando grande massa de energia mental até que seja molda...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-sonhar-89",
+      "name": "O Sonhar",
+      "category": "power_magic",
+      "pages": [
+        [
+          89,
+          90
+        ]
+      ],
+      "summary": "O Sonhar Durante a Idade Média, o ato de sonhar era descrito como uma pequena morte que acontecia todas as noites. As pessoas não sabiam se retornariam à Terra ou se partiriam para o Descanso Eter- no e, por essa razão, aconselhavam a todos que rezassem antes de dormir, entregando suas almas aos espíritos iluminados. A personificação do Senhor dos Sonhos era...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-as-tavernas-91",
+      "name": "As Tavernas",
+      "category": "power_magic",
+      "pages": [
+        [
+          91,
+          92
+        ]
+      ],
+      "summary": "As Tavernas Estas cidades são habitadas primariamente durante a noi- te, quando as pessoas dormem, mas existem locais que estão sempre frequentados. Estes locais situam-se afastados das cida- des e são chamados de tavernas. Muitos deles realmente possu- em a aparência de tavernas medievais, mas boa parte deles no século XXI possuem ambientes próprios, que po...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-mercado-de-almas-93",
+      "name": "O Mercado de Almas",
+      "category": "creature_npc",
+      "pages": [
+        [
+          93,
+          95
+        ]
+      ],
+      "summary": "O Mercado de Almas Durante minhas viagens a Spiritum, um dos eventos mais interessantes que pude presenciar foi um mercado de almas. Um mercado de almas funciona de maneira análoga ao mercado de drogas na Terra: é ilegal, passível de graves penalida- des e perseguido pelos governantes, mas com um pouco de paciência e os contatos certos, pode-se encontrar pra...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-senhor-dos-prazeres-96",
+      "name": "Senhor dos Prazeres",
+      "category": "power_magic",
+      "pages": [
+        96
+      ],
+      "summary": "Senhor dos Prazeres Uma entidade conhecida apenas por Senhor dos Praze- res reside em uma das regiões umbralinas próximas à Terra. Foi relatado por diversos espíritos como sendo o senhor de um semiplano dedicado a todos os tipos de prazeres. Dizem que ele negociou a alma de diversos artistas, can- tores e dançarinas, fazendo com que se tornassem muito fa- mo...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-lanka-97",
+      "name": "Lanka",
+      "category": "power_magic",
+      "pages": [
+        97
+      ],
+      "summary": "Lanka A Origem Toda a raça vampírica conhecida como rakshasa originou- se através de Kali, a primeira deusa a ser infectada com a maldição de Vampyr. Originalmente uma deusa de Paradísia e amante de Siva, Kali tornou-se a primeira vampira a pisar na Terra, aproxi- madamente em 3000 a.C.. Kali foi a mãe dos primeiros rakshasas. Os livros do Devi-Mahatmya cont...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-kali-98",
+      "name": "Kali",
+      "category": "creature_npc",
+      "pages": [
+        98
+      ],
+      "summary": "Kali A deusa Creatrix da mitologia hindu foi possuída pela essência de um dos demônios mais poderosos de Infernun, chamado Vampyr. Através dele, Kali tornou-se uma vampira e acabou enfrentando seus colegas deuses, sendo expulsa de Katmaran para uma prisão especialmente construída por Siva em algum local dos Reinos Umbrais. Kali continua aprisionada, mas mant...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-metropolis-99",
+      "name": "Metrópolis",
+      "category": "creature_npc",
+      "pages": [
+        [
+          99,
+          100
+        ]
+      ],
+      "summary": "Metrópolis A origem de Metrópolis está ligada à lenda da batalha celestial entre Bel Meridath e Leviatã. Após o terrível combate entre estes deuses, a Serpente Leviatã foi destruída no Plano Astral e materializou-se em Paradísia. Caindo dos céus, abriu com o impacto de sua queda uma cratera de profundidade quase infinita. Essa cratera, chamada pelos anjos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-fosso-101",
+      "name": "O Fosso",
+      "category": "item_equipment",
+      "pages": [
+        101
+      ],
+      "summary": "O Fosso O Fosso fica exatamente no centro de Metrópolis. Hoje ele é uma abertura quadrada com cerca de um quilômetro de lado, recoberto por máquinas e engrenagens e ladeado pelas quatro torres negras. O Fosso perdeu seu formato original, pelo menos nos primeiros quilômetros abaixo da cidade. Um prisma negro na forma de um diamante flutua no centro sobre sua...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-personagens-de-nota-102",
+      "name": "Personagens de Nota",
+      "category": "creature_npc",
+      "pages": [
+        102
+      ],
+      "summary": "Personagens de Nota Metrópolis possui muitos moradores estranhos, mas al- guns são mais conhecidos entre os viajantes astrais: Pinhead Descrito em detalhes pelo viajante astral Clive Barker, Pinhead é um dos principais cenobitas de Metrópolis e um dos que mais visitou a Terra durante o período em que esteve servin- do aos generais. Habita um castelo construí...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-inferno-103",
+      "name": "Inferno",
+      "category": "creature_npc",
+      "pages": [
+        [
+          103,
+          104
+        ]
+      ],
+      "summary": "Inferno A Origem Um dos maiores vales espirituais. Tão grande que passou a ser considerado um plano espiritual a partir do século XIII, com a descrição do viajante astral Dante Allighieri. A origem de tudo está relacionada à Guerra Celestial. Assim que a luz divina criou nosso universo, uma sombra foi projetada dela, pois não existe luz sem a escuridão. Assi...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-abismo-105",
+      "name": "O Abismo",
+      "category": "creature_npc",
+      "pages": [
+        [
+          105,
+          106
+        ]
+      ],
+      "summary": "O Abismo Considerada uma das regiões mais perigosas e desconhe- cidas da orbe terrestre, o Abismo é a terra dos demônios refugi- ados de Tenebras, temida até mesmo pelos mais poderosos de- mônios de Arkanun. A Origem Quando Tenebras foi definitivamente destruído, cerca de 15.000 anos atrás, os demônios mais poderosos do plano de Tenebras conseguiram vencer a...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-inferno-oriental-107",
+      "name": "Inferno Oriental",
+      "category": "ritual_spell",
+      "pages": [
+        107
+      ],
+      "summary": "Inferno Oriental Dizem as lendas que, na China, quando alguém morre, seu espírito tem sete dias para perceber que está morto (no caso de um acidente, por exemplo) ou continuará como um espírito até que algum anjo venha buscá-lo, em 49 dias. Para isso, o espí- rito deve estar presente em sua casa ou o anjo será incapaz de localizá-lo e o espírito permanecerá...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-quinto-palacio-108",
+      "name": "Quinto Palácio",
+      "category": "power_magic",
+      "pages": [
+        108
+      ],
+      "summary": "Quinto Palácio Este palácio é governado por Pao Koang, grande admi- nistrador do Quinto Palácio, Ele é um demônio muito honrado, cujas decisões e julgamentos são justos, porém duros. Torre de Observar a Família: uma torre na qual os condena- dos podem observar o que está acontecendo com suas famílias. Serve como um alívio para os condenados de “bom comportam...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-arkanun-109",
+      "name": "Arkanun",
+      "category": "creature_npc",
+      "pages": [
+        [
+          109,
+          110
+        ]
+      ],
+      "summary": "Arkanun Existiu um dia, no passado, em que Ark-a-nun já foi exa- tamente como a Terra. Árvores cresciam em imensas florestas temperadas, rios abundantes eram habitados por toda uma fauna e flora muito semelhante à que existe hoje em nosso planeta e existiam vilas e cidades que seguiam mais ou menos os mesmos princípios de nossas vilas medievais. Mas isso foi...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-bibliografia-111",
+      "name": "Bibliografia",
+      "category": "power_magic",
+      "pages": [
+        111
+      ],
+      "summary": "Bibliografia Livros Obrigatórios Os três livros abaixo, de autoria de Allan Kardec, são in- dispensáveis para Mestres que queiram se aprofundar no conhe- cimento sobre espíritos, fantasmas, obsessores e médiuns. São livros simples e de fácil leitura, compostos de dezenas de per- guntas cujas respostas foram ditadas por espíritos de diversas partes do mundo e...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-nephalin-112",
+      "name": "NEPHALIN",
+      "category": "attribute_skill",
+      "pages": [
+        112
+      ],
+      "summary": "NEPHALIN Nome Data de Nascimento Local de Nascimento Sexo Altura Peso Local de Morte Data de Morte Classe Social / Profissão Nível Idade: Aparente Real Idiomas Religião Perícias Relevantes valor Perícias Relevantes valor Perícias Relevantes valor Nome Data de Nascimento Local de Nascimento Sexo Altura Peso Local de Morte Data de Morte Classe Social / Profiss...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-o-irlhu-mm-113",
+      "name": "o) IRLHU MM",
+      "category": "attribute_skill",
+      "pages": [
+        113
+      ],
+      "summary": "o) IRLHU MM O Reino dos Mortos Nome Data de Nascimento Local de Nascimento Sexo Altura Peso Local de Morte Data de Morte Classe Social / Profissão Nível Idade: Aparente Real Idiomas Religião Atributos Físico Spiritum inicial mod. % inicial mod. % Constituição (CON) Força (FR) Destreza (DEX) Agilidade (AGI) Inteligência (INT) - Força de Vontade (WILL) Percepç...",
+      "entityRefs": []
+    },
+    {
+      "id": "spiritum-spiritum-114",
+      "name": "* SPIRITUM",
+      "category": "creature_npc",
+      "pages": [
+        114
+      ],
+      "summary": "* SPIRITUM , O Reino 008 Mortos SPIRITUM: O REINO DOS MORTOS traz a explicação detalhada dos planos Espiri- tuais, Umbrais, Etéreos e Astrais; suas regras, suas criaturas, seus. anjos e demônios. Totalmente baseado no ocultismo, teosofia ec mitologias antigas, SPIRITUM traz regras para criação de Personagens Fantasmas (Os habitantes de Spiritum), Aparições (...",
+      "entityRefs": []
+    }
+  ]
+}

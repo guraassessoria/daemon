@@ -1,0 +1,79 @@
+{
+  "source": "avatar-volume-1",
+  "title": "avatar_volume_1",
+  "status": "full-read-auto-pass-1",
+  "pages": 36,
+  "primaryCategories": [
+    "core_rule",
+    "attribute_skill",
+    "creature_npc",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "avatar-volume-1-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "2 Agradecimentos Este é o primeiro volume de uma série de três que serão publicados em breve. Primeiro, agradeço à Tuz, minha musa inspiradora e maior incentivadora do meu trabalho de RPG, além de ser minha playtester oficial da maluquices que saem da minha cabeça. Gostaria de agradecer primeiramente ao meu grupo de jogo, Black Ninja, Anso, Dedo_No_Olho, Tro...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatar-volume-1-indice-do-volume-um-3",
+      "name": "ÍNDICE DO VOLUME UM",
+      "category": "power_magic",
+      "pages": [
+        [
+          3,
+          6
+        ]
+      ],
+      "summary": "3 ÍNDICE DO VOLUME UM Introdução................................................................................................... 06 Como usar o Netbook............................................................................... 07 Como criar Avataras................................................................................. 07 Sugestão de Jogos.....",
+      "entityRefs": []
+    },
+    {
+      "id": "avatar-volume-1-como-usar-este-netbook-7",
+      "name": "COMO USAR ESTE NETBOOK",
+      "category": "core_rule",
+      "pages": [
+        [
+          7,
+          21
+        ]
+      ],
+      "summary": "7 COMO USAR ESTE NETBOOK Avatar! é uma criação do Estúdio Sefirot para ser usado como uma ambientação e uma sugestão de super-heróis para o Supers RPG. Para os que já conhecem o Sistema Daemon e possuem o livro Supers RPG da Daemon Editora, não precisarão ler a parte das regras, a não ser a parte que trata dos Pontos Espirituais (se não se quiser usar as reg...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatar-volume-1-krishnaman-22",
+      "name": "KRISHNAMAN",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          22,
+          25
+        ]
+      ],
+      "summary": "22 KRISHNAMAN CON 13(60), FR 10(80), DEX 11(24), AGI 12 (30), INT 16, WILL 30, CAR 12 (20), PER 10 (20) Guerreiro do 12° Nível #ataques [3], IP 1, PVs 13 (70) + 30 Ataques: Briga 70/60, dano 1d6 na forma humana e 3d6+33 na forma de Avatar. Raio Chakram: Krishnaman dispara um disco de enegia espiritual dourada capaz de dar 13d6+1 de dano em até 250m de distân...",
+      "entityRefs": []
+    },
+    {
+      "id": "avatar-volume-1-ganeshaman-26",
+      "name": "GANESHAMAN",
+      "category": "combat",
+      "pages": [
+        [
+          26,
+          36
+        ]
+      ],
+      "summary": "26 GANESHAMAN Arte: Nitro GANESHAMAN CON 16(80), FR 20(100), DEX 13(30), AGI 11 (30), INT 10, WILL 25, CAR 10 (8), PER 14 Guerreiro do 12° Nível #ataques [3], IP 1, PVs 18 (90) + 30 Ataques: Briga 80/80, dano 1d6+3 na forma humana e 3d6+45 na forma de Avatar. Soco de Ganesha: Ganeshaman (gastando um ponto de Will) é capaz de desferir um soco potentíssimo que...",
+      "entityRefs": []
+    }
+  ]
+}

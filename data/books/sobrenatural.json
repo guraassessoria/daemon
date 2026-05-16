@@ -1,0 +1,27 @@
+{
+  "source": "sobrenatural",
+  "title": "Sobrenatural",
+  "status": "full-read-auto-pass-1",
+  "pages": 11,
+  "primaryCategories": [
+    "character_option",
+    "attribute_skill",
+    "creature_npc",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "sobrenatural-rederpg-1",
+      "name": "REDERPG",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          11
+        ]
+      ],
+      "summary": "1 REDERPG Adaptação: Sobrenatural Sobrenatural Adaptação para Daemon e Storytelling Sam: Quando eu disse para o meu pai que eu tinha medo do bicho-papão, ele me deu uma pistola 45. Dean: Bem, e o que ele deveria ter feito? Sam: Eu tinha ape­ nas nove anos. Ele deveria ter dito “não tenha medo do escuro”. Dean: Não tenha medo do escuro? Você está brincando! É...",
+      "entityRefs": []
+    }
+  ]
+}

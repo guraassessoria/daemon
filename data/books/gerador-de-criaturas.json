@@ -1,0 +1,245 @@
+{
+  "source": "gerador-de-criaturas",
+  "title": "Gerador de criaturas",
+  "status": "full-read-auto-pass-1",
+  "pages": 110,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "character_option",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "gerador-de-criaturas-gc2ed-1",
+      "name": "GC2ED",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "GC2ED 2 Esse netbook é um suplemento para o sistema Daemon, que tem por objetivo apresentar a mestres e jogadores regras opcionais para à criação e adaptação de criaturas não humanas. Nesse netbook o leitor vai encontrar orientações para criar mascotes, montarias, aliados, monstros, colossos, totens simbiontes, raças, implantes e os mais variados tipos de cr...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-indice-3",
+      "name": "ÍNDICE",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          5
+        ]
+      ],
+      "summary": "3 ÍNDICE CONCEITOS................................................................................................................... 6 GERAÇÃO DE CRIATURAS..................................................................................... 11 CRIATURAS ESPECIAIS............................................................................................ 12...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-conceitos-6",
+      "name": "CONCEITOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          10
+        ]
+      ],
+      "summary": "6 CONCEITOS Criador Termo utilizado para definir o agente que administra a geração da criatura. O termo será utilizado durante o texto em inúmeras passagens onde pode se referir tanto a um jogador que está gerando uma criatura para acompanhar seu personagem, quanto ao mestre que pode estar gerando uma criatura para desafiar os jogadores. Tipos de criaturas A...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-geracao-de-criaturas-11",
+      "name": "GERAÇÃO DE CRIATURAS",
+      "category": "attribute_skill",
+      "pages": [
+        11
+      ],
+      "summary": "11 GERAÇÃO DE CRIATURAS Como já apresentado anteriormente, esse netbook tem como objetivo apresentar regras opcionais para a criação e adaptação de criaturas tanto normais quanto derivadas de lendas, mitos, filmes, quadrinhos, animes ou da imaginação de mestres e jogadores. O primeiro ponto a ser definido antes de partir para a geração da criatura é definir...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-criaturas-especiais-12",
+      "name": "CRIATURAS ESPECIAIS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          12,
+          21
+        ]
+      ],
+      "summary": "12 CRIATURAS ESPECIAIS Nesse capitulo serão apresentados conjuntos de regras para adaptar e jogar com criaturas consideradas especiais, que possuem características próprias que as tornam únicas. Insetos e Afins Não são raros os casos onde encontramos tanto personagens quanto NPC’s que são acompanhados por insetos e outras criaturas diminutas, essa nota vem s...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-ativacao-de-caracteristicas-22",
+      "name": "ATIVAÇÃO DE CARACTERÍSTICAS",
+      "category": "power_magic",
+      "pages": [
+        [
+          22,
+          26
+        ]
+      ],
+      "summary": "22 ATIVAÇÃO DE CARACTERÍSTICAS Algumas das características apresentadas nesse netbook, não tem seus efeitos ativos durante todo o tempo, sendo necessário que elas sejam ativadas para que a criatura possa utilizá-las. Essa ativação é feita inicialmente através do consumo de cargas que são um parâmetro comum a muitas características que define quantas vezes um...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-caracteristicas-gerais-27",
+      "name": "CARACTERÍSTICAS GERAIS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          27,
+          39
+        ]
+      ],
+      "summary": "27 CARACTERÍSTICAS GERAIS Porte Essa característica se baseia na relação de tamanho que existe entre os seres vivos, inicialmente essa característica define a quantidade de pontos de atributos da criatura e seus pontos de perícias iniciais. Como a contagem de tempo de vida das criaturas é diferente que para os humanos, cada nível de porte apresenta um valor...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-caracteristicas-de-protecao-40",
+      "name": "CARACTERÍSTICAS DE PROTEÇÃO",
+      "category": "combat",
+      "pages": [
+        [
+          40,
+          45
+        ]
+      ],
+      "summary": "40 CARACTERÍSTICAS DE PROTEÇÃO Abrange inúmeros meios de manter a integridade da criatura. Armadura Natural A criatura possui algum tipo de armadura natural que lhe confere IP extra contra ataques, essa armadura podem ser placas ósseas, escamas, penas reforçadas, uma couraça de quitina, couro resistente uma pele feita de algum material especial (aço, bronze,...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-caracteristicas-de-ataque-46",
+      "name": "CARACTERÍSTICAS DE ATAQUE",
+      "category": "combat",
+      "pages": [
+        [
+          46,
+          54
+        ]
+      ],
+      "summary": "46 CARACTERÍSTICAS DE ATAQUE Reúne características ligadas direta ou indiretamente ao combate entre criaturas. Ações extras Permite que a criatura realize ações extras em seu turno, caso a criatura já possua outras características que confiram ações extras, o numero de ações se somam, em nenhum caso elas se multiplicam. Ex: uma criatura que possui quatro bra...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-alteracoes-fisicas-e-locomocao-55",
+      "name": "ALTERAÇÕES FÍSICAS E LOCOMOÇÃO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          55,
+          69
+        ]
+      ],
+      "summary": "55 ALTERAÇÕES FÍSICAS E LOCOMOÇÃO Esse capitulo trata de características relacionadas a alterações na morfologia da criatura, assim como nos meios de locomoção que permitem se desloque em outros terrenos alem do deslocamento por terra. Forma Etérea Essa característica permite que a criatura se torne imaterial, permanecendo ainda no plano físico. Estando ness...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-poderes-elementais-70",
+      "name": "PODERES ELEMENTAIS",
+      "category": "power_magic",
+      "pages": [
+        [
+          70,
+          71
+        ]
+      ],
+      "summary": "70 PODERES ELEMENTAIS Esse capitulo apresenta um conjunto de características focadas em um tipo de criaturas, as criaturas elementais, pode-se definir criaturas elementais como sendo aquelas que possuem afinidade a um determinado elemento. Esse tipo de criatura está presente em inúmeras culturas, tais como os Onis, japoneses (criaturas com afinidade ao fogo...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-elementos-secundarios-72",
+      "name": "ELEMENTOS SECUNDÁRIOS",
+      "category": "core_rule",
+      "pages": [
+        [
+          72,
+          78
+        ]
+      ],
+      "summary": "72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o manto de sombras tem área igual ao atributo base x5 em metros, os alvos dentro dessa área recebem um...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-simbiontes-79",
+      "name": "SIMBIONTES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          79,
+          83
+        ]
+      ],
+      "summary": "79 SIMBIONTES O termo simbionte é utilizado para definir um organismo que se junta a outro para suprir uma deficiência, e em troca proporciona benefícios a se hospedeiro. Com o objetivo de oferecer uma visão mais completa sobre esse tipo de criaturas, inicialmente os simbiontes serão divididos levando em conta o aspecto psicológico, posteriormente serão clas...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-desvantagens-84",
+      "name": "DESVANTAGENS",
+      "category": "core_rule",
+      "pages": [
+        [
+          84,
+          86
+        ]
+      ],
+      "summary": "84 DESVANTAGENS Aversão / Medo A criatura tem medo ou aversão a alguma coisa, tendo que se controlar para poder se aproximar ou se manter próxima do agente gerador desta. A cada turno que a criatura fique próxima, ou que ela esteja consciente da proximidade do agente gerador de sua aversão / medo, ela deve realizar um teste de força de vontade (WILL). Caso p...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-treino-87",
+      "name": "TREINO",
+      "category": "core_rule",
+      "pages": [
+        [
+          87,
+          89
+        ]
+      ],
+      "summary": "87 TREINO Essa perícia representa a habilidade de um personagem ou npc de direcionar o aprimoramento ou aprendizado de habilidades de uma criatura. Como pode ser visto em muitas ambientações, o treinamento de criaturas por parte de um personagem é um tema que pode ser desenvolvido de muitas maneiras. Em algumas ambientações onde as criaturas já apresentam to...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-custos-para-criaturas-de-pequeno-porte-90",
+      "name": "CUSTOS PARA CRIATURAS DE PEQUENO PORTE",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          90,
+          94
+        ]
+      ],
+      "summary": "90 CUSTOS PARA CRIATURAS DE PEQUENO PORTE Custo em pontos de Treino de 1 Ponto de Vida. Atributo Base 24 18 12 6 1 1 2 3 4 3 2 3 4 5 5 3 4 5 6 7 4 5 6 7 9 5 6 7 8 11 6 7 8 9 13 7 8 9 10 15 8 9 10 11 16 9 10 11 12 17 10 11 12 13 Pontos de Criação 18 11 12 13 14 Custo em pontos de Treino de 1 Ponto de Perícia. Atributo Base 24 18 12 6 1 3 6 9 12 3 6 9 12 15 5...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-custos-para-criaturas-de-porte-gigantesco-95",
+      "name": "CUSTOS PARA CRIATURAS DE PORTE GIGANTESCO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          95,
+          97
+        ]
+      ],
+      "summary": "95 CUSTOS PARA CRIATURAS DE PORTE GIGANTESCO Custo em pontos de Treino de 1 Ponto de Vida. Atributo Base 72 66 60 54 48 42 36 30 24 18 12 6 5 1 2 3 4 5 6 7 8 9 10 11 12 7 2 3 4 5 6 7 8 9 10 11 12 13 9 3 4 5 6 7 8 9 10 11 12 13 14 11 4 5 6 7 8 9 10 11 12 13 14 15 13 5 6 7 8 9 10 11 12 13 14 15 16 15 6 7 8 9 10 11 12 13 14 15 16 17 16 7 8 9 10 11 12 13 14 15 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "gerador-de-criaturas-classes-de-personagem-98",
+      "name": "CLASSES DE PERSONAGEM",
+      "category": "core_rule",
+      "pages": [
+        [
+          98,
+          110
+        ]
+      ],
+      "summary": "98 CLASSES DE PERSONAGEM Em complemento a proposta do netbook, dar suporte a criação e adaptação de criaturas de diferentes tipos, esse capitulo enfoca outro ponto de vista, o dos personagens que interagem com criaturas. Tomando como base diferentes ambientações podem ser listados inúmeros tipos de personagens que interagem com criaturas, nesse capitulo serã...",
+      "entityRefs": []
+    }
+  ]
+}

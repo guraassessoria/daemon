@@ -1,0 +1,27 @@
+{
+  "source": "phage",
+  "title": "Phage",
+  "status": "full-read-auto-pass-1",
+  "pages": 8,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "creature_npc",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "phage-el-gato-1",
+      "name": "El Gato",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          8
+        ]
+      ],
+      "summary": "No início de sua vida, Phage, era uma mulher totalmente diferente: Jeska, uma bárbara das montanhas, irmã de Kamahl. Tudo começou quando Jeska foi ferida pela “Espada Mirari” de Kamahl, enquanto o bárbaro estava sobre influência do Mirari. Gravemente ferida, ela foi deixada sobre os cuidados do centauro Seton, mas foi capturada por Braids e levada ao Patriar...",
+      "entityRefs": []
+    }
+  ]
+}

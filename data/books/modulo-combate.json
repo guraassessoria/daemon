@@ -1,0 +1,213 @@
+{
+  "source": "modulo-combate",
+  "title": "MÓDULO COMBATE",
+  "status": "full-read-auto-pass-1",
+  "pages": 25,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "modulo-combate-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-editorial-2",
+      "name": "EDITORIAL",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "EDITORIAL Uma palavrinha antes do fecha! Caros amigos RPGistas, é com muito orgulho que trago á vocês o primeiro Módulo do blog Projetos 3D&T. Aqui você vai encontrar um sistema alternativo pra porrada em 3D&T. Fique á vontade para usá-lo ou não em suas campanhas, mas se você não usar vai ter que adaptar tudo que tem no Blog, azar o seu, hehe. Nesse módulo v...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-lutadores-3",
+      "name": "LUTADORES",
+      "category": "combat",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "LUTADORES Resolvendo tudo no braço! A principal diferença entre as regras de combate contidas nesse Módulo e as do Sistema 3D&T Alpha, é a volta do combate sem o uso de FA e FD, assim o Jogador rola 20d para calcular o dano do seu hyper-mega-fodastico-fogo- rubro-especial, isso que é dano de verdade! Você vai perceber também que a utilização de armas e Manob...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-pontos-de-magia-5",
+      "name": "Pontos de Magia",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "Pontos de Magia Os Pontos de Magia (PM´s) são utilizados para atacar usando uma Manobra Especial ou Ataque Especial. Um personagem recebe uma quantidade de Pontos de Magia, igual ao valor da Característica Resistência multiplicada por 5. A recuperação de Pontos de Magia acontece quando o personagem medita. •RESISTÊNCIA [0] – 0 PM´s •RESISTÊNCIA [1] – 5 PM´s...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-combate-6",
+      "name": "COMBATE",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "COMBATE A fina arte da pancadaria! Estrutura O combate rola da mesma maneira que no Sistema original, ou seja, dividido por turnos e rodadas. No inicio do combate, cada envolvido rola 1d e soma esse valor á sua Habilidade, esse é o valor da Iniciativa, as ações ocorrem seguindo a ordem obtida nos dados, do maior valor de iniciativa até o de menor valor, em c...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-primeiro-passo-ataque-7",
+      "name": "Primeiro Passo: Ataque",
+      "category": "combat",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "Primeiro Passo: Ataque O Personagem com maior iniciativa, age primeiro, ele declara que irá atacar seu oponente. Para efeitos de jogo, tente descrever exatamente como seu Personagem ira atacar, isso ajuda a imaginar a cena e também permite que o adversário tome uma ação condizente com o ataque que ele irá sofrer. Nenhum teste é feito para saber se o Personag...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-terceiro-passo-dano-11",
+      "name": "Terceiro Passo: Dano",
+      "category": "combat",
+      "pages": [
+        11
+      ],
+      "summary": "Terceiro Passo: Dano Seu Personagem defendeu, esquivou, contra-atacou, pediu clemência, mas não teve jeito, tomou porrada, agora veremos como calcular o dano. O cálculo do dano rola da mesma maneira que no Sistema original, cada ponto de o atacante possuir em Força ou Poder de Fogo, dependendo qual foi usado no ataque, é convertido em 1d que serão rolados pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-manobras-especiais-12",
+      "name": "MANOBRAS ESPECIAIS",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "MANOBRAS ESPECIAIS + Soco As Manobras Especiais Quem nunca teve vontade de que seu Personagem disparasse um Hadouken ou um Yoga-Flame? As regras mostradas á seguir mostram como inserir Manobras Especiais nos seus combates. Uma Manobra Especial nada mais é que uma variação do poder normal do Lutador, um golpe secreto que causa algum efeito extra além do...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-usando-as-manobras-especiais-13",
+      "name": "Usando as Manobras Especiais",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "Usando as Manobras Especiais Em termos de jogo, as Manobras Especiais não passam de um ataque comum, por tanto basta declarar a Manobra Especial á ser utilizada e pronto. As Manobras Especiais causam algum efeito extra além do dano, esse efeito é descrito na descrição da Manobra Especial. Você vai encontrar na descrição também, o item Alcance, ele indica qua...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-existe-14",
+      "name": "Existe",
+      "category": "combat",
+      "pages": [
+        14
+      ],
+      "summary": "Existe ainda outra possibilidade para a Manobra Especial, um efeito extra que acontece quando se gasta 1 Ponto de Magia para realizar a Manobra Especial. É como usar o Shoryuken com o Soco Forte, além do ataque, o Ken queimava o oponente. A seguir darei alguns exemplos de Manobras Especiais, assim você pode desenvolver as suas com facilidade, lembrando que e...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-dragon-punch-15",
+      "name": "Dragon Punch",
+      "category": "core_rule",
+      "pages": [
+        15
+      ],
+      "summary": "Dragon Punch Outro clássico dos games de porrada, consiste em golpear o oponente quando ele pula sobre você. No exemplo o golpe espalhafatoso da Mina em Samurai Shodown. AERIAL STRIKE ALCANCE: Vertical DANO: Luz EFEITO: Ataque básico por Força EXTRA: O oponente deve fazer um teste de Resistência para não ser arremessado longe, 2 metros para cada ponto de dan...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-super-ataques-especiais-16",
+      "name": "Super Ataques Especiais",
+      "category": "core_rule",
+      "pages": [
+        16
+      ],
+      "summary": "Super Ataques Especiais Como regra opcional, você pode customizar os Ataques Especiais também, conferindo efeitos extras. Um Ataque Especial comum, funciona da seguinte maneira: você gasta 2 Pontos de Magia e seu Personagem recebe +2d de bônus para o dano do seu próximo ataque. Nesse módulo eu ofereço uma alternativa que deixa o Ataque Especial muito mais de...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-armamento-17",
+      "name": "ARMAMENTO",
+      "category": "core_rule",
+      "pages": [
+        17
+      ],
+      "summary": "ARMAMENTO Facada na caveira Usando Armamento Essa é uma das questões que mais divide os fãs de 3DeT, o uso de Armas e Armaduras. O próprio Marcelo Cassaro, já deixou bem claro que nunca haveria uma lista de armas para o sistema, mas nós RPGistas somos teimosos, existem um monte de regras para armas em 3DeT espalhados pela net. Isso quer dizer que os Jogadore...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-armas-de-fogo-18",
+      "name": "Armas de Fogo",
+      "category": "combat",
+      "pages": [
+        18
+      ],
+      "summary": "Armas de Fogo Armas modernas e medievais que atiram projeteis utilizam como base o valor de Poder de Fogo do Personagem. Nesse caso, o valor de Poder de Fogo do Personagem reflete sua habilidade em mirar, quanto maior o PdF, melhor a sua pontaria. Atacando com Armas de Fogo Todo ataque com armas de fogo em que o alvo esteja dentro do alcance da arma, acerta...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-armas-medias-19",
+      "name": "Armas Médias",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Armas Médias Armas para ataques em massa, possuem a vantagem de poder disparar vários tiros no mesmo turno. METRALHADORA ALCANCE: 25m SDT: 5 PENTE: 30 DANO: 3d+1 Armas Pesadas Verdadeiros trabucos de combate, essas armas só podem ser usadas com as duas mãos e caso o Personagem possua Força 1 ou 0, ele sofrerá um tremendo tranco por causa do recuo ESCOPETA AL...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-arcos-20",
+      "name": "Arcos",
+      "category": "combat",
+      "pages": [
+        20
+      ],
+      "summary": "Arcos Arcos são as principais armas de ataque á distância em cenários medievais, acrescente +3 ao dano se o arco for um arco moderno dotado de mira. ARCO ALCANCE: 25m SDT: Igual ao Poder de Fogo PENTE: - DANO: 1d Atacando com Armas Brancas O ataque com armas brancas funciona da mesma maneira que um ataque desarmado, o Personagem precisa apenas declarar o ata...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-espadas-21",
+      "name": "Espadas",
+      "category": "combat",
+      "pages": [
+        21
+      ],
+      "summary": "Espadas Espada Leve F+1d+4 PdF+2d+6 (Veloz) Espada Média F+2d+4 PdF+2d+5 Espada Pesada (2 mãos) F+3d+2 PdF+2d+6 (Vorpal) Machados Machado de Arremesso F+1d+3 PdF+2d+5 Machado Leve F+2d+4 PdF+1d+5 Machado Pesado (2 mãos) F+3d+5 PdF+2d+3 (Vorpal) Maça F+2d+2 PdF+2d+4 Mangual F+2d+6 PdF+2d+5 (Ataque Múltiplo) Foice (2 mãos) F+2d+2 PdF+1d+1 Marreta (2 mãos) F+3d...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-lancas-22",
+      "name": "Lanças",
+      "category": "combat",
+      "pages": [
+        22
+      ],
+      "summary": "Lanças Lança Comum (2 Mãos) F+2d+5 PdF+2d+4 Lança de Guerra (2 Mãos) F+2d+7 PdF+2d+10 Bastões Bastão de Treino (2 Mãos) F+1d+6 PdF+1d+1 Bastão de Combate (2 Mãos) F+2d+1 PdF+2d+5 Pequenas Lâminas Shuriken F+2 PdF+4 (Veloz) Faca/Adaga F+4 PdF+1d Punhal F+1d+1 PdF+6 (Veloz) Cajado F+1d PdF+3 Cetro F+1d+5 PdF+1d Opcional: Armaduras Na descrição das peças de pro...",
+      "entityRefs": []
+    },
+    {
+      "id": "modulo-combate-armaduras-23",
+      "name": "Armaduras",
+      "category": "combat",
+      "pages": [
+        [
+          23,
+          25
+        ]
+      ],
+      "summary": "Armaduras As Armaduras ou proteções utilizadas pelos Personagens são dividas em 5 partes, cabeça, tronco, braços, pernas e total. O Jogador escolhe a peça da Armadura que seu Personagem ira usar, em cada peça anota-se o valor da FD, que será somada ao dano quando o oponente atingir o local onde se encontra a Armadura. Um Personagem que queira acertar um loca...",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source": "animalidade",
+  "title": "animalidade",
+  "status": "full-read-pass-1",
+  "pages": 13,
+  "primaryCategories": ["race_lineage", "power_magic", "character_option", "setting_lore", "creature_npc"],
+  "parts": [
+    {
+      "id": "animalidade-front-matter",
+      "name": "Capa e abertura",
+      "category": "source",
+      "pages": [1],
+      "summary": "Pagina inicial/capa com pouco texto extraido.",
+      "entityRefs": []
+    },
+    {
+      "id": "animalidade-conceito",
+      "name": "Instintos Despertos, Metamorfose e Animalidade",
+      "category": "race_lineage",
+      "pages": [2],
+      "summary": "Introduz personagens Feras, metamorfose, instintos despertos e lendas de humanos com capacidades animais.",
+      "entityRefs": ["feras", "animalidade"]
+    },
+    {
+      "id": "animalidade-cultura-umbral-leis",
+      "name": "Cultura, costumes, leis e Umbral",
+      "category": "setting_lore",
+      "pages": [3],
+      "summary": "Apresenta cultura e costumes dos Feras, leis, relacao com o Umbral e praticas como adentrar no Umbral, criar dominio e chamado do espirito anciao.",
+      "entityRefs": ["umbral-dos-feras", "leis-dos-feras"]
+    },
+    {
+      "id": "animalidade-origem-ciganos-despertar",
+      "name": "Furia de Gaea, Ciganos e Despertar da Fera",
+      "category": "setting_lore",
+      "pages": [4],
+      "summary": "Descreve a magia/maldicao Furia de Gaea, relacao com ciganos, modo de vida e despertar da Fera.",
+      "entityRefs": ["furia-de-gaea", "ciganos-dos-feras", "despertar-da-fera"]
+    },
+    {
+      "id": "animalidade-criacao-e-poderes-iniciais",
+      "name": "Criacao de um Fera e poderes iniciais",
+      "category": "character_option",
+      "pages": [5],
+      "summary": "Orienta a criacao de personagens Fera e inicia a lista de poderes animais, incluindo Reprodutor e Pele Grossa.",
+      "entityRefs": ["criacao-de-fera", "poderes-animais"]
+    },
+    {
+      "id": "animalidade-poderes-animais",
+      "name": "Poderes Animais",
+      "category": "power_magic",
+      "pages": [[6, 7]],
+      "summary": "Lista de poderes animais como Aquatico, Sangue Frio, Sombras, Aumento de Atributos, Garras, Regeneracao, Sentir o Sobrenatural, Asas, Peconha, Sentidos Aguçados, Chifres, Comunicacao Animal, Presas, Bico, Visao Noturna, Matilha, Inspirar Terror e Teia.",
+      "entityRefs": ["poderes-animais"]
+    },
+    {
+      "id": "animalidade-fraquezas",
+      "name": "Fraquezas",
+      "category": "character_option",
+      "pages": [[8, 9]],
+      "summary": "Fraquezas e limitacoes de Feras, incluindo epoca de transformacao, vulneravel, inconsciencia, fome, transmissor, incapacidade de assumir forma, forma perpetua, transformacao trocada, panico, instintividade, decapitacao, espinheiro e ligacao a terra.",
+      "entityRefs": ["fraquezas-dos-feras"]
+    },
+    {
+      "id": "animalidade-novos-aprimoramentos",
+      "name": "Novos Aprimoramentos",
+      "category": "character_option",
+      "pages": [[9, 10]],
+      "summary": "Aprimoramentos como Poder Elevado, Elo Duplo, Escolhido, Conhecimento do Umbral e Adentrar no Umbral.",
+      "entityRefs": ["aprimoramentos-de-animalidade"]
+    },
+    {
+      "id": "animalidade-feras-prontos",
+      "name": "Alguns Feras Prontos",
+      "category": "creature_npc",
+      "pages": [[10, 13]],
+      "summary": "Modelos prontos de Feras e parentes, incluindo Nagas, Beliors, Reflictys, Minotauros, Herats, Licantropos, Pantros, Garudas, Bastet, Rocs, Defensores do Ragnarok, Garras de Sharikan, Croatan, Harpias, Filhos de Aracne e Crias do Caos.",
+      "entityRefs": ["feras-prontos", "nagas", "minotauros", "licantropos", "garudas", "bastet", "croatan", "harpias"]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "ancoras",
+    "name": "Ancoras",
+    "category": "character_option",
+    "source": "abismo-infinito-quick-start",
+    "page": 32,
+    "entries": [
+      "Ligacoes emocionais fortes do protagonista com a Terra.",
+      "Servem como motivacao para voltar para casa e podem ser perdidas em processos degenerativos ligados a Estresse e Trauma."
+    ],
+    "tags": ["personagem", "motivacao", "horror-espacial"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "medo-particular",
+    "name": "Medo Particular",
+    "category": "character_option",
+    "source": "abismo-infinito-quick-start",
+    "page": 23,
+    "entries": [
+      "Elemento de ficha que define o medo central do protagonista.",
+      "Serve como base para manifestacoes, trauma, estresse e provas de redencao."
+    ],
+    "tags": ["personagem", "medo", "manifestacao"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "sonolencia",
+    "name": "Sonolencia",
+    "category": "character_option",
+    "source": "abismo-infinito-quick-start",
+    "page": 23,
+    "entries": [
+      "Aspecto de ficha associado ao sono, camadas de sonho e instabilidade de realidade em Abismo Infinito.",
+      "Relaciona-se com Trauma, Estresse, Olvidamento e controle do sonho."
+    ],
+    "tags": ["personagem", "sonho", "trauma"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "trauma",
+    "name": "Trauma",
+    "category": "character_option",
+    "source": "abismo-infinito-quick-start",
+    "page": 28,
+    "entries": [
+      "Recurso psicologico que representa cicatrizes e degeneracao mental do protagonista.",
+      "Aparece ligado a Medo Particular, Sonolencia, manifestacoes e progressao de loucura do espaco."
+    ],
+    "tags": ["personagem", "trauma", "horror-psicologico"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "estresse",
+    "name": "Estresse",
+    "category": "character_option",
+    "source": "abismo-infinito-quick-start",
+    "page": 28,
+    "entries": [
+      "Marcador temporario de pressao psicologica usado em aspectos como Medo Particular e Sonolencia.",
+      "Pode levar a ganho de Trauma ou perda de Ancoras."
+    ],
+    "tags": ["personagem", "estresse", "horror-psicologico"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "aprimoramentos-alastores",
+    "name": "Aprimoramentos dos Alastores",
+    "category": "character_option",
+    "source": "alastores-a-justica-infernal",
+    "page": 23,
+    "entries": ["Conjunto de aprimoramentos ligados a Alastores, aliados, fetiches, recursos infernais e marcas sobrenaturais."],
+    "tags": ["aprimoramento", "alastores"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "olho-alastor",
+    "name": "Olho Alastor",
+    "category": "character_option",
+    "source": "alastores-a-justica-infernal",
+    "page": 26,
+    "entries": ["Aprimoramento/recurso que concede ao personagem relacao especial com o olho vigilante dos Alastores."],
+    "tags": ["aprimoramento", "alastores", "inferno"],
+    "confidence": 0.78,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "prana",
+    "name": "Prana",
+    "category": "character_option",
+    "source": "alianca-daemon-01",
+    "page": 29,
+    "entries": ["Aprimoramento baseado em pranayamas e corpo vital, com efeitos ligados a eteres quimico, vida, luminoso e refletor."],
+    "tags": ["aprimoramento", "corpo-vital", "pranayama"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "criacao-de-fera",
+    "name": "Criacao de um Fera",
+    "category": "character_option",
+    "source": "animalidade",
+    "page": 5,
+    "entries": ["Orientacoes para construir personagens Fera, misturando ser humano e animal e escolhendo origem, coerencia, poderes e fraquezas."],
+    "tags": ["fera", "criacao-de-personagem"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "fraquezas-dos-feras",
+    "name": "Fraquezas dos Feras",
+    "category": "character_option",
+    "source": "animalidade",
+    "page": 8,
+    "entries": ["Fraquezas como epoca de transformacao, vulneravel, inconsciencia, fome, transmissor, incapacidade de assumir forma, forma perpetua, transformacao trocada, panico, instintividade, decapitacao, espinheiro e ligacao a terra."],
+    "tags": ["fera", "fraqueza"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "aprimoramentos-de-animalidade",
+    "name": "Aprimoramentos de Animalidade",
+    "category": "character_option",
+    "source": "animalidade",
+    "page": 9,
+    "entries": ["Aprimoramentos de Animalidade como Poder Elevado, Elo Duplo, Escolhido, Conhecimento do Umbral e Adentrar no Umbral."],
+    "tags": ["fera", "aprimoramento"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "aprimoramentos-gerais-supers",
+    "name": "Aprimoramentos Gerais de Supers",
+    "category": "character_option",
+    "source": "anime-rpg-powers",
+    "page": 9,
+    "entries": ["Aprimoramentos gerais para campanhas SUPERS, incluindo Deflexao, Superpoderes, Equipamento, Modificacao de Poder, Forma Alternativa, Jumper, Paradoxo Temporal, Pontos Heroicos e outros."],
+    "tags": ["supers", "aprimoramento"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "aprimoramentos-conceituais-supers",
+    "name": "Aprimoramentos Conceituais de Supers",
+    "category": "character_option",
+    "source": "anime-rpg-powers",
+    "page": 12,
+    "entries": ["Arquétipos de super-herois como Heroi Aracnideo, Heroi HighTech, Bruto Insano, Velocista, Mimico, HiperCientista, Mago, Mestre da Luta, Blaster, Selvagem, Demonio Heroi e outros."],
+    "tags": ["supers", "aprimoramento", "arquetipo"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  }
+]

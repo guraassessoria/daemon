@@ -1,0 +1,27 @@
+{
+  "source": "mitraismo",
+  "title": "Mitraísmo",
+  "status": "full-read-auto-pass-1",
+  "pages": 9,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "creature_npc",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "mitraismo-religioes-1",
+      "name": "Religiões",
+      "category": "setting_lore",
+      "pages": [
+        [
+          1,
+          9
+        ]
+      ],
+      "summary": "1 Religiões Mitraísmo Com certeza, um dos maiores adversários da Cidade de Prata foi Mitras. Isso quando alguém se refere ao início do Cris- tianismo. A batalha entre os anjos cristãos e os servos de Mitras espalhou-se pelo mundo espiritual e passou pela Terra. Mitras foi derrotado, mas não destruído. Muitas vezes Mitras aparece como filho de Ahura- Masda, s...",
+      "entityRefs": []
+    }
+  ]
+}

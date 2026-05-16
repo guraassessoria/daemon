@@ -1,0 +1,3379 @@
+{
+  "version": 1,
+  "id": "combate",
+  "name": "Combate",
+  "readySourceCount": 190,
+  "entityCount": 4,
+  "sourcePartCount": 150,
+  "entities": [
+    {
+      "id": "pesadelo",
+      "name": "Fase 2: Pesadelo",
+      "area": "combate",
+      "category": "adventure",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 38,
+      "entries": [
+        "Segunda fase de uma historia de Abismo Infinito.",
+        "Foco em horror explicito, caos, ataques das manifestacoes e ruptura da realidade."
+      ],
+      "tags": [
+        "adventure",
+        "combate",
+        "estrutura-de-historia",
+        "horror-espacial",
+        "sonho"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "jason-voorhees",
+      "name": "Jason Voorhees",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "4killers",
+      "sourceTitle": "4killers",
+      "page": 4,
+      "entries": [
+        "Assassino de 15 nivel adaptado para o sistema Daemon.",
+        "Antagonista de Crystal Lake, resistente, furtivo e perigoso com armas brancas.",
+        "O texto apresenta ficha, origem, personalidade, poderes e curiosidades para uso em aventuras."
+      ],
+      "tags": [
+        "antagonista",
+        "assassino",
+        "combate",
+        "creature_npc",
+        "crystal-lake",
+        "terror"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "robos-supers",
+      "name": "Robos de SUPERS",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "anime-rpg-supers-monstros-e-viloes",
+      "sourceTitle": "Anime RPG - Supers - Monstros e Vilões",
+      "page": 52,
+      "entries": [
+        "Regras e fichas para robos, androides, ciborgues e implantes roboticos, incluindo robo auxiliar e robo de combate."
+      ],
+      "tags": [
+        "bestiario",
+        "combate",
+        "creature_npc",
+        "robo",
+        "supers"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "vantagens-circunstanciais",
+      "name": "Vantagens e desvantagens circunstanciais",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 21,
+      "entries": [
+        "Modificadores narrativos aplicados a cenas conforme condicoes favoraveis ou desfavoraveis.",
+        "Armas e equipamentos de protecao tambem sao tratados como vantagens circunstanciais quando relevantes."
+      ],
+      "tags": [
+        "cenas",
+        "combate",
+        "core_rule",
+        "desvantagem",
+        "vantagem"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "manual-pass-1"
+    }
+  ],
+  "sourceParts": [
+    {
+      "id": "alastores-a-justica-infernal--alastores-poderes-demoniacos",
+      "name": "Poderes Demoniacos",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          18,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "Poderes demoniacos ligados aos Alastores e Templarios Caidos, incluindo marcas, formas, ataques, presenca e capacidades sobrenaturais.",
+      "entityRefs": [
+        "poderes-demoniacos-alastores",
+        "veredictum",
+        "forma-alastor",
+        "arrebate"
+      ],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anime-rpg-supers-monstros-e-viloes--monstros-viloes-robos",
+      "name": "Robos",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "anime-rpg-supers-monstros-e-viloes",
+      "sourceTitle": "Anime RPG - Supers - Monstros e Viloes",
+      "pages": [
+        [
+          52,
+          53
+        ]
+      ],
+      "page": null,
+      "summary": "Regras e fichas para robos, androides, ciborgues e implantes roboticos, com robo auxiliar e robo de combate.",
+      "entityRefs": [
+        "robos-supers",
+        "robo-auxiliar",
+        "robo-de-combate"
+      ],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-2-9",
+      "name": "Capítulo 2",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Capítulo 2 Seitas, Sociedades e Ordens Angelicais A H o s t e de Miguel As falanges do anjo Miguel sempre foram a principal divisão do exército celestial. São tropas de choque e de defesa ao mesmo tempo. Anjos treinados por pelo menos cem anos são selecionados para divisões específi cas conforme a melhor de suas aptidões. Foi as- sim desde o início, quando a...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-lanca-90-90-dano-1d6-7-37",
+      "name": "Lança 90/90 dano 1d6+7",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        [
+          37,
+          38
+        ]
+      ],
+      "page": null,
+      "summary": "Lança 90/90 dano 1d6+7 # Ataques [2], IP 7, PVs 50 Perícias: Barganha 60%, Briga 60%, Camufl agem 30%, Esquiva 50%, Furtividade 40%, Intimida- ção 100%, Lábia 60%, Liderança 90%, Procura 50%, Sobrevivência 50% Poderes: Asas Astrais 3, Aumento de Atributos (Força 3, Constitui- ção 5, Agilidade 2, Destreza 3, In- teligência 4, Força de Vontade 8, Carisma 5, Pe...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-secretas-que-continuam-com-as-7",
+      "name": "secretas que continuam com as",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "secretas que continuam com as mesmas idéias anti-semíticas. O recente poderio militar e fi nanceiro dos judeus apresenta- se entre os Shallah. Suas armas são da melhor tecnologia e o equipa- mento de batalha, seja contra seres sobrenaturais ou inimigos munda- nos, é da melhor qualidade. Eles investem na compra de objetos místicos e de poder sagrado que possa...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-investigador-39",
+      "name": "Investigador",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        39
+      ],
+      "page": 39,
+      "summary": "Investigador CON 14, FR 12, DEX 16, AGI 13, INT 20, WILL 22, CAR 13, PER 26 Lança 40 dano 1d6 Espada 40/60 dano 1d10 # Ataques [1], IP 2, PVs 20 Perícias: Barganha 40%, Briga 30%, Esquiva 50%, Furtividade 40%, Impressionar 40%, Inter- rogatório 50%, Intimidação 70%, Investigação 70%, Lábia 50%, Li- derança 40%, Manha 50%, Política 40%, Procura 50% Poderes: A...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "anjos-cacadores-alados--anjos-cacadores-alados-goghiel-40",
+      "name": "GOGHIEL",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "anjos-cacadores-alados",
+      "sourceTitle": "Anjos cacadores-alados",
+      "pages": [
+        [
+          40,
+          43
+        ]
+      ],
+      "page": null,
+      "summary": "40 GOGHIEL O Príncipe Elim Anjo Elim de 7.000 anos Escala Épica 2 CON 40 FR 46 DEX 60 AGI 60 INT 30 WILL 44 CAR 32 PER 50 Garras 100/0 1d6+19 Espada 150/120 1d10+2d6+25 Esquiva 100/0 #Ataques [14], IP 33, PVs 95+596 Principais Perícias: Briga 90/90, Esquiva 100%, Paradísia 90%, Spiritum 80%, Cárcere das Feras 40%, Terra 100%, Ark-a-Nun 80%, Infernun 70%, Ten...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-0-fr-0-dex-0-agi-0-int-6d-2-will-4d-car-2d-3-per-4d-4-31",
+      "name": "CON[0],FR[0],DEX[0],AGI[0],INT[6D+2],WILL[4D],CAR[2D+3],PER[4D+4].",
+      "area": "combate",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          31,
+          38
+        ]
+      ],
+      "page": null,
+      "summary": "31 CON[0],FR[0],DEX[0],AGI[0],INT[6D+2],WILL[4D],CAR[2D+3],PER[4D+4]. Pvs:12-15,IP:3 #Ataques:2 Pancada:40% 1D6+bônus de força Mordida:20% 1D4+bônus de força Habilidades naturais: Sensores Sísmicos, Jato de Areia. Sensores Sísmicos: Esses arkanos são capazes de captar vibrações num raio de 2km, quandoe stão enterrados nas areias dos desertos arkanitas. Jato...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-1",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (39-48)",
+      "area": "combate",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          39,
+          48
+        ]
+      ],
+      "page": null,
+      "summary": "39 maneira horizontal sobre ele.Não possuem dentes e sim um bico córneo no lugar de seu maxilar superior e dois menores no lugar do inferior.Durante um ataque podem ficar invisíveis nas sombras, movimentando-se de maneira sorrateira utilizando o tecido sombrio como camuflagem e, desferindo um ataque surpresa e fulminante contra suas vítimas.Estes seres são f...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-3",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (100-109)",
+      "area": "combate",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          100,
+          109
+        ]
+      ],
+      "page": null,
+      "summary": "100 6o mandamento – Deves provocar dor a si mesmo, para sempre te lembrar da dor sentida por teu deus. O Obelisco Alvo O Obelisco Alvo é uma obra arquitetônica de 6m de comprimento, muito branco com detalhes negros espalhados de maneira desconexa sobre sua superfície, que foi encontrado durante algumas escavações as quais revelaram o templo da antiga catedra...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-5",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (120-129)",
+      "area": "combate",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          120,
+          129
+        ]
+      ],
+      "page": null,
+      "summary": "120 região de Ashanti.O culto as divindades era diversificado, muitos líderes arkanitas transpassaram os portões dimensionais através do Céu Orum, formando seus próprios cultos, mas todos intimamente ligados a Olodumaré.Em 890 a.C. Os Malaks (habitantes de Meeca) que até então observavam, tomaram a região do Marrocos militarmente, mas a expansão fora interro...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-1",
+      "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (80-89)",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        [
+          80,
+          89
+        ]
+      ],
+      "page": null,
+      "summary": "80 suspensa, esperando essas águas para despertarem novamente.Em Dizzel, imensas rochas férricas ascendem do solo, estas rochas são garimpadas pelos arkanitas que aqui vivem e transformadas em ótimas armas, armaduras, esculturas e utensílios do dia-a-dia.Essas jazidas reluzentes tem composição diferente das existentes em outras regiões de Ark-a-nun, sua liga...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-5",
+      "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (79-79)",
+      "area": "combate",
+      "category": "combat",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
+      "pages": [
+        79
+      ],
+      "page": 79,
+      "summary": "79 época.Para cada regente falecido, um novo andar era construido solo adentro, mas, em tempos atuais esses andares mais profundos foram isolados e lacrados, com todos os bens dos que ali jaziam, pois os descendentes dos antigos cavaram deveras profundamente e horrores terríveis começaram a ascender da escuridão.O mago Tlaloc, juntamente com sua esposa Chalc...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armadura-magica-de-ataque--armadura-magica-de-ataque-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "armadura-magica-de-ataque",
+      "sourceTitle": "Armadura Mágica de Ataque",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "1 2 Ninguém nega que grande parte dos jogadores e mestres de RPG foram fissurados por Seiya e companhia. Então, que tal relembrar os velhos tempos e incluir em seu personagem uma daquelas armaduras poderosas e que trazem consigo uma série de golpes característicos e que seguem uma constelação, uma fi- gura mitológica, ou mesmo um deus? É verdade, agora você...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-municao-7-92mm-mauser-34",
+      "name": "Munição: 7.92mm Mauser",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "page": null,
+      "summary": "Munição: 7.92mm Mauser Pente: 75 (clip) ou 50-250 (cinta) Alcance: 1000m Dano: 3d10 [IP/2] ROF: 4 ou 15 Preço: $400 Peso: 13,1kg (versão de infantaria portátil) ou 36,7kg (versão fixa) MG-42: A MG42 foi desenvolvia durante a segunda guerra mundial pela Alemanha com a intenção de substituir a MG34, com processo de fabricação mais simples. Seu batismo de fogo...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-37",
+      "name": "Pistolas",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          37,
+          38
+        ]
+      ],
+      "page": null,
+      "summary": "Pistolas Beretta M1934: A Beretta foi o resultado de uma evolução que começou com o modelo 1915, tornando-se uma das melhores pistolas desenhadas no entreguerras. Adotada pelas forças armadas italianas, sua excelente qualidade de fabricação tornou-a um troféu de guerra muito procurado, apesar de seu cartucho um pouco fraco para uso militar. Essa munição não...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-revolveres-18",
+      "name": "Revólveres",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "page": null,
+      "summary": "Revólveres MAS 1892: Revólver com um inovador cartucho de 8mm. Foi usado pelo exército francês nas duas guerras mundiais. Munição: 8x27mm R Pente: 6 (tambor) Alcance: 30m Dano: 1d6+1 ROF: 2 Preço: - Peso: 0,8kg Pistolas MAS 1935A: Pistola semiautomática desenvolvida para se competir contra as 9mm alemãs. Foi usada tanto pelo serviço secreto quanto pelo própr...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-introducao-3",
+      "name": "INTRODUÇÃO",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "INTRODUÇÃO A Segunda Guerra foi um marco sem precedentes na história de toda a humanidade. Sem dúvida alguma, é o conflito que mais gerou polêmica, e que fascina aqueles que se sentem encorajados a entender o palco de batalha e assusta todos pela violência e tenacidade pelo qual milhares de pessoas serviram e morreram por uma causa. Foi neste épico acontecim...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-revolveres-26",
+      "name": "Revólveres",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "armas-da-segunda-guerra-mundial",
+      "sourceTitle": "Armas da Segunda Guerra Mundial",
+      "pages": [
+        26
+      ],
+      "page": 26,
+      "summary": "Revólveres Nagant M 1895: Desenhada por Nagant, da Béliga, era a arma pessoal dos oficiais russos. Tinha a curiosidade de ter um \"mecanismo selante\": o tambor movia-se para frente no momento do disparo, evitando o escape de gases entre ele e o cano. Esta sofisticação mecânica, contudo, não implicava em um melhor desempenho. Apesar de obsoleto, continuou em u...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-armas-de-fogo-1",
+      "name": "Armas de Fogo",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Armas de Fogo Sistema Daemon Tiago “MURAZOR “ Maraschin Armas de Fogo Sistema Daemon Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin Tiago “Murazor” Maraschin tiagomm@hotmail.com Colaborador: Colaborador: Colaborador: Colaborador: Diego \"nightmare\"Meneses Playtesters: Playtesters: Playtesters: Playtesters: Jean \"Noovix\" Fonseca,...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-balas-de-fuzil-8",
+      "name": "Balas de Fuzil",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "Balas de Fuzil Classificadas como FMJ (Full Metal Jacket ou “Enjaquetada Total”) por causa do revestimento completo de cobre sobre o chumbo, são utilizadas em fuzis, rifles, metralhadoras e carabinas. São maiores e com ponta, além de atingirem altas velocidades, o que reduz a absorção de proteções. Divida a IP do Alvo pela METADE! Mas por outro lado transpas...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-introducao-3",
+      "name": "Introdução",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Introdução Introdução Introdução Introdução Este netbook tem como objetivo apresentar regras mais realistas para o uso de armas de fogo no sistema Daemon. As regras originais possuíam incoerências em certos pontos que sacrificavam o realismo em nome de diversão inocente e politicamente correta. Mas combates com armas de fogo não são inocentes nem politicamen...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-novas-10",
+      "name": "Novas",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        10
+      ],
+      "page": 10,
+      "summary": "Novas Novas Novas Novas Regras Regras Regras Regras Com as novas escalas de dano e estatísticas de armas baseadas em suas correspondentes verdadeiras, elas se tornaram realmente mortais, exatamente como na vida real. Mas se agora uma arma de grande calibre é realmente algo que deva ser temido, quem deseja perder personagem após personagem até perceber isto?...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "armas-de-fogo--armas-de-fogo-posicao-de-tiro-11",
+      "name": "Posição de Tiro",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "armas-de-fogo",
+      "sourceTitle": "Armas de Fogo",
+      "pages": [
+        11
+      ],
+      "page": 11,
+      "summary": "Posição de Tiro Para evitar a penalidade de Recuo, o usuário de uma arma de fogo deve sempre dispara-la de uma posição que lhe dê o devido apoio para compensação do efeito do recuo produzido pela mesma. Revólveres, Pistolas e Submetralhadoras devem ser disparados utilizando-se as duas mãos para evitar o modificador de Recuo em tiros múltiplos. Escopetas, Esp...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-artes-marciais-3",
+      "name": "ARTES MARCIAIS",
+      "area": "combate",
+      "category": "combat",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        [
+          3,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "ARTES MARCIAIS No livro original, fizemos numa reunião, havia cerca de 50, artes marciais, mas este número foi reduzido devido, aos conflitos sobre se esta ou aquela arte marcial é uma arte ou um estilo de luta, isto devido ao fato de muitas artes marciais foram criadas a partir de outras ou compostas de características de vários outras artes, assim coloquei...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-estilos-de-luta-9",
+      "name": "Estilos de Luta",
+      "area": "combate",
+      "category": "combat",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Estilos de Luta As Artes Marciais possuem variações, estas variações são os chamados estilos de luta. Cada estilo impõem redutores e penalidades que caracterizam os pontos fracos da mesma, e os bônus de que mostram as capacidades de cada estilo. O livro visa ser um guia e dizer como deve ser feito, é aconselhado que se os jogadores quiserem, (com autorização...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-consideracoes-2",
+      "name": "Considerações",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Considerações Bem, o sistema Daemon é um tipo de RPG preocupado com a interpretação dos personagens e não priorizar as batalhas e combates...Mas também sabemos que uma parte mais envolvente dos jogos são as lutas, e então tentei pegar as minhas frustrações, alguns amigos, alguns livros e algumas idéias para criar um suplemento definitivo de Artes Marciais pa...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-manobras-especiais-11",
+      "name": "MANOBRAS ESPECIAIS",
+      "area": "combate",
+      "category": "combat",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        11
+      ],
+      "page": 11,
+      "summary": "MANOBRAS ESPECIAIS As manobras especiais são manobras de combate complexas, feitas a partir de outras, manobras, são ataques famosos e complicados que vemos em animes e games. Esta aqui é a forma de se criar estas manobras: NOME : NOME DA MANOBRA. RESTRIÇÃO : O QUE É PRECISO PARA EXECUTAR A MANOBRA. CUSTO : AO USAR UMA MANOBRA VOCÊ PAGA SEU CUSTO EM PONTOS H...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arte-da-guerra--arte-da-guerra-regras-dano-17",
+      "name": "REGRAS : DANO",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "arte-da-guerra",
+      "sourceTitle": "Arte da Guerra",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "REGRAS : DANO Dano Simples Em caso de acerto critico o personagem obriga o oponente a fazer um teste de constituição fácil, se passa ele leva o dano correspondente a acerto critico, mas em caso de falha além do dano critico o oponente é penalizado dependendo do tipo de dano... Corte - AMPUTAÇÃO Ele sofre dano mínimo da arma, (com o aumento correspondente ao...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "caminhos2--caminhos2-primeiro-circulo-13",
+      "name": "Primeiro Círculo",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Primeiro Círculo Entender-Os olhos do mago não se incomodam com a lama.O mago pode andar na lama sem sujar os pés ou deixar pegadas.Pode sentir propriedades da lama apenas tocando-a. Criar-Enche um pequeno balde de lama,que pode ter uma temperatura baixa ou alta,mas não o suficiente para causar dano. Controlar-Pode colocar as mãos na lama sem suja-las.Pode a...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cdd--cdd-45-00-dano-3d8-bonus-14",
+      "name": "45/00 Dano: 3d8+bônus",
+      "area": "combate",
+      "category": "combat",
+      "source": "cdd",
+      "sourceTitle": "Cdd",
+      "pages": [
+        14
+      ],
+      "page": 14,
+      "summary": "45/00 Dano: 3d8+bônus Os Golens Colossais são estátuas gigantes que foi trazida à vida para servirem a um mago. Foram criados séculos atrás, para vigiar uma entrada, cavernas ou algum terreno. Outros podem ser inanimados como uma estátua, até serem ativados por um mago. Por causa de seu enorme tamanho, o Golem Colossal é muito difícil de criar, e, portanto é...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "cdd--cdd-sheylla-16",
+      "name": "Sheylla",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "cdd",
+      "sourceTitle": "Cdd",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Sheylla Ladra humana de 1º Nível CON: 12 FOR: 10 DEX: 14 AGI: 14 INT: 13 WILL: 14 PER: 14 CAR: 14 #Ataques 1, PVs: 12 IP: 0 Manto Mágico (Ver Cap. “Itens Mágicos”) Natação 34%, Etiqueta 24%, Camuflagem 24%, Disfarce 24%, Furtar 24%, Furtividade 34%, Empatia 34%, Manto 34%. Uni Unicórnio de 0º Nível CON: 8 FOR: 6 DEX: 10 AGI: 14 INT: 12 WILL: 12 PER: 13 CAR:...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "charadas--charadas-jamais-mentirei-4",
+      "name": "jamais mentirei",
+      "area": "combate",
+      "category": "combat",
+      "source": "charadas",
+      "sourceTitle": "Charadas",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "jamais mentirei R: o espelho. Três vidas eu tenho gentil suficientemente para escorrer sobre a pele Leve o suficiente para acariciar o céu Dura o suficiente para quebrar pedras R: Água. Apareço todas as manhãs para acariciar os seus pés Te sigo todos os dias não importa o quanto corra Se bem, eu quase morro no sol de meio dia R: sombra. Um dente para morder...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "charadas--charadas-sou-intocavel-5",
+      "name": "Sou intocável,",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "charadas",
+      "sourceTitle": "Charadas",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Sou intocável, Sou invisível, Se me cortares com uma espada, dano nenhum me causarás R: Ar Se você me causares danos os seus descendentes irão sofrer por isso Se fores contra mim, eu mesmo irei te destruir Se ignorares o que tenho a te mostrar, serás infeliz por toda a vida R: O Mundo Na água sempre a viver, translúcido sempre quando se vê quando se encosta...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "clube-de-caca-guia-do-jogador--clube-de-caca-guia-do-jogador-demonios-9-4",
+      "name": "DEMÔNIOS (39-48)",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "clube-de-caca-guia-do-jogador",
+      "sourceTitle": "Clube de Caça - Guia do Jogador",
+      "pages": [
+        [
+          39,
+          48
+        ]
+      ],
+      "page": null,
+      "summary": "39 com leis de desarmamento da população, como o Brasil. O caçador pode armar seu grupo de caçadores e a si mesmo muito mais facilmente. Claro que se suas armas aparecerem nas ruas e seu nome estiver em algum cadastro do governo (como, por exemplo, a Polícia Federal) será bem mais fácil de encontrá-lo. Mas, ei, não se faz um omelete sem quebrar alguns ovos,...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-espada-ki-24",
+      "name": "Espada Ki",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        [
+          24,
+          26
+        ]
+      ],
+      "page": null,
+      "summary": "Espada Ki Custo: 1 Ponto por nível Nível Máximo: 3 Descrição: Com esta técnica você pode criar uma espada de sua mão com até 1m de comprimento por nível, esta espada fun- cionará como uma extensão da mão, causando dano à distância Sono Custo: 2 Pontos por nível Nível Máximo: 30 Descrição: O oponente precisa passar em um teste de Will vs. o Nível do Poder x1d...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-posicao-desvantajosa-20",
+      "name": "Posição Desvantajosa",
+      "area": "combate",
+      "category": "combat",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "Posição Desvantajosa Acontece com alguma freqüência de um dos combatentes estar em posição desvantajosa no combate. Ele pode estar sen- tado em uma mesa quando é surpreendido pelo inimigo ou pode ter caído no chão. Existem uma infinidade de situações que po- dem ser consideras desvantajosas. Nestes casos, o Mestre deve aplicar uma penalidade tanto no valor d...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-regras-15",
+      "name": "Regras",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        [
+          15,
+          18
+        ]
+      ],
+      "page": null,
+      "summary": "Regras Por mais cautelosos que os Personagens sejam, por maio- res os cuidados que eles tenham, em algum momento da Aven- tura eles serão obrigados a enfrentar algo ou alguém (espera ai... isso é DBZ os jogadores sempre vão enfrentar alguém!!!!). Para isso, é necessário definir com bastante cuidado as re- gras para Combates e Testes. As regras são simples, p...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-ataques-fora-de-alcance-19",
+      "name": "Ataques Fora de Alcance",
+      "area": "combate",
+      "category": "combat",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "Ataques Fora de Alcance São Ataques que sempre erram o alvo. No caso de flechas, elas caem no chão antes de chegar ao alvo. No caso de balas, elas passam pelo inimigo, mas a distância é tão grande que não há precisão suficiente no Ataque para acertar o alvo. Há um fator importante nisso. O fato de um Ataque estar fora de alcance não significa que o inimigo s...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dbz-rpg--dbz-rpg-exemplos-de-npcs-29",
+      "name": "Exemplos de NPCs",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "dbz-rpg",
+      "sourceTitle": "DBZ_RPG",
+      "pages": [
+        29
+      ],
+      "page": 29,
+      "summary": "Exemplos de NPCs Bactéria FR 15, CON 18, DEX 10, AGI 12 INT 5, WILL 10, PER 10, CAR 1 PVs 20, PH 10, Ki 1 Att. [1] Artes Marcias 30/30 Dano 1d3, IP 1d3 Poderes: Não toma banho des- de que nasceu. Qualquer um perto dele deve fazer um teste de CON vs. 3D ou todos os ataques serão fei- tos com metade do Valor contra ele. Nam FR 20, CON 17, DEX 17, AGI 12 INT 15...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-61",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          61,
+          62
+        ]
+      ],
+      "page": null,
+      "summary": "Daemon Medieval 61 Caso especial: Força A Força é um Atributo diferente. No capítulo de Atributos, há uma tabela que relaciona pesos (em quilos) com os Atributos. Quando um Personagem deseja levantar um peso qualquer, essa situação deve ser tratada como se ele estivesse combatendo uma Força oposta. Se o peso é 100 kg, ele está combatendo uma Força 12. Nesse...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-67",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          67,
+          68
+        ]
+      ],
+      "page": null,
+      "summary": "Daemon Medieval 67 pois cavalos podem se assustar com o clamor da batalha. Ou então pode simplesmente definir que cavalos treinados para batalhas não têm esse problema). Usar arcos, bestas ou fundas ou lutar contra outro cavaleiro no lombo de um cavalo é outra história. Nestes casos os personagens ficam sujeitos a uma penalidade de -20% nos ataques. Ações Fí...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-69",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        [
+          69,
+          70
+        ]
+      ],
+      "page": null,
+      "summary": "Daemon Medieval 69 Quedas Existem duas maneiras de um Personagem sofrer uma queda: intencional ou acidental. Em casos de queda acidental, o Personagem não espera sofrer a queda e seus músculos não estavam preparados para absorver o impacto. O dano é 1d6 a cada por metro de queda, com direito a Teste de AGI para reduzir o dano à metade. Já um pulo permite ao...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-23",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        23
+      ],
+      "page": 23,
+      "summary": "Daemon Medieval 23 Se o Personagem puder pegar um oponente incapaz de defender- se bem do seu ataque, pode atingir um ponto vital para causar dano adicional. O ataque furtivo causa dano adicional sempre que seu alvo não puder usar o valor de AGI na Defesa. Se o Personagem conseguir um acerto crítico com um ataque furtivo, este dano adicional não é multiplica...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-29",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "combat",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        29
+      ],
+      "page": 29,
+      "summary": "Daemon Medieval 29 subordinados relutem quando não concordarem com a ordem (como atacar um exército visivelmente superior ou cometer qualquer ato que pareça suicídio). Um personagem com Voz de Comando faz um Teste de Liderança (sem precisar disputar contra a WILL dos demais) e o Mestre define se este será Fácil, Normal ou Difícil (levanto em conta o grau de...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-41",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "Daemon Medieval 41 Capítulo 8 Armas e Equipamentos s peças são as moedas mais comumente utilizadas em cenários de Fantasia Medieval. A peça de Prata é a principal. A tabela abaixo mostra diversos itens em Peças de Prata (PP), encontrados em feiras ou grandes mercados nas cidades (em locais onde esses equipamentos são mais raros eles consequentemente serão ma...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-42",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Capítulo 8 – Armas e Equipamentos 42 Transporte (cont.) Objetos Comuns (cont.) Item Preço Item Preço Knarr, navio pequeno 30.000 Ferro, 1kg 20 Liteira 1.000 Frasco 1 Longship 750.000 Frasco de água benta 250 Navio Brig 250.000 Frasco de Óleo 2 Navio Carrak 500.000 Gancho de alpinismo 40 Navio Clipper 1.000.000 Ganchos de Ferro 40 Navio Cog12 900.000 Garrafa...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-45",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        45
+      ],
+      "page": 45,
+      "summary": "Daemon Medieval 45 Armaduras e Escudos Item de proteção (IP, Penalidade DEX/AGI) Preço Item de Proteção (IP, Penalidade DEX/AGI) Preço Armadura Acolchoada (2, -1/0) 50 Cota de Malha (4, -4/-3) 1.500 Armadura Brigantina (5, -2/-4) 1.200 Cota de Talas (5, -4/-4) 2.000 Armadura de Anéis (2, -1/-2) 800 Cravo para Escudos 100 Armadura de Batalha (5, -3/-6) 15.000...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-46",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        46
+      ],
+      "page": 46,
+      "summary": "Capítulo 8 – Armas e Equipamentos 46 Acônito: Punhado desta planta venenosa e medicinal, muito mal cheirosa, que os lobisomens tanto odeiam. Um licantropo em presença da planta tem de fazer um teste de WILL (Fácil) para não fugir do personagem. Algemas: Instrumento de ferro com que se prendem os braços pelos pulsos. Estas algemas podem atar uma criatura do t...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-48",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        48
+      ],
+      "page": 48,
+      "summary": "Capítulo 8 – Armas e Equipamentos 48 Alforje: Espécie de saco, fechado nas extremidades e aberto no meio, por onde se dobra formando dois compartimentos. É posto sobre o lombo dos animais de carga. Armadura de Montaria: A armadura de montaria é simplesmente um tipo de proteção que cobre a cabeça, o pescoço, peito, corpo e possivelmente as pernas de um animal...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-daemon-medieval-49",
+      "name": "Daemon Medieval",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        49
+      ],
+      "page": 49,
+      "summary": "Daemon Medieval 49 • Nome: o nome mais conhecido da arma. • Preço: o custo da arma, em PP. • Dano: a quantidade de dano causada pela arma. Às armas com um asterisco [*] não é somado o bônus de Força do personagem ao calcular o dano. A todas as outras, sim. • Penalidade na Iniciativa: Armas muito pesadas são mais difíceis de serem empunhadas depois de um golp...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-52",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        52
+      ],
+      "page": 52,
+      "summary": "Capítulo 8 – Armas e Equipamentos 52",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-54",
+      "name": "Capítulo 8 – Armas e Equipamentos",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        54
+      ],
+      "page": 54,
+      "summary": "Capítulo 8 – Armas e Equipamentos 54",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-9-magia-58",
+      "name": "Capítulo 9 – Magia",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        58
+      ],
+      "page": 58,
+      "summary": "Capítulo 9 – Magia 58 combate ou em uma situação qualquer), o jogador apenas anuncia ao Mestre qual das magias de seu Grimório seu personagem Mago irá lançar, gasta os Pontos de Magia necessários e o efeito se realiza. Há uma “ficha de magias” no final desse livro que representa o Grimório do Personagem. Um Personagem Mago começa o jogo com 1d6 magias, mais...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-medieval--daemon-medieval-capitulo-10-60",
+      "name": "Capítulo 10",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        60
+      ],
+      "page": 60,
+      "summary": "Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, por...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-acoes-em-grupo-24",
+      "name": "Ações em Grupo",
+      "area": "combate",
+      "category": "combat",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        [
+          24,
+          30
+        ]
+      ],
+      "page": null,
+      "summary": "Ações em Grupo Às vezes, um grupo de pessoas trabalha em conjunto numa mesma ação ou as ações de um indivíduo podem afetar todo um grupo de pessoas. Nesses casos, todos os envolvidos rolam seus testes e o Mestre deve avaliar o resultado. Quando várias pessoas trabalham juntas numa mesma tarefa, como numa investigação de cena do crime, uma pesquisa na bibliot...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-passo-3-atributos-5",
+      "name": "Passo 3: Atributos",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "pages": [
+        [
+          5,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Passo 3: Atributos São as capacidades inatas do personagem. Atributos têm um valor em pontos que costuma ir de 6 a 18 para humanos. Atributos básicos Atributos são somados à perícia para determinar o Valor de Teste. Você soma Atributo x2 à perícia relevante. Força (FOR), capacidade muscular do corpo. Usado para determinar dano físico e os pontos de vida em c...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-4",
+      "name": "Pagina inicial (31-40)",
+      "area": "combate",
+      "category": "combat",
+      "source": "demon-cthulhu",
+      "sourceTitle": "Demon Cthulhu",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "page": null,
+      "summary": "31 tornando cada vez mais grotescos. De repente, e em poucos meses, sofrem uma monstruosa transformação que os leva a sua forma definitiva. Esta transformação ocorre normalmente entre os 20 e 40 anos de idade (contudo indivíduos com menor quantidade de Gens de profundos podem sofrer as mudanças em idades mais avançadas e possivelmente em menor grau). Os prof...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-7",
+      "name": "Pagina inicial (61-65)",
+      "area": "combate",
+      "category": "combat",
+      "source": "demon-cthulhu",
+      "sourceTitle": "Demon Cthulhu",
+      "pages": [
+        [
+          61,
+          65
+        ]
+      ],
+      "page": null,
+      "summary": "61 Contudo me sinto observado. depois de ir a Luziania atráz do meteoro que lá caiu, vejo por onde ando pessoas me observando. Acredito que um horror muito antigo habita as sombras e me persegue. Fui desmoralizado pela folha de São paulo, distorceram minhas palavras.Acredito que eles estão lá.Agora tento \" O Mundo\" ,conheço o trabalho de marcos souza e sei q...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-teste-de-resistencia-112",
+      "name": "TESTE DE RESISTÊNCIA",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          112,
+          113
+        ]
+      ],
+      "page": null,
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a privações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por venenos,...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-velho-vs-novo-109",
+      "name": "VELHO VS NOVO",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        109
+      ],
+      "page": 109,
+      "summary": "VELHO VS NOVO Demônios mais velhos tendem a enxergar o mundo como extremamente rígido e cheio de normas. Na cabeça deles, guerras são imagens de barcos de madeira, guerreiros com espadas e lanças, vestindo armaduras de centuriões e lançando-se uns contra os outros. A maioria dos demônios milenares nunca havia visto uma metralhadora até a chegada dos soldados...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-regras-e-testes-110",
+      "name": "REGRAS E TESTES",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        110
+      ],
+      "page": 110,
+      "summary": "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, e necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porem muito eficientes, pois neste jogo e privilegiada a resolução de...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-ativacao-de-itens-magicos-121",
+      "name": "ATIVAÇÃO DE ITENS MÁGICOS",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        121
+      ],
+      "page": 121,
+      "summary": "ATIVAÇÃO DE ITENS MÁGICOS Alguns itens mágicos (em especial aqueles criados pelos seres da Cidade de Prata) requerem Pontos de Fé para serem ativados ou utilizados. Somente pessoas com Fé podem utilizar tais artefatos. BÊNÇÃO O Inquisidor pode abençoar um grupo de Aventureiros (até 6 pessoas por Ponto de Fé) concedendo a eles um bônus de +5% em combates (na...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "diferencas--diferencas-poder-minimo-2",
+      "name": "Poder mínimo.",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "diferencas",
+      "sourceTitle": "Diferencas",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Poder mínimo. Poder mínimo, mas que pode ir crescendo conforme seu objetivo vai sendo repetido por seu invocador. Poder que pode afetar a Maya como um todo, mas pode precisar de humanos para sua defesa. Grande capacidade de manipulação de massas, capacidade de defesa impressionante. Indiferente à existência humana. Depende completamente de quem pensa nele. S...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-8",
+      "name": "Dragões: Reis Caídos",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "Dragões: Reis Caídos Ragrash, como a aliança entre os Dragões Azuis, Verdes e Aquamarine, que temporariamente se uniram para combater a ameaça que se impunha sobre seu plano. Enquanto a maioria dos Dragões Elementais se unia contra o Ragrash e os reinos dos Dragões Vermelhos e Negros, existiam aqueles que viam a guerra sob uma perspectiva diferente, perceben...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "energia-mistica--energia-mistica-energia-misticas-internas-9",
+      "name": "Energia Místicas Internas",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "energia-mistica",
+      "sourceTitle": "Energia Mistica",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "Energia Místicas Internas 11 mais forte, sua aura estará mais visível e ele ficará Prata bem reforçado e pode vir a ser considerado mais resistente contra os mesmos ataques e um Semi-Deus por alguns desavisados (e caçado tentativas de dominação. por outros!). Seu Cordão de Prata fica com um traço bem mais forte (ler sua aura requer um teste Lista de Efeitos...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "etruscos--etruscos-importantes-investigando-informacoes-que-45",
+      "name": "importantes, investigando informações que",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "etruscos",
+      "sourceTitle": "Etruscos",
+      "pages": [
+        [
+          45,
+          46
+        ]
+      ],
+      "page": null,
+      "summary": "importantes, investigando informações que julgarem importantes, ou simplesmente se divertirem. Durante este tempo para descanso, o Mestre pode dar a chance de combate para alguns PJs. Uma oportunidade é a revanche de quem foi vencido na Câmara da Mancha Púrpura: caso os membros da Mala del Brenta tenham sido vencidos, os PJs se verão em certas situações emba...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "fadas-2--fadas-2-will-x-car-31",
+      "name": "WILL X CAR.",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "fadas-2",
+      "sourceTitle": "Fadas 2",
+      "pages": [
+        [
+          31,
+          62
+        ]
+      ],
+      "page": null,
+      "summary": "- 31 - O efeito dura 1 hora para cada 10 anos de vida da fada. Uma vez apaixonada, todos os testes contra a fada sempre serão difíceis, para atacar a fada deve realizar um teste de WILL X CAR. O Beijo da morte e da vida Custo 5 cada Beijo da morte: A fada beija uma vítima. Este beijo causa dano. Dano 5 para cada 10 anos de vida, esse dano não pode ser resist...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "fadas-3-edicao--fadas-3-edicao-netbook-fadas-3-edicao-1-3",
+      "name": "Netbook Fadas 3 Edição (21-24)",
+      "area": "combate",
+      "category": "combat",
+      "source": "fadas-3-edicao",
+      "sourceTitle": "Fadas 3 edição",
+      "pages": [
+        [
+          21,
+          24
+        ]
+      ],
+      "page": null,
+      "summary": "21 Fada da Terra Zona Faérica A força do campo magnético começa com uma força = 6 Força e aumenta +6 de Força a cada rodada com limite Maximo de idade*5 de Força. Terremoto A fada da terra pode criar terremotos de escala 1 até 9. A força do terremoto aumenta 1 de escala a cada 10 rodadas. Controle Gravitacional Pode alterar a força gravitacional de astros lo...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-1-ponto-materiais-mundanos-preparados-27",
+      "name": "1 ponto: Materiais mundanos preparados,",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        [
+          27,
+          37
+        ]
+      ],
+      "page": null,
+      "summary": "1 ponto: Materiais mundanos preparados, como aço purificado com alquimia, madeira ritualmente abençoada, ossos e sangue. 2 pontos: Materiais raros, como madeira de uma árvore atingida 3 vezes por raios, ossos de um necromante, sangue de um nobre nascido em ambiente pobre. 3 pontos: Materiais extremamente raros, como madeira da floresta mais antiga da florest...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "gigantes-mitologicos--gigantes-mitologicos-combate-singular-44",
+      "name": "combate singular.",
+      "area": "combate",
+      "category": "combat",
+      "source": "gigantes-mitologicos",
+      "sourceTitle": "Gigantes Mitologicos",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "combate singular. Um jovem guerreiro chamado Davi, que havia sido aceito nas tropas há pouco, disse que aceitaria o desafio. Sendo ainda inexperiente no combate com a espada, não quis usá-la. Ele foi até o rio e pegou cinco pedras lisas, colocando-as em seu bornal de pastor. Quando se apresentou em combate, Golias zombou da juventude de Davi, mas não sabia q...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guerreiros-orientais--guerreiros-orientais-causando-40",
+      "name": "causando",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "guerreiros-orientais",
+      "sourceTitle": "Guerreiros Orientais",
+      "pages": [
+        [
+          40,
+          47
+        ]
+      ],
+      "page": null,
+      "summary": "causando metade do dano que causaria normalmente. Futae No Kiwami: (Monge) Nível 1: Futae No Kiwami. Uma Técnica extremamente poderosa, mesmo em seu Nível mais baixo. Baseia-se em utilizar a força do pulso, imprimindo pressão a partes mais sensíveis na estrutura molecular de qualquer coisa, destruindo-a completamente. Nível 3: O deslocamento de ar chega até...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-cada-mago-d-armas-recebe-gratuitamente-51",
+      "name": "Cada Mago d'Armas recebe gratuitamente",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          51,
+          57
+        ]
+      ],
+      "page": null,
+      "summary": "Cada Mago d'Armas recebe gratuitamente uma arma comum durante a sua criação. O tipo exato de item pode ser definido à vontade pelo jogador. Magias Iniciais: Ampliar Proteção, Arma Poderosa (Lento), Aumento de Dano, Detecção de Magia, Embutir Magia, Proteção Mágica, Proteção contra o Elemento 3D&T Custo: 0 Restrições: Habilidade 1, Focus 1 Vantagens: Recebe F...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-falsario-70",
+      "name": "Falsário",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          70,
+          79
+        ]
+      ],
+      "page": null,
+      "summary": "Falsário O Falsário trata-se de mais uma categoria de ladino. Assim como o Impostor e outros, este profissional utiliza sua esperteza para obter vantagens e ludibriar as pessoas. As principais armas dos Falsários são a sua criatividade, boa comunicação e uma tremenda cara-de-pau. Os Falsários são conhecidos em Arton por outros nomes (picaretas, trambiqueiros...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-parte-iv-especialistas-63",
+      "name": "PARTE IV - ESPECIALISTAS",
+      "area": "combate",
+      "category": "combat",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          63,
+          66
+        ]
+      ],
+      "page": null,
+      "summary": "PARTE IV - ESPECIALISTAS Acrobata O Acrobata, assim como o Mágico e o Malabarista, é um profissional do entretenimento. Ele procura impressionar e divertir o público através de números de contorcionismo, trapézio, equilíbrio em superfícies estreitas e saltos ousados. Seja em circos, companhias artísticas ou nas ruas de cidades movimentadas, os acrobatas proc...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-senhores-das-brumas-costumam-praticar-32",
+      "name": "Senhores das Brumas costumam praticar",
+      "area": "combate",
+      "category": "combat",
+      "source": "guia-do-aventureiro-de-arton",
+      "sourceTitle": "Guia do Aventureiro de Arton",
+      "pages": [
+        [
+          32,
+          36
+        ]
+      ],
+      "page": null,
+      "summary": "Senhores das Brumas costumam praticar suas habilidades em locais com vapor em abundância, em especial fontes termais. Como Tapista conta com um grande número destas fontes de água quente, o reino dos minotauros torna-se um grande atrativo para Senhores das Brumas em busca de um bom lugar para treinar. Outros locais bastante procurados por eles são os lagos g...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-capitulo-2-regras-para-dragoes-11",
+      "name": "CAPÍTULO 2: REGRAS PARA DRAGÕES",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "sourceTitle": "Guia-dos-dragoes-1-biblioteca-elfica",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "CAPÍTULO 2: REGRAS PARA DRAGÕES Dragões podem atacar com sua mordida e duas garras ao mesmo tempo, realizando assim três ataques por rodada. Criaturas que estejam em seu flanco normalmente são ataca- das com as asas, mas alguns dragões maiores também podem atacar com a cauda. Eles também podem chutar com uma das garras traseiras, mas sempre precisarão de dua...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-ataque-total-106",
+      "name": "ATAQUE TOTAL",
+      "area": "combate",
+      "category": "combat",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          106,
+          108
+        ]
+      ],
+      "page": null,
+      "summary": "ATAQUE TOTAL Também conhecido como Carga. O Personagem esquece todas as recomendações sobre prudência e ataca seu inimigo. Ele realiza um único ataque e não tem direito a de- fesa. Seu valor de ataque aumenta em 10% e o dano em +2. Além disso o dano de impacto passa a ser 3. DEFESA TOTAL Se o Personagem decidir que não pretende atacar o oponente e irá soment...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-elexorien-sword-of-war-127",
+      "name": "ELEXORIEN SWORD OF WAR",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          127,
+          128
+        ]
+      ],
+      "page": null,
+      "summary": "ELEXORIEN SWORD OF WAR , DANO :/D/O INICIATIVA :-J DANO :2D6 INICIATIVA : -6 MORTHOSETH SWORD OF SHADOWS t .. --... DANO :/DIO INICIATIVA: -5 * 7 • . , - LIONHEART DANO :2D6 INICIATIVA :-5 - E & • = RING HILT RAPIER DANO :/D6+2 INICIA TIV A :-J BARBARIAN SWORD DANO : INICIATIVA :-7 SERPENTE MASTER SWORD DANO :/DIO INICIATIVA: -6 - = 2 - - UNITED STATE MARINE...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-tabela-de-valores-de-a-tributos-48",
+      "name": "TABELA DE VALORES DE A TRIBUTOS",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        48
+      ],
+      "page": 48,
+      "summary": "sonage m não fica apavorado diante de uma situação TABELA DE VALORES DE A TRIBUTOS amedrontadora. Também está relacionada com a Magia e poderes psíquicos. FR Bônus AGI CARISMA (CAR) Atributo Carregar Levantar de dano Velocidade- (kg) (kg) (mi,) Detennina O charme do Personagem, sua capacida- lD 1-2 I 5 30 -3 1.5 de de fazer com que outras pessoas gostem dele...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-serao-discutidos-mais-adiante-nesse-capitulo-100",
+      "name": "serão discutidos mais adiante, nesse capítulo.",
+      "area": "combate",
+      "category": "combat",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        100
+      ],
+      "page": 100,
+      "summary": "ordem de iniciativa. Detalhes sobre como fazer um ataque serão discutidos mais adiante, nesse capítulo. 1- CALCULA-SE OS ACERTOS E DANOS Verificam-se todos os acertos e calculam-se os da- nos. Detalhes sobre danos e proteções serão discutidos mais adiante. Depois das quatro etapas, verifica-se quais são os Personagens sobreviventes da batalha que pretendem c...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-cura-109",
+      "name": "CURA",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        109
+      ],
+      "page": 109,
+      "summary": "CURA Um Personagem, mortal, recupera um PV por dia completo de descanso. Lembre-se que o Personagem tam- bém pode sofrer danos especiais como torções, ruptura de ligamentos ou fraturas de ossos. Nesses casos, considere um tempo maior em semanas ou até meses para uma recupera- ção completa. Algumas substâncias e poderes permitem a um Personagem recuperar-se m...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-tancas-123",
+      "name": "TAnCAS",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        123
+      ],
+      "page": 123,
+      "summary": "TAnCAS Mesmo não sendo um covarde, escolhe muito bem suas lutas. Sabe que ainda é muito jovem e prefere usar sua gangue para enfraquecer seus inimigos antes de combater. Isso tem feito com que outros imortais não o vejam com bons olhos, o que pode decretar sua morte em muito breve, ou apenas fortalecê-lo. IMORTAIS LENDARIOS Estes são imortais que ainda podem...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-armas-126",
+      "name": "ARMAS",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        126
+      ],
+      "page": 126,
+      "summary": "ARMAS Armas ajudam, mas nem sempre resolvem tudo no universo de Imortal. Creia, você vai ficar muito desapontado quando descobrir que tiros nada valem contra a criatura que se aproxima de seus Personagens nos túneis de esgotos. Cuidado com o período em que se passa sua Cam- panha. Armas de fogo não existiam na Idade Antiga, nem na Idade Média, e mesmo antes...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-makrobioi-15",
+      "name": "Makrobiói",
+      "area": "combate",
+      "category": "combat",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        [
+          15,
+          17
+        ]
+      ],
+      "page": null,
+      "summary": "Makrobiói longevos longevos longevos longevos Origem e História Na mitologia grega, os Imortais propriamente ditos são os verdadeiros deuses olímpicos, mas ainda há um grupo de humanos que vivia muito mais que um humano comum. Estes humanos especiais viviam até três mil anos, e receberam o nome de Makrobiói (que significa “vida grande”, ou “vida longa”). Mui...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "jiraya--jiraya-jiraya-o-incrivel-ninja-1",
+      "name": "JIRAYA O INCRIVEL NINJA",
+      "area": "combate",
+      "category": "combat",
+      "source": "jiraya",
+      "sourceTitle": "JIRAYA",
+      "pages": [
+        [
+          1,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "JIRAYA O INCRIVEL NINJA 1 SUCESSOR DOS TOGAKURI JIRAYA Capitulo ± Introdução Na era do Japão Medieval uma fabulosa cápsula miraculosa de nome Pako foi enviada a Terra por uma civilização alienígena muito mais avançada tecnológica e cientificamente Junto com ela vieram também dois viajantes estelares o Robô Hoshinin Dell Star que queria roubar Pako para seus...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-arte-das-trevas-kidous-4",
+      "name": "ARTE DAS TREVAS – KIDOUS",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "kidous-arte-das-trevas",
+      "sourceTitle": "Kidous - Arte das Trevas",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "4 ARTE DAS TREVAS – KIDOUS O termo “Kidous”, arte das trevas, ou mesmo “arte demoníaca”, é mais amplamente difundido por via do anime BLEACH e consiste em magias utilizadas por deuses da morte (Shinigamis) como uma das quatro formas de combate utilizadas por eles. Kidous são técnicas muito interessantes de serem inseridas em uma aventura de RPG, pois recorda...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-cenarios-27",
+      "name": "CENÁRIOS",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "kidous-arte-das-trevas",
+      "sourceTitle": "Kidous - Arte das Trevas",
+      "pages": [
+        [
+          27,
+          34
+        ]
+      ],
+      "page": null,
+      "summary": "27 CENÁRIOS Este livro permite que suas regras sejam usadas em qualquer espécie de cenário. Desde fantasia medieval, passando por oriente feudal até os dias atuais. Até mesmo cenários futuristas podem ser usados como plano de fundo para uma aventura na qual os protagonistas e antagonistas se utilizam deste estranho método de combate para alcançar seus objeti...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "lobisomem-a-maldicao-v2-biblioteca-elfica--lobisomem-a-maldicao-v2-biblioteca-elfica-lobisomem-a-maldicao-2-7",
+      "name": "Lobisomem: a Maldição (62-66)",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "sourceTitle": "Lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "pages": [
+        [
+          62,
+          66
+        ]
+      ],
+      "page": null,
+      "summary": "61 Lobisomem: a Maldição Principais Perícias: Lábia 42%, Atuação 32%, Barganha 32%, Oculto 30%, Espíritos 30%, Spiritum 45%. -Pode prever o futuro relacionado à morte e maldições. -Pode comunicar-se com os mortos. -Pode ver lugares distantes mediante meditação de 12 horas. Espectro Licano CON 20, FR 24, DEX 16, AGI 17, INT 11, WILL 18, CAR 6, PER 20 #Ataques...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-atordoamento-12",
+      "name": "ATORDOAMENTO",
+      "area": "combate",
+      "category": "combat",
+      "source": "mortal-kombat",
+      "sourceTitle": "MORTAL KOMBAT",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "1 2 ATORDOAMENTO Em certos momentos de uma luta, um combatente pode pro- vocar uma contusão tão grave no seu adversário que este sofra os efeitos do Atordoamento. A regra de Atordoação é aplicada sempre que um lutador sofrer mais do que 3 pontos de dano, ele precisa fazer um Teste de CON. Caso seja bem sucedido, conti- nuará o combate normalmente. Caso contr...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manobras-de-combate--manobras-de-combate-manobras-de-combate-1",
+      "name": "MANOBRAS DE COMBATE",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "manobras-de-combate",
+      "sourceTitle": "Manobras de Combate",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "MANOBRAS DE COMBATE Esta categoria de perícia é um caso excepcional. São apresentadas aqui algumas manobras de combate. Elas não são utilizadas como perícias, na medida em que NÃO existe um teste de manobras de combate. O Personagem simplesmente sabe realizá-las. As manobras de combate tem um custo fixo entre parenteses, com exceção de manobras com sinal de...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manobras-de-combate--manobras-de-combate-ataque-de-oportunidade-3",
+      "name": "ATAQUE DE OPORTUNIDADE",
+      "area": "combate",
+      "category": "combat",
+      "source": "manobras-de-combate",
+      "sourceTitle": "Manobras de Combate",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "ATAQUE DE OPORTUNIDADE [ +25 pontos ] [ Requer Agilidade 16 ] [ Requer manobra Contra–ataque ] Algumas vezes um Personagem comete um erro em seu ataque que o acaba deixando o desprotegido, possuindo está manobra o Personagem pode se aproveitar de erros de ataques de seu adversário. Toda vez que o oponente cometer um erro de ataque contra o Personagem, o Pers...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "manobras-de-combate--manobras-de-combate-ferir-pernas-4",
+      "name": "FERIR PERNAS",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "manobras-de-combate",
+      "sourceTitle": "Manobras de Combate",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "FERIR PERNAS [ 25 pontos ] [ Requer Força ou Destreza 14 ] O Personagem pode machucar as pernas do oponente. O Jogador deve declarar a intenção do ataque ANTES de fazê-lo e não causa dano. Em caso de sucesso, o alvo passa a testar sua perícia de ataque e defesa com pernas e pés com metade da porcentagem, será válido para ataques e defesas utilizando chutes,...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-primeiro-passo-ataque-7",
+      "name": "Primeiro Passo: Ataque",
+      "area": "combate",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Primeiro Passo: Ataque O Personagem com maior iniciativa, age primeiro, ele declara que irá atacar seu oponente. Para efeitos de jogo, tente descrever exatamente como seu Personagem ira atacar, isso ajuda a imaginar a cena e também permite que o adversário tome uma ação condizente com o ataque que ele irá sofrer. Nenhum teste é feito para saber se o Personag...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-combate-6",
+      "name": "COMBATE",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "COMBATE A fina arte da pancadaria! Estrutura O combate rola da mesma maneira que no Sistema original, ou seja, dividido por turnos e rodadas. No inicio do combate, cada envolvido rola 1d e soma esse valor á sua Habilidade, esse é o valor da Iniciativa, as ações ocorrem seguindo a ordem obtida nos dados, do maior valor de iniciativa até o de menor valor, em c...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-dragon-punch-15",
+      "name": "Dragon Punch",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        15
+      ],
+      "page": 15,
+      "summary": "Dragon Punch Outro clássico dos games de porrada, consiste em golpear o oponente quando ele pula sobre você. No exemplo o golpe espalhafatoso da Mina em Samurai Shodown. AERIAL STRIKE ALCANCE: Vertical DANO: Luz EFEITO: Ataque básico por Força EXTRA: O oponente deve fazer um teste de Resistência para não ser arremessado longe, 2 metros para cada ponto de dan...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-super-ataques-especiais-16",
+      "name": "Super Ataques Especiais",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "Super Ataques Especiais Como regra opcional, você pode customizar os Ataques Especiais também, conferindo efeitos extras. Um Ataque Especial comum, funciona da seguinte maneira: você gasta 2 Pontos de Magia e seu Personagem recebe +2d de bônus para o dano do seu próximo ataque. Nesse módulo eu ofereço uma alternativa que deixa o Ataque Especial muito mais de...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-armamento-17",
+      "name": "ARMAMENTO",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "ARMAMENTO Facada na caveira Usando Armamento Essa é uma das questões que mais divide os fãs de 3DeT, o uso de Armas e Armaduras. O próprio Marcelo Cassaro, já deixou bem claro que nunca haveria uma lista de armas para o sistema, mas nós RPGistas somos teimosos, existem um monte de regras para armas em 3DeT espalhados pela net. Isso quer dizer que os Jogadore...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "modulo-combate--modulo-combate-espadas-21",
+      "name": "Espadas",
+      "area": "combate",
+      "category": "combat",
+      "source": "modulo-combate",
+      "sourceTitle": "MÓDULO COMBATE",
+      "pages": [
+        21
+      ],
+      "page": 21,
+      "summary": "Espadas Espada Leve F+1d+4 PdF+2d+6 (Veloz) Espada Média F+2d+4 PdF+2d+5 Espada Pesada (2 mãos) F+3d+2 PdF+2d+6 (Vorpal) Machados Machado de Arremesso F+1d+3 PdF+2d+5 Machado Leve F+2d+4 PdF+1d+5 Machado Pesado (2 mãos) F+3d+5 PdF+2d+3 (Vorpal) Maça F+2d+2 PdF+2d+4 Mangual F+2d+6 PdF+2d+5 (Ataque Múltiplo) Foice (2 mãos) F+2d+2 PdF+1d+1 Marreta (2 mãos) F+3d...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-filhos-42",
+      "name": "\"Filhos",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          42,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "\"Filhos de Ísis\" simbolizam a maternidade e a estrutura social e familiar da cultura egípcia. Protegem os nascimentos, os pais e as crianças, além de servirem de guardiões de Humanos especiais. Também representam o poder espiritual dos sacerdotes e ainda intercedem pelos médicos e professores e em combate, atuam como curandeiros para os feridos. Normalmente...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-que-sao-desconhecidas-pelos-neteru-143",
+      "name": "que são desconhecidas pelos Neteru.",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "pages": [
+        [
+          143,
+          146
+        ]
+      ],
+      "page": null,
+      "summary": "que são desconhecidas pelos Neteru. Seshepankh possuem um número pequeno de indivíduos, o que expecula- se que não sejam parte da fauna nativa de Paradisia. Vivem em cavernas, ou templos de civilizações Paeloparadisianas. CON 30 FR 36 DEX 18 AGI 13 INT 20 WILL 22 CAR 15 PER 21 Garras 130/130 2d10+FR #Ataques [1], PVs 33 [80] - Podem voar com velocidade de 20...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz--novos-poderes-para-fadas-e-fadas-da-luz-deusa-da-magia-3",
+      "name": "Deusa da Magia",
+      "area": "combate",
+      "category": "race_lineage",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "sourceTitle": "Novos poderes para fadas e fadas da Luz",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Deusa da Magia Somente fada da Luz Custo 5 ponto e precisa ter (Magia perfeita, Contramagia, Esplendor da Magia). Pelo menos nível 9 e 1000 anos de vida Esse é o nível Maximo da fada da luz, a fada passa a ser como uma deusa da magia, fica imune a seu elemento oposto e imune a ferro frio, logo imune a qualquer tipo de dano e totalmente indestrutível, ela ain...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "race_lineage"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "novos-poderes-para-fadas-e-fadas-da-luz--novos-poderes-para-fadas-e-fadas-da-luz-dor-em-prazer-4",
+      "name": "Dor em Prazer",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "sourceTitle": "Novos poderes para fadas e fadas da Luz",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Dor em Prazer Custo 3 Deve ser ativada, a fada escolhe o alvo, sem limite de alvos. A fada é capaz de transformar dor dos outros em prazer, assim se ela causar dano em alguém ela lhe causará muito prazer, o alvo sempre roda em seus testes de CON. Pode assim acalmar dores dos outros. OBS: Quanto mais dor mais prazer. Amor Custo 5 Uso Automático Semelhante à v...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "os-caminhos-secundarios--os-caminhos-secundarios-primeiro-circulo-13",
+      "name": "Primeiro Círculo",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "os-caminhos-secundarios",
+      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Primeiro Círculo Entender-Os olhos do mago não se incomodam com a lama.O mago pode andar na lama sem sujar os pés ou deixar pegadas.Pode sentir propriedades da lama apenas tocando-a. Criar-Enche um pequeno balde de lama,que pode ter uma temperatura baixa ou alta,mas não o suficiente para causar dano. Controlar-Pode colocar as mãos na lama sem suja-las.Pode a...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-mentais--poderes-mentais-ataque-telecinetico-8",
+      "name": "Ataque Telecinético",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "poderes-mentais",
+      "sourceTitle": "PODERES MENTAIS",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Ataque Telecinético Custo: 2 Pontos Caminhos: Telecinésia 3 O Personagem usa o poder da Telecinésia para esmagar os órgãos vitais do pobre coitado do oponente, causa 1d de dano sem que o alvo role sua Armadura, gasta-se 1PM por turno usando o ataque. Sonda Mental Custo: 1Ponto Caminhos: Compreensão 1 e Sensitividade 2 O Personagem consegue perceber se algo á...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-mentais--poderes-mentais-rajada-psiquica-12",
+      "name": "Rajada Psíquica",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "poderes-mentais",
+      "sourceTitle": "PODERES MENTAIS",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "Rajada Psíquica Custo: 2 Pontos Caminhos: Domínio 2 e Vida 3 O Psion atinge a mente do oponente com sentimentos de dor, tontura, pensamentos confusos, imagens aleatórias e outros truques para sobre-carregar a psique do alvo. O alvo faz um teste de Resistência para negar o efeito, caso falhe, ele entra em estado de coma e permanece assim até receber dano ou c...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "pontos-heroicos--pontos-heroicos-pontos-heroicos-1",
+      "name": "PONTOS HERÓICOS",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "pontos-heroicos",
+      "sourceTitle": "Pontos Heróicos",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "PONTOS HERÓICOS Pontos heróicos, funcionam como uma medida abstrata de heroísmo. Não são exatamente pontos de vida extras, mas funcionam na maioria dos casos como tal. São uma espécie de \"aura heróica\" ou \"sorte\" que protege o corpo do Personagem de dano quando executa atos de herói. Atos como: pular de um prédio para outro, ser arrastado por um cavalo, leva...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "pontos-heroicos--pontos-heroicos-esforcos-heroicos-3",
+      "name": "ESFORÇOS HERÓICOS",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "pontos-heroicos",
+      "sourceTitle": "Pontos Heróicos",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "11 ESFORÇOS HERÓICOS Ataque extra Custo: 2 PHs Efeito: O Personagem recebe a capacidade de realizar UM ataque extra nessa rodada, seguindo as regras para múltiplos ataques. Acerto automático - ataque Custo: 1 PH para cada 3 níveis do defensor Efeito: O Personagem acerta um ataque, sem necessidade de teste. Não é válido para o esforço \"ataque extra\". Acerto a...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "spawn--spawn-violador-7",
+      "name": "VIOLADOR",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "spawn",
+      "sourceTitle": "Spawn",
+      "pages": [
+        7
+      ],
+      "page": 7,
+      "summary": "VIOLADOR O demônio conhecido como Violador nasceu em 500 AC na província de Helakell, em Arkanun. Desde cedo se tornou um guerreiro muito poderoso em sua tribo, até que foi destruído em um combate com um general demônio de Luvithy. Chegando ao Inferno, mostrou grande competência em suas habilidades de combate, tortura e estratégia, e chamou a atenção de Male...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-5",
+      "name": "FACILIDADE, LAMIA (269-278)",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          269,
+          278
+        ]
+      ],
+      "page": null,
+      "summary": "- 263 - a Cidade de Prata chama de Anjos Apócrifos. Esta Controladora ama ambos os povos, pois sua essência contém as esperanças dos dois, mas deve analisar com profundidade qual destes povos está mais desvirtuado de sua servidão a Demiurge. Os Controladores podem ser todos considerados como pertencentes às Forças Neméticas. Quebradores de Tabuletas Defesa/P...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-1",
+      "name": "a partir de Spiritum, atingir as partes (129-138)",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          129,
+          138
+        ]
+      ],
+      "page": null,
+      "summary": "- 128 - a partir de Spiritum, atingir as partes periféricas de Aether, e chegar a locais mais longínquos, como o Abismo, Infernun ou Edhen. Nível 5: Velocidade Mediana. Entidades com este poder terão uma velocidade de vôo, corrida, escavação, escalada, natação e saltos 500% maior ao manipularem as distâncias. Não confere nenhum bônus em combate. Nível 6: Apo...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-2",
+      "name": "a partir de Spiritum, atingir as partes (139-148)",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          139,
+          148
+        ]
+      ],
+      "page": null,
+      "summary": "- 138 - causa em +5, e os Testes de ataque, defesa e Intimidação em 20%, estes valores para cada 2 Níveis que possuir em Netzach. O poder dura 1d6 turnos, e só pode ser ativado uma vez por combate. É uma manifestação da glória divina como a força que submete todo o Universo. Nível 6: Despertar Instinto Comunitário. A entidade pode despertar o instinto de sob...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-personalidades-vandana-mahatma-ghandi-16",
+      "name": "Personalidades: Vandana, Mahatma Ghandi,",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        [
+          16,
+          18
+        ]
+      ],
+      "page": null,
+      "summary": "Personalidades: Vandana, Mahatma Ghandi, Dr. Rajenda Prasad, Narasimha Rao. Background: Uma Sociedade Secreta relativamente recente, a ordem das Grandes Espadas é formada pelos principais pensadores e sábios orientais, todos eles desejosos por uma Terra pacífica, sem guerras entre os planos ou danos à Roda dos Mundos. Vandana liderou por séculos seu Reino em...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-graus-atualmente-a-kokuhonsha-esta-11",
+      "name": "Graus: Atualmente, a Kokuhonsha está",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        11
+      ],
+      "page": 11,
+      "summary": "Graus: Atualmente, a Kokuhonsha está subordinada diretamente ao Primeiro-Ministro e ao Ministério da Defesa do Japão, sendo fiscalizado pelo Comitê de Segurança Nacional do Parlamento (que também fiscaliza a atividade de outros órgãos de inteligência do país). Sua hierarquia é similar à de uma agência governamental, com diretores, coordenadores e etc. O líde...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "umbral-e-seus-vales--umbral-e-seus-vales-nivel-2-7",
+      "name": "Nível 2",
+      "area": "combate",
+      "category": "ritual_spell",
+      "source": "umbral-e-seus-vales",
+      "sourceTitle": "Umbral e seus vales",
+      "pages": [
+        [
+          7,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "Nível 2 Tortura dos espinhos - O sofrimento começa a se manifestar. Os pecados cometidos pela vítima tornam-se um peso para a mesma que começa a senti-los como dores por todo corpo. Recebe uma vez por dia dano de 1d6 cada vez que falhar em teste de Wil. Toda vez que reincidir no mesmo pecado deve fazer mais um teste, além do primeiro para não receber mais 1d...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "ritual_spell"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-monstros-de-pandora-11",
+      "name": "Monstros de Pandora",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Monstros de Pandora Diga ‘a F AN Banshee (Ikran) Ea ico a E tu ar N CON 24-30, FR 20-30, DEX12, AGI 12-20, INT 12-24, mA WILL 12-24, CAR 2-8, PER 12-20 E 4 hy eZ #Ataques [1] Pvs 26-36 e, Ê Mordida x2 40/0 dano 1d6+3 “ih r Voo 20m/s Res ie a a São animais alados nativos de Pandora. Eles |: representam um rito de passagem na vida dos a Ma a! aspirantes a guer...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "utupia-d10--utupia-d10-utopia-d10-1-5",
+      "name": "UTOPIA D10 (41-41)",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "utupia-d10",
+      "sourceTitle": "Utupia d10",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "41 UTOPIA D10 de dano AT (objetos contundentes) ou DF (objetos perfurantes) para cada nível de Psicocinese. C: 8 / CT: 3 segundos Pirocinese / Criocinese – Habilidade para alterar a temperatura de um alvo, seja orgânico ou não. Cada nível possibilita aumentar ou diminuir em 30o C para cada minuto que o poder for mantido. O custo é dobrado para cada diferença...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "vaticano--vaticano-equipamento-sagrado-4",
+      "name": "EQUIPAMENTO SAGRADO",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "vaticano",
+      "sourceTitle": "Vaticano",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "EQUIPAMENTO SAGRADO O Vaticano é um patrono generoso, mas rigoroso. Seus agentes possuem acesso ao que há de melhor em tecnologia bélica e eletrônica, mas é exigido o máximo cumprimento da missão com nenhuma ou pouquíssimas falhas. Dispõem das melhores proteções e das melhores armas-sem apelar ao Arsenal mágico da organização;afinal, ainda que tenham (MUITO...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-new-3",
+      "name": "NEW",
+      "area": "combate",
+      "category": "combat",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "NEW FRONTIERSMAN LINHA DE CORTE Quinta-feira, 26 de dezembro de 1985 MARGEM 50 cents Ano VII N° 55 NEW FRONTIERSMAN O \"ANTIGO\" CENÁRIO MUNDIAL EUA: Embora consolidada como grande potência mundial, o clima de guerra fria havia chegado a um ponto crítico com a instalação de ogivas nucleares russas em solo cubano em 1962, fato que quase desencadeou uma guerra n...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "watchmen--watchmen-introducao-2",
+      "name": "INTRODUÇÃO",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "watchmen",
+      "sourceTitle": "Watchmen",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "INTRODUÇÃO Watchmen surgiu de um pedido que Dick Giordano, editor da D.C., Comics fez a Alan Moore. A editora do Super-homem adquirira os direitos sobre os heróis da extinta Charlton Comics e a idéia era fazer uma minissérie em 12 partes com eles. Mas a proposta apresentada pelo roteirista era tão revolucionária que Giordano resolveu disassociá-la dos heróis...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "zoologico--zoologico-at-1-mordida-10-cada-dano-1d2-1",
+      "name": "#at: 1 (Mordida 10% cada, dano 1d2)",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "zoologico",
+      "sourceTitle": "Zoologico",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "(1) 1d3 Ratos: Peso: 100 a 300g, PV 1, IP 0 #at: 1 (Mordida 10% cada, dano 1d2) CON 1 FR 1 DEX 0 AGI 12 INT 0 WILL 0 PER 15 CAR 0 (1) Gato: Peso: 400g a 2kg, PV 2, IP 0 #at: 1 (Mordida 15%, dano 1d3) CON 3 FR 2 DEX 2 AGI 16 INT 1 WILL 1 PER 18 CAR 3 (1) Cachorro: Peso: 2kg a 50kg, PV 2-20, IP 0 #at: 1 (Mordida 15%, dano 1d3 a 1d10) CON 3 FR 2 DEX 2 AGI 16 IN...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "arcanis--arcanis-capitulo-03-cabalas-dos-arcanis-8",
+      "name": "Capítulo 03- Cabalas dos Arcanis",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "arcanis",
+      "sourceTitle": "arcanis",
+      "pages": [
+        [
+          8,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "8 Kansarianos que usem a lágrima do sangue do ódio, recebem sendo Arcanis um bônus de +15% em todos os testes seguintes seja ataque/defesa/evasiva além de uma ação extra convencional (pois se locomove mais rápido que os outros), além de um bônus temporário de +4 no IP natural. O Kansariano fica com uma cara de idiota e as vezes não é levado a sério pelos seu...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatar-volume-1--avatar-volume-1-ganeshaman-26",
+      "name": "GANESHAMAN",
+      "area": "combate",
+      "category": "combat",
+      "source": "avatar-volume-1",
+      "sourceTitle": "avatar_volume_1",
+      "pages": [
+        [
+          26,
+          36
+        ]
+      ],
+      "page": null,
+      "summary": "26 GANESHAMAN Arte: Nitro GANESHAMAN CON 16(80), FR 20(100), DEX 13(30), AGI 11 (30), INT 10, WILL 25, CAR 10 (8), PER 14 Guerreiro do 12° Nível #ataques [3], IP 1, PVs 18 (90) + 30 Ataques: Briga 80/80, dano 1d6+3 na forma humana e 3d6+45 na forma de Avatar. Soco de Ganesha: Ganeshaman (gastando um ponto de Will) é capaz de desferir um soco potentíssimo que...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatar-volume-1--avatar-volume-1-krishnaman-22",
+      "name": "KRISHNAMAN",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatar-volume-1",
+      "sourceTitle": "avatar_volume_1",
+      "pages": [
+        [
+          22,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "22 KRISHNAMAN CON 13(60), FR 10(80), DEX 11(24), AGI 12 (30), INT 16, WILL 30, CAR 12 (20), PER 10 (20) Guerreiro do 12° Nível #ataques [3], IP 1, PVs 13 (70) + 30 Ataques: Briga 70/60, dano 1d6 na forma humana e 3d6+33 na forma de Avatar. Raio Chakram: Krishnaman dispara um disco de enegia espiritual dourada capaz de dar 13d6+1 de dano em até 250m de distân...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-glaaks-soldado-medio-20",
+      "name": "GLAAKS (SOLDADO MÉDIO)",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "page": null,
+      "summary": "20 GLAAKS (SOLDADO MÉDIO) CON 35 (8), FR 35 (10), DEX 20 (16), AGI 25 (14), INT 16, WILL 14, CAR 9, PER 30 (18) Guerreiro do 7° Nível #ataques [1], IP 10 PVs 50 (9) * O que estiver entre parêntesis refere-se ao Glaak fora do mecha que ele usa. GLAAKS (CAPITÃO) CON 50 (8), FR 40 (10), DEX 30 (16), AGI 28 (14), INT 18, WILL 17, CAR 9, PER 35 (18) Guerreiro do...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-hecatombe-15",
+      "name": "HECATOMBE",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "page": null,
+      "summary": "15 HECATOMBE Arte: Nitro HECATOMBE CON 11(90), FR 12 (95), DEX 10(20), AGI 11 (25), INT 10, WILL 20, CAR 8, PER 10 Guerreiro do 8° Nível #ataques [2], IP 40 PVs 185 + 30 PHs. Ataques: Briga: 75/75, dano 3d6 +38 Explosão Atômica: 15d6 (Hecatombe pode explodir o seu corpo, gastando 5 pontos de Will Temporário, gastando 1 ponto ele explode apenas partes do seu...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-indrajita-bouncer-10",
+      "name": "INDRAJITA (BOUNCER)",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "page": null,
+      "summary": "10 INDRAJITA (BOUNCER) Arte: Nitro INDRAJITA CON 18 (130), FR 20 (138), DEX 10(30), AGI 11 (30), INT 9 , WILL 40, CAR 9, PER 18 Guerreiro do 12° Nível #ataques [4], IP 100 PVs 280 + 35 PHs. Ataques: Briga: 75/75, dano 24d6 +62 Poderes: Aumento de Atributos [FR 0,118], [CON 0, 112], [DEX 0,20], [AGI 0,20] Vôo: [40, 50, 30], NP 40, 11 Velocidade: 50 m/s, Carga...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-maximus-max-12",
+      "name": "MAXIMUS MAX",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          12,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "12 MAXIMUS MAX Arte: Nitro MAXIMUS MAX CON 11(80), FR 12 (80), DEX 10(50), AGI 11 (50), INT 17, WILL 20, CAR 15, PER 14 Guerreiro do 10° Nível #ataques [4], IP 20 PVs 160 + 30 PHs Ataques: Briga: 65/65, dano 3d6 +30 Visão Max: 75 % ( Dano: 6d6+1) de explosão. A visão Max desestabiliza os átomos com um raio vermelho, fazendo o alvo explodir. Poderes: Aumento...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-ravana-6",
+      "name": "RAVANA",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          6,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "6 RAVANA Arte: Nitro RAVANA CON 12 (100), FR 12 (110), DEX 12(80), AGI 12 (80), INT 15 (60), WILL 16 (70), CAR 12 (40), PER 14(60) Guerreiro do 15° Nível #ataques [6], IP 60 (IP 30 da armadura e 30 de Poder ) PVs 235 + 30PHs (24 pontos de vida como Lorde Carvernon) Ataques: Briga: 90/90, dano 18d6+1+48 Disruptura Molecular: 75 % ( Dano: 13d6+1. Espada Ravana...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "avatars-vol-2--avatars-vol-2-shadaim-32",
+      "name": "SHADAIM",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "avatars-vol-2",
+      "sourceTitle": "avatars_vol_2",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "page": null,
+      "summary": "32 SHADAIM CON (14) 40, FR (16) 60, DEX (13) 40, AGI (14) 40, INT 16, WILL 30, CAR 18, PER 13 Guerreiro do 9° Nível #ataques [5], IP 10 PVs 39 + 60 Ataques: Briga: 55/55, dano 10D6+23 Raio Solar: 13d6+1 Cegueria: AGL (do alvo) vs NP (do Controle da Luz de Shadaim) Poderes: Controle da Luz: [60, 80, 10] NP: 60, Dano: 13d6+1, Alcance: 500m Shadaim tem o poder...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-conceitos-basicos-15",
+      "name": "Conceitos Básicos",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "page": null,
+      "summary": "Conceitos Básicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. RE-RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que você não está familiarizado. Esses conceitos e termos são usados no sistema de combate e poderes. Personagens/...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "biohazard--biohazard-s-t-a-r-s-46",
+      "name": "S.T.A.R.S",
+      "area": "combate",
+      "category": "item_equipment",
+      "source": "biohazard",
+      "sourceTitle": "biohazard",
+      "pages": [
+        [
+          46,
+          52
+        ]
+      ],
+      "page": null,
+      "summary": "46 Nome: Barry Burton Idade: 38 anos Altura: 1,82m Peso: 89Kg Equipe: Ex. integrante da equipe Alpha da S.T.A.R.S História: Ex-membro da S.W.A.T., Barry possui um vasto conhecimento em armas. Com seus de- zesseis anos de experiência tornou-se o responsável pe- lo abastecimento de armas da S.T.A.R.S. Após o ocorrido da mansão, onde ele fora chantagiado por We...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "item_equipment"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ceifadores--ceifadores-introducao-3",
+      "name": "Introdução",
+      "area": "combate",
+      "category": "combat",
+      "source": "ceifadores",
+      "sourceTitle": "ceifadores",
+      "pages": [
+        [
+          3,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Introdução Em Arton, existem diversas ordens religiosas conhecidas. A maioria delas é fundada em nome de deuses com boa índole e com ideais louváveis (justiça, amor, vida, nobreza etc). O mais cultuado destes é Khalmyr, o deus da justiça e da maioria dos paladinos. Em sua homenagem, foram constituídas as mais importantes ordens de cavaleiros do continente: A...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemonium--daemonium-dd-monion-1-7",
+      "name": "DD æmonion (61-70)",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "daemonium",
+      "sourceTitle": "daemonium",
+      "pages": [
+        [
+          61,
+          70
+        ]
+      ],
+      "page": null,
+      "summary": "61 Correntes 2: (Death Knigths, Hellspawns). Semelhante a correntes, mas o ser sobrenatural possui até 6 correntes com 4m de comprimento, força 2D e IP1. Requer o poder correntes. Armas brancas: (Death Knigths, Hellspawns). O ser sobrenatural pode transformar seus braços e pernas em até 3 armas brancas diferentes, como espadas, machados, martelos ou qualquer...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "daemonium--daemonium-dd-monion-1-10",
+      "name": "DD æmonion (91-99)",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "daemonium",
+      "sourceTitle": "daemonium",
+      "pages": [
+        [
+          91,
+          99
+        ]
+      ],
+      "page": null,
+      "summary": "91 sangramento equivalente a 1 PV por rodada. Mesmo na forma humana, este poder causa dano ao ser sobrenatural, mas a hemorragia fica visualmente contida (ela ainda está lá, mas não é mais percebida). Os membros separáveis, assim como membros esticáveis, englobam todas as juntas dos braços e pernas do ser sobrenatural; visualmente, os dedos do ser sobrenatur...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "dragoes2--dragoes2-nivel-1-baforada-comum-causando-24",
+      "name": "Nível 1: baforada comum, causando",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "dragoes2",
+      "sourceTitle": "dragoes2",
+      "pages": [
+        [
+          24,
+          27
+        ]
+      ],
+      "page": null,
+      "summary": "Nível 1: baforada comum, causando 1d6+2 de dano para cada nível de Poder. Nível 2: troca o dado para calcular o dano para d8: 1d8+2 para cada nível de Poder. Nível 3: neste nível, a baforada passa a ser capaz de ferir normalmente criaturas feridas apenas por magia. Nível 4: troca o dado para calcular o dano para d10: 1d10+2 para cada nível de Poder. Nível 5:...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-tabela-4-1-sopros-adicionais-41",
+      "name": "Tabela 4-1: Sopros Adicionais",
+      "area": "combate",
+      "category": "creature_npc",
+      "source": "guia-dragoes-vol-ii",
+      "sourceTitle": "guia-dragoes_vol-II",
+      "pages": [
+        [
+          41,
+          42
+        ]
+      ],
+      "page": null,
+      "summary": "Tabela 4-1: Sopros Adicionais Descrição Custo O sopro causa o mesmo dano, mudando apenas a natureza.* 2 pts Sopro de paralisia (caso a vítima receba dano o efeito é cancelado). † 2 pts Sopro de Sono (como a Magia de mesmo nome). 2 pts Sopro de lentidão (-6 em DEX e AGI). † 3 pts Sopro de enfraquecimento (-6 em FR). † 3 pts Sopro Anti-Magia (o sopro não causa...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-guia-de-1",
+      "name": "GUIA DE",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "guia-pericias",
+      "sourceTitle": "guia_pericias",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "GUIA DE PERÍCIAS MAURY “SHI DARK” ABREU 1 Em jogos de RPG as perícias são os conhecimentos de um Personagem, elas determinam aquilo que ele sabe e o que não sabe fazer. Um botânico dedicado terá a perícia Ciências (Botânica), um caçador provavelmente terá Rastrear, e um espadachim deve ter a perícia Armas Brancas, com a Espada que achar mais apropriado. O SI...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "harrypotter--harrypotter-quadribol-11",
+      "name": "QUADRIBOL",
+      "area": "combate",
+      "category": "combat",
+      "source": "harrypotter",
+      "sourceTitle": "harrypotter",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "1 1 QUADRIBOL O quadribol é sem duvida o jogo que mais atrai os bruxos, é como se fosse o futebol na vida real.Aqui vão as regras e informa- ções sobre o jogo, o Quadribol dentro de Hogwarts e os times mais famosos para o personagem escolher um para torcer.Os per- sonagens que forem jogadores de quadribol pela sua casa preci- sarão treinar as regras e jogada...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "hydora--hydora-restricoes-e-obrigacoes-6",
+      "name": "Restrições e Obrigações",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "hydora",
+      "sourceTitle": "hydora",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Restrições e Obrigações Restrições e Obrigações Restrições e Obrigações Restrições e Obrigações Os seguidores de Hydora devem sempre fazer uso apenas de armas leves e rápidas - como sabres, espadas curtas, bastões, lanças – e armas de arremesso e longo alcance – como arco e flecha, zarabatana, dardos, estrelas ninjas, correntes, chicotes. As armaduras utiliz...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ninjutsu--ninjutsu-ninjutsu-2",
+      "name": "NINJUTSU",
+      "area": "combate",
+      "category": "combat",
+      "source": "ninjutsu",
+      "sourceTitle": "ninjutsu",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "NINJUTSU Introdução Ninjutsu é uma arte marcial japonesa com raízes que datam mais de mil anos atrás. Existiam no Japão, muitas escolas e famílias de ninjutsu, mas durante a era de paz civil no Japão, não eram mais necessários, os serviços dos ninjas. Em razão disso, muitas dessas escolas desapareceram, porém algumas mantiveram a tradição viva ensinando as s...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "poderes-de-fe-02--poderes-de-fe-02-bestas-etc-19",
+      "name": "bestas etc).",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "poderes-de-fe-02",
+      "sourceTitle": "poderes de fe 02",
+      "pages": [
+        19
+      ],
+      "page": 19,
+      "summary": "bestas etc). Para realizar o Santuário, o clérigo precisa gastar 1 Ponto de Fé. A aura protetora será quebrada caso o alvo faça algum tipo de ataque ou utilize mágicas que visem os oponentes, sejam elas ofensivas ou não. Se ele usar outros tipos de feitiços (mágicas de cura, por exemplo), o Santuário continuará ativo. Senso de Direção Este milagre simples pe...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "ray--ray-fenris-8",
+      "name": "Fenris",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Fenris Custo: 2 pontos Idade Inicial: 6+1d6 Atributos: PER e FR +3; CAR -5 Vantagens: Garras e Chifres (é necessário comprar perícias adequadas para atacar com estes artifícios). Fenris são criaturas parecidas com grandes lobos, do tama- nho aproximado de um leão (na verdade são um pouco maio- res). Eles têm dentes semelhantes aos de um tubarão (2d6 de dano)...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "rituais--rituais-car-6",
+      "name": "Car",
+      "area": "combate",
+      "category": "attribute_skill",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Car -- -- + 1 + 2 + 3 + 4 Ip + 1 + 2 + 3 + 4 + 6 + 8 Pvs + 1 + 2 + 3 + 4 + 6 + 8 nº Ataques 1 1 1 2 2 3 Perícias (%) + 25 % + 30 % + 60 % + 65 % + 115 % + 150 % Perícias Possíveis: Máximo permitido pelo focus (O valor entre parênteses significa o número máximo de subgrupos permitidos) Perícia - Inicial / Focus 2 4 6 8 10 12 Armas Brancas - Dex / Dex 20 / 20...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "steampunk--steampunk-devastador-10d6-10m-24-horas-5",
+      "name": "DEVASTADOR 10D6 10M 24 HORAS",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "steampunk",
+      "sourceTitle": "steampunk",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "DEVASTADOR 10D6 10M 24 HORAS * O RAIO DE ALCANCE DE TODO O DANO. A EXPLOSÃO REDUZ 1D6 A CADA 1M (UM EXPLOSIVO SIMPLES TEM UMA ÁREA DE ALCANCE DE 3 M (2D6 NOS DOIS PRIMEIROS METROS, 1D6 NO PRÓXIMO METRO.) ENQUANTO UM EXPLOSIVO DEVASTADOR TEM ALCANCE TOTAL DE 20 METROS (10D6 NOS PRIMEIROS DEZ METROS,9D6 NO SEGUINTE, E ASSIM VAI...) SUGESTÃO EXTRA: POR QUE NÃO...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "steampunk--steampunk-golem-pessoal-8",
+      "name": "GOLEM PESSOAL",
+      "area": "combate",
+      "category": "power_magic",
+      "source": "steampunk",
+      "sourceTitle": "steampunk",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "GOLEM PESSOAL VEJA DETALHES NO TÓPICO DE MESMO NOME. 1 PONTO: SEU PERSONAGEM POSSUI UM GOLEM COMO SERVIÇAL,QUE TRABALHA PARA ELE FAZENDO DIVERSOS SERVIÇOS, MAS JAMAIS ENTRA EM COMBATE (AINDA QUE TENHA GRANDE FORÇA). 2 PONTOS: SEU GOLEM PESSOAL É UM GUARDA-COSTAS, DEFENDENDO SEU PERSONAGEM SEMPRE QUE NECESSÁRIO, EMBORA NÃO SAIBA LIDAR COM OUTRO TIPO DE TAREFA...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "venenos--venenos-metodo-injetavel-ou-ingestao-2",
+      "name": "Método: injetável ou ingestão",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "venenos",
+      "sourceTitle": "venenos",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "Método: injetável ou ingestão Tempo: 1d6 rodadas Sangue de Cockatrice Tem este nome por ser vermelho e denso como sangue. Este veneno alemão consome a vitima por dentro, causando dores terríveis como se a vitima estivesse queimando. É feito a partir de uma rara combinação de extratos. Dano: 1d2 PV por hora Método: Contato ou ingestão Tempo: 1d10 minutos (dur...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-battle-aura-20",
+      "name": "Battle Aura",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        [
+          20,
+          24
+        ]
+      ],
+      "page": null,
+      "summary": "Battle Aura A Aura de Batalha, uma poderosa Doutrina em que o per- sonagem cria uma aura esverdeada em torno dele, podendo fa- zer diversos efeitos. Nível 1: Armadura - A aura envolve o personagem redu- zindo os danos contra ele. Reduz em 1 ponto de qualquer dano contra o personagem para cada 1 ponto de Rei/You-Ki gastos. Só podem ser utilizados desta maneir...",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-alongamento-25",
+      "name": "Alongamento",
+      "area": "combate",
+      "category": "core_rule",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "pages": [
+        25
+      ],
+      "page": 25,
+      "summary": "Alongamento Essa doutrina permite ao usuário alongar seus membros (pernas e braços) e pescoço, uma certa quantidade de metros, dependendo do nível da doutrina. O personagem recebe tam- bém uma grande flexibilidade, podendo se esquivar mais facil- mente dos ataques. Para cada nível, o personagem pode esticar um metro. O nível máximo dessa doutrina é o quinto....",
+      "entityRefs": [],
+      "tags": [
+        "combate",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

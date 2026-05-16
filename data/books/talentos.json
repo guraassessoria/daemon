@@ -1,0 +1,60 @@
+{
+  "source": "talentos",
+  "title": "talentos",
+  "status": "full-read-auto-pass-1",
+  "pages": 9,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "talentos-ou-seriam-velhos-talentos-1",
+      "name": "(OU SERIAM VELHOS TALENTOS?)",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "12926\u00036\u0003$35,025$0(1726\u0003 (OU SERIAM VELHOS TALENTOS?) AUTOR: RICKY D! AGRADECIMENTOS: À UM MONTE DE GENTE...(ANDRÉ,BRUNO,ANA,MAURICE...) EM ESPECIAL A EDITORA DAEMON,POR SEU TRABALHO COMPETENTE, E A MARCELO DEL DEBBIO, PELA CRIAÇÃO DO MELHOR SISTEMA DE RPG DO MUNDO (E NEM MENCIONEM O D-SEI-LÁ-O-QUÊ!!!) DESENVOLVIMENTO A IDÉIA DE CONSTRUIR ESTE NETBOOK ME VEIO...",
+      "entityRefs": []
+    },
+    {
+      "id": "talentos-ataque-giratorio-2",
+      "name": "ATAQUE GIRATÓRIO",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "ATAQUE GIRATÓRIO 2 PONTOS: O PERSONAGEM CONSEGUE FAZER MÚLTIPLOS ATAQUES NA MESMA RODADA,MAS SOMENTE EM OPONENTES QUE ESTEJAM AO SEU REDOR. PARA ISSO,ELE PRECISA GANHAR A INICIATIVA. PARA CADA OPONENTE ELE FAZ UM TESTE,E ENQUANTO ELE FOR ACERTANDO,VAI ATACANDO. SE ELE ERRAR,PÁRA O ATAQUE GIRATÓRIO,E ELE PRECISA FAZER UM TESTE DE CON PARA NÃO FICAR DESORIENTA...",
+      "entityRefs": []
+    },
+    {
+      "id": "talentos-acrobatico-4",
+      "name": "ACROBÁTICO",
+      "category": "combat",
+      "pages": [
+        4
+      ],
+      "summary": "ACROBÁTICO 1 PONTO:O PERSONAGEM É MUITO ÁGIL. ELE GANHA UM BÔNUS DE 10% EM TODOS OS TESTES ENVOLVENDO MOVIMENTOS CORPORAIS,ESQUIVAS,ACROBACIAS E AFINS. ELE GANHA A PERÍCIA ACROBACIAS EM 30% E GANHA MAIS 5% A CADA NÍVEL QUE AVANÇE. ARREMESSO EM COMBATE 1 PONTO:SEU PERSONAGEM É CAPAZ DE USAR O PESO DE SEU ADVERSÁRIO CONTRA ELE MESMO,RECEBENDO UM BÔNUS DE 10% E...",
+      "entityRefs": []
+    },
+    {
+      "id": "talentos-furia-5",
+      "name": "FÚRIA",
+      "category": "core_rule",
+      "pages": [
+        [
+          5,
+          9
+        ]
+      ],
+      "summary": "FÚRIA 2 PONTOS:O PERSONAGEM,QUANDO ENTRA EM BATALHA,PODE SE ENTREGAR A UMA FÚRIA ASSASSINA. NESTE ESTADO,ELE GANHA +10% EM ATAQUE E +2 EM DANO. ELE PODE EVENTUALMENTE SAIR DO ESTADO DE FÚRIA ANTES DA MORTE DO OPONENTE,SE PASSAR EM UM TESTE DE WILL. APÓS A FÚRIA,ELE DEVE DESCANSAR NO MÍNIMO UMA CENA,SENÃO FICARÁ DESORIENTADO E CANSADO,COM UMA PENALIZAÇÃO DE -...",
+      "entityRefs": []
+    }
+  ]
+}

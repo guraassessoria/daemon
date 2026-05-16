@@ -1,0 +1,24 @@
+{
+  "source": "terras-natais",
+  "title": "Terras Natais",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "kit_class",
+    "race_lineage",
+    "power_magic",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "terras-natais-terras-natais-1",
+      "name": "Terras Natais",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "Terras Natais Milhares de anos atrás, um planinauta nomeado Feroz tropeçou em um plano conhecido como as Terras Natais. Logo antes da chegada dele, o mundo tinha sido um plano bonito e sustentável, semelhante a Dominaria. Porém, quando ele chegou viu que as Terras Natais tinham sido saqueadas por uma série de cataclismos conhecida como as Guerras dos Feitice...",
+      "entityRefs": []
+    }
+  ]
+}

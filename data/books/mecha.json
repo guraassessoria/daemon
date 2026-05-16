@@ -1,0 +1,40 @@
+{
+  "source": "mecha",
+  "title": "mecha",
+  "status": "full-read-auto-pass-1",
+  "pages": 15,
+  "primaryCategories": [
+    "combat",
+    "core_rule",
+    "item_equipment",
+    "attribute_skill"
+  ],
+  "parts": [
+    {
+      "id": "mecha-fabricio-death-botelho-1",
+      "name": "Fabrício “Death” Botelho",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 Fabrício “Death” Botelho MECHA 2 Regras para Mechas Altura 3m 5m 7m 10m Largura 1,5m 2,5m 3,5m 5m Profundidade 1m 1,5m 2,5m 3,5m Peso 1,8 ton 7,5 ton 24,5 ton 70 ton Olá amigo RPGista, Há muito tempo eu estava pensando em fazer um suplemen- to sobre Robôs -Gigantes para uso em INVASÃO, o RPG que eu considero um dos melhores já feitos, mas me faltavam as ta...",
+      "entityRefs": []
+    },
+    {
+      "id": "mecha-regras-extras-11",
+      "name": "REGRAS EXTRAS",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          15
+        ]
+      ],
+      "summary": "1 1 REGRAS EXTRAS Velocidade e Carga Agora precisaremos um pouco de Física, mas como você, lei- tor, deve ser uma pessoa inteligente (afinal, está jogando o Siste- ma Daemon), não deve ter problema nenhum com essa etapa. A Velocidade Máxima é determinada pelo Motor A Carga Máxima é determinada pela tabela de FR A Velocidade Máxima só pode ser obtida se o mec...",
+      "entityRefs": []
+    }
+  ]
+}

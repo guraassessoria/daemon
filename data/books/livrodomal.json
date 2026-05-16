@@ -1,0 +1,145 @@
+{
+  "source": "livrodomal",
+  "title": "livrodomal",
+  "status": "full-read-auto-pass-1",
+  "pages": 26,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "livrodomal-o-livr-1",
+      "name": "O LIVR",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "O L O L O L O L O LIVR IVR IVR IVR IVRO DO DO DO DO DO M M M M MAL AL AL AL AL GRUPO NEODAEMON",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-introducao-2",
+      "name": "Introdução",
+      "category": "kit_class",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "Introdução Quando começamos a escrever este netbook, muitos dos nossos colegas torceram o nariz para a idéia de adaptar um livro de D&D para Daemon. Todavia, o RPG aqui no Brasil, infelizmente, não é tão forte quanto nos EUA, onde a Wizards of The Coast lança quatro livros por mês. Certamente, se um jogador do sistema D20 reclamar de falta de material em sua...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-novos-4",
+      "name": "NOVOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          4,
+          6
+        ]
+      ],
+      "summary": "NOVOS OS OS OS OS K K K K KITS ITS ITS ITS ITS 4 Feiticeiro da Peste (ou mago de Asag) Se refugiando em becos, vielas escuras e construções abandonadas, este indivíduo se abriga na imundicie e mantém consigo as piores doenças que os seres humanos poderiam enfrentar. São, muito possivelmente, os mais desagradáveis feiticeiros que se podem encontrar por toda E...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-cacador-de-mortais-7",
+      "name": "Caçador de Mortais",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          13
+        ]
+      ],
+      "summary": "Caçador de Mortais Custo: 2 Pontos de Aprimoramento, 260 Pontos de Perícia. Perícias: Intimidação 40%, Sobrevivência (escolha duas) 30%, Oculto 20%, Inferno 30%, Demônios 30%, Furtividade 30%, Armadilhas 20%, Rastreio 40%, Briga 30/30, Escolha uma arma 30/30 Aprimoramentos: Pontos Heróicos 4, Indiferente -1 Poderes de Classe 1° Nível Caçando Mortais - o caça...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-aprimorament-14",
+      "name": "APRIMORAMENT",
+      "category": "creature_npc",
+      "pages": [
+        [
+          14,
+          16
+        ]
+      ],
+      "summary": "APRIMORAMENT PRIMORAMENT PRIMORAMENT PRIMORAMENT PRIMORAMENTOS OS OS OS OS 14 Nesta parte estaremos introduzindo alguns novos aprimoramentos para melhor lapidarem seus personagens. Contudo leiam atentamente antes de colocá-los em suas fichas, pois muitas vezes até os aprimoramentos positivos trazem alguns problemas... Vale ressaltar que alguns destes aprimor...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-segunda-visao-17",
+      "name": "Segunda Visão",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Segunda Visão 1 Ponto: os sentidos do personagens foram aprimorados pelas forças das trevas, que lhe concederam uma espécie de segunda visão. Sempre que o personagem realizar um teste de percepção e falhar, poderá realizar um segundo teste. Porém, este dom traz um pequeno malefício inconveniente, pois não lhe foi conferido de graça. Este poder precisa de um...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-as-f-19",
+      "name": "AS F",
+      "category": "source",
+      "pages": [
+        19
+      ],
+      "summary": "AS F F F F FACES ACES ACES ACES ACES DO DO DO DO DO M M M M MAL AL AL AL AL 19",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-o-marginal-20",
+      "name": "O Marginal",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          20,
+          22
+        ]
+      ],
+      "summary": "O Marginal O marginal é o tipo mais simples de vilão, não passa de um egoísta bruto que toma para si tudo o que quer. Seus desejos não vão além de simples riquezas ou privilégios, porém, alguns deles buscam coisas mais significantes, como respeito. Levado por necessidades básicas e desejos, este vilão não utiliza métodos sutis ou sofisticados. Sua única arma...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-o-monstro-23",
+      "name": "O Monstro",
+      "category": "creature_npc",
+      "pages": [
+        23
+      ],
+      "summary": "O Monstro O vilão monstruoso vive para matar, se esconde em lugares onde não há civilização, e destrói tudo que encontrar em seu caminho. Mais depravado que os psicopatas ou sadistas, esta criatura está além da redenção. Este vilão é praticamente um demônio em seu próprio direito. Ele bebe o sangue de suas vítimas e deixa que ele escorra por todo o seu corpo...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-janos-audren-24",
+      "name": "Janos Audren",
+      "category": "kit_class",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "Janos Audren Como um exemplo de malfeitor iremos apresentar Janos Audren, um personagem criado para uma campanha de Arkanun. Janos é um vilão do tipo mentiroso trapaceiro. De nacionalidade européia, e abandonado quando criança, Janos foi acolhido por uma ordem de assassinos árabes conhecida como Sociedade de Hassan. Devido ao preconceito dos árabes por Janos...",
+      "entityRefs": []
+    },
+    {
+      "id": "livrodomal-nota-dos-autores-26",
+      "name": "Nota dos Autores",
+      "category": "core_rule",
+      "pages": [
+        26
+      ],
+      "summary": "Nota dos Autores Nós, do Grupo NeoDaemon, temos como objetivo lançar uma série de netbooks para expandir ainda mais o sistema Daemon, fazendo com que jogadores e mestres, iniciantes ou experientes, encontrem o material necessário para desenvolver suas aventuras. Não podemos dizer com sinceridade que este livro não nos deu trabalho para ser feito, mas aqui es...",
+      "entityRefs": []
+    }
+  ]
+}

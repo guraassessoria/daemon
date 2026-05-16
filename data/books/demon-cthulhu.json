@@ -1,0 +1,105 @@
+{
+  "source": "demon-cthulhu",
+  "title": "Demon Cthulhu",
+  "status": "full-read-auto-pass-1-refined",
+  "pages": 65,
+  "primaryCategories": [
+    "creature_npc",
+    "core_rule",
+    "combat",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-1",
+      "name": "Pagina inicial (1-10)",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "summary": "1 Daemon Cthulhu Grupo Arkanun 1 edição 2 Leandro “Hallowone” Santos e Tiago \"Murazor\" Maraschin 1 edição 3 Organização: Leandro Lopes dos Santos Diagramação: Leandro Lopes dos Santos Agradecimentos: A Howard Phillips Lovecraft por desenvolver todo um sistema mitodógico insandecedor para sua literatura de Horror. A Sand Petersen por criar o primeiro RPG de H...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-2",
+      "name": "Pagina inicial (11-20)",
+      "category": "combat",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "summary": "11 Primogênitos ( Grandes Antigos ) Cthuga – O senhor do Fogo Cthuga é o mais Obscuro e remoto dos primogênitos, isolado e vagando no espaço, próximo à estrela Fomalbaut, de onde pode ser convocado. Cthuga se apresenta como uma imensa massa incandescente e amorfa e tem por seguidores os Vampiros do Fogo. A vinda Cthuga é anunciada por 1d100 vampiros do Fogo...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-3",
+      "name": "Pagina inicial (21-30)",
+      "category": "combat",
+      "pages": [
+        [
+          21,
+          30
+        ]
+      ],
+      "summary": "21 contudo, possuem uma possibilidade de 5% por carga, de pifar a arma, se utilizarem mais de 4 cargas ao mesmo tempo. EX.: 2 cargas dariam 4d6 de dano, 4 Cargas 8d6, 5 cargas 10d6 mas o mestre deverá fazer um teste com 5% da arma queimar e não disparar, 23 cargas dariam 46d6 de dano mas a chance de pifar a arma será de 95%. Cães de Tindalos Cães de Tindalos...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-4",
+      "name": "Pagina inicial (31-40)",
+      "category": "combat",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "summary": "31 tornando cada vez mais grotescos. De repente, e em poucos meses, sofrem uma monstruosa transformação que os leva a sua forma definitiva. Esta transformação ocorre normalmente entre os 20 e 40 anos de idade (contudo indivíduos com menor quantidade de Gens de profundos podem sofrer as mudanças em idades mais avançadas e possivelmente em menor grau). Os prof...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-5",
+      "name": "Pagina inicial (41-50)",
+      "category": "power_magic",
+      "pages": [
+        [
+          41,
+          50
+        ]
+      ],
+      "summary": "41 componentes particulares para aquele tipo de criatura. Como exemplo será apresentada a seguir uma simples magia, e espero que a partir dela, e do material aqui exposto, o Mestre possa criar vários outros rituais de invocação e controle destas divindades. Invocar/Comandar Byakhee (Criar/Controlar Mythos 3) Esta magia precisa ser realizada à noite, quando a...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-6",
+      "name": "Pagina inicial (51-60)",
+      "category": "creature_npc",
+      "pages": [
+        [
+          51,
+          60
+        ]
+      ],
+      "summary": "51 privativamente. Cópias do original de nove volumes estão nas maiores bibliotecas. Cada volume é escrito por um cultista diferente, discutindo um aspecto diferente de Glaaki, entidades relacionadas e seus cultos. Esta versão do texto aparentemente foi expurgada, mas muitas informações sobreviveram. Teste normal de sanidade; Conhecimento dos Mitos +15%; 32...",
+      "entityRefs": []
+    },
+    {
+      "id": "demon-cthulhu-pagina-inicial-1-7",
+      "name": "Pagina inicial (61-65)",
+      "category": "combat",
+      "pages": [
+        [
+          61,
+          65
+        ]
+      ],
+      "summary": "61 Contudo me sinto observado. depois de ir a Luziania atráz do meteoro que lá caiu, vejo por onde ando pessoas me observando. Acredito que um horror muito antigo habita as sombras e me persegue. Fui desmoralizado pela folha de São paulo, distorceram minhas palavras.Acredito que eles estão lá.Agora tento \" O Mundo\" ,conheço o trabalho de marcos souza e sei q...",
+      "entityRefs": []
+    }
+  ]
+}

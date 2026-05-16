@@ -1,0 +1,50 @@
+{
+  "source": "lobisomemv3",
+  "title": "LobisomemV3",
+  "status": "full-read-auto-pass-1",
+  "pages": 22,
+  "primaryCategories": [
+    "attribute_skill",
+    "creature_npc",
+    "core_rule",
+    "race_lineage"
+  ],
+  "parts": [
+    {
+      "id": "lobisomemv3-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "race_lineage",
+      "pages": [
+        1
+      ],
+      "summary": "- 1 -",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomemv3-introducao-2",
+      "name": "INTRODUÇÃO",
+      "category": "race_lineage",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "summary": "- 2 - INTRODUÇÃO Esta nova versão do netbook Poderes para Lobisomens foi feita atendendo à pedidos para reformular a antiga versão. Foi renomeado para Lobisomem: a Maldição, demonstrando o tema do jogo: a maldição do lobisomem. Pois, no fim das contas, nenhum lobisomem pode viver normalmente em sociedade, sendo perseguido por caçadores do sobrenatural, traíd...",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomemv3-a-origem-4",
+      "name": "A Origem",
+      "category": "creature_npc",
+      "pages": [
+        [
+          4,
+          22
+        ]
+      ],
+      "summary": "A Origem Ironicamente, aqui não explicaremos a origem dos lobisomens. O netbook Lobisomem: a Maldição foi criado para dar as regras aos jogadores de como utilizar lobisomens em suas campanhas, sejam elas baseando-se no universo de Trevas, Arkanun, Invasão, Daemon Cyberpunk ou em outro da criação do narrador. Por isso, é extremamente necessário que o jogador/...",
+      "entityRefs": []
+    }
+  ]
+}

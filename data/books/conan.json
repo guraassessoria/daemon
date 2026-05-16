@@ -1,0 +1,96 @@
+{
+  "source": "conan",
+  "title": "conan",
+  "status": "full-read-auto-pass-1",
+  "pages": 23,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "creature_npc",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "conan-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-conan-2",
+      "name": "CONAN",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "2 CONAN “Saiba, ó Príncipe, que entre os anos quando os oceanos tragaram a Atlântida e as reluzentes cidades, e os anos quando se levantaram os Filhos de Aryas, houve uma era inimaginável, repleta de reinos esplendorosos que se espalharam pelo mundo como miríades de estrelas sob o firmamento. Nemédia; Ophir; Brithúnia; Hiperbórea; Zamora, com suas lindas mul...",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-introducao-3",
+      "name": "INTRODUÇÃO",
+      "category": "attribute_skill",
+      "pages": [
+        3
+      ],
+      "summary": "3 INTRODUÇÃO Conan, o Bárbaro, é um herói inigualável. Concebido origi- nalmente em 1932 pelo escritor Robert Ervin Howard (isso mes- mo, Conan foi escrito ANTES do Senhor dos Anéis), o bárbaro deixou os ensaios literários para ganhar, anos mais tarde, um espaço entre os super-heróis dos quadrinhos. Howard já havia escrito história sobre heróis fantásticos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-passado-4",
+      "name": "PASSADO",
+      "category": "creature_npc",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rente. Escolha um nome, idade, local de nascimento, o nome de seus pais e irmãos (se tiver), como foi se...",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-valor-inicial-6",
+      "name": "VALOR INICIAL",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "summary": "6 VALOR INICIAL O nome de algumas perícias ou subgrupos pode vir segui- do de um Atributo básico (CON, FR, DEX, AGI, INT, WILL, CAR ou PER). O personagem começa com um calor inicial igual ao do Atributo correspondente nessas perícias e não precisa pagar pontos de perícia para ser capaz de usá-las. Sempre que uma Perícia tiver subgrupos, o personagem deve obr...",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-pacto-8",
+      "name": "PACTO",
+      "category": "creature_npc",
+      "pages": [
+        [
+          8,
+          13
+        ]
+      ],
+      "summary": "8 PACTO 1 ponto: Pactos com entidades muito poderosas podem ser uma ótima fonte de poder, se você estiver disposto a pagar o preço. Demônios de Infernun precisam sempre de energia místi- ca para se manterem vivos na Terra. Alguns magos oferecem parte de sua energia (pontos de Atributos, pontos de Magia, pontos de Perícia, sua alma, etc.) em troca de riquezas...",
+      "entityRefs": []
+    },
+    {
+      "id": "conan-capitulo-i-14",
+      "name": "CAPÍTULO I -",
+      "category": "power_magic",
+      "pages": [
+        [
+          14,
+          23
+        ]
+      ],
+      "summary": "1 4 Adaptado de um ensaio de Robert E. Howard Quando Robert E. Howard começou a escrever as aventuras de Conan, o Cimério, mais de quarenta anos atrás, ele também idealizou toda a histó- ria da chamada Era Hiboriana Esta história tem início cerca de oito mil anos antes do aparecimento do bárbaro, durante a civi- lização Thuriana, onde nasceu o Rei Kull, époc...",
+      "entityRefs": []
+    }
+  ]
+}

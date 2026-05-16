@@ -1,0 +1,49 @@
+{
+  "source": "4killers",
+  "title": "4killers",
+  "status": "full-read-pass-1",
+  "pages": 8,
+  "primaryCategories": ["creature_npc", "adventure", "setting_lore"],
+  "parts": [
+    {
+      "id": "4killers-introduction",
+      "name": "Saidos do Inferno",
+      "category": "setting_lore",
+      "pages": [1],
+      "summary": "Introducao para uso de quatro antagonistas famosos do cinema de terror no sistema Daemon, tratados como assassinos de 15 nivel.",
+      "entityRefs": []
+    },
+    {
+      "id": "fred-krueger",
+      "name": "Fred Krueger",
+      "category": "creature_npc",
+      "pages": [1, 2, 3, 4],
+      "summary": "Antagonista sobrenatural ligado ao Sonhar, com ficha, historia, personalidade, poderes e curiosidades.",
+      "entityRefs": ["fred-krueger"]
+    },
+    {
+      "id": "jason-voorhees",
+      "name": "Jason Voorhees",
+      "category": "creature_npc",
+      "pages": [4, 5, 6],
+      "summary": "Assassino implacavel de Crystal Lake, com ficha, historia, personalidade, poderes e curiosidades.",
+      "entityRefs": ["jason-voorhees"]
+    },
+    {
+      "id": "michael-myers",
+      "name": "Michael Myers",
+      "category": "creature_npc",
+      "pages": [6, 7],
+      "summary": "Assassino silencioso e resistente, com ficha, historia, personalidade, poderes e curiosidades.",
+      "entityRefs": ["michael-myers"]
+    },
+    {
+      "id": "thomas-hewitt-leatherface",
+      "name": "Thomas Hewitt (Leatherface)",
+      "category": "creature_npc",
+      "pages": [7, 8],
+      "summary": "Assassino brutal associado a motosserra e horror rural, com ficha, historia, personalidade, poderes e curiosidades.",
+      "entityRefs": ["thomas-hewitt-leatherface"]
+    }
+  ]
+}

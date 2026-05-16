@@ -1,0 +1,141 @@
+{
+  "source": "kits-orientais",
+  "title": "Kits Orientais",
+  "status": "full-read-auto-pass-1",
+  "pages": 123,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "kit_class",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "kits-orientais-samurai-1",
+      "name": "Samurai",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          11
+        ]
+      ],
+      "summary": "Samurai Informações de jogo O samurai temas seguintes estatística de jogo: Habilidades: É difícil ser um samurai bem sucedido, porque para ele todas as habilidades são importantes. Uma grande força é necessária para manusear a espada (FR maior que 10), sua arma principal. O mesmo vale para destreza, necessária para atirar com arco e flecha e para permitir ac...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-chi-ying-12",
+      "name": "CHI YING",
+      "category": "combat",
+      "pages": [
+        [
+          12,
+          14
+        ]
+      ],
+      "summary": "CHI YING O chi ying também conhecido como Chi Negro, a energia ying é ligada ao fluxo da morte, as coisas não vivas, as capacidades do corpo e as tendências malignas e ordeiras do cosmo. Os poderes do chi Ying, são ligados ao controle dos entes (coisas não vivas) e aos poderes do corpo, lidando sempre com as habilidades físicas, (atributos Físicos do persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-pontos-de-tecnica-14-pts-15",
+      "name": "PONTOS DE TÉCNICA : 14 PTS.",
+      "category": "combat",
+      "pages": [
+        [
+          15,
+          20
+        ]
+      ],
+      "summary": "PONTOS DE TÉCNICA : 14 PTS. DESCRIÇÃO : UMA LUTA QUE SE UTILIZA DOS MOVIMENTOS DAS AVES. BÔNUS : +2 DE DANO NO CHUTE E +45% NOS TESTE DE SALTO. PENALIDADES : SEU PERSONAGEM NÃO PODEM USAR MANOBRAS QUE UTILIZEM AS MÃOS, (EXCETO BLOQUEIO). NOME : MACACO RESTRIÇÃO : BANDÔ OU KUNG FU 45/45, BLOQUEIO, ATAQUE CONSTRITIVO E RASTEIRA. PONTOS DE TÉCNICA : 20 PTS. DES...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-chi-yang-21",
+      "name": "CHI YANG",
+      "category": "combat",
+      "pages": [
+        [
+          21,
+          23
+        ]
+      ],
+      "summary": "CHI YANG O chi yang também conhecido como Chi Escarlate, a energia yang é ligada ao fluxo da vida, as coisas vivas, as capacidades do espirito e as tendências benignas e caóticas do cosmo. Os poderes do chi Yang, são ligados ao controle dos seres (coisas vivas) e aos poderes do espirito, lidando sempre com as habilidades mentais, (Atributos Mentais do person...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-sobre-tecnicas-simultaneas-24",
+      "name": "SOBRE TÉCNICAS SIMULTÂNEAS",
+      "category": "core_rule",
+      "pages": [
+        [
+          24,
+          45
+        ]
+      ],
+      "summary": "SOBRE TÉCNICAS SIMULTÂNEAS: Apesar de não ter ficado tão explícito, as Técnicas se dividem basicamente em 5 tipos: ataques, complementos para ataques, apoio, defesas e complementos para defesas. Uma Técnica de Ataque pode ser realizada em conjunto com qualquer número de Técnicas de Complemento para Ataque e Apoio (com a sugestão de restrição vista em Técnica...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-kuchiyose-kimera-46",
+      "name": "Kuchiyose • Kimera",
+      "category": "combat",
+      "pages": [
+        [
+          46,
+          73
+        ]
+      ],
+      "summary": "Kuchiyose • Kimera (Invocação • Quimeras)Quem usa: Hiruko do 3 Filme do Naruto Shippuden,Ichi,Ni e San.Rank: -Primeira aparição: Naruto Naruto Shippuden:Herdeiros da Vontade do Fogo.Selos: Lebre → cavalo → boi .Descrição: Hiruko e seus comparsas invocam criaturas horrendas modificadas geneticamente e unidas com dna de outras criaturas.Além de ser horrenda e...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-suna-otori-74",
+      "name": "Suna Otori",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          74,
+          77
+        ]
+      ],
+      "summary": "Suna Otori Rank: D. Uma técnica que cria um escudo vazio na forma do usuário para proteger o próprio de ataques. Confere um adicional em IP de + 4 ao custo de 2 pontos de chi. Suna Shunshin no Jutsu Rank: C. Uma técnica especial que cria um casulo de areia que envolve o usuário para defesa. O escudo é considerado ser impenetrável e é capaz de ataques defensi...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-rank-a-78",
+      "name": "Rank: A",
+      "category": "combat",
+      "pages": [
+        [
+          78,
+          107
+        ]
+      ],
+      "summary": "Rank: A Descrição: Esse é um jutsu médico de múltiplos propósitos, utilizado por ninjas médicos para curar ferimentos e fazer cirugias. O usuário concentra chakra nas mãos e aplica sobre a ferida, acelerando a regeneração da células. Para outros propósitos, como o de cirugias, o usuário do jutsu concenta o chakra em suas mãos como se fossem lâminas de chakra...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-editar-outras-kekkei-genkai-108",
+      "name": "[editar]Outras Kekkei Genkai",
+      "category": "kit_class",
+      "pages": [
+        108
+      ],
+      "summary": "[editar]Outras Kekkei Genkai São as linhagens sangüineas avançadas que não possuem uma classificação específica. [editar]Kurama Ichizoku Kekkei Genkai (Linhagem Sangüínea Avançada do Clã Kurama)Quem usa: Yakumo KuramaRank: -Jutsus que se executa: Qualquer genjutsuDescrição: Algumas gerações de membros do Clã Kurama nasceram com o incrível talento para Genjus...",
+      "entityRefs": []
+    },
+    {
+      "id": "kits-orientais-editar-magen-jubaku-satsu-109",
+      "name": "[editar]Magen • Jubaku Satsu",
+      "category": "kit_class",
+      "pages": [
+        [
+          109,
+          123
+        ]
+      ],
+      "summary": "[editar]Magen • Jubaku Satsu (Ilusão Demoníaca • Aprisionamento da Árvore Assassina)Quem usa: Yuuhi Kurenai'Nota: Não é um Doujutsu.Selos:Cavalo, Cobra, Coelho, Cachorro, TigreDescrição: O ninja desaparece. Um dos genjutsus que foram repassados desde tempos antigos na Vila Oculta da Folha. O alvo é completamente privado de sua mobilidade, ao ver uma miragem...",
+      "entityRefs": []
+    }
+  ]
+}

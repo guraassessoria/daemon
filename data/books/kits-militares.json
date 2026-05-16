@@ -1,0 +1,24 @@
+{
+  "source": "kits-militares",
+  "title": "Kits Militares",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "item_equipment",
+    "character_option",
+    "kit_class",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "kits-militares-kits-militares-1",
+      "name": "Kits Militares",
+      "category": "item_equipment",
+      "pages": [
+        1
+      ],
+      "summary": "Kits Militares Sistema Daemon By André Mousinho Numa guerra, soldados são soldados. Todos, sem exceção, terão algum conhecimento bélico e relacionado à estratégia militar. Todos saberão lutar, todos perceberão a importância de suas ações para a concretização da vitória. Mas eles podem assumir diferentes funções no palco de ações. Estas aplicações você vê nos...",
+      "entityRefs": []
+    }
+  ]
+}

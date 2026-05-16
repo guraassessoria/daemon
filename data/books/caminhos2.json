@@ -1,0 +1,136 @@
+{
+  "source": "caminhos2",
+  "title": "Caminhos2",
+  "status": "full-read-auto-pass-1",
+  "pages": 18,
+  "primaryCategories": [
+    "combat",
+    "power_magic",
+    "item_equipment",
+    "creature_npc"
+  ],
+  "parts": [
+    {
+      "id": "caminhos2-os-caminhos-1",
+      "name": "OS CAMINHOS",
+      "category": "power_magic",
+      "pages": [
+        1
+      ],
+      "summary": "OS CAMINHOS SECUNDÁRIOS (Por George``Bin Laden``) No livro de Trevas terceira edição,há apenas um pequeno texto sobre os caminhos secundários.Como sei que muitos jogadores ficam sem saber o que fazer por falta de um guia, como há para os caminhos primários,resolvi desenvolver os caminhos secundários.Os caminhos aqui citados são os que estão no livro de Treva...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-segundo-circulo-2",
+      "name": "Segundo Círculo",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Segundo Círculo Entender-O mago pode distinguir de longe pedras vulcânicas,mesmo que estas estejam misturadas a outras.Pode determinar qual vulcão originou a pedra vulcânica. Criar-Pode aumentar a temperatura de uma pedra do tamanho de um punho até torná-la incandescente,e faze-la explodir,causando 2d6 num raio de 1m. Controlar-O mago literalmente anda em br...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-e-cinzas-3",
+      "name": "E Cinzas",
+      "category": "kit_class",
+      "pages": [
+        3
+      ],
+      "summary": "E Cinzas (Fogo + Trevas) O Fogo Negro,a chama escura é o fogo que arde sem aparecer.Com ele,pode-se aquecer um acampamento a noite sem perigo de se alertar o inimigo.Pode-se conjurar chamas escuras,e queimar um inimigo sem que ao menos ele perceba.Também é o caminho das Cinzas que sobram após um incêndio que podem sufocar e revelar monstros invisíveis.Magos...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-quinto-circulo-4",
+      "name": "Quinto Círculo",
+      "category": "power_magic",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Quinto Círculo Entender-Segurando as cinzas,o mago pode saber a espécie exata do animal,o tipo de criatura(humano,demônio,vampiro,etc),assim como seu nome. Criar-Cria ou extingui uma chama negra do tamanho de uma casa,que escurece uma área de 10x10m,ou deixa uma área de 3x3m escura como nanquim. Controlar-Molda uma chama negra do tamanho de uma casa.O mago p...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-segundo-circulo-6",
+      "name": "Segundo Círculo",
+      "category": "attribute_skill",
+      "pages": [
+        6
+      ],
+      "summary": "Segundo Círculo Entender-O mago não tem problemas respiratórios com a fumaça.Pode mesclar-se parcialmente a fumaça,tornando-se quase imperceptível.Pode saber de onde vem a fumaça(estando dentro dela) Criar-Cria fumaça clara ou escura.Pode fazer com que uma chama produza mais fumaça que o normal. Controlar-Pode fazer com que uma chama não produza fumaça.Pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-relampagos-7",
+      "name": "Relâmpagos",
+      "category": "power_magic",
+      "pages": [
+        [
+          7,
+          11
+        ]
+      ],
+      "summary": "Relâmpagos (Luz + Ar) O poder destrutivo dos relâmpagos.A destruição dos raios,o barulho ensurdecedor dos trovões.Qual mago não respeita o poder de um inimigo que controla a eletricidade?Com este caminho,o mago passa a ter domínio sobre os raios.Com este poder,o mago pode gerar desde pequenas correntes elétricas em suas mãos até comandar os trovões durante u...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-terceiro-circulo-12",
+      "name": "Terceiro Círculo",
+      "category": "combat",
+      "pages": [
+        12
+      ],
+      "summary": "Terceiro Círculo Entender-Pode enxergar através de paredes de 1m de espessura.O mago pode fazer pequenos efeitos magnéticos. Criar-Pode criar uma espada de safira,que causa 3d6 de dano.Pode criar um escudo de cristal,que confere IP 3. Controlar-O mago pode transformar aço em cristal frágil.Pode transformar seu braço numa espada de safira ou aço,que causa 3d6...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-primeiro-circulo-13",
+      "name": "Primeiro Círculo",
+      "category": "power_magic",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "Primeiro Círculo Entender-Os olhos do mago não se incomodam com a lama.O mago pode andar na lama sem sujar os pés ou deixar pegadas.Pode sentir propriedades da lama apenas tocando-a. Criar-Enche um pequeno balde de lama,que pode ter uma temperatura baixa ou alta,mas não o suficiente para causar dano. Controlar-Pode colocar as mãos na lama sem suja-las.Pode a...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-quarto-circulo-15",
+      "name": "Quarto Círculo",
+      "category": "power_magic",
+      "pages": [
+        15
+      ],
+      "summary": "Quarto Círculo Entender-Num raio de 3m do mago,materiais de ferro se enferrujam(e tudo o que estiver dentro dos objetos se estragam),a não ser o ferro puro,sem nenhuma liga. Criar-Pode enferrujar todo um carro(estragando tudo o que estiver dentro dele).Pode criar pó suficiente para encobrir uma vítima. Controlar-O mago pode acelerar ou retardar o processo de...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-segundo-circulo-16",
+      "name": "Segundo Círculo",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "Segundo Círculo Entender-O mago dobra o tempo em que consegue ficar sem ar.O mago não produz odores. Criar-Pode criar uma esfera de vácuo suficiente para matar pequenos e médios animais(cachorro,gato,coelhos,etc)ou apagar fogueiras em alguns segundos. Controlar-O mago pode puxar o ar e a luz para si num raio de 3m,ganhando +2 em Força,fazendo uma área de vác...",
+      "entityRefs": []
+    },
+    {
+      "id": "caminhos2-venenos-e-17",
+      "name": "Venenos e",
+      "category": "core_rule",
+      "pages": [
+        [
+          17,
+          18
+        ]
+      ],
+      "summary": "Venenos e Ácidos (Água + Trevas) Os caminhos que lidam com venenos e ácidos são muito perigosos de serem trilhados,porém mais perigoso ainda se forem enfrentados.Magos que lidam com o caminho dos Venenos e Ácidos podem assassinar um inimigo apenas envenenando seu sangue ou comida,e ao mesmo tempo são imunes a qualquer tipo de veneno ou ácido.O mago pode tran...",
+      "entityRefs": []
+    }
+  ]
+}

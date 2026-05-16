@@ -1,0 +1,1076 @@
+{
+  "source": "daemon-anime-rpg",
+  "title": "Daemon - Anime RPG",
+  "status": "full-read-auto-pass-1",
+  "pages": 126,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "combat",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "daemon-anime-rpg-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-dae111on-editora-2",
+      "name": "Dae111on Editora",
+      "category": "core_rule",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "Dae111on Editora www.dae111on.co111.br Luciana Baccl Marcelo Dei Debbla e111ail: dae111on@dae111on.co111.br Criação: Luciana l3acci, Marcelo Del Debbio Desenvolvimento: Luciana Bacci, Marcelo Del Debbio Revisão: Fabrício GiZmo Capa: Yes Cabrita Programação Visual: Marcelo Del Debbio, Luka-chan Diagramação: Daemon Editora Impressão: Quebecor World Distribuída...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-lndice-5",
+      "name": "lndice",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "lndice Marte À307AO S Conceitos Básicos li Criação de Per!Jonagens B Kits Ili Atributos Àli Aprimoramentos ÀB Aprimoramentos Negativos 40 Perícias 41i Pontos Heróicos liO Equipamentos liÀ Cibernéticos lili Mechas 71i Dano Localizado BB Monstros de Bolso !10 Magia !Ili Regras e Te!ite!i 100 Experiência 114 Possibilidades Infinitas... l Ili",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ma1-le-i-307-ad-6",
+      "name": "Ma1 le, i!307 AD",
+      "category": "core_rule",
+      "pages": [
+        6
+      ],
+      "summary": "Ma1 le, i!307 AD O ano de 2307 não foi um bom ano para os Representantes do Governo T emstre.Além das crescentes rewltas que exi;jam a resolução definitim do centenário problema da superpopulaçlW do planeta, soldados tiveram de ser enviados às pressas para tentar conter as crescentes rebeliões em PhoÚJ (Phobos Colof!Y). Como todos sabem, Phobos é a maior das...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-conceito-baico-7",
+      "name": "Conceito• Bá•ico•",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "summary": "Conceito• Bá•ico• Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. ANIME não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que você pode não estar familiarizado. Esses conceitos e termos são tratados neste capítulo. Personagem: antes de c...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-atributos-9",
+      "name": "Atributos",
+      "category": "attribute_skill",
+      "pages": [
+        9
+      ],
+      "summary": "Atributos Os atributos são explicados detalhadamente nas páginas 26 e 27, mas a parte de Criação de Personagens (páginas 9 a 15) mostrará os limites a serem seguidos. Valores Cabeçalho São as características básicas do Personagem. Pro­ cure responder às perguntas nas páginas 1 O a 11 para completar esta parte da ficha. Sexo __ Altura __ Peso __ dade: Aparent...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-criacao-de-10",
+      "name": "Criação de",
+      "category": "core_rule",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "summary": "Criação de Per•anagen1 D Co1neço Antes de mais nada, um aviso que talvez vá deixá-lo chocado: seu Personagem não existe. Ele é fictício, irreal, inexistente. Tão destituído de substância quanto Indiana Jones, o Homem-Aranha ou o capitão Kirk. Mesmo que seja baseado em uma pessoa real, ele não passa de uma cópia imaginária. E já que o Personagem não existe, v...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-fahjilia-12",
+      "name": "FaHJília",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          12,
+          13
+        ]
+      ],
+      "summary": "FaHJília 1: Onde seu Personagem nasceu e cresceu? 2. Quem são seus pais? Como se chamam? 3. Ele tem irmãos? Quantos? No que trabalham? 4. Qual a relação dele com sua familia? 5. Descreva em poucas palavras a infância de seu Personagem. 6. Como foi a escola/ faculdade de seu Personagem? Profissão 1. Por que ele escolheu esta profissão? 2. Como foi sua trajetó...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-pontos-de-pericias-14",
+      "name": "Pontos de Perícias",
+      "category": "attribute_skill",
+      "pages": [
+        14
+      ],
+      "summary": "Pontos de Perícias Aqui você deve decidir o que seu Personagem sabe fazer. Perícias são compradas com pontos de perícia, ao custo de um ponto para cada ponto percentual. A quantidade de pontos depende da Inteligência, idade e nível (quanto mais uma pessoa viveu, mais coisas ela conhece). Não adianta escolher idades avançadas apenàs para ganhar mais pontos; v...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-acrescente-os-extra-f-15",
+      "name": "Acrescente os \"Extra!!f\"",
+      "category": "attribute_skill",
+      "pages": [
+        15
+      ],
+      "summary": "Acrescente os \"Extra!!f\" São considerados \"extras\" coisas como Poderes Angelicais, Poderes Demoníacos, Pode­ res Vampíricos, Poderes Mágicos, Mechas, Naves Espaciais, Monstros de Bolso, Equipamen­ tos Especiais e Únicos, Poderes Psíquicos, Raios Energéticos, Cibernéticos e qualquer coisa que não for normal ou que for única nos Personagens. TODOS os \"extras\"...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-youta-nozaki-16",
+      "name": "Youta Nozaki",
+      "category": "attribute_skill",
+      "pages": [
+        16
+      ],
+      "summary": "Youta Nozaki Campanha: Marte, 2307 AD Nível: 1 º Nível Tipo de Sangue: AB Pontos de Vida: 17 + 3 (PHs) Atributos CON 16 (64%), FR 15 (60%), DEX 13 (52%), AGI 14 (56%), INT 11 (44%), WILL 15 (60%), PER 14 (56%), CAR 12 (48%). Perícias Armas de Fogo - Pistolas Atributo Total - Escopetas - Rifles Armas Brancas - Espada - Tonfa - Bastão - Corrente - Lança - Faca...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-kit-17",
+      "name": "Kit•",
+      "category": "attribute_skill",
+      "pages": [
+        17
+      ],
+      "summary": "Kit• Um kit é um conjunto pronto de aprimoramentos e perícias que facilita a sua vida na hora de montar um Personagem. Ele serve para desenvolver conceitos e auxiliar os jogadores a escolher melhor suas perícias e aprimoramentos. Se você quiser criar um kit novo, proceda da seguinte maneira: um kit é uma profissão conhecida na qual todos os profissionais que...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-artita-18",
+      "name": "Arti§ta",
+      "category": "core_rule",
+      "pages": [
+        18
+      ],
+      "summary": "Arti§ta Um artista pode ser um ator, desenhista, escultor, dançarino ou especialista em arte performática. O termo \"artista\" possui uma gama muito variada de possibilidades que podem ser exploradas pelos Jogadores. Personagens artistas viajam o mundo com suas apresentações ou exposições e conhecem muita gente diferente, mantendo vários contatos. Ator Custo:...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-lutador-de-capoeira-19",
+      "name": "Lutador de Capoeira",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Lutador de Capoeira Custo: 2 pontos de aprimoramento, 65 pontos de perícia. Perícias: Artes Marciais (Capoeira) 20/20, Acrobacias 30%, Esquiva 30%, Manobras de Com­ bate (Manobras para Impressionar). Aprimoramentos: Contatos 1, Pontos Heróicos 3. Lutador de Jiu-Jitsu Custo: 3 pontos de aprimoramentos, 80 pontos de pericia. Perícias: Artes Marciais Giu-jitsu)...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-atleta-20",
+      "name": "Atleta",
+      "category": "item_equipment",
+      "pages": [
+        20
+      ],
+      "summary": "Atleta Atletas são profissionais· que vivem de determinado esporte, no qual são ex­ cepcionais. Muitos possuem legiões de fãs e admiradores que assistem a todos os eventos nos quais ele participa (inclui também pilotos de corrida e jogadores de times famosos). Custo: 3 pontos de aprimoramentos, 125 pontos de perícia Perícias: esporte (escolha qual 50%), Mani...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-criniinoso-21",
+      "name": "Criniinoso",
+      "category": "item_equipment",
+      "pages": [
+        21
+      ],
+      "summary": "Criniinoso Um Personagem criminoso pode ser um ladrão, assaltante, traficante (de drogas, armas ou pessoas), estelionatário, contrabandistas ou assassinos (ou pertencer a mais de uma dessas classes). Pode agir sozinho ou em quadrilhas, em benefício próprio ou como contratado por algum tipo de patrocinador. Personagens criminosos são procurados pela policia e...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-e-ipiao-22",
+      "name": "E!!!ipião",
+      "category": "combat",
+      "pages": [
+        22
+      ],
+      "summary": "E!!!ipião Um espião é um agente treinado por um governo para realizar missões secretas para ele. Pode também trabalhar para alguma orga­ nização extra-oficial ou paramilitar secreta. Se ele for capturado, a organização irá negar toda e qualquer ligação com o personagem Custo: 3 pontos de aprimoramento, 260 pontos de perícia. Perícias: Armas de Fogo (escolher...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-hacker-23",
+      "name": "Hacker",
+      "category": "power_magic",
+      "pages": [
+        23
+      ],
+      "summary": "Hacker Um hacker é um especialista em tecnologia. Ele domina a linguagem dos computadores e dos programas, utilizando seus conhecimentos para burlar códigos de segurança, espionar pessoas ou investigar redes de empresas. Hackers podem agir sozinhos pelo prazer do desafio ou serem contratados para realizar serviços nessa área. Custo: 2 pontos de aprimoramento...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-me1nbro-de-gangue-24",
+      "name": "Me1nbro de Gangue",
+      "category": "item_equipment",
+      "pages": [
+        [
+          24,
+          25
+        ]
+      ],
+      "summary": "Me1nbro de Gangue Custo: 2 pontos de aprimoramento e 170 pontos de perícia. Pericias: Armas de Fogo (escolha duas em 40%), Armas Brancas (escolha duas em 30/30), Manipulação (Intimidação 10%, Interrogatório 10%, Lábia 10%, Manha 10%, Tortura 10%) Aprimoramentos: Patrono, Pontos Heróicos 3 Aprimoramento Negaúvo: Inimigo (Polícia), Má-Fama. Missionário Um miss...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-o-dado-26",
+      "name": "§o/dado",
+      "category": "creature_npc",
+      "pages": [
+        26
+      ],
+      "summary": "§o/dado É um profissional militar que atua no exército oficial de uma nação. O soldado recebe treinamento para combate e resgates sob uma rígida disciplina marcial. Entra em ação apenas quando seu país está envolvido em guerra ou conflitos com inimigos estrangeiros (dentro ou fora de seu território). O tipo de Campanha de Anime mais comum com soldados é em b...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-atributo-27",
+      "name": "Atributo•",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "summary": "Atributo• Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros, a cria­ turas e até a alguns objetos. Os atributos apresentados aqui são com­ patíveis com ARKANUN, TREVAS, IMOR­ TAL, INVASÃO, ANJOS, DEMÔNIOS e VAMPIROS bem como com todos os RPGs lançados p...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-aprid1aran1enta-29",
+      "name": "ApriD1aran1enta•",
+      "category": "creature_npc",
+      "pages": [
+        29
+      ],
+      "summary": "ApriD1aran1enta• Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa uma quantidade de pontos determinada pelo tipo de Campanha (geralmente entre 4 e 10 pontos) e o Jogador pode gastá-los como desejar. Esses pontos não pod...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-alma-pura-30",
+      "name": "Alma Pura",
+      "category": "combat",
+      "pages": [
+        30
+      ],
+      "summary": "Alma Pura 2 pontos: Nenhum demônio é capaz de chegar perto de seu Personagem, muito menos tocá-lo ou atacá-lo (física ou mentalmente) enquanto o Personagem mantiver sua alma limpa (sem nenhum pecado). O demônio pode permanecer na mesma sala que o Personagem ou dialogar com ele; porém, será incapaz de atacá-lo. Caso o Personagem quebre algum dos dez mandament...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-biblioteca-31",
+      "name": "Biblioteca",
+      "category": "attribute_skill",
+      "pages": [
+        31
+      ],
+      "summary": "Biblioteca O Personagem possui uma vasta biblioteca em seu refúgio, recebi­ da como herança de seu mentor, roubada, adquirida, ou até criada por ele mesmo em seus bons tempos de aprendiz. Se o Personagem estiver em condições de consultá-la, a biblioteca aumentará os conhecimentos do Personagem em alguns assuntos. Uma biblioteca possui apenas co­ nhecimentos...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-contatos-e-aliados-32",
+      "name": "Contatos e Aliados",
+      "category": "core_rule",
+      "pages": [
+        32
+      ],
+      "summary": "Contatos e Aliados Cada ponto de Contato equivale a alguns pequenos contatos (o Jogador deve especificar quais, dentro das áreas abaixo) ou a um contato importante (um NPC), de acordo com os pontos gastos. Cada subgrupo deve ser comprado separadamente. 1 ponto: um aliado importante. 2 pontos: dois aliados importantes. 3 pontos: quatro aliados importantes. 4...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-expert-em-armas-de-fogo-33",
+      "name": "Expert em Armas de Fogo",
+      "category": "creature_npc",
+      "pages": [
+        33
+      ],
+      "summary": "Expert em Armas de Fogo O personagem possui um talento natural para armas de fogo em geral. Normalmente, o Personagem não treina estas perícias, apenas possui um domínio natural sobre elas. Quando escolhe este aprimoramento, o Jogador marca na ficha de seu Personagem as perícias nas quais ele é um expert e, conforme vai avançando em níveis, as perícias escol...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-far111a-alternatil-a-34",
+      "name": "Far111a Alternatil/a",
+      "category": "item_equipment",
+      "pages": [
+        34
+      ],
+      "summary": "Far111a Alternatil/a 2 pontos: Seu Personagem possui duas formas diferentes (construídas separadamente, mas cada um deles possui este aprimoramento) que se temam em determinadas circunstâncias. A explicação para esta segunda forma e seus poderes deve ser explicada detalhadamente. Fúria Fe111inina (apenas para Personagens mulheres) 1 ponto: Quando a personag...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-l111unidade-a-veneno-f-35",
+      "name": "l111unidade a Veneno!f",
+      "category": "core_rule",
+      "pages": [
+        35
+      ],
+      "summary": "l111unidade a Veneno!f 2 pontos: seu Personagem nasceu imune a venenos naturais e recebe um bônus de 1D contra venenos mágicos ou artificiais. 3 pontos: além dos naturais, seu Personagem também possui imunidade a venenos artificiais, criados através de poções e alquimia. Também possui 2D de proteção contra venenos mágicos. Deve ser explicado no Background. I...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-memoria-expandida-36",
+      "name": "Memória Expandida",
+      "category": "creature_npc",
+      "pages": [
+        36
+      ],
+      "summary": "Memória Expandida 2 pontos: sua memória é infalível e gigantesca. Pode lembrar cenas, gestos, sons e odores perfeitamente. Se personagem é capaz até de imitar algum perícia que tenha visto alguém executar (até o limite de 25%), mesmo que nunca tenha feito nada parecido antes. Mestre 1 ponto: seu Personagem ainda possui contato com a pessoa que lhe ensinou tu...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-patrono-37",
+      "name": "Patrono",
+      "category": "item_equipment",
+      "pages": [
+        37
+      ],
+      "summary": "Patrono 2 pontos: seu Personagem trabalha para alguma organização muito rica: uma corporação, uma empresa gigantesca, a polícia, o governo, rebeldes, etc. Isso significa que eles podem pagar transporte, estadia, equipamentos e armas para seu Personagem quando ele está em missão. Eventualmente, pode até enviar missões de ajuda ou resgate para o Personagem. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-poderes-magico-38",
+      "name": "Poderes Mágico!§",
+      "category": "power_magic",
+      "pages": [
+        38
+      ],
+      "summary": "Poderes Mágico!§ Obrigatório para Personagens magos. 1 ponto: aprendiz. Possui alguns conhecimentos de efeitos de Magia. Possui 2 pontos de Focus para dividir entre os Caminhos que desejar. Começa o jogo com 1 ponto de Magia. 2 pontos: mago. Pratica as artes arcanas há algum tempo. Começa o jogo com 3 pontos de Focus e 2 pontos de Magia. 3 pontos: mago desen...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-iabio-39",
+      "name": "!iábio",
+      "category": "core_rule",
+      "pages": [
+        39
+      ],
+      "summary": "!iábio Recursos e Dinheiro É quanto de dinheiro, jóias e posses seu Personagem conseguiu reunir ao longo de s eus anos de vida. Inclui propriedades e outras fontes de renda que levam tempo até serem conver tidas em dinheiro. Os valores a seguir são fornecidos em dólares (época moderna), devendo ser ajustados relativamente de acordo com a época e local da· Ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ienso-de-direcao-40",
+      "name": "!ienso de Direção",
+      "category": "core_rule",
+      "pages": [
+        [
+          40,
+          41
+        ]
+      ],
+      "summary": "!ienso de Direção 1 ponto: seu Personagem sabe se orientar, mesmo sem bases visuais - ele não precisa de bússola, do Sol, estrelas ou outros pontos de referência para saber onde ficam os pontos cardeais. Sempre será capaz de lembrar-se de um caminho que tenha percorrido. !ienso Nu111érico 1 ponto: o Personagem é capaz de contar imediatamente grande quantidad...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-assombrado-42",
+      "name": "Assombrado",
+      "category": "core_rule",
+      "pages": [
+        42
+      ],
+      "summary": "Assombrado -1 ponto: por algum motivo, pessoas mortas que o Personagem conheceu em vida retornam como espíritos para assombrá-lo. Podem ficar por perto e, em alguns casos, conversar com ele. Alguns espíritos apresentam formas assustadoras, decompondo-se lentamente, noite após noite, em sua presença. Muitos fazem perguntas do tipo \"por que você me matou?\" ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-det-eito-fi-iico-43",
+      "name": "Det'eito Fí!!iico",
+      "category": "attribute_skill",
+      "pages": [
+        43
+      ],
+      "summary": "Det'eito Fí!!iico Se o defeito físico for corrigido por meio de cibernéticos, o Per­ sonagem perde o direito aos pontos negativos de aprimoramento. -1 ponto: seu Personagem não tem um olho. Ele não consegue julgar profundidades e todos os seus Testes de PER envolvendo visão são considerados DIFÍCEIS. -1 ponto: mudo. Seu Personagem não é capaz de proferir ne­...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ferra-fria-44",
+      "name": "Ferra Fria",
+      "category": "combat",
+      "pages": [
+        44
+      ],
+      "summary": "Ferra Fria -2 pontos: o ferro frio se opõe às coisas mágicas; seu Personagem é altarpente vul­ nerável ao toque do ferro frio - uma esp'ê­ cie de \"alergia mágica\". Basta um toque para que uma vermelhidão intensa apareça em sua pele. Exposição prolongada causa bo­ lhas muito dolorosas (dano 1d6 por roda­ da). Desnecessário dizer que usar armas e armaduras met...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-mal-entendidos-45",
+      "name": "Mal Entendidos",
+      "category": "attribute_skill",
+      "pages": [
+        45
+      ],
+      "summary": "Mal Entendidos - 1 ponto: em Animes que não envolvam muitos combates, o mal entendido funcionará apenas na criação de diversos erros, besteiras e mal-entendidos que colocarão seu Personagem sempre em problemas embaraçosos. Recomenda-se que o Mestre só autorize Jogadores experientes a pegar este aprimoramento, por que se o Jogador não fizer um role-plqy satis...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-pervertido-iexual-46",
+      "name": "Pervertido !!iexual",
+      "category": "power_magic",
+      "pages": [
+        46
+      ],
+      "summary": "Pervertido !!iexual -1 a -3 pontos: o Personagem gosta de fazer sexo de forma ... não-convencional. Algumas perverções são fantasias inofensi­ vas, como filmar ou fotografar o ato, vestir roupas do sexo oposto ou fazer amor em lugares públicos. Outras, mais pesadas, po­ dem envolver objetos estranhos, algemas, chicotes, sexo com animais e assim por di­ ante....",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-pericia-47",
+      "name": "Pericia•",
+      "category": "attribute_skill",
+      "pages": [
+        47
+      ],
+      "summary": "Pericia• Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de perícias ele terá para gastar. Esses pontos de perícias podem ser gastos com quaisquer perícias deste capítulo, mas sempre com a aprovação do Mestre. Pontos de Perícia...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-voce-e-me-imd-bo111-48",
+      "name": "Você é ME!iMD bo111 ?",
+      "category": "combat",
+      "pages": [
+        48
+      ],
+      "summary": "Você é ME!iMD bo111 ? O quadro seguinte mostra que valor um Personagem deve possuir em uma perícia para ser competente em . cada atividade. Podem parecer valores baixos à primeira vista, mas na maioria das vezes você vai testar a perícia contra o dobro desse valor. As vezes, o valor de Teste pode ultrapassar 1 00% - mas qualquer resultado acima de 95% será S...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-anna-i-de-fogo-dex-49",
+      "name": "Anna.!i de Fogo* (DEX]",
+      "category": "item_equipment",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "summary": "Anna.!i de Fogo* (DEX] É a habilidade de usar pistolas, rifles, metralhadoras, canhões e armas similares. Um sucesso no Teste desta perícia indica que o disparo atingiu o alvo visado. Esta perícia também permite que o Personagem faça a manutenção adequada de uma arma, limpando-a e mantendo-a em bom funciona­ mento, mas não permite que ele a conserte se algum...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-camut-lagem-per-51",
+      "name": "Camut'lagem {PER}",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          51,
+          52
+        ]
+      ],
+      "summary": "Camut'lagem {PER} Permite ao Personagem esconder-se ou esconder pessoas em falsos compartimentos, esconderijos ou coberturas especiais. Um Teste de perícia bem-sucedido esconde o Personagem de alguém que não o esteja procurando. Se ele estiver sendo procurado, faça um Teste de perícia Camuflagem vs. Perícia Procura. Ciências* [INTJ Uma ciência é um grupo de...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-importante-a-menos-que-seu-53",
+      "name": "IMPORTANTE: A menos que seu",
+      "category": "power_magic",
+      "pages": [
+        53
+      ],
+      "summary": "IMPORTANTE: A menos que seu Personagem tenha um background fortíssimo com relação ao sobrenatural, esta perícia e seus subgrupos não podem ser compradas com pontos de perícia durante a criação do Personagem. Pode ser conseguida apenas com certas vantagens do capítulo aprimo- ramentos, ou através de pontos de perícia ganhos com aumento de nível. Alquimia: ciê...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-conducao-agi-54",
+      "name": "Condução\"' [AGI]",
+      "category": "combat",
+      "pages": [
+        [
+          54,
+          55
+        ]
+      ],
+      "summary": "Condução\"' [AGI] O Personagem sabe conduzir um determinado tipo de veículo. Cada tipo de veículo é considerado um subgrupo da perícia. Pilotagem, Condução e Navegação estão agrupadas em uma mesma perícia. Dirigir em velocidade média, em ruas asfaltadas, é uma tarefa fácil, testada com o dobro da porcentagem normal. Dirigir em estradas esburacadas e/ou em alt...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-falsit-icacao-intj-56",
+      "name": "Falsit'icação* (INTJ",
+      "category": "race_lineage",
+      "pages": [
+        56
+      ],
+      "summary": "Falsit'icação* (INTJ Técnica usada para criar cópias convincentes de cartas, documentos, obras de arte e demais objetos. Falsificações de documentos exigem que o Personagem tenha pelo menos 30% em Redação e também no idioma utilizado. Para falsificar obras de arte o Personagem deve ter no mínimo 30% na perícia de Artes correspondente (Desenho e Pintura, Escu...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-nror111atica-dj-57",
+      "name": "/nror111ática* (DJ",
+      "category": "core_rule",
+      "pages": [
+        [
+          57,
+          58
+        ]
+      ],
+      "summary": "/nror111ática* (DJ Computação: é a habilidade de operar um computador. Acessar bancos de dados e lidar com programas é uma tarefa fácil, programar algo simples é uma tarefa Normal e trabalhar com programas gráficos avançados é uma tarefa Difícil. Internet (O): a arte de se pesquisar algo que preste dentro da net. Cada ação leva 1d6x10 minutos para ser comple...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-mineracao-o-59",
+      "name": "Mineração* [O}",
+      "category": "item_equipment",
+      "pages": [
+        59
+      ],
+      "summary": "Mineração* [O} Esta perícia dá ao Personagem os conhecimentos necessários para obter minérios (ouro, prata, cobre, ferro, carvão) ou pedras preciosas. Isto é, encontrar um local onde se possa explorar algo ou executar a mineração em si sem virar parte do minério (evitar acidentes e soterramentos). O Mestre deve pré-determinar se e onde existe algum material...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ratreia-per-60",
+      "name": "Ra§treia (PER}",
+      "category": "item_equipment",
+      "pages": [
+        [
+          60,
+          62
+        ]
+      ],
+      "summary": "Ra§treia (PER} Esta é a habilidade de encontrar e seguir pistas e pegadas. Para que uma pista seja seguida, é preciso que a pessoa, criatura ou veículo sendo seguido deixe uma pista: discos voadores, por exemplo, não deixam pistas! Rastrear em trilhas de barro, areia ou alguém arrastando algo é fácil (dobro da porcentagem normal); rastrear em terra batida, g...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-equipan1enta-63",
+      "name": "Equipan1enta•",
+      "category": "item_equipment",
+      "pages": [
+        63
+      ],
+      "summary": "Equipan1enta• Dinheiro De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Personage...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-epoca-moderna-64",
+      "name": "Época Moderna",
+      "category": "item_equipment",
+      "pages": [
+        64
+      ],
+      "summary": "Época Moderna Podemos classificar os objetos em comuns, raros e especiais. Os comuns são aqueles que qualquer pessoa pode ter em suas posses e não requerem maiores explicações. São eles: relógio de pulso, caneta, celular, agenda, carteira, comprimidos de remédios comuns e itens assemelhados. Os itens raros são objetos que podem facilmente ser obtidos, mas qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ip-e5pecfl-ica-65",
+      "name": "IP E5pecfl'ica",
+      "category": "combat",
+      "pages": [
+        65
+      ],
+      "summary": "IP E5pecfl'ica Nas armaduras apresentadas, o IP refere-se apenas a danos cinéticos (resultado de golpes) e balísticos (resultado de projéteis). Existem outros tipos de vestimentas apropriadas a outras situações. Estas vestimentas providenciam IP contra determinados tipos de ataques. Neste caso, diz-se que estas roupas possuem IP específico. Exemplos de roupa...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-beretta-m-lif-66",
+      "name": "Beretta M lif!",
+      "category": "core_rule",
+      "pages": [
+        66
+      ],
+      "summary": "Beretta M lif! Munição: 9mm Pente: 20 ou 40 Alcance: 150 m Dano: 1d6 ROF: S C3 Parker Hale Munição: 7.62mm Pente: 3 Alcance: SOOm Dano: 2d6+6 ROF: 1 !iteyrAUEi Munição: 5.56mm Pente: 30 Alcance: 750m Dano: 1d10 ROF: S · Glock if!4 Munição: 9mm Pente: 24 (clip) Alcance: SOm Dano: 1d6+1 ROF: 3 4 MiniUZI Munição: 9mm Pente: 20 ou 30 Alcance: 200m Dano: 1d6+2 RO...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-cibernetica-67",
+      "name": "Cibernética•",
+      "category": "item_equipment",
+      "pages": [
+        67
+      ],
+      "summary": "Cibernética• O que seria dos Animes sem os implantes cibernéticos? Neste capítulo, apresentaremos algumas sugestões de cibernéticos, equipamentos eletrônicos de última geração, implantes e chips insta­ lados na cabeça de seu Personagem, que ele poderá adquirir através do aprimoramento Cibernéticos. Cada objeto apresentado nesta lista possui um valor dado em...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-li-ta-de-cyberware-68",
+      "name": "LI.ta de CyberWare",
+      "category": "core_rule",
+      "pages": [
+        [
+          68,
+          69
+        ]
+      ],
+      "summary": "LI.ta de CyberWare Custo 0,5 Amplificador Auditivo 101: [*]Aumenta Testes de Percepção baseados na audição em 12%. Amplificador Olfativo 101: [*] Aumenta Testes de Percepção baseados no olfato em 12%. Amplificador Táctil 101: [*] Aumenta Testes de Percepção usando o tato em 12%. Beijo: [***] Uma agulha nos lábios com um poderoso veneno (Força 4D [***] ou 6D...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-cu-tto-i-70",
+      "name": "Cu!tto I",
+      "category": "core_rule",
+      "pages": [
+        [
+          70,
+          72
+        ]
+      ],
+      "summary": "Cu!tto I Amplificador Auditivo 201: [*] Aumenta todos os Testes de Percepção baseados na audição em +6 (+24%). Amplificador Olfativo 201: [*] Aumenta todos os Testes de Percepção baseados no olfato em +6 (+24%). Amplificador Táctil 201: [*] Aumenta Testes de Percepção usando o sentido do tato em +6 (+24%). Analisador Químico Waynetech: [*] Funciona até 5m. E...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-cu-ita-3-73",
+      "name": "Cu!!ita 3",
+      "category": "combat",
+      "pages": [
+        [
+          73,
+          74
+        ]
+      ],
+      "summary": "Cu!!ita 3 Amplificador de reações Botrel 2.0 : [***] Adiciona 2d6 para a jogada de Iniciativa. Cyberbraço: [*] Braço de reposição padrão, uma prótese inteligente. DEX 6 e FR 10 usando este braço. Pode acoplar até 4 opções das fornecidas abaixo. Cyberbraço Allen: [**]: Ao invés de ter a forma de uma prótese, este braço imita a pele da criatura inventada por H...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-cm-to-li-75",
+      "name": "Cm.to li",
+      "category": "combat",
+      "pages": [
+        75
+      ],
+      "summary": "Cm.to li Anrigravs [****] Dispositivos antigravitacionais na forma de 16 discos metálicos de 2cm de diâmetro, implantados ao longo da coluna. Permite ao usuário voar com velocidade de até lOm/ s. Braço de Liquidmetal™: [****] Fabricado pelas empresas Cyberdine, inclui o famoso \"metal líquido\" ou nanometal. Possui FR 25 e IP 10. DoisBraços™ versão Deluxe: [**...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-cu-ao-9-76",
+      "name": "Cu!!áo 9",
+      "category": "core_rule",
+      "pages": [
+        [
+          76,
+          77
+        ]
+      ],
+      "summary": "Cu!!áo 9 Enxerto Muscular Plastik™ Urchid: [****] Das Indústrias Pethô: substitui suas fibras musculares por fibras sintéticas bio-compatí­ veis. Aumenta a FR e CON em +9 cada. Possui ainda espinhos retráteis que podem ser ativados para sair por cortes microscópicos feitos na pele (espinhos de até 1 0cm, que causam ld6+1 pontos de dano em combate). Um implan...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-tabela-de-calculo-78",
+      "name": "Tabela de Cálculo",
+      "category": "combat",
+      "pages": [
+        78
+      ],
+      "summary": "Tabela de Cálculo Para facilitar a vida do projetista, a ficha de Mecha vem com a seguinte tabela, para preencher com os valores indicados. Desta forma, basta que você preencha os dados correspondentes e tudo dará certo. Note que você pode arredondar todos os valores resultantes das contas para os números que mais interessarem ao seu Mecha. Se você achar o f...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-matar-79",
+      "name": "Matar",
+      "category": "combat",
+      "pages": [
+        79
+      ],
+      "summary": "Matar Em seguida, precisamos calcular a potência de nossos motores, que serão responsáveis por movimentar nossos Mechas. Para calcular o motor, você precisa primeiro determinar a vdocidade máxima teórica de um Mecha. Um Mecha \"caminha\" a uma vdocidade igual à sua altura, em m/ s, podendo chegar a até o dobro desse valor (em Mechas médios) ou ao ttiplo desse...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-giroscopio-80",
+      "name": "Giroscópio",
+      "category": "combat",
+      "pages": [
+        80
+      ],
+      "summary": "Giroscópio O giroscópio é o instrumento que faz com que o Mecha se equilibre e consiga manter suas funções motoras complexas. É o mecanismo mais delicado e importante do Mecha. Sem ele, o robô perde o equihbrio e toma-se impossível de mantê-lo de pé. Um giroscópio se assemelha a um complicado peão (como aqueles brinquedos de criança, só que com aparelhos que...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-armadura-81",
+      "name": "Armadura",
+      "category": "combat",
+      "pages": [
+        81
+      ],
+      "summary": "Armadura Uma vez escolhidos o motor, giroscópio e cockpit, vamos acres- centar a armadura (o equivalente à carroceria em um carro). O peso para se revestir um Mecha com uma liga metálica semelhante à dos tanques de guerra do século XX é igual ao valor do IP em porcen- tagem do Peso Teórico do Mecha, de acordo com a tabela abaixo: IP Aço Aço Materiais Materia...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-arn1an1enta-82",
+      "name": "Arn1an1enta•",
+      "category": "combat",
+      "pages": [
+        82
+      ],
+      "summary": "Arn1an1enta• Após a construção do mecha propriamente dito, vamos à parte que todos estavam esperando: os armamentos. Neste capítulo for­ necemos os armamentos e defesas mais comuns nos Animes, mas isso não o impede de criar suas próprias armas mortíferas! Punhos Os punhos de um mecha causam dano proporcional ao peso do mecha + Bônus de FR por ataque bem suce...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-mi-i-iei-i-de-curto-alcance-avg-83",
+      "name": "MÍ!!i!!iei!!i de Curto Alcance AVG",
+      "category": "combat",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "summary": "MÍ!!i!!iei!!i de Curto Alcance AVG Mísseis são montados em conjuntos com 2, 4, 6 ou 1 O disparadores, e a cada tiro são disparados todos de uma vez. Os lançadores possuem as seguintes características: Lançador Peso CdT Alcance 2 200kg 2 1 .000m 3 300kg 3 1 . 000m 4 400kg 4 1 .000m 6 600kg 6 1 . 000m 1 0 1 ton 1 0 1 .000m Dano por Míssil (AVG-10) - 20+3d6 Mís...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-campos-de-forca-85",
+      "name": "Campos de Força",
+      "category": "combat",
+      "pages": [
+        85
+      ],
+      "summary": "Campos de Força Os geradores de campos de força funcionam da mesma maneira que as armas lasers, mas projetam campos de partícula ao redor do mecha, capazes de defletir energia. Geradores de campos de força consomem 10UGs por rodada por 1d6 pontos de proteção e pesam 100kg, distribuídos ao redor dos membros do mecha. Cada campo de força providencia uma defesa...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-mi-i-iei-i-bali-itico-i-86",
+      "name": "MÍ!!!i!!!iei!!!i Balí!!!itico!!!i",
+      "category": "combat",
+      "pages": [
+        86
+      ],
+      "summary": "MÍ!!!i!!!iei!!!i Balí!!!itico!!!i Estes mísseis são muito maiores e mais poderosos que os mís­ seis de ataque simples. Normalmente os mechas podem carregar alguns poucos deles e mesmo assim são considerados extremamente perigosos de se usar em combate, pois um acerto crítico no corpo do mecha poderia explodir esses mísseis. OBS: O comprimento do míssil não p...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-equlpa1nenta-87",
+      "name": "Equlpa1nenta•",
+      "category": "item_equipment",
+      "pages": [
+        87
+      ],
+      "summary": "Equlpa1nenta• Além das armas e proteções descritas anteriormente, os mechas também podem ser equipados com diversos módulos extras. Flutuadores Antigravitacionais Aqui estamos entrando na ficção científica, mas para fins de jogo, estudamos os diversos motores de helicópteros reais para comparação. A maioria dos helicópteros militares desen­ volve velocidades...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-velocidade-e-carga-88",
+      "name": "Velocidade e Carga",
+      "category": "core_rule",
+      "pages": [
+        88
+      ],
+      "summary": "Velocidade e Carga Agora precisaremos um pouco de física, mas como você, leitor, é uma pessoa inteligente (afinal, gosta de Anime e está jogando o Siste­ ma Daemon), não deve ter problema nenhum com essa etapa. A Velocidade Máxima é determinada pelo motor. A Carga é determinada pela tabela de FR. A velocidade máxima só pode ser obtida se o mecha estiver desc...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-dana-89",
+      "name": "Dana",
+      "category": "core_rule",
+      "pages": [
+        89
+      ],
+      "summary": "Dana Localizada Corno dividir a Figura humana ? Para propósitos de jogo, a partir de regras simples, dividimos o corpo de uma figura humana em 7 partes (a saber: cabeça, tronco, abdômem, braço direito, braço esquerdo, perna direita e perna es­ querda). Com algumas regras-de-três, chegamos à seguinte divisão aproximada das porcentagens de cada uma destas part...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-i-4-braco-esquerda-90",
+      "name": "I .4 Braço Esquerda",
+      "category": "core_rule",
+      "pages": [
+        90
+      ],
+      "summary": "I .4 Braço Esquerda Em termos de jogo, o atirador que conseguir 40% do valor de seu Teste de perícia acertará o braço esquerdo. O local exato onde a bala acertou é dado pela tabela abaixo: Perícia Br Esq Tronco Abdômem Cabeça Pr Esq 1 0-19% 01 -04 05-06 07-08 09 1 0-* 20-29% 01-08 09-12 1 3-1 6 1 7-1 8 1 9-* 30-39% 01-12 1 1 -18 1 9-24 25-27 28-* 40-49% 01-1...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-tfantra-91",
+      "name": "/tfan•tra•",
+      "category": "character_option",
+      "pages": [
+        91
+      ],
+      "summary": "/tfan•tra• de Bal•a Monstros de Bolso é o nome da regra para criar qualquer tipo de criatura que acompanha nossos heróis. Podem ser Pokemons, Digimons, Cartas Clow, Medabots, Raunch Monsters e qualquer outro tipo de criatura que exista ou que venha a existir. Monstros de Bolso são comprados (originalmente) como pontos de aprimoramentos, mas eventualmente o M...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-armazenando-92",
+      "name": "Armazenando",
+      "category": "creature_npc",
+      "pages": [
+        92
+      ],
+      "summary": "Armazenando Monstros de Bolso Em campanhas onde eles existam, o Mes­ tre deve determinar que tipo de invólucro eles são armazenados. Podem ser cubos roxos, bolas vermelhas e brancas, amuletos, pentagramas, cartas, figurinhas, pergaminhos, bolinhas de gude ou o que mais o Mestre dese­ jar. O custo disso e a facilidade de se encon­ trar/ comprar estes invólucr...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-forca-93",
+      "name": "Força",
+      "category": "attribute_skill",
+      "pages": [
+        93
+      ],
+      "summary": "Força A capacidade de puxar ou empurrar objetos, causar dano com golpes e outras façanhas fisicas. A maioria dos monstros de bolso não é muito forte fisicamente, mas existem algumas cri­ aturas enormes, do tamanho de casas, capazes de estraçalhas os mais fortes aventureiros com suas próprias mãos. O pontos: FR 3. 1 ponto: FR 6. 2 pontos: FR 12 (média humana)...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-garras-94",
+      "name": "Garras",
+      "category": "combat",
+      "pages": [
+        94
+      ],
+      "summary": "Garras Os Monstros de Bolso podem possuir garras para atacar seus oponentes. Elas po­ dem ter qualquer forma possível, como lâ­ minas, garras de tigre, de águia, de dragão, patas de urso ou algo alienígena. O Mestre define qual é o tipo de garras do Monstro. O pontos: dano 1. 1 ponto: dano 1d6. 2 pontos: dano 1d10. 3 pontos: dano 2d6. 4 pontos: dano 3d6. 5 p...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ataques-com-fogo-95",
+      "name": "Ataques com Fogo",
+      "category": "creature_npc",
+      "pages": [
+        95
+      ],
+      "summary": "Ataques com Fogo O Monstro de Bolso pode realizar ataques baseados em fogo, como bafo de dragão, gar­ ras incandescentes, jatos de plasma e outros ataques. O Monstro pode realizar um ataque com fogo a cada 3 rodadas. O pontos: incapaz de atacar. 1 ponto: dano 1d6. 2 pontos: dano 2d6. 3 pontos: dano 3d6. 4 pontos: dano 4d6. E assim por diante ... Ataques com...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-capacidade-de-voar-96",
+      "name": "Capacidade de Voar",
+      "category": "power_magic",
+      "pages": [
+        [
+          96,
+          97
+        ]
+      ],
+      "summary": "Capacidade de Voar O Monstro ou robô é capaz de voar. Pode ter qualquer tipo de clisposítivó para aíudá-lo com isso: podem ser asas de pássa­ ro, de dragão, de morcego, jatos, asas mecâ­ nícas, aparelhos antigravídade, foguetes ou qualquer outro método. O pontos: não voa. 1 pontos: levíta (velocidade lm/s). 2 ponto: levíta (velocidade de até Sm/s). 3 pontos:...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-plantas-98",
+      "name": "Plantas",
+      "category": "power_magic",
+      "pages": [
+        98
+      ],
+      "summary": "Plantas O Caminho dos druidas e dos deuses da natureza, capazes de comandar as plantas e as árvores de uma floresta. Magos poderosos conseguem conversar com as árvores e manipular objetos de madei­ ra conforme sua vontade. Druidas mais antigos são capazes de sentir a presença de qualquer pessoa em seus dominios. AninJais O Caminho de todas as criaturas da Te...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-misturando-canjinhos-99",
+      "name": "Misturando CanJinhos",
+      "category": "power_magic",
+      "pages": [
+        99
+      ],
+      "summary": "Misturando CanJinhos Os doze caminhos de Magia ainda podem ser combinados em 63 Caminhos Secundários (apenas os Caminhos opostos Fogo-Agua, Ar-Terra e Luz-Trevas não podem ser combinados). Os Caminhos combinados dos Elementos são chamados Cami­ nhos Secundários e são os seguintes: Magma (Terra+Fogo), Fogo Negro (Fogo+Trevas), Cores (Fogo+Luz), Fumaça (Fogo+A...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-di-t-erencas-de-magia-nos-animes-100",
+      "name": "Di't=erenças de Magia nos Animes",
+      "category": "core_rule",
+      "pages": [
+        [
+          100,
+          101
+        ]
+      ],
+      "summary": "Di't=erenças de Magia nos Animes Os jogadores do Sistema Daemon já perceberam neste ponto que este RPG possui muitas diferenças ein relação às Formas e Caminhos apresentados nos outros livros, mas é que por absoluta falta de espaço tivemos de eliminar a parte de regras de Magia para dar espaço a capítulos como mechas, cibernéticos, monstros de bolso e outros...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-caso-e-lpecial-forca-102",
+      "name": "Caso e!lpecial: Força",
+      "category": "attribute_skill",
+      "pages": [
+        102
+      ],
+      "summary": "Caso e!lpecial: Força A Força é um atributo diferente. No capítulo de atributos, há uma tabela que relaciona pesos (em quilos) com os atributos. Quando um Personagem deseja levantar um peso qualquer, essa situação deve ser tratada como se ele estivesse combatendo uma Força oposta. Se o peso é 100 kg, ele está combatendo uma Força 12. Nesse caso, consulte o i...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-io1nando-atributo-103",
+      "name": "!io1nando AtributO§",
+      "category": "attribute_skill",
+      "pages": [
+        103
+      ],
+      "summary": "!io1nando AtributO§ E o que se deve fazer quando vários Personagens estão tentado fazer algo juntos? Antes de mais nada é importante o Mestre detenninar quantos Personagens REALMENTE podem se unir na tarefa. Empurrar uma pedra gigante permite que várias pessoas ajudem, mas tentar derrubar uma porta é uma tarefa para no máximo duas pessoas. Após decidir quant...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-pericia-v-i-pericia-104",
+      "name": "Perícia V!i. Perícia",
+      "category": "core_rule",
+      "pages": [
+        104
+      ],
+      "summary": "Perícia V!i. Perícia Existem situações durante uma aventura nas quais dois Perso­ nagens estão se enfrentando utilÜando-se de suas perícias. Podem ser a mesma perícia ou perícias opostas. A resolução também é bastante simples. Escolha um dos lados da disputa como Fonte Ativa e o outro lado será a Fonte Passiva. A chance básica de sucesso é 50%. A esse valor,...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-i-iniciativas-105",
+      "name": "i!- Iniciativas",
+      "category": "combat",
+      "pages": [
+        105
+      ],
+      "summary": "i!- Iniciativas 3- Ataques ou ações 4- Acerto!I' e danos Verificam-se todos os acertos e calcu­ lam-se os danos. Detalhes sobre danos e proteções serão discutidos mais adiante. De­ pois das quatro etapas, verifica-se quais são os Personagens sobreviventes da batalha que pretendem continuar em combate. Todos os Jogadores (e o Mestre, para cada um dos NPCs env...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-modificador-de-ar111a-magica-106",
+      "name": "Modificador de Ar111a Mágica",
+      "category": "combat",
+      "pages": [
+        [
+          106,
+          107
+        ]
+      ],
+      "summary": "Modificador de Ar111a Mágica Armas mágicas possuem modificadores positivos. Para cada rúvel de encantamento, a arma terá uma bonificação extra na iniciativa. Ou seja, uma arma +2 dará um bônus de 2 na iniciativa. É claro que esse bônus NÃO exclui o modificador negativo que a arma já apresenta. Uma espada possui um modijicador de -5 naturaL Uma espada mágica...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-situacoes-especiais-108",
+      "name": "Situações Especiais",
+      "category": "combat",
+      "pages": [
+        108
+      ],
+      "summary": "Situações Especiais Entendeu tudo até agora? Ótimo ... Mas a regras só falaram até agoà de um combate simples, um contra um, mortal, sem armas de distância ou outros complicadores. No entanto, o Sistema Daemon resolve facilmente esses casos espe­ ciais, podendo-se, inclusive, associar mais de um deles sem nenhu- ma dificuldade. \" Combate Desarmado Também co...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ataque-f-a-distancia-109",
+      "name": "Ataque!!f a Distância",
+      "category": "combat",
+      "pages": [
+        109
+      ],
+      "summary": "Ataque!!f a Distância Algumas armas são consideradas armas de longa distância. Armas de longa distância apresentam a vantagem de atacar o oponente de longe, evitando o contato corpo a corpo. Porém, = termos de jogo, há duas desvantagens. A primeita delas é a impossibilidade de gastar pontos = defesa, que será SEMPRE igual a zero. A segunda desvantag= é o cus...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ataque5-fora-de-alcance-110",
+      "name": "Ataque5 Fora de Alcance",
+      "category": "combat",
+      "pages": [
+        110
+      ],
+      "summary": "Ataque5 Fora de Alcance São ataques que sempre erram o alvo. No caso de flechas, elas caem no chão antes de chegar ao alvo. No caso de balas, elas passam pelo inimigo, mas a distância é tão grande que não há precisão suficiente no ataque para acertar o alvo. Há um fator importante nisso. O fato de um ataque estar fora de alcance não sig­ rúfica que o inimigo...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-ataque-total-111",
+      "name": "Ataque Total",
+      "category": "combat",
+      "pages": [
+        111
+      ],
+      "summary": "Ataque Total Também conhecido como Carga. O Personagem esquece to­ das as recomendações sobre prudência e ataca seu iniqiigo. Ele realiza um único ataque e não tem direito a defesa. Seu valor de ataque aumenta em 1 0% e o dano em +2. Além disso o dano de impacto passa a ser 3+bônus de Força. De\"t'e!§a Total Se o Personagem decidir que não pretende atacar o o...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-luta-as-cega-f-112",
+      "name": "Luta às Cega!!!f",
+      "category": "combat",
+      "pages": [
+        112
+      ],
+      "summary": "Luta às Cega!!!f Por algum motivo qualquer, o Personagem pode estar sem condições de enxergar. Pode estar escuro ou ele pode estar sob efeito de um veneno ou de uma Magia. O escuro pode ser tanto para um Personagem como para todos. Esta situação se aplica para cada Personagem impedido de ver. Se o Personagem possui a manobra de combate Luta às Cegas (ver per...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-combate-nao-mortal-113",
+      "name": "Combate não Mortal",
+      "category": "core_rule",
+      "pages": [
+        113
+      ],
+      "summary": "Combate não Mortal Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da campanha que se desentenderam por algum problema da aventura e acabam perdendo a paciência um com o outro. As lutas de Boxe e Artes Marciais também se encaixam nesta categoria. Nenhum dos Personagens pretende matar o outro: vencer é suficiente. No...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-venenos-114",
+      "name": "Venenos",
+      "category": "core_rule",
+      "pages": [
+        114
+      ],
+      "summary": "Venenos Existem uma infinidade de venenos co­ nhecidos. Eles podem ser paralisantes, debilitantes, soníferos ou mortais. Eles po­ dem ser ingeridos, inalados, injetados ou ape­ nas tocados para serem efetivos. Indepen­ dentemente de qual efeito e método de apli­ cação, os venenos SEMPRE dão direito a um Teste de Resistência para evitar o pior. Exemplos de ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-experiencia-115",
+      "name": "Experiência",
+      "category": "creature_npc",
+      "pages": [
+        [
+          115,
+          116
+        ]
+      ],
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destntídos, um ficou louco e o último acabou aprisionado no Ieferno para sempre. Em um RPG de aventura, sobreviver a uma campanha muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos traficantes de armas, mafiosos, monstros espaciais, anjos, demô...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-paibilidade-117",
+      "name": "Pa••ibilidade•",
+      "category": "core_rule",
+      "pages": [
+        117
+      ],
+      "summary": "Pa••ibilidade• infinita•··· Agora que você já domina os básicos da criação de Personagem no ANIME RPG, você pode desenvolver qualquer tipo de Campanha para jogar com seus amigos, desde partidas engraçadas e divertidas como LOVE HINA até os temas sombrios de HELLSING, passando por caçadores de recompensa como COWBOY BEBOP, fugitivos e bandoleiros em TRIGUN, m...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-forum-118",
+      "name": "Fórum",
+      "category": "core_rule",
+      "pages": [
+        118
+      ],
+      "summary": "Fórum Um fórum é um espaço na internet para discutir, conversar e fazer amigos que tenham a mesma paixão que vocês. Em nosso site, existe um fórum com uma área exclusiva e dedicada para ANIMES. Cadastre-se (gratuitamente) e participe! !iuplementos em Banca Não perca nossos próximos livros de RPG em banca. Todo mês você vai encontrar um novo suplemento de RPG...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-credito-119",
+      "name": "Crédito•",
+      "category": "kit_class",
+      "pages": [
+        [
+          119,
+          120
+        ]
+      ],
+      "summary": "Crédito• Ao longo deste Livro, foram apresentadas imagens de 200 Personagens de 86 animes emangás diferentes. Você consegue adivinhar todos? Menos de 50 5 1 -80 81-100 101-140 141-160 1 61-180 1 81-190 191 -200 - Seja bem vindo ao universo da Animação Japonesa! - ainda há muito a aprender, pequeno-gafanhoto ... - Iniciante - Otaku - Otaku Sênior - Otaku Mast...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-dutnl-publlcaclje-121",
+      "name": "Dutnl• PubllcaçlJe•",
+      "category": "power_magic",
+      "pages": [
+        121
+      ],
+      "summary": "Dutnl• PubllcaçlJe• Se você não encontrou algum destes livros na sua loja ou distribuidor preferido, visite www.daemon.com.br. . \\\u0017ifl:1r.,11. , tf.' ' 1 •• 1 \"\" D(' }\" ,. 1 .'\"' 1 1 'i· ! ·, '.[ L ------ ..- •-<>•_..,......._. . ,...., .... JJU Tormenta d20 Imagine um mundo de magias, aventuras e tesouros. Imagine terríveis vilões, monstros perigosos e hist...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-arkanun-3a-edicao-122",
+      "name": "Arkanun 3ª Edição",
+      "category": "creature_npc",
+      "pages": [
+        122
+      ],
+      "summary": "Arkanun 3ª Edição Um dos mais antigos, conhecidos e conceituados RPGs do Brasil, Arkanun é ambientado em uma Idade Média sorri'.bria e ameaçadora, enquanto a Peste Negra assolava a Europa, onde a Inquisição perseguia e condenava à fogueira qualquer manifestação de atos demoníacos como bruxas, magos ou filhos do demônio. Onde feudos imundos e abadias escondid...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-trevas-123",
+      "name": "TREVAS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          123,
+          124
+        ]
+      ],
+      "summary": "\\ TREVAS Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno, usando os humanos como peças em seu jogo de xadrez celestial. Neste RPG, você está convidado a fazer parte dos mortais que sabem a verdade. Após quase dez anos desde sua primeira versão em Fanzine, a Daemon Editora tem o prazer em anu...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-anime-rpg-simulando-125",
+      "name": "Simulando",
+      "category": "core_rule",
+      "pages": [
+        [
+          125,
+          126
+        ]
+      ],
+      "summary": "Simulando f dfOO com 3d& Caso você não disponha de dados de dez faces ou relógio com cronômetro, pode utilizar três dados comuns de seis lados para si­ mular 1d100. Você precisa de um dado de cor ou tamanho diferente, que será chamado de Dado de Controle. Depois de definido, basta jogar os três dados e comparar o resultado na tabela abaixo. Os dois dados com...",
+      "entityRefs": []
+    }
+  ]
+}

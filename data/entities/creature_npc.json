@@ -1,0 +1,244 @@
+[
+  {
+    "id": "fred-krueger",
+    "name": "Fred Krueger",
+    "category": "creature_npc",
+    "source": "4killers",
+    "page": 1,
+    "entries": [
+      "Assassino de 15 nivel adaptado para o sistema Daemon.",
+      "Antagonista sobrenatural associado ao Sonhar, capaz de atacar vitimas em sonhos e transferir ferimentos para o mundo real.",
+      "No Sonhar, recebe grande ampliacao de atributos e acesso amplo a efeitos magicos; no plano fisico e mais vulneravel."
+    ],
+    "tags": ["antagonista", "terror", "sonhar", "assassino"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "jason-voorhees",
+    "name": "Jason Voorhees",
+    "category": "creature_npc",
+    "source": "4killers",
+    "page": 4,
+    "entries": [
+      "Assassino de 15 nivel adaptado para o sistema Daemon.",
+      "Antagonista de Crystal Lake, resistente, furtivo e perigoso com armas brancas.",
+      "O texto apresenta ficha, origem, personalidade, poderes e curiosidades para uso em aventuras."
+    ],
+    "tags": ["antagonista", "terror", "assassino", "crystal-lake"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "michael-myers",
+    "name": "Michael Myers",
+    "category": "creature_npc",
+    "source": "4killers",
+    "page": 6,
+    "entries": [
+      "Assassino de 15 nivel adaptado para o sistema Daemon.",
+      "Antagonista silencioso, persistente e resistente, estruturado como ameaca de horror recorrente."
+    ],
+    "tags": ["antagonista", "terror", "assassino"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "thomas-hewitt-leatherface",
+    "name": "Thomas Hewitt (Leatherface)",
+    "category": "creature_npc",
+    "source": "4killers",
+    "page": 7,
+    "entries": [
+      "Assassino de 15 nivel adaptado para o sistema Daemon.",
+      "Antagonista brutal associado a motosserra, violencia fisica e horror rural."
+    ],
+    "tags": ["antagonista", "terror", "assassino", "motosserra"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "gary-evan",
+    "name": "Gary Evan",
+    "category": "creature_npc",
+    "source": "a-assassina",
+    "page": 1,
+    "entries": [
+      "Antagonista principal da aventura A Assassina.",
+      "Medica socialmente bem sucedida, metodica e astuta, com historico pessoal traumatico e padrao serial de crimes.",
+      "Seu perfil inclui aparencia, residencia, profissao, historia, atuacao, modus operandi e itens encontrados em sua casa."
+    ],
+    "tags": ["antagonista", "serial-killer", "investigacao", "aventura"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "manifestacoes-dos-medos",
+    "name": "Manifestacoes dos medos",
+    "category": "creature_npc",
+    "source": "abismo-infinito-quick-start",
+    "page": 35,
+    "entries": [
+      "Manifestacoes do Medo Particular dos protagonistas em Abismo Infinito.",
+      "Funcionam como antagonistas que podem criar ou reagir a cenas e usam aspectos psicologicos do personagem que as gerou.",
+      "Podem ser derrotadas temporariamente por ferimentos, mas sua destruicao definitiva depende do destino do personagem ligado a elas."
+    ],
+    "tags": ["antagonista", "horror-espacial", "medo", "sonho"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "deuses-negros",
+    "name": "Deuses Negros",
+    "category": "creature_npc",
+    "source": "abismo",
+    "page": 42,
+    "entries": ["Conjunto de divindades tenebrianas e abissais descritas como antagonistas, patronos de cultos e fontes de horrores no Mundo de Trevas."],
+    "tags": ["deuses", "abismo", "antagonistas"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "arkanitas",
+    "name": "Arkanitas",
+    "category": "creature_npc",
+    "source": "abismo",
+    "page": 81,
+    "entries": ["Criaturas/povos de Ark-a-nun associados ao legado inferniano e ao contexto das trevas em Abismo."],
+    "tags": ["ark-a-nun", "criatura", "povo"],
+    "confidence": 0.78,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "geistkhalim",
+    "name": "Geistkhalim",
+    "category": "creature_npc",
+    "source": "abismo",
+    "page": 90,
+    "entries": ["Filhos bastardos das trevas, ligados ao conhecimento da Roda dos Mundos e a efeitos perigosos sobre magia, sanidade e realidade."],
+    "tags": ["criatura", "tenebras", "antagonista"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "acorrentados",
+    "name": "Acorrentados",
+    "category": "creature_npc",
+    "source": "abismo",
+    "page": 93,
+    "entries": ["Seres vinculados a fragmentos ou forcas de criaturas das trevas, usados como antagonistas, avatares ou focos de campanha."],
+    "tags": ["criatura", "avatar", "tenebras"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "monstros-abissais",
+    "name": "Monstros Abissais",
+    "category": "creature_npc",
+    "source": "abismo",
+    "page": 189,
+    "entries": ["Bestiario final de Abismo, reunindo criaturas como Ahuizotl, Balaf, Devorador Disforme, Djien, Elnint, Hamit, Kenah Tzar'El, Lupaprak, Meo Zatu, Parasita de Alura, Profundo, Ren'Alum, Shaeraid, Terror Dactilo, Tufao da Morte, Tatzlwurm, Verme Krizi e Yara-ma-yha-who."],
+    "tags": ["bestiario", "abismo", "monstros"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "demonio-menor",
+    "name": "Demonio Menor",
+    "category": "creature_npc",
+    "source": "alastores-a-justica-infernal",
+    "page": 41,
+    "entries": ["Ficha de inimigo/criatura apresentada na secao de vitimas, inimigos e estatisticas de Alastores."],
+    "tags": ["demonio", "ficha", "alastores"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "death-knight",
+    "name": "Death Knight",
+    "category": "creature_npc",
+    "source": "alastores-a-justica-infernal",
+    "page": 41,
+    "entries": ["Ficha de criatura/inimigo apresentada no suplemento Alastores."],
+    "tags": ["morto-vivo", "ficha", "alastores"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "feras-prontos",
+    "name": "Feras Prontos",
+    "category": "creature_npc",
+    "source": "animalidade",
+    "page": 10,
+    "entries": ["Modelos de Feras e parentes prontos para uso, incluindo Nagas, Beliors, Reflictys, Minotauros, Herats, Licantropos, Pantros, Garudas, Bastet, Rocs, Defensores do Ragnarok, Garras de Sharikan, Croatan, Harpias, Filhos de Aracne e Crias do Caos."],
+    "tags": ["fera", "modelo", "animalidade"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "humanos-supers",
+    "name": "Humanos e arquetipos urbanos de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 7,
+    "entries": ["Grupo de fichas para humanos e NPCs urbanos em SUPERS, como agente federal, agente secreto, assaltante, assassino, bombeiro, capanga, cientista, cultista, detetive, hacker, investigador, jornalista, lutadores, mago, mercenario, ninja, policial, politico, seguranca e terrorista."],
+    "tags": ["supers", "npc", "humano"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "animais-supers",
+    "name": "Animais de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 20,
+    "entries": ["Fichas de animais e animais gigantes para SUPERS, incluindo aranhas, baleia, cachorro, cavalo, cobras, crocodilos, elefante, escorpio, gato, gorila, javali, leao, lobo, rato, rinoceronte, tigre, tubarao e urso."],
+    "tags": ["supers", "animal", "bestiario"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "dinossauros-supers",
+    "name": "Dinossauros de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 32,
+    "entries": ["Fichas de dinossauros para SUPERS, como braquiossauro, composognato, dinonico, ictiossauro, pteranodon, terizinossauro, tiranossauro-rex, triceratops e velociraptor."],
+    "tags": ["supers", "dinossauro", "bestiario"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "criaturas-fantasticas-supers",
+    "name": "Criaturas fantasticas de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 37,
+    "entries": ["Fichas de criaturas fantasticas e sobrenaturais para SUPERS, incluindo arvore animada, chacal guardiao, dragao, elementais, esqueleto, estatua viva, gargula, gigante, golem, homens-animais, kraken, lobisomem, mumia, serpente marinha, vampiro e zumbi."],
+    "tags": ["supers", "criatura", "bestiario"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "demonios-supers",
+    "name": "Demonios de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 49,
+    "entries": ["Arquétipos genericos de demonios para SUPERS, incluindo demonio general, guerreiro, imp e succubus."],
+    "tags": ["supers", "demonio", "bestiario"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "robos-supers",
+    "name": "Robos de SUPERS",
+    "category": "creature_npc",
+    "source": "anime-rpg-supers-monstros-e-viloes",
+    "page": 52,
+    "entries": ["Regras e fichas para robos, androides, ciborgues e implantes roboticos, incluindo robo auxiliar e robo de combate."],
+    "tags": ["supers", "robo", "bestiario"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  }
+]

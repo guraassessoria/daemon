@@ -1,0 +1,89 @@
+{
+  "source": "guia-pericias",
+  "title": "guia_pericias",
+  "status": "full-read-auto-pass-1",
+  "pages": 16,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "attribute_skill",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "guia-pericias-guia-de-1",
+      "name": "GUIA DE",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "GUIA DE PERÍCIAS MAURY “SHI DARK” ABREU 1 Em jogos de RPG as perícias são os conhecimentos de um Personagem, elas determinam aquilo que ele sabe e o que não sabe fazer. Um botânico dedicado terá a perícia Ciências (Botânica), um caçador provavelmente terá Rastrear, e um espadachim deve ter a perícia Armas Brancas, com a Espada que achar mais apropriado. O SI...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-pericias-pericia-valor-inicial-4",
+      "name": "PERÍCIA* (VALOR INICIAL)",
+      "category": "combat",
+      "pages": [
+        [
+          4,
+          7
+        ]
+      ],
+      "summary": "PERÍCIA* (VALOR INICIAL) Descrição da Perícia. Subgrupo (Valor inicial): Descrição de cada subgrupo. Outros Subgrupos Possíveis: Se houverem outros subgrupos, estes estarão descritos. Observação: O símbolo * só aparecerá quando a Perícia tiver Subgrupos. Neste caso o Jogador deve escolher UM dos Subgrupos correspondentes. Cada Subgrupo é considerado uma Perí...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-pericias-camuflagem-per-8",
+      "name": "CAMUFLAGEM (PER)",
+      "category": "combat",
+      "pages": [
+        [
+          8,
+          10
+        ]
+      ],
+      "summary": "CAMUFLAGEM (PER) Com esta Perícia um Personagem é capaz de esconder-se ou esconder uma outra criatura ou objeto em ambientes naturais, como florestas e campos. A Camuflagem geralmente é usada em um Teste Resistido contra a PER ou a Perícia Escutar de um outro Personagem. Utilize esta situação sempre que ele estiver sendo procurado. Geralmente a Perícia Camuf...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-pericias-esportes-11",
+      "name": "ESPORTES*",
+      "category": "item_equipment",
+      "pages": [
+        [
+          11,
+          13
+        ]
+      ],
+      "summary": "ESPORTES* Existem vários tipos de Esportes que podem ser selecionados pelo Personagem. A seguir existem alguns exemplos. Acrobacia (AGI): Dá ao Personagem a habilidade de equilibrar-se em pequenas superfícies, andar sobre cordas, fazer malabarismo e coisas do tipo. Assim como Esquiva, a Acrobacia pode ser usada como uma forma de Defesa em um combate, pois o...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-pericias-mecanica-dex-14",
+      "name": "MECÂNICA (DEX)",
+      "category": "core_rule",
+      "pages": [
+        [
+          14,
+          15
+        ]
+      ],
+      "summary": "MECÂNICA (DEX) Esta Perícia dá ao Personagem a habilidade de trabalhar com vários tipos de maquinarias. O tipo de maquinaria vai depender da época e do cenário. Em um cenário de Ficção Científica a Perícia Mecânica pode ser usada para consertar e detectar pequenos defeitos em veículos automotores, enquanto na Fantasia Medieval pode ser usada para trabalhar c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-pericias-lista-de-pericias-16",
+      "name": "Lista de Perícias",
+      "category": "combat",
+      "pages": [
+        16
+      ],
+      "summary": "Lista de Perícias 4 Animais* 10 Escudo (DEX) 4 Tratamento de Animais (Primeiros Socorros) 10 Escutar (PER) 4 Treinamento de Animais (0) 10 Esquiva (AGI) 4 Montaria* (AGI) 11 Esportes* 4 Doma (0) 11 Acrobacia (AGI) 4 Veterinária (0) 11 Arremesso (DEX) 4 Armadilhas (INT) 11 Escalada (FR) 4 Armas Brancas* (DEX/DEX) 11 Natação (AGI) 5 Armas Brancas de Longo Alca...",
+      "entityRefs": []
+    }
+  ]
+}

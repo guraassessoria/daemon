@@ -1,0 +1,2495 @@
+{
+  "source": "guia-de-itens-magicos",
+  "title": "Guia de Itens Mágicos",
+  "status": "full-read-auto-pass-1",
+  "pages": 288,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "power_magic",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "guia-de-itens-magicos-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": ".' Daemon Editora LTDA Av, Horacio Later, 160 sala 3 FonelFax: (11) 3675-1860 http://www.daemon.com.br e-mail: daemon@daemon.com.br Norson Bolrel Marcelo Del Debbio Cria~ao: Marcelo Del Debbio & Norson Botrel Revisao: Caroline D' Avila Cap a Edi~ao de Luxo: Luciana Bacci Arte: Todas as ilustra~5es por Evandro Gregorio (House of Ar ts), a excec:;:ao do Tarot...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-introdu-ao-4",
+      "name": "Introdu~ao",
+      "category": "item_equipment",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "summary": "Introdu~ao Itens Magicos ! A mera mem;ao destes names faz com que as allios dos jogadores brilhem de entusiasmo. 0 que sao universos de fantasia e horror sem objetos encantados por fon;as sobrenaturais? Sem Artefatos amaldil;:oados, 10- cais enfeitic;ados au armas capazes de gelar a alma do mais valoroso guerreiro? Pensando nisto, a Daemon Editora tern 0 pra...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-asas-magicas-6",
+      "name": "Asas Magicas",
+      "category": "race_lineage",
+      "pages": [
+        6
+      ],
+      "summary": "Asas Magicas 38 Bolsa de Propriedade 53 Cajado de Ressurrei«;ao 64 Asas da Calmaria 38 Balsa de Prote«;ao 53 Cajado do Abismo 65 Asas das Fadas 39 Bolsa de Truques 53 Cajado do Sacerdote 65 Asas de Insetos 39 Bolsa Magica de Dinheiro 53 Cajado dos Druidas 66 Asas Protetoras 39 Botas com Asas 54 Cajado Elemental 66 AstroJabio de Spiritum 39 Botas de Aterrissa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-colares-de-aterrissagens-seguras-76-7",
+      "name": "Colares de Aterrissagens Seguras 76",
+      "category": "creature_npc",
+      "pages": [
+        7
+      ],
+      "summary": "Colares de Aterrissagens Seguras 76 Elixir de Aquiles 88 Espada vs. Dem6nios 101 Contrato Magko 76 Elixir de Hermes 88 Espada vs. Oem. de Infernun 101 Cordao de Amarrar Demonios 76 Elixir de Saude Magica 89 Espada vs. Vampiros 102 Cordas Misticas 76 Elixir de Saude Perfeita 89 Espada Vigorosa 102 Cornucopia 77 Elixir do Arnor 89 Espada Vorpal (Muhladora) 102...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-flecha-voadora-8",
+      "name": "Flecha Voadora",
+      "category": "creature_npc",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "summary": "Flecha Voadora 117 Lan<;a do Destino 147 Flechas da Hidra 117 Lem;ol Protetor 147 Flechas de Diana 118 Incenso de Caprnra de Espiritos 132 Licor Magico 147 F1echas de Potencia 118 Incenso de Rompimento de Veo 132 Linha de Ahab 147 FIoco de Neve Permanente 118 Incenso Prisao 132 Linha Invisivel 147 Fogo de Vaihiha 118 Insignias de Prote~ao 133 Lira de Edifica...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-robe-astral-10",
+      "name": "Robe Astral",
+      "category": "power_magic",
+      "pages": [
+        10
+      ],
+      "summary": "Robe Astral 212 Talisma de Prot. Elementais 228 (Efeitos de Trevas) 242 Robe da Aranha 213 Talisma de Prot. Mortos-Vivos 228 Varinha de Paralisia 243 Robe da Arraia 213 Talisma de Resistencia ao Fogo 228 Varinha de Portas Secretas 243 Robe de Batalha 213 Talisma de Res. Magias de Morte 229 Varinha de Rubi 243 Robe de Misterios 213 Tambor de Mensagem 229 Vari...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-adaptando-11",
+      "name": "Adaptando •••",
+      "category": "attribute_skill",
+      "pages": [
+        11
+      ],
+      "summary": "Adaptando ••• Quando estavamos desenvolvendo este Guia, tinha- mas urn grande objetivo em mente; 0 Guia de Itens Magicos seria urn Guia totalmente DESCRlTIVO, com 0 minimo pas- sive! de regras, para que tornasse viavel sua adapta~ao ao maior numero passivel de jogos de RPGs, tornando-o gene- rico sem comprometer a qualidade do texto, e ao mesma tempo mantend...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tabe-a-comparativa-de-atributos-frj-12",
+      "name": "Tabe\\a Comparativa de Atributos (FRJ",
+      "category": "core_rule",
+      "pages": [
+        12
+      ],
+      "summary": "Tabe\\a Comparativa de Atributos (FRJ A tabela abaixo mostra a rela~ao entre a Forc;a e a capacidade do Personagem de levantar/ carregar pesos, bern como 0 modificador para dano causado em ataques. FR Testes Carregar Levantar Bonus (%) (kg) (kg) de Dana 5-6 20-24 25 50 -1 7-8 28-32 30 60 -1 20 9 36 35 70 0 10 40 40 80 0 11 44 45 90 0 12 48 50 100 0 30 13 52 5...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-magia-13",
+      "name": "Magia",
+      "category": "power_magic",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "summary": "Magia Outro ponto interessante deconversao deste Iivro para outros sistemas eshl no formato das regras de magia. A Magin no Sistema Arkanun/Tl'evas e haseada na verdadeira Cabala, mae de todos as sistemas de rituais ja desenvolvidos. Par esta maneira, torna-se extremamente simples converter as Rituais de Arkanun/Trevas para qual- quer outro sistema. De acord...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-testes-de-resistencia-15",
+      "name": "Testes de Resistencia",
+      "category": "core_rule",
+      "pages": [
+        15
+      ],
+      "summary": "Testes de Resistencia Testes de Resist<!ncia acontecem quando 0 Persona- gem e atacado por algum tipo de for'Ya (magia, objetos arre- messaclos, explosoes, PSI, cantrale de mentes, telepatia, ata- ques com SOID, luzes, gases au outras) e precisa resistir a ela. Neste caso, 0 Personagem faz urn Teste de urn Atributo, para reduzir 0 dano it metade ou anular 0...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-convertendo-dados-16",
+      "name": "Convertendo dados",
+      "category": "combat",
+      "pages": [
+        [
+          16,
+          17
+        ]
+      ],
+      "summary": "Convertendo dados A seguir, temos a conversao de Idl00 para as tipos de sistemas de jogos mais comuns. Estas tabelas deverao ser utilizadas peJos Mestres para converter numericamente as bOnus e penalidades descritas neste livrD quando for utili- zar as Itens Magicos em Qutros sistemas. Este Sistema utiliza clados de 20 lad os para realizar as Ataques, Defesa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-abaco-de-calcu-los-18",
+      "name": "Abaco de CAlcu los",
+      "category": "item_equipment",
+      "pages": [
+        18
+      ],
+      "summary": "Abaco de CAlcu los .' Doze destes abacos foram construidos originalmen- te pele grande Mago Theoprastus, para auxiliar seus ac6litos a realizar calculos complexos envolvendo com- pras e vendas de poc;oes e elixires, Os doze abacos origi- nais eram feitos de marfim com contas de peroIas, deeo- radas com v6.rias inscric;6es em prata. Outros Magos gostaram da i...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-adagas-facas-e-punhais-19",
+      "name": "Adagas, Facas e Punhais",
+      "category": "combat",
+      "pages": [
+        19
+      ],
+      "summary": "Adagas, Facas e Punhais Consulte Arma Magica. Caso voce deseje especificar 0 tipo de adaga, faca ou punhat consulte a tabela abaixo para encontrar alguns dos mais conhecidos modelos de armas magicas. Para maiores detalhes sabre cada uma destas adagas, faeas e punhais, con- suite 0 GUlA DE ARMAS MEDlEV AIS. Facas, adagas e punhais 1d1 00 Adaga de Arremesso 01...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-alian-as-magicas-20",
+      "name": "Alian~as Magicas",
+      "category": "power_magic",
+      "pages": [
+        20
+      ],
+      "summary": "Alian~as Magicas Este par de alian~as em prata foi criado por urn Mago muito feio que cansou de Hear sem urn par romantico. VIDa das alianc:;as cleve ser utilizada sempre pelo Mago ou feiticeira e a cutra cleve ser entregue a urn membra do se:xo aposta. VIDa vez que as alian~as estiverem colocadas nos dedas, a vitima fiead completamente apaixonada pele Dono...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ametista-infernal-21",
+      "name": "Ametista Infernal",
+      "category": "power_magic",
+      "pages": [
+        21
+      ],
+      "summary": "Ametista Infernal Ninguem sabe ao certa como esta pedra surgiu. Mui- tos especulam que ela tenha side encontrada nas minas de pedras preciosas do Setimo Circulo do Inferno, onde as de- monios colocavam as falsarios para trabalhar. A fun~ao dos escavadores e abrir (com as maos) novas tUneis nos lahirintos de pedra para que as ladroes tenham mais espac;o para...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ampulheta-explosiva-22",
+      "name": "Ampulheta Explosiva",
+      "category": "core_rule",
+      "pages": [
+        22
+      ],
+      "summary": "Ampulheta Explosiva AS primeiros modelos das temiveis arnpulhetas ex- plosivas foram desenvolvidos pelos Magos especialistas em Fogo da Escola de Pyros, como armas para ataque a castelos sitiados au templos de outros deuses. Mais tarde, tornaram-se tnuito procurados por assas- sinos, para eriar distra<;6es Oll mesma para ataques-surpre- sa. As ampuihetas exp...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ampulheta-romana-23",
+      "name": "Ampulheta Romana",
+      "category": "power_magic",
+      "pages": [
+        23
+      ],
+      "summary": "Ampulheta Romana Este poderosissimo artefato foi descoberto quando as gregos chegaram as primeiras provincias italianas, no inicio do seculo 8 AC. A ampulheta foi enconrrada em antigos tem- plos etruscos, mas nenhum sabia conseguiu identifiear sua origem ou poderes ate a ampulheta cair nas maDS de Magnus Petraak, urn grande pesquisador demonio, que identific...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuleto-da-24",
+      "name": "Amuleto da",
+      "category": "combat",
+      "pages": [
+        24
+      ],
+      "summary": "Amuleto da Juventude Etema Estes amuletos especiais fcram criados com a essencia vital de Vampiros, destruidos e aprisionados em gemas de grande valor (rubis, em sua maioria), ligados a correntes de ouro ~u platina. Alguns sabios dizem que a alma do vampi- ro ainda pode ser resgatada de dentro do amuleto, mas esta teoria nunca foi comprovada. o Mago precisa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amu-leto-de-criaturas-25",
+      "name": "Amu leto de Criaturas",
+      "category": "combat",
+      "pages": [
+        25
+      ],
+      "summary": "Amu leto de Criaturas Estes amuletos sao esculpidos em Jade, na forma de urna diminuta estatueta da criatura especifica, presa a urn eolar por urn pequeno pino de ouro. Quando 0 Usu- aria remove a figura de jade do amuleto e a arremessa ao solo, urna versao em tamanho nahtral da criatura apare- ce para servir aos comandos do Persona gem por 3d6 ro- dadas (ap...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuleto-de-prote-ao-26",
+      "name": "Amuleto de Prote!;ao",
+      "category": "power_magic",
+      "pages": [
+        26
+      ],
+      "summary": "Amuleto de Prote!;ao Estes amuletos conferem protec;ao (e em alguns casos, completa imunidade) a algumas substancias perigosas/ fa- zenda com que 0 A ventureiro tome-se mais protegido con- tra este tipo de ataque. Este amuleto protege 0 Usmirio arenas de efeitos di- Fetos e de dano, nao funcionando para efeitos indiretos (0 fogo pode nao machucar seu Persona...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuleto-de-sono-calmo-27",
+      "name": "Amuleto de Sono Calmo",
+      "category": "creature_npc",
+      "pages": [
+        27
+      ],
+      "summary": "Amuleto de Sono Calmo Utilizavel apenas por Magos. 0 Uswirio deste amuleto recupera 0 Pontcs de Magia mais rapidamente que quando dormindo sem ele. De acordo com 0 amuleto, uma quanti- dade extra de Pontcs de Magia e recebido enquanto 0 Usua.- rio darme, de acordo com a tabela abaixo. Estes amuletos, confeccionados na forma de urn pingente em meia-Iua, fo- r...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuletodos-28",
+      "name": "Amuletodos",
+      "category": "creature_npc",
+      "pages": [
+        28
+      ],
+      "summary": "Amuletodos Oimas Amenos Este amuleto foi desenvolvido pelos Magos da Tem- pestade. Apenas 32 amuletos foram confeccionados, e a meta- de foi perdida ou destruida ate 0 secuJo XVIll. 0 Usmtrio deste amuleto e protegido contra dimas severos. Com ele, 0 Usua- rio senre-se confortavel em temperaturas extremas. Uma tem- pestade apenas 0 molhanllevemente, por exem...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-variantes-conhecidas-29",
+      "name": "Variantes Conhecidas",
+      "category": "power_magic",
+      "pages": [
+        29
+      ],
+      "summary": "Variantes Conhecidas Amuleto do Mergulhador Amuleto do Nadador Amuleto Aquatieo Amuleto da Sereia Amuleto de Poseidon 1d100 01-50 51-80 81-90 91-95 %-00 Amuleto do Mergulhador: Enquanto 0 amuleto esti- ver sendo usado, permite ao Dono respirar normalmente debaixo d'agua, por periodos muito prolongados. Existem vers5es que eriam guelras no pescoc;o do Usu- ar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuleto-elemental-da-luz-30",
+      "name": "Amuleto Elemental da Luz",
+      "category": "power_magic",
+      "pages": [
+        [
+          30,
+          31
+        ]
+      ],
+      "summary": "Amuleto Elemental da Luz Estes amuletos devem ser confeccionados utilizando- se de crismis luminosos rarissimos de serem encontrados e, entiD, encaixados em prata polida e brilhante ou finos cor- dOes transparentes. Quando sao acionados, tomam 0 Usuario invisivel para todos as efeitas, durante dez rodadas. 0 Dono pode realizar quaisquer ac;oes enquanto estiv...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ancora-do-velho-marinheiro-32",
+      "name": "Ancora do Velho Marinheiro",
+      "category": "power_magic",
+      "pages": [
+        32
+      ],
+      "summary": "Ancora do Velho Marinheiro Este Item Magico e uma pequena replica de uma anco- ra de verdade, mas com ceTca de 5 em de comprimento, toda esculpida em Ferro escuro, com detalhes dourados. Quando esta ancora e colocada delicadamente sobre 0 conves de urn aavio e as palavras magicas carretas sao ditas, 0 n.avio fun- ciona como se uma meora real tivesse side arr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-acelera-ao-33",
+      "name": "Anel de Acelera~ao",
+      "category": "combat",
+      "pages": [
+        33
+      ],
+      "summary": "Anel de Acelera~ao Estes aneis foram forjados pelos delopes para as arqueiras de Erimanto, em Arcadia. Sao discretos e geraI- mente esculpidos em madeira de Erimanto. Quando coloca- dos e ativados, estes aneis aumentam a velocidade de reac;ao e carrida de urn Persona gem. Os aneis podem ser ativados uma vez por semana, e durante 3d6 rodadas aumentam 0 numero...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-arcadia-34",
+      "name": "Anel de Arcadia",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          34,
+          35
+        ]
+      ],
+      "summary": "Anel de Arcadia Estes aneis fcram confeccionados pela Antiga Rainha Mab, para permitir aos Elfos e Fadas cruzarem a barreira entre Arcadia e a Terra durante a Idade Media. Muitos sabi- os dizem que estes ameis esmo entre as mais bern trabalha- d.os e esculpidos de todos os Itens Magicos. Quando ativado, 0 anel ahre, em sua versao original, em portal entre a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-eletricidade-36",
+      "name": "Anel de Eletricidade",
+      "category": "power_magic",
+      "pages": [
+        36
+      ],
+      "summary": "Anel de Eletricidade Tambem conhecido como Anel de Zeus. Sao aneis pe- sados, de prata au chumbo, possuem inscri\\=oes em grego, e sao muito carregados em energia rnagica (qualquer urn que possua alguma afinidade com a Magia padeni sentir a ener- gia emanando destes aneis). Vma vez por dial 0 Persoriagem podera descarregar a energia mistica armazenada no anel...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-and-de-37",
+      "name": "And de",
+      "category": "power_magic",
+      "pages": [
+        37
+      ],
+      "summary": "And de Invisibilidade Coletiva Este anel possui urn efeito semelhante ao Anel de Invi- sibilidade, mas afeta toda uma area em·tomo do Aventureiro que 0 esta usando. Ele pode ser acionado apenas uma vez ao dia, dando invisibilidade a pessoas e suas posses em urn raia em tome do Dono. 0 efeito dura 3d6 rodadas. Raio 1d10 1m 1 2m 2-3 3m 4-6 4m 7-0 Pessoas Afeta...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ane1-de-localiza-ao-38",
+      "name": "Ane1 de localiza~ao",
+      "category": "core_rule",
+      "pages": [
+        38
+      ],
+      "summary": "Ane1 de localiza~ao Estes aneis vern sempre aos pares (e algumas vezes em trios). 0 Usuario de urn Anel de Localiza~ao sempre sabe a dire~ao exata que as Qutros aneis se encontram (no caso de tres aneis, eles sempre vern marcados com pedras de cores diferentes, enta~ basta mentalizar qual anel 0 Usuario dese- ja encontrar e ele sabera a direc;ao). Os Aneis d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-reflexao-de-magias-39",
+      "name": "Anel de Reflexao de Magias",
+      "category": "power_magic",
+      "pages": [
+        39
+      ],
+      "summary": "Anel de Reflexao de Magias \\ \\ Estes poderosos e raros aneis funcionam ao mesmo tem- po como uma prote~ao, mas tambem redirecionam parte de uma magia de dano de volta para 0 feiticeiro que as lan~ou. Estes aneis sao confeccionados obrigatoriamente de Ferro Frio, com runas de Arcadia entalhadas ao redor da pedra principal. o anel funciona da seguinte forma: p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-and-de-shamrock-40",
+      "name": "And de Shamrock",
+      "category": "ritual_spell",
+      "pages": [
+        40
+      ],
+      "summary": "And de Shamrock Estes aneis bizarros aceleram 0 metabolismo daquele que 0 utiliza. Para ser ativado, precisa fiear uma semana no declo do A ventureiro. Neste tempo, seu metabolismo come- c;a a se modificar, ate chegar praticamente a dobrar de velo- cidade: 0 Personagem pode realizar 0 dobra de ac;5es nor- mais por rodada (ate urn maximo de +2 ac;5es au ataqu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-telecinesia-41",
+      "name": "Anel de Telecinesia",
+      "category": "power_magic",
+      "pages": [
+        41
+      ],
+      "summary": "Anel de Telecinesia • Os Aneis de Telecinesia sao feitos com varios arcs finissllnoS de metal, unidos como urn feixe. Dizem que quan- ta mais £ios de metal este anel possui, mais poderoso ele e. Estes feixes podem ser feitos de qualquer tipo de me- tal, mas geralmente sao feitos de ferro imantado, 0 que cau- sa urn efeito muito interessante: estes ane:is, qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-de-transforma-ao-42",
+      "name": "Anel de Transforma~ao",
+      "category": "creature_npc",
+      "pages": [
+        42
+      ],
+      "summary": "Anel de Transforma~ao em Animais Estes aneis simples sao decorados com 3 insignias ou pequenas esculturas muito bern elaboradas de ani- mais. Geralmente sao tres insignias identic as, mas as ve- zes ocorre de serem dais ou mais desenhos. Quando 0 Usuario aciona 0 anel atraves de palavras e gestos de comando; ele e capaz de transformar-se no animal indicado d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-do-ciafanhoto-43",
+      "name": "Anel do Ciafanhoto",
+      "category": "item_equipment",
+      "pages": [
+        43
+      ],
+      "summary": "Anel do Ciafanhoto Este anel de OUfO contem uma pequena pedra esver- deada e esculpida na forma de urn pequeno gafanhoto. En- quanta estiver utilizando este anel, 0 Persona gem podera dar saltos de ate dais metros de altura. Tres vezes ao dia, com urn camanda verbal, 0 Usuario pode saltar a ate dez metros de altura, ou cair de uma dishlncia semelhante sem re...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-anel-do-necromantico-44",
+      "name": "Anel do Necromantico",
+      "category": "creature_npc",
+      "pages": [
+        44
+      ],
+      "summary": "Anel do Necromantico Estes aneis sinistros foram desenvolvidos nas catacum- bas de Rama, para a Ordem de Luvithy, e depois copiadas por Dutres Necromantes europeus. Enquanto estiver utilizando este anel, 0 Persona gem nae pode ser atacado por Mortos-Vivos sem inteligencia (esqueletos, zumbis e ghouls sao incapazes de se aproximar mais do que 5 metros do Mago...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ankh-da-vida-eterna-45",
+      "name": "Ankh da Vida Eterna",
+      "category": "power_magic",
+      "pages": [
+        45
+      ],
+      "summary": "Ankh da Vida Eterna Este antigo artefato egipcio foi criado para poder dar vida etema para 0 farao Hapsunat mas, por algum motivo, o efeito foi muito diferente do esperado. Quando vestiu 0 aIDu-leta, Hapsunat envelheceu rapidamente ate tomar-se a imagem de uma mumia, e foi imediatamente atacado pelos guardas da Piramicle. Para a surpresa de todas, Hapsunat n...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-aranhas-de-metal-46",
+      "name": "Aranhas de Metal",
+      "category": "creature_npc",
+      "pages": [
+        46
+      ],
+      "summary": "Aranhas de Metal Estes requenos talismas na forma de aranhas de metal com cerca de 3 a 4 centimetros de comprimento transfor- maID-se em aranhas metiilicas gigantes de tres metros de altura, que obedecem as ordens do Mago que as conjurou. Estas aranhas possuem as seguintes caracteristicas : 1 Ataque pol rodada, Mordida 60% dano Id6+2d6 (veneno), IP 6 con- tr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-arco-magico-47",
+      "name": "Arco Magico",
+      "category": "combat",
+      "pages": [
+        [
+          47,
+          48
+        ]
+      ],
+      "summary": "Arco Magico Consulte Arma Magica. Caso voce deseje especificar 0 tipo de areo, consulte a tabela abaixo para encontrar alguns dos mais conhecidos modelos de armas magicas. Para maiores detalhes sabre cada urn destes arcos, consulte 0 GUIA DE ARMAS MEDlEY AIS. TipodeArco 1d6 Area Curto 1-2 Areo Longo 3-4 Area Composto 5 Areo de Guerra 6 Arco de Dano +X Este a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-arma-das-trevas-49",
+      "name": "Arma das Trevas",
+      "category": "combat",
+      "pages": [
+        49
+      ],
+      "summary": "Arma das Trevas Esta arma drena a energia vital do inimigo, causando dano adiciona1 por Trevas. Ela aparenta ser uma arma nor- mal, mesma se empunhada para demonstra~ao. Caso 0 Usu- aria esteja em condic;ao de combate, ela escurece a parte que provoca 0 dano (a lamina, se for uma espada, ou a panta de uma Ianc;a). 0 material da arma nao e afetado pelo efeito...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-arma-hadjar-50",
+      "name": "Arma Hadjar",
+      "category": "combat",
+      "pages": [
+        50
+      ],
+      "summary": "Arma Hadjar Estas armas rarissimas 56 sao encontradas com alguns poueos grupos mw;ulmanos radicais. Hadjar e urn metal negro que caiu do espa~o muitas eras atnls. Os artifices descobriram que este metal causava seve- lOS danos aos habitantes de Paradisia (Ieia-se Anjos e Deu- ses), podendo, inclusive, destrui-Ios pennanentemente. Em termos de jogo, caso urn...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-armadilha-das-fadas-51",
+      "name": "Armadilha das Fadas",
+      "category": "item_equipment",
+      "pages": [
+        51
+      ],
+      "summary": "Armadilha das Fadas Estas armadilhas foram criadas pelas fadas das flores- tas germarucas e britanicas para afugentar as legioes rorna- nas. Consistem em uma folha encantada que e colocada no chao, no local a ser preparado. Quando uma pessoa pisar sabre a folha, a armadilha e ativada. A folha gruda nos pes da vitima, e come~a a se multiplicar rapiciamente, t...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-armadura-magica-52",
+      "name": "Armadura Magica",
+      "category": "combat",
+      "pages": [
+        52
+      ],
+      "summary": "Armadura Magica Assim como as armas magicas, as armaduras podem, em principia, serem feitas de qualquer tipo de armadura basica (para mais informa<;oes, consulte GUIA DE ARMAS MEDlEV AIS). Deve-se lembrar que a armadura cleve ser fei- ta com extrema cuidado e pericia. As armaduras ffiagicas sao feitas, principalmente, de armaduras de aneis e de armaduras de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-armadura-de-invisibilidade-53",
+      "name": "Armadura de Invisibilidade",
+      "category": "item_equipment",
+      "pages": [
+        53
+      ],
+      "summary": "Armadura de Invisibilidade Esta armadura age como uma armadura + X. Lindas runas que urn Mago experiente pode decifrar como perten- centes a Escola de Magia da Luz estao desenhadas pr6ximas as manoplas. Existem dais tipos desta armadura (sorteie m- dependentemente para 0 tipo e 0 bonus de IP): Tipo de Annadura 1d10 Versao Simples 1-8 Versao Prateada 9-0 IP 1...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-armadura-do-viajante-54",
+      "name": "Armadura do Viajante",
+      "category": "power_magic",
+      "pages": [
+        [
+          54,
+          55
+        ]
+      ],
+      "summary": "Armadura do Viajante Esta armadura de couro nao possui bonus magicos, mas em compensac;ao, anula a fadiga do USUi:irio quando este caminha, capacitando-o a andar ate tres dias sem parar e sem precisar descansar, dormir au comer. Depois de tres elias, 0 Usuario retorna a seu estado normaL Armadura Espartana Este modele de armadura pesada +3 tornou as guer- re...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-asas-das-fadas-56",
+      "name": "Asas das Fadas",
+      "category": "power_magic",
+      "pages": [
+        56
+      ],
+      "summary": "Asas das Fadas Este par de asas aparenta serem farmadas por asas de uma fada, corn a diferenc;a de que possuem tamanho pro- porcional para 0 uso de urn humano. As Asas das Fadas permitem ao Per50nagem~ alem de vaar, comunicar-se perfeitamente com qualquer ser de Arcadia, 0 Aventureiro entendeni perfeitamente sua lin- guagem e sempre sera capaz de falar nessa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bacia-de-purifica-ao-57",
+      "name": "Bacia de Purifica~ao",
+      "category": "item_equipment",
+      "pages": [
+        57
+      ],
+      "summary": "Bacia de Purifica~ao Esta pequena bacia de prata possui a extra ordinaria caracteristica rnagica de remover qualquer veneno (natural ou magico) de qualquer comid. (frotas ou vegetais) que sej. lavada dentro dela. A remcx;ao e imediata e completa. Balan~a da Justi~a Este Item Magico lembra uma pequena balanc;a de pratos, e e sempre revestida com prata. Vma ve...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-balsamo-de-curas-58",
+      "name": "Balsamo de Curas",
+      "category": "combat",
+      "pages": [
+        58
+      ],
+      "summary": "Balsamo de Curas BaIsamos sao oleos medicinais que devem ser aplica- dos sabre as ferimentos, e estes serae fechados magicamen- te, recuperando as Pontcs de Vida e restaurando as danos aplicados. Existem diversos tipos de balsamos, cada urn com sua concentrac:;;ao diferente. Todos as balsamos possuem urn forte cheiro de pinheiro ou eucalipto. Restaura.,ao 1d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bandeira-de-59",
+      "name": "Bandeira de",
+      "category": "core_rule",
+      "pages": [
+        59
+      ],
+      "summary": "Bandeira de Prote~ao de Tropas Estas bandeiras aben<;oadas pela Igreja sao considera- das portadoras de extrema sorte para 0 exercito que as carre- gao Qualquer tropa que esteja exibindo uma bandeira destas e que seja alva de uma tropa de arqueiros tern 0 dano das flechas recebidas diminuido. As flechas desviam-se magica- mente, ou acertam apenas de raspao,...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-banheira-vfuro-60",
+      "name": "Banheira Vfuro",
+      "category": "item_equipment",
+      "pages": [
+        60
+      ],
+      "summary": "Banheira Vfuro Estas banheiras de origem japonesa sao construidas cuidadosamente em madeira, possuindo diversas runas dedi- cadas a Amaterasu . Sua utiIiza<;ao e demorada, porem ex- tremamente eficiente. o Personagem que esta fericlo precisa fiear imerso na banheira, que deve sec preenchida com agua quente e sais aromaticos, e as paderes curativos da banheir...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-baralho-de-poker-61",
+      "name": "Baralho de Poker",
+      "category": "attribute_skill",
+      "pages": [
+        61
+      ],
+      "summary": "Baralho de Poker Estes baralhos magicos sao proibidos em WEST, sob pena do portadar ser condenado it forca. Para todos as meto- dos de avaliac;ao, estes baralhos sao identicos aos baralhos comuns de poquer, com a diferenc;a de que seu Dono (aquele que estiver com este baralho em maos durante mais de uma semana consecutiva), enquanto estiver jogando com este...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-barril-de-macacos-62",
+      "name": "Barril de Macacos",
+      "category": "power_magic",
+      "pages": [
+        [
+          62,
+          63
+        ]
+      ],
+      "summary": "Barril de Macacos Estes objetos magicos vieram originalmente das ter- ms de Oz, em Arcadia, mas sabe-se que as lendas gregas mencionam run Barril de Cecropes, com caracteristicas mui- to semelhantes. Consiste em um barril magico que deve permanecer sempre fechado. Estes harris contem 0 selo ma- gicc do Dono, e 56 podem ser aOOtos por ele. Cada vez que e aber...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bastao-de-tentaculos-64",
+      "name": "Bastao de Tentaculos",
+      "category": "power_magic",
+      "pages": [
+        64
+      ],
+      "summary": "Bastao de Tentaculos Este bastao de ferro e ornamentado com desenhos ins~ pirados nos Necromantes e nos Demonios de lniernun. Vma vez por dia, 0 Dono do bas tao pode crava-Io na terra e con- jurar as Tenbkulos Negros de Luvithy, que serao conjura- dos do Inferno para a Terra, e atacarao qualql-ter pessoa au objeto que estiver dentro de seu raia de ac;ao (em...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bastao-rakshasa-65",
+      "name": "Bastao Rakshasa",
+      "category": "power_magic",
+      "pages": [
+        65
+      ],
+      "summary": "Bastao Rakshasa Os Rakshasa sao as terriveis v~piros da mitologia in- diana.'Segundo 0 Devi-Mahatmya, as Rakshasas fcram eria- dos quando a Deusa Kali enfrentou Raktabira, urn demonio capaz de se reproduzir a cada gota de sangue derramado. Para salvar sua amiga Durga, Kali teve de vampirizar todss as duplicatas de Raktabira, e as devorou. Mas muitas destas e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-batina-de-prote-ao-66",
+      "name": "Batina de Prote~ao",
+      "category": "item_equipment",
+      "pages": [
+        [
+          66,
+          67
+        ]
+      ],
+      "summary": "Batina de Prote~ao Este item era criado por exorcistas especializados em casos que envolviam alguma casta especifica de demanios. Vma Batina de Prote~ao conferia imunidade a poderes de- moniacos utilizados por uma determinada casta de dem6ni- as. Muito exorcistas fcram traidos peiD seu excesso de confi- an~a em uma Batina de Proter;ao, pais estavam eventual-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bola-de-boliche-magica-68",
+      "name": "Bola de Boliche Magica",
+      "category": "power_magic",
+      "pages": [
+        68
+      ],
+      "summary": "Bola de Boliche Magica Esta Bola Magica possui cerca de 20 centimetros de clia- metro. E normalmente negra e pesa aproximadamente 7 qui- los, possuinclo tres fufOS onde 0 Dono pode colocar seus dedos. A Bola ¥agica pode ser Tolada em urn corredor ou Dutra superficie relativamente lisa, a uma distancia de ate 30 metros. Adquire velocidade muito rapidamente e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bola-de-cristal-de-perguntas-69",
+      "name": "Bola de Cristal de Perguntas",
+      "category": "power_magic",
+      "pages": [
+        69
+      ],
+      "summary": "Bola de Cristal de Perguntas Este item e semelhante a urna Bola de Cristal de Previ- sao, mas 0 Mago pode formular mentalmente algumas per- guntas por dia e, atraves da bola, 0 Mestre (com urn Teste de WILL para cada pergunta) dira ao jogador a que a Mago conseguiu descobrir. Somente podem ser formuladas per- guntas cujas respostas sejam: Sim, Nao ou Irrelev...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bolsa-de-ossos-70",
+      "name": "Bolsa de Ossos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          70,
+          72
+        ]
+      ],
+      "summary": "Bolsa de Ossos Esta balsa contem diversos peda<;os de ossos huma- nos colocados dentro dela, uns pintados de branco, cutros de negro, e outros de vermelho-sangue. VIDa vez por dia, 0 Dono da balsa pode pensar em uma pergunta qualquer, cuja resposta seja Sim, Nao o~ Irrelevante. 0 Usuario coloca uma das maos dencro do saCD e puxa urn peda<;o de ossa. De acord...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-braceletes-de-ancoragem-73",
+      "name": "Braceletes de Ancoragem",
+      "category": "combat",
+      "pages": [
+        73
+      ],
+      "summary": "Braceletes de Ancoragem Estes braceletes possuem muitas Tunas e inscri~6es cui- dadosamente desenhadas sabre ele. Quando alguem as co- Ioca, eles entram em funcionamento, e nada em um raia de 10m pode se teleportar au se utilizar de transporte interdi- mensional (para dentro au para fora da area de efeito). Braceletes de Defesa Criados originalmente pela deu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-braseiro-do-50no-tranqtiilo-74",
+      "name": "Braseiro do 50no Tranqtiilo",
+      "category": "item_equipment",
+      "pages": [
+        74
+      ],
+      "summary": "Braseiro do 50no Tranqtiilo Este braseiro e urn item muito apreciaclo por carava- nas de viajantes. Como eIa nao pode ser desmontada, toma- se urn objeto urn tanto desconformvel de se transportar se 0 grupo nao possuir uma carro~a. Ao acionar este braseiro, uma leve e aromatica fuma- ~a comel):8 a ser emitida. Apos 3d6 rodadas, todos as que permanecerem dent...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-brincos-do-doppelganger-75",
+      "name": "Brincos do Doppelganger",
+      "category": "core_rule",
+      "pages": [
+        75
+      ],
+      "summary": "Brincos do Doppelganger o primeiro Doppelganger foi criado a partir de uma experiencia entre as Diaconos da cidade de Munique, em 1276. Seis Magos poderosissimos tentaram capturar 0 deus grego Proteus (0 deus capaz de transformar-se em qualquer objeto, criatura ou seT existente). 0 experimento falhou, e Proteus ficau extremamente irritado com a arrogancia do...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-broche-de-76",
+      "name": "Broche de",
+      "category": "race_lineage",
+      "pages": [
+        [
+          76,
+          77
+        ]
+      ],
+      "summary": "Broche de Anula~ao de Sentimentos Este broche e feito em uma lasca de pedra, em formate quadrado ou retangular com urn cora~ao entalhado em alto releva no seu interior. Deve seT preSQ as vestimentas de seu Dono, podendo ou nao ficar exposto (pade ser colocado em uma camisa por baixo da armadura, por exemplo), mas se nao estiverem expostos tomam-se inc6modos....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-bule-dos-elfos-negros-78",
+      "name": "Bule dos Elfos Negros",
+      "category": "power_magic",
+      "pages": [
+        78
+      ],
+      "summary": "Bule dos Elfos Negros o Este bule e urn dos mais trai<;oeiros objetos conheci- dos. Ele costuma ser criado utilizando-se urn bule comum, sem nenhuma marca especial, sempre feito em ferro. Nao era incomum que fassem encantados buIes usados para ga- rantir a aparencia de naturalidade do mesma. o Dono do bule coloca agua em seu interior e espera 3d6 rodadas. Ap...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cabe-a-da-medusa-79",
+      "name": "Cabe.;:a da Medusa",
+      "category": "power_magic",
+      "pages": [
+        79
+      ],
+      "summary": "Cabe.;:a da Medusa Urn dos mais famosas artefatos gregos. Medusa era a mais jovem das tres G6rgonas (as outras eram Estena e Euriale) e a unica das tres que era mortal. Com o suas irmas, possula cobras venenosas no lugar d e seus 10ngos cabeles, carpo de cobre e dentes afiadissimos. Seu olhar era tao poderoso que era capaz d e transformar qualquer observador...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-caixa-das-poc-oes-80",
+      "name": "Caixa das Poc;:oes",
+      "category": "power_magic",
+      "pages": [
+        80
+      ],
+      "summary": "Caixa das Poc;:oes A Caixa das Poc;oes foi feita sob encomenda por urn ~ago da Casa de ehronos para Aventureiros que viviam destruindo seus frascos com p<x;oes, durante ataques au es- caladas. A Caixa das Poc;6es parece a primeira vista com urna caixa comum, com urn niimero de frascos dentTo. Os frascos simples, de vidro, podem ser guardados perfeitamente de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cajado-de-comando-81",
+      "name": "Cajado de Comando",
+      "category": "power_magic",
+      "pages": [
+        81
+      ],
+      "summary": "Cajado de Comando Este cajado permite coordenar as ac;oes de urn grupo de voluntarios. Estas pessoas agiraa em combate como se coordenadas por uma Uniea mente. Como conseqiiencia, 0 ataque sera, globalmente, mais eficiente, e nenhum dos corn- batentes acertara urn aliado por engano. Pessoas afeladas 1d100 10 01-55 20 56-80 30 81-90 40 91-97 50 98-00 Cajado d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cajado-do-abismo-82",
+      "name": "Cajado do Abismo",
+      "category": "core_rule",
+      "pages": [
+        82
+      ],
+      "summary": "Cajado do Abismo Este artefato mistico e urn dos mais hediondos Itens ~agicos conhecidos. 0 cajado parece ter sido esculpido em almas humanas, e alguem que fique muito tempo pr6ximo comec;a a escutar os lamentos dos espiritos aprisionados no cajado. Este cajado sustenta, em sua parte superior, urn cra- nia de demonio Bergahazza especialmente preparado. Diz-s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cajado-dos-druidas-83",
+      "name": "Cajado dos Druidas",
+      "category": "power_magic",
+      "pages": [
+        83
+      ],
+      "summary": "Cajado dos Druidas Este cajado fornece ao Usuario conhecimentos sabre todas as especies de animais e vegetais naturalS que habi- tam uma regiao de £Iorestas em ate lkm de raio. S6 pode ser utilizado por druidas. Da ao druida +2 Focus em qualquer efeito dos Caminhos de Animais Oll Plantas. Cajado Elemental as Cajados Elementais tern a propriedade de refon;ar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-candelabro-de-escuridao-84",
+      "name": "Candelabro de Escuridao",
+      "category": "item_equipment",
+      "pages": [
+        [
+          84,
+          86
+        ]
+      ],
+      "summary": "Candelabro de Escuridao Quando este objeto e iluminado por urn clerigo de Tenebras, 0 candelabra irradia uma zona de escuridao equivalente a cinco metros de raia .. e que pode ser ex- pandido de acordo com a For~a de Vontade (WILL) de quem acender 0 candelabra. Se 0 clerigo manter a concentra~ao (ou seja, perma- necer im6vel e sem fazer nenhuma outra a<;ao),...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cetro-das-catastrofes-87",
+      "name": "Cetro das Catastrofes",
+      "category": "creature_npc",
+      "pages": [
+        87
+      ],
+      "summary": "Cetro das Catastrofes Estes cetros daD ao seu Usuario urn aviso de que uma catastrofe natural esta por acontecer. 0 Usmirio nao precisa ser uma pessoa influente na vila ou cidade cnde mora, mas recomenda-se que 0 cetro esteja em poder de uma pessoa com influencia suficiente para evitar as clanos provocados pelas potenciais catastrofes. o prazo de anrecedenci...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-chapeu-de-disfarces-88",
+      "name": "Chapeu de Disfarces",
+      "category": "power_magic",
+      "pages": [
+        88
+      ],
+      "summary": "Chapeu de Disfarces Estes chapeus nao possuem forma definida, pois po- clem se transformar em qualquer outro tipo de chapeu. A Unica caracteristica cornum a todos eles sao as runas bordadas em linha grossa vermelha no interior do chapeu. Estas lUnas nao mudam de forma, nao importa como 0 chapeu se disfarce. Este chapeu pode assumir a forma de qualquer tipo d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-chicote-magico-89",
+      "name": "Chicote Magico",
+      "category": "creature_npc",
+      "pages": [
+        89
+      ],
+      "summary": "Chicote Magico Consulte Arm. Magics. Chicote de Escalada Este CIDeate nao possui nenhum tipo de vantagem em combate. No entanto, 0 Dono pode usa-Io para facilitar urna escalada de muro, pedIa, arvore ou parede. Para isto, basta que haja urn ponto de apaio visivet no qual 0 chicote possa se enrolar e se prender. o Dono ataea com 0 crucote na direc;ao do apoio...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-chifre-do-rinoceronte-90",
+      "name": "Chifre do Rinoceronte",
+      "category": "power_magic",
+      "pages": [
+        90
+      ],
+      "summary": "Chifre do Rinoceronte Este chifre foi trazido da Africa pelDs primeiros expIo- radores. Vma vez montado em uma tiara, 0 Usuario pode usar 0 Chifre do Rinoceronte, e aclquire as seguintes poderes: Ele pode realizar ataques correndo contra 0 alva e arre- messando-se contra ele. 0 chifre causa 4d6 pontcs de dano por ataque, mas 0 Usuario precisa de espac;o para...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cinturao-de-hipolita-91",
+      "name": "Cinturao de Hipolita",
+      "category": "item_equipment",
+      "pages": [
+        91
+      ],
+      "summary": "Cinturao de Hipolita Este artefato foi construido pele deus Ares em pessoa e presenteado a Hip6litaf rainha das Amazonas. Mais tarde, Hercules, em urn de seus doze trabalhos, enfrentou Hip6lita e recuperou 0 Cinturao, levando-o de volta a Gn'!cia. o cinturao foi dado a Admene, filha do rei Euristeu. Com a morte de Admene, 0 cinhtrao passou para seu mho Meneo...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-colar-de-disfarces-92",
+      "name": "Colar de Disfarces",
+      "category": "power_magic",
+      "pages": [
+        [
+          92,
+          93
+        ]
+      ],
+      "summary": "Colar de Disfarces J1' -'\" Estes eolaTes nao possuem uma forma definida, pais podem se transformar em qualquer outro tipo de colar, gartantilha ou medalhao. A {mica caracteristica comum a todos eles sao as fechos, sempre em prata. Este eolar pode assumir a forma de quaIquer tipo de calar imagimirio (desde cordoes ate eolaTes de perolas) que 0 Usuario imagina...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cornucopia-94",
+      "name": "Cornucopia",
+      "category": "creature_npc",
+      "pages": [
+        [
+          94,
+          96
+        ]
+      ],
+      "summary": "Cornucopia Este artefato pertence ao Panteao Olimpiano, e consis- te em um dos chifres da Cabra Amaltea (a cabra que alimen- tou Zeus quando este era apenas uma crian~a). A mera pre- sent;a da Cornucopia faz com que a regiao cnde ela se en- contre torne-se prospera e produtiva. Alem dista, a Cornu- copia e capaz de fornecer alimento (literalmente uma refei-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cristais-magicos-dos-druidas-97",
+      "name": "Cristais Magicos dos Druidas",
+      "category": "power_magic",
+      "pages": [
+        97
+      ],
+      "summary": "Cristais Magicos dos Druidas Estes cristais celtas podem seT utilizados pelos viajan- tes como prot~ao contra maus espiritos durante suas joma- das pelas florestas. Ele nao possui paderes magicos, mas os espiritos das florestas reconhecem aquele que esta carregando urn crista} destes como amigo e alia do, e poderao ajuda-Io em caso de problemas ou em emergen...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cucko-98",
+      "name": "Cucko",
+      "category": "combat",
+      "pages": [
+        [
+          98,
+          100
+        ]
+      ],
+      "summary": "Cucko Cucko e 0 nome da Coruja de Metal construida por Hefaistos (0 deus artifice grego) para Minerva (Atenas, a deusa grega da sabedoria). Cucko foi forjado inteiramente em bronze e ouro, com seus mecanismos internos em ouro e prata. Mais tarde, 0 bronze foi revestido por metais de Olympus, para refon;ar sua estrutura, e deixa-Ia leve e brilhante ao mesmo t...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-diamante-de-aniquila-ao-101",
+      "name": "Diamante de Aniquila~ao",
+      "category": "power_magic",
+      "pages": [
+        101
+      ],
+      "summary": "Diamante de Aniquila~ao , Este poderoso diamante e encantando atraves de um complexo ritual que envolve efeitos de destruic;ao maci<;a. Deve ser criado a partir de urn diamante de peIo menos 20 quilates, ou seja, muitissimo valioso. A runa pessoal do Mago que criOll 0 diamante encontra-se cravada sabre sua maior face e pode facilmente ser notada. Ele 56 pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-diilrio-de-urn-mago-102",
+      "name": "Diilrio de urn Mago",
+      "category": "combat",
+      "pages": [
+        [
+          102,
+          103
+        ]
+      ],
+      "summary": "Diilrio de urn Mago Este diario aparenta ser urn pequeno livra de via gem. No entanto, ele tern urna aura mistiea a sua volta que pode seT detectada magicamente. A capa do diario e feita em cou- ro resistente e flexivel (preferencialmente de alguma criatu- fa mistiea), e as paginas devem ser feitas em papel da mais alta qualidade. 0 livra aparenta ter cefca...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-drachenzahn-mistica-104",
+      "name": "Drachenzahn Mistica",
+      "category": "combat",
+      "pages": [
+        104
+      ],
+      "summary": "Drachenzahn Mistica A Drachenzhan Mistica e a arma preferida dos Cavalei- ros cia Justi~a Divina, uma cabala dentro da Escola de Yamesh. as Cavaleiros cia ]usti<;a Divill_a era urn gropo de elite farmada por combatentes dos mais valorosos dentro cia Ordem. as Magos cia Escola de Yamesh sao padficos e evitam confrontos armadas com seus oponentes, preferindo s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-elixir-da-cura-total-105",
+      "name": "Elixir da Cura Total",
+      "category": "ritual_spell",
+      "pages": [
+        105
+      ],
+      "summary": "Elixir da Cura Total Restaura 0 Personagem a 100% de sellS pV's instantane- amente. Este elixir possui 0 saboT de frutas silvestres, e sua cor avermelhada e muito semeIhante aDs licores de maranga. Elixir da Juventude Os primeiros Elixires da Juventude foram criados como uma tentativa dos mortais de imitarem a imortalidade dos deuses. Mais tarde, foi utiliza...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-elixir-de-saude-magica-106",
+      "name": "Elixir de Saude Magica",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          106,
+          107
+        ]
+      ],
+      "summary": "Elixir de Saude Magica Esta po<;ao cura qualquer doen<;a, cegueira, insanida- de, infecc;6es, paralisia au outro mal de natureza MAGICA que afete 0 Persona gem. Nao afeta doenc;as natura is .. nem restaura as Pontos de Vida perdidos. Elixir de Saude Perfeita Esta poc;ao cura qualquer doenC;B, cegueira, insanida- de, infecc;oes, paralisia au outro mal NATURAL...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-escudo-x-108",
+      "name": "Escudo +X",
+      "category": "combat",
+      "pages": [
+        108
+      ],
+      "summary": "Escudo +X Urn escudo + X e capaz de se ajeitar melhor na mao de seu Dono. Ele melhora as chances de bloquear (defesa) urn golpe e ainda absorve parte do dano (IP). Veja abio as variantes conhecidas Gogue uma vez para a defesa e cutra para 0 IP): Defesa IP 1d100 +5% +1 01-55 +10% +2 56-80 +15% +3 81-94 +20% +4 95-98 +25% +5 99-00 Escudo +X/ + Y vs. Criatura F...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-escudo-de-aterrissagem-109",
+      "name": "Escudo de Aterrissagem",
+      "category": "combat",
+      "pages": [
+        109
+      ],
+      "summary": "Escudo de Aterrissagem Se 0 Dono estiver caindo de uma altura maior que 3m, ele pode caIocar 0 escudo sabre sua cabe<;a e este reduzira a velocidade de sua queda. 0 Dono fani urn pouso suave e cuidadoso no chao. Escudo de Infravisao o Dono deste escudo pode, sempre que desejar alhar atraves do escudo. Quando 0 fizer, ele adquire infravisao (enxergar no espec...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-esfera-negra-110",
+      "name": "Esfera Negra",
+      "category": "combat",
+      "pages": [
+        110
+      ],
+      "summary": "Esfera Negra Quando se joga uma esfera no chao, forma-se urn es- cudo de penumbra de 1m de raio ao redor da esfera. Esta penumbra forma urn escudo a prova de projeteis (qualquer coisa propelida por p61vora). A esfera resiste a 100 pontcs de dano ou 20 rodadas, 0 que Deorrer primeiro. Esmeralda de Prote~ao contra Frio Esta esmeralda cleve sec carregada sempre...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espada-de-odin-111",
+      "name": "Espada de Odin",
+      "category": "combat",
+      "pages": [
+        111
+      ],
+      "summary": "Espada de Odin (~ Este Artefato n6rdico foi trazido por urn estranho du- rante urn banquete no castelo Volsung (mms tarde, as deuses descobririam que este estranho era ninguem menos que 0 • ~~~I . proprio Odin) e cravada em uma arvore no centro do jardim. a estranho disse que qualquer urn que fosse capaz de retini-la da more seria 0 novo Dono da espada. Muit...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espada-dos-anoes-112",
+      "name": "Espada dos Anoes",
+      "category": "combat",
+      "pages": [
+        112
+      ],
+      "summary": "Espada dos Anoes Estas espadas fcram criadas por artifices AnDes, como resposta a Espada dos Elf os (ou reID menos assim eles di- zem). E uma espada +1, +3 se utilizada contra E1£os. Sao espaclas ricamente ornamentadas, com muitos desenhos de E1£os senda destro~ados por anoes inscritos em seu cabo e bainha. Desnecessario dizer que as Elfas odeiam esta espada...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espada-inteligente-113",
+      "name": "Espada Inteligente",
+      "category": "item_equipment",
+      "pages": [
+        113
+      ],
+      "summary": "Espada Inteligente Itens MagiC05 lnteligentes sao extremamente raros, e devem seT colocados em uma Campanha somente com au- toriza~ao do Mestre, que deve supervisionar todo 0 processo de criac;ao do item. Armas inteligentes sao fabricadas peios alquimistas e artifices atrav€s de complexos Rituais e Magias de constru- c;ao, bern como Rituais de captura e apri...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-personalidade-da-arma-114",
+      "name": "Personalidade da Arma",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          114,
+          115
+        ]
+      ],
+      "summary": "Personalidade da Arma Urn Arma Inteligente possui urna personalidade pro- pria. Cada arma teni sua pr6pria historia, agindo de aeorda com seu Background. 0 mesma raciocinio e valida para 0 espirito que habita a arma. No entanto, 0 Mestre pode utili- zar as tabelas abaixo para determinar a personalidade basica que arma tern. Personalidades 1d100 Amigavel 01-0...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espada-m-atadora-116",
+      "name": "Espada M atadora",
+      "category": "combat",
+      "pages": [
+        [
+          116,
+          117
+        ]
+      ],
+      "summary": "Espada M atadora de Insetos (jigantes Estas espadas +1 sao consideradas espadas +4 se utili- zadas contra insetos gigantes de qualquer tipo (incluindo escorpi5es, aranhas, besouros, formigas, gafanhotos e qual- quer ourras vers6es alteradas de insetos). as insetos gigantes costumarn ser origimirios de ex- perimentos magicos mal sucedidos no Caminho dos Ani-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espada-vs-anjos-118",
+      "name": "Espada vs. Anjos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          118,
+          119
+        ]
+      ],
+      "summary": "Espada vs. Anjos Estas armas foram forjadas pelos primeiros artifices demoniacos para serem utilizadas na grande Guerra Celestial que ainda nao ocorreu. Tamhem chamadas Espadas do Juizo Final, elas sao consideradas espadas +1, +3 contra qualquer habitante da Cidade de Praia e + 5 contra determinada Casta (sorteie ou escolha na tabela abaixo). As espadas func...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espelho-da-verdade-120",
+      "name": "Espelho da Verdade",
+      "category": "creature_npc",
+      "pages": [
+        120
+      ],
+      "summary": "Espelho da Verdade Este arteiato asteca consiste em urn espelho muito or- namentado, com desenhos esculpidos em ouro e prata, e que mantem-se limpo e brilhante nao importa quanta tem- po permanec;a guardado. Existem duvidas sabre seu real tamanho. Alguns sabios dizem que ele tinha 0 tamanho de urn homem de pe, enquanto autros argumentam que 0 Es- pelho astec...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espelho-dos-pianos-121",
+      "name": "Espelho dos PIanos",
+      "category": "item_equipment",
+      "pages": [
+        121
+      ],
+      "summary": "Espelho dos PIanos Variante do Espe1ho Portal. Estes espelhos sao feitos em grupos pequenos (na roaioria em dais, mas podem ser mais deles). Os espe1hos podem ser separados a vontade, mas preci- sam permanecer no mesma continente. Quando as palavras rruigicas sao pronunciadas, abre-se urn portal entre 0 espelho que esta na frente do Dono e 0 DUtro espellio (...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-esta-tuas-animadas-122",
+      "name": "Esta.tuas Animadas",
+      "category": "attribute_skill",
+      "pages": [
+        122
+      ],
+      "summary": "Esta.tuas Animadas Estatuas animadas magicamente sao as vezes chama- dos de Construtos au Golens (mas este termo e erroneo, pais Golens sao Estatuas Animadas especializadas em COID- bate - VeT Golem). Estatuas animadas sao extremamente raras, e devem ser colocadas em uma Campanha somente com autoriza<;ao do Mestre, que cleve supervisionar todo 0 processo de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-os-espiritos-123",
+      "name": "Os Espiritos",
+      "category": "attribute_skill",
+      "pages": [
+        123
+      ],
+      "summary": "Os Espiritos TODO objeto ffiagiCO inteligente, sem exce~ao, possui dentro de si urn espirito aprisionado (sejam eles espiritos de guerreiros, sabies, elementais ou espiritos mais atrasados). o espirito pode ter alguma afinidade com 0 Mago que criau a estatua (pode ser a alma de sua esposa, por exemplo), pode estar presQ a deveres ou obriga~5es (alma vendida,...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-como-a-esliilua-fala-124",
+      "name": "Como a Esliilua Fala?",
+      "category": "item_equipment",
+      "pages": [
+        124
+      ],
+      "summary": "Como a Esliilua Fala? A Estatua daquela bela sacerdotisa pode ser inteligente, mas de nada adiantani se ela naD conseguir se comtmicar com seu Dono. Assim como todos os objetos magicos, as estatuas vivas gerahnente sao criadas por Magos de alguma nacionali- dade, e eles tendem a se comunicar arenas na lingua em que fcram consrruidas. Algumas estatuas consegu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pericias-125",
+      "name": "Pericias",
+      "category": "power_magic",
+      "pages": [
+        [
+          125,
+          126
+        ]
+      ],
+      "summary": "Pericias Defina a os Pontos de Pericia e as Pericias que a estatua possui, e distribua estes pontos como achar melhor. As peri- cias devem obrigatoriamente ser compativeis com a profis- sao ou conhecimentos anteriores do espirito (respeitando tambem 0 periodo historico em que a estatua foi esculpida). Geralmente, 0 maior valor em uma pericia e 60%, no caso d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-faca-acini-127",
+      "name": "Faca ACiNI",
+      "category": "power_magic",
+      "pages": [
+        [
+          127,
+          128
+        ]
+      ],
+      "summary": "Faca ACiNI Estas facas sao utilizadas peles sacerdotes cia AGNI, uma seita indiana originalmente com posta por Daiphires (filhos hibridos de Rakshasas e humanas) com a objetivo de extermi- nar todas as criaturas sobrenaturais da Terra, especialmente os Vampiros e as A vatares dos deuses maleficos hindus. Com as ciganos, a seita conseguiu penetra~ao na Eu- ro...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-familiares-129",
+      "name": "Familiares",
+      "category": "attribute_skill",
+      "pages": [
+        129
+      ],
+      "summary": "Familiares Familiares sao espectros menores incorporados a ani- mais, que servem como companhia a Magos e feiticeiros. Familiares mais comuns incluem carvas, gatos, corujas e co- bras, mas qualquer animal pode servir aos Rituais. Estes ani- mais sao unidos aos Magos atraves de elos mentais e espiri- tuais. Muitos Magos sao capazes de sentir as emoc;:oes de s...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-feijoes-magicos-130",
+      "name": "Feijoes Magicos",
+      "category": "power_magic",
+      "pages": [
+        130
+      ],
+      "summary": "Feijoes Magicos Estes feijoes existem sempre em numero de 3. Se ape- nas urn deles for plantado, urn grande pe de feijao nasceni, suficiente para produzir 0 dobra de feij5es de urn pe de fei- jao cornum; se dais feijoes forem plantados, uma colheita inteira de feij5es nasceni destas plantas, mas se todos as tres feij6es forem plantados ao mesma tempo, eles d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ferramentas-do-artifice-131",
+      "name": "Ferramentas do Artifice",
+      "category": "power_magic",
+      "pages": [
+        131
+      ],
+      "summary": "Ferramentas do Artifice Nao ha uma origem para este tipo de Item Magico. Ferrugem Magica Aos olhos de urn lei go, a ferrugem magica e uma pe- quena pon;:ao inutil de ferrugem. No entanto, se colocada em cantata com algum material de a~o, ferro, bronze, aluminio, chumba ou Dutro metal nao nobre, 0 objeto enferrujara COlli- pletamente em 3d6 rodadas. Varianle...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-fivela-italiana-132",
+      "name": "Fivela Italiana",
+      "category": "combat",
+      "pages": [
+        132
+      ],
+      "summary": "Fivela Italiana Esta fivela magica pode ser adaptada a qualquer cinto de couro, tanto masculino quanta feminino. Ele possui ins- c ri~5es que, a distancia, nem sequer podem ser observadas. Ao alhar cuidadoso de urn especialista no assunto, nota-se que sao Tunas de combate. Ao ativar 0 efeito magico, 0 Dono solta a fivela e retira o cinto, segurando-o pela pa...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-rauta-de-orpheus-133",
+      "name": "Rauta de Orpheus",
+      "category": "power_magic",
+      "pages": [
+        133
+      ],
+      "summary": "Rauta de Orpheus Orpheus e urn dos principais personagens da mitolo- gia grega. Filho de Eagro e de Caliape, a mais formosa de todas as nove rousas, Orpheus tomou-se monarca de uma pequena regiao na Tracia. Artista, poeta e musica, Orpheus possuia uma flauta encantada com nove furos, cada furo dedicado a uma das nove musas, e capaz de emitir as mais belas no...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-flecha-de-encantar-134",
+      "name": "Flecha de Encantar",
+      "category": "power_magic",
+      "pages": [
+        [
+          134,
+          135
+        ]
+      ],
+      "summary": "Flecha de Encantar Esta flecha, ao atingir 0 alvo, nao provoca nenhum tipo de dano. A panta desta flecha e redonda, com uma gema incrustada. Porem, 0 Usuario pode 1/ colocar\" uma Magia em sua panta e disparar. Se a flecha atingir 0 alvo, 0 efeito magi- co e liberado, tomando-se 0 ponto de impacto como centro do efeito. Caso 0 atirador erre 0 disparo, tanto a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-forca-da-justi-a-136",
+      "name": "Forca da Justi.;a",
+      "category": "combat",
+      "pages": [
+        136
+      ],
+      "summary": "Forca da Justi.;a Esta forca foi encantada por wn Mago Iluminado como prava de sua fidelidade a Ordem. Ele criou 25 delas, mas algumas ja foram destruidas por bandoleiros como vingan- c;a pela morte de seus companheiros. A forca 56 funciona durante 0 por-da-sol. Urn acusado e posta na forca com as maos e pes amarrados. Ativa-se a Forca da }ustic;a com urn ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-forja-de-daglir-137",
+      "name": "Forja de Daglir",
+      "category": "item_equipment",
+      "pages": [
+        137
+      ],
+      "summary": "Forja de Daglir Esta forja magica foi criada pele Mago Daglir, da Or- clem Marmore. VIDa vez preparada, a farja e capaz de trans- formar qualquer ferro que seja fundido nela em urn metal +1. Trabalhar na farja exige tempo, paciencia e dedicac;ao. 0 forjador cleve permanecer sempre atento ao fogo mistico, cuidando para que a pec;a forjada fique perfeita. o Ma...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-frasco-das-tormentas-138",
+      "name": "Frasco das Tormentas",
+      "category": "creature_npc",
+      "pages": [
+        138
+      ],
+      "summary": "Frasco das Tormentas Este fraseD de rnetal lacrado foi construido por Mathias Szachmary mas nunea chegou realmente a ser utilizado na Terra. 0 Frasco das Tormentas ja foi testado uma limea vez em uma pequena vila em Arcadia, chamada Voolendam. Os Magos da Thule posicionaram 0 Frasco das Tormentas na pra<;a central da vila, e abriram 0 lacre de ferro. Do fras...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-frasco-espectral-139",
+      "name": "Frasco Espectral",
+      "category": "combat",
+      "pages": [
+        [
+          139,
+          140
+        ]
+      ],
+      "summary": "Frasco Espectral Estes magnificos frascos de vidro contem uma parte cia essencia do Rio Cacita, do Inferno. Quando urn observador alha atentamente para a garrafa, pode vislumbrar peda~os de almas e arremedos de rostes flutuando dentro do espesso liquido acizentado. Vma vez por semana, 0 Dono do frasco pode libertar a tormenta de almas aprisionadas dentro do...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-jagnoz-141",
+      "name": "(jagNoz",
+      "category": "combat",
+      "pages": [
+        [
+          141,
+          142
+        ]
+      ],
+      "summary": "(jagNoz Segundo as antigas Iendas n6rdicas, GagNoz e 0 Barco da Morte, capaz de levar as aImas da Terra para as femOS de Hel. Aparece em portos pequenos, e sempre a noite. Diz-se que ele e capaz de romper as barreiras dimensionais e aportar diretamente da Terra para Dite, a Cidade de Ferro, no Quinto Circulo do Inferno, ou Hel, no Nona Circulo. Para detalhes...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-variantes-conhecidas-143",
+      "name": "Variantes Conhecidas",
+      "category": "ritual_spell",
+      "pages": [
+        143
+      ],
+      "summary": "Variantes Conhecidas 1d100 Vermelho (Fogo) ill-13 Laranja (Acido) 14-26 Amarelo (Gases) 27-39 Verde (Flechas e Projeteis) 40-52 Azul (Frio) 53-65 Ani! (Eletrico) 66-78 Violeta (Magia) 79-91 Duas cores diferentes 92-98 Tres cores diferentes 99-00 Em hebraico, signifiea \"embrHio\", e tomou-se 0 nome de urn autOmato criado por urn Mago Petro praticante da Ca- ba...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-halberd-das-fileiras-144",
+      "name": "Halberd das Fileiras",
+      "category": "combat",
+      "pages": [
+        144
+      ],
+      "summary": "Halberd das Fileiras Este Halberd Magico +1 e sempre utilizado por urn comandante. Trata-se de urn item poderoso e extremamente uti! em combates de tropas. Urn grupamento precisa estar enfileirado Iateralmente para que se possa usar 0 Halberd das Fileiras. 0 comandante deve segurar 0 cajado em posi~ao vertical. Ele enta~ bate 0 cabo do halberd no chao duas v...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-harpa-de-apolo-145",
+      "name": "Harpa de Apolo",
+      "category": "power_magic",
+      "pages": [
+        [
+          145,
+          147
+        ]
+      ],
+      "summary": "Harpa de Apolo Este legendario artefato pertenceu ao deus ApeIa, e foi utilizado na constrw;ao das Muralhas da Cidade de Troia. Conta a lenda que Apale apenas tocava sua harp a, e as pedras dam;avam no ar ao som de sua musica, dispondo-se magicamente nas posic;5es corretas para a construc;ao das muralhas. As proprias redIaS encaixavam-s€, assentavam- se e se...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-espiritos-148",
+      "name": "Espiritos",
+      "category": "combat",
+      "pages": [
+        [
+          148,
+          149
+        ]
+      ],
+      "summary": "Espiritos T odos OS Espiritos Fantasmas Apari~6es Espiritos Espectros Seres de Velha Arcadia T OdDS os Seres Humanos Centauros Faunas Ninfas Cidopes Seres de Nova Arcadia rodos os Seres Ellos An5es Halflings Orcs Gigantes GnoJls Bugbears Fadas Gnomos Ondinas Salamandras Will'e'Wisps Vampiros Tados os Vampir~s Strigoi Brujas Sabios Lamiai Ekimmu Vrikolakas Er...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-instrumentos-dos-keepers-150",
+      "name": "Instrumentos dos Keepers",
+      "category": "combat",
+      "pages": [
+        150
+      ],
+      "summary": "Instrumentos dos Keepers Keepers sao as Anjos deformados de Paradisia, nasci- dos do ventre de Leviathan quando este foi derrotado por Bel Meridath em sua Primeira Batalha Celestial, e que mais tarde dariam origem aos Cenobitas e aos Chezas (hibridos· humanos e Keepers). Os Instrumentos dos Keepers sao utilizados para tOf- tura e dissecac;:ao de humanos, mas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-jarro-da-imunidade-151",
+      "name": "Jarro da Imunidade",
+      "category": "core_rule",
+      "pages": [
+        151
+      ],
+      "summary": "Jarro da Imunidade H6 muito tempo atn'i.s, em Nova Arcadia, vivia urn rei chamado Yusuki, completarnente paran6ico sabre sua segu- ranc;a. Temendo ataques de inimigos e traiC;5es de amigos, tinha mais medo ainda de ser envenenado. Como seu temer era tao grande que nem mesmo podia alimentar-se (afinal de contas, a comida podia estar envenada!), 0 rei pediu ao...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-jarro-de-evapora-ao-imediata-152",
+      "name": "Jarro de Evapora~ao Imediata",
+      "category": "item_equipment",
+      "pages": [
+        [
+          152,
+          153
+        ]
+      ],
+      "summary": "Jarro de Evapora~ao Imediata Este jarro tern a mesma exata descri\\,ao e aparencia do Jarro de Conten\\,ao Imediata/ com a diferen\\,a do que ele faz ao liquido. No momento em que 0 dono tentar tirar 0 liquido de dentro do jafro, 0 liquido evaporani por completo, perden- do todo e qualquer efeito que possuisse. Venenos sao destruidos, e as vapores nao sao consi...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-jothunstangen-154",
+      "name": "JothunStangen",
+      "category": "combat",
+      "pages": [
+        154
+      ],
+      "summary": "JothunStangen Esta lanc;a lenclaria foi fOljada petos Anoes de Aasgard, para enfrentar alguns Gigantes que estavam atacando uma das vilas vikings na Terra, atraves de urn portal aberto de Arcadia para 0 norte da Europa. Thor pediu a seu pail Odin, que enviasse a Terra doze destas lanc;as, para que as humanos pudessem enfrentar 0 problema. Ao final da Guerra...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-kaledfwich-155",
+      "name": "Kaledfwich",
+      "category": "combat",
+      "pages": [
+        155
+      ],
+      "summary": "Kaledfwich Ver Excalibur. Karanblade Tambem conhecida como a Espada do Fogo Eterno, Karanblade foi (oryada no Inferno por grandes Demonios de urn continente devastado pela Tormenta e pelas Guerras Segundo as Iendas, este artefato (oi usado par Galtar Karan para destruir Balrog, a Demonio lider das hordas que devastaram a vila de Malpetrim e metade do contine...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-karnag-156",
+      "name": "Karnag",
+      "category": "combat",
+      "pages": [
+        156
+      ],
+      "summary": "Karnag Esta adaga magica foi criada peIo mago Kurak Iapetus, alguns anos antes do incidente Nexus. Trata-se de uma adaga +2, esculpida de modo a proporcionar urn pequeno espa~o suficiente para alojar uma gerna especialmente esculpida e tra- balhada. Kurak esculpiu sete gemas durante a sua vida, e en- cantoll-as com poderes diversos. Quando uma destas gemas e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-katana-demoniaca-157",
+      "name": "Katana Demoniaca",
+      "category": "combat",
+      "pages": [
+        157
+      ],
+      "summary": "Katana Demoniaca Estas katanas +2 fcram forjadas pelos sacerdotes de Amaterasu e, apesar do nome, elas fcram utilizadas prima- riamente para car;ar e destruir Demonios, principalmente as Kappa e as Vampiros Kiang-Sill. A katana pode sentir a presenr;a de seres demoniacos em ate 10m de raia e, tres vezes ao dia, ela e capaz de causar 3d6 pontos de dano em urn...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-katar-magica-158",
+      "name": "Katar Magica",
+      "category": "combat",
+      "pages": [
+        [
+          158,
+          159
+        ]
+      ],
+      "summary": "Katar Magica Ver Arma Magica. Katar de Abdulla Abdulla AI-Assif era urn ffiw;ulmano que vivia na re- giao do Nepal, e foi urn dos primeiros cac;adores de tigres cuja hist6ria ficou registrada em pergaminhos. Segundo as textos, Abdulla cac;ava tigres para testar sua coragem e resis- t€~ncia, e era conhecido como II 0 demonio do continente do suI\". Para conseg...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-lamp-ada-magica-160",
+      "name": "lamp ada Magica",
+      "category": "power_magic",
+      "pages": [
+        160
+      ],
+      "summary": "lamp ada Magica Estas lampadas sao pris6es dimensionais utilizadas para capturar as mais perigosos Djinns e Efreetis do periede Suleiman, na Arabia. Estas lampadas foram arremessadas nas profundezas do mar, mas muitas delas acabaram paran- do em paises costeiros, seculos ap6s terem side afundadas. Cada Iampada aprisiona urn Genic, que passui personalida- de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-lan-a-celestial-161",
+      "name": "lan~a Celestial",
+      "category": "combat",
+      "pages": [
+        [
+          161,
+          162
+        ]
+      ],
+      "summary": "lan~a Celestial Uma das armas misticas moos desejadas na Cidade de Prata, a Lan~a Ce1estial e uma arma ffiagica +3, capaz de infligir 2d6+6 pontos de dano contra urn Demonio (mais bonus de FR) au 2d6+3 contra outras criaturas. Foram criadas 222 Lanc;as Celestiais, para serem da- das como premios aos melhores Anjos Captares de cada gera<;ao. Alem destes poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-lira-de-edificacao-163",
+      "name": "lira de Edificacao",
+      "category": "power_magic",
+      "pages": [
+        163
+      ],
+      "summary": "lira de Edificacao o usuario desta lira pode edilicar muros com ate 10m de comprimento, Sm de altura e 3m de largura por dia, dis- pastas da maneira que 0 dono da lira desejar. a muro de pedra e considerado permanente, apesar de pader ser dis- solvido com magias au rituais de anulac;ao de magias. Este Item Magico foi desenvolvido pelo feiticeiro gre- go cham...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-calendario-mistico-de-tycho-brahe-164",
+      "name": "Calendario Mistico de Tycho Brahe",
+      "category": "power_magic",
+      "pages": [
+        [
+          164,
+          165
+        ]
+      ],
+      "summary": "Calendario Mistico de Tycho Brahe Linguagem: Iatim. Tipo: esculpido em bloeDs de pedra. Autor: Tycho Brahe. Ano:1620. Raridade: 16 capias. Conteudo: datas e epocas propensas a realizac;:ao de Ritu- ais de passagem entre pIanos diversos. Tycho Brahe foi re- conhecido, ainda em vida, como urn competente astronomo por suas observa<;oes sabre as crateras lunares...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ibiciib-166",
+      "name": "IbiCiib",
+      "category": "power_magic",
+      "pages": [
+        166
+      ],
+      "summary": "IbiCiib Linguagem: desconhecida. Tipo: manuscritos. Autor: desconhecido. Ana; desconhecido. Raridade: apenas 2 exemplares conhecidos. Conteudo: provavelmente invocac;5es muito poderosas. Nao se tern noticia de ninguem que tenha vista pessoalmen- te este livro, mas centenas de magos afirmam conhecerem algum mistic~ cuja mentor sabia 0 paradeiro de uma das c6p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-livro-de-enoch-167",
+      "name": "Livro de Enoch",
+      "category": "creature_npc",
+      "pages": [
+        167
+      ],
+      "summary": "Livro de Enoch Linguagem: grego (copias em latim e ingles). Tipo: manuscritos. Autor: atribuido ao profeta Enoch. Ano: seculo 1. Raridade: os manuscritos sao legendarios, mas muitas co- pias podem ser encontradas. Conteudo: Anjos, Demonios e pentagramas de prote~ao contra diversos seres sobrenaturais. Contem uma descri\\=ao detaIhada da Cidade de Prata em uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-oracles-of-nostradamus-168",
+      "name": "Oracles of Nostradamus",
+      "category": "creature_npc",
+      "pages": [
+        168
+      ],
+      "summary": "Oracles of Nostradamus Linguagem: frances. Tipo: livro impressa. Autor: Nostradamus. Ano:1555. Raridade: cerca de 200 capias existentes. Conteudo: previs6es sobre tragedias em diversos locais do mundo ao longo dos anos. Nostradamus ficau conhecido como urn dos mais respeitados adivinhos de todos as tem- pos e suas previs5es chegaram ao publico leigo. Papyri...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tratato-druidae-at-arcadia-169",
+      "name": "Tratato Druidae at Arcadia",
+      "category": "ritual_spell",
+      "pages": [
+        169
+      ],
+      "summary": "Tratato Druidae at Arcadia Linguagem: ingles (c6digos de Alquimia). Tipo: manuscritos. Autor: Kurak Iapetus. Ana: seculo XII. Raridade: somente 6 c6pias existentes. Conteudo: Fadas e seres de Arcadia em geral. Kurak Iapetus possuia tantas rela~5es com as Cortes de Arcadia que rece- bia tratamento semelhante ao de um embaixador. Apcs sua morte, 0 relacionamen...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-luvas-de-estrangular-170",
+      "name": "Luvas de Estrangular",
+      "category": "item_equipment",
+      "pages": [
+        170
+      ],
+      "summary": "Luvas de Estrangular Vma vez por dia, 0 dono pode tentar esmagar 0 pesco- eyo de uma {mica vitima, em urn ataque especial, e pode fazer Id6 pontos de dano por rodada, durante ate 5 rodadas (a vitima pode fazer urn Teste de CON para reduzir 0 dano a metade). Estas luvas concedem a seu dono uma for\\=a equi- valente a de urn torniguete quando ativadas. Existem...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mac-a-magica-171",
+      "name": "Mac;a Magica",
+      "category": "combat",
+      "pages": [
+        171
+      ],
+      "summary": "Mac;a Magica Consulte Anna Magica. Casa voce deseje especilicar 0 tipo de ma~a, consulte a tabela abaixo para enconuar alguns dos mais conhecidos mo- delos de Armas Magicas. Para maiores detalhes sabre cada urna deslas rna,as, consulte 0 GUIA DE ARMAS MEDiEV A1S. Tipodemafa 1d10 Clava 1 Mac;a de Exercito 2-3 Mac;a de Guerra 4-5 Morningstar 6 Porrete 7 8astao...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-machado-magico-172",
+      "name": "Machado Magico",
+      "category": "item_equipment",
+      "pages": [
+        172
+      ],
+      "summary": "Machado Magico Consulte Arma Magica. Caso voce deseje especificar 0 tipo de machado, (on- suIte a tabela abaixo para encontrar alguns dos mais conhe- cidos modelos de Armas Magicas. Para maiores detalhes sabre cada urn destes macha- dos, consulte 0 GUIA DE ARMAS MEDlEY AlS. Tipo de Machado ldl0 Machado de Mao 1 Machadinha 2 Machado de Arremesso 3 Machado Mil...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-magus-173",
+      "name": "Magus",
+      "category": "combat",
+      "pages": [
+        173
+      ],
+      "summary": "Magus Magus e urn cajado de madeira tratada com aproxima- damente 1,60 m de altura, mas muito leve. Vista a alhos ma[- tais, 0 cajado nao passa de urn cabo de madeira esculpido com uma pedra verde incrustada na panta, mas trata-se de uma 6tima arma para Magos e outras pessoas que nao tern for~a ou nao querem empunhar urna espada au outras armas. A pedra do c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-manoplas-de-arremesso-174",
+      "name": "Manoplas de Arremesso",
+      "category": "power_magic",
+      "pages": [
+        [
+          174,
+          175
+        ]
+      ],
+      "summary": "Manoplas de Arremesso Estas manop las magicas permitem ao dono arremes- sar qualquer arma de ferro que esteja segurando (e 56 funci- ana com armas de ferro) a ate 25m de distancia, e a arma retornara magicamen te as maos de quem a arremessou. As manoplas sao de ferro pesado, contam como manoplas de golpear +1 e, por causa da forte Magia contida nela, tomam-...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mapa-do-tesouro-176",
+      "name": "Mapa do Tesouro",
+      "category": "combat",
+      "pages": [
+        176
+      ],
+      "summary": "Mapa do Tesouro Estes mapas magicos foram criados pelos deuses do caos como uma diversao; uma especie de teste entre as mor- tais. Os mapas consistiam em espiritos errantes que vaga- vam pelos cantos mais obscur~s da Terra, atraidos por te- scuros de grande valor, e de preferencia abandonados ou escondidos, e protegidos por inumeras armadilhas. Uma vez encon...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mascara-aurea-177",
+      "name": "Mascara Aurea",
+      "category": "creature_npc",
+      "pages": [
+        177
+      ],
+      "summary": "Mascara Aurea Tambem chamada de Mascara dos Fara6s ou Mascara de Ramses. Esta mascara com estilo egipcio pode ser ativada uma vez ao dia, e permanecer em funcionamento durante cerca de dez minutes. Neste periodo, qualquer pessoa que olhar para a mascara fieani cego por urn dia inteiro, recupe- rando a visao apenas ao cair do sol do dia seguinte. As vitimas p...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mascara-de-oneiros-178",
+      "name": "Mascara de Oneiros",
+      "category": "creature_npc",
+      "pages": [
+        178
+      ],
+      "summary": "Mascara de Oneiros \" Esb Mascara foi entregue de presente a Morpheus por seu pai, Bypnes e, em conjunto com as Areias de Morpheus e 0 Rubi do Sonhar, formam as tres presentes do monarca do Reina dos Sonhas. Qualquer pessoa que estiver vestindo esta mascara possui livre acesso a todas as regi5es dos Reinos de Hipnos, incluindo Phantaslls, Sonhar e Proebetus....",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mascara-sem-rosto-179",
+      "name": "Mascara Sem Rosto",
+      "category": "item_equipment",
+      "pages": [
+        179
+      ],
+      "summary": "Mascara Sem Rosto Estas mas'caras sao utilizadas pelos d iscipulos de Luvithy (em conjunto com as robes negros) quando preci- sam realizar algum assassinate au missao perigosa. Estas mascaras literalmente nao possuem rosto, mas quem as es- tiver usando sera capaz de enxergar perfeitamente. As mas- caras conferem urn bonus de +3 em FR, CON, DEX e AGI enquanto...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-medalhao-de-mudan-a-180",
+      "name": "Medalhao de Mudan~a",
+      "category": "power_magic",
+      "pages": [
+        180
+      ],
+      "summary": "Medalhao de Mudan~a de Tamanho Este medalhao permite ao Usmlrio aumentar au dimi- nuir de tamanho como desejar, para ate 10% au 200% do tama- MO original. VOla pessoa gigante recebe +6 em bonus de FR e CON. Cacla transforma~ao demora uma rodada completa, e 0 Us.uario nao pode fazer nenhuma outra ac;ao durante este tem- po. 0 Usmirio pode permanecer nesta for...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-medalhao-de-trocar-e-segurar-181",
+      "name": "Medalhao de Trocar e Segurar",
+      "category": "creature_npc",
+      "pages": [
+        181
+      ],
+      "summary": "Medalhao de Trocar e Segurar Este medalhao e unido a urn bolsa extra dimensionaL A dimensao do bolsa e de 20x20x20 em e tem uma capacida- de de peso de 25kg. Vma vez por dia, 0 Usuario do medalhao pode trocar qualquer coisa dentro de 3 metros da linha de visao do medalhao com tudo que esta dentro. (Nao hA ne- nhuma exigencia sabre 0 tipo de material a ser tr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-medalhao-dos-portais-182",
+      "name": "Medalhao dos Portais",
+      "category": "power_magic",
+      "pages": [
+        182
+      ],
+      "summary": "Medalhao dos Portais Este medalhao permite ao Dono conjurar partais dimen- sionais proximos ao local oude esta senda utilizado. Seu crja- dor, 0 famosa Mago Iapetos, desenvolveu este medalhao em suas pesquisas sabre outros PIanos de Existencia. Uma vez por semana, 0 medalhao pode ser ativado e cria urn Portal Magico que pode variar de I Dem ate 2m de raia, a...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-mochilas-de-jrande-183",
+      "name": "Mochilas de (jrande",
+      "category": "item_equipment",
+      "pages": [
+        183
+      ],
+      "summary": "Mochilas de (jrande Capacidade Estas mochilas se parecem com mochilas norma is, exceto peIo seu interior I bordado em runas e c6digos fenicios espaJhados por todD 0 interior, que e bastante eSCUTe. Estas mochiIas podem carregar grandes quantidades de equipamentos e peso sem ficarem mais pesadas com isto. o Usuario pode guardar ate urn determinado peso dentro...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-montante-de-shanower-184",
+      "name": "Montante de Shanower",
+      "category": "combat",
+      "pages": [
+        184
+      ],
+      "summary": "Montante de Shanower I Esta Montante +3 foi forjada em Arcadia por Gnomos fabricantes do norte. Uma vez ao dia, a espada pode ser ma- nejada apenas com urna das maos (se, por exemplo, 0 Usml- rio estiver montado sobre urn cavalo ou outro tipo de mOfl- taria), nao sofrendo nenhum tipo de penalidade, nem no va- lor de ataque, nem no dano. A Montante de Shanowe...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-navio-fenicio-185",
+      "name": "Navio Fenicio",
+      "category": "item_equipment",
+      "pages": [
+        185
+      ],
+      "summary": "Navio Fenicio Encontrado somente na regiao do Mediternlneo. E apresentado como uma miniatura de urn barco ferucio, com cerca de 5 a 10 em de eomprimen to que, quando 0 Persona- gem diz as palavras de ativac:;ao, transforma-se em urn barco fenicio real. 0 barco pode nova mente reverter ao tamanho reduzido com uma palavra de comando de seu Dono. Capacidade (pe...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-nectar-de-valerian-186",
+      "name": "Nectar de Valerian",
+      "category": "power_magic",
+      "pages": [
+        186
+      ],
+      "summary": "Nectar de Valerian Este nectar foi desenvolvido peID poderoso Mago Valerian. Membra da Sociedade de Tenebras, Valerian ficau conhecido por ter ensinado seus conhecimentos mlsticos a dezenas de aprendizes, ao 10ngo de quase dais seculos. Fato incomum 11a Sociedade de Tenebras, mas que a colocou numa posi~ao muito forte em toda Europa durante 0 seculo XIV. Com...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-objetos-inteligentes-187",
+      "name": "Objetos Inteligentes",
+      "category": "power_magic",
+      "pages": [
+        [
+          187,
+          188
+        ]
+      ],
+      "summary": "Objetos Inteligentes Itens Magicos Inteligentes sao extremamente raros, e devem ser colocados em uma Campanha somente com au- toriza~ao do Mestre, que deve supervisionar todo 0 proces- 50 de cria~ao do Item. Objetos de uso cotidiano que possuem inteligencia sao fabricados pelos Alquimistas e Artifices atraves de com- plexos Rituais e Magias de constrw;ao, be...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-idiomas-189",
+      "name": "Idiomas",
+      "category": "power_magic",
+      "pages": [
+        [
+          189,
+          190
+        ]
+      ],
+      "summary": "Idiomas Urn Objeto Magico pode saber utilizar urn ou mais idi- omas. Issa e determinado principalmente por dois fatores. Considera-se que 0 Alquimista que 0 criall 0 tenha encantado com a capacidade de utilizar tOd05 as idiomas que ele mesmo era capaz de utilizar. Porem, qualquer Obje- to Magico e capaz de aprender novas linguas, 0 que aumenta suas capacidad...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-oculos-de-visao-noturna-191",
+      "name": "Oculos de Visao Noturna",
+      "category": "item_equipment",
+      "pages": [
+        191
+      ],
+      "summary": "Oculos de Visao Noturna Estes Dcules feitos com cristais escuros permitem ao Usuario enxergar na mais profunda escuridao, como em uma noite sem lua ou no interior de uma cavema. Apesar do visual urn pouca estranho dos oeuIes, eles tern funcionado muito bern, e ja salvaram muitos Aventu- reiros em cavernas e buracos forrados de armadilhas. Existem duas vers5e...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-oleo-de-luminescencia-192",
+      "name": "Oleo de Luminescencia",
+      "category": "combat",
+      "pages": [
+        192
+      ],
+      "summary": "Oleo de Luminescencia Este 6leo pode ser aplicado sabre quaIquer tipo de objeto au ser vivo, sem 0 risco de causar algum mal direta- mente. Uma observa~ao visual mostrara urn oleo amarela- do, mas que pode refletir todas as cores do areo-iris se obser- vado do angulo cerreta. 0 frasco sent sempre urn vidro de alta transparencia, muito limpo e com pouea rugos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-oleo-de-viagem-astral-193",
+      "name": "Oleo de Viagem Astral",
+      "category": "power_magic",
+      "pages": [
+        193
+      ],
+      "summary": "Oleo de Viagem Astral Este 6leo libera 0 corpo astral do Persona gem imedi- atamente apos sua ingestao (sim, e para ingerir 0 oleo, e nao para passa-Io sobre a pele, e pode-se afirmar que nao e mui- to agradaveI). Ista permite que 0 Personagem entre no mundo de Spirituffi, ligado a seu cordao de prata. Esta poc;ao tern a durac;ao de cerea de 4 a 5 horas. Ap6...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-01hos-de-petrifica-ao-194",
+      "name": "01hos de Petrifica~ao",
+      "category": "power_magic",
+      "pages": [
+        194
+      ],
+      "summary": "01hos de Petrifica~ao Urna vez colocados, estes alhos conferem ao Usuario os mesmos poderes da Medusa. Qualquer pessaa que olhe nos alhos do Usuano (seja amigo ou inimigo) precisa fazer urn Teste de DEX vs. 20 ou ser transformado em pedra, Para que funcionem, 0 Usuario cleve caloear as Ientes em seus ethos durante urna semana inteira, e somente enta~ os pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-orbe-de-abertura-195",
+      "name": "Orbe de Abertura",
+      "category": "power_magic",
+      "pages": [
+        195
+      ],
+      "summary": "Orbe de Abertura Quando arremessada contra qualquer porta, esta pe- quena esfera de vidro transparente (com uma pequena cha- ve dourada presa em seu interior) explode em uma forc:;a mistica capaz de abrir qualquer porta, destrancando fecha- duras, abrindo cadeados e arrebentando pinos, travas ou rrancas. Caso a porta esteja selada magicamente, e necessa- rio...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-orbe-de-transcurso-196",
+      "name": "Orbe de Transcurso",
+      "category": "core_rule",
+      "pages": [
+        196
+      ],
+      "summary": "Orbe de Transcurso Estas orbes fcram criadas peIe grande Feiticeiro Petro Arkbasthos. Quando arrel11essacla, esta orbe abre urn buraco de 1m de raio na parede que atingir (se nao ha nenhuma pare- de dentro de 1m do local de irnpacto, a orbe abre urn buraco no chao mais proximo ou no teto, dentro da area de 1m). 0 buraco pode aparecer em qualquer madeira nao...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-0550-da-sorte-197",
+      "name": "0550 da Sorte",
+      "category": "power_magic",
+      "pages": [
+        197
+      ],
+      "summary": "0550 da Sorte Estes pequenos osses de galinha bifurcados podem ser encantados pela Magia Cigana para tornarem-se osses da sarte. f: urn Ritual reIativamente simples, que nao requer muitos conhecimentos ffiagicos por parte da cigana. Dais Aventureiros devem segurar as pontas opostas do OS50 da SeTte e puxarem ao mesma tempo. o A ventureiro que ficar com a par...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-ovo-de-emesh-198",
+      "name": "Ovo de Emesh",
+      "category": "creature_npc",
+      "pages": [
+        198
+      ],
+      "summary": "Ovo de Emesh Este artefato babilonico consistia em urn ovo de pedra branca cuidadosamente pintado nas cores vermelho e ne- gro, que deveria ser conduzido por urn sacerdote ate a plan- ta<;ao e enterrado bern no centro desta, no primeiro clia da esta<;ao do vedi.o. 0 ovo deveria permanecer enterrado ate a coiheita, quando os paderes magicos do ovo se manifest...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-paleta-de-pintura-magica-199",
+      "name": "Paleta de Pintura Magica",
+      "category": "item_equipment",
+      "pages": [
+        [
+          199,
+          200
+        ]
+      ],
+      "summary": "Paleta de Pintura Magica Este item foi pesquisado pelos Magos Renascentistas durante muito tempo, e existem muitas variac;5es. A paleta mais comum e a que cria e mistura as tintas sozinha (lern- bre-se que na Idade Media nao existia nada sequer parecido com lojas de tinta). Outras versoes foram criadas para pinto- res nao iniciados que gostariam de melhorar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pedra-filosofal-201",
+      "name": "Pedra Filosofal",
+      "category": "power_magic",
+      "pages": [
+        201
+      ],
+      "summary": "Pedra Filosofal Este artefata e muito pesquisado por Alquimistas, mas somente uns poueos efetivamente conseguiram produzi-Ia em seus laborat6rios. A pesquisa para a criac;ao da Pedra Filosofal demora anos, senao decadas para ser finalizada e, neste periodo, 0 Mago precisa aprender diversas Ifnguas an- tigas (as textos e Grim6rios que explicam detalhes sobre...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pele-do-leao-da-nemedia-202",
+      "name": "Pele do Leao da Nemedia",
+      "category": "power_magic",
+      "pages": [
+        202
+      ],
+      "summary": "Pele do Leao da Nemedia Esta armadura mistica foi criada por Hercules, utilizan- do-se da pete do famasa Jeao que importunava Nemedia, em Arcadia. Perdida apos sua morte na Terra, aproximadamen- te em 2000 AC, nunca mais foi vista. Enquanto estiver utilizando a pele como armadura, 0 Usuario se torna virtualmente invulnenivel a qualquer tipo de ataque fisico,...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-variantes-conhecidas-203",
+      "name": "Variantes conhecidas",
+      "category": "creature_npc",
+      "pages": [
+        203
+      ],
+      "summary": "Variantes conhecidas 1 d1 0 Pentagrama de Conjurac;ao 1-4 Pentagrama de Protec;ao 5-8 Pentagrama de Conjura<;ao ou Protec;ao 9-0 Pentagrama de Conjura~ao : Estes amuletos aumen- tam 0 Focus de urn Mago em Rituais relacio~ados a conjura- c:;a.o de Dem6nios ou outras criaturas do Inferno. Sorteie na tabela abaixo 0 bonus que este Pentagrama fornec€. Bonus +1 +...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-piano-magico-de-estevan-204",
+      "name": "Piano Magico de Estevan",
+      "category": "core_rule",
+      "pages": [
+        204
+      ],
+      "summary": "Piano Magico de Estevan Este piano, que e considerado por rnuitos sabios como urn artefato unieD, foi criado por urn grande feiticeiro de Arcadia chamado Estevan, e consiste em urn piano de cauda que permanece vagando atraves do Plano Astral, sempre em contato com a Terra. Este Piano procura atraves dos Pla- nas por gropos de Aventureiros que possuam integra...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pingente-de-anansi-205",
+      "name": "Pingente de Anansi",
+      "category": "combat",
+      "pages": [
+        205
+      ],
+      "summary": "Pingente de Anansi '. Anansi (em ingles, Ananasi) e a deusa africana das aranhas, cujo maior templo esrn localizado as margens do rio Congo, nas partes mais desconhecidas da Africa. Ao contra rio dos Aneis de Anansi, os Pingentes sao feitos na forma de brincos, para serem utilizados por sacer- dotisas em seus cultos ou quando estas estivessem infiltradas. o...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pingente-de-avalon-206",
+      "name": "Pingente de Avalon",
+      "category": "power_magic",
+      "pages": [
+        206
+      ],
+      "summary": "Pingente de Avalon As maiores ilhas perdidas de Arcadia sao as Ilhas de Avalon, ao oeste das Ilhas Britanicas. Estas ilhas nao fazem exatamente parte de Arcadia, mas Hearn localizadas em urn meio termo entre 0 Reina das Fadas Britanicas e a Terra. Dizem que estas iIhas foram criadas por Morgana Le Fey no seculo V, e servem como morada para as Grandes Her6is...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pino-metalico-asimani-207",
+      "name": "Pino Metalico Asimani",
+      "category": "race_lineage",
+      "pages": [
+        207
+      ],
+      "summary": "Pino Metalico Asimani Estes pregos enferrujados com cerca de Scm de coo1- prim en to, e grossos como urn declo indicadof, podem ser \"enterrados\" na nuea de uma pessoa com pOllca es- for~o por parte do bruxo. Vma vez enterraclos, a pessoa fica sob total cantrale mental do Dono do pino (ou do Mago que criou este Ritual). A vitirna nao tern direito a nenhum Tes...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-de-morpheus-208",
+      "name": "Po de Morpheus",
+      "category": "attribute_skill",
+      "pages": [
+        208
+      ],
+      "summary": "Po de Morpheus Tambern conhecido como Areias de Morpheus. Este p6, quando arremessado sabre uma area, faz com que todas as criaturas que estejam sob 0 efeito do p6 caiam em urn sono profunda durante algumas haras. As vitimas podem fazer urn Teste de WILL para resis- tir aos efeitos do p6. Cada saco de Areia de Morpheus con- tern 0 suficiente para 3+ Id3 apli...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-bafo-de-dragao-209",
+      "name": "Po~ao de Bafo de Dragao",
+      "category": "item_equipment",
+      "pages": [
+        209
+      ],
+      "summary": "Po~ao de Bafo de Dragao /' /' Esta po\\=ao da ao Persona gem a habilidade de criar urn bafo de algum tipo sabre os inimigos. Suas primeiras ver- soes foram desenvolvidas ainda em Amon, em Ark-a-nun, e mais tarde, passadas a Terra pelos Magos que procuravam escapar da destrui\\=ao. Algumas vers6es desta po~ao foram criadas com a pecu- liaridade de impedir a com...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-crialuras-afeladas-210",
+      "name": "Crialuras Afeladas",
+      "category": "creature_npc",
+      "pages": [
+        [
+          210,
+          211
+        ]
+      ],
+      "summary": "Crialuras Afeladas 1d100 Drag5es 01-08 Anjos de Paradisia 09-22 Espiritos 23-38 Seres de Velha Arcadia 39-47 Seres de Nova Arcadia 48-69 Vampir~s 70-90 Demonios 91-00 Ap6s consultar a Tabela de Criaturas Afetadas (acima), sorteie novamente na tabela apropriada abaixo, para deter- minar a que tipo especifico de criatura 0 Scroll se refere. Dragoes 1d100 T OdD...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-cura-212",
+      "name": "Po~ao de Cura",
+      "category": "item_equipment",
+      "pages": [
+        [
+          212,
+          213
+        ]
+      ],
+      "summary": "Po~ao de Cura Esta e considerada como a mais cornum das poc;5es. Alguns Alquimistas acreditam .. inclusive, que muitas de- las nao sao magicas, mas sim apenas uma combinac;ao de elementos naturais com caracteristicas medicinais. Exis- tern algumas variantes: PV's 1d100 Id6 01-55 2d6 56-70 3d6 71-92 4d6 93-98 5d6 99-D0 Po~ao de Desencantar Esta poc;ao que bra...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-juelras-de-peixes-214",
+      "name": "Po~ao de (juelras de Peixes",
+      "category": "attribute_skill",
+      "pages": [
+        214
+      ],
+      "summary": "Po~ao de (juelras de Peixes Esta po~ao esverdeacla tern gosto de peixe. Quando alguem a beber, a po<;ao criani guelras atrAs das orelhas do Personagem e, atraves delas, permite ao mesma respirar debaixo d' agua por cerea de 2 horas. Po~ao de (jregoire Esta por;ao foi desenvolvida pele Mago Evander Gregoire para ser usada durante seus langos periodos de estud...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-janus-215",
+      "name": "Po-;ao de Janus",
+      "category": "power_magic",
+      "pages": [
+        215
+      ],
+      "summary": "Po-;ao de Janus Janus era 0 deus romano da vigilia, e era representaclo por urn seT dourado Ganus era urn dos ultimos representan- tes da rac;a dos homens dourados) com duas faces, uma n or- mal e a Dutra situada na parte de tf<is de sua cabec;a. Desta forma, Janus poderia vigiar sua frente e sua re- taguarda ao mesmo tempo. Seu simbolo era uma moeda de Duro...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-lich-216",
+      "name": "Po~ao de lich",
+      "category": "power_magic",
+      "pages": [
+        [
+          216,
+          217
+        ]
+      ],
+      "summary": "Po~ao de lich '---------------------------------~ Lich e urn termo do Leste Europeu para designar 0 Vampiro Magc, mas geralmente refere-se aos Magos que decidiram viver para sempre. as Gehs sao feiticeiros poderosissimos, e sempre envol- vidos com politica, pesquisa au uma sede de conhecimento au poder tao forte que, com eles, simplesmente deixam de mOT- reT...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-ao-de-voo-218",
+      "name": "Po~ao de Voo",
+      "category": "item_equipment",
+      "pages": [
+        [
+          218,
+          219
+        ]
+      ],
+      "summary": "Po~ao de Voo o Permite ao Personagem voar com velocidade aproxi- mad. de 20m/ s. Algum.s das Po,6es de V 60 podem ter side produzidas com erro, permitindo apenas movimentos verti- cais (levitac;:ao). Alguns Magos consideram as Poc;:oes de Levi- tac;ao como poc;:oes independentes, aurras consideram Po- c;:oes de Levitac;:ao como versoes fracas da Poc;:iio de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-po-o-de-bathory-220",
+      "name": "Po~o de Bathory",
+      "category": "race_lineage",
+      "pages": [
+        220
+      ],
+      "summary": "Po~o de Bathory A Condessa de Bathory nasceu em 1560, numa era onde a Hungria havia sido conquistada pelas fon:;as turcas do Imperio Otomano, sendo campo de batalha entre as exerci- tos da Turquia e da Austria (Habsburgo). A familia de Bathory juntou-se a nova onda de Protes- tantismo que fazia oposiC;a.o ao catolicismo romano tradicio- na!. Quando crian.:;:...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-polirnento-perfeito-221",
+      "name": "Polirnento Perfeito",
+      "category": "power_magic",
+      "pages": [
+        221
+      ],
+      "summary": "Polirnento Perfeito de Pasquali Esta tinta magica cleve seT aplicada em qualquer tipo de superficie, e tern urn efeito maravilhoso: ela deixa qual- quer tipo de superficie lisa e escorregadia como gela. Mesma revestimentos de pedra bruta tornam-se lisos como vidro molhado, mantendo sua aparente textura, ou seja, urn observador sera capaz de jurar que aquele...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pun-hal-de-brutus-222",
+      "name": "Pun hal de Brutus",
+      "category": "item_equipment",
+      "pages": [
+        222
+      ],
+      "summary": "Pun hal de Brutus ~ ( \\ -. fl · l~ Este artefato foi criado quando Brutus 0 utilizou para esfaquear Julio Cesar. Cesar amaldi~oou Brutus por sua trai- c;ao e 0 punhal foi roubado das maos dele dias depois. Este punhal pade ser considerado uma arma +3, capaz de causar dano triplicado (3d6+3) se usado em golpes traic;oeiros (pelas costas ou contra urn adversar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-quadros-magicos-223",
+      "name": "Quadros Magicos",
+      "category": "item_equipment",
+      "pages": [
+        223
+      ],
+      "summary": "Quadros Magicos Estes itens magicos sao considerados especiais. Exis- tern poucos, e todos, sem exce<;ao, foram encomendados por alguem com urn prop6sito especial. Cada Quadro Magico possui caracteristicas pr6prias e muitas vezes unicas. Por esta razao, aconselhamos que 0 Mestre erie TODA a hist6ria do quadro, desde a sua criac;ao ate 0 presente momento, ant...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-quarto-prego-224",
+      "name": "Quarto Prego",
+      "category": "power_magic",
+      "pages": [
+        224
+      ],
+      "summary": "Quarto Prego Este artefato legendano e considerado sagrado para os aganos. Conta a lenda que, quando os soIdados ramanes es- tavam preparando a crucifica<;ao de Jesus Cristo, eles planeja- yam usarquatro pregos de ferro para prega-Io na cruz, a exem- plo do que era feito com os ladr5es comuns, sendo 0 quarto prega preparado para furar seus joelhos. Vma menin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-raizes-magicas-225",
+      "name": "Raizes Magicas",
+      "category": "core_rule",
+      "pages": [
+        225
+      ],
+      "summary": "Raizes Magicas Estas raizes podem ser encontradas em diversas cultu- ras e foram utilizadas por muitos Alquimistas durante a Idade Media e ate as dias de hoje. Geralmente, a raiz e remo- vida da terra e limpa, purificando-a para que possa atraves- sar uma serie de processos alquimicos ate que sejam extrai- das suas propriedades especiais. Muitas vezes, elas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-reliquias-de-zuppani-226",
+      "name": "Reliquias de Zuppani",
+      "category": "item_equipment",
+      "pages": [
+        [
+          226,
+          227
+        ]
+      ],
+      "summary": "Reliquias de Zuppani Estas armas foram criadas por 4 antigos e poderosos Magosda Casa de Chronos, para urn grupo de 20 Aventurei- ros prontos para enfrentar 0 maior dos desafios: descer ate 0 selima Circulo do Inferno, destruir todos as Demonios do Castelo de Chax e resgatar urn Contra to Magico. Ekllik, 0 mais jovem dos Magos, cricll 8 lam;:as para as poder...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-robe-da-aranha-228",
+      "name": "Robe da Aranha",
+      "category": "combat",
+      "pages": [
+        228
+      ],
+      "summary": "Robe da Aranha Este robe escuro possui uma marea vermelha em suas costas, muito semelhante a marea que as aranhas viuvas- negras carregam. 0 Aventureiro pode ativar seus grandes poderes quando desejar. Recitando as palavras magicas de Anansi. 0 robe adapta-se a pele do Personagem, ao meSIDO tempo em que oito patas gigantescas de aranha brotam das costas do r...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-robe-de-objetos-vteis-229",
+      "name": "Robe de Objetos Vteis",
+      "category": "item_equipment",
+      "pages": [
+        229
+      ],
+      "summary": "Robe de Objetos Vteis Estes robes possuem muitos bolsos, e fazem urn baru- Iho estranho quando 0 Personagem caminha, como se esti- vessem carregando alguma coisa, embora a maioria dos bal- 50S esteja sempre vazio. as poderes do robe 56 se manifestam em caso de ex- trema necessidade, quando 0 Personagem precisar de urn objeto espedfico (nao-magico) que ningue...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-robe-fantasmagorico-230",
+      "name": "Robe Fantasmagorico",
+      "category": "item_equipment",
+      "pages": [
+        230
+      ],
+      "summary": "Robe Fantasmagorico Permite ao Dono entrar parcialmente em Spiritum, ou seja, se tornar urn Espectro por ate 10 minutos. Caso 0 Perso- nagem esteja dentro de algum objeto solido quando retornar ao Plano da Terra novamente, ele padeni morrer. 0 Aventu- reiro pode ativar 0 robe uma vez a cada lua (ou aproximada- mente 4 vezes ao mes). Vma caracteristica intere...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-rubi-das-furias-231",
+      "name": "Rubi das Furias",
+      "category": "core_rule",
+      "pages": [
+        231
+      ],
+      "summary": "Rubi das Furias Este rubi foi criado pelas Farias, segundo as lendas, para atrair vitimas para sacrificio. Trata-se de runa gema ma- ravilhosa, de valor extrema, que as bruxas faziam aparecer nas cidades, em pagamento a algum tiro de favor ou servic;o. Vma vez encontrada a vitima ideal, assim que ela esti- vesse totalmente sozinha em urna sala (em termos de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-rurig-232",
+      "name": "Rurig",
+      "category": "power_magic",
+      "pages": [
+        232
+      ],
+      "summary": "Rurig Rurig e 0 nome do espirito ancestral que habita urn conjunto de Cristais de Atlantida quase do tamanho de urn punho humano, chamada Pedra de Rurig. Rurig era urn dos grandes Magos Atlantes, mas que dedicou sua vida a tentativa de estabelecer a paz entre as Ordens Misticas, pais em seu en tender, esta seria a unica maneira de evitar que a Terra fosse de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-saco-de-arroz-chines-233",
+      "name": "Saco de Arroz Chines",
+      "category": "power_magic",
+      "pages": [
+        233
+      ],
+      "summary": "Saco de Arroz Chines Este objeto magico chines funciona primariamente contra espiritos, mas os vampiros da Ra~a Kiang-Shi tam- bern sao afetados por ele. Segundo as lendas, uma das ma- neiras de se afastar os maus espiritos e espalhar arroz peles vaos das portas e janelas, e arremessa-Ios no ar sobre uma pessoa que possa estar senda atacada por €spiritos maI...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-saco-de-feijoes-magicos-234",
+      "name": "Saco de Feijoes Magicos",
+      "category": "item_equipment",
+      "pages": [
+        234
+      ],
+      "summary": "Saco de Feijoes Magicos Este saeD cantem cerea de 12+5d6 feiji5es, de diversas cores e texturas, que podem ser arremessados pele Persona- gem em algum local proximo, au ate mesmo ingeridos (ape- sar de nao ser muito recomendavel). Cada feijao possui urn pader diferente (e aleatorio, 0 que tarna impassivel prever 0 que as Feijoes Magicos idio fazer quando ati...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-saco-de-ossos-235",
+      "name": "Saco de Ossos",
+      "category": "race_lineage",
+      "pages": [
+        235
+      ],
+      "summary": "Saco de Ossos Estes sacos sao grandes e incomodos de carregar, mas tern urn excelente efeito em combate. os sacos de estopa pare- cern carregar dezenas e dezenas de DSSQS de todos os tipos, e, wna vez por semana, antes de entrar em combate, 0 Necro- mante pode abriT 0 saco e denubar todos as ossos no chao. Os assos que cairao do saco sao muito mais numerosos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-santo-sudario-236",
+      "name": "Santo Sudario",
+      "category": "power_magic",
+      "pages": [
+        236
+      ],
+      "summary": "Santo Sudario Tambem conhecido como Sudario de Turim, e um dos artefatos Teligiosos mais poderosos da Terra. Segundo a Igre- ja, a sudario e 0 manto que envolveu Christos em sua forma humana apos ele ter sido retirado da Cruz, e antes de ser levado para 0 Sepulcro. Naa se sabe exatamente lodos as poderes do Sudario, mas especula-se que ele seja capaz de traz...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-safira-de-voo-237",
+      "name": "Safira de Voo",
+      "category": "item_equipment",
+      "pages": [
+        237
+      ],
+      "summary": "Safira de Voo Estas safiras possuem uma caracteristica interessante. Elas sao capazes de voar, mas somente ELA vaa. Qualquer Avenrureiro que tambem deseje voar cleve encontrar uma maneira de se agarrar a pedra. Quando ativada, atraves de camanda verbat a gema 81\"a vQe, e 0 Persona gem cleve se segurar a gema. Por alguma razao, ele nao cai ~nquanto a gema est...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-variantes-conhecidas-238",
+      "name": "Variantes Conhecidas",
+      "category": "creature_npc",
+      "pages": [
+        238
+      ],
+      "summary": "Variantes Conhecidas Dragoes Vampiros Demonios Anjos de Paradisia Espiritos Seres de Velha Arcadia Seres de Nova Arcadia 1d100 01-10 11-20 21-40 41-50 51-70 71-80 81-00 Ap6s consultar a tabela 1, sorteie nova mente na tabe- 1a apropriada abaixo, para determinar a que tipo especifico de criatura 0 Scron se refere. Dragoes Tadas as Drag6es Dragao Vermelho (Fog...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-scrolls-de-prote-ao-elemental-239",
+      "name": "Scrolls de Prote-;ao Elemental",
+      "category": "creature_npc",
+      "pages": [
+        [
+          239,
+          240
+        ]
+      ],
+      "summary": "Scrolls de Prote-;ao Elemental Urn Scroll e 0 nome que os Alquimistas daD a urn Rimal pronto, mas realizado parcialmente, faltando apenas algumas palavras e gestos para terminar sua ativa<;ao. Geralmente constituido de pergaminhos especiais, que devem ser destruidos como ultima elapa do Ritual, as Scrolls podem seT ativados por qualquer pessoa que tenha conh...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-sino-de-morcegos-241",
+      "name": "Sino de Morcegos",
+      "category": "combat",
+      "pages": [
+        241
+      ],
+      "summary": "Sino de Morcegos Este sino, quando toea do, po de conjurar 4d 6 mOf- cegos-vampiros, que permanecem sob total contra Ie do Aventureiro por algumas rodadas. as morcegos podem vasculhar grandes areas em pOllca tempo, au ataear in- trusos. A (mica condi~ao de funcionamento deste item e que 0 local cnde as morcegos aparecem cleve ser total- mente eScutO, de modo...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-t-abua-dos-destinos-242",
+      "name": "T abua dos Destinos",
+      "category": "combat",
+      "pages": [
+        242
+      ],
+      "summary": "T abua dos Destinos Tambem charnado Tablete do Destino de Eli!. Este artefato hahilonico e urn dos itens mais podero- 50S cia existencia. Consiste em uma tabua simples de argila e urn talllO de metal brilhante, que sempre sao encontrados juntos (e caso sejam separados, 0 talha reaparece no dis se- guinte ao lade da tabua). Qualquer texto au relata que for en...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-talisma-de-concentrat-ao-243",
+      "name": "Talisma de Concentrat;ao",
+      "category": "power_magic",
+      "pages": [
+        243
+      ],
+      "summary": "Talisma de Concentrat;ao Utilizavel por CIerigos ou Magos. Este talisIDa previ- ne 0 Feiticeiro de perder a concentrac;ao enquanto realiza alguma Magia ou Ritual importante. 0 Mago tern que fazer urn Teste de WILL para cada ataque que receber, para impe- dir que 0 feitic;o seja anuinado. 0 talisma apenas fortalece a concentrac;ao do Maga, e nao impede que 0...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-talisma-de-resistencia-244",
+      "name": "Talisma de Resistencia",
+      "category": "power_magic",
+      "pages": [
+        244
+      ],
+      "summary": "Talisma de Resistencia para Magias de Morte Este poderosissimo talisma britanico protege 0 Mago de Rituais muito poderosos, que 0 matariam. Toda vez que algum feitic:;o for lanc:;ado contra 0 Personagem que 0 mata- ria por dano direto (mesilla que 0 Usmirio passe 0 Teste de Resistencia), 0 Talisma absorve metade do dano automati- camente, deixando a Aventure...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tapete-voador-245",
+      "name": "Tapete Voador",
+      "category": "core_rule",
+      "pages": [
+        245
+      ],
+      "summary": "Tapete Voador Estes tapetes tornaram-se celebres nas lend as nar- racias por Richard F. Burton sobre as Reinos Arabes. as Tapetes Va adores sao de fabrica~ao oriental ou ,habe, e sao capazes de vaar a grandes velocidades, carregando algumas pessoas com ele. 0 tapete obedece aos caman- dos verbais de seu Dono, e pode flutuar no ar, deslocar- se por grandes di...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tarot-246",
+      "name": "Tarot",
+      "category": "power_magic",
+      "pages": [
+        246
+      ],
+      "summary": "Tarot Nao se sa be exatamente quando 0 Tarot apareceu pela primeira vez na historia, mas esta poderosa ferra- menta tern sido utilizada por Magos e feiticeiras em todo 0 munda por seculos, e esta intimamente ligado a Magia e aos Rituais no universo de Arkanun/Trevas, pais descende diretamente da Arvore da Cabala, fonte de todo o sistema de Magia deste RPG. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-horizon-of-eternity-247",
+      "name": "HORIZON OF_ETERNITY",
+      "category": "item_equipment",
+      "pages": [
+        247
+      ],
+      "summary": "HORIZON OF_ETERNITY Sephirolh Firat , Hi5he81 Crown Kircher's Sephirofic Tree TEN DIVINE NAMES ~Prl\"\"'\" '''1\" Ihrir or\" ., frem or&f",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-a-temperanl-248",
+      "name": "A Temperanl'\"",
+      "category": "item_equipment",
+      "pages": [
+        [
+          248,
+          249
+        ]
+      ],
+      "summary": "A Temperanl'\" Arcano Quatorze (Samekh) Significa acordos ou comprometimentos. Este Arcana indica quea soluc;ao para a Aventura reside em urn acardo, e dificilmente 0 problema sent solucionado de Qutra maneira. o Diabo Arcana Quinz. (Ayin) o Diabo representa 0 Inferno, atas (nao necessaria- mente maus) cometidos ou influenciados pelos dem6nios de Inferno ou A...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-trombeta-de-heimdau-250",
+      "name": "Trombeta de HeimdaU",
+      "category": "power_magic",
+      "pages": [
+        250
+      ],
+      "summary": "Trombeta de HeimdaU Este artefato pertence a Heimdall, 0 vigia da Ponte Bifrost, que liga a cidade de Aasgard a Terra. A ponte se assemelha muito a urn area-iris, aparecendo durante certes periodos do ana no norte da Noruega, e servindo como pas- sagem entre as deuses de Aasgard e os her6is n6rdicos. Os espiritos dos Grandes Mestres da Ordem Luft que conhece...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-turmalina-de-namtar-251",
+      "name": "Turmalina de Namtar",
+      "category": "combat",
+      "pages": [
+        251
+      ],
+      "summary": "Turmalina de Namtar Esta gerna e considerada aben~oada pelos s8cerdotes do deus do Underworld assirio-babilonicof Namtar. Foi durante seculos, e ainda e, extremamente cobi.;a- da entre os meios ntisticos. Feita sob oedens do proprio deus para presentear aqueles que ele considerava escolhidos, a medalha consiste em uma arma~ao de cobee envolvendo uma turmalin...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-vngtiento-de-anubis-252",
+      "name": "Vngtiento de Anubis",
+      "category": "core_rule",
+      "pages": [
+        252
+      ],
+      "summary": "Vngtiento de Anubis J. Criado no antigo Egito por Anjos da Cidade Dourada de Rei e Dem6nios membros dos FiIhos de Anubis a pediclo do proprio deus chacal Anubis, era utilizado como instru- menta para descobrir as segredos daqueles que de alguma forma, of ere cess em perigo aos FaraDs. Atualmente, 0 un- giiento e comum entre os Filhos de Anubis, mas cada vez...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-aqua-marine-253",
+      "name": "Varinha de Aqua-Marine",
+      "category": "ritual_spell",
+      "pages": [
+        253
+      ],
+      "summary": "Varinha de Aqua-Marine Estas varinhas parecem ser confeccionadas inteiramente em uma pedra azulada muito bonim, porem extremamente delicada (quaIquer Teste' de AGI que 0 Personagem nao pas- se, ele precisa fazer urn Teste de CON para que a varinha nao quebre com 0 impacto). Enquanto estiver carregando esta varinha, permite a urn Mago realizar efeitos do Cami...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-condao-254",
+      "name": "Varinha de Condao",
+      "category": "item_equipment",
+      "pages": [
+        254
+      ],
+      "summary": "Varinha de Condao Esta varinha escuIpida em urn Carvalho de Arcadia (sim, UM carvalho por varinhal) possui urn dos mais prezados pa- deres das grandes Fadas-Madrinhas: a capaciclade de transfor- mar uma pessoa em Dutra coisa qualquer (seja urn animat vegetal ou mineral). A vitima tem direito a urn Teste de WILL VS. WILL do Dono cia varinha para resistir, se...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-detec-ao-255",
+      "name": "Varinha de Detec~ao",
+      "category": "item_equipment",
+      "pages": [
+        255
+      ],
+      "summary": "Varinha de Detec~ao Esta e uma das poucas varinhas de uso continuo. VIDa vez tocada em determinado objeto, 0 Avenhlreiro pode arma- zenar seus padroes dentro da varinha. Mais tarde, nao impor- tando onde 0 objeto esteja (desde que esteja no mesma Plano de Exisrencia que a varinha) 0 Dono da varinha sera capaz de loca.liza-Io. Basta a ele colocar a varinha em...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-fireballs-256",
+      "name": "Varinha de Fireballs",
+      "category": "combat",
+      "pages": [
+        256
+      ],
+      "summary": "Varinha de Fireballs Estas varinhas sao 0 orgulho dos Magos WarIoks da Ordem Pyras. Vermelhas e decoradas com diversas runas alaranjadas e amareladas com indica~5es de fogo, a Varinha de Bolas de Fogo e uma das melhores armas de guerra ja desenvolvidas. Sua primeira versao na Terra data de 800 anos antes de Cristo, em pesquisas do Alquimista Cletus FicboR qu...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-lapis-azuli-257",
+      "name": "Varinha de lapis-Azuli",
+      "category": "ritual_spell",
+      "pages": [
+        257
+      ],
+      "summary": "Varinha de lapis-Azuli Estas varinhas com cerea de 15cm de comprimento e da grossura de urn pedar;o de giz parecem ser confecciona- das inteiramente em cristal de Lapis-Azuli (qualquer Teste de AGI que 0 Personagem nae passe, ele precisa fazer urn Teste de CON para que a varinha nao quebre com a impacto). Enquanto estiver carregando esta varinha, permite a u...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-de-paralisia-258",
+      "name": "Varinha de Paralisia",
+      "category": "power_magic",
+      "pages": [
+        258
+      ],
+      "summary": "Varinha de Paralisia Esta varinha e pintada de prete e cinza, sendo a meta- de inferior negra e a metade que cleve sec apontada para a vitima acizentada. o Personagem precisa acertar urn golpe corn a varinha sobre a vitima (pode fazer urn Teste com a Pericia Briga do Personagem), e toear a parte acizentada da varinha em seu cerpo. A vitima faz, enta~, urn Te...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-varinha-dos-reuimpagos-259",
+      "name": "Varinha dos ReUimpagos",
+      "category": "combat",
+      "pages": [
+        259
+      ],
+      "summary": "Varinha dos ReUimpagos Esta varinha cleve ser confeccionada com a madeira de uma arvore que tenha side atingida por urn relampago na- tural. Quanta maior e mais imponente for a arvore, mais poderosa e a varinha. Quando desejar, 0 Dono da varinha pode aponrn-Ia para uma vitima e descarregar urn relampago a ate SOm de dismncia, fazendo Id6 pontos de dano por c...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-vassoura-animada-260",
+      "name": "Vassoura Animada",
+      "category": "power_magic",
+      "pages": [
+        260
+      ],
+      "summary": "Vassoura Animada • \" Ao comando do Usuario, esta vassoura cria hrac:;:os ca- pazes de carregar objetos que pesem ate 25kg. A vassoura segue 0 Dono na mesma velocidade que ele, e obedece co- mandos simples. A vassoura naa se afasta mais do que 10m deseu Dono. Tocla vez que e ativada, ela possui 5% de chance de enlouquecer, e sair correndo carregando 0 que est...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-vassoura-voadora-261",
+      "name": "Vassoura Voadora",
+      "category": "power_magic",
+      "pages": [
+        261
+      ],
+      "summary": "Vassoura Voadora Vela de Conjura.;:ao Estas velas brancas geralmente trazem urn desenho au escritura detalhando 0 tipo de animal ou criatura que a vela e capaz de conjurar. A Vela de Conjura~ao s6 pode ser acesa em ambientes fechados, ou pr6xima a uma parede, ou seu poder nao funcio- na. Uma vez acesa, a vela projeta na parede mais pr6xima a sombra do animal...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-animal-262",
+      "name": "Animal",
+      "category": "creature_npc",
+      "pages": [
+        262
+      ],
+      "summary": "Animal 1d100 Ursa 01-05 Mamute 06-10 Elefante 11-15 BUfalo 16-20 Boi 21-25 GorHa 26-30 Cavalo 31-35 Camelo 36-40 Leopardo 41-45 LeaD 46-50 Tigre 51-55 Lince 56-60 Lobo branco 61-65 Lobo do deserto 66-70 Hiena 71-75 Caa 76-80 Chacal 81-85 Falcao 86-90 Crocodilo 91-95 Alee 96-00 Criaturas Misticas: Sao criaturas encontradas em Arcadia au Spiritum, e que normal...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-velas-elementais-263",
+      "name": "Velas Elementais",
+      "category": "power_magic",
+      "pages": [
+        [
+          263,
+          264
+        ]
+      ],
+      "summary": "Velas Elementais As Velas Elementais sao exuemamente t'iteis e podero- sas, e os Aventureiros adorariam calocar suas maos nestas preciosidades. As Velas podem ser ativadas por qualquer pessoa que tenha conhecimentos basicos de Magia (mesma urn apren- diz, ou urn guerreiro que tenha a Pericia Rituais), e permane- cern acesas por ate uma h~ra. Durante este tem...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-windyna-265",
+      "name": "Windyna",
+      "category": "combat",
+      "pages": [
+        265
+      ],
+      "summary": "Windyna I , Windyna e uma espada ffiagica criada pela sacerdoti- sa da Ilha de Cyphrus (Chipre) para 0 guerreiro Shanower Eagle-Eyes no ana de 1266. Windyna foi forjada 666 vezes nas chamas do vuldio Paseipoios, e e considerada uma espa- cia +3 cuja prote~ao da manopla assemelha-se as asas de urn Anja, confeccionadas em cobre, ou uma liga parecida com 0 cobr...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-xadrez-dos-deuses-266",
+      "name": "Xadrez dos Deuses",
+      "category": "creature_npc",
+      "pages": [
+        [
+          266,
+          268
+        ]
+      ],
+      "summary": "Xadrez dos Deuses Este Artefato Grego consistia em urn tabuleiro de xa- drez confeccionado por Zeus em pessaa. Este tabuleiro, se- gundo as lendas, era capaz de reger a vida de todas as pesso- as sob influencia da cultura helenistica. Para isto, Zeus pos- sUla uma grande estante em urn dos saloes do Olympus, onde guardava estatuetas de argila com semblantes...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-xicara-do-arnor-269",
+      "name": "Xicara do Arnor",
+      "category": "power_magic",
+      "pages": [
+        269
+      ],
+      "summary": "Xicara do Arnor Qualquer criatura que bebe desta xicara tern que fazer urn Teste de Resisrencia de WILL contra 15 ou se apaixona desesperadamente pela primeiro membra de sua ra~a ou es- pecie do sexo aposta que ele ve (em alguns casos, do mesma sexo). Criaturas sem genera sao imunes aos efeitos deste item. Vma bebida desta xicara cancela as efeitos da X:icar...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-yan-ti-270",
+      "name": "Yan-Ti",
+      "category": "power_magic",
+      "pages": [
+        270
+      ],
+      "summary": "Yan-Ti Yan-Ti era a famasa lira de Tjen-Mu na mitoIogia chine- sa. Tien-Mu era a deusa dos trovoes e raias e era retratada como uma jovem crunesa vestindo sernpre robes azulados em que urn observador poderia ver nuvens carregadas e tro- v6es movimentarem-se nas sedas desta vestimenta. Tien- Mu possuia uma lira capaz de convocar as tempestades. Se a deusa toc...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-zarabatanas-magicas-271",
+      "name": "Zarabatanas Magicas",
+      "category": "item_equipment",
+      "pages": [
+        271
+      ],
+      "summary": "Zarabatanas Magicas Ver Armas Magicas. Zarabatana Tellers Estas zarabatanas fcram fOrjadas por Demonios caxas para Adrienne, uma das mais antigas prostitutas da Babil6nia, quando Sodoma e Gomorra fcram destruidas pelos Anjos. Adrienne tomou-se rapidamente consorte de Lilith e Bittrettir em seus remos de luxuria. A Succubus AdrieIUle veio a Terra no ana de 13...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tabelas-de-sorteio-272",
+      "name": "Tabelas de Sorteio",
+      "category": "item_equipment",
+      "pages": [
+        272
+      ],
+      "summary": "Tabelas de Sorteio Ap6s a Jeitura de quase 1.000 itens magicos (sem eootar as variantes), jogadores e mestres podem se sentir perdidos na hora de escolher urn item para acrescentar na aventura. sao muitas variante e op~5es, com poderes muito diferentes entre si. Para ajudar nessa tarefa, cdamos estas tabelas. Classificamos as itens presentes nesse livre em q...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-punhal-do-ladrao-273",
+      "name": "Punhal do Ladrao",
+      "category": "item_equipment",
+      "pages": [
+        273
+      ],
+      "summary": "Punhal do Ladrao 92 Halberd das Fileiras 80 Rede Congelante 93 Halberd de Glinka 81 Rede Eletrificada 94 lnstrumentos dos Keepers 82-83 Rede Flamejante 95 Katana das Sombras 84 Tabela 2: Armas pspeciais 96-00 Katana de Saukas 85 Katana Demoniaca 86 Tabela 2: Armas especiais Katana dos DeathKnights '87-88 Katar de Abdulla 89 Kopesh Sarracena 80 item 1d100 Lan...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-escudo-de-aterrissagem-274",
+      "name": "Escudo de Aterrissagem",
+      "category": "creature_npc",
+      "pages": [
+        274
+      ],
+      "summary": "Escudo de Aterrissagem Escudo de Infravisao Escudo de Separa~ao Escudo dos Bras5es + X Escudo Espelho Escudo Hadjar Escudo Invisivel Escudo Luminoso Simbiontes Tabela 4: Prote~5es Especiais 87 88 89 90 91 92 93 94 95 96-00 Tabela 4: Prote~oes Especiais item 1d100 Agata de Bruman 01 Agata Musgosa 02 Ametista Infernal 03 Amuleto de Combate 04-05 Amuleto de Jad...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-amuleto-de-falsifidade-275",
+      "name": "Amuleto de Falsifidade",
+      "category": "race_lineage",
+      "pages": [
+        275
+      ],
+      "summary": "Amuleto de Falsifidade 22 Bashio dos Rituais 79-80 Amuleto de Fratemidade 23 Batina de Influenciar Multidoes 81 Amuleto de Montaria 24 Balina do Exorcista 83-84 Amuleto de Pyros 25 Ban dos Espiritos 85 Amuleto de Sono Calmo 26 Baii Magico 86-87 Amuleto do Inferno 27 Bigorna dos Anoes 88 Amuleto dos Climas Amenos 28 Bola de Cristal 89-91 Amuleto dos Padres 29...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-cajado-peth6-276",
+      "name": "Cajado Peth6",
+      "category": "power_magic",
+      "pages": [
+        276
+      ],
+      "summary": "Cajado Peth6 50 Dados Magicas 21 Caldeiraa 51-53 Dedos de Lacirao 22 Candelabra Clarab6ia 54 Dedos do Alquimista 23 Candelabro de Escuridao 55 Dedas do Assassina 24 Candelabra de HospitaUdade 56 Diamante de Aniquilac;:ao 25 Candelabra de Pirotecnia 57 Diamante Dragao 26 Caneca do Cafe da Manha 58 Diapasao de Abertura 27 Cantil de Agua Infinita 59-60 Diapasao...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-oculos-de-visao-noturna-277",
+      "name": "Oculos de Visao Noturna",
+      "category": "item_equipment",
+      "pages": [
+        277
+      ],
+      "summary": "Oculos de Visao Noturna 70 Tabela 9: Vtensilios 3 Olho Mau 71 Olhos de Encantar 72 Olhos de Petrifica<;ao 73 item 1d100 Olhos do Perito 74 Harpa de Encantar 01 Olhos dos Cumes 75 Harpa de Nero 02 Orbe de Abertura 76 Hor6scopo Magico 03 Orbe de Fuma<;a 77 Incenso de Captura de Espiritos 04 Orbe de Transcurso 78 Incense de Rompimento de V 60 05 Orbe do Sil~nci...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-saco-de-bolinhas-de-gude-278",
+      "name": "Saco de Bolinhas de Gude",
+      "category": "attribute_skill",
+      "pages": [
+        278
+      ],
+      "summary": "Saco de Bolinhas de Gude 35 Tabela 11: Po,\"oes, Oleos e Elixires Saco de Bolinhas de Piche 36 Saco de Coisas Velhas 37 1d100 Saco de Feijoes Magicos 38 item Saco de Folhas 39 Balsamo de Bacchus 01 Saco de Ossos 40 Balsamo de Curas 02 Saco sem Fundo 41-42 Balsamo de Desencahtamento 03-04 Safira de Predizer 0 Tempo 43 Balsamo para Queimaduras 05-08 Safira de R...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-pcx-ao-dos-fwlgos-279",
+      "name": "Pcx;ao dos FWlgOS",
+      "category": "item_equipment",
+      "pages": [
+        279
+      ],
+      "summary": "Pcx;ao dos FWlgOS Poc;:ao dos Jothuns Poc;:ao Elastica Pcx;ao Ganesha Pcx;ao Veidt Unguento de Anubis 95 96 97 98 99 00 Tabela 12: Varinhas item Varinha de Aqua-Marine Varinha de Aqua-Marine (Ef. Aquos) Varinha de Circe Varinha de Condao Varinha de Conjurac;:ao Varinha de Cristal Varinha de Cristal (Efeitos de Luz) Varinha de Descoberta de Metais Varinha de...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-the-book-of-eibon-280",
+      "name": "The Book of Eibon",
+      "category": "item_equipment",
+      "pages": [
+        280
+      ],
+      "summary": "The Book of Eibon The Treatises of Dr. Rudd Thurba Philosophrurn Tratato Druidae at Arcadia Voorish Rituals 93-94 95 96-97 98 99-00 Tabela 15: Raridades item 1d100 AI-Sheddir 01 Anel de Arkanun 02 Arca de Deucalion 03 Arpao de Loviator 04 Arpao de Njord 05 Balan<;a de Anubis 06 Barco de Caronte 07 Bastlio de Dagon OS Bastao Rakshasa 09 Cabe<;a da Medusa 10 C...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-quarto-prego-281",
+      "name": "Quarto Prego",
+      "category": "item_equipment",
+      "pages": [
+        281
+      ],
+      "summary": "Quarto Prego Santo Graal Santo Sudario Xadrez dos Deuses Yggdrasil 70-75 76-82 81-88 89-95 96-00 Tabela 17: Nivel do Item Para 0 sistema d20, 0 item magico de ter urn nivel. Role na tabela abaixo e depois adicione 0 fator da tabela 18 de acordo com 0 item. Para as raridades e grandes artefatos, considere a myel do item como 25. nlvel 1d100 1 01-40 2 41-60 3...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-outras-publica-oes-282",
+      "name": "Outras Publica~oes",
+      "category": "creature_npc",
+      "pages": [
+        282
+      ],
+      "summary": "Outras Publica~oes Trevas o Horror da Idade das Trevas nao esta terminado. Infiltrados em nossa sociedade, Anjos e Demonios disputam palmo a palmo a vitoria na Guerra entre 0 Ceu e 0 Inferno, usando os humanos COIllO pe<;as em seu jogo de Xadrez Celestial. Neste RPG, voce sera convidado a fazer parte dos mortais que sabem. a verdade. Inclui regeas completas...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-clube-de-ca-a-283",
+      "name": "Clube de Ca~a",
+      "category": "creature_npc",
+      "pages": [
+        283
+      ],
+      "summary": "Clube de Ca~a Durante miienios, os imortais rnanipularam a humanidade. Agora a humanidade quer acertar as contas. Vampiros sao ca<;ados e destruidos, Demonios sao capturados e negociados, anjos sao mantidos como trofeU5 de seus algazes ... Uma rede de ca<;adores conhecida como Clubes de C.,u;a leva horror aos imortais e em sua lideran<;a esta ninguem menos q...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-tormenta-284",
+      "name": "Tormenta",
+      "category": "creature_npc",
+      "pages": [
+        284
+      ],
+      "summary": "Tormenta Imagine um mundo de magias, aventuras e tesouros. Imagine terriveis viloes, mons- tras perigosos e historias fabulosas. Fa~a parte disso tuda em Arton! A Editora Daemon tem 0 prazer de apresentar a terceira edit;ao de TORMENTA, 0 ambiente de RPG mais jogado no Brasil. Como voce pode ver, esta edi<;ao caprichada traz muitas novidades para os antigos...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-arkanun-3-edi-ao-285",
+      "name": "Arkanun 3\" Edi~ao",
+      "category": "kit_class",
+      "pages": [
+        285
+      ],
+      "summary": "Arkanun 3\" Edi~ao Um des mais antigos, conhecidos e conceituados RPGs do Brasil. Arkanun e amhientado em uma Idade Media sombria e ameac;adora, enquanto a Peste Negra assolava a Europa, onde a lnquisic;ao perseguia e condenava a fogueira qualquer manifestac;ao de atos demoniacos como Bruxas, magos au filhos do Demonio. Onde feudos imundos e abad ias escondid...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-lua-dos-dragoes-286",
+      "name": "Lua dos Dragoes",
+      "category": "creature_npc",
+      "pages": [
+        286
+      ],
+      "summary": "Lua dos Dragoes Urn dos rna.is antigos e favoritos temas da fiC(;ao cientifica:o que aconteceria se os dinossauros Ilao tivessem sido extintos? Se fossem eies, e nao as macacas, os precursores da especie humana? Que tipo de criahtras dominariam 0 nasso mundo hoje? LUA DOS DRACOES fala sabre um fugar assim. Nilo a Terra, mas 0 satelite natural de um pianeta d...",
+      "entityRefs": []
+    },
+    {
+      "id": "guia-de-itens-magicos-open-jame-license-287",
+      "name": "OPEN (jAME LICENSE",
+      "category": "item_equipment",
+      "pages": [
+        [
+          287,
+          288
+        ]
+      ],
+      "summary": "OPEN (jAME LICENSE Version. 1.0a TIle following text is the property 'of Wizards of the Coast, Inc. and is Copyright 2000 Wiz,ilrds of the Coast, Inc (\"Wizards\"). All Rights Reserved. 1. Definitions: (a) \"Contributors\" means the copyright and/ or trademark owners who have contributed Open Game Content; (b)\"Derivative Material\" means copyrighted material incl...",
+      "entityRefs": []
+    }
+  ]
+}

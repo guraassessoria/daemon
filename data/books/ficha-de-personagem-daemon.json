@@ -1,0 +1,21 @@
+{
+  "source": "ficha-de-personagem-daemon",
+  "title": "Ficha de Personagem-Daemon",
+  "status": "full-read-auto-pass-1",
+  "pages": 1,
+  "primaryCategories": [
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "ficha-de-personagem-daemon-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ghuls",
+    "name": "Ghuls",
+    "category": "race_lineage",
+    "source": "alianca-daemon-01",
+    "page": 18,
+    "entries": [
+      "Raca vampirica apresentada/adaptada em Alianca Daemon 01.",
+      "Descritos a partir de lendas arabes, vinculados a Iblis, ao deserto, necrofagia, metamorfose, tolerancia ao sol e infiltracao social."
+    ],
+    "tags": ["vampiro", "raca", "vampiros-mitologicos"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "racas-vampiricas-vm",
+    "name": "Racas vampiricas de Vampiros Mitologicos",
+    "category": "race_lineage",
+    "source": "alianca-daemon-01",
+    "page": 8,
+    "entries": [
+      "Resumo de racas vampiricas citadas na resenha de Vampiros Mitologicos, incluindo Strigoi, Brujas, Sabios, Lamiai, Ekimmus, Vrikolakas, Eretiks, Arcadios, Kamazots, Kiang-shi e Rakshasas."
+    ],
+    "tags": ["vampiro", "racas", "resenha"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "feras",
+    "name": "Feras",
+    "category": "race_lineage",
+    "source": "animalidade",
+    "page": 2,
+    "entries": ["Personagens metamorfos que unem forma humana e animal, com instintos despertos, animalidade, cultura propria, leis, poderes, fraquezas e formas prontas."],
+    "tags": ["metamorfo", "fera", "animalidade"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "aprimoramentos-raciais-supers",
+    "name": "Aprimoramentos Raciais de Supers",
+    "category": "race_lineage",
+    "source": "anime-rpg-powers",
+    "page": 17,
+    "entries": ["Linhagens e racas para campanhas de super-herois, incluindo Demonio, Olimpiano, Aesir, Lobisomem, Imortal, Golem, Fantasma, Sprite, Leshy, Elfo, Revenante, Sereia, Robo, Atlante, Moreau, Teratwakiano, Celereano, Hermerita e Transhumano."],
+    "tags": ["supers", "linhagem", "raca"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  }
+]

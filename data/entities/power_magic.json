@@ -1,0 +1,57 @@
+[
+  {
+    "id": "poderes-demoniacos-alastores",
+    "name": "Poderes Demoniacos dos Alastores",
+    "category": "power_magic",
+    "source": "alastores-a-justica-infernal",
+    "page": 18,
+    "entries": ["Conjunto de poderes sobrenaturais apresentados para Alastores e Templarios Caidos."],
+    "tags": ["poder", "demonio", "alastores"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "poderes-exclusivos-ghul",
+    "name": "Poderes exclusivos dos Ghuls",
+    "category": "power_magic",
+    "source": "alianca-daemon-01",
+    "page": 23,
+    "entries": ["Poderes vampiricos dos Ghuls, incluindo transformacoes, sentir criaturas, olhar da morte e Ras'Al-Ghul."],
+    "tags": ["vampiro", "ghul", "poder"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "poderes-animais",
+    "name": "Poderes Animais",
+    "category": "power_magic",
+    "source": "animalidade",
+    "page": 5,
+    "entries": ["Poderes de Feras, incluindo Reprodutor, Pele Grossa, Aquatico, Sangue Frio, Sombras, Aumento de Atributos, Garras, Regeneracao, Sentir o Sobrenatural, Asas, Peconha, Sentidos Aguçados, Chifres, Comunicacao Animal, Presas, Bico, Visao Noturna, Matilha, Inspirar Terror e Teia."],
+    "tags": ["fera", "poder", "animalidade"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "natureza-dos-superpoderes",
+    "name": "Natureza dos Superpoderes",
+    "category": "power_magic",
+    "source": "anime-rpg-powers",
+    "page": 7,
+    "entries": ["Origens e explicacoes para superpoderes em campanhas SUPERS, como cibernetica, magia, genetica e cosmica."],
+    "tags": ["supers", "superpoder", "origem"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "magia-em-supers",
+    "name": "Magia em SUPERS",
+    "category": "power_magic",
+    "source": "anime-rpg-powers",
+    "page": 27,
+    "entries": ["Regras e modificacoes para tratar magia como poder em campanhas SUPERS, incluindo componentes verbais/gestuais, fadiga e reaprendizado."],
+    "tags": ["supers", "magia", "modificacao-de-poder"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  }
+]

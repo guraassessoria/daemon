@@ -1,0 +1,37 @@
+{
+  "source": "youkais",
+  "title": "Youkais",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "item_equipment",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "youkais-youkais-para-sistema-daemon-1",
+      "name": "Youkais para Sistema Daemon",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Youkais para Sistema Daemon Regras especiais para personagens sobrenaturais em Anime RPG Por Vitor “Bartolomeu”. www.daemon.com.br (site oficial da Editora Daemon) daemon@daemon.com.br (e-mail da Editora Daemon) vitorsouzarural@yahoo.com.br (meu e-mail) Este suplemento foi idealizado para complementar os jogos de Anime com esses personagens tão presentes e i...",
+      "entityRefs": []
+    },
+    {
+      "id": "youkais-custo-2",
+      "name": "Custo",
+      "category": "combat",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "summary": "Custo Alcance Dano 4 16m 4D6 5 32m (MÁX) 5D6 6 - 6D6 7 - 7D6 8 - 8D6 Ataques Extras: Graças à sua grande velocidade, você pode realizar mais ataques por rodada. Custo Ataques extras por rodada 2 1 4 2 6 3 8 4 10 5 Corpo Grande: Você é bem grande, robusto e forte, de modo que pode se beneficiar de seu tamanho. Custo Altura Bônus 1 2m IP+1; FR+3; CON+3 2 4m IP...",
+      "entityRefs": []
+    }
+  ]
+}

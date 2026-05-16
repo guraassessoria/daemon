@@ -1,0 +1,27 @@
+{
+  "source": "vikings",
+  "title": "vikings",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "item_equipment",
+    "setting_lore"
+  ],
+  "parts": [
+    {
+      "id": "vikings-vikings-1",
+      "name": "Vikings",
+      "category": "kit_class",
+      "pages": [
+        [
+          1,
+          13
+        ]
+      ],
+      "summary": "1 Vikings By Mestre Mau 2 Vikings Conquistadores e colonizadores Era julho de 793 da Era Cristã na pequena ilha de Lindisfarne, também conhecida como ilha Holy, ao largo de Northumberland, Inglaterra. O dia nasce claro e laborioso como sempre para os monges ali sediados. Plantações a serem tratadas, animais a serem cuidados, orações a serem feitas... Os mong...",
+      "entityRefs": []
+    }
+  ]
+}

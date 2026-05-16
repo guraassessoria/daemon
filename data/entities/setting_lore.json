@@ -1,0 +1,174 @@
+[
+  {
+    "id": "autoctonia",
+    "name": "Autoctonia",
+    "category": "setting_lore",
+    "source": "abismo-infinito-quick-start",
+    "page": 6,
+    "entries": [
+      "Planeta/cenario central observado pela tripulacao em Abismo Infinito.",
+      "Associado a exploracao espacial, colonizacao e horror cosmico."
+    ],
+    "tags": ["ambientacao", "planeta", "horror-espacial"],
+    "confidence": 0.78,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "funny-club",
+    "name": "Funny Club",
+    "category": "setting_lore",
+    "source": "a-assassina",
+    "page": 2,
+    "entries": [
+      "Boate sofisticada usada como local importante na investigacao da aventura A Assassina."
+    ],
+    "tags": ["local", "urbano", "investigacao"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "shells-papers",
+    "name": "Shell's Paper's",
+    "category": "setting_lore",
+    "source": "a-assassina",
+    "page": 2,
+    "entries": [
+      "Rede de papelarias com enderecos e sistema de filmagem, usada como local de investigacao."
+    ],
+    "tags": ["local", "urbano", "investigacao"],
+    "confidence": 0.8,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "tenebras",
+    "name": "Tenebras",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 10,
+    "entries": ["Plano primordial das trevas na cosmologia de Abismo, origem de horrores, deuses negros e forcas tenebrianas."],
+    "tags": ["cosmologia", "plano", "trevas"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "infernun",
+    "name": "Infernun",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 12,
+    "entries": ["Plano/reino infernal abordado na origem das trevas e retomado no capitulo Filhos Renegados das Trevas."],
+    "tags": ["cosmologia", "plano", "inferno"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "abismo-plano",
+    "name": "O Abismo",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 14,
+    "entries": ["Plano/regiao cosmologica de horror e prisao/abrigo das forcas de Tenebras, detalhado em geografia, montanhas, cultos e criaturas."],
+    "tags": ["cosmologia", "plano", "horror"],
+    "confidence": 0.88,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "postos-de-vigilia",
+    "name": "Postos de Vigilia",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 24,
+    "entries": ["Locais de vigilancia contra o Abismo, com exemplos como A Torre e estruturas mantidas por forcas misticas."],
+    "tags": ["local", "vigilancia", "abismo"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "montanhas-do-abismo",
+    "name": "Montanhas do Abismo",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 28,
+    "entries": ["Conjunto de regioes/montanhas abissais descritas no capitulo O Abismo, incluindo terceira, nona, decima, decima quarta, decima sexta e decima nona montanhas."],
+    "tags": ["local", "abismo", "geografia"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "cultos-de-tenebras",
+    "name": "Cultos de Tenebras",
+    "category": "setting_lore",
+    "source": "abismo",
+    "page": 104,
+    "entries": ["Estruturas de culto, hierarquia, sacerdotes, pactos, bases, forcas sobrenaturais e sociedades secretas ligadas a Tenebras."],
+    "tags": ["culto", "organizacao", "trevas"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "indice-carmesim",
+    "name": "Indice Carmesim",
+    "category": "setting_lore",
+    "source": "alastores-a-justica-infernal",
+    "page": 8,
+    "entries": ["Lista dos mais procurados do Inferno, mantida pelos Alastores e ligada a leis infernais e condenacoes."],
+    "tags": ["inferno", "leis", "alastores"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "alastores",
+    "name": "Alastores",
+    "category": "setting_lore",
+    "source": "alastores-a-justica-infernal",
+    "page": 5,
+    "entries": ["Casa/ordem infernal encarregada de cacar fugitivos do Orco e fazer cumprir leis infernais."],
+    "tags": ["inferno", "organizacao", "cacadores"],
+    "confidence": 0.9,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "umbral-dos-feras",
+    "name": "Umbral dos Feras",
+    "category": "setting_lore",
+    "source": "animalidade",
+    "page": 3,
+    "entries": ["Relacao dos Feras com o Umbral, incluindo entrada, criacao de dominio e chamado do espirito anciao."],
+    "tags": ["umbral", "fera", "animalidade"],
+    "confidence": 0.82,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "eras-heroicas",
+    "name": "Eras Heroicas",
+    "category": "setting_lore",
+    "source": "anime-rpg-powers",
+    "page": 6,
+    "entries": ["Tons e periodos de inspiracao para campanhas de super-herois, como Era de Ouro, Prata, Bronze e Ferro."],
+    "tags": ["supers", "campanha", "quadrinhos"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "sci-fi-supers",
+    "name": "Sci-Fi em SUPERS",
+    "category": "setting_lore",
+    "source": "anime-rpg-powers",
+    "page": 31,
+    "entries": ["Secao de ficcao cientifica para SUPERS, com futuro, transhumanismo, planetas, naves, governos galacticos, alienigenas, pirataria, equipamentos, robotica e psitecnologia."],
+    "tags": ["supers", "sci-fi", "campanha"],
+    "confidence": 0.86,
+    "extractionMethod": "manual-pass-1"
+  },
+  {
+    "id": "academias-de-super-herois",
+    "name": "Academias de super-herois",
+    "category": "setting_lore",
+    "source": "anime-rpg-powers",
+    "page": 40,
+    "entries": ["Estrutura para campanhas em academias de super-herois, com aulas, materias, grupos sociais, professores, punicoes e relacionamentos."],
+    "tags": ["supers", "escola", "campanha"],
+    "confidence": 0.84,
+    "extractionMethod": "manual-pass-1"
+  }
+]

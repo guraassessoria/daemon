@@ -1,0 +1,40 @@
+{
+  "source": "ciganos",
+  "title": "ciganos",
+  "status": "full-read-auto-pass-1",
+  "pages": 5,
+  "primaryCategories": [
+    "core_rule",
+    "creature_npc",
+    "character_option",
+    "kit_class"
+  ],
+  "parts": [
+    {
+      "id": "ciganos-ciganos-1",
+      "name": "CIGANOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "1 CIGANOS Eduardo Cardoso “Ed” 2 CIGANOS Algo que logo se liga os ciganos é ao nomadismo, esta mo- bilidade ininterrupta deles é também uma fuga à padronização que está sujeito o homem e a segurança de nunca se perder os traços de sua cultura, e é essencialmente de sua cultura e cos- tumes que trata esse Netbook. Os ciganos originaram-se de uma casta inferio...",
+      "entityRefs": []
+    },
+    {
+      "id": "ciganos-alguns-dialetos-romanis-3",
+      "name": "ALGUNS DIALETOS ROMANIS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          3,
+          5
+        ]
+      ],
+      "summary": "3 ALGUNS DIALETOS ROMANIS A língua dos ciganos é conhecida como romani, bastante pró- xima dos idiomas indo-arianos. Tanto o sistema fonológico como a morfologia podem ter sua evolução facilmente reconstruída a partir do sânscrito. O sistema numeral também reflete parcialmen- te os respectivos vocabulários sânscritos. Com as migrações, os ciganos levaram sua...",
+      "entityRefs": []
+    }
+  ]
+}

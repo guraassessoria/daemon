@@ -1,0 +1,40 @@
+{
+  "source": "arcanis",
+  "title": "arcanis",
+  "status": "full-read-auto-pass-1",
+  "pages": 12,
+  "primaryCategories": [
+    "core_rule",
+    "combat",
+    "race_lineage",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "arcanis-yoshiro-1",
+      "name": "YOSHIRO",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          7
+        ]
+      ],
+      "summary": "YOSHIRO Role Playing Game Rodrigo Jeferson YOSHIRO Role Playing Game SUPLEMENTO Guia Completo dos Arcanis Um guia básico para complementar os personagens kansarianos da linhagem Arcanis Equipe RPG Anime Brasil 2 Criação: Rodrigo Jeferson Desenvolvimento do Suplemento de RPG: Rodrigo “Yoshiro” Jeferson Direitos Autorais do Jogo: Equipe RPG Anime Brasil Contat...",
+      "entityRefs": []
+    },
+    {
+      "id": "arcanis-capitulo-03-cabalas-dos-arcanis-8",
+      "name": "Capítulo 03- Cabalas dos Arcanis",
+      "category": "core_rule",
+      "pages": [
+        [
+          8,
+          12
+        ]
+      ],
+      "summary": "8 Kansarianos que usem a lágrima do sangue do ódio, recebem sendo Arcanis um bônus de +15% em todos os testes seguintes seja ataque/defesa/evasiva além de uma ação extra convencional (pois se locomove mais rápido que os outros), além de um bônus temporário de +4 no IP natural. O Kansariano fica com uma cara de idiota e as vezes não é levado a sério pelos seu...",
+      "entityRefs": []
+    }
+  ]
+}

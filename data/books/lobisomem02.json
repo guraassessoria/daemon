@@ -1,0 +1,47 @@
+{
+  "source": "lobisomem02",
+  "title": "lobisomem02",
+  "status": "full-read-auto-pass-1",
+  "pages": 4,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "character_option",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "lobisomem02-personagens-lobisomens-o-tipo-de-lobisomem-1",
+      "name": "personagens lobisomens. O tipo de lobisomem",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "A presente matéria nasceu da inconformação de um jogador – eu – pela ausência de regras para personagens lobisomens. O tipo de lobisomem descrito aqui é o verdadeiro, nada de maldições ou doenças. - Bruno Nazareth As explanações da origem dos lobisomens estão descrita s nos livros e suplementos de Trevas\\Arkanun. Um personagem lobisomem é fruto da união de h...",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomem02-sistema-2",
+      "name": "Sistema",
+      "category": "attribute_skill",
+      "pages": [
+        2
+      ],
+      "summary": "Sistema “No final, só o Código importa.” Um personagem lobisomem, inicial, além dos 5 pontos de Aprimoramento, possui 15 pontos de poderes lupinos, +1 para cada nível além do primeiro; que devem ser distribuídos entre os descritos. Poderes Lupinos Estes são poderes desenvolvidos instintivamente por todos os lobisomens. Aumento de Atributos É a capacidade do...",
+      "entityRefs": []
+    },
+    {
+      "id": "lobisomem02-caca-3",
+      "name": "Caça",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "Caça Torna o rastreio do lobisomem muito difícil ou impossível. Nível 1: O rastreio por métodos normais é impossível; Nível 2: A localização só é possível com a prévia marcação mágica; Nível 3: Impossível de si marcar ou localizar. Os captares não conseguem segui-lo. Resistência à Magia Torna o personagem menos suscetível a magia e seus efeitos. Nível 1: Dim...",
+      "entityRefs": []
+    }
+  ]
+}

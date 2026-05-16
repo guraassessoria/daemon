@@ -1,0 +1,44 @@
+{
+  "source": "anjossombras02",
+  "title": "anjossombras02",
+  "status": "full-read-auto-pass-1",
+  "pages": 3,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "power_magic",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "anjossombras02-anjos-e-sombras-1",
+      "name": "Anjos e sombras.",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "Anjos e sombras. Cap. II. Pesadelos. By: Denis Agellus Machado. Os cientistas ainda não conseguem explicar a súbita mudança na coloração do céu que se tornou de um vermelho leve, lembrando sangue diluído em água, assim como ninguém consegue explicar por que as pessoas não estão morrendo nem por que os mortos estão retornando. Cidade de Prata, lar dos anjos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjossombras02-cidade-de-prata-2",
+      "name": "Cidade de Prata......",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "Cidade de Prata...... Vcs estão junto com Rafael e Gabriel no quarto de Miguel, o menino está melhor, já conseguiu se recuperar, apesar de continuar como uma criança já está normal pois seus cabelos estão cacheados, fazendo com que ele pareça um querubim com os mais belos e preocupados olhos azuis que alguém já viu.... - Então Miguel? O que houve? Como vc fi...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjossombras02-inferno-3",
+      "name": "Inferno....",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "Inferno.... “ele está aqui, mas como? Como ele entrou sem que meus soldados o vissem? O garoto está fora de controle, sinto que ele já pegou pesado lá em casa, ó D...quanto tempo faz que eu não me refiro a cidade de prata como minha casa..... Eu não posso estar com medo, eu nunca mais tive medo a não ser em duas ocasiões, primeiro quando eu me revoltei e fui...",
+      "entityRefs": []
+    }
+  ]
+}

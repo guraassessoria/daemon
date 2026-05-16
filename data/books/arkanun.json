@@ -1,0 +1,1752 @@
+{
+  "source": "arkanun",
+  "title": "Arkanun",
+  "status": "full-read-auto-pass-1",
+  "pages": 240,
+  "primaryCategories": [
+    "creature_npc",
+    "power_magic",
+    "item_equipment",
+    "core_rule"
+  ],
+  "parts": [
+    {
+      "id": "arkanun-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          3
+        ]
+      ],
+      "summary": "t: ;12·.;!·: 0: ,, מ· ͹· ע \".)ף)פ - ' ' . г ' б < ::;ן ·נ.: • • • - .i ;,ס·t «\" ,, ,.:ȞȜ-ȝ;Y·:'.· Ľarcefo CJ)éf :CJ)7\"&&!? i':. .... . tª 2ª 3ª <])aemon <Editora 4.._v. Cffordcio rrccr, 160 safa 3 qtaim cn1&1 - sao dauro - Se fax (11) 3675-: 1860 emaif: áaemõn@áaemon.com.&r в _,,, ftttp:/ /www.áaemon.com.&r ·.f .. 'Edição %v/t995 'Edição S\\(.ai/t998 CEifição...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ola-rpgista-4",
+      "name": "Olá, RPGista.",
+      "category": "creature_npc",
+      "pages": [
+        4
+      ],
+      "summary": "Olá, RPGista. Depois do enorme sucesso da primeira e segun­ da edições de Arkanun, considerado hoje o mais anti­ go RPG nacional ainda em publicação, com vários su­ plementos e matérias de ambientação publicados, te­ mos a honra de anunciar a terceira edição, revisada e ampliada, com novas concepções de Magias espontâ­ neas ͊ rituais, com novas idéias na cri...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lndice-5",
+      "name": ".. lndice",
+      "category": "power_magic",
+      "pages": [
+        5
+      ],
+      "summary": ".. lndice O Sécufo dos CHomens 5 Si\\\\agos Corrosivos 40 Conceitos CJ3ásicos 8 Ordem de Chronos 40 <História de Arkanun 10 CEsco(a de Qfcne&ras 41 Criação de 9?ersonagem 16 Si\\\\agos das Som&ras 42 Ƈri&utos 22 Ordem dç Saíomão 42 ͙s 24 Qfcmpío de Císis e Osiris 44 Guer1•eiro 24 Ordem do CJ)ragão 44 ͚nger 24 Ordem do Graa( 45 Guarda-Costas 24 CJ3rujas 46 Caçado...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-seculo-dus-homens-6",
+      "name": "Século dÜs homens",
+      "category": "setting_lore",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "summary": "Século dÜs homens \"-Nave se aproximando!,\" grita um jovem instalado na torre do porto para seus companhei­ ros mais velhos. Logo, os homens se juntam no cais a fim de estarem prontos para agarrarem as amar­ ras quando esf as forem lançadas. A nau se aproxi­ ma, as velas outrora cheias, agora repousam ten­ tando evitar o vento e dar ao navio uma atracagem fir...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-conceiros-b-sicos-9",
+      "name": "Conceiros B&sicos",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          9,
+          10
+        ]
+      ],
+      "summary": "Conceiros B&sicos Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG ARKANUN não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu Personagem, nós utilizaremos muitos termos que talvez você não esteja fa­ miliarizado. Muitos termos usados no sistema de Magias e combates também são...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-hisroric-de-a-rkc-nun-11",
+      "name": ".hisrôRic\\ de À.RKc\\nun",
+      "category": "power_magic",
+      "pages": [
+        11
+      ],
+      "summary": ".hisrôRic\\ de À.RKc\\nun Informação é poder. À SJ?rimeira Sockdade Secreta Segundo o poeta John Milton, a morada dos pri­ meiros Anjos era chamada de Castelo Oostegor, ou Malek. Um castelo de proporções gigantescas, aproxi­ madamente do tamanho de uma metrópole do século XXI na Terra, e apenas inferior en) tamanho ao Castelo Júpiter, lar dos Anjos altíssimos....",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-g-estruicao-de-r-t-antiaa-12",
+      "name": "A g)estruição de ,r\\t[ântiáa",
+      "category": "creature_npc",
+      "pages": [
+        12
+      ],
+      "summary": "A g)estruição de ,r\\t[ântiáa Ainda segundo Platão, a ilha de Atlântida foi destruída por uma briga entre Cleto e Poseidon, por ra­ zões que o filósofo não terminou de descrever em Critias. Sabe-se que essa destruição aconteceu em conjunto ao grande Dilúvio, mas que as almas de muitos híbridos filhos de atlantes e humanas voltaram à Terra. Os sábios de Atlânt...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-arcadia-13",
+      "name": "Arcádia",
+      "category": "creature_npc",
+      "pages": [
+        [
+          13,
+          16
+        ]
+      ],
+      "summary": "Arcádia O episódio Arcádia também acontece mais ou me­ nos nessa época. Existia uma parte da Grécia chamada Licania, governada por um soberano chamado Licaon, que possuía diversas esposas e cinqüenta filhos e filhas. As terras de Licaon estavam entre as mais próspe­ ras do continente, até que certa vez Zeus e Hera estavam viajando pela Grécia disfarçados de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cric-c-o-de-personc-gem-17",
+      "name": "CRic\\ç&o de peRsonc\\gem",
+      "category": "core_rule",
+      "pages": [
+        17
+      ],
+      "summary": "CRic\\ç&o de peRsonc\\gem Em ARKANUN, a Criação de um Personagem é algo bastante fácil de se fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobre­ vivência no futuro. Existem também fatores relaciona­ dos com o Backgróund do Personagem, seus anseios e temores, sua história e sua caracterização. Em ARKANUN, a história de um Perso...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-7-m-iente-18",
+      "name": ". .7\\m&iente",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          18,
+          20
+        ]
+      ],
+      "summary": ". .7\\m&iente 1. Onde ele mora e como é esse lugar? 2. Como é o clima/ atmosfera? 3. Por que ele mora lá? 4. Quais são os problemas comuns lá? 5 .. Como é sua rotina diária? 6. Existe alguma coisa que ele deixou para trás? 2. C{)eriJique áeta[fies áa história Faça esta parte do trabalho em conjunto com o Mes­ tre, pois muito do que for escolhido aqui será uti...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-um-cavalo-com-sela-21",
+      "name": "- Um cavalo com sela",
+      "category": "attribute_skill",
+      "pages": [
+        21
+      ],
+      "summary": "- Um cavalo com sela - Um grimório de 20 páginas Total Gasto : 1250 Florins Max possui ainda 50 Florins em moedas de prata Importante: não aborreça o Mestre (nem os Jogado­ res) com miudezas. O objetivo deste jogo não é juntar a maior quantidade de posses, nem saber quem cuida me­ lhor de suas moedas. As posses de maior valor como casas, torres e cas­ telos...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-r-tri-utos-22",
+      "name": "r\\tri&utos",
+      "category": "item_equipment",
+      "pages": [
+        22
+      ],
+      "summary": "r\\tri&utos Os Atributos são explicados de­ talhadamente nas páginas 22 a 23, mas a parte de Criação de Per­ sonagens (páginas 16 a 20) mos­ trará os limites a serem seguidos. ({)afores A parte de Criação de Personaͩ gem (páginas 16 a 20) mostra os cálculos desses valores vitais. <;Perícias com Armas As regras de combate são explicadas nas páginas 106 a 113,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-mibucos-23",
+      "name": "A.mibucos",
+      "category": "attribute_skill",
+      "pages": [
+        23
+      ],
+      "summary": "A.mibucos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses nú­ meros dizem como o Personagem é se comparado a ou­ tros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com TREVAS bem corno com todos os RPGs lançados pela Daernon Editora. São oito Atributos, dividid...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cl-meros-de-efeste-24",
+      "name": "Çl'@meros de êfeste",
+      "category": "attribute_skill",
+      "pages": [
+        24
+      ],
+      "summary": "Çl'@meros de êfeste A qualquer momento do jogo, o Mestre pode exi­ gir de um Jogador um Teste de Atributo para desco­ brir se ele é capaz de fazer alguma coisa. O Atributo testado vai depender da natureza da ação: arrombar uma porta vai exigir um Teste de Força; desenhar um mapa exige um Teste de Destreza; e \"levar no papo\" uma secretária de um político para...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-kirs-25",
+      "name": "kirS",
+      "category": "power_magic",
+      "pages": [
+        25
+      ],
+      "summary": "kirS Os Kits podem ser entendidos como profissões que seu Personagem escolhe para seguir. Para se usar um Kit, gaste os Pontos de Perícia, Aprimoramento e o tem­ po dedicado exigido para cada Kit e receba os benefícios correspondentes. Os Kits devem ser totalmente condi­ zentes com o Background do Personagem. Alguns dos Kit são de Personagens membros das pri...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cacador-de-acompensas-26",
+      "name": "Caçador de Acompensas",
+      "category": "creature_npc",
+      "pages": [
+        26
+      ],
+      "summary": "Caçador de Acompensas Os Caçadores de Recompensas podem ser encontra­ dos nas tavernas espalhadas pelas cidades. Especializa­ ram-se em procurar ou eliminar pessoas foragidas. A Igre­ ja costuma manter equipes de Caçadores de Recompensa à postos para perseguir pessoas acusadas de feitiçaria que ·· acham que conseguirão escapar das mãos divinas. Muitas vezes,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-s-afaaino-27",
+      "name": "S(>afaáino",
+      "category": "item_equipment",
+      "pages": [
+        27
+      ],
+      "summary": "S(>afaáino Os Paladinos são descendentes das tradições da Or­ dem do Graal (a Távola Redonda do Rei Arthur) e preci­ sam fazer o voto de castidade, honestidade e pobreza (e se quebrarem qualquer um desses votos serão punidos com a perda de seus poderes, ou até uma maldição imposta pelos deuses por terem traído a confiança e apoio deles). Paladinos são solitá...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-sfuarao-28",
+      "name": "Sfuárão",
+      "category": "attribute_skill",
+      "pages": [
+        28
+      ],
+      "summary": "Sfuárão Custo: 2 ponto de Aprimoramento, 250 pts. de Perícia. Perícias: Adaga 40/20, Armadilhas 30%, Arromba­ mento 30 % , Barganha 1 O%, Camuflagem 20 % , Dis­ farce 20%, Escapismo 30%, Escutar 20%, Falsifica­ ção 20%, Furtar 40%, Furtividade 30%,Joalheria 20%, Subterfúgio 30%. Aprimoramentos: Pontos Heróicos 3. Pontos de Fé: O. Pontos de Magia: O. Pontos H...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ejogaaor-29",
+      "name": "EJogaáor",
+      "category": "power_magic",
+      "pages": [
+        29
+      ],
+      "summary": "EJogaáor Não é propriamente uma profissão, mas muitos vivi­ am dos jogos de cartas e dados na Idade Média. O Jogador típico passa boa parte de sua vida viajando, seja para en­ contrar locais novos onde não seja conhecido, seja fugindo daqueles que perderam grandes somas de dinheiro e que­ rem se vingar, seja fugindo para não pagar o que deve. Este Kit é reco...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-espiao-30",
+      "name": "\\Espião",
+      "category": "item_equipment",
+      "pages": [
+        30
+      ],
+      "summary": "\\Espião Durante uma guerra, informação sobre as forças do inimigo é uma das maiores armas de um exército. Seja entre Reinos, Guildas ou.Ordens de Magia, a função de Espião é uma das mais valorizadas (e arrisca­ das) entre as funções militares. Espiões são especializados em infiltrar-se nos mais altos níveis do clero, da corte ou de organizações e conseguir i...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-ssassino-31",
+      "name": "á_ssassino",
+      "category": "power_magic",
+      "pages": [
+        31
+      ],
+      "summary": "á_ssassino . Assassinos são Espiões especializados na fina arte de eliminar indivíduos inconvenientes. São mestres na fabricação de venenos (e antídotos), armadilhas, disfar­ ces, arrombamentos e outros. Esses Espiões costumam aprender técl)icas de luta tão eficientes quanto os melhores Guerreiros, além de co­ nhecimentos de demolições, falsificação e camufl...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-qf-er-afista-32",
+      "name": "qf er&afista",
+      "category": "power_magic",
+      "pages": [
+        32
+      ],
+      "summary": "qf er&afista Custo: 3 pts. de Aprimoramento, 200 pts. de Perícia. Perícias: Armadilhas 40%, Barganha 30, Ciências (Herbalismo 50%, História 20%), Ciências Proibi­ das (Rituais 20%), Etiqueta 10%, Heráldica 10%, Me­ dicina 20%, Primeiros Socorros 20%, Sobrevivência (Floresta 40%), Subterfúgio 20%. Aprimoramentos: Poderes Mágicos 2, Pontos Herói­ cos 1, Aliado...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cj-ruiaa-33",
+      "name": "CJ)ruiáa",
+      "category": "power_magic",
+      "pages": [
+        [
+          33,
+          34
+        ]
+      ],
+      "summary": "CJ)ruiáa Druidas (do celta Conhecedor do Caroalho) são os Feiti­ ceiros celtas, membros da classe mais educada, culta e ins­ truída dos antigos celtas. Veneradores da natureza, os Druidas estão em comunhão com as plantas e os animais da floresta e esses os reconhecem como aliados e conse­ lheiros, ajudando-os à sua maneira. Os primeiros relatos dos Druidas v...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-os-0-agos-aquos-35",
+      "name": "Os 0'\\_agos Aquos",
+      "category": "power_magic",
+      "pages": [
+        [
+          35,
+          36
+        ]
+      ],
+      "summary": "Os 0'\\_agos Aquos Conhecidos secretamente com o nome de Dagon. Fundação: 6.000 AC na Polinésia Base: Ilhas da Polinésia Atuação: cidades costeiras Personalidades: nenhuma conhecida. Graus: a ordem é composta de dois Círculos de Mistérios. O primeiro com 7 graus de iniciação e o segundo com 3 graus superiores. Todo Mago Aquo do Primeiro Círculo é auxiliado po...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-historico-37",
+      "name": "<Histórico",
+      "category": "power_magic",
+      "pages": [
+        [
+          37,
+          38
+        ]
+      ],
+      "summary": "<Histórico O Magos que mais tarde fundariam a Escola de Yarnesh surgiram quando Poseidon veio à Terra em bus­ Ȕª de seu filho. Com ele vieram alguns de seus aprendizes, e se­ gundo a lenda, apesar deles terem sido proibidos de en­ sinar as artes aos mortais, um deles, de nome Yamesh, se apaixonou por urna mortal e ensinou a ela os segre­ dos das águas. Quand...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-s-agos-da-e-empestade-39",
+      "name": "S\\\\.agos da ê)empestade",
+      "category": "power_magic",
+      "pages": [
+        39
+      ],
+      "summary": "S\\\\.agos da ê)empestade Fundação: 1217, Noruega. Base: Dinamarca. Atuação: Europa germânica, América do Norte. Personalidades: Luigi Canterri, Thor, Paula Jorgensen. Graus: a ordem está dividida tradicionalmente desde a Idade média em Magos e Guerreiros. No século 20, o termo guerreiro aplica-se também aos assassinos profissionais recrutados. Cabalas são org...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ordem-40",
+      "name": "Ordem",
+      "category": "power_magic",
+      "pages": [
+        40
+      ],
+      "summary": "Ordem ármore Fundação: data desconhecida, em Arkanun. Base: Arábia. Atuação: praticamente todo o mundo ocidental. Personalidades: Jibrill (Anjo muçulmano), Magnus Petraak (em Arkanun), Nemesis, JulietMandallus. Graus: Existem apenas três graus dentro da ordem: Aprendiz (ou Mago Aprendiz), Guerreiro Irmão (ou Mago Irmão) e Mestre Assassino (ou Mago Superior)....",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-agos-corrosivos-41",
+      "name": "agos Corrosivos",
+      "category": "power_magic",
+      "pages": [
+        41
+      ],
+      "summary": "agos Corrosivos Fundação: 650 DC, em Constantinopla. Base: Constantinopla. Atuação: discreta em qualquer grande cidade. Personalidades: Marcellus van Lexis Graus: Existem três graus dentro da ordem. Primeiro Grau: Aprendiz. Segundo Grau: Mago Destruidor. Terceiro Grau:Arquimago do Caos. Círculo Interno: Formado pelos Arquimagos mais po­ derosos de seu tempo,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cesco-a-de-cfenefwas-42",
+      "name": ".CEsco(a de Cfenefwas",
+      "category": "creature_npc",
+      "pages": [
+        [
+          42,
+          44
+        ]
+      ],
+      "summary": ".CEsco(a de Cfenefwas Recomenda-se utilizar apenas como NPCs. Fundação: Tenebras. Base: Norte da Hungria, no Grande Templo da Sala Azulada. Atuação: Terra e Arkanun. · Personalidades: Tsémel Qurén hiKétkolel, Ksárul, M.R.Barker, DominicStradgoth. Graus: A irmandade é constituída de Sete Círculos de Mistério. Os dois primeiros são divididos em três graus cada...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-qfeip-o-de-cisis-e-qsiris-45",
+      "name": "QfeĮp(o de císis e Qsíris",
+      "category": "power_magic",
+      "pages": [
+        45
+      ],
+      "summary": "QfeĮp(o de císis e Qsíris Fundação: 4.000 AC, Egito. Base: Cairo (Egito) e Paris (França). Atuação: Todo o mundo conhecido. Personalidades: Ísis, Osíris, Baast, Cleópatra, Marco Antônio, grande parte dos Faraós, François Lenormand. Graus: O Templo está dividido em dez graus, cada '\" ;,· um representando um Sephiroh da Cabala. Os graus são: 1=10 Malktith, 2=9...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ordem-do-g-ragao-46",
+      "name": "' Ordem do g)ragão",
+      "category": "power_magic",
+      "pages": [
+        [
+          46,
+          47
+        ]
+      ],
+      "summary": "' Ordem do g)ragão Custo: 3 pts. de Aprimoramento, 230 pts. de Perícia. Perícias: Espada Bastarda 20/30, Lança 20/25, Ada­ ga 20/20, Esquiva 25%, Ciências.Proibidas (Vampi­ ros 20% ), Heráldica 20%, Manipulação (Tortura 20%), Montaria 30%, Rastreio 20%, Sobrevivência (Deserto 20%, Montanha 30%). Aprimoramentos: Poderes Mágicos 2, Pontos Heróicos 3. Formas e...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-sociedade-de-cffassam-48",
+      "name": "-Sociedade de Cffassam",
+      "category": "creature_npc",
+      "pages": [
+        48
+      ],
+      "summary": "-Sociedade de Cffassam Fundação: século XII, Pérsia (atual Irã). Base: Fortaleza de Alamout, no norte do Irã. Atuação: praticamente todo o mundo. Personalidades: Hassan Bem Nabbas. Graus: a Sociedade possui sete graus.de iniciação: Protetor do Templo de Adão, Cavaleiro do Templo de Noé, Assassino Servo de Abraão, Mestre Assas­ sino Escravo de Moisés, Grande...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-aprimorc-mencos-49",
+      "name": "ÀpRimoRc\\mencos",
+      "category": "power_magic",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "summary": "ÀpRimoRc\\mencos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem di­ ferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa o jogo com 5 pontos de Aprimoramentos e o Jogador pode gastá-los como desejar. Esses pontos não podem simplesmente serem \" gas­ tos\", mas o Mestre e o J...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-capas-de-cenxergar-a-uras-51",
+      "name": "Capas de CEnxergar Â_uras",
+      "category": "creature_npc",
+      "pages": [
+        [
+          51,
+          52
+        ]
+      ],
+      "summary": "Capas de CEnxergar Â_uras 1 ponto: com alguma concentração (e um Teste Fácil de Percepção) o Personagem pode sentir a aura de uma pes­ soa. Ele detecta seu estado de espírito verificando as cores de sua aura. Cada cor corresponde a uma emoção diferente e o Personagem sabe o que significa cada cor. Esta é uma habilidade natural e NÃO pode ser cancelada por Ri...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-pactos-53",
+      "name": ")Pactos",
+      "category": "power_magic",
+      "pages": [
+        [
+          53,
+          54
+        ]
+      ],
+      "summary": ")Pactos 1 ponto: pactos com entidades muito poderosas po­ dem ser uma ótima fonte de poder, se o Personagem estiver disposto a pagar o preço. Demônios de Infernun precisam sempre de energia mística para manterem-se vivos na Terra. Alguns Magos oferecem parte de sua energia (pon­ tos de Atributos, pontos de Magia, pontos de Perícia ou sua alma) em troca de ri...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-aprimoramentos-gati-vos-55",
+      "name": ".Aprimoramentos gati-vos",
+      "category": "item_equipment",
+      "pages": [
+        [
+          55,
+          56
+        ]
+      ],
+      "summary": ".Aprimoramentos gati-vos Podem ser escolhidos até um máximo de -3. A_fcoó[atra -1 ponto: viciado em álcool. Pode ser dependente de qualquer tipo de bebida, ou uma específica. Um alcóolatra deve ter sucesso em um Teste de WILL (Difí­ cil) para evitar o vício quando estiver diante dele. Para um Personagem bêbado, TODOS os Testes são Difíceis. A_(ma C{)endida...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-perlcic-s-57",
+      "name": "peRlcic\\s",
+      "category": "character_option",
+      "pages": [
+        57
+      ],
+      "summary": "peRlcic\\s Perícias são as talentos, habilidades e conhecimen­ tos adquiridos pelo seu Personagem ao longo de sua vida. Elas dizem o que ele sabe fazer e quais suas chances de fazer direito. Quando um Personagem tem uma Perícia, ele também é capaz de reconhecer a qualidade do trabalho de outro na mesma área. <J?ontos de <J?erícia Quando críamos um Personagem,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ita-de-9-ericias-58",
+      "name": "İta de 9?erícias",
+      "category": "core_rule",
+      "pages": [
+        [
+          58,
+          59
+        ]
+      ],
+      "summary": "İta de 9?erícias Apresentada no seguinte formato: Grupo* Descrição do grupo. Subgrupo (valor inicial): Descrição. Outros Subgrupos possíveis: exemplo 1, exemplo 2 ... Observação: o símbolo * só aparecerá quando a Perícia tiver Subgrupos. Nesse caso, você deve escolher apenas UM dos Subgrupos correspondentes. Animais* A Perícia Animais e seus Subgrupos são li...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ciencias-o-60",
+      "name": "Ciências* (o)",
+      "category": "combat",
+      "pages": [
+        60
+      ],
+      "summary": "Ciências* (o) Uma ciência é um grupo de conhecimentos relàti­ vos a determinado assunto. Esses conhecimentos geral­ mente são conseguidos através de leitura, meditação ou observação direta. Agricultura: capacidade de organizar, corrigir e executar qualquer tipo de plantação. Saber como e quan­ do plantar os tipos de culturas mais comuns, como esto­ car os pr...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ciencias-j-roi-idas-o-61",
+      "name": "Ciências <J?roi&idas* (o)",
+      "category": "combat",
+      "pages": [
+        61
+      ],
+      "summary": "Ciências <J?roi&idas* (o) . Uma das Perícias mais importantes do jogo, ainda que seja difícil conseguí-la. Ciências Proibidas determina quanto o Personagem sabe sobre assuntos alternativos e fora do contexto comum das pessoas. Esta Perícia é perigo­ sa em níveis elevados: quanto maior o conhecin1ento do Personagem em Ciências Proibidas, mais visado ele será...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-etiqueta-car-62",
+      "name": "e.Etiqueta (car)*",
+      "category": "attribute_skill",
+      "pages": [
+        62
+      ],
+      "summary": "e.Etiqueta (car)* Esta Perícia permite ao Personagem sab€r como fa­ lar, vestir-se e comportar-se educadamente de acordo com a situação. É útil em festas, bailes e discussões di­ plomáticas. Um Teste bem-sucedido de Etiqueta não ga­ rante que o Personagem vai livrar-se de uma encrenca, mas pelo menos evita que seja mal interpretado. A Perí­ cia garante apena...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-sx-ano-ras-de-combate-63",
+      "name": "SX..ano&ras de Combate*",
+      "category": "combat",
+      "pages": [
+        [
+          63,
+          64
+        ]
+      ],
+      "summary": "SX..ano&ras de Combate* Esta categoria de Perícia é um caso excepcional. São apresentadas aqui algumas manobras especiais de combate. Elas não são utilizadas como Perícias, na me­ dida em que não se faz Teste de Manobra. O Personagem simplesmente sabe realizá-la. As manobras têm um cus­ to fixo em pontos de Perícia, listados entre parênteses. Não há valor in...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-pon-cos-65",
+      "name": "pon:cos",
+      "category": "core_rule",
+      "pages": [
+        [
+          65,
+          66
+        ]
+      ],
+      "summary": "pon:cos Pontos Heróicos funcionam como uma medida abs­ trata de heroísmo; eles não são exatamente Pontos de Vida extras, mas uma espécie de \" aura heróica\" ou \" sor­ te\" que protege o corpo físico do Aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, ser arrastado por um carro em movimento, tentar desv...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-poncos-67",
+      "name": "poncos",
+      "category": "creature_npc",
+      "pages": [
+        67
+      ],
+      "summary": "poncos Fé [do lati/li Fide] Sf 1 . Crença Religiosa. 2. Co11ju11to de Doglllas e Doutrillas que co/lstit11em w11 culto. 3. A primeira virtude teologal: adesão e mwêlicia pessoal a Deus, seus desíg- 11ios e manifestações. Pontos de Fé expressa m o poder máximo dos Inquisidores: a Fé Divina. ȓ.m termos de jogo, Fé repre­ senta os pequenos milagres t1ue um Aven...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ativacao-de-qtcns-aagicos-68",
+      "name": "Ativação de qtcns Aágicos",
+      "category": "combat",
+      "pages": [
+        68
+      ],
+      "summary": "Ativação de qtcns Aágicos Alguns itens mágicos (em especial aqueles cria­ dos pelos seres da Cidade de Prata) requerem Pontos de Fé para serem ativados ou utilizados. Somente pes­ soas com Fé podem utilizar tais artefatos. C]3ênção O Personagem pode abençoar um grupo de Aventurei­ ros (até 6 pessoas por Ponto de Fé), concedendo a eles um bônus de +5% em cmi:...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-quipc-ffienlos-69",
+      "name": "e quipc\\ffienLOS",
+      "category": "item_equipment",
+      "pages": [
+        69
+      ],
+      "summary": "e quipc\\ffienLOS Este capítulo contém os preços em Florins para di- CEquipamentos versos itens que os Personagens podem precisar. As duas colunas são os preços máximo e mínimo sugeridos, mas Ampulheta 200 280 o Mestre pode alterar esses valores como achar melhor. Anel de assinatura 50 80 Apito 0,40 0,50 Ɓupas Balança de Mercador 20 25 Botas de cavalgar 25 35...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-camisa-de-malha-70",
+      "name": "Camisa de Malha",
+      "category": "power_magic",
+      "pages": [
+        [
+          70,
+          71
+        ]
+      ],
+      "summary": "Camisa de Malha 450 600 A_nimais Cota de Malha 750 750 Boi 160 220 Corselete de Placas 2.000 4.000 Cachorro comum 130 150 Colete de Ferro 2.000 3.000 Cachorro de caça 275 350 Manto de Ferro 3.000 4.000 Camelo 500 600 Armadura de Placas de Bronze 4.000 7.000 Cavalo 750 1000 Armadura de Placas 5.000 7.500 Cavalo de Raça 1000 1500 Armadura de Batalha 16.000 25....",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-mprie-72",
+      "name": "MPriƽe.!!",
+      "category": "power_magic",
+      "pages": [
+        [
+          72,
+          77
+        ]
+      ],
+      "summary": "MPriƽe.!! traciM their orii&n from i$éveri.!Y HORIZON OF Sephirolh SALOM ONIS (C ITATIO) ( n<::>nK̼n̽K̾c:>nK̿K̀e>n ) .YWOLEH.VAY.BAREC HET.VAY.YOMAR.HA.ELOHE ELOHIM.ASCHER .TYWOHE HYTHALE.CHUABOTAY.LEP \" HA.NAVVABR.A .. HAMVEYSJlA ETERNITY Fir.!lt .'55 PriDC!e.5 tm:irƾ lhe.ir orͷlti'rr from r.lcrer Hesed representa o grande amor, a piedade e a gló­ ria. Seus...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-mites-de-combinacoes-78",
+      "name": "<:{!_,mites de Combinações",
+      "category": "power_magic",
+      "pages": [
+        78
+      ],
+      "summary": "<:{!_,mites de Combinações A combinação de Caminhos e Formas poӱ ser rea­ lizada pelo Personagem, bastando para isso que o Joga­ dor utilize a sua imaginação. Só para se ter uma idéia da quantidade de combinações possíveis, são 828 combi­ nações de duas Formas e dois Caminhos, cada uma va­ riando em até 14 níveis de Focus diferentes, totalizando 11.592 combi...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-g-uracao-79",
+      "name": "g)uração",
+      "category": "core_rule",
+      "pages": [
+        [
+          79,
+          80
+        ]
+      ],
+      "summary": "g)uração A duração de um Ritual depende da capacidade do Mago de se concentrar e manter a Forma-Pensamento do feitiço no plano da Terra. Essa duração é efêmera, pois as forças que agem entre os planos são muito inten­ sas. Para efeitos de jogo, pode-se assumir três casos: Uma cena: se os Jogadores são mais experientes, o Mestre pode assumir que um Ritual fun...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-o-fogo-caminha-comigo-81",
+      "name": "O Fogo caminha comigo.",
+      "category": "core_rule",
+      "pages": [
+        81
+      ],
+      "summary": "O Fogo caminha comigo. Laura Palmer, Twin Peaks 1° Círcu(o CEntender êf ogo O Mago pode sentir a temperatura exata de um cor­ po ou objeto apenas ao toque. Pode sentir uma proprie­ dade física do fogo (temperatura, tipo de combustível, quanto tempo ainda deverá durar etc.). Pode sentir lo­ cais onde fogueiras estiveram acesas recentemente. Ou­ tro efeito pos...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-3-circu-o-82",
+      "name": "3° Círcu(o",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          82,
+          83
+        ]
+      ],
+      "summary": "3° Círcu(o CEntender g;ogo Faz sua pele resistente ao fogo, com 3D de prote­ ção. O Mago pode detectar o volume de fogo aproxima­ do em uma região de até 50m de raio. O Mago pode sen­ tir o calor de uma pessoa, animal ou objeto se aproxi­ mando, ou a temperatura de um corpo à distância. Criar g;ogo Pode criar uma explosão no ar, ou colocar um bal­ de de carv...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-4-circu-o-84",
+      "name": "4° Circu(o",
+      "category": "power_magic",
+      "pages": [
+        [
+          84,
+          85
+        ]
+      ],
+      "summary": "4° Circu(o <Entender ÁtJUa O Mago pode sentir o corpo de água mais próximo (inclui seres.que tenham sangue) num raio 100m; pode sentir quantas pessoas estão em uma,sala próxima e sua exata localização, através da umidade de seus corpos; pode aumentar temporariamente a Força ou Constitui­ ção em 2d6 pontos. O Mago pode se movimentar veloz­ mente na água (até...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-contro-ar-k-86",
+      "name": "Contro[ar k",
+      "category": "power_magic",
+      "pages": [
+        86
+      ],
+      "summary": "Contro[ar k O Mago pode criar barulhos, estalos ou sons estra­ nhos (assustadores); pode criar um redemoinho ou pe­ queno tufão (Força 30); pode ampliar sons (volume) em até 100% ou diminui-los à metade; pode criar uma bar­ reira de ar sólido, com até 3 pontos de Índice de Proteção contra ataques físicos. Levita a si próprio (com todos os seus pertences) ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lerr-87",
+      "name": "LeRR<.\\",
+      "category": "combat",
+      "pages": [
+        87
+      ],
+      "summary": "LeRR<.\\ Fui ordenado a me entregar ao Seulior do Muudos. Ele que criou a ti do pó. Alcorão, Sura 40 O Caminho da Κerra lida não só com a terra em si, mas com outras de suas variações: pó, pedra, minerais, cristais e metais. Há uma limitação nesse Caminho que ainda não foi explicada pelos estudiosos: não é possível afetar ouro com o Caminho Elemental da Terra...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-criai-e-crra-88",
+      "name": "Criai• ê)crra",
+      "category": "power_magic",
+      "pages": [
+        [
+          88,
+          89
+        ]
+      ],
+      "summary": "Criai• ê)crra Pode criar poeira densa em um raio de lOOm; cria uma parede de terra, com até 2m de altura por 5m de comprimento; permite criar uma chuva de pedras ou pregos em uma circunferência de 2m de raio e dano 4d6. O Mago consegue conjurar objetos grandes de metal ou pedra, como armários, cofres, grades, corren­ tes, grandes vidros e outros. Contro[ar ê...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-contro-ar-e-90",
+      "name": "Contro[ar E",
+      "category": "attribute_skill",
+      "pages": [
+        90
+      ],
+      "summary": "Contro[ar E Pode fazer urna pessoa ficar invisível se ficar imó­ vel (note que ela ainda possui reflexo em um espelho). Pode \"borrar\" a imagem de urna pessoa ou torná-la translúcida, conferindo Índice de Proteção 3, sem as con­ seqüentes penalidade na Destreza e Agilidade, contra quaisquer ataques físicos. Apaga ou altera o reflexo no espelho de uma pessoa....",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lrevc-s-91",
+      "name": "LRevc\\s",
+      "category": "combat",
+      "pages": [
+        91
+      ],
+      "summary": "LRevc\\s Minlia vida é 11111 quarto escuro. Um quarto bem grande e escuro. Beetle Juice O controle das Trevas só pode ser feito se existirem sombras e escuridão suficientes para a realização da Ma­ gia, caso contrário, o efeito gerado poderá ser mais fraco do que o esperado. Exceção é feita para a Forma Criar, na medida em que sua concepção é justamente aumen...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-4-circu-o-92",
+      "name": "4° Circu(o",
+      "category": "power_magic",
+      "pages": [
+        [
+          92,
+          93
+        ]
+      ],
+      "summary": "4° Circu(o CEntcnckr é)rcvas Pode mesclar-se às sombras, tornando seu corpo tão escuro e intangível quanto uma sombra de verdade. A Bruxa consegue enxergar no escuro a até lOOm. O Mago pode conversar com as sombras e dela extrair informa­ ções preciosas. Embora sejam muito observadoras, as sombras tendem a contar apenas os aspectos negativos das pessoas que...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-contro-ar-sf-cantas-94",
+      "name": "Contro[ar Sf>Cantas",
+      "category": "race_lineage",
+      "pages": [
+        94
+      ],
+      "summary": "Contro[ar Sf>Cantas Pode fazer um objeto de madeira contorcer-se, do­ brar-se ou mesmo se partir. Pode fazer uma árvore se mover, seguindo ordens do Mago. Desvia flechas de madeira. Arrebenta trancas, cadeados e dobradiças de portas de madeira. 4° Circufo <Entender Sf>[antas O Mago é capaz de conversa e entender plantas e árvores. Devido à sua natureza, plan...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anin1c-is-95",
+      "name": "Anin1c\\is",
+      "category": "power_magic",
+      "pages": [
+        95
+      ],
+      "summary": "Anin1c\\is Todos os animais, exceto o homem, sabem que o mais importante na vida é aproveitá-la. Anônima Este Caminho inclui o chamado de animais, quan­ do a situação permitir, ou simplesmente a conjuração mística através de pentagramas, runas e círculos de con­ juração e proteção. Entende-se por conjuração a criação de um objeto ou criatura a partir da Forma...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-criar-a-nimais-96",
+      "name": "Criar A..nimais",
+      "category": "power_magic",
+      "pages": [
+        96
+      ],
+      "summary": "Criar A..nimais Cria, ou conjura uma ninhada de ratos, um enxa­ me de pequenos insetos, alguns animais pequenos ou mesmo um animal grande como um javali, um jaguar, uma hiena, um lobo, um cachorro São Bernardo ou outro animal (até 100kg); ou os destrói (dano 3d6). Somado a H11ma11os 3, o Mago pode copiar uma habilidade de um animal (o pulo de um gato, a teia...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-humc-nos-97",
+      "name": "humc\\nos",
+      "category": "power_magic",
+      "pages": [
+        [
+          97,
+          98
+        ]
+      ],
+      "summary": "humc\\nos Eu sou um fã do homem. Talvez o último. John Milton, Advogado do Diabo Os humanos estão h·adicionalmente divididos na Cabala como Espírito, Corpo e Mente. Entender Humanos trabalha com o espírito hu­ mano, e lida com Rituais relacionados ao compreendi­ mento de línguas, emoçõesi sentimentos, ligações arcanas e outros. Criar Humanos lida com a carne...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-spirirum-99",
+      "name": "SpiRirum",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          99,
+          100
+        ]
+      ],
+      "summary": "SpiRirum Eu vejo pessoas mortas. Cole Sear, O 6º Sentido O <)?fano A_stra[ O Plano Astral também pode ser afetado através des­ te Caminho de Magia. Viagens Astrais fazem parte do Ca­ minho Entender Spiritum/Hum<µlo,-bem como Rituais que envolvam o cordão de prata, as Orbes e os reinos dos pen­ samentos mais elevados, próximos a Paradísia. Comunicação astral,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-arkc-ilun-101",
+      "name": "ÀRKc\\ilun",
+      "category": "power_magic",
+      "pages": [
+        [
+          101,
+          102
+        ]
+      ],
+      "summary": "ÀRKc\\ilun Não tente me morder. Há coisas 1w 111e11 sangue que você realmente não iria querer na sua boca. John Constantine, Livros da Magia Também chamado de \"O Caminho dos Demôni­ os\", poucos Magos independentes escolhem este Cami­ nho como principal, pois a vingança dos espíritos e das criaturas de Arkanun e Infernun é muito pesada para se suportar sozinho...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cc-minhos-secund-rios-103",
+      "name": "·cc\\minhos Secund&Rios",
+      "category": "power_magic",
+      "pages": [
+        103
+      ],
+      "summary": "·cc\\minhos Secund&Rios A combinação de dois Caminhos de aprendizados acabam gerando um terceiro Caminho, chamado pelos estudiosos de Caminhos Secundários. Eles conferem a um Mago maior versatilidade na escolha de suas Magi­ as, e faz com que os Magos versáteis fiquem tão perigo­ sos e poderosos quanto os Magos especialistas. Importante: o valor de Focus em C...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-gcfo-a-af-ua-104",
+      "name": "Gcfo (Â[ + Áf)Ua)",
+      "category": "power_magic",
+      "pages": [
+        104
+      ],
+      "summary": "Gcfo (Â[ + Áf)Ua) Este Caminho foi mais amplamente estudado nos países nórdicos. Com o Caminho do Gelo, o Mago se torna capaz de resfriar um barril de água ou outro líqui­ do até congelá-la (Criar Gelo 3), criar neve ou até mesmo resistir a uma nevasca desprotegido (Entender Gelo 3). O Mago pode congelar mecanismos, armaduras, ou sim­ plesmente revestir o ch...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-esperiencic-105",
+      "name": "espeRiêncic\\",
+      "category": "power_magic",
+      "pages": [
+        [
+          105,
+          106
+        ]
+      ],
+      "summary": "espeRiêncic\\ Dos outros quatro Personagells da Campa11lza, dois fo­ ra111 destrnídos pela Inquisição, um ficou lo11co e o último aca­ bou aprisionado em Arka11w1 para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vez.es já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos Anjos, Templários, Inquisição e outr...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-regrc-s-e-lesres-107",
+      "name": "RegRc\\s e Lesres",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          107,
+          108
+        ]
+      ],
+      "summary": "RegRc\\s e Lesres Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum mo­ mento eles serão obrigados a enfrentar algo ou alguém. Para isto, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de enigmas...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-efeste-de-asistencia-109",
+      "name": "éfeste de Asistência",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          109,
+          110
+        ]
+      ],
+      "summary": "éfeste de Asistência . Em alguns casos, os Personagens são submetidos a provações de ordem física ou mental. São situações inespei;adas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comwlS são: Constituição (CON), quando o ataque é físico, por veneno...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-qniciativa-9ativa-111",
+      "name": "qniciativa %9ativa",
+      "category": "combat",
+      "pages": [
+        111
+      ],
+      "summary": "qniciativa %9ativa Se um Personagem, após ter os modificadores apli­ cados, ficar com Iniciativa negativa, ele perde sua ação nessa rodada. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumula­ das de armaduras (armadura completa medieval), ar­ mas pesadas (uma espada montante) e outros. Porém, na rodada seguint...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cidice-de-j-rotecao-q-j-112",
+      "name": ".cíħdice de <J?roteção (q<J?)",
+      "category": "combat",
+      "pages": [
+        112
+      ],
+      "summary": ".cíħdice de <J?roteção (q<J?) O lndice de Proteção existe para representar al­ gum tipo de proteção contra dano. Na Idade Média, exis­ tiam arma dos mais variados tipos. Não podemos es­ quecer dos Feiticeiros e Magos que lançavam seus encatarnentos sobre os inimigos. De urna maneira ou de outra, quando um golpe atin­ ge uma pessoa, parte do dano pode ser abs...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-sk-uftipfos-oponentes-113",
+      "name": "SK._úftipfos Oponentes",
+      "category": "combat",
+      "pages": [
+        [
+          113,
+          114
+        ]
+      ],
+      "summary": "SK._úftipfos Oponentes Ocorrem casos em que um Personagem está enfren­ tando dois ou mais inimigos. Quando isso acontece, ele terá problemas em utilizar sua Defesa. Nesses casos, é permitido ao Personagem numericamente inferiorizado: -Dividir seu valor de Defesa em quantas partes dese­ jar. Se, por exemplo, ele possui 60% de Defesa com Espada Curta, ele pode...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ldeic-s-115",
+      "name": "·ldéic\\s",
+      "category": "creature_npc",
+      "pages": [
+        115
+      ],
+      "summary": "·ldéic\\s Em ARAKANUN, as possibilidades de conflitos são quase infinitas. Por ser um mundo onde diversas forças antagônicas estão reunidas, o confronto entre elas passa a ser inevitável. Aqui estão algumas dicas para os Mestres torna­ rem suas sessões de jogo mais interessantes. 3ogue com o desconftccido O medo do desconhecido deve sempre perseguir os Person...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-emonios-vs-s-agos-116",
+      "name": "q)emônios vs. S'\\_agos",
+      "category": "creature_npc",
+      "pages": [
+        116
+      ],
+      "summary": "q)emônios vs. S'\\_agos Magos são freqüentemente tentados por Demônios mais poderosos, principalmente quando eles possuem algo que o Demônio quer ou precisa. Pactos, Rituais, Poderes, conhecimentos e outros acordos são oferecidos, bem como missões perigosas em troca de objetos ou fo­ vores que o Mago deseje (ou precise). Não se esqueça que os Demônios não são...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-rkc-nun-a-rcc-norum-117",
+      "name": "À.Rkc\\nun À.Rcc\\nORUm",
+      "category": "setting_lore",
+      "pages": [
+        [
+          117,
+          118
+        ]
+      ],
+      "summary": "À.Rkc\\nun À.Rcc\\nORUm As Origens desta Ordem Secreta de Magos datam do Templo do Grande Mago Salomão. Originalmente, o Arkanun Arcanorum era forma­ do apenas por Magos pertencentes à Ordem de Salomão, buscava métodos de enfrentar e destruir Demônios e outras criaturas sobrenaturais, com o auxílio dos Cava­ leiros do Templo. Com a quase total destruição de Je...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-rode-dos-cdundos-119",
+      "name": "· A Rode\\ dos CDundos",
+      "category": "creature_npc",
+      "pages": [
+        [
+          119,
+          120
+        ]
+      ],
+      "summary": "· A Rode\\ dos CDundos Há muito mais coisas e11tre o céu e a terra do que pensa sua vã filosofia. Hamlet Imagine um mundo povoado por criaturas de pe­ sadelos. Imagine um mundo flamejante, onde rios de magma e florestas de fogo misturam-se a imensas regi­ ões cobertas de um gelo escuro corno carvão. Imagine torres com centenas de metros de altura, habitadas p...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-os-q-emonios-do-qnferno-121",
+      "name": "Os q)emônios do qnferno",
+      "category": "creature_npc",
+      "pages": [
+        [
+          121,
+          123
+        ]
+      ],
+      "summary": "Os q)emônios do qnferno Ao contrário dos Magos de Arkanun, os Demônios que habitam os Nove Círculos do Inferno não estão inte­ ressados em auxiliar a humanidade e evitar uma catás­ trofe, muito pelo contrário. Exilados dos Céus, perdedores na Grande Batalha Cósmica, Espectros malignos, Súccubi e Íncubi e as terríveis Hordas Demoníacas estão interessados em e...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-o-sonftar-124",
+      "name": "O Sonftar",
+      "category": "creature_npc",
+      "pages": [
+        [
+          124,
+          126
+        ]
+      ],
+      "summary": "O Sonftar Quando as pessoas dormem a alma se afasta do corpo e penetra no que alguns chamam de \"Plano As­ tral\". Nosso espírito permanece ligado ao corpo por um cordão de prata que garante um retorno seguro das regiões perigosas como Spiritum. Nestas condi­ ções, a mente está pronta para vagar pelos campos verdejantes do Sonhar. O Sonhar, como Arcádia, é fei...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-grimorio-127",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        127
+      ],
+      "summary": "Grimório :Nome: _ _ _ _ _ _ _ _ _ _ _ _ _ Formas e Caminhos: ___________ Custo: _ _ _ _ _ _ _ _ _ Duração: ________ Fetiches: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Descrição: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ :Nome: _ _ _ _ _ _ _ _ _ _ _ _ _ Formas e Caminhos: ___________ Custo: _ _ _ _ _ _ _ _ _ Duração: ________ Fetiches: _...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cj3acicground-128",
+      "name": "CJ3acícground",
+      "category": "kit_class",
+      "pages": [
+        128
+      ],
+      "summary": "CJ3acícground .. \"· Sociedade Secreta: ________ Grau: _ _ _ _ _ _ _ _ Cabala: Mentor: -------- -- -------- Aliados na Sociedade: agias Formas Entender ( · Criar ( Controlar ( . Caminhos Fogo ( Água ( Terra ( Ar ( Luz ( Trevas ( g;eticftes ) ) ) ) ) •) ) ) ) ĩxperiência -- Plantas ( Animais ( Humanos ( Spiritum ( Arkanun ( r\\fiados e Contatos gn im igos Conhe...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-nome-129",
+      "name": "Nome",
+      "category": "attribute_skill",
+      "pages": [
+        129
+      ],
+      "summary": "Nome Data de Nascimento ------------ ----- Local de Nascimento Sexo Altura Peso ---- ---- Classe Social / Profissão Nível Idade: Aparente Real _ _ _ Idiomas Religião --,.---- Fé _ _ _ _ _ .r\\íri&utos Constituição (CON) Força (FR) Destreza (DEX) Agilidade (AGI) C{).afor / 0\\\\._oá / % _ ;_ ;_ _ ;_ ;_ _ /_ /_ _ ; __ /_ Inteligência (INT) __ / __ / __ Força de V...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-europc-ojedievc-130",
+      "name": "euRopc\\ OJedievc\\(",
+      "category": "core_rule",
+      "pages": [
+        130
+      ],
+      "summary": "euRopc\\ OJedievc\\( +arce[o g)e( g)e&&io CNgrson <notre( g)acmon e.Editora Â_v. Cflorácio 'le-Jer, 160 safa 3 qtaim CJ3i&i - São c;PauCo, Sc;P êf aX; ( 011) 3675-1860 emaií: daemon@daemon.com.&r ftttp:/ /www.daemon.com.&r",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ceuropa-dleva-131",
+      "name": "CEuropa -dleva[",
+      "category": "item_equipment",
+      "pages": [
+        131
+      ],
+      "summary": "CEuropa -dleva[ Criação: Marcelo Del Debbio & Norson Botrel Desenvolvimento: Marcelo Dei Debbio & Norson Botrel Revisão: Ana Flora Schlindwein ·1 · Capa: fotomontagem por GiZmo Arte: House of Arts ,\\ Fotolitos: Daemon Editora e Paper Express. htks Impresso por: Gráfica Melhoramentos. 7\\gradecimentos · - A nossos pais, por todo o apoio. - A Luciana e Carol,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lnmoducc-o-132",
+      "name": "'lnmoduçc\\o",
+      "category": "creature_npc",
+      "pages": [
+        132
+      ],
+      "summary": "'lnmoduçc\\o A ambientação é um dos maiores fatores de influência em uma boa Campanha de RPG. Quan­ to mais detalhado e vívido um cenário for, mai­ or a capacidade do Mestre de criçir e desenvol­ ver suas aventuras dentro deste cenário, Jazen­ do com que os Personàgens de seu grupo interajam com os NPcs de maneira mais realis­ ta e coerente. Descrever as prin...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lndice-133",
+      "name": ".... lndice",
+      "category": "race_lineage",
+      "pages": [
+        [
+          133,
+          134
+        ]
+      ],
+      "summary": ".... lndice 0\\\\_apa da CEuropa 6 CJ)emônios 80 Cidades CJ)oppef ganger 83 é)ofedo 8 CJ)ra9ões 84 \\fiarcefona 14 CEfemetttqres 84 C)?aris 20 CElfos 85 ĝndres 26 CElf os Ƅgros 85 CEdim&urgo 32 Gigantes 86 ƅskifde & ͌enFtagett 38 Go&fittóides 86 C{)ettcw 44 Gofem 86 ƅma 50 3otutts 86 A.fenas 56 ĝ&isometts 86 Cottstantittopfa 62 0\\(_anticore .. · 87 C1'{\"'8ºrd e...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-europw-135",
+      "name": "euRopw",
+      "category": "setting_lore",
+      "pages": [
+        [
+          135,
+          136
+        ]
+      ],
+      "summary": "euRopw Sécu(o 7\\.lV {,ímít<:s do lmpt:l{ío u li Díd5' de: \\li119on d (dVdlo '· '\\-.::, \"6iȍolȎr Ʊ'-\"Ʋ, ',-:_Reel<jcv1k ISLÂI A .̸;:,. Skolholt S .......-..r ...r\"'-.r",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lo-edo-137",
+      "name": "Lo(edo",
+      "category": "combat",
+      "pages": [
+        137
+      ],
+      "summary": "Lo(edo é}ofcdo Localização: Região central da Espanha População: 65.000 habitantes Língua: Catalão e Espanhol Economia: baseada no comércio entre Aragão e o sul da Ibéria, bem como a fabricação de espadas, lâ­ minas e adagas. Quem manda: Alec Sanul-tes, burgomesb·e da cidade. Quem realmente manda: O Consell di Cen t ( o con­ selho dos anciões), formado pelos...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-njos-138",
+      "name": "A_njos",
+      "category": "creature_npc",
+      "pages": [
+        138
+      ],
+      "summary": "A_njos Os primeiros Anjos vieram para Toledo junto com os primeiros bispos, ainda no século 1, e muitos perma­ necem na cidade até a presente data. O mais antigo e importante deles é São Eugenius (que foi convertido após sua morte, tornando-se o primeiro Principado da cida­ de). Os Anjos de Toledo são poucos, poderosos e não estão se importando com os proble...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-qnquisicao-139",
+      "name": "Â qnquisição",
+      "category": "power_magic",
+      "pages": [
+        [
+          139,
+          140
+        ]
+      ],
+      "summary": "Â qnquisição A Inquisição possui muito poder em Toledo, mas dizem que está quase totalmente corrompida pelos De­ mônios que deveriam caçar. Relatórios sobre Rituais de Aquelarre realizados por Bruxas e Feiticeiros de Ordens necromânticas são comuns na região. Os Inquisidores mais jovens são idealistas e vêm para a região em busca de grandes desafios, mas com...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-omenec-cj3f-asi-141",
+      "name": "q)omenec CJ3f asi",
+      "category": "combat",
+      "pages": [
+        [
+          141,
+          142
+        ]
+      ],
+      "summary": "q)omenec CJ3f asi Diácono Superior (Ordem de Salomão) CON 13, FR 14, DEX 12, AGI 13, INT 18, WILL 16, CAR 16, PER 15 Magister da Ordem de-Salomão, 17º nível #Ataques [1], IP 5 (Rituais), PVs 31 +34 Regenera 1 PV por rodada (anel de regeneração) Perícias Principais: Astrologia 70%, Herbalismo 70%, Geografia 60%, Etiqueta 60%, Idioma/Ler e Escre­ ver (Espanhol...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-oc-rce-onc-143",
+      "name": "Õc\\Rce(onc\\",
+      "category": "creature_npc",
+      "pages": [
+        [
+          143,
+          144
+        ]
+      ],
+      "summary": "Õc\\Rce(onc\\ <]3arcdona Localização: Leste de Aragão, próximo a Zaragoza População: 35.000 habitantes Língua: Catalão e Espanhol Economia: baseada no comércio entre Aragão e a África, com grande quantidade de mercadores de es­ cravos, condimentos, jóias e objetos vindos das terras distantes do continente mouro. Quem manda: Fredric Conta}, burgomestre da cidad...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-empcarios-145",
+      "name": "é')empCários",
+      "category": "race_lineage",
+      "pages": [
+        145
+      ],
+      "summary": "é')empCários Os primeiros Templários vieram para Barcelona em 1.290, comandados por Juan Vaidez, um dos líderes dos Hospitaleiros de Jerusalém. Encontraram entre as criatu­ ras sobrenaturais da cidade um Vampiro de nome Cortez. A luta entre os templários e os servos de Cor tez durou qua­ se seis anos, até que finalmente conseguiram destruir Cortez em 1.298....",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-empio-de-cisis-e-qsiris-146",
+      "name": "@'\"'empío dé Císis e Qsíris",
+      "category": "power_magic",
+      "pages": [
+        146
+      ],
+      "summary": "@'\"'empío dé Císis e Qsíris Representado por três Keter, Isaías, Sa1azari e Selmah, a presença do Templo têm sido muito discreta. Preocupam-se mais com as relações dos comerciantes europeus e africanos (principalmente em produtos que chegam de navio provenientes do Cairo e imediações) do que com os problemas do Arkanun Arcanorum. Ordem Aármore Apenas um Mago...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-us-g-redeniteim-147",
+      "name": "÷us g;redenÍteim",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          147,
+          148
+        ]
+      ],
+      "summary": "÷us g;redenÍteim Diácono Superior (Ordem de Salomão) CON 12, FR 12, DEX 12, AGI 11, INT 19, WILL 21, CAR 16, PER 13 Magister da Ordem de Salomão do 16º nível #Ataques [1], IP 6 (Rituais), PVs 28+32 Regenera 1 PV por rodada (anel de regeneração) Perícias Principais: Astrologia 70%, Herbalismo 70%, Geografia 30%, Etiqueta 40%, Idioma/Ler e Escre­ ver (Alemão 6...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-p-ris-149",
+      "name": "p<\\RiS",
+      "category": "power_magic",
+      "pages": [
+        149
+      ],
+      "summary": "p<\\RiS ěaris Localização: Norte da França População: 50.000 habitantes Língua: Francês Economia: Comércio de bens de consumo básicos (alimentos, roupas e utensílios.em geral) e do dinhei­ ros dos nobres que estudavam nas Academias. Quem manda: Burgomestre François D' Alambert Quem realmente manda: O rei Felipe (o belo) e o Papa Inocêncio V. Arkanun Arcanorum...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-njos-150",
+      "name": "A._njos",
+      "category": "creature_npc",
+      "pages": [
+        150
+      ],
+      "summary": "A._njos Paris foi considerada desde a sua fundação como um ponto extremamente importante para a Cidade de Prata, pela sua localização (no coração da Europa). Os dois primeiros Anjos enviados pelo Conselho à Paris foram Pierre de Chelles e Jean Ravy, no século V, encarregados de proteger a Igreja de St. Denis e cuidar da cidade. Nos próximos séculos, cerca de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-empiarios-151",
+      "name": "ê)empíários",
+      "category": "power_magic",
+      "pages": [
+        151
+      ],
+      "summary": "ê)empíários Os Templários têm enfrentado grandes problemas nos últimos anos. No início do século, 140 Templários foram capturados pela Inquisição na França. A razão real dessa captura foi o fato dos Anjos Nimbus de Avignon terem descoberto o plano dos Templários de estabelecer bases fortes na França para atacar os Nimbus em seguida. Servos de CJ3apftomet Ess...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-casa-de-cftronos-152",
+      "name": "Casa de Cftronos",
+      "category": "race_lineage",
+      "pages": [
+        152
+      ],
+      "summary": "Casa de Cftronos A Casa de Chronos passou a atuar em Paris após a criação das primeiras universidades. É uma Ordem estri­ tamente acadêmica e não está muito envolvida nas políti­ cas do Arkanun Arcanorum em Paris. Mantém muitos contatos com a Grécia, Roma e a Espanha e seus estudiosos estão sempre viajando entre esses locais e aprendendo o máximo que podem d...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-guiffaume-de-saint-sf-athus-153",
+      "name": "Guiffaume de Saint-Sf>athus",
+      "category": "creature_npc",
+      "pages": [
+        [
+          153,
+          154
+        ]
+      ],
+      "summary": "Guiffaume de Saint-Sf>athus Diácono Superior CON 13, FR 15, DEX 14, AGI 13, INT 19, WILL 16, CAR 16, PER 12 Mago de Yamesh do 18º nível #Ataques [1], IP 5 (Rituais), PVs 32+18 Possui 2D de proteção contra Magias Perícias Principais: Cabala 60%, Astrologia 60%, Herbalismo 60%, Heráldica 40%, Línguas (Francês 60%, Latim 50%, Grego 50%, Hebraico 40%), Etiqueta...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-londres-155",
+      "name": "londRes",
+      "category": "setting_lore",
+      "pages": [
+        [
+          155,
+          156
+        ]
+      ],
+      "summary": "londRes ƀndres Localização: Sudeste das Ilhas Britânicas População: 20.000 habitantes Língua: Inglês Economia: Comércio com outras c;idades inglesas, em especial Oxford, Cambridge, Norwich e Bristol. Quem manda: Edward Longshanks. Quem realmente manda: O Consellzo. Longshanks comanda todas as decisões envolvendo o mundo mortal, mas não tem conhecimento sobre...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-emp-arios-157",
+      "name": "é)\"emp[ários",
+      "category": "power_magic",
+      "pages": [
+        157
+      ],
+      "summary": "é)\"emp[ários Quando os Templários foram acusados de heresia, e um grupo de Cavaleiros foi capturado e queimado vivo na França, incluindo o Grão Mestre Jacques de Molay, por ordem do Rei Felipe e do Papa de A vignon, o Rei da Ingla­ terra, a princípio, não os atacou, como a Igreja gostaria, mas a pressão dos bispos e Inquisidores têm sido intensa. Muitos Temp...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ordem-do-acuo-158",
+      "name": "Ordem do <{)ácuo",
+      "category": "creature_npc",
+      "pages": [
+        158
+      ],
+      "summary": "Ordem do <{)ácuo Formada durante o século XIII, após a expulsão de alguns Nephalins (filhos de Anjos e humanas, que possu­ em a capacidade de recordarem-se de suas encarnações passadas) que queriam utilizar-se da Ordem para tomar o Arkanun Arcanorum e dominar o mundo conhecido. Mathias Szachmary foi o fundador dessa Ordem. Grão Mestre da Ordem Luft e vivo há...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-uriin-159",
+      "name": "úríin",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          159,
+          160
+        ]
+      ],
+      "summary": "úríin Conselheiro Mestre da Ordem do Graal CON 34, FR 16, DEX 12, AGI 13, INT 29, WILL 31, CAR 16, PER 27 Arquimago do 27º nível #Ataques [l], IP 8 (Rituais), PVs 75+70 Possui 5D de proteção contra Magias Regenera 2 PVs por rodada (anel de regeneração) Perícias Principais: Astrologia 150%, Herbalismo 150%, Engenharia 150%, Geografia 90%, Etiqueta 60%, Empati...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-edinburgo-161",
+      "name": "edinbuRgo",
+      "category": "race_lineage",
+      "pages": [
+        161
+      ],
+      "summary": "edinbuRgo CEdinf:iurgo Localização: Norte da Inglaterra População: 40.000 habitantes Língua: Inglês Economia: pastagens, comércio entre os clãs e entre os países nórdicos. Quem manda: Robert de Bruce Quem realmente manda: Robert de Bruce Arkanun Arcanorum: O norte das ilhas ainda man- tém-se afastado demais de Roma e, graças à guerra enh·e Escócia e Inglater...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-njos-162",
+      "name": "A._njos",
+      "category": "creature_npc",
+      "pages": [
+        162
+      ],
+      "summary": "A._njos Os primeiros Anjos da Cidade de Prata chegaram a Escócia junto com as Legiões Romanas. Uma das protetoras mais conhecidas da Escócia é Santa Margareth, uma princesa inglesa que morreu em 1093 e que foi aclamada como santa. Educada, casta e pura, foi ela quem ensinou boas maneiras aos nobres da Escócia, em uma época de bárbaros. Santa Margareth pode r...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-empfarios-163",
+      "name": "Q)empfários",
+      "category": "creature_npc",
+      "pages": [
+        [
+          163,
+          164
+        ]
+      ],
+      "summary": "Q)empfários Os Templários estão reunidos no Castelo de Edinburgo, que é ao mesmo tempo sede do Arkanun Arcanorum na Escócia.O líder Templário é Robert de · Bruce, responsável pela proteção dos Cavaleiros que fu­ giram da Inquisição na França. Outro líder da Ordem na Escócia é Jean-Marc Larmenius, reconhecido como o novo Grão Mestre da Ordem após a captura de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-sean-u-ffan-165",
+      "name": "Sean ü}ffan",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          165,
+          166
+        ]
+      ],
+      "summary": "Sean ü}ffan Diácono Superior de Edinburgo CON 11, FR 11, DEX 12, AGI 10, INT 23, WILL 19, CAR 14, PER 15 Mago do 15° nível #Ataques [1], IP 5 (Rituais), PVs 26+30 Possui 3D de proteção contra Magias de fogo Perídas Principais: Astrologia 60%, Herbalismo 60%, História 50%, Espíritos 60%, Liderança 70%, Lín­ guas (Inglês 60%, Francês 60%, Élfico 40% ), Lábia 6...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-roskilde-kopenhc-gen-167",
+      "name": "RosKilde & kopenhc\\gen",
+      "category": "creature_npc",
+      "pages": [
+        167
+      ],
+      "summary": "RosKilde & kopenhc\\gen ƁskHáe Localização: Dinamarca População: 25.000 habitantes Língua: Dinamarquês Economia: comércio entre os países nórdicos. Quem manda: A familia Roskilғ Quem realmente manda: A família Roskild Arkanun Arcanorum: Por serem muito pequenas, as duas cidades possuem um fuúco Selo de Salomão, cons­ tituído apenas de Magos da Ordem Luft. Apó...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-7-njos-168",
+      "name": "7\\_njos",
+      "category": "creature_npc",
+      "pages": [
+        168
+      ],
+      "summary": "7\\_njos Na região de Roskilde, não existem muitos Anjos nem muitos Demônios. A região conta com dez a vinte Anjos, sendo o Principado local o extremamente mal humorado Nyhavn, responsável pelos relatórios ao Conselho da Ci­ dade de Prata. Anjo muito antigo, foi enviado para Roskilde por causa de urna briga política com um Nimbus na Cida­ de de Prata e não go...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-efempfarios-169",
+      "name": "êfempfários",
+      "category": "power_magic",
+      "pages": [
+        [
+          169,
+          170
+        ]
+      ],
+      "summary": "êfempfários A presença de Templários é virtualmente nula nes­ ta região gelada. O máximo que as Ordens de Cavalaria chegaram no Norte foi na Alemanha, com a Ordem dos Cavaleiros Teu tônicos, e mesmo assim eles não chega­ ram nem próximo da região. Os únicos Cavaleiros que se aventuram pelas frias regiões são os Paladinos do Graal, que viajam o mundo levando...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-xrs-ysfd-de-171",
+      "name": "Xrs Ysfd[de",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          171,
+          172
+        ]
+      ],
+      "summary": "Xrs Ysfd[de Diácono Superior da Ordem Luft CON 15, FR 11, DEX 9, AGI 11, lNT 19, WILL 21, CAR 15, PER 20 Arquimago do 21 º nível #Ataques [1], IP 5 (Rituais), PVs 34+21 Possui 3D de proteção contra Magias de Frio Perícias Principais: Astrologia 70%, Herbalismo 55%, História 50%, Espíritos 55%, Liderança 70%, Lín­ guas ( Inglês 60%, Élfico 40%), Cajado 60/60,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-veneaa-173",
+      "name": "VeneÃa",
+      "category": "creature_npc",
+      "pages": [
+        173
+      ],
+      "summary": "VeneÃa C{)enesa Localização: Ligação entre Ocidente e Oriente População: 100.000 habitantes Língua: Italiano Economia: Comércio entre o Leste e o Oeste. Pratica­ mente qualquer tipo de mercadoria, ·produto ou espe­ ciaria pode ser encontrado em Veneza. Quem manda: Dodge Julianno Vieni Quem realmente manda: O Conselho dos Comercian­ tes. Formado pelas família...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anjos-174",
+      "name": "Anjos",
+      "category": "creature_npc",
+      "pages": [
+        174
+      ],
+      "summary": "Anjos Mesmo estando tão próximos de Roma, Veneza têm · se mantido afastada das ordens do Conselho da Cidade de Prata. Existem cerca de 50 Anjos na cidade, a maioria Corpore e Protetores, encarregados de vigiar pessoas e mercadores devotos e atuar mais como observadores do que como vigilantes. Tarness, Corpore criado em 230 AC, é quem coor­ dena os Anjos de V...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-empfarios-175",
+      "name": "Q)empfários",
+      "category": "race_lineage",
+      "pages": [
+        [
+          175,
+          176
+        ]
+      ],
+      "summary": "Q)empfários Os Reinos dos Mercadores estão entre as terras pro­ tegidas pelos Hospitalários. Quando o papa Clemente V acusou os Templários de heresia e conflagrou a guerra entre Inquisição e Cavaleiros, muitos dos Hospitalários dessa região tiveram de se esconder nos castelos e torres localizados ao Norte de Veneza para escapar das milíci­ as de Gladi11s Dei...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-lfteris-s-aff-ik-177",
+      "name": "&lfteris S'\\_aff ik",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          177,
+          178
+        ]
+      ],
+      "summary": "&lfteris S'\\_aff ik Diácono Superior CON 15, FR 15, DEX 12, AGI 13, INT 19, WILL 21, CAR 11, PER 19 Necromante (Tenebras) do 18° nível #Ataques [2], IP 6 (Rituais), PVs 33+18 Possui 3D de proteção contra Magias Perícias Principais: Necromancia 70%, Cabala 60%, Astrologia 50%, Herbalismo 60%, Heráldica 40%, Lín­ guas (Italiano 60%,Inglês 50%, Francês 40%, Lat...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-romc-179",
+      "name": "Romc\\",
+      "category": "power_magic",
+      "pages": [
+        179
+      ],
+      "summary": "Romc\\ CJ\\.?ma Localização: Região central da Itália População: 50.000 habitantes Língua: Italiano, Latim Economia: Centro mundial religioso em decadência Quem manda: O Conselho Quem realmente manda: O Papa Arkanun Arcanorum: Roma contém a maior e mais importante concentração de estudiosos do Arcanorum, com mais de 50 Magos na cidade. Como boa parte do govern...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anjos-180",
+      "name": "Anjos",
+      "category": "power_magic",
+      "pages": [
+        180
+      ],
+      "summary": "Anjos Roma é a contraparte da Cidade de Prata na Terra. O Monte Vaticano reflete-se em Paradísia assim como o Monte Olimpo, na Turquia, reflete̸se em Olympus, lar dos deuses gregos. Por essa razão, a cidade contém uma concentração enorme de Anjos, visto que a maioria dos portais da Ter­ ra para Paradísia encontra-se nessa região. São Pedro e São Paulo estão...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-6-emp-arios-181",
+      "name": "6)emp[ários",
+      "category": "power_magic",
+      "pages": [
+        181
+      ],
+      "summary": "6)emp[ários Com a guerra entre a Inquisição e os Templários, Roma ficou praticamente nas mãos dos Gladius Dei. Com todos os Templários tendo de fugir para Portugal ou para a Escócia, por causa da perseguição de Avignon, a Or­ dem acabou deixando para trás vários tesouros escon­ didos nas catacumbas romanas, onde antes funciona­ yam suas casamatas. A Ordem de...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ordem-do-graa-182",
+      "name": "Ordem do Graa[",
+      "category": "creature_npc",
+      "pages": [
+        182
+      ],
+      "summary": "Ordem do Graa[ Conta com apenas um Mago, Christopher Winston, irmão de Harold Winston, Diácono da Cidade de Lon­ dres, que atua como Diácono Norte. A influência do Graal em Roma é muito pequena, apesar da posição conquis­ tada por Chritopher. Os irmãos possuem diversos Rituais especiais de comunicação, o que permite que a Ordem do Graal de Londres e Roma man...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-om-cffenrique-q-7-vifa-183",
+      "name": "q)om Cffenrique q)'7\\.vifa",
+      "category": "race_lineage",
+      "pages": [
+        [
+          183,
+          184
+        ]
+      ],
+      "summary": "q)om Cffenrique q)'7\\.vifa Diácono Superior CON 14, FR 15 (25), DEX 12, AGI 11, INT 19, WILL 16, CAR 13, PER 19 Scholar do 19º nível (Estrela Púrpura) #Ataques [2], IP 6 (Rituais), PVs 34+19 Armas: Gladio 80/80 dano 1d6+6 Perícias Principais: Religião 90%, Necromancia 50%, Cabala 50%, Astrologia 50%, Herbalismo 60%, Heráldi­ ca 40%, Línguas (Italiano 60%, In...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-z-en-s-185",
+      "name": "A.z::-en<\\s",
+      "category": "creature_npc",
+      "pages": [
+        185
+      ],
+      "summary": "A.z::-en<\\s A_tcnas Localização: Região central da Grécia População: 45.000 habitantes Língua: Grego, Aramaico Economia: Pastoral Quem manda: O Burgomestre . Quem realmente manda: O conselho dos Anciões. Arkanun Arcanorum: Atenas é controlada pela Casa de Chronos e possui um pouco de influência da Or­ dem de Salomão. Seus Magos, descendentes da Esco­ la Pita...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anjos-186",
+      "name": "Anjos",
+      "category": "creature_npc",
+      "pages": [
+        186
+      ],
+      "summary": "Anjos Os Anjos Ortodoxos formam uma pequena, porém poderosa comunidade. Ligados aos Anjos Nimbus de Constantinopla, os Anjos gregos estão sob a mira cons­ tante dos ataques dos Anjos muçulmanos e romanos. Cerca de vinte e um Anjos habitam a cidade de Atenas, a sua maioria Corpore e Principados. Os dois Anjos mais poderosos, Achaia e Timoti, vi­ vem no alto d...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-q-empfarios-187",
+      "name": "Q)'empfários",
+      "category": "creature_npc",
+      "pages": [
+        [
+          187,
+          188
+        ]
+      ],
+      "summary": "Q)'empfários Os Templários possuem grande poder e influência na região. Como o Mar Mediterrâneo é a grande porta de passagem entre Jerusalém e Roma, os Templários desen­ volveram urna fabulosa frota marítima, que circula entre o porto de Atenas e Jerusalém, passando muitas vezes pelas grandes cidades corno Rhodes e Alexandria. Os Templários não agem com muit...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ama-tas-189",
+      "name": "[ama tas",
+      "category": "combat",
+      "pages": [
+        [
+          189,
+          190
+        ]
+      ],
+      "summary": "[ama tas Diácono Superior CON 15 (35), FR 15 (40), DEX 12, AGI 15 (25), INT 21, WILL 25, CAR 10, PER 20 Híbrido Demônio-humano #Ataques [2], IP 4 (Rituais/ pele), PVs 45+25 Espada Longa (x2) 90/70 dano 1d10+13 Possui 2D de proteção contra Magias do fogo Perícias Principais: Arkanun 70%, Cabala 60%, Matemática 60%, Astrologia 50%, Herbalismo 40%, He­ ráldica...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-consco-ncinoplo-191",
+      "name": "Conscõ.ncinoplô.",
+      "category": "race_lineage",
+      "pages": [
+        [
+          191,
+          196
+        ]
+      ],
+      "summary": "Conscõ.ncinoplô. Constantinop[a Localização: Império Latino, Sul da Turquia População: 500.000 habitantes Língua: Grego, Egípcio e Árabe Economia: Comércio de especiarias, produtos e equi- pamentos entre o Oriente e o Ocidente. Quem manda: A corte. · Quem realmente manda: Michael Palaeologus Arkanun Arcanorum: Compreende aproximadamen- te setenta membros. É...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-se-astian-azik-197",
+      "name": "Se&astian Ązik",
+      "category": "power_magic",
+      "pages": [
+        [
+          197,
+          198
+        ]
+      ],
+      "summary": "Se&astian Ązik Diácono Superior e Magister da Ordem de Salomão CON 14, FR 11, DEX 12, AGI 12, INT 20, WILL 15, CAR 13, PER 17 Mago do 16° nível #Ataques [1 ], IP 5 (Rituais), PVs 30+ 16 Cajado (x2) 60/40 dano 1d6+1 Regenera 1 PV por hora Perícias Principais: Cabala 60%, Astrologia 50%, Herbalismo 40%, Heráldica 40%, Línguas (Grego 70%, Arkanun 60%, Árabe 50%...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-novgorod-199",
+      "name": ",NovgoRod",
+      "category": "combat",
+      "pages": [
+        199
+      ],
+      "summary": ",NovgoRod ͎vaorod Localização: Norte da Rússia População: 40.000 habitantes Língua: Russo Economia: Comércio Quem manda: O Burgomestre . Quem realmente manda: Alkar Arkanun Arcanorum: O Arcanorum é muito fraco em Novgorod. A cidade está muito afastada dos Con­ selhos de Roma e está envolvida em tantos problemas que não conseguiu ainda se organizar nesse sent...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anjos-200",
+      "name": ".Anjos",
+      "category": "creature_npc",
+      "pages": [
+        200
+      ],
+      "summary": ".Anjos Existem poucos Anjos em Novgorod. São apenas duas catedrais e duas pequenas igrejas, com um total de sete Anjos residindo na cidade. O Anjo mais conhecido entre eles é Juliel, Nimbus encarregado de se infiltrar na Igreja Ortodoxa Russa, mas que tem auxiliado seus companhei­ ros em Novgorod nos momentos mais complicados. O Principado da Cidade, Alexei,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-e-empf-a-rios-201",
+      "name": "é)'\"\"empf á rios",
+      "category": "race_lineage",
+      "pages": [
+        [
+          201,
+          202
+        ]
+      ],
+      "summary": "é)'\"\"empf á rios Os Cavaleiros Templários na Rússia estão muito enfraquecidos, sendo compostos, em sua maioria, por Cavaleiros Teutônicos e Ordens Russas Militares desen­ volvidas de exércitos feudais. Não possuem uma gran­ de organização por trás de seus atos, nem grandes te­ souros ou equipamentos para auxiliá-los. A maioria dos guerreiros que está lutando...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ce-cna-cinov-203",
+      "name": "CE(cna Ćinov",
+      "category": "combat",
+      "pages": [
+        [
+          203,
+          204
+        ]
+      ],
+      "summary": "CE(cna Ćinov Diácono Superior CON 12, FR 12, DEX 11, AGI 15, INT 13, WILL 15, CAR 16, PER 20 Grã Mestre da Rosa dos Ventos Feiticeira do 14º nível #Ataques [1], IP 4 (Rituais), PVs 26+14 Possui 2D de proteção contra Magias de Fogo Perícias Principais: Cabala 70%, Astrologia 80%, Herbalismo 80%, Heráldica 70%, Línguas (Alemão 60%, Dinamarquês 50%, Élfico40%,...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-besci-rio-205",
+      "name": "Besci&Rio",
+      "category": "creature_npc",
+      "pages": [
+        205
+      ],
+      "summary": "Besci&Rio Aqui apresentamos uma pequena lista de criatu­ ras que são encontradas mais freqüentemente na mitolo­ gia da Europa, nos séculos XI a XIV. O Mestre deve observar que boa parte das criaturas aqui a presentadas são bastante poderosas e que os investi­ gadores normalmente não sobreviveriam a um confronto direto com elas. Normalmente est€;'> seres são...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-anjos-caiaos-206",
+      "name": "Anjos Caiáos",
+      "category": "creature_npc",
+      "pages": [
+        206
+      ],
+      "summary": "Anjos Caiáos \"Quando os filhos dos homens se multiplicaram nestes dias, aconteceu que lhes nasceram filhas elegantes e belas. E quando os A11jos, os filhos dos céus as viram, ficaram apaixo- 11ados por elas, e disseram uns aos outros : Escolhamos mulhe­ res da raça dos homens e twhamos filhos com elas. Então Samyaza, seu chefe, lhes disse: Tenzo que não poss...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-a-noes-207",
+      "name": "A._nões",
+      "category": "combat",
+      "pages": [
+        [
+          207,
+          211
+        ]
+      ],
+      "summary": "A._nões CON [3D+3], FR [3D+3], DEX [2D+3], AGI [3D], INT [3D], WILL [3D], CAR [3D], PER [4D] #Ataques [var.], IP3 a 5 (armadura), PVs var. Possuem resistência de lD à Magia. Ataque por Armas Anões fazem parte das lendas germânicas e nórdi­ cas. Vivem em um reino chamado Nova Arcádia, que faz fronteira com a Terra em alguns pontos nas florestas do norte. Os A...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-g-estas-de-cflalzasee-212",
+      "name": "g)estas de Cflalzasee",
+      "category": "creature_npc",
+      "pages": [
+        [
+          212,
+          214
+        ]
+      ],
+      "summary": "g)estas de Cflalzasee CON [9D+6], FR [9D+6], DEX [6D+6], AGI [6D+6], INT [6D+6], WILL [6D+6], CAR [4D], PER [6D+6] #Ataques [3], IP 7 a 10; PVs 70 a 90 Regenera 2 PV s por rodada Garras 90/85 dano 3d6 + bônus Mordida 60/0 dano 2d6 Chifres 60/0 dano 3d6 Arma mágica 90/85 por arma + bônus Pontos de Magia 15 a 20 / Focus 17 a 22 Arkanun, Trevas, Fogo, Ar, Terra...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-gigantes-215",
+      "name": ". Gigantes",
+      "category": "power_magic",
+      "pages": [
+        [
+          215,
+          216
+        ]
+      ],
+      "summary": ". Gigantes CON [4D a SD], FR [4D a SD], DEX [3D], AGI [2D+3], INT [1D+6], WILL [2D+6], CAR [2D+2], PER [3D] #Ataques [1], IP 2 a 4, PVs 50 a 60 Arma 40/45 3d6+bônus Pontos de Magia O Os Gigantes, como o próprio nome indica, são cria­ turas humanóides com cerca de 5 a 7 metros de altura (embora já tenham sido relatados casos de Gigantes com mais de 12m de alt...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ortos-c-ivos-217",
+      "name": "+ortos-C{)ivos",
+      "category": "combat",
+      "pages": [
+        217
+      ],
+      "summary": "+ortos-C{)ivos CEsqucfctos CON [2D], FR [1D a 3D], DEX [1D a 3D], AGI [1D ], INT [O], WILL [O], CAR [O], PER [2D] #Ataques [1], IP 1, PVs 7 a 10 Arma 40 / 45 por arma Gftou[ CON [2D], FR [2D a 3D], DEX [1D], AGI [1D], INT [1D+6], WILL [2D], CAR [1D], PER [3D] #Ataques [1], IP 2, PVs 10 a 15 Arma 60/ 45 dano por arma CON [2D a 3D], FR [2D a 3D], DEX [3D], AGI...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ampiros-218",
+      "name": "({)ampiros",
+      "category": "creature_npc",
+      "pages": [
+        218
+      ],
+      "summary": "({)ampiros \"Jamais coloquei em millila boca uma única gota de sangue. O vinho rome110 sempre foi superior ao sa11gue dos Turcos.\" Vlad Teppes, Drácula CON [4D+9], FR [4D+9], DEX [3D+ 16], AGI [4D+ 16], INT [3D+6], WILL [3D+6], CAR [4D], PER (3D+6] #Ataques [1], IP l a 5, PVs 30 a 50 Regenera até 3 PVs por rodada Garras 80 / 65 dano 2d6 + bônus Arma m,ágica 6...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-cichc-de-c-ric-lurc-s-219",
+      "name": "Çichc\\ de C Ric\\LURc\\S",
+      "category": "core_rule",
+      "pages": [
+        219
+      ],
+      "summary": "Çichc\\ de C Ric\\LURc\\S g)escrição .. 00000000 Con êf r CJ)ex #A.taques ______ _ Tipo At Def Dano __ ; _ _ _ _ __ / _ _ _ _ __ ; _ _ _ _ __ ; _ _ _ _ __ / _ _ _ _ qp ------- <;Pontos de C()ida _______ _ Car .7\\taques CEspecia is g)ef esas <Especiais ĉovimento Terrestre ---k--------------- __ êfocus _____ Aéreo __ _ _ Aquático --.-------------------- Outro ( )",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-tichc-de-cidc-des-220",
+      "name": "tichc\\ de Cidc\\des",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          220,
+          221
+        ]
+      ],
+      "summary": "tichc\\ de Cidc\\des Cl'{9me : ___ ________ ___ ____ _ Cffistórico Localização:-------- População: _ _ _ _ _ _ _ _ _ _ _ _ _ Língua: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Economia: _ _ _ _ _ _ _ _ _ _ _ _ _ _ Quem manda: _ _ _ _ _ _ _ _ _ _ _ _ _ Quem realmente manda: _ _ _ _ _ _ _ _ _ Arkanun Arcanorum: _ _ _ _ _ _ _ _ _ _ Diáconos: - Superior: _ _ _ _ _ _ _ _ _ _ _...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-tdiario-e-e-ampanha-222",
+      "name": "tDiário %e e ampanha",
+      "category": "setting_lore",
+      "pages": [
+        222
+      ],
+      "summary": "tDiário %e e ampanha fData lvento Jmportante I I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- __ / __ / __ ------- / I -- -- -- ------- __ / __ / __ ------- __ / __ / __ ------- / I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- / I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- / I -- -- -- ------- __ / __ / __ -------...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-crimorio-223",
+      "name": "CrimOrio",
+      "category": "kit_class",
+      "pages": [
+        [
+          223,
+          224
+        ]
+      ],
+      "summary": "CrimOrio Nome: Nome: ---------- ---------- Formas e Caminhos: Formas e Caminhos: ------- ------- Fetiches: Fetiches: ---------- ---------- D e s cri ç ão: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ D e s cri ç ão: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Nome: Nome: ---------- ---------- Formas e Caminhos: Formas e Caminhos: ------- ------- Fetiches: Fetiches: ---------- ------...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-t-t-i-f-225",
+      "name": "- T;T<;-=>i;-?f<,-",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          225,
+          226
+        ]
+      ],
+      "summary": "- T;T<;-=>i;-?f<,- . s9}Jq:J:·--- 'ǿ; ,' _... .:1.. . ...J /; =-- ͨ-==-Ǿ ,.:. .- J.- ,r ... Nome - -} Data de Naseimento - --. ׎- ------------ -- · - - У - - - - - Local de Nascimento ________ Sexo ___ Altura - _ .̺ ·· ׍- Pes'O Т · ׌ - - - Classe Social / Profissão _ _ _ _ _ _ _ _ Idiomas __________ _ ri utos C{)a(or / oá / % Constituição (CON) ___ / ___ /...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ifjm-227",
+      "name": ")IfJM",
+      "category": "attribute_skill",
+      "pages": [
+        227
+      ],
+      "summary": ")IfJM .7;;__,_ - - .• . w/.....,_\"'< ' ,, ' ,' ' ͠ -çÕ' ֽ _ ,,_ . .. \". ·\"' :-\\ j r)J_,-.r,·1 z,, ... ·Ƥ( -e _ _ , .. ּ ׄ,- : _,\"--· '-y ' i f'• \\\\ \\ ... . \\ \" \"< • .,-· ' .Р- l • 'il l, \\ .... » ··.,:...;::- Nome _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ '·•_ . _v._ .. _ _ f-Data de Nasc1mento , . П. · :... 1' .. ..._.̫ Local de Nascimento se'- AÍtu-i.a<.-.!...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-nome-228",
+      "name": "Nome ____________",
+      "category": "attribute_skill",
+      "pages": [
+        228
+      ],
+      "summary": "Nome ____________ Data de Nascimento _ _ _ _ _ _ _ Local de Nascimento _______ Sexo ___ Altura ____ Peso _ _ __ , . l·̦ .-О Н Classe Social / Profissão ______ Nível Idade: Aparente ___ Real ___ , Idiomas ________________ _ ri utos C{)a(or / oá / % Constituição (CON) ___ / ___ / __ Força (FR) ___ / ___ / __ / Destreza (DEX) ___ / ___ / __ ..:: Agilidade (AGI)...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-nome-229",
+      "name": "Nome",
+      "category": "attribute_skill",
+      "pages": [
+        229
+      ],
+      "summary": "Nome _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Local de Nascimento _ _ _ _ _ _ _ _ _ _ _ Classe Social / Profissão _ _ _ _ _ _ _ _ Idiomas _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ К Л М ri utos C{)a[or / oá / % Constituição (CON) ___ / ___ / __ Força (FR) ___ / ___ / __ Destreza (DEX) ___ / ___ / __ _ Agilidade (AGI) ___ / ___ / __ Inteligência (INT) __ / ___ / __ Força...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-n-oll1e-230",
+      "name": "N\"oll1e _",
+      "category": "attribute_skill",
+      "pages": [
+        230
+      ],
+      "summary": "N\"oll1e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ Local de N\"ascill1ento ___________ _ Classe Social / Profissão _ _ _ _ _ _ _ _ Idioll1as ________________ _ ri utos C{)a[or / oá / % Constituição (CON) ___ / ___ / __ _ Força (FR) ___ / ___ / __ _ Destreza (DEX) ___ / ___ / __ _ Agilidade (AGI) ___ / ___ / __ _ Inteligência (INT) __ / ___ / __ _ Força de Vont...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-ida-ut-em-231",
+      "name": "'?ida ()'Ut/em",
+      "category": "attribute_skill",
+      "pages": [
+        231
+      ],
+      "summary": "'?ida ()'Ut/em Va V{ ri utos Constituição (CON) Força (FR) C{)a[or / oá / % --- / ___ / __ --- / ___ / __ --- / --- / --- ___ / ___ / __ -- / --- / -̥̤- sPe1 ícias com kmas (ctex) Nome Briga At Def Dano ___ / ___ ---- ___ / ___ ---- ___ / ___ ---- ___ / ___ ---- --- / ___ ---- ___ / ___ ---- ___ / ___ ---- !rimo1 amentos Custo 1 .. ./ ' 1 I .... . .._ -J Mõn...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-spe1-232",
+      "name": "sPe1",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          232,
+          233
+        ]
+      ],
+      "summary": "sPe1 ícias Nome Briga !rimo1 amentos Custo Nome------------ : Local de Nascimento _ _ _ _ _ _ _ _ _ _ Й Classe Social / Profissão ______ Nível _ _ _ Idiomas _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ri utos C{)a[or / oá / % Constituição (CON) ___ / ___ / __ Força (FR) ___ / ___ / __ Destreza (DEX) ___ / ___ / __ _ Agilidade (AGI) ___ / ___ / __ Inteligência (INT) __...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-n-oll1e-234",
+      "name": "N\"oll1e _",
+      "category": "attribute_skill",
+      "pages": [
+        234
+      ],
+      "summary": "N\"oll1e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _,__ _ _ _,__ Local de N\" ascill1ento -------+-__,_ Classe Social / Profissão ______ _ Idioll1as _______________ --+--̣ ri utos Constituição (CON) Força (FR) Destreza (DEX) Agilidade (AGI) Inteligência (INT) Percepção (PER) Carisma (CAR) C{)a[or / Goá / % --- / --- / __ _ --- / ___ / __ --- / --- / --- ___ / ___ / __ _...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-n-oll1e-235",
+      "name": "N\"oll1e ----------$%",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          235,
+          236
+        ]
+      ],
+      "summary": "N\"oll1e ----------$% Local de N\"ascill1ento __________ И .,._.. Classe Social / Profissão _ _ _ _ _ _ _ _ Idioll1as ________________ ___, ri utos Constituição (CON) Força (FR) C{)a[or / oá / % --- / --- / --- --- / ___ / __ Destreza (DEX) ___ / ___ / _ _ _ Agilidade (AGI) ___ / ___ / __ Inteligência (INT) __ / ___ / __ Força de Vontade (WILL) __ / ___ / __ _...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-uuvs-pubucvcoes-237",
+      "name": "()uuvs pubücvçôes",
+      "category": "creature_npc",
+      "pages": [
+        237
+      ],
+      "summary": "()uuvs pubücvçôes Anjos: Â Cidade de 9?rata Este RPG explica detalhadamente as cinco castas que habitam a Cidade de Prata, possibilitando a utilização dos Anjos tanto como Personagens quanto corno NPC's em sua Campanha: Corpore, os Anjos da Guarda; Protetore, os Anjos Cabalísticos; Captare, os Caçadores de Demônios; Recípere, os Negoci- - antes de Almas e Ni...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-guia-de-armas-dievais-238",
+      "name": "Guia de Armas %dievais",
+      "category": "item_equipment",
+      "pages": [
+        238
+      ],
+      "summary": "Guia de Armas %dievais Este é o segundo de uma série de livros que visam auxiliar aos Mestres e dar mais opções aos Jogadores de RPG. Neste Guia de Armas você encontrará quase 200 tipos diferentes de armas detalhadas, desde as mais inocentes facas de cozinha e dardos de arremesso até a temida DragonlanӶe, passando por machados, espa­ das, maças e muitas, mui...",
+      "entityRefs": []
+    },
+    {
+      "id": "arkanun-grimorio-239",
+      "name": "Grimório",
+      "category": "power_magic",
+      "pages": [
+        [
+          239,
+          240
+        ]
+      ],
+      "summary": "Grimório Cfre'\\'as O Horror da Idade das Trevas não está terminado. Irúiltrados em nossa socí­ edade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Irúerno, usando os humanos como peças em seu jogo de Xadrez Celestial.Neste RPG, você será convidado a fazer parte dos mortais que sabem a verdade. Assim como Demônios, TREVAS possui...",
+      "entityRefs": []
+    }
+  ]
+}

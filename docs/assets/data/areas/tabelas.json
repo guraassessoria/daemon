@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "id": "tabelas",
+  "name": "Tabelas e Geradores",
+  "readySourceCount": 190,
+  "entityCount": 0,
+  "sourcePartCount": 3,
+  "entities": [],
+  "sourceParts": [
+    {
+      "id": "diferencas--diferencas-maytreia-as-diferencas-entre-os-diversos-seres-dos-planos-1",
+      "name": "MAYTRÉIA – AS DIFERENÇAS ENTRE OS DIVERSOS SERES DOS PLANOS",
+      "area": "tabelas",
+      "category": "attribute_skill",
+      "source": "diferencas",
+      "sourceTitle": "Diferencas",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "MAYTRÉIA – AS DIFERENÇAS ENTRE OS DIVERSOS SERES DOS PLANOS Quando em Maytréia nos referimos a Elementais, Elementares, Conceitos e Egrégoras, alguns podem pensar que não existem diferenças fundamentais entre eles. Isso não é verdade. Vamos explicar a diferença existente em cada um na tabela abaixo. Lembramos que estamos falando de forma simplificada. Cabe a...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "tabelas"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "imortal--imortal-pericias-49",
+      "name": "PERICIAS",
+      "area": "tabelas",
+      "category": "attribute_skill",
+      "source": "imortal",
+      "sourceTitle": "Imortal",
+      "pages": [
+        [
+          49,
+          51
+        ]
+      ],
+      "page": null,
+      "summary": ", PERICIAS Perícias são as habilidades do seu Per- sonagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momen- to que o personagem é criado, verifique a Tabela de Pontos. Esses pontos po- dem ser gastos com quaisquer Períci- as descritas neste tópico, mas sem- pre com aprovação do mestre. SUBGRUPOS Algumas Perícias são marcadas com u...",
+      "entityRefs": [],
+      "tags": [
+        "atributos_pericias",
+        "attribute_skill",
+        "tabelas"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    },
+    {
+      "id": "mecha--mecha-regras-extras-11",
+      "name": "REGRAS EXTRAS",
+      "area": "tabelas",
+      "category": "combat",
+      "source": "mecha",
+      "sourceTitle": "mecha",
+      "pages": [
+        [
+          11,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "1 1 REGRAS EXTRAS Velocidade e Carga Agora precisaremos um pouco de Física, mas como você, lei- tor, deve ser uma pessoa inteligente (afinal, está jogando o Siste- ma Daemon), não deve ter problema nenhum com essa etapa. A Velocidade Máxima é determinada pelo Motor A Carga Máxima é determinada pela tabela de FR A Velocidade Máxima só pode ser obtida se o mec...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "tabelas"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1"
+    }
+  ]
+}

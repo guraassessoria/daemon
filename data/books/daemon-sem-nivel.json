@@ -1,0 +1,34 @@
+{
+  "source": "daemon-sem-nivel",
+  "title": "Daemon-Sem-Nivel",
+  "status": "full-read-auto-pass-1",
+  "pages": 2,
+  "primaryCategories": [
+    "core_rule",
+    "power_magic",
+    "attribute_skill",
+    "character_option"
+  ],
+  "parts": [
+    {
+      "id": "daemon-sem-nivel-sistema-daemon-sem-nivel-1",
+      "name": "Sistema Daemon sem nível",
+      "category": "core_rule",
+      "pages": [
+        1
+      ],
+      "summary": "Sistema Daemon sem nível O Sistema Daemon é um ótimo sistema, principalmente por possuir poucas regras e ao mesmo tempo ser bem realista. Ainda assim deixa a desejar em vários pontos, onde apenas os fãs e leitores mais detalhistas percebem, e entre estes aspectos está o sistema de Experiência. Existem duas formas de um personagem evoluir no SD: por nível ou...",
+      "entityRefs": []
+    },
+    {
+      "id": "daemon-sem-nivel-aprimoramentos-2",
+      "name": "Aprimoramentos",
+      "category": "core_rule",
+      "pages": [
+        2
+      ],
+      "summary": "Aprimoramentos Um ponto de aprimoramento custa 30 PE. Tabela de Custos A criar. Tabela de Custos Atributos Nível atual Pontos de Vida Nível atual Perícias Nível atual/5 Caminho Nível atual x 10 Caminho Primário Nível atual x 8 Poderes Nível do poder x 10 Poderes Únicos Nível do poder x 8 Novo Caminho 20 PE Pontos de Magia 10 PE por ponto Aprimoramentos 25 PE...",
+      "entityRefs": []
+    }
+  ]
+}

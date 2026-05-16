@@ -1,0 +1,102 @@
+{
+  "source": "samurai-shodown",
+  "title": "Samurai Shodown",
+  "status": "full-read-auto-pass-1",
+  "pages": 77,
+  "primaryCategories": [
+    "combat",
+    "attribute_skill",
+    "kit_class",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "samurai-shodown-editar-historia-1",
+      "name": "[editar] História",
+      "category": "kit_class",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "summary": "As histórias tomam lugar no século XVIII no Japão, durante o Sakoku ou o período de isolamento do Japão (os quatro primeiros jogos têm cronologia nos anos de 1788 e 1789), com grande habilidade artística dos criadores para que os personagens que tinham origem fora do Japão (incluindo vários cenários que não existiam em 1788) pudessem fazer parte dos jogos. A...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-sobre-tecnicas-simultaneas-5",
+      "name": "SOBRE TÉCNICAS SIMULTÂNEAS",
+      "category": "combat",
+      "pages": [
+        [
+          5,
+          11
+        ]
+      ],
+      "summary": "SOBRE TÉCNICAS SIMULTÂNEAS: Apesar de não ter ficado tão explícito, as Técnicas se dividem basicamente em 5 tipos: ataques, complementos para ataques, apoio, defesas e complementos para defesas. Uma Técnica de Ataque pode ser realizada em conjunto com qualquer número de Técnicas de Complemento para Ataque e Apoio (com a sugestão de restrição vista em Técnica...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-regras-dano-12",
+      "name": "REGRAS : DANO",
+      "category": "attribute_skill",
+      "pages": [
+        12
+      ],
+      "summary": "O Chi só é recuperado através de sono ou meditação. Cada hora de sono permite ao personagem recuperar 1 Ponto de Chi. No caso da meditação, o personagem deve fazer um rolamento de sua Perícia Meditação, e observar sua margem de sucesso. Cada 2 de diferença entre o resultado e sua Perícia recuperam 1 Ponto de Chi em 1 hora de meditação. REGRAS : DANO Dano Sim...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-dano-localizado-13",
+      "name": "DANO LOCALIZADO",
+      "category": "combat",
+      "pages": [
+        [
+          13,
+          49
+        ]
+      ],
+      "summary": "DANO LOCALIZADO OBS: Se o Mestre quiser pode usar este NetBook em conjunto com o de DANO LOCALIZADO, mas considere que qualquer teste de dano localizado é feito com a metade do valor da perícia. Danificando Armaduras... Caso o jogador queira pode estragar a armadura de seu oponente para isso, o personagem deve tentar um teste de ataque localizado e anunciar...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-kit-espadachim-50",
+      "name": "Kit Espadachim",
+      "category": "combat",
+      "pages": [
+        [
+          50,
+          69
+        ]
+      ],
+      "summary": "Kit Espadachim Custos: 5pts, 300pts de perícias. Restrições: nenhuma. Perícas: Armas brancas (escolha uma [DEX/DEX] 40/40); Animais (montaria [AGI] 30%); Armeiro [0] 30%; Camuflagem [PER] 20%; Esquiva [AGI]10+60%; Esportes (Artes marciais [AGI]/[AGI] 40/40%); Acrobacia 20+45%; Furtividade [AGI] 20%; Manobras de combate (Defesas Múltiplas 100); Manipulação (I...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-caes-guardioes-de-nobunaga-70",
+      "name": "Cães guardiões de Nobunaga",
+      "category": "combat",
+      "pages": [
+        [
+          70,
+          72
+        ]
+      ],
+      "summary": "Cães guardiões de Nobunaga CON 17+03+06 (26), FR 18+06+06 (30), DEX 13, AGI 18+03 (21) INT 10, WILL 11, CAR 08, PER 10. #Ataques [1], IP: 01, PVs: 23/33, PH: 20, Nível: 05 Técnica: 04+2, Chi: 05+04 Idade ?? anos, altura 2,14/3,25 cm, 113/316 kg Iniciativa: +08+5 Kit Oni Espadachim Custos: 5pts, 300pts de perícias. Restrições: nenhuma. Perícas: Arma branca (e...",
+      "entityRefs": []
+    },
+    {
+      "id": "samurai-shodown-garras-73",
+      "name": "GARRAS",
+      "category": "core_rule",
+      "pages": [
+        [
+          73,
+          77
+        ]
+      ],
+      "summary": "GARRAS (Death Knights, Daemons, Hellspawns, Espectros, Hordas) O demônio possui garras afiadíssimas, capazes de cortar metal como se fosse papel. Garras podem possuir os mais diversos formatos possíveis: garras de galo, águia, galinha, tigre, gato, urso, garras de lagarto, longas como espadas, curtas e duras, cheias de ossos pontiagudos, deformadas, alinhada...",
+      "entityRefs": []
+    }
+  ]
+}

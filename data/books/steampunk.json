@@ -1,0 +1,103 @@
+{
+  "source": "steampunk",
+  "title": "steampunk",
+  "status": "full-read-auto-pass-1",
+  "pages": 13,
+  "primaryCategories": [
+    "combat",
+    "item_equipment",
+    "core_rule",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "steampunk-mundos-steanpunk-1",
+      "name": "MUNDOS STEANPUNK",
+      "category": "race_lineage",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "summary": "MUNDOS STEANPUNK E OUTROS APERFEIÇOAMENTOS PARA MUNDOS MEDIEVAIS FANTÁSTICOS AUTOR: RICKY D! UM TEMA QUE SEMPRE GOSTEI FOI O STEAMPUNK, TAMBÉM CONHECIDO COMO VAPORPUNK. GERALMENTE HISTÓRIAS VAPORPUNK SE PASSAM EM PLENA ERA VITORIANA, MAS NADA IMPEDE DE REGREDIR OU AVANÇAR ESTE PERÍODO. OU MELHOR:QUEM PRECISA DE TEMPO, QUANDO SE TEM INVENTADO ATÉ MESMO UMA MÁ...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-alquimia-quimica-3",
+      "name": "*ALQUIMIA-QUÍMICA",
+      "category": "core_rule",
+      "pages": [
+        [
+          3,
+          4
+        ]
+      ],
+      "summary": "*ALQUIMIA-QUÍMICA UM TÓPICO INTERESSANTE É O DE FRASCOS ARREMESSÁVEIS DE ÁCIDO (ARTIFICIAL), ESPIRRADORES DE ÓLEO INFLAMÁVEL, VENENOS OU QUALQUER OUTRA SUBSTÂNCIA NOCIVA QUE PODE SER CONSTRUÍDA EM LABORATÓRIO. OS DANOS SÃO OS MAIS VARIÁVEIS POSSÍVEIS. ESTAS SUBSTÂNCIAS PODEM SER FABRICADAS COM AS PERÍCIAS ALQUIMIA E/OU ENGENHARIA QUÍMICA. A DIFICULDADE DO TE...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-devastador-10d6-10m-24-horas-5",
+      "name": "DEVASTADOR 10D6 10M 24 HORAS",
+      "category": "core_rule",
+      "pages": [
+        5
+      ],
+      "summary": "DEVASTADOR 10D6 10M 24 HORAS * O RAIO DE ALCANCE DE TODO O DANO. A EXPLOSÃO REDUZ 1D6 A CADA 1M (UM EXPLOSIVO SIMPLES TEM UMA ÁREA DE ALCANCE DE 3 M (2D6 NOS DOIS PRIMEIROS METROS, 1D6 NO PRÓXIMO METRO.) ENQUANTO UM EXPLOSIVO DEVASTADOR TEM ALCANCE TOTAL DE 20 METROS (10D6 NOS PRIMEIROS DEZ METROS,9D6 NO SEGUINTE, E ASSIM VAI...) SUGESTÃO EXTRA: POR QUE NÃO...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-golens-seres-artificiais-6",
+      "name": "*GOLENS (SERES ARTIFICIAIS)",
+      "category": "power_magic",
+      "pages": [
+        6
+      ],
+      "summary": "*GOLENS (SERES ARTIFICIAIS) COMO MUNDOS STEANPUNK COMPORTAM ELEMENTOS COMO MECHAS A VAPOR E OUTROS ARTEFATOS DE GRANDE NÍVEL TECNOLÓGICO, NÃO É DE SE ESPERAR QUE HAJAM GOLENS, OU SERES CRIADOS ARTIFICIALMENTE. O MOTIVO É VARIADO:DESDE TRABALHO PESADO ATÉ SEGURANÇAS PESSOAIS. PARA SE CONSTRUIR UM GOLEM DEVE-SE USAR A PERÍCIA ENGENHARIA MECÂNICA,E PARA CONCERT...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-novos-aprimoramentos-7",
+      "name": "*NOVOS APRIMORAMENTOS",
+      "category": "combat",
+      "pages": [
+        7
+      ],
+      "summary": "*NOVOS APRIMORAMENTOS: GERINGONÇA 1 PONTO CADA: SEU PERSONAGEM POSSUI UM MEMBRO MECÂNICO COM UMA GERINGONÇA QUE PODE SER UMA ARMA (ESPADA EMBUTIDA,LÂMINA GIRATÓRIA,LANÇA-CHAMAS,DISPARADOR DE ÓLEO(OU ÁCIDO,OU PROJÉTIL,OU REDE,OU RAIOS),TRIDENTE,GANCHO,MAÇA,GARRAS RETRÁTEIS) OU UM UTENSÍLIO(ESCUDO EMBUTIDO,PEDRA DE LUZ CONTÍNUA,CORDA COM GANCHO(20 M),DEDOS QUE...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-golem-pessoal-8",
+      "name": "GOLEM PESSOAL",
+      "category": "power_magic",
+      "pages": [
+        8
+      ],
+      "summary": "GOLEM PESSOAL VEJA DETALHES NO TÓPICO DE MESMO NOME. 1 PONTO: SEU PERSONAGEM POSSUI UM GOLEM COMO SERVIÇAL,QUE TRABALHA PARA ELE FAZENDO DIVERSOS SERVIÇOS, MAS JAMAIS ENTRA EM COMBATE (AINDA QUE TENHA GRANDE FORÇA). 2 PONTOS: SEU GOLEM PESSOAL É UM GUARDA-COSTAS, DEFENDENDO SEU PERSONAGEM SEMPRE QUE NECESSÁRIO, EMBORA NÃO SAIBA LIDAR COM OUTRO TIPO DE TAREFA...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-kits-de-personagem-9",
+      "name": "*KITS DE PERSONAGEM",
+      "category": "combat",
+      "pages": [
+        [
+          9,
+          12
+        ]
+      ],
+      "summary": "*KITS DE PERSONAGEM MÁQUINA DE COMBATE NOME DADO AOS GUERREIROS QUE PERDERAM ALGUM MEMBRO EM COMBATE OU ACIDENTE. E AGORA,RECUPERADOS,ATUAM COM UM EQUIPAMENTO MELHOR, EMBORA SEJAM TEMIDOS E REPUDIADOS EM MUITOS LUGARES POR CAUSA DE SUA APARÊNCIA MONSTRUOSA. CUSTO:2 PONTOS DE APRIMORAMENTO,180 PONTOS DE PERÍCIA RESTRIÇÕES:NÃO TER UM DOS MEMBROS PERÍCIAS:ESCOL...",
+      "entityRefs": []
+    },
+    {
+      "id": "steampunk-con-13-16-pericias-13",
+      "name": "CON: 13 (16) PERÍCIAS",
+      "category": "combat",
+      "pages": [
+        13
+      ],
+      "summary": "CON: 13 (16) PERÍCIAS FR: 14 (17) 20 MECÂNICA 43% DEX: 13 ESQUIVA 65% AGI:15 RASTREIO 68% INT: 12 SOBREVIVÊNCIA WILL: 13 -FLORESTA 42% PER: 15 (18) -MONTANHA 42% CAR: 06 FURTIVIDADE 65% PV: 18+4 CAMUFLAGEM 42% IP: 4 (OSSOS DE METAL) INTIMIDAÇÃO 53% IDIOMAS APRIMORAMENTOS POSITIVOS DOS ANÕES 30% ANÃO 1 DOS HUMANOS 30% MÁQUINA DE COMBATE 2/180 PONTOS HERÓICOS...",
+      "entityRefs": []
+    }
+  ]
+}

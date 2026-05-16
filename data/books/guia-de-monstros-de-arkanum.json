@@ -1,0 +1,27 @@
+{
+  "source": "guia-de-monstros-de-arkanum",
+  "title": "Guia de Monstros de Arkanum",
+  "status": "full-read-auto-pass-1",
+  "pages": 18,
+  "primaryCategories": [
+    "creature_npc",
+    "combat",
+    "attribute_skill",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "guia-de-monstros-de-arkanum-guia-de-monstros-1",
+      "name": "Guia de Monstros",
+      "category": "creature_npc",
+      "pages": [
+        [
+          1,
+          18
+        ]
+      ],
+      "summary": "1 Guia de Monstros de Arkanum APRESENTAÇÃO Olá RPGistas de todo o Brasil, eu sou Rafael Menestrel e venho mais uma vez tentar ajudar Mestres e Jogadores desse “difícil” jogo a melhorarem ainda mais suas sessões. Neste net-book, eu trago vários monstros presentes nas lendas medievais – alguns deles copiados de outros livros, outros totalmente inventados. O mo...",
+      "entityRefs": []
+    }
+  ]
+}

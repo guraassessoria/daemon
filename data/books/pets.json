@@ -1,0 +1,37 @@
+{
+  "source": "pets",
+  "title": "pets",
+  "status": "full-read-auto-pass-1",
+  "pages": 7,
+  "primaryCategories": [
+    "power_magic",
+    "creature_npc",
+    "attribute_skill",
+    "combat"
+  ],
+  "parts": [
+    {
+      "id": "pets-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "source",
+      "pages": [
+        1
+      ],
+      "summary": "1",
+      "entityRefs": []
+    },
+    {
+      "id": "pets-mascotes-2",
+      "name": "MASCOTES",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          2,
+          7
+        ]
+      ],
+      "summary": "2 MASCOTES Criação de Mascotes O personagem pode possuir, mediante certos Aprimoramen- tos, algum animal de estimação ou ter um tipo de afinidade com uma criatura sobrenatural, que a faz acompanhá-lo durante suas aventuras. Os reais motivos que levam esta criatura a seguí-lo devem ser explicados no background do personagem. O Gerador de Mascotes permite cria...",
+      "entityRefs": []
+    }
+  ]
+}

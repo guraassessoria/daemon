@@ -1,0 +1,584 @@
+{
+  "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+  "title": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+  "status": "full-read-auto-pass-1",
+  "pages": 96,
+  "primaryCategories": [
+    "attribute_skill",
+    "core_rule",
+    "creature_npc",
+    "power_magic"
+  ],
+  "parts": [
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "category": "creature_npc",
+      "pages": [
+        1
+      ],
+      "summary": "E! Ê E q 5 rf : g E q",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-ivhad-2",
+      "name": "IVHAD",
+      "category": "creature_npc",
+      "pages": [
+        2
+      ],
+      "summary": "IVHAD GUERRA SANTA ANTÊNIG AUGUSTE SHAFTIEL 1: Edição - Dezembro / 2.004 DAEMGN EDITORA rax (II) 3675-1860 EMAIL: DAEMENÊDAEMGN.CEIM.BR HTTP WD, DAEMGN.COM.BR",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-had-santa-3",
+      "name": "HAD santa",
+      "category": "power_magic",
+      "pages": [
+        3
+      ],
+      "summary": "HAD santa Criação: Antônio Augusto Shaftiel Desenvolvimento: Marcelo Del Debbio, Norson Botrel e Antônio Augusto Shaftiel Revisão: Fabrício GiZmo Capa: Victor Ishimura e Diogo Pereira Arte: Ronaldo Barata, Eduardo Ferrara, ls, Mauro Delias Programação Visual: Norson Botrel e Marcelo Del Debbio Diagramação e Fotolitos: Daemon Editora Impresso por : Gráfica Sc...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-introducao-4",
+      "name": "INTRODUÇÃO",
+      "category": "setting_lore",
+      "pages": [
+        4
+      ],
+      "summary": "INTRODUÇÃO As três principais religiões monoteistas do mundo oci- dental derivam do Oriente Médio e seguem fundamentalmente o mesmo Deus, ainda que difiram seus preceitos. Suas históri- as estão interligadas, principalmente possuem como ponto em comum o chamado Velho Testamento, que conta o início da aliança entre Deus e a humanidade. O que se segue é uma br...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-cenceittes-basicos-5",
+      "name": "CenceitTes BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          5,
+          6
+        ]
+      ],
+      "summary": "CenceitTes BÁSICOS Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG ANJOS não é uma exceção. No decorrer do jogo, ou mesmo quando você estiver criando seu personagem, nós utilizaremos muitos termos que tal- vez você não esteja familiarizado. Muitos termos usados no siste- ma de Magias e combates também sã...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-guerra-santa-7",
+      "name": "GUERRA SANTA",
+      "category": "creature_npc",
+      "pages": [
+        [
+          7,
+          10
+        ]
+      ],
+      "summary": "GUERRA SANTA O Mundo de Trevas está tomado pelo fervor religioso, mesmo que a força da idéia do Apocalipse iminente tenha sido reduzida drasticamente. Agora é um momento de preparação em que os fiéis devem aumentar os contingentes religiosos para ajudar na salvação das próprias almas, espalhando as palavras da religião em que acreditam. Em uma dimensão toma-...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-jjudaisme-11",
+      "name": "& jJuDaísme",
+      "category": "creature_npc",
+      "pages": [
+        11
+      ],
+      "summary": "& jJuDaísme INTREDUÇÃO O nome judaísmo vem do chamado reino de Judá, antigo reino do Oriente Médio e, durante muito tempo, a palavra ju- deu foi usada para designar os habitantes deste reino. Com o passar os séculos, o termo passou a abranger os seguidores derivados da religião estabelecida por Moisés. Define-se como judeu todo alguém cuja mãe é judia e que...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-juizes-12",
+      "name": "juízes",
+      "category": "race_lineage",
+      "pages": [
+        12
+      ],
+      "summary": "juízes Após a conquista da Terra Prometida, o povo hebreu se dividiu sem possuir uma liderança central, pois afirma- vam que apenas Demiurgo era seu rei. Tempos de guerra e paz se sucederam, principalmente quando o povo pecava e o Senhor retirava sua proteção. Então os inimigos apareci- ame os dominavam. Para livrar os israelitas, apareciam os chamados Juize...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-profetas-13",
+      "name": "PROFETAS",
+      "category": "race_lineage",
+      "pages": [
+        [
+          13,
+          16
+        ]
+      ],
+      "summary": "PROFETAS O reino de Israel acabou dividido, o que gerou Judá no sul e Israel ao norte. Nas épocas que se seguiram, apare- ceram profetas que várias vezes denunciaram o mal que es- tava tomando o coração dos israelitas, principalmente dos governantes. Um desses foi Elias, que enfrentou Acabe, rei de Israel, e sua rainha, que era fiel seguidora do deus Baal. O...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-cristianismo-17",
+      "name": "CRISTIANISMO",
+      "category": "setting_lore",
+      "pages": [
+        17
+      ],
+      "summary": "CRISTIANISMO O cristianismo nasceu há dois mil anos a partir das pala- vras de Jesus, sendo que seu berço foi uma tumultuada Pales- tina. Desde esse tempo, espalhou-se pelo mundo e tornou-se a religião que mais influenciou a história do ocidente. Grande parte da história do cristianismo já foi descrita tanto em ARKANUN quanto em TREVAS e não será repetida aq...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-a-idade-media-18",
+      "name": "A IDADE MÉDIA",
+      "category": "creature_npc",
+      "pages": [
+        [
+          18,
+          21
+        ]
+      ],
+      "summary": "dos mortais, já estavam se retirando da Terra para seus reinos em Paradiísia. Usando as forças do Império Romano, expandi- ram-se e, mesmo quando Roma caiu, os celestiais não pararam, pois já haviam infiltrado seus fiéis em outros povos. A IDADE MÉDIA Uma das grandes forças de apoio do cristianismo na Ida- de Média foram reis como Carlos Martel : Carlos Magn...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-a-contra-reforma-22",
+      "name": "A CoNTRA-REFORMA",
+      "category": "combat",
+      "pages": [
+        [
+          22,
+          23
+        ]
+      ],
+      "summary": "A CoNTRA-REFORMA A Igreja católica precisou reagir ao avanço do protes- tantismo e o fez com uma série de mudanças de atitude e reafirmação das tradições, Reativou o Tribunal da Santa Inquisição, criou o Index Librorum Prohibitorum (relação de livros proibidos que incluiam obras de líderes protestan- tes), fomentou a criação de novas ordens religiosas e à ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-as-divisoes-de-cristianismo-24",
+      "name": "As Divisões DE CRISTIANISMO",
+      "category": "setting_lore",
+      "pages": [
+        [
+          24,
+          26
+        ]
+      ],
+      "summary": "As Divisões DE CRISTIANISMO CATeLICISTE A Igreja Católica Apostólica Romana CARACTERÍSTICAS A Igreja Católica Apostólica Romana é considerada a maior de todas as igrejas cristãs, arrebanhando pelo menos metade dos fiéis de Jesus em todo o mundo. Ela é conside- rada única, pela noção de que existe apenas uma igreja de Christos, criada ainda pelos apóstolos; é...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-islamisto-27",
+      "name": "IsLAMISTO",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          27,
+          31
+        ]
+      ],
+      "summary": "IsLAMISTO O nome islamismo vem do árabe, da palavra islam, que significa submissão. Para se tornar um muçulmano e alcançar à salvação, o homem deve se entregar completamente a Deus, submetendo-se à Sua vontade em todos os aspectos da vida. HISTÉRIA O islamismo teve origem árabe, mais precisamente na região do Hedjaz, hoje a Arábia Saudita. Era uma terra de p...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-xiitas-32",
+      "name": "XIITAS",
+      "category": "power_magic",
+      "pages": [
+        32
+      ],
+      "summary": "XIITAS A principal crença dos xiitas está na autoridade do Imã. Segundo o xiismo, doze imãs sucederiam Maomé e eles seriam descendentes de Ali, o primo e genro do Profeta. Esses homens santos seriam os guias da comunidade islâmica e rejeitá-los seria equivalente a dar as costas pará as palavras de Maomé. Porém, até mesmo os Imãs podem ser desviados de seu ca...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-atributos-cabecalho-33",
+      "name": "ATRIBUTOS CABECALHO",
+      "category": "attribute_skill",
+      "pages": [
+        33
+      ],
+      "summary": "ATRIBUTOS CABECALHO Os Atributos são explicados detalhadamente nas pá- São as características básicas do Personagem. ginas 56 e 57, mas a parte de Criação de Personagens Procure responder às perguntas nas páginas (páginas 33 a 37) mostrará os limites a serem seguidos. 3334 para completar esta parte da ficha. VALORES A Criação de Personagem (pági- nas 33 a 37...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-criacao-de-persenagens-34",
+      "name": "CRIAÇÃO DE PERSENAGENS",
+      "category": "power_magic",
+      "pages": [
+        [
+          34,
+          38
+        ]
+      ],
+      "summary": "CRIAÇÃO DE PERSENAGENS Em JYHAD, a criação de um personagem é algo bas- tante fácil de se fazer. Normalmente, existem algumas coisas a se decidir que serão vitais para a sobrevivência do Perso- nagem no futuro. Existem também fatores relacionados com o Background do Personagem, seus anseios e temores, sua história e sua caracterização. Nos RPGs, a história d...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-malachim-39",
+      "name": "MALACHIM",
+      "category": "attribute_skill",
+      "pages": [
+        39
+      ],
+      "summary": "MALACHIM “Tu és meu primogênito, minha força e o principio de meu vigor o mais excelente em alteza e o mais excelente em poder.\" ALCUNHA: CORGADOS À origem do comando dos elohim está nos anjos da cas- ta Malachim. São as grandes testemunhas do poder do Demiurgo no estado bruto, antes de a energia ser colocada em movimento. Um Malachim é criado a partir da es...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-efrelim-40",
+      "name": "EFRELIM",
+      "category": "creature_npc",
+      "pages": [
+        40
+      ],
+      "summary": "EFRELIM “E andarei em liberdade; pois busco os teus preceitos.” ALCUNHA: SÁBIOS A força dos Erelim estã em colocar as energias em movi- mento. Eles precisam dar liberdade às idéias, fazê-las fluir no mundo. Um Erelim é incapaz de conceber a imagem de um mun- do estacionário, sem o movimento constante e a geração de novos conceitos. Eles precisam carregar o p...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-seraphim-41",
+      "name": "SERAPHIM",
+      "category": "creature_npc",
+      "pages": [
+        41
+      ],
+      "summary": "SERAPHIM “A quem o Senhor dera sabedoria e inteligência, para saber como haviam de fazer todo a obra para o serviço do santuário, conforme a tudo o que o Senhor tinha ordenado. \" ÁLCUNHA: SAGAZES Muitas vezes confundidos com os Serafim dos Protetore, esses anjos são as mentes brilhantes dos elohim. A principal característica dos Seraphim é coordenar o conhec...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-hayyyyeth-42",
+      "name": "HayYyYeTH",
+      "category": "creature_npc",
+      "pages": [
+        42
+      ],
+      "summary": "HayYyYeTH \"Ouve, Senhor, e tem piedade de mim, Senhor; sê o meu atnéílio. \" ALCUNHA: PiEDBSES A bondade está no coração de todos os Hayyoth. São as criaturas incapazes de cometer o mal e dispostas a sacri- ficarem tudo o que possuem para os atos de caridade para com o próximo. Eles ouvem as mazelas humanas e sentem as consciências pesadas por estarem em uma...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-phanim-43",
+      "name": "PHANIM",
+      "category": "combat",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "summary": "PHANIM “Ouve, então, desde os céus a sua oração, ea sua súplica, e faze-lhes justiça. \" 2 Crônicas 6:35, A Bíblia ALCUNHA: SEVERES A justiça divina sempre se mostrou implacável duran- te toda a história dos hebreus, fosse com o próprio povo escolhido pelo Senhor ou com seus inimigos. Os Ophanim são uma representação dessa severidade de Demiurgo, que não prec...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-hatmshalim-45",
+      "name": "HATMSHALIM",
+      "category": "power_magic",
+      "pages": [
+        45
+      ],
+      "summary": "HATMSHALIM “Tens tu notícia do equilíbrio das grossas nuvens e das maravilhas daquele que é perfeito nos conhecimentas? ” ALCUNHA: BELBS A primeira palavra que a maioria das pessoas tem para definir os Hamshalim é beleza, De fato, os elohim da casta dos Belos são conhecidos por suas aparências estonteantes e modos tão sutis e majestosos que encantam as pesso...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-elim-46",
+      "name": "ELIM",
+      "category": "combat",
+      "pages": [
+        46
+      ],
+      "summary": "ELIM “Prepara-se o cavalo para o dia da batalha, porém do Senhor vem a vitória. ” ALCUNHA: CONQUISTADORES O fogo é o elemento mais característico dos Elim e o motivo disso é a natureza instintiva e o desejo de conquista da casta. São elohim belicosos e ameaçadores que se fazem notar pelos sentimentos sempre expostos. É dificil um Elim ser um mentiroso, pois...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-elehim-47",
+      "name": "ELEHIM",
+      "category": "attribute_skill",
+      "pages": [
+        47
+      ],
+      "summary": "ELEHIM “iGuia-me na tua verdade, e ensina-me, pois tu és o Deus da minha salvação; por ti estou esperando todo o dia. \" ÁLCUNHA: RESPLANDECENTES Os Elehim guardam um dos grandes esplendores do Se- nhor, a verdade. É a casta responsável pela razão e pela cons- ciência. Procuram desvendar todas as mentiras que tentam ocultar Demiurgo dos olhos e ouvidos mortai...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-bene-elehim-48",
+      "name": "BeNE ELeHIM",
+      "category": "creature_npc",
+      "pages": [
+        48
+      ],
+      "summary": "BeNE ELeHIM “Por que se dá luz ao homem, cujo caminho é oculto, e a quem Deus o encobriu? “ ALCUNHA: GCcuULTOS A casta dos Bene Elohim está encarregada da pedra fun- damental do mundo, da ligação final entre o espiritual e o mate- rial, São elohim que entendem como funciona a maquinaria invisível da existência. Percebem as forças atuantes que estão todo temp...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-ishim-49",
+      "name": "IsHim",
+      "category": "combat",
+      "pages": [
+        49
+      ],
+      "summary": "IsHim “O galardão da humildade e o temor do Senhor são riquezas, honra e vida” ALCUNHA: HUMILDES Os Ishim foram considerados, por muito tempo, apenas uma subdivisão dos Bene Elohim. Quando os Ocultos eram mais ativos e estavam mais dispostos a darem ordens, agiam como líderes dos Humildes, porém algo aconteceu que fez a casta assumir a posição dé privacidade...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-na-a-50",
+      "name": "; NA à.",
+      "category": "creature_npc",
+      "pages": [
+        50
+      ],
+      "summary": "; NA à. PA »,",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-hafasa-51",
+      "name": "HAFASA",
+      "category": "attribute_skill",
+      "pages": [
+        51
+      ],
+      "summary": "HAFASA “Adore Deus como se o visse, porque mesmo que não o vejas, ele certamente vê a ti.” ALCUNHA: GUARDIÕES Os Hafasa são os malaks encarregados de proteger os homens de todo espírito mal que os ameaçam, Eles são os anjos da guarda que oferecem proteção às almas enquanto ainda estão na Terra. Após a morte, O encargo passa para os Dalil e o Hafasa procura c...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-haris-52",
+      "name": "HARIS",
+      "category": "power_magic",
+      "pages": [
+        52
+      ],
+      "summary": "HARIS “Crês que vais entrar no Paraiso antes de haver passado o mesmo que passou quem os precedeu? “ ALCUNHA: EmIssÁRIOS Allah sempre está atento ao que os fiéis fazem e não há um momento cósmico em que Ele não saiba das ações dos homens. Os Haris estão incumbidos de questionar a fé dos muçulmanos em nome do Senhor. Eles pretendem submeter a provações quem r...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-dalil-53",
+      "name": "DALIL",
+      "category": "creature_npc",
+      "pages": [
+        53
+      ],
+      "summary": "DALIL “Isto, porque Deus é Ferdodeiro e vivifica os mortos, porque é onipotente. ALCUNHA: GUIAS A missão dos Hafasa com seus protegidos acaba no momento em que dão o último suspiro. Depois disso, os Guardiões procuram outro mortal para defenderem ou tonam- se mensageiros. A missão de cuidar das almas cabe aos Dalil. Eles vagam pela Terra sepazando o espírito...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-mujahid-54",
+      "name": "MUJAHID",
+      "category": "combat",
+      "pages": [
+        54
+      ],
+      "summary": "MUJAHID “Combatei, pela causa de Deus, aqueles que os combatem; porém não pratiqueis agressão, porque Deus não estima os agressores.\" ALCUNHA: VITERIOSOS À guerra dos muçulmanos pela religião é conhecida como Jihad. Em geral, é vista como uma das manifestações da agressividade contida no islamismo. A propaganda é engano- sa, partindo apenas das ações de algu...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-qarib-55",
+      "name": "(QARIB",
+      "category": "combat",
+      "pages": [
+        [
+          55,
+          56
+        ]
+      ],
+      "summary": "(QARIB “Recita em nome de teu senhor, aquele que tudo criou! Que criou o homem de um coágulo. Recita! Teu Senhor é o mais Generoso, Ele, que ensi- nou com o cálamo - ao homem -, o que este não sabia. Alcorão, 96:1-5 ALCUNHA: PrÓXIMES A alcunha dos Qarib é Próximos por uma motivo im- portante, eles são os anjos que sempre rezam perante Allah e pedem pela alma...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-atributos-basicos-57",
+      "name": "ATRIBUTOS BÁSICOS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          57,
+          58
+        ]
+      ],
+      "summary": "ATRIBUTOS BÁSICOS Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. Os Atributos apresentados aqui são compatíveis com ARKANUN, INVASÃO, SÓ AVENTURAS e TREVAS, bem como com todos os RPGs lançados pela Editora TRAMA. São oito Atributos,...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-pericias-59",
+      "name": "PERÍCIAS",
+      "category": "ritual_spell",
+      "pages": [
+        [
+          59,
+          60
+        ]
+      ],
+      "summary": "PERÍCIAS Perícias são profissões que o personagem aprendeu ao longo do tempo. Algumas delas foram usadas em sua última vida como mortal, outras foram aprendidas durante seu desenvolvimento como anjo. VALER INICIAL O nome de algumas perícias ou subgrupos pode vir se- guido de um Atributo básico (CON, DEX, AGI, INT, WILL, CAR ou PER). O personagem começa com u...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-aaprimeramentes-61",
+      "name": "ÁAPRIMERAMENTES",
+      "category": "creature_npc",
+      "pages": [
+        [
+          61,
+          64
+        ]
+      ],
+      "summary": "ÁAPRIMERAMENTES Caso você esteja utilizando JYHAD como um suplemen- to para ARKANUN, é possível considerar os poderes angelicais como Aprimoramentos também. Para isto, considere que poderes com nível 1 custam 1 ponto de Aprimoramento; poderes nível 2 custam 2 pontos de Aprimoramento e assim por diante, AFINIDADE CEM FADAS 3 pontos: a presença do personagem n...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-pederes-angelicais-65",
+      "name": "PeDERES ANGELICAIS",
+      "category": "attribute_skill",
+      "pages": [
+        [
+          65,
+          67
+        ]
+      ],
+      "summary": "PeDERES ANGELICAIS A seguir fornecemos as características e poderes mais comuns pertencentes às Castas descritas neste livro. Note que esta lista é apenas uma sugestão, e que cada anjo de- senvolve com o passar do tempo poderes únicos e diferen- ciados de todos os outros. Os poderes estão divididos em níveis. Para obter um poder no nível 2, é necessário que...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-captare-68",
+      "name": "CAPTARE",
+      "category": "power_magic",
+      "pages": [
+        [
+          68,
+          72
+        ]
+      ],
+      "summary": "CAPTARE (Gphanim e Elim) Nível 1: Marca. Com este poder, um anjo é capaz de co- locar sua marca mistica em uma pessoa ou objeto, Esta marca fica no alvo até ser dissipada, mas pode ser detectada através de magias ou rituais específicos. Nível 1: Derectar Marcas. Permite ao anjo enxergar quais- quer marcas suas ou de outros anjos que estejam em seu cam- po de...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-iluminacao-73",
+      "name": "ILUMINAÇÃO",
+      "category": "combat",
+      "pages": [
+        [
+          73,
+          76
+        ]
+      ],
+      "summary": "posta verdadeira revelada se for bem sucedido. Caso vença, o alvo fica imune ao poder durante um dia. Nível 4: Ampliar Consciência. O anjo expande sua cons- ciência para saber tudo o que ocorre à sua volta, podendo ouvir todas as conversas, procurar objetos ou pessoas escon- didas. Exige o sacrificio de 5 PV e os respectivos Testes de Investigação ou Percepç...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-protecao-77",
+      "name": "PROTECÃO",
+      "category": "combat",
+      "pages": [
+        [
+          77,
+          78
+        ]
+      ],
+      "summary": "ca ou eletrônica. Caso o anjo desconheça a máquina (não tem a perícia adequada para utilizá-la manualmente), ou esta tenha von- tade própria, Teste sua INT para obter sucesso no controle da máquina desconhecida e INT vs. INT nos outros casos. PROTECÃO (somente Hafasa) Nível 1: Sentir o Protegido. O anjo pode sentir a locali- zação e o estado de saúde de seu...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-telecinesia-79",
+      "name": "TELECINÉSIA",
+      "category": "combat",
+      "pages": [
+        79
+      ],
+      "summary": "TELECINÉSIA (todas as castas) Nivel 1: Permite ao anjo mover até 25kgs com a força de sua mente. Pode abrir portas, empurrar pessoas, mover obje- tos, etc. como se tivesse FR 6 c DEX 6, Nível 2: Permite ao anjo mover até 50kgs com a força de sua mente. Pode abrir portas, empurrar pessoas, mover objetos. etc. como se tivesse FR 12 e DEX 6 ou metade desse peso...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-pentes-de-fe-80",
+      "name": "Pentes DE FÉ",
+      "category": "creature_npc",
+      "pages": [
+        80
+      ],
+      "summary": "Pentes DE FÉ Fé [do latim Fide] S.f !. Crença Religiosa. 2. Conjunto de Dogmas e Doutrinas que constituem um culto. 3. À primei- ra virtude teologal: adesão e anuência pessoal a Deus, seus designios e manifestações. Pontos de Fé expressam o poder máximo dos Anjos: a Fé Divina. Em termos de jogo, Fé representa os pequenos mila- gres que um Aventureiro dedicad...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-ativacao-de-itens-magicos-81",
+      "name": "ATIVAÇÃO DE ITENS MÁGICOS",
+      "category": "creature_npc",
+      "pages": [
+        81
+      ],
+      "summary": "ATIVAÇÃO DE ITENS MÁGICOS Alguns itens mágicos (em especial aqueles criados pelos anjos ou santos) requerem Pontos de Fé para serem ativados ou utilizados. Somente pessoas com Fé podem uti- lizar tais artefatos. Bênção O Inquisidor pode abençoar um grupo de Aventureiros (até 6 pessoas por Ponto de Fé), concedendo a eles um bônus de +5% em combates (na Defesa...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-brdens-e-seitas-angelicais-82",
+      "name": "€BRDENS E SEITAS ANGELICAIS",
+      "category": "creature_npc",
+      "pages": [
+        [
+          82,
+          85
+        ]
+      ],
+      "summary": "€BRDENS E SEITAS ANGELICAIS ANjes DAS SemBrAS Tendência: cristã católica ou ortodoxa Existem duas visões sobre os anjos das sombras na Cidade de Prata. A primeira é de que eles são um mito e a segunda é de que são uma perversão de tudo o que um anjo deveria ser. O principal motivo é a possibilidade de que eles possam pecar, ao contrário do que acontece com o...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-regras-e-testes-86",
+      "name": "REGRAS E TESTES",
+      "category": "attribute_skill",
+      "pages": [
+        86
+      ],
+      "summary": "REGRAS E TESTES Quanto mais regras você tem, mais problemas você tem Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham. em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. «Às regras são simples, porém muito efi...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-atributo-v5-atributo-87",
+      "name": "ATRIBUTO V5. ÁTRIBUTO",
+      "category": "race_lineage",
+      "pages": [
+        87
+      ],
+      "summary": "ATRIBUTO V5. ÁTRIBUTO Existem situações onde há o confronto de dois Atributos, Já foi citado o caso de um Personagem tentando levantar um peso. Há diversos outros exemplos: dois Personagens tirando um braço de ferro para saber quem é mais forte (FR), ou uma compe- tição para testar qual Personagem consegue ficar mais tempo embaixo d'água sem respirar (CON)....",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-teste-de-resistencia-88",
+      "name": "TESTE DE RESISTÊNCIA",
+      "category": "core_rule",
+      "pages": [
+        [
+          88,
+          89
+        ]
+      ],
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a pro- vações de ordem fisica ou mental, São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Consti- tuição (CON), quando o ataque é físico, por venen...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-indice-de-protecao-ip-90",
+      "name": "ÍNDICE DE PROTEÇÃO [IP)",
+      "category": "combat",
+      "pages": [
+        [
+          90,
+          93
+        ]
+      ],
+      "summary": "ÍNDICE DE PROTEÇÃO [IP) O índice de proteção existe para representar algum tipo de proteção contra dano, Na Idade Média, existiam armas dos mais variados tipos. Não podemos esquecer dos feiticeiros e magos que lançavam seus encatamentos sobre os inimigos. De uma maneira ou de outra, quando um golpe atinge uma pessoa, parte do dano pode ser absorvida por sua...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-venenos-94",
+      "name": "VENENOS",
+      "category": "core_rule",
+      "pages": [
+        94
+      ],
+      "summary": "VENENOS Existem uma infinidade de venenos conhecidos. Eles po- dem ser paralisantes, debilitantes, soníferos ou mortais. Seus métodos de aplicação incluem: ingestão, inalação, injeção ou apenas contato com a pele para serem efetivos. Independente- mente de qual efeito e método de aplicação, os venenos SEM- PRE dão direito a um Teste de Resistência para evita...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-del-ab-95",
+      "name": "del ab",
+      "category": "attribute_skill",
+      "pages": [
+        95
+      ],
+      "summary": "del ab Nome Data de Nascimento Local de Nascimento Sexo Altura Peso Classe Social / Profissão Nível Idade: Aparente — Real Idiomas pi sf Religião GCcus ÁTRIBUTES VALOR 4 Men / % F PV Constituição (CON) / / =) +, Força (FR) a Destreza (DEX) / / IP MAGIA FE / Agilidade (AG) / | ipa Imteligência (INT) / feia Força de Vontade (WILL) / / Percepção (PER) / / PERÍC...",
+      "entityRefs": []
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica-guerra-santa-96",
+      "name": "GUERRA SANTA",
+      "category": "core_rule",
+      "pages": [
+        96
+      ],
+      "summary": "GUERRA SANTA Jyhad: Guerra Santa explica deta- lhadamente as dez castas de anjos hebreus que habitam a Cidade de Prata e as cinco castas de anjos muçulmanos do Jardim de Allah, possibilitando a utilização de anjos tanto como Personagens quanto como NPCs. Conheça os Malachim (Coroados), Erelim (Sábios), Seraphim (Sagazes), Hayyoth (Piedosos), Ophanim (Severos...",
+      "entityRefs": []
+    }
+  ]
+}

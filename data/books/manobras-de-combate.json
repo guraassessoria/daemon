@@ -1,0 +1,74 @@
+{
+  "source": "manobras-de-combate",
+  "title": "Manobras de Combate",
+  "status": "full-read-auto-pass-1",
+  "pages": 6,
+  "primaryCategories": [
+    "attribute_skill",
+    "combat",
+    "core_rule",
+    "item_equipment"
+  ],
+  "parts": [
+    {
+      "id": "manobras-de-combate-manobras-de-combate-1",
+      "name": "MANOBRAS DE COMBATE",
+      "category": "attribute_skill",
+      "pages": [
+        1
+      ],
+      "summary": "MANOBRAS DE COMBATE Esta categoria de perícia é um caso excepcional. São apresentadas aqui algumas manobras de combate. Elas não são utilizadas como perícias, na medida em que NÃO existe um teste de manobras de combate. O Personagem simplesmente sabe realizá-las. As manobras de combate tem um custo fixo entre parenteses, com exceção de manobras com sinal de...",
+      "entityRefs": []
+    },
+    {
+      "id": "manobras-de-combate-arma-dupla-2",
+      "name": "ARMA DUPLA",
+      "category": "combat",
+      "pages": [
+        2
+      ],
+      "summary": "ARMA DUPLA [ +25 pontos ] [ Requer Força 12 e Destreza 12 ] [ Requer aprimoramento Ambidestria ] [ Requer manobra Lutar com duas armas ] O Personagem é capaz de utilizar uma arma dupla normalmente, realizando 2 ataques em uma rodada. Uma arma dupla é um par de armas IGUAIS, que normalmente NÃO poderiam se beneficiar da manobra \"Lutar com Duas Armas\". Pode se...",
+      "entityRefs": []
+    },
+    {
+      "id": "manobras-de-combate-ataque-de-oportunidade-3",
+      "name": "ATAQUE DE OPORTUNIDADE",
+      "category": "combat",
+      "pages": [
+        3
+      ],
+      "summary": "ATAQUE DE OPORTUNIDADE [ +25 pontos ] [ Requer Agilidade 16 ] [ Requer manobra Contra–ataque ] Algumas vezes um Personagem comete um erro em seu ataque que o acaba deixando o desprotegido, possuindo está manobra o Personagem pode se aproveitar de erros de ataques de seu adversário. Toda vez que o oponente cometer um erro de ataque contra o Personagem, o Pers...",
+      "entityRefs": []
+    },
+    {
+      "id": "manobras-de-combate-ferir-pernas-4",
+      "name": "FERIR PERNAS",
+      "category": "attribute_skill",
+      "pages": [
+        4
+      ],
+      "summary": "FERIR PERNAS [ 25 pontos ] [ Requer Força ou Destreza 14 ] O Personagem pode machucar as pernas do oponente. O Jogador deve declarar a intenção do ataque ANTES de fazê-lo e não causa dano. Em caso de sucesso, o alvo passa a testar sua perícia de ataque e defesa com pernas e pés com metade da porcentagem, será válido para ataques e defesas utilizando chutes,...",
+      "entityRefs": []
+    },
+    {
+      "id": "manobras-de-combate-manobras-para-impressionar-5",
+      "name": "MANOBRAS PARA IMPRESSIONAR",
+      "category": "combat",
+      "pages": [
+        5
+      ],
+      "summary": "MANOBRAS PARA IMPRESSIONAR [ 25 pontos ] [ Requer Destreza 14 ] O Personagem pode realizar efeitos e movimentos com uma arma, visando chamar a atenção ou distrair uma ou mais pessoas. O Jogador descreve a ação que o Personagem deseja fazer e realiza um teste NORMAL da perícia de ataque. Se for um sucesso ocorrerá como descrito, em caso de falha crítica o Per...",
+      "entityRefs": []
+    },
+    {
+      "id": "manobras-de-combate-rajada-frontal-6",
+      "name": "RAJADA FRONTAL",
+      "category": "combat",
+      "pages": [
+        6
+      ],
+      "summary": "RAJADA FRONTAL [ 25 pontos ] [ Requer Força 14 e Destreza 14 ] A rajada frontal é realizada quando o Personagem dispara todos os tiros contra o mesmo oponente. O excesso de tiros torna a arma mais difícil de segurar, o que dificulta o acerto, mas, se acertar, o dano é violentamente maior. Quando for realizada uma rajada, há uma regra simplificadora. Consider...",
+      "entityRefs": []
+    }
+  ]
+}
