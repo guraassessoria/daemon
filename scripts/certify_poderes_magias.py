@@ -12,7 +12,7 @@ ENTITIES_PATH = DATA_DIR / "entities" / "power_magic_granular.json"
 POWERS_LOCK_PATH = INDEX_DIR / "poderes-certified-lock.json"
 MAGICS_LOCK_PATH = INDEX_DIR / "magias-certified-lock.json"
 REJECTED_PATH = DATA_DIR / "work" / "poderes-magias-certification-rejected.json"
-REPORT_PATH = ROOT / "docs" / "poderes-magias-certification.md"
+REPORT_PATH = ROOT / "docs" / "reports" / "certification" / "poderes-magias-certification.md"
 
 CONTEXT_RE = re.compile(
     r"power-magic-book-part|power-source|magic-source|power-term|magic-term|manual-power-magic|auto-inline-cabalistic",
@@ -493,6 +493,7 @@ def main() -> None:
         lines.extend(["", "## Rejected sample", ""])
         for entity in rejected[:120]:
             lines.append(f"- `{entity.get('source')}` / `{entity.get('name')}`: {entity.get('rejectionReason')}")
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Certified {len(certified)} poderes/magias; rejected {len(rejected)} candidates.")
 

@@ -12,7 +12,7 @@ ENTITIES_PATH = DATA_DIR / "entities" / "race_lineage_granular.json"
 LOCK_PATH = INDEX_DIR / "racas-certified-lock.json"
 LINEAGES_LOCK_PATH = INDEX_DIR / "linhagens-certified-lock.json"
 REJECTED_PATH = DATA_DIR / "work" / "racas-certification-rejected.json"
-REPORT_PATH = ROOT / "docs" / "racas-certification.md"
+REPORT_PATH = ROOT / "docs" / "reports" / "certification" / "racas-certification.md"
 
 MECHANICAL_RACE_RE = re.compile(
     r"\bCusto\s*:|\bIdade Inicial\s*:|\bAtributos\s*:|\bVantagens\s*:|\bDesvantagens\s*:",
@@ -294,6 +294,7 @@ def main() -> None:
         lines.extend(["", "## Rejected sample", ""])
         for entity in rejected[:100]:
             lines.append(f"- `{entity.get('source')}` / `{entity.get('name')}`: {entity.get('rejectionReason')}")
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Certified {len(certified)} racas/linhagens; rejected {len(rejected)} candidates.")
 

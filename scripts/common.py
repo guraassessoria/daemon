@@ -113,6 +113,10 @@ def infer_category_hints(text: str) -> list[str]:
     normalized = slugify(text).replace("-", " ")
     scores: dict[str, int] = {}
     for category, keywords in KEYWORDS_BY_CATEGORY.items():
-        scores[category] = sum(1 for keyword in keywords if slugify(keyword).replace("-", " ") in normalized)
+        scores[category] = sum(
+            1
+            for keyword in keywords
+            if re.search(rf"\b{re.escape(slugify(keyword).replace('-', ' '))}\b", normalized)
+        )
     ranked = [category for category, score in sorted(scores.items(), key=lambda item: item[1], reverse=True) if score]
     return ranked[:4] or ["source"]

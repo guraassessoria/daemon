@@ -10,7 +10,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 ENTITIES_PATH = DATA_DIR / "entities" / "character_option_granular.json"
 LOCK_PATH = INDEX_DIR / "aprimoramentos-certified-lock.json"
 REJECTED_PATH = DATA_DIR / "work" / "aprimoramentos-certification-rejected.json"
-REPORT_PATH = ROOT / "docs" / "aprimoramentos-certification.md"
+REPORT_PATH = ROOT / "docs" / "reports" / "certification" / "aprimoramentos-certification.md"
 
 MECHANICAL_RE = re.compile(
     r"\b-?\d+\s*(?:a\s*\d+\s*)?pontos?\b|\bvari[aá]vel\b|para cada ponto|"
@@ -155,6 +155,7 @@ def main() -> None:
         lines.extend(["", "## Rejected", ""])
         for entity in rejected[:80]:
             lines.append(f"- `{entity.get('source')}` / `{entity.get('name')}`: {entity.get('rejectionReason')}")
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Certified {len(certified)} aprimoramentos; rejected {len(rejected)} candidates.")
 

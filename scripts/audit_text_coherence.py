@@ -12,7 +12,7 @@ from text_quality_report import split_pages
 SOURCES_PATH = INDEX_DIR / "sources.json"
 DUPLICATES_PATH = INDEX_DIR / "duplicates.json"
 REPORT_JSON = INDEX_DIR / "text-coherence-report.json"
-REPORT_MD = ROOT / "docs" / "text-coherence-report.md"
+REPORT_MD = ROOT / "docs" / "reports" / "manual-review" / "text-coherence-report.md"
 
 MOJIBAKE_MARKERS = ["Ã", "Â", "�", "\ufffd", "Ð", "ð", "þ", "ý"]
 COMMON_PT = {

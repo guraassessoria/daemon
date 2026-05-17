@@ -194,6 +194,18 @@ def magic_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict
     return by_id, by_source_name
 
 
+def ritual_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "rituais-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
 def is_aprimoramento_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
     normalized_name = normalize_for_search(name)
@@ -393,6 +405,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     lineage_lock_by_id, lineage_lock_by_source_name = lineage_locks()
     power_lock_by_id, power_lock_by_source_name = power_locks()
     magic_lock_by_id, magic_lock_by_source_name = magic_locks()
+    ritual_lock_by_id, ritual_lock_by_source_name = ritual_locks()
     quarantined_aprimoramentos: list[dict[str, Any]] = []
     duplicate_aprimoramentos: list[dict[str, Any]] = []
     quarantined_kits: list[dict[str, Any]] = []
@@ -407,6 +420,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     duplicate_powers: list[dict[str, Any]] = []
     quarantined_magics: list[dict[str, Any]] = []
     duplicate_magics: list[dict[str, Any]] = []
+    duplicate_rituals: list[dict[str, Any]] = []
     for path in sorted(ENTITIES_DIR.glob("*.json")):
         if path.name == "source.json":
             continue
@@ -428,6 +442,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
             is_certified_lineage = entity_id in lineage_lock_by_id
             is_certified_power = entity_id in power_lock_by_id
             is_certified_magic = entity_id in magic_lock_by_id
+            is_certified_ritual = entity_id in ritual_lock_by_id
             if source_name_key in lock_by_source_name and not is_certified_aprimoramento:
                 duplicate_aprimoramentos.append(
                     {
@@ -519,7 +534,20 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
+            if source_name_key in ritual_lock_by_source_name and not is_certified_ritual:
+                duplicate_rituals.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": ritual_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_aprimoramentos.append(
                     {
                         "id": entity_id,
@@ -532,7 +560,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
+            if is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_kits.append(
                     {
                         "id": entity_id,
@@ -545,7 +573,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
+            if is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_classes.append(
                     {
                         "id": entity_id,
@@ -558,7 +586,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic:
+            if is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_lineages.append(
                     {
                         "id": entity_id,
@@ -571,7 +599,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic:
+            if is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_races.append(
                     {
                         "id": entity_id,
@@ -584,7 +612,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage:
+            if is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
                 quarantined_powers.append(
                     {
                         "id": entity_id,
@@ -597,7 +625,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage:
+            if is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
                 quarantined_magics.append(
                     {
                         "id": entity_id,
@@ -624,6 +652,8 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 category = "power_magic"
             if is_certified_magic:
                 category = "power_magic"
+            if is_certified_ritual:
+                category = "ritual_spell"
             entries = entity.get("entries") or []
             summary = " ".join(entry for entry in entries if isinstance(entry, str))
             if is_certified_aprimoramento:
@@ -640,6 +670,8 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 area, confidence, matched_areas = "poderes", 1.0, ["poderes", "certificado"]
             elif is_certified_magic:
                 area, confidence, matched_areas = "magias", 1.0, ["magias", "certificado"]
+            elif is_certified_ritual:
+                area, confidence, matched_areas = "rituais", 1.0, ["rituais", "certificado"]
             else:
                 area, confidence, matched_areas = area_for_entity(
                     entity,
@@ -685,7 +717,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 "classContext",
                 "raceContext",
                 "powerMagicContext",
-                "costText",
+                "ritualContext",
                 "initialAgeText",
                 "attributesText",
                 "advantagesText",
@@ -710,6 +742,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     write_json(WORK_DIR / "poderes-duplicate-blocks.json", duplicate_powers)
     write_json(WORK_DIR / "magias-quarantine.json", quarantined_magics)
     write_json(WORK_DIR / "magias-duplicate-blocks.json", duplicate_magics)
+    write_json(WORK_DIR / "rituais-duplicate-blocks.json", duplicate_rituals)
     return items
 
 
@@ -764,7 +797,7 @@ def write_report(summary: dict[str, Any]) -> None:
     lines = [
         "# Area catalog pass 001",
         "",
-        "Initial navigation/population layer for the 190 sources marked as ready to proceed.",
+        "Initial navigation/population layer for the sources marked as ready to proceed.",
         "",
         f"- Ready sources: {summary['readySourceCount']}",
         f"- Areas: {summary['areaCount']}",
@@ -785,13 +818,14 @@ def write_report(summary: dict[str, Any]) -> None:
             "## Notes",
             "",
             "- This is a pass-1 catalog based on existing book parts plus curated entities already extracted.",
-            "- Duplicate IDs are resolved to their canonical source before the 190-source ready list is built.",
+            "- Duplicate IDs are resolved to their canonical source before the ready-source list is built.",
             "- The next pass should keep splitting high-value source parts into individual mechanical records, including pericias and remaining uncategorized rules.",
             "",
         ]
     )
-    DOCS_DIR.mkdir(parents=True, exist_ok=True)
-    (DOCS_DIR / "area-catalog-pass-001.md").write_text("\n".join(lines), encoding="utf-8")
+    report_dir = DOCS_DIR / "reports" / "catalog"
+    report_dir.mkdir(parents=True, exist_ok=True)
+    (report_dir / "area-catalog-pass-001.md").write_text("\n".join(lines), encoding="utf-8")
 
 
 def main() -> None:

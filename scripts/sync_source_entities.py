@@ -15,12 +15,17 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--start", type=int, default=1)
     parser.add_argument("--count", type=int)
+    parser.add_argument("--ids", nargs="*", help="Explicit source ids to sync")
     args = parser.parse_args()
 
     index = read_json(SOURCES_PATH, {"sources": []})
-    selected = index["sources"][args.start - 1 :]
-    if args.count is not None:
-        selected = selected[: args.count]
+    if args.ids:
+        wanted = set(args.ids)
+        selected = [source for source in index["sources"] if source["id"] in wanted]
+    else:
+        selected = index["sources"][args.start - 1 :]
+        if args.count is not None:
+            selected = selected[: args.count]
 
     existing = {entity["id"]: entity for entity in read_json(ENTITIES_PATH, [])}
     for source in selected:

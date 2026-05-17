@@ -15,14 +15,28 @@
     },
     "category": {
       "type": "string",
-      "enum": ["core_rule", "attribute_skill", "combat", "character_option", "kit_class", "race_lineage", "power_magic", "ritual_spell", "item_equipment", "creature_npc", "setting_lore", "adventure", "table_generator", "source"]
+      "enum": ["core_rule", "attribute_skill", "combat", "character_option", "character_class", "kit_class", "race_lineage", "power_magic", "ritual_spell", "item_equipment", "creature_npc", "setting_lore", "adventure", "table_generator", "source"]
     },
     "source": {
       "type": "string"
     },
+    "sourceTitle": {
+      "type": "string"
+    },
+    "subtype": {
+      "type": "string",
+      "enum": ["aprimoramento", "class", "kit", "lineage", "linhagem", "magia", "poder", "raca", "ritual"]
+    },
     "page": {
       "type": ["integer", "null"],
       "minimum": 1
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
     },
     "entries": {
       "type": "array",
@@ -43,6 +57,24 @@
       "maximum": 1
     },
     "extractionMethod": {
+      "type": "string"
+    },
+    "certificationStatus": {
+      "type": "string"
+    },
+    "certifiedAs": {
+      "type": "string"
+    },
+    "certifiedArea": {
+      "type": "string"
+    },
+    "lockedArea": {
+      "type": "string"
+    },
+    "certificationId": {
+      "type": "string"
+    },
+    "certificationMethod": {
       "type": "string"
     }
   },

@@ -9,7 +9,7 @@ from common import DATA_DIR, ROOT, slugify, read_json, write_json
 
 
 WORK_DIR = DATA_DIR / "work"
-REPORTS_DIR = ROOT / "docs"
+REPORTS_DIR = ROOT / "docs" / "reports" / "granular"
 
 
 KIT_RE = re.compile(r"\bkits?\b|kits?\s+de\s+personagem|novo\s+kit|novos\s+kits", re.IGNORECASE)

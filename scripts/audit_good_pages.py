@@ -10,7 +10,7 @@ from common import INDEX_DIR, ROOT, TEXT_DIR, write_json
 from text_quality_report import split_pages
 
 
-DOCS_DIR = ROOT / "docs"
+DOCS_DIR = ROOT / "docs" / "reports" / "manual-review"
 REPORT_JSON = INDEX_DIR / "good-sources-page-coherence.json"
 REPORT_MD = DOCS_DIR / "good-sources-page-coherence.md"
 
@@ -296,6 +296,7 @@ def write_markdown(summary: dict, results: list[dict]) -> None:
         lines.append(f"- `{row['id']}`: {len(note_pages)} note page(s): {pages}")
     lines.append("")
 
+    REPORT_MD.parent.mkdir(parents=True, exist_ok=True)
     REPORT_MD.write_text("\n".join(lines), encoding="utf-8")
 
 

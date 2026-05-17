@@ -10,7 +10,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 TEXT_DIR = DATA_DIR / "text"
 BOOKS_DATA_DIR = DATA_DIR / "books"
 ENTITIES_DIR = DATA_DIR / "entities"
-REPORTS_DIR = ROOT / "docs"
+REPORTS_DIR = ROOT / "docs" / "reports" / "granular"
 
 COST_RE = re.compile(
     r"\b(?:-?\d+\s*(?:a\s*\d+\s*)?pontos?|vari[aá]vel|restri[cç][aã]o|apenas para|pr[eé]-?requisito)",
@@ -350,6 +350,7 @@ def main() -> None:
     for item in review_per_source:
         lines.append(f"| `{item['source']}` | {len(item['candidatePages'])} | {item['extractedCount']} |")
     lines.append("")
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     (REPORTS_DIR / "granular-aprimoramentos-pass-001.md").write_text("\n".join(lines), encoding="utf-8")
 
     print(

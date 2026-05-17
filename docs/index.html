@@ -8,7 +8,7 @@
   </head>
   <body>
     <header class="topbar">
-      <div>
+      <div class="brand">
         <p class="eyebrow">Daemon Tools</p>
         <h1>Catalogo Daemon/Trevas</h1>
       </div>
@@ -26,7 +26,7 @@
         <nav class="area-list" id="areaList"></nav>
       </aside>
 
-      <section class="workspace">
+      <section class="workspace" aria-live="polite">
         <div class="toolbar">
           <label class="search">
             <span>Buscar</span>
@@ -49,11 +49,19 @@
         </div>
 
         <div class="area-overview" id="areaOverview"></div>
-        <div class="results-head">
-          <h2 id="resultsTitle">Itens</h2>
-          <span id="resultsCount"></span>
+        <div class="browser">
+          <section class="results-pane" aria-label="Lista de itens">
+            <div class="results-head">
+              <h2 id="resultsTitle">Itens</h2>
+              <span id="resultsCount"></span>
+            </div>
+            <div class="results" id="results" role="listbox" aria-label="Itens filtrados"></div>
+          </section>
+
+          <article class="detail-pane" id="detailPane" aria-label="Detalhe do item">
+            <div class="empty detail-empty">Selecione um item na lista.</div>
+          </article>
         </div>
-        <div class="results" id="results"></div>
       </section>
     </main>
 
@@ -65,29 +73,16 @@
     </template>
 
     <template id="itemTemplate">
-      <article class="item-card">
-        <div class="item-topline">
+      <button class="item-row" type="button" role="option">
+        <span class="row-main">
+          <span class="item-title"></span>
+          <span class="item-preview"></span>
+        </span>
+        <span class="row-meta">
           <span class="pill item-kind"></span>
           <span class="muted item-source"></span>
-        </div>
-        <h3></h3>
-        <p class="summary"></p>
-        <dl class="item-meta">
-          <div>
-            <dt>Categoria</dt>
-            <dd class="item-category"></dd>
-          </div>
-          <div>
-            <dt>Pagina</dt>
-            <dd class="item-page"></dd>
-          </div>
-          <div>
-            <dt>Confianca</dt>
-            <dd class="item-confidence"></dd>
-          </div>
-        </dl>
-        <div class="tags"></div>
-      </article>
+        </span>
+      </button>
     </template>
 
     <script src="assets/app.js" type="module"></script>

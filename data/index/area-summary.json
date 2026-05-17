@@ -2,7 +2,7 @@
   "version": 1,
   "readySourceCount": 190,
   "areaCount": 17,
-  "entityCount": 1403,
+  "entityCount": 1428,
   "sourcePartCount": 1544,
   "areas": [
     {
@@ -74,7 +74,7 @@
     {
       "id": "rituais",
       "name": "Rituais",
-      "entityCount": 1,
+      "entityCount": 28,
       "sourcePartCount": 60
     },
     {
@@ -86,7 +86,7 @@
     {
       "id": "criaturas_npcs",
       "name": "Criaturas e NPCs",
-      "entityCount": 18,
+      "entityCount": 16,
       "sourcePartCount": 169
     },
     {

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import traceback
 import zipfile
 from pathlib import Path
@@ -22,16 +23,6 @@ def extract_pdf(path: Path) -> tuple[str, int | None]:
         return "".join(chunks).strip(), document.page_count
 
 
-def count_pdf_pages(path: Path) -> int:
-    try:
-        import fitz
-    except ImportError as exc:
-        raise RuntimeError("PyMuPDF nao instalado. Rode: python -m pip install -r requirements.txt") from exc
-
-    with fitz.open(path) as document:
-        return document.page_count
-
-
 def extract_docx(path: Path) -> tuple[str, int | None]:
     paragraphs: list[str] = []
     namespace = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
@@ -48,19 +39,27 @@ def extract_docx(path: Path) -> tuple[str, int | None]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Extract text from indexed PDF/DOCX sources.")
+    parser.add_argument("--force", action="store_true", help="Re-extract text even when data/text already exists.")
+    parser.add_argument("--ids", nargs="*", help="Optional source ids to extract.")
+    args = parser.parse_args()
+
     ensure_dirs()
     index_path = INDEX_DIR / "sources.json"
     index = read_json(index_path, {"sources": []})
     extracted = 0
+    skipped = 0
     failed = 0
+    wanted = set(args.ids or [])
 
     for source in index["sources"]:
+        if wanted and source["id"] not in wanted:
+            continue
         source_path = BOOKS_DIR.parent / source["path"]
         output_path = TEXT_DIR / f"{source['id']}.txt"
-        if output_path.exists() and output_path.stat().st_size:
+        if output_path.exists() and output_path.stat().st_size and not args.force:
             source["textStatus"] = "ok"
-            if source.get("pageCount") is None and source["extension"] == ".pdf":
-                source["pageCount"] = count_pdf_pages(source_path)
+            skipped += 1
             continue
 
         try:
@@ -78,11 +77,11 @@ def main() -> None:
         except Exception as exc:
             source["textStatus"] = "failed"
             source["textError"] = str(exc)
-            source["textTrace"] = traceback.format_exc(limit=1)
+            source["textTrace"] = traceback.format_exc(limit=3)
             failed += 1
 
     write_json(index_path, index)
-    print(f"Extracted {extracted} sources; failed {failed}.")
+    print(f"Extracted {extracted} sources; skipped {skipped}; failed {failed}.")
 
 
 if __name__ == "__main__":

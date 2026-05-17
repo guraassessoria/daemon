@@ -3,7 +3,7 @@
   "id": "criaturas_npcs",
   "name": "Criaturas e NPCs",
   "readySourceCount": 190,
-  "entityCount": 18,
+  "entityCount": 16,
   "sourcePartCount": 169,
   "entities": [
     {
@@ -68,28 +68,6 @@
         "povo"
       ],
       "confidence": 0.78,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "convocar-lukhavim",
-      "name": "Convocar Lukhavim",
-      "area": "criaturas_npcs",
-      "category": "ritual_spell",
-      "source": "alastores-a-justica-infernal",
-      "sourceTitle": "Alastores - A Justiça Infernal",
-      "page": 36,
-      "entries": [
-        "Ritual Alastor para convocar Lukhavim, demonios construidos a partir de almas e cordoes de destino."
-      ],
-      "tags": [
-        "alastores",
-        "criaturas_npcs",
-        "demonio",
-        "rituais",
-        "ritual",
-        "ritual_spell"
-      ],
-      "confidence": 0.84,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -309,27 +287,6 @@
         "supers"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "ipsa-nomina",
-      "name": "Ipsa Nomina",
-      "area": "criaturas_npcs",
-      "category": "ritual_spell",
-      "source": "alastores-a-justica-infernal",
-      "sourceTitle": "Alastores - A Justiça Infernal",
-      "page": 37,
-      "entries": [
-        "Ritual Alastor citado na secao de rituais, relacionado a nomes e criaturas sobrenaturais."
-      ],
-      "tags": [
-        "alastores",
-        "criaturas_npcs",
-        "rituais",
-        "ritual",
-        "ritual_spell"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "manual-pass-1"
     },
     {

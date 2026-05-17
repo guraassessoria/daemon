@@ -3,11 +3,786 @@
   "id": "rituais",
   "name": "Rituais",
   "readySourceCount": 190,
-  "entityCount": 1,
+  "entityCount": 28,
   "sourcePartCount": 60,
   "entities": [
     {
-      "id": "sellas-locum",
+      "id": "ritual-rituais-absorcao-de-energia",
+      "name": "Absorção de Energia",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 1,
+      "entries": [
+        "Controlar Espíritos / Humanos / Metamagia 4, 8 ou 12\nNeste ritual, o necromante é capaz de \"drenar\" as\nenergias de um cadáver recente (uma semana no\nmáximo), para si próprio, pode durar 30 minutos de\npregação (focus 4), uma hora (focus 8) ou uma hora e\nmeia (focus 12), e absorve (independente da vitima os\npossuir em vida), 1pv, 1pm, 1pfé, 1ph (focus 4), 2pvs,\n2pms, 2psfé, 2phs (focus 8) ou 3pvs, 3pms, 3psfé,\n3phs (focus 12), que serão acrescentados ao seu valor\nmáximo, durante 4, 8 ou 12 dias (proporcional ao\nfocus), no fim do período, seus valores baixam para os\nvalores normais e extras são perdidos. Não é\ncumulativo. Um segundo ritual cancela o primeiro. é\nnecessário ser um clérigo ou servo de uma entidade\npara realizar este ritual."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        1
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-energia",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-absorcao-de-energia-avancada",
+      "name": "Absorção de Energia Avançada",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 1,
+      "entries": [
+        "Controlar / Entender Espíritos / Metamagia 8\nO necromante utiliza-se de um amuleto que possa\narmazenar pms (o crânio místico, o crânio do\nconhecimento, etc) no qual será (ão) armazenada (s) a\n(s) alma (s) tidas como alvo do ritual, (sendo a\nquantidade máxima de almas armazenadas no\namuleto igual a quantidade máxima de pms que o\nmesmo pode armazenar),\nCaso seja do gosto do necromante pode-se criar um\namuleto para este fim (Criar / Controlar Espíritos\n/ Metamagia 1 à 3, sendo que cada nível de focus\nutilizado comporta até 2 almas (porem não\ncomportam pms). Após conseguir (ou criar) um\namuleto, absorve-se com a utilização deste ritual a (s)\nalma (s) que no mesmo, que passam a funcionar como\numa espécie de \"amplificador de pms\", lembrando que o\nalvo (vítima) deste ritual deve encontrar-se morto e\nser um cadáver recente.\nO ritual consiste-se em duas partes distintas (que\ndevem ter não mais que 24 horas de intervalo entre\numa e outra);\n1º parte: Duas horas entoando as preces por sobre\no cadáver com o amuleto em sua mão direita (sem\nqualquer tipo de interrupção)\n2º parte: Três horas \"acionando\" o amuleto e seus\nnovos pms, (deve ser feito em um lugar estritamente\ncalmo e durante o período noturno)\nFeito isso estará concretizado o ritual e os novos pms\njá poderão ser utilizados, soma-se um pm para cada\nalma armazenada no amuleto, além de um pfé\npermanentemente. Esses pontos de magia/fé estão\nno necromante e não no amuleto, apenas com a\ndestruição do amuleto ou seu afastamento de seu\ncriador podem inibir os novos pms/psfé, tal amuleto\npelo mesmo motivo é intransferível, deve ser feito o\nritual com uma alma por vez, apenas clérigos ou\nservos de entidades malignas (e eles próprios malignos\ntambém) podem fazer e usufruir-se do amuleto, pode\num mesmo necromante portar um número máximo de\namuletos igual a seu nível dividido por quatro\n(arredondado para baixo)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        1
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-energia-avancada",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-absorcao-de-magia",
+      "name": "Absorção de Magia",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 2,
+      "entries": [
+        "Controlar / Entender Metamagia 5 ou 10\nUtilizando-se de um cadáver de um usuário de magia\n(necromante, necromante, clérigo elementalista etc...).\nQuando o necromante inicia o ritual, ele deve definir\nqual será seu efeito (há duas opções; escolher uma\nmagia que o atual cadáver conhecia quando vivo, ou\naprender 1d4 - 1 (mínimo 1) magias aleatórias (ou\ndefinidas pelo mestre) que o falecido conhecia quando\nvivo (e obviamente que possam ser utilizadas pelo\nnecromante), este ritual dura cerca de 3 horas ele\npode ser utilizado para aprender magias comuns\n(dãh), rituais de fé, esforço heróico, ou rituais de\nqualquer tipo (incluindo rituais cabalísticos), este é o\nefeito para focus 5, a seguir é dado o efeito para\nfocus 10.\nPara focus 10, além do efeito anterior, o realizador\ndo ritual também receberá um ponto de focus (o mais\nalto do falecido e/ou o mais baixo do necromante) e\num ponto de magia que serão acrescentados aos seus\npermanentemente (para rituais de fé recebe um ponto\nde fé, para esforço heróico recebe um ponto heróico\n(considerado sobrenatural), demais rituais vale o\njulgamento do mestre), este ritual dura em torno de\nsete a oito horas.\nObs: Nenhum dos dois rituais podem ser cancelados\nou revertidos após terem sido concretizados, e ambos\nconsomem 1 ponto de experiência para cada focus /\nnível (somar todos os focus caso seja mais de uma\nmagia ou ritual), um cadáver não poderá ser o alvo\ndeste ritual (indiferente o nível) duas vezes. Um\nnecromante após fazer-se deste ritual só poderá\nfaze-lo novamente após subir o nível de personagem.\nConversar com os Mortos\nEntender Trevas / Espíritos 4 +\nCom esta magia, o necromante pode literalmente\nfalar com um cadáver, sobre suas lembranças\n(interpretação e contexto sobre seu passado de\nacordo com o mestre), sobre o que está acontecendo\nem Spiritum (somente se o espírito ainda permanecer\npela região, sobre o que aconteceu antes de sua\nmorte, sobre o que aconteceu após a sua morte com\no corpo, ou onde o corpo esteve, para cada focus\nacima de 4 pode-se conversar com um morto\n(cadáver) extra. A magia tem duração de uma cena."
+      ],
+      "tags": [
+        "auto-extraido",
+        "cabala",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        2
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-magia",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-cabala-2-banimento-sombrio",
+      "name": "Banimento Sombrio",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "cabala-2",
+      "sourceTitle": "Cabala",
+      "page": 19,
+      "entries": [
+        "Criar Spiritum 4 ou +\nEste poderosíssimo ritual cabalista foi desenvolvido pelos Necromantes da Cabala,\ncomo forma de punir os inimigos da Ordem. Ele consiste em realizar, através de\nmovimentos do corpo, um ataque espiritual violentíssimo contra uma vítima. Esse ataque\ncausava Xd6 pontos de dano (aonde X é o focus empregado para realizar a magia), o alvo\nnão tinha direito a um teste de resistência e não podia contar com IP (a menos se for uma\nproteção na própria alma).\nEsta magia ataca a própria alma da vítima, e caso ela morra vítima deste ataque,\ntodo o seu registro espiritual é bruscamente apagado."
+      ],
+      "tags": [
+        "auto-extraido",
+        "cabala",
+        "certificado",
+        "necromancia",
+        "protecao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        19
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:cabala-2:banimento-sombrio",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-rituais-cauda-aos-mortos",
+      "name": "Cauda aos Mortos",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 10,
+      "entries": [
+        "Controlar / Entender Animais (ou Demônios) / Trevas / Espíritos 3\nProcesso equivalente ao anterior porem com as\nseguintes alterações:\nMateriais necessários são: A cauda de um monstro,\nanimal ou demônio já morto (até + 10% ou - 35%) e\nparte de suas costelas.\nE o ritual completo durará em torno de 6 horas e\nconsome 5 pms.\nA vantagem é clara: um ataque extra (perícia briga,\nteste difícil, dano 1d6). Não existe tal ritual para\ncaudas prenseis."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        10
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:cauda-aos-mortos",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-contactar-arkanun",
+      "name": "Contactar Arkanun",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 7,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 10 pts\nTempo de Conjuração: 2 horas\nMateriais: Espelho especialmente preparado\nAtravés de formulas cabalísticas, alguns magos conse-\nguiram codificar a mudança dos planos e estabelecer uma\nligação entre eles. Por meio deste ritual, o mago é capaz de\ncontactar algum outro mago (ou demônio) em Arkanun.\nPara isto, o mago deve saber o nome ou a runa da criatura\nque quer contactar. O mago pode entrar em contato com a\ncriatura por algumas rodadas, o que significa 3 ou 4 pergun-\ntas. O demônio pode ou não responder às perguntas, de-\npendendo da situação."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        7
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:contactar-arkanun",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-contactar-madelein-anjo-dos-sonhos",
+      "name": "Contactar Madelein, Anjo dos Sonhos",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 7,
+      "entries": [
+        "Apenas por Ritual.\nCusto: todos os Pontos de Magia do mago\nDuração: 1 hora\nMateriais : Ervas alucinógenas\nPara realizar este ritual, o mago deve se sentar em posi-\nção de Lotus, recitar os encantamentos e usar as ervas aluci-\nnógenas para atingir um estado de semi-inconsciência. De-\npois de algumas visões, o mago recitará os versos finais e\nconseguirá convocar uma forma de Madelein que irá conver-\nsar com o mago durante o tempo de ritual (2d 6 minutos)\nO ano assumirá a forma que mais agradar ao mago, e poderá\nconversar com ele durante este período, desaparecendo quan-\ndo os efeitos das ervas passarem."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        7
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:contactar-madelein-anjo-dos-sonhos",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-convocar-duinum",
+      "name": "Convocar Duinum",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 36,
+      "entries": [
+        "(Criar/Controlar/Metamagia/Cami\nnho específico 4).\nCusto: Variável.\nTempo de Conjuração: algumas\nrodadas.\nMateriais: 3 vitimas, tintas e velas.\nDuração: até cumprir a missão ou\nser destruído.\nO Duinum é uma cópia demoníaca\nde outra entidade, que servirá a seu\ncriador fielmente, mas, se a cópia\nentrar em contato com o original,\nambos se consumirão: são bastante\nutilizados como assassinos. Para ser\ncriado, é necessário lembranças\nrecentes do alvo e, em termos de\njogo, um Caminho Místico que lide\ncom a origem da vítima (Arkanum\npara Demônios, Humanos para\nHumanos, etc.)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        36
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-duinum",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-book-part,ritual-term"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-convocar-lukhavim",
+      "name": "Convocar Lukhavim",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 36,
+      "entries": [
+        "(Entender/Controlar/Spiritum 5).\nCusto: 4 pts de Magia.\nTempo de Conjuração: algumas\nrodadas.\nMateriais: 3 vitimas, tintas e velas.\nDuração: 72 hrs.\nLukhavim\nsão\nDemônios\nconstruídos através do fiar de\ndiversas almas e seus cordões de\nprata.\nSão\ncriaturas\ncruéis\ne\nimplacáveis.\nPossuem\ndiversos\npoderes relacionados ao Caminho\nde\nSpiritum,\ndentre\neles,\na\ncapacidade de se tornar imaterial e\nde tocar espíritos, assim como a\nhabilidade de possuir indivíduos.\nFR 1d10+12 CON 1d10+12 DEX\n1d10+6 AGI 1d10+12 INT 1d10 PER\n1d10+3 CAR 1d10. IP+15 regenera\n1d6 PVs/rodada, espinhos (1d6 de\ndano se for esfregado contra uma\nvítima)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        36
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-lukhavim",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-book-part,ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-criar-metamagia-3",
+      "name": "Criar Metamagia 3+",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 19,
+      "entries": [
+        "Custo: 1 pt + quantos pontos desejar\nTempo de Conjuração: 1 dia\nMateriais: um robe especialmente preparado.\nCom este ritual, o mago é capaz de encantar sua vestimenta\nde modo a ficar com um indice de proteção igual ao dobro do\nnúmero de Pontos de Magia armazenados na vestimenta.\nPor exemplo: mark armazena 3 pontos em suas vestimentas\nmágicas (1 ponto para encantar mais dois para carregá-la). Ele\nficará com um indice de proteção igual a 4.\n2 0\nViajar para um Plano Adjacente\nApenas por Ritual.\nCusto: 6 pts\nTempo de Conjuração: variável, depende do plano que\no mago deseja ir\nMateriais: depende do plano que o mago deseja ir\nCom este ritual, o mago pode cruzar temporariamente\nos planos dimensionais entre a terra e um semi-plano (lar de\nalgum anjo, demônio ou espírito, ou ainda lar de algum\nmago muito poderoso).\nEste é um ritual muito perigoso, pois o mago atravessa\na barreira interdimensional em seu próprio corpo, e está\nsujeito às leis que regem o semi-plano.\nO mago deve conhecer o local para onde está indo, ou\npelo menos, possuir as coordenadas espaço-temporais para\na entrada e saída do semi-plano."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "protecao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        19,
+        20
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:criar-metamagia-3",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-dammant-indicium",
+      "name": "Dammant Indicium",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 36,
+      "entries": [
+        "(Entender/Criar/Arkanun 1).\nCusto: 1 pt de Magia.\nTempo de Conjuração: Instantâneo.\nMateriais: 3 gotas de sangue.\nO ritual sagrado utilizado pelos\nAuxiliares na Terra - ou por aqueles\npouquíssimos que os conhecem -\npara entrar em contato com os\nAlastores.\nDammant\nIndicium\nfunciona como um chamado de\nemergência\npara\ninvestigar\num\ncrime;\ndesnecessário\ndizer\nque\nrituais\nrealizados\nsem\numa\n“ocorrência”,\nsão\npunidos\nseveramente pelos Carrascos."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        36
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:dammant-indicium",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-book-part,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-envelhecimento",
+      "name": "Envelhecimento",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 6,
+      "entries": [
+        "Entender / Controlar Humanos / Trevas 2, 4, 6, 8 ou 10\nEste ritual deve ser realizado durante a noite, e na\npresença do alvo, sua principal função é envelhecer\nvampiros (ou qualquer criatura que tenha seu poder\nligado à idade), matar humanos por envelhecimento e\ntambém para se ganhar experiência (pontos de\nperícia), mortos-vivos são imunes.\nO alvo envelhece uma quantidade de anos igual ao\nfocus dividido por dois mais um x d6 (respectivamente\n2, 3, 4, 5 ou 6d6 anos, além disso, o alvo recebe 2\npontos de dano (sem absorção) para cada 5 anos\nenvelhecidos assim (arredondar para baixo)),\nO ritual consome 5, 10, 15, 20 ou 25 minutos\nrespectivamente para ser realizado, e seu efeito é\npermanente.\nPara cada dez anos (arredondar para baixo)\nenvelhecidos, a vítima perde um ponto em atributos\nfísicos (o mais alto) e ganha um ponto em atributos\nmentais (o mais baixo).\nÉ necessário um coração de um velho (mais de 80\nanos) (focus 2, 4 ou 6) ou dois corações (mais de 90\nanos) (focus 8 e 10) que será (m) espremido pelo\nrealizador do ritual enquanto prega suas preces, a\nvítima deve estar a no máximo 20 metros do\nmurmurador, não precisa ouvi-lo ou participar do\nritual, para que o efeito funcione, é necessário ser\nservo de uma poderosa entidade (ou ser um clérigo em\nmundos onde houver deuses),personagens com mais de\n150 anos ou acima do décimo quinto nível são imunes."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        6,
+        7
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:envelhecimento",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-enxame-de-cranios",
+      "name": "Enxame de Crânios",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 7,
+      "entries": [
+        "Criar / Controlar Ar / Trevas 4 +\nO lançador desta poderosa magia cria um enxame de\ncrânios negros voadores, que saltam de sua mão (o\ncrânio que está na mesma) e vão de encontro ao\nalvo,esses crânios ignoram proteções e/ou Ip do alvo\ne acertam automaticamente, cada um causa 1d4 +\n1pontos de dano, sendo em quantidade igual a 1d6 +\nfocus da magia.\nDeve -se utilizar de um crânio (normalmente humano)\ncomo fetiche, de onde saem os projéteis, é conhecido\nde uma vampira muito antiga (uma poderosa\nAsimani), que ao fazer-se deste ritual utilizava-se do\ncrânio de um demônio menor como fetiche, o efeito\nextra é apenas visual (muda a forma dos projéteis). O\ncrânio não precisa ser recente, humano ou provido de\nqualquer encantamento sobre ele, mas tem que ser\num crânio, miniaturas ou réplicas não fazem com que\no efeito se realize, no mais fica à gosto do\nnecromante.\nTodos os crânios acertam o mesmo alvo.\nObs: Esta magia é uma versão superior à \"O\nCrânio Voador de Vladislav\" (Controlar Ar /\nTrevas 1, mais detalhes no livro \"Tormenta 3 E\"),\nnormalmente primeiro se desenvolve a versão mais\nsimples da magia antes de partir para esta magia,\nporem a decisão final sobre isto cabe apenas ao\nmestre.\nIntensificação do poder negro\nCriar / Controlar Trevas / Espíritos / Metamagia 6 +\nEsta raríssima magia necromântica é uma versão\nmais forte de Criação de Mortos Vivos\n(Controlar Trevas / Espíritos 5 +), funciona da\nmesma maneira que a citada acima (detalhes veja\nanteriormente), com as seguintes alterações:\nEm C. de M. V., o necromante tem 10 pontos\npor focus para gastar em atributos do morto-vivo,\nsendo o máximo em um mesmo atributo igual a duas\nvezes o focus utilizado, isso ainda vale para I. do P.\nN., mas se o morto possuir focus (enquanto vivo) em\ntrevas e/ou espíritos, esses focus serão somados ao\ndo necromante apenas para se calcular valores de\natributos e limites e para o calculo de pms gastos\n(que agora não teria mais o limite original de quatro),\na outra diferença é que o necromante pode realizar\neste ritual apenas durante o período noturno e\nsomente uma vez por mês por ponto de focus em\ntrevas.\nCaso seja posto pontos em Will ou Int, o morto-vivo\nterá vontade própria ou a capacidade de lançar\nmagias (desde que possua focus) respectivamente.\nPoderes extras (estes poderes são \"trocados\" por\npontos de atributos durante a criação do morto-vivo):\nGarras: com este poder, o morto-vivo causará 1d6 de\ndano por briga ao invés dos 1d3 casuais, custo = 2\npontos de atributo.\nPoderes Mágicos: sem este poder será impossível\npara o morto-vivo utilizar magia (deve possuir Int = 3\nx o focus, e deve possuir esse poder em nível igual ao\nfocus máximo que deseja utilizar (focus esse que ele\npossuía quando vivo), custo = 3 pontos de atributo\npor nível. ··).\nMetamorfose (Animalidade).\nControlar / Entender Animal / Humanos 1 +"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        7,
+        8
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:enxame-de-cranios",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-garras-aos-mortos",
+      "name": "Garras aos Mortos",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 11,
+      "entries": [
+        "Controlar / Entender Animais (ou Demônios) / Trevas / Espíritos 5 a 7\nIdem aos anteriores, mas com as seguintes alterações:\nMaterial: Garra (s) de um animal, demônio ou\nmonstro já morto (até + 20% ou - 25%).\nE o ritual completo durará em torno de 10 a 14\nhoras (2x o focus) e consome 8, 9 e 11 pms (focus 5,\n6 e 7 respectivamente),\nPara garras com o dano de 1d6, 1d8 ou 1d10,\nutiliza-se focus 5;\nPara garras com o dano de 2d6 ou 2d8, utiliza-se\nfocus 6;\nPara garras com o dano de 3d6, 3d8 ou 2d10,\nutiliza-se focus 7.\nSe forem duas garras, serão necessários DOIS\nrituais, em qualquer caso o teste é sempre pela perícia\nbriga, sendo feito como teste normal."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        11
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:garras-aos-mortos",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-guiademagias-humanos-animais-metamagia-1",
+      "name": "Humanos/Animais/Metamagia 1",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "guiademagias",
+      "sourceTitle": "guiademagias",
+      "page": 35,
+      "entries": [
+        "Custo: Padrão\nDuração: Sustentável\nAlcance: Apenas o mago\n34\nEsta magia funciona de maneira\nsimilar à anterior, mas ela possibilita ao mago\ntransformar-se em um tipo específico de\nmonstro, da mesma forma como fazem os\nsacerdotes de Megalokk.\nOs rituais de transformação mais\ncomuns são aqueles que permitem ao\nconjurador assumir a forma de monstros mais\n\"vulgares\", como kobolds e goblins. Já\nmágicas capazes de fazer o mago transformar-\nse em monstros poderosos (dragões, por\nexemplo) são muito raras, ou mesmo\ninexistentes.\nAbaixo seguem alguns exemplos de\nmonstro nos quais o mago pode se\ntransformar através da Forma Bestial:\nFocus 1: insetos ou aracnídeos gigantes em\ngeral, kobold, goblin, slark\nFocus 2: gnoll, orc\nFocus 3: lobo das cavernas (wurg), kill'bone,\nhobgoblin\nFocus 4: dragonete, tumarkhân\nFocus 5: bugbear, dragoa-caçadora\nFocus 6: minotauro, ogre, lursh-lyin\nFocus 7: gigante (espécie menor), troll\nFocus 8: grifo, wyvern\nQuando estiver em sua forma bestial,\no mago só poderá utilizar os ataques relativos\na cada monstro. Algumas de suas vantagens,\ndesvantagens ou aprimoramentos originais\npodem ser substituídos por outros mais\nadequados à forma monstruosa a qual o mago\nassumiu, enquanto outros podem manter-se\ninalterados. Caso a espécie de monstro seja\ninapta para a utilização de determinadas\nhabilidades sobrenaturais (como a magia), o\nmago não poderá contar com elas enquanto a\nForma Bestial permanecer ativa. Os atributos\ndo conjurador serão recalculados pelo Mestre\nconforme as estatísticas da criatura na qual o\nmago se transmutou.\nComo acontece com a magia anterior,\ncada\nritual\npossibilita\nao\nmago\nmetamorfosear-se em uma única espécie de\nmonstro. Se ele quiser outras opções de\ntransformação, deverá aprendê-las\ncom\nmagos especializados ou desenvolver tais\nfeitiços por conta e risco próprios."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        35,
+        36
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:guiademagias:humanos-animais-metamagia-1",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-insanidade",
+      "name": "Insanidade",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 12,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 15 pts\nTempo de Conjuração : 10 horas\nMateriais: o cérebro de uma pessoa insana.\nCom este ritual, o mago é capaz de encantar uma fonte\nde água  de tal forma que todos aqueles que beberem da\nágua fiquem insanos (podem fazer um teste de Força de\nVontade versus 20 para evitar). Para isto, deve preparar o\ncérebro de uma pessoa comprovadamente insana, mistu-\nrando-o com poções especiais. Em seguida, coloque a mas-\nsa resultante dentro do corpo de água escolhido. Este ritual\nconsome permanentemente 5 pts de magia, que ficam ar-\nmazenados na água. Caso o mago deseje desencantar este\nritual, as pessoas recuperarão suas sanidades em 2d6 dias."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        12
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:insanidade",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-ipsa-nomina",
+      "name": "Ipsa Nomina",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justiça Infernal",
+      "page": 37,
+      "entries": [
+        "(Entender /Arkanun 4).\nCusto: Variável.\nTempo de Conjuração: Variável.\nMateriais: um objeto do alvo, velas,\num sacrifício.\nTodas as criaturas sobrenaturais\npossuem um nome em suas línguas\nnaturais. Não é um ser que batiza o\nsobrenatural: cada nova entidade\nnasce\nsabendo\nseu\nNome\nVerdadeiro. Enquanto se forma, o\ncriatura ouve nas profundezas de\nsua mente esse nome ser repetido\nsem parar. O Nome Verdadeiro dos\nDemônios é pronunciado em uma\ndas línguas falados no Inferno\n(latim, Aramaico, Babilônio, etc). Ele\né um nome sem tradução direta e\nquase\nimpronunciável\npara\nqualquer um a não ser a entidade.\nMas o nome é também a maior das\nfraquezas,\nprincipalmente\ndos\ndemônios, pois quem\nconhece o Nome Verdadeiro de um\nsobrenatural pode controla-lo. Um\nmístico que conheça um Nome\nVerdadeiro e os rituais certos é\ncapaz de manipular uma divindade\ncom grande facilidade. Há inclusive\nrituais capazes de Obliterar um\nDemônio, através de seu nome. Por\nisso, Demônios guardam para si\nmesmos seus nomes verdadeiros e\nadotam outros nomes; que mudam\nde acordo com os tempos, enquanto\no Nome Verdadeiro é um segredo\neterno. Em todas as eras, demônios\nadotam esses nomes temporários.\nConforme as eras passam, esses\nnomes temporários mudam. No\nmundo atual, nomes em inglês são\ncomuns, assim como já foram\ncomuns nomes em latim, em grego\nou em egípcio. Normalmente, um\nnome\ntemporário\nde\ndemônio\ndenuncia uma característica deles\nou\napenas\né\num\ntermo\nque\nimpressione."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        37
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:ipsa-nomina",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-book-part,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-magia-aos-mortos",
+      "name": "Magia aos Mortos",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 11,
+      "entries": [
+        "Controlar / Entender Trevas / Espíritos / Metamagia 6\nCom este ritual o necromante \"deixa\" uma e suas\nmagias (ou ritual) com o morto-vivo, este será capaz\nde utiliza-la, como se fosse uma habilidade sua\n(necessário Int = a 8 + focus da magia), o necromante\ndeixará pms presos ao morto-vivo (o dobro do\nnecessrio para lana-la) e NO os recuperar at\nque se quebre a ligação mística com o morto-vivo, ou\nse passe um ano e um dia (quando então o morto-vivo\nterá seus próprios pms e \"aprenderá\" a magia\npermanentemente) fazendo com que os pms e a magia\n\"voltem\" para o necromante.\nEnquanto os pms e a magia estiverem \"presos\" ao\nmorto-vivo, o necromante não poderá usufruir-se\ndeles (a não ser que rompa a ligação, fazendo com\nque os pms e  a magia retornem ao seu \"verdadeiro\ndono\".\nCada morto-vivo armazenará apenas UMA magia\n(a não ser que já tenha aprendido uma após passar\num ano e um dia, não dependendo assim mais do\nnecromante), e o necromante a \"esquece\" até a ligação\nser quebrada pelo necromante, ou se o morto-vivo for\ndestruído (o que cancela a ligação).\nPms retornam 1 pm a cada 30 minutos, e a magia\ndemora 1 hora por ponto de focus.\nÉ permitido ao necromante dar tais poderes (magia)\na um número de servos igual a metade de seu nível\narredondado para baixo. O ritual duro cerca de 12\nhoras, independente da magia ou focus."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        11
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:magia-aos-mortos",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-lobisomens-maldicao-de-licantropia",
+      "name": "Maldição de Licantropia",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "lobisomens",
+      "sourceTitle": "lobisomens",
+      "page": 3,
+      "entries": [
+        "(Entender/Criar Spiritum/Animal/Humanos 5)\nEsta maldição só pode ser lançada sobre uma\npessoa que verdadeiramente tenha cometido um\ncrime contra alguém de sangue cigano, caso con-\ntrário, a maldição retornará na família da feiticeira,\nafetando algum de seus descendentes. Segurando\numa unha decepada de Lobo na mão direita, a\nMadji deve amaldiçoar o alvo em voz alta (a vítima\ndeve ser capaz de ouvir as palavras da Madji para\no ritual fazer efeito) enquanto quebra a unha com\nos dedos. A vítima pode fazer um teste de\nWillpower com dificuldade 8 (WILL vs WILL da\nfeiticeira em TREVAS) para evitar que a maldição\nseja permanente (caso consiga passar no teste, ela\nse transformará em lobisomem somente na próxi-\nma fase de lua cheia)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        3
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:lobisomens:maldicao-de-licantropia",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-lobisomens-oferenda-do-poder-negro",
+      "name": "Oferenda do Poder Negro",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "lobisomens",
+      "sourceTitle": "lobisomens",
+      "page": 3,
+      "entries": [
+        "(Entender/Criar Spiritum/Animal/Humanos 5)\nEste ritual Medieval faz com que a vítima ofere-\nça sua alma ao demônio, em troca do poder do Lo-\nbisomem. Deve ser realizado durante uma lua cheia,\ne o mago deve se banhar com o sangue de uma\ndonzela para o ritual fazer efeito. O Feiticeiro tam-\nbém deve sacrificar um número de pessoas em honra\nao demônio para determinar a duração do pacto\n(para cada sacrificado, ele terá estes poderes por cin-\nco anos). Um feiticeiro poderá realizar este ritual\napenas uma vez em sua vida, mas dizem que um\nlobisomem que vive através deste ritual envelhece\nbem mais lentamente que um humano normal en-\nquanto o pacto estiver em efeito."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        3
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:lobisomens:oferenda-do-poder-negro",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-peste",
+      "name": "Peste",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 16,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 10 pts\nTempo de Conjuração: um dia\nMateriais:  a mão decepada de uma criança\nEste ritual começa uma peste em uma vila ou cidade.\nA peste atinge seu  ápice em 3d6 meses, e se espalha\ncomo qualquer peste não mágica. Medidas de prevenção\npodem diminuir os efeitos da peste. Uma praga pode matar\naté dez por cento de toda uma população. O uso deste ritual\n(ou mesmo sua possessão) é passivel de punição  pelo\nArkanun Arcanorum. As primeiras versões deste ritual fo-\nram desenvolvidas pelos discípulos de Mathias Szackmary.\nPó ao pó"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        16
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:peste",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-portal-para-metropolis",
+      "name": "Portal para Metrópolis",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 16,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 10 pts\nTempo de Conjuração: alguns minutos\nMateriais: um altar, espada e cálice. Nove velas feitas de\ngordura de criança ou animal\nEste ritual permite ao mago romper por um curto perí-\nodo de tempo a barreira interdimensional que separa a Terra\nde Paradísia. Durante este período, o mago e mais duas\npessoas podem permanecer em Paradísia (mais especifica-\nmente na cidade de Metrópolis). Este é um ritual perigoso,\npois o mago fica sujeito a qualquer dano ou criatura que\nencontrar em metrópolis. O ritual pode variar de alguns\nminutos a várias horas  (máximo de 24 horas).\n1 7"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        16,
+        17
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:portal-para-metropolis",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-regeneracao",
+      "name": "Regeneração",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 17,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 7 pts\nTempo de Conjuração: 6 horas\nMateriais: um corpo recém falecido\nPara realizar este ritual, o mago deve conseguir um cadáver\nmais ou menos do seu tamanho. Em seguida, deve colocar o\ncorpo sobre uma mesa de pedra e abrir o peito do homem\ncom uma adaga  especial. Depois, deve enterrar a parte a ser\nregenerada na cavidade aberta. O ritual demora cerca de 6 horas,\ne consome todos os pontos de magia do mago (no mínimo\n7). Durante esse tempo, os órgãos internos e ossos da vítima\nirão se dissolver e se converter na matéria prima  que constituirá\no novo orgão do mago (mão, braço, etc).\nAo final desse tempo, o mago retirará  o braço do interi-\nor deteriorado da vítima, e o braço sempre voltará com si-\nnais de Arkanun (chifres, pele avermelhada, manchas, runas,\nbolhas, escamas ou outros sinais característicos)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        17
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:regeneracao",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-sellas-locum",
       "name": "Sellas locum",
       "area": "rituais",
       "category": "ritual_spell",
@@ -15,17 +790,162 @@
       "sourceTitle": "Alastores - A Justiça Infernal",
       "page": 37,
       "entries": [
-        "Ritual Alastor usado para restringir acesso ou passagem conforme descrito na secao de rituais."
+        "(Entender/Controlar/Arkanun 3).\nCusto: Variável (conforme o\ntamanho da área a ser selada).\nTempo de Conjuração: 5 turnos.\nMateriais: carvão, sangue do\nconjurador.\nO Ritual Alastor muito conhecido\nno Inferno, utilizado para isolar\numa determinada área, permitindo\no acesso somente para aqueles de\nposse do Olho de Satã. O Demônio,\npostado no centro da área, desenha\no Olho Alastor, e em seguida goteja\nseu sangue sobre o mesmo. Toda\ncriatura que tentar transpassar a\nárea, deverá sem bem sucedida em\numa disputa de WILLXWILL do\nAlastor + quantidade de sangue\nimbuindo no ritual."
       ],
       "tags": [
-        "alastores",
-        "proteção",
+        "auto-extraido",
+        "certificado",
+        "invocacao",
         "rituais",
         "ritual",
         "ritual_spell"
       ],
-      "confidence": 0.78,
-      "extractionMethod": "manual-pass-1"
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        37
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:sellas-locum",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-book-part,ritual-term"
+    },
+    {
+      "id": "ritual-rituais-transformacao-em-lich",
+      "name": "Transformação em Lich",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 11,
+      "entries": [
+        "Criar / Controlar / Entender Trevas / Espíritos / Humanos / Metamagia 14 (12)\nAntes de começar a descrever o ritual vou descrever\no que é um lich segue:\nLich é um poderosíssimo usuário de magia que\nconseguiu a vida eterna se transformando em morto-\nvivo através de um ritual específico (este ritual), mas\npreservando sua humanidade, seus conhecimentos e\nprincipalmente mantendo seus poderes e ganhando\nnovos...\nMaterial Necessário: Um amuleto e um punhal\njá trabalhados e preparados para suas devidas\nfunções (Criar / Controlar Trevas / Espíritos /\nMetamagia 1 e Criar / Controlar Trevas /\nEspíritos / Humanos 1 respectivamente) ambos à\ngosto do necromante; um templo ou laboratório\npróprio para este fim; velas (definido tipo, tamanho e\nquantidade pelo mestre); além de uma donzela (mulher\ncom mais de 16 anos virgem (não me pergunte como\nele vai descobrir isso!!)), velas.\nUm dos mais poderosos e demorados rituais de todos\nos tempos, tem por objetivo transformar um\nportador de magia em um morto-vivo, mas de maneira\nque não perca sua humanidade (entenda Carisma,\nInteligência e Força de Vontade), e nem sua\nconsciência e lembranças, além de passar a possuir\ntodas as vantagens em ser um morto-vivo (não\nprecisa comer ou beber, dormir, respirar, são imunes à\nqualquer veneno, doença ou magia que afete\nAPENAS a mente), ele continua com seus\nconhecimentos (poderes mágicos) e habilidades\n(perícias) de quando mortal.\nO ritual consiste do seguinte (está super resumido, o\nmestre deve acrescentar tudo o que achar que for\nnecessário, e futuramente sairá uma versão revisada e\nampliada deste material, interessado me mandem um\ne-mail):\nO necromante deve preparar o local com PELO"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "necromancia",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        11,
+        12
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:transformacao-em-lich",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-troca-de-vida",
+      "name": "Troca de Vida",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 19,
+      "entries": [
+        "Apenas por Ritual.\nCusto:  15 pts\nTempo de Conjuração: alguns minutos\nMateriais: uma vela\nEste é considerado um dos mais difíceis rituais que um\nmago pode realizar, apesar de sua simplicidade. Com ele, o\nmago pode oferecer ao Spiritum sua própria vida, em troca\nda vida de uma outra pessoa. O corpo deve estar presente, e\nnão importa  há quanto tempo tenha morrido, desde que\ntodos os ossos estejam presente. O mago acende a vela e\nrecita os versos do ritual. Conforme a vela for queimando, a\nvida deixará o corpo do mago, e quando a vela apagar, o\nmago morrerá e a vítima voltará a viver.\nEste ritual não funciona caso o espírito da vítima não\npossa ser contactado (se ela estiver presa a um pacto, captu-\nrada, ou não quiser retornar ao mundo dos vivos). O mago,\nentão, sofre 3d6 pontos de dano, e nada acontece."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        19
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:troca-de-vida",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
+    },
+    {
+      "id": "ritual-rituais-vida-em-morte",
+      "name": "Vida em Morte",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "page": 13,
+      "entries": [
+        "Controlar / Entender Trevas / Humanos 1 +\nEsta magia raramente é vista, pois ela requer que o\nmago se auto flagele para que ela seja realizada com\nsucesso (normalmente com uma adaga), Tem um\ncusto de 1 pm e 1 pv por focus utilizado, e causa\n3pontos de dano por focus utilizado que ignoram\nquaisquer proteções e ou Ip. Clérigos e Paladinos de\nDeuses não-malignos jamais podem utilizar-se deste\nritual ou aprende-lo.\nEste ritual pode ser utilizado para causar dano em\nplantas e animais (substitui-se o Humanos pelo\nequivalente), afeta monstros e alguns seres\nsobrenaturais,\nQualquer dúvida me mande um e-mail:\nsabiaramone@yahoo.com.br ."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        13
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:vida-em-morte",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "dedicated-ritual-source,ritual-term"
+    },
+    {
+      "id": "ritual-grimark201-visoes-do-passado",
+      "name": "Visões do Passado",
+      "area": "rituais",
+      "category": "ritual_spell",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 20,
+      "entries": [
+        "Apenas por Ritual.\nCusto: 5 pts\nTempo de Conjuração: 3 rodadas\nMateriais: Um braseiro de ouro, uma bola de cristal,\nervas alucinógenas.\nEste ritual permite ao mago vislumbrar cenas do passado\nde uma pessoa escolhida. O ritual requer uma bola de cristal e\num braseiro, além de ervas especiais que devem ser ingeridas\npelo mago antes de realizar o feitiço.  O ritual consome 5\npontos de magia por tentativa, e funciona desta maneira: O\nbraseiro é aceso sob a bola de cristal, e a fumaça forma imagens\nque o mago é capaz de interpretar como acontecimentos ocor-\nridos no passado.  O limite para este ritual e a quantidade de\ndetalhes descobertos ficam a cargo do mestre.\nDemônios ou Anjos muito poderosos podem  modi-\nficar ou neutralizar o que um mago bisbilhoteiro está enxer-\ngando, se assim desejarem."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "invocacao",
+        "rituais",
+        "ritual",
+        "ritual_spell"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-ritual-heading-pass-1",
+      "subtype": "ritual",
+      "pages": [
+        20
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "ritual",
+      "certifiedArea": "rituais",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:visoes-do-passado",
+      "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
+      "ritualContext": "ritual-term"
     }
   ],
   "sourceParts": [

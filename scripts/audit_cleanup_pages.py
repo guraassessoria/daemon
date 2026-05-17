@@ -11,7 +11,7 @@ from common import INDEX_DIR, ROOT, TEXT_DIR, write_json
 from text_quality_report import split_pages
 
 
-DOCS_DIR = ROOT / "docs"
+DOCS_DIR = ROOT / "docs" / "reports" / "manual-review"
 MANUAL_INDEX = DOCS_DIR / "manual-review-index.md"
 REPORT_JSON = INDEX_DIR / "cleanup-sources-page-audit.json"
 REPORT_MD = DOCS_DIR / "cleanup-sources-page-audit.md"
@@ -273,6 +273,7 @@ def write_markdown(summary: dict, results: list[dict]) -> None:
                 )
             lines.append("")
 
+    REPORT_MD.parent.mkdir(parents=True, exist_ok=True)
     REPORT_MD.write_text("\n".join(lines), encoding="utf-8")
 
 

@@ -10,7 +10,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 TEXT_DIR = DATA_DIR / "text"
 BOOKS_DATA_DIR = DATA_DIR / "books"
 ENTITIES_DIR = DATA_DIR / "entities"
-REPORTS_DIR = ROOT / "docs"
+REPORTS_DIR = ROOT / "docs" / "reports" / "granular"
 
 PAGE_RE = re.compile(r"^--- page (\d+) ---$")
 

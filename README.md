@@ -13,7 +13,9 @@ O 5e.tools organiza conteudo de RPG como entidades filtraveis, com busca, filtro
 - `data/entities/`: entidades extraidas e normalizadas.
 - `data/areas/`: camada navegavel por areas, combinando entidades curadas e partes dos livros.
 - `data/text/`: texto bruto extraido dos livros, ignorado pelo Git.
-- `docs/`: site estatico do GitHub Pages, analise, modelo de dados e decisoes.
+- `docs/`: site estatico do GitHub Pages.
+- `docs/reference/`: notas de arquitetura e modelo de dados.
+- `docs/reports/`: relatorios de auditoria, certificacao, extracao granular e revisao manual.
 - `schemas/`: JSON Schemas para validar entidades.
 - `scripts/`: automacoes de inventario, extracao e categorizacao.
 
@@ -78,6 +80,64 @@ Para publicar no GitHub:
   ```
 
 O site usa apenas HTML, CSS, JavaScript e JSON estatico em `docs/assets/data/`.
+
+## Qualidade e validacao
+
+Instale as dependencias de desenvolvimento para rodar os testes locais:
+
+```powershell
+python -m pip install -r requirements.txt
+python -m pip install -r requirements-dev.txt
+```
+
+Comandos principais de verificacao:
+
+```powershell
+python -m pytest -q
+python scripts/validate_data.py
+python scripts/check_book_coverage.py
+```
+
+Antes de enviar mudancas de dados para o GitHub Pages, reconstrua o catalogo e os JSONs publicados:
+
+```powershell
+python scripts/build_area_catalog.py
+python scripts/build_github_pages_site.py
+```
+
+O workflow `Validate data` executa testes, validacao dos JSONs, cobertura dos livros, rebuild do catalogo e verifica se `data/areas`, `data/index/area-summary.json` e `docs/assets/data` ficaram sincronizados.
+
+## Atualizacao apos editar `data/text/`
+
+O site nao le `data/text/*.txt` diretamente. Quando um texto bruto for corrigido manualmente, use a rotina de sincronizacao para detectar os arquivos alterados e reconstruir as dependencias:
+
+```powershell
+python scripts/update_from_text_changes.py
+```
+
+Na primeira vez, ou quando quiser apenas criar uma linha de base sem reconstruir nada:
+
+```powershell
+python scripts/update_from_text_changes.py --init
+```
+
+Para deixar a rotina observando alteracoes enquanto voce edita:
+
+```powershell
+python scripts/update_from_text_changes.py --watch
+```
+
+Por padrao, a rotina atualiza `data/books`, `data/entities/source.json`, `data/areas` e `docs/assets/data`. Se a correcao no texto precisa atualizar tambem entidades certificadas como aprimoramentos, kits, racas, linhagens, poderes ou magias, rode:
+
+```powershell
+python scripts/update_from_text_changes.py --granular
+```
+
+Rituais ainda ficam separados; para incluir essa passada junto da granular:
+
+```powershell
+python scripts/update_from_text_changes.py --granular --include-rituais
+```
 
 ## Regra de leitura
 

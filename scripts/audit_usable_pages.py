@@ -10,7 +10,7 @@ from text_quality_report import split_pages
 
 
 REPORT_JSON = INDEX_DIR / "usable-sources-page-coherence-after-easy-cleanup.json"
-REPORT_MD = Path("docs") / "usable-sources-page-coherence-after-easy-cleanup.md"
+REPORT_MD = Path("docs") / "reports" / "manual-review" / "usable-sources-page-coherence-after-easy-cleanup.md"
 
 
 def load_sources() -> dict[str, dict]:
@@ -153,6 +153,7 @@ def write_markdown(summary: dict, results: list[dict]) -> None:
         lines.append(f"- `{row['id']}`: {len(note_pages)} note page(s): {pages}")
     lines.append("")
 
+    REPORT_MD.parent.mkdir(parents=True, exist_ok=True)
     REPORT_MD.write_text("\n".join(lines), encoding="utf-8")
 
 

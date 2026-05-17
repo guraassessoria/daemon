@@ -8,7 +8,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 
 TEXT_DIR = DATA_DIR / "text"
 ENTITIES_DIR = DATA_DIR / "entities"
-REPORTS_DIR = ROOT / "docs"
+REPORTS_DIR = ROOT / "docs" / "reports" / "granular"
 
 PAGE_RE = re.compile(r"^--- page (\d+) ---$")
 
@@ -319,6 +319,7 @@ def main() -> None:
     for item in per_source:
         lines.append(f"| `{item['source']}` | {item['extractedCount']} |")
     lines.append("")
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
     (REPORTS_DIR / "granular-classes-pass-001.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Published {len(entities)} granular classes from {len(per_source)} sources.")
 

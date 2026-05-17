@@ -1,5 +1,10 @@
 data/text/
 data/work/
+/data/exports/
+/data/livros/
+data/index/text-change-state.json
+/reports/
+.pytest_cache/
 *.tmp
 *.log
 .venv/

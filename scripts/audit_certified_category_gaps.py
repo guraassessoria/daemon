@@ -9,7 +9,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 
 BOOKS_DATA_DIR = DATA_DIR / "books"
 WORK_DIR = DATA_DIR / "work"
-DOCS_DIR = ROOT / "docs"
+DOCS_DIR = ROOT / "docs" / "reports" / "audits"
 
 AREAS = {
     "aprimoramentos": {
