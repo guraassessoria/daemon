@@ -7,59 +7,9 @@
     "uncertified_class_claims_do_not_enter_classes": true,
     "certified_kits_and_aprimoramentos_are_not_reclassified_as_classes": true
   },
-  "certifiedCount": 20,
+  "certifiedCount": 12,
   "rejectedCount": 0,
   "records": [
-    {
-      "id": "classe-gerador-de-criaturas-mestre-das-feras",
-      "source": "gerador-de-criaturas",
-      "name": "Mestre das Feras",
-      "nameKey": "mestre-das-feras",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:gerador-de-criaturas:mestre-das-feras"
-    },
-    {
-      "id": "classe-gerador-de-criaturas-cacador",
-      "source": "gerador-de-criaturas",
-      "name": "Caçador",
-      "nameKey": "cacador",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:gerador-de-criaturas:cacador"
-    },
-    {
-      "id": "classe-gerador-de-criaturas-convocador",
-      "source": "gerador-de-criaturas",
-      "name": "Convocador",
-      "nameKey": "convocador",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:gerador-de-criaturas:convocador"
-    },
-    {
-      "id": "classe-gerador-de-criaturas-imitador",
-      "source": "gerador-de-criaturas",
-      "name": "Imitador",
-      "nameKey": "imitador",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:gerador-de-criaturas:imitador"
-    },
-    {
-      "id": "classe-gerador-de-criaturas-mestre-da-transformacao",
-      "source": "gerador-de-criaturas",
-      "name": "Mestre da Transformação",
-      "nameKey": "mestre-da-transformacao",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:gerador-de-criaturas:mestre-da-transformacao"
-    },
     {
       "id": "classe-abismo-infinito-quick-start-astrogeologo",
       "source": "abismo-infinito-quick-start",
@@ -159,36 +109,6 @@
       "subtype": "class",
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:videomaker"
-    },
-    {
-      "id": "classe-demonios-a-divina-comedia-exorcista-de-roma",
-      "source": "demonios-a-divina-comedia",
-      "name": "Exorcista de Roma",
-      "nameKey": "exorcista-de-roma",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-roma"
-    },
-    {
-      "id": "classe-demonios-a-divina-comedia-exorcista-de-espanhol",
-      "source": "demonios-a-divina-comedia",
-      "name": "Exorcista de Espanhol",
-      "nameKey": "exorcista-de-espanhol",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-espanhol"
-    },
-    {
-      "id": "classe-demonios-a-divina-comedia-exorcista-de-constantinopla",
-      "source": "demonios-a-divina-comedia",
-      "name": "Exorcista de Constantinopla",
-      "nameKey": "exorcista-de-constantinopla",
-      "category": "character_class",
-      "subtype": "class",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:demonios-a-divina-comedia:exorcista-de-constantinopla"
     },
     {
       "id": "classe-monges-daemon-monge",

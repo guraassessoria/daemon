@@ -1,33 +1,33 @@
 {
   "version": 1,
   "readySourceCount": 190,
-  "areaCount": 15,
-  "entityCount": 712,
+  "areaCount": 17,
+  "entityCount": 1403,
   "sourcePartCount": 1544,
   "areas": [
     {
       "id": "fontes",
       "name": "Fontes",
       "entityCount": 0,
-      "sourcePartCount": 33
+      "sourcePartCount": 28
     },
     {
       "id": "regras_base",
       "name": "Regras Base",
-      "entityCount": 1,
-      "sourcePartCount": 47
+      "entityCount": 4,
+      "sourcePartCount": 41
     },
     {
       "id": "atributos_pericias",
       "name": "Atributos e Pericias",
-      "entityCount": 3,
-      "sourcePartCount": 88
+      "entityCount": 2,
+      "sourcePartCount": 74
     },
     {
       "id": "combate",
       "name": "Combate",
       "entityCount": 4,
-      "sourcePartCount": 150
+      "sourcePartCount": 121
     },
     {
       "id": "aprimoramentos",
@@ -38,62 +38,74 @@
     {
       "id": "kits",
       "name": "Kits",
-      "entityCount": 178,
+      "entityCount": 191,
       "sourcePartCount": 0
     },
     {
       "id": "classes",
       "name": "Classes",
-      "entityCount": 20,
+      "entityCount": 12,
       "sourcePartCount": 0
     },
     {
       "id": "racas",
-      "name": "Racas e Linhagens",
-      "entityCount": 6,
-      "sourcePartCount": 227
+      "name": "Racas",
+      "entityCount": 47,
+      "sourcePartCount": 0
     },
     {
-      "id": "poderes_magias",
-      "name": "Poderes e Magias",
-      "entityCount": 3,
-      "sourcePartCount": 260
+      "id": "linhagens",
+      "name": "Linhagens",
+      "entityCount": 70,
+      "sourcePartCount": 0
+    },
+    {
+      "id": "poderes",
+      "name": "Poderes",
+      "entityCount": 358,
+      "sourcePartCount": 0
+    },
+    {
+      "id": "magias",
+      "name": "Magias",
+      "entityCount": 217,
+      "sourcePartCount": 0
     },
     {
       "id": "rituais",
       "name": "Rituais",
       "entityCount": 1,
-      "sourcePartCount": 73
+      "sourcePartCount": 60
     },
     {
       "id": "itens_equipamentos",
       "name": "Itens e Equipamentos",
       "entityCount": 3,
-      "sourcePartCount": 100
+      "sourcePartCount": 80
     },
     {
       "id": "criaturas_npcs",
       "name": "Criaturas e NPCs",
-      "entityCount": 17,
-      "sourcePartCount": 220
+      "entityCount": 18,
+      "sourcePartCount": 169
     },
     {
       "id": "cenarios_lore",
       "name": "Cenarios e Lore",
-      "entityCount": 9,
-      "sourcePartCount": 18
+      "entityCount": 11,
+      "sourcePartCount": 11
     },
     {
       "id": "aventuras",
       "name": "Aventuras",
-      "entityCount": 14,
-      "sourcePartCount": 62
+      "entityCount": 12,
+      "sourcePartCount": 44
     },
     {
       "id": "tabelas",
       "name": "Tabelas e Geradores",
       "entityCount": 0,
-      "sourcePartCount": 3
+      "sourcePartCount": 2
     }
   ],
   "readySources": [

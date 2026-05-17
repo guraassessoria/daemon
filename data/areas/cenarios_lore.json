@@ -3,8 +3,8 @@
   "id": "cenarios_lore",
   "name": "Cenarios e Lore",
   "readySourceCount": 190,
-  "entityCount": 9,
-  "sourcePartCount": 18,
+  "entityCount": 11,
+  "sourcePartCount": 11,
   "entities": [
     {
       "id": "alastores",
@@ -22,9 +22,33 @@
         "cenarios_lore",
         "inferno",
         "organizacao",
+        "racas",
         "setting_lore"
       ],
       "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "autoctonia",
+      "name": "Autoctonia",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "page": 6,
+      "entries": [
+        "Planeta/cenario central observado pela tripulacao em Abismo Infinito.",
+        "Associado a exploracao espacial, colonizacao e horror cosmico."
+      ],
+      "tags": [
+        "ambientacao",
+        "cenarios_lore",
+        "horror-espacial",
+        "planeta",
+        "racas",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -42,6 +66,7 @@
         "cenarios_lore",
         "culto",
         "organizacao",
+        "racas",
         "setting_lore",
         "trevas"
       ],
@@ -112,6 +137,28 @@
       "extractionMethod": "manual-pass-1"
     },
     {
+      "id": "abismo-plano",
+      "name": "O Abismo",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 14,
+      "entries": [
+        "Plano/regiao cosmologica de horror e prisao/abrigo das forcas de Tenebras, detalhado em geografia, montanhas, cultos e criaturas."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "cosmologia",
+        "horror",
+        "plano",
+        "racas",
+        "setting_lore"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
       "id": "postos-de-vigilia",
       "name": "Postos de Vigilia",
       "area": "cenarios_lore",
@@ -126,6 +173,7 @@
         "abismo",
         "cenarios_lore",
         "local",
+        "racas",
         "setting_lore",
         "vigilancia"
       ],
@@ -168,6 +216,7 @@
         "cenarios_lore",
         "cosmologia",
         "plano",
+        "racas",
         "setting_lore",
         "trevas"
       ],
@@ -189,6 +238,7 @@
         "animalidade",
         "cenarios_lore",
         "fera",
+        "linhagens",
         "setting_lore",
         "umbral"
       ],
@@ -241,40 +291,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "abismo--abismo-cantos-escuros-terra",
-      "name": "Capitulo V: Os Cantos Escuros da Terra",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "abismo",
-      "sourceTitle": "Abismo",
-      "pages": [
-        [
-          104,
-          146
-        ]
-      ],
-      "page": null,
-      "summary": "Cultos, hierarquia, sacerdote terreno, bases de culto, forcas de Tenebras, pactos, sociedades secretas e cultos tenebrianos pelo mundo.",
-      "entityRefs": [
-        "cultos-de-tenebras",
-        "sacerdote-terreno",
-        "pacto-da-alma",
-        "culto-da-serpente-mae",
-        "circulo-dos-invocadores",
-        "escravos-do-alem-trevas",
-        "igreja-da-libertacao-das-almas",
-        "igreja-da-virgem-salvadora",
-        "o-lar",
-        "quinquagesimo-terceiro-culto"
-      ],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "alastores-a-justica-infernal--alastores-jurisprudencia-infernal",
       "name": "Jurisprudencia Infernal",
       "area": "cenarios_lore",
@@ -293,30 +309,6 @@
         "jurisprudencia-infernal",
         "templarios-caidos",
         "cainismo-infernal"
-      ],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "alastores-a-justica-infernal--alastores-introducao",
-      "name": "Introducao",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "alastores-a-justica-infernal",
-      "sourceTitle": "Alastores - A Justica Infernal",
-      "pages": [
-        5
-      ],
-      "page": 5,
-      "summary": "Explica o conceito dos Alastores como casa infernal de cacadores de fugitivos do Orco e sua relacao com Auxiliares e Templo de Set.",
-      "entityRefs": [
-        "alastores",
-        "auxiliares",
-        "templo-de-set"
       ],
       "tags": [
         "cenarios_lore",
@@ -371,66 +363,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "imortal-a-centelha--imortal-a-centelha-neperari-18",
-      "name": "Neperari",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        18
-      ],
-      "page": 18,
-      "summary": "Neperari Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Origem e História Na mitologia egípcia, Nepri (também chamado de Nepra ou Neper) era uma divindade andrógina dos grãos, valiosa mercadoria do Antigo Egito, que enfrentou a fome sem eles. Seu nome simplesmente significa \"senhor da boca\", uma referência à funçã...",
-      "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "onmyodo--onmyodo-trevas-do-1",
-      "name": "Trevas do",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "onmyodo",
-      "sourceTitle": "Onmyodo",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Trevas do Oriente ONMYODO HENRIQUE “MORCEGO” SANTOS",
-      "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "oriente-cronologia--oriente-cronologia-trevas-do-1",
-      "name": "Trevas do",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "oriente-cronologia",
-      "sourceTitle": "Oriente_Cronologia",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Trevas do Oriente Cronologia HENRIQUE “MORCEGO” SANTOS",
-      "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "oriente-cronologia--oriente-cronologia-agradecimentos-3",
       "name": "AGRADECIMENTOS",
       "area": "cenarios_lore",
@@ -442,26 +374,6 @@
       ],
       "page": 3,
       "summary": "AGRADECIMENTOS - Aos meus pais, que sempre me incentivaram ao prazer da leitura e nunca condenaram minha curiosidade extrema... - Aos meus queridos Jogadores, que me aguentam como Mestre desde 1996 (em especial o Tico, o Rodrigo AIDS, o Ruffles, o Dalton, o Renato, os primos Luiz, William e Gabriel e meu irmão César). - Às Musas que inspiraram o Marcelo Del...",
-      "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-trevas-do-1",
-      "name": "Trevas do",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "trevas-do-oriente-28-palacios",
-      "sourceTitle": "Trevas do oriente - 28 Palácios",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Trevas do Oriente OS 28 PALACIOS LUNARES HENRIQUE “MORCEGO” SANTOS",
       "entityRefs": [],
       "tags": [
         "cenarios_lore",
@@ -543,29 +455,6 @@
       "page": 3,
       "summary": "A Umbra Domini Na noite de 26 de junho de 1952,o papa Pio XII assinou a bula autorizando a criação de um pequeno grupo de elite, composto pelos melhores soldados da Guarda Suíça, para investigar crimes ou eventos considerados de grande importância para a religião Católica. Originalmente, o Umbra Domini compunha-se de membros da Inquisição, auxiliados pelos m...",
       "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "animalidade--animalidade-cultura-umbral-leis",
-      "name": "Cultura, costumes, leis e Umbral",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "animalidade",
-      "sourceTitle": "animalidade",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "Apresenta cultura e costumes dos Feras, leis, relacao com o Umbral e praticas como adentrar no Umbral, criar dominio e chamado do espirito anciao.",
-      "entityRefs": [
-        "umbral-dos-feras",
-        "leis-dos-feras"
-      ],
       "tags": [
         "cenarios_lore",
         "setting_lore"

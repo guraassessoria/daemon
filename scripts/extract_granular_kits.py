@@ -14,7 +14,7 @@ REPORTS_DIR = ROOT / "docs"
 
 PAGE_RE = re.compile(r"^--- page (\d+) ---$")
 KIT_TERM_RE = re.compile(r"\bkits?\b|kits?\s+de\s+personagem|novos\s+kits", re.IGNORECASE)
-COST_RE = re.compile(r"\bCusto\s*:", re.IGNORECASE)
+COST_RE = re.compile(r"\bCustos?\s*:|\bCusto em pontos de Aprimoramento\s*:", re.IGNORECASE)
 KIT_LABEL_RE = re.compile(r"^Kit\s*:\s*(?P<name>.+?)\s*$", re.IGNORECASE)
 KIT_COST_RE = re.compile(
     r"Custo\s*:\s*(?P<cost>.*?)(?=\bPer[iÃ­]cias\s*:|\bPercias\s*:|\bAprimoramentos\s*:|\bPontos\b|$)",
@@ -26,6 +26,15 @@ SKILLS_RE = re.compile(
 )
 OPTIONS_RE = re.compile(
     r"Aprimoramentos\s*:\s*(?P<options>.*?)(?=\bPontos de|\bPontos Her[oÃ³]icos|\bPoderes\b|$)",
+    re.IGNORECASE | re.DOTALL,
+)
+
+KIT_COST_RE = re.compile(
+    r"(?:Custos?|Custo em pontos de Aprimoramento)\s*:\s*(?P<cost>.*?)(?=\bPer[iíÃƒÂ­]cias(?:\s+(?:Obrigat[oó]rias|Sugeridas))?\s*:|\bPercias(?:\s+(?:Obrigatorias|Sugeridas))?\s*:|\bAprimoramentos\s*:|\bAtributos Principais\s*:|\bPontos\b|$)",
+    re.IGNORECASE | re.DOTALL,
+)
+SKILLS_RE = re.compile(
+    r"(?:Per[iíÃƒÂ­]cias|Percias)(?:\s+(?:Obrigat[oó]rias|Obrigatorias|Sugeridas))?\s*:\s*(?P<skills>.*?)(?=\bAprimoramentos\s*:|\bPontos de|\bPoderes\b|\bB[oô]nus de Treino\b|$)",
     re.IGNORECASE | re.DOTALL,
 )
 
@@ -307,6 +316,96 @@ def extract_from_lines(source_id: str, source_title: str, lines: list[Line], kit
     return entities
 
 
+def lines_for_pages(lines: list[Line], start: int, end: int) -> list[Line]:
+    return [line for line in lines if start <= line.page <= end]
+
+
+def find_heading_indices(lines: list[Line], names: list[str]) -> list[tuple[str, int]]:
+    normalized_names = {slugify(name): name for name in names}
+    matches: list[tuple[str, int]] = []
+    for index, line in enumerate(lines):
+        key = slugify(line.text)
+        if key in normalized_names:
+            matches.append((normalized_names[key], index))
+    return matches
+
+
+def build_classlike_kit(source_id: str, source_title: str, name: str, chunk: list[Line], confidence: float) -> dict[str, Any] | None:
+    if len(chunk) < 3:
+        return None
+    body = "\n".join(line.text for line in chunk[1:]).strip()
+    if not COST_RE.search(body):
+        return None
+    cost = extract_field(KIT_COST_RE, body, "cost")
+    skills = extract_field(SKILLS_RE, body, "skills")
+    options = extract_field(OPTIONS_RE, body, "options")
+    pages = sorted({line.page for line in chunk if line.page})
+    entity: dict[str, Any] = {
+        "id": f"kit-{source_id}-{slugify(name)}",
+        "name": name,
+        "category": "kit_class",
+        "subtype": "kit",
+        "source": source_id,
+        "sourceTitle": source_title,
+        "page": pages[0] if pages else None,
+        "pages": pages,
+        "entries": [body],
+        "tags": tag_from_text(name, body),
+        "confidence": confidence,
+        "extractionMethod": "auto-kit-classlike-pass-1",
+        "kitContext": "classlike-kit,source-specific",
+    }
+    entity.update(extract_cost_numbers(cost))
+    if skills:
+        entity["skillsText"] = skills
+    if options:
+        entity["aprimoramentosText"] = options
+    return entity
+
+
+def extract_gerador_classlike_kits(source_lookup: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    source_id = "gerador-de-criaturas"
+    text_path = TEXT_DIR / f"{source_id}.txt"
+    if not text_path.exists():
+        return []
+    source_title = source_lookup.get(source_id, {}).get("title", "Gerador de criaturas")
+    lines = lines_for_pages(split_lines_by_page(text_path.read_text(encoding="utf-8", errors="ignore")), 99, 110)
+    names = ["Mestre das Feras", "Caçador", "Convocador", "Imitador", "Mestre da Transformação"]
+    headings = find_heading_indices(lines, names)
+    entities: list[dict[str, Any]] = []
+    for pos, (name, start) in enumerate(headings):
+        end = headings[pos + 1][1] if pos + 1 < len(headings) else len(lines)
+        entity = build_classlike_kit(source_id, source_title, name, lines[start:end], 0.82)
+        if entity:
+            entities.append(entity)
+    return entities
+
+
+def extract_demonios_classlike_kits(source_lookup: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    source_id = "demonios-a-divina-comedia"
+    text_path = TEXT_DIR / f"{source_id}.txt"
+    if not text_path.exists():
+        return []
+    source_title = source_lookup.get(source_id, {}).get("title", "Demônios - A Divina Comédia")
+    lines = lines_for_pages(split_lines_by_page(text_path.read_text(encoding="utf-8", errors="ignore")), 104, 105)
+    names = ["EXORCISTA DE ROMA", "EXORCISTA DE ESPANHOL", "EXORCISTA DE CONSTANTINOPLA"]
+    headings = find_heading_indices(lines, names)
+    stat_headings: list[tuple[str, int]] = []
+    for name, index in headings:
+        lookahead = " ".join(line.text for line in lines[index:index + 8])
+        if re.search(r"Tempo de aprendizado|Custos?", lookahead, flags=re.IGNORECASE):
+            stat_headings.append((name.title().replace(" De ", " de "), index))
+    all_heading_indices = [index for _, index in headings]
+    entities: list[dict[str, Any]] = []
+    for name, start in stat_headings:
+        next_indices = [index for index in all_heading_indices if index > start]
+        end = next_indices[0] if next_indices else len(lines)
+        entity = build_classlike_kit(source_id, source_title, name, lines[start:end], 0.8)
+        if entity:
+            entities.append(entity)
+    return entities
+
+
 def main() -> None:
     area_summary = read_json(INDEX_DIR / "area-summary.json", {})
     ready_sources = set(area_summary.get("readySources", []))
@@ -364,6 +463,23 @@ def main() -> None:
         entities = extract_from_lines(source_id, title, selected, context)
         all_entities.extend(entities)
         per_source.append({"source": source_id, "candidatePages": sorted(pages), "context": context, "extractedCount": len(entities)})
+
+    for source_id, extractor in [
+        ("gerador-de-criaturas", extract_gerador_classlike_kits),
+        ("demonios-a-divina-comedia", extract_demonios_classlike_kits),
+    ]:
+        if source_id not in ready_sources:
+            continue
+        entities = extractor(source_lookup)
+        all_entities.extend(entities)
+        per_source.append(
+            {
+                "source": source_id,
+                "candidatePages": sorted({page for entity in entities for page in entity.get("pages", [])}),
+                "context": "classlike-kit,source-specific",
+                "extractedCount": len(entities),
+            }
+        )
 
     write_json(ENTITIES_DIR / "kit_class_granular.json", all_entities)
     write_json(DATA_DIR / "work" / "granular-kits-review.json", [])

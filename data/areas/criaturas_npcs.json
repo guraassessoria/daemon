@@ -3,9 +3,31 @@
   "id": "criaturas_npcs",
   "name": "Criaturas e NPCs",
   "readySourceCount": 190,
-  "entityCount": 17,
-  "sourcePartCount": 220,
+  "entityCount": 18,
+  "sourcePartCount": 169,
   "entities": [
+    {
+      "id": "acorrentados",
+      "name": "Acorrentados",
+      "area": "criaturas_npcs",
+      "category": "creature_npc",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 93,
+      "entries": [
+        "Seres vinculados a fragmentos ou forcas de criaturas das trevas, usados como antagonistas, avatares ou focos de campanha."
+      ],
+      "tags": [
+        "avatar",
+        "creature_npc",
+        "criatura",
+        "criaturas_npcs",
+        "racas",
+        "tenebras"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
     {
       "id": "animais-supers",
       "name": "Animais de SUPERS",
@@ -68,6 +90,28 @@
         "ritual_spell"
       ],
       "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "criaturas-fantasticas-supers",
+      "name": "Criaturas fantasticas de SUPERS",
+      "area": "criaturas_npcs",
+      "category": "creature_npc",
+      "source": "anime-rpg-supers-monstros-e-viloes",
+      "sourceTitle": "Anime RPG - Supers - Monstros e Vilões",
+      "page": 37,
+      "entries": [
+        "Fichas de criaturas fantasticas e sobrenaturais para SUPERS, incluindo arvore animada, chacal guardiao, dragao, elementais, esqueleto, estatua viva, gargula, gigante, golem, homens-animais, kraken, lobisomem, mumia, serpente marinha, vampiro e zumbi."
+      ],
+      "tags": [
+        "bestiario",
+        "creature_npc",
+        "criatura",
+        "criaturas_npcs",
+        "linhagens",
+        "supers"
+      ],
+      "confidence": 0.9,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -192,6 +236,7 @@
         "creature_npc",
         "criaturas_npcs",
         "fera",
+        "linhagens",
         "modelo"
       ],
       "confidence": 0.9,
@@ -220,6 +265,28 @@
         "serial-killer"
       ],
       "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "geistkhalim",
+      "name": "Geistkhalim",
+      "area": "criaturas_npcs",
+      "category": "creature_npc",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 90,
+      "entries": [
+        "Filhos bastardos das trevas, ligados ao conhecimento da Roda dos Mundos e a efeitos perigosos sobre magia, sanidade e realidade."
+      ],
+      "tags": [
+        "antagonista",
+        "creature_npc",
+        "criatura",
+        "criaturas_npcs",
+        "magias",
+        "tenebras"
+      ],
+      "confidence": 0.84,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -306,49 +373,6 @@
         "monstros"
       ],
       "confidence": 0.88,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "abismo-plano",
-      "name": "O Abismo",
-      "area": "criaturas_npcs",
-      "category": "setting_lore",
-      "source": "abismo",
-      "sourceTitle": "Abismo",
-      "page": 14,
-      "entries": [
-        "Plano/regiao cosmologica de horror e prisao/abrigo das forcas de Tenebras, detalhado em geografia, montanhas, cultos e criaturas."
-      ],
-      "tags": [
-        "cosmologia",
-        "criaturas_npcs",
-        "horror",
-        "plano",
-        "setting_lore"
-      ],
-      "confidence": 0.88,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "poderes-exclusivos-ghul",
-      "name": "Poderes exclusivos dos Ghuls",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "alianca-daemon-01",
-      "sourceTitle": "Aliança Daemon 01",
-      "page": 23,
-      "entries": [
-        "Poderes vampiricos dos Ghuls, incluindo transformacoes, sentir criaturas, olhar da morte e Ras'Al-Ghul."
-      ],
-      "tags": [
-        "criaturas_npcs",
-        "ghul",
-        "poder",
-        "poderes_magias",
-        "power_magic",
-        "vampiro"
-      ],
-      "confidence": 0.86,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -563,37 +587,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "anime-rpg-supers-monstros-e-viloes--monstros-viloes-animais",
-      "name": "Animais",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "anime-rpg-supers-monstros-e-viloes",
-      "sourceTitle": "Anime RPG - Supers - Monstros e Viloes",
-      "pages": [
-        [
-          20,
-          30
-        ]
-      ],
-      "page": null,
-      "summary": "Fichas de animais e animais gigantes, incluindo aranha, aranha gigante, baleia, cachorro, carcaju, cavalo, cobras, crocodilos, elefante, escorpio, gato, gorila, javali, leao, leopardo, lobo, morcego, rato, rinoceronte, sapo gigante, tigre, tubarao e urso.",
-      "entityRefs": [
-        "animais-supers",
-        "aranha-gigante",
-        "cobra-venenosa",
-        "crocodilo-marinho",
-        "gorila-gigante",
-        "tubarao",
-        "urso"
-      ],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "anime-rpg-supers-monstros-e-viloes--monstros-viloes-dinossauros",
       "name": "Dinossauros",
       "area": "criaturas_npcs",
@@ -749,54 +742,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "anjos-requiem-de-fe--anjos-requiem-de-fe-capitulo-cinco-ma-88",
-      "name": "Capítulo Cinco: Ma-",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "pages": [
-        [
-          88,
-          125
-        ]
-      ],
-      "page": null,
-      "summary": "88 Capítulo Cinco: Ma- gia 89 A magia é um dos cernes do mundo de Trevas. É uma das razões de a Roda dos Mundos ser tão destrutiva. Cada vez que os habitantes de um mundo aprendem a usar as energias místicas para modificar a realidade, aumentam a velocidade de des- truição do mundo anterior e iniciam a de- cadência em seu próprio. Todo poder mágico existe co...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "anjos-requiem-de-fe--anjos-requiem-de-fe-capitulo-tres-coros-57",
-      "name": "Capítulo Três: Coros",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "pages": [
-        [
-          57,
-          65
-        ]
-      ],
-      "page": null,
-      "summary": "57 Capítulo Três: Coros 58 A Cidade de Prata é profundamente dividida. Os anjos assumem posições es- pecíficas em suas vidas desde a criação. Cada um existe em sua Casta, com uma missão. Cabe a eles, entretanto, decidirem outras partes de seu caminho em especiali- zações denominadas Coros. Esses são gru- pos místicos que se desenvolvem para atender a necessi...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "anjos-requiem-de-fe--anjos-requiem-de-fe-sumario-6",
       "name": "Sumário",
       "area": "criaturas_npcs",
@@ -815,30 +760,6 @@
       "tags": [
         "attribute_skill",
         "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-3-22",
-      "name": "Capítulo 3",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "anjos-jyhad-faces-da-fe",
-      "sourceTitle": "Anjos Jyhad - Faces da Fé",
-      "pages": [
-        [
-          22,
-          23
-        ]
-      ],
-      "page": null,
-      "summary": "Capítulo 3 Religião e Magia As três religiões monoteístas não possuem uma boa relação com a magia. Nenhuma ordem mágica é considerada um aliado ofi cial des- sas religiões. Os grupos fundamen- talistas são praticamente isentos de contato sadio com os praticantes de magia, acatando o Arkanun Ar- canorum sem piedade. Obviamen- te, isso não impede que religioso...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
@@ -947,26 +868,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-protestantismo-6",
-      "name": "Protestantismo",
-      "area": "criaturas_npcs",
-      "category": "setting_lore",
-      "source": "anjos-jyhad-faces-da-fe",
-      "sourceTitle": "Anjos Jyhad - Faces da Fé",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "Protestantismo Os Cavaleiros Teutônicos Houve um tempo em que os teutônicos lutaram pela fé católi- ca. Eles participaram das cruzadas e depois usaram da força em lutas violentas e massacres na Lituânia e na Livônia. Quando seu grão- mestre fi nalmente se converteu para o protestantismo, a ordem acabou para o mundo, desapa- recendo nas sombras para se transf...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "setting_lore"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1213,29 +1114,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "anjos-cacadores-alados--anjos-cacadores-alados-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "criaturas_npcs",
-      "category": "item_equipment",
-      "source": "anjos-cacadores-alados",
-      "sourceTitle": "Anjos cacadores-alados",
-      "pages": [
-        [
-          1,
-          22
-        ]
-      ],
-      "page": null,
-      "summary": "1 2 Caçadores Alados Caçadores Alados Caçadores Alados Caçadores Alados E-book de autoria dos usuários do Fórum Daemon, em especial: Hatalíbio “Dr. H” Almeida, Henrique “Morcego” Santos, Lord Maihelkash, Fire Dragon, Helix, Mikh e Alex Tadeu. 1ª Edição Daemon Editora/Fórum Daemon Email: henrique_morcego@hotmail.com hatalibio@hotmail.com Site: http://www.daem...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "item_equipment"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-1",
       "name": "CON[6D+26],FR[6D+30],DEX[0],AGI[3],INT[2],WILL[4],PER[1D+1],CAR[0]. (11-20)",
       "area": "criaturas_npcs",
@@ -1417,29 +1295,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "clube-de-caca-guia-do-jogador--clube-de-caca-guia-do-jogador-demonios-9-1",
-      "name": "DEMÔNIOS (9-18)",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "clube-de-caca-guia-do-jogador",
-      "sourceTitle": "Clube de Caça - Guia do Jogador",
-      "pages": [
-        [
-          9,
-          18
-        ]
-      ],
-      "page": null,
-      "summary": "9 DEMÔNIOS Você ouve falar de exorcismos em igrejas do interior do México e segredos do Vaticano e acha que é tudo baboseira até ver em primeira pessoa. Eu vi uma coisa dessas sair de uma mancha preta no chão de um porão em Nova Déli, e vou te dizer, foi uma das coisas mais pavorosas que vi na vida. Pro nosso terror, demônios habitam nosso mundo. Eles estão...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "cyfell--cyfell-anime-rpg-1",
       "name": "ANIME RPG",
       "area": "criaturas_npcs",
@@ -1457,70 +1312,6 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dbz-rpg--dbz-rpg-a-historia-de-dragon-ball-3",
-      "name": "A Historia de Dragon Ball",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dbz-rpg",
-      "sourceTitle": "DBZ_RPG",
-      "pages": [
-        [
-          3,
-          6
-        ]
-      ],
-      "page": null,
-      "summary": "A Historia de Dragon Ball Conta uma lenda chinesa que, espalhados pelo mundo, en- contram-se sete artefatos mágicos conhecidos como as esferas do dragão. Aquele que conseguir reunir as sete esferas terá o direito de invocar Shen Long, o deus dragão, e dele exigir a rea- lização de um desejo, qualquer que seja. Foi inspirado nessa lenda e em outra origem indi...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dbz-rpg--dbz-rpg-as-esferas-do-dragao-31",
-      "name": "As Esferas do Dragão",
-      "area": "criaturas_npcs",
-      "category": "race_lineage",
-      "source": "dbz-rpg",
-      "sourceTitle": "DBZ_RPG",
-      "pages": [
-        31
-      ],
-      "page": 31,
-      "summary": "As Esferas do Dragão Na Terra existem sete esferas chamadas de Esferas do Dra- gão. Elas são de cristal translúcido e cada uma destas sete con- tém de uma a sete estrelas vermelhas dentro de si. Quando qualquer pessoa consegue reunir estas sete esfe- ras em um local e conjurar as palavras mágicas, um gigantesco dragão chamado Shen-Long aparece e concede ao d...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "race_lineage"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "daemon-medieval--daemon-medieval-capitulo-3-atributos-8",
-      "name": "Capítulo 3 – Atributos",
-      "area": "criaturas_npcs",
-      "category": "attribute_skill",
-      "source": "daemon-medieval",
-      "sourceTitle": "Daemon Medieval",
-      "pages": [
-        8
-      ],
-      "page": 8,
-      "summary": "Capítulo 3 – Atributos 8 Capítulo 3 Atributos tributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. São oito Atributos, divididos entre Físicos e Mentais. Os Físicos são a Constituição, Força, Destreza e Agilidade...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill",
         "criaturas_npcs"
       ],
       "confidence": 0.8,
@@ -1660,54 +1451,6 @@
       "entityRefs": [],
       "tags": [
         "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-custo-forca-alcance-dano-71",
-      "name": "Custo Força Alcance Dano",
-      "area": "criaturas_npcs",
-      "category": "combat",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        [
-          71,
-          73
-        ]
-      ],
-      "page": null,
-      "summary": "Custo Força Alcance Dano Nível 0 1D 0m 0 Nível 1 2D 1m 1d6 Nível 2 3D 2m 2d6( Max ) Nível 3 4D 4m Nível 4 5D 8m Obs: Em caso de combate, a utilização de mais de um ataque deve respeitar o intervalo mínimo entre 2 disparos de 10 rodadas. MALDIÇÕES (Anjos Caídos, Daemons, Succubi/Incubi, Espectros) Nível 1: Causar Doenças Naturais. O demônio pode causar uma do...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-daemons-46",
-      "name": "DAEMONS",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        [
-          46,
-          47
-        ]
-      ],
-      "page": null,
-      "summary": "DAEMONS “Os Espíritos Iluminados” Milênios atrás, na grande Roda dos Mundos, existia um plano semelhante à Terra, chamado Arkanum. Este plano era idêntico em praticamente todos os aspectos a Terra, inclusive no tocante ao uso de magia e feitiçaria. Existia apenas um único problema realmente sério: o uso indiscriminado da magia levou o plano a se corromper. O...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
         "power_magic"
       ],
       "confidence": 0.76,
@@ -2025,27 +1768,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-o-mercado-das-almas-31",
-      "name": "O Mercado das Almas",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        31
-      ],
-      "page": 31,
-      "summary": "O Mercado das Almas Foi aproximadamente neste período que um grande Conselho de Anjos Recíperes e demônios do Inferno montaram o Mercado das Almas como o conhecemos hoje, presidido por sete demônios e três anjos. Estabeleceu-se que as pessoas nasceriam com a alma livre, mas que, no decorrer de sua vida, poderiam vendê-la em troca de algum tipo de favor. Uma...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-2-escolha-uma-historia-38",
       "name": "2. ESCOLHA UMA HISTÓRIA",
       "area": "criaturas_npcs",
@@ -2143,48 +1865,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-magos-demonologistas-102",
-      "name": "MAGOS DEMONOLOGISTAS",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        102
-      ],
-      "page": 102,
-      "summary": "MAGOS DEMONOLOGISTAS Demonologistas são aqueles magos humanos (e apenas humanos) poderosos (ou insanos) o suficiente para lidar diretamente com as forcas demoníacas e suas manifestações. A HISTÓRIA Os primeiros magos demonologistas surgiram na Terra junto com os primeiros magos na cidade de Ur, na antiga Babilônia, embora naquela época ainda não tinham este...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-poderes-demoniacos-107",
-      "name": "PODERES DEMÔNIACOS",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        107
-      ],
-      "page": 107,
-      "summary": "PODERES DEMÔNIACOS O personagem desenvolve um Poder Demoníaco a sua escolha dentro dos Poderes possíveis. O ideal e que Mestre e jogadores combinem antes qual poder seu personagem esteja desenvolvendo, e trabalhar esta evolução durante as aventuras. APRIMORAMETOS Assim como os Poderes Demoníacos, recomenda-se que os jogadores anunciem antes qual Aprimorament...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -2479,26 +2159,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-introducao-3",
-      "name": "Introdução",
-      "area": "criaturas_npcs",
-      "category": "core_rule",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "Introdução Um sábio uma vez disse que a pressa é inimiga da perfeição. Bem, com certeza esse conceito se aplica à esse netbook, cujo qual demorou um bom tempo para ficar pronto, mas me orgulho em dizer que é um dos melhores que já fizemos até hoje. Ele é o esforço conjunto de fãs do Sistema Daemon para produzir um suplemento que realmente abarcasse a realida...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-capitulo-1-historia-dos-dragoes-11",
       "name": "Capítulo 1 - História dos Dragões",
       "area": "criaturas_npcs",
@@ -2579,48 +2239,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-24",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        24
-      ],
-      "page": 24,
-      "summary": "Dragões: Reis Caídos Dragões Azuis Origem Após presenciar o primeiro Giro da Roda dos Mundos, muitos dragões, sem compreender a abrangência de tamanho fenômeno, passaram a acreditar que a Terra estava sendo destruída pela expansão dracônica pelo mundo, tomando as terras para si e moldando os terrenos e ambientes através de sua magia. Temerosos por um segundo...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-34",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        34
-      ],
-      "page": 34,
-      "summary": "Dragões: Reis Caídos Dragões negros A Origem Há muitas eras, durante o éon dos dragões primordiais, existia um sábio e poderoso dragão chamado Yahvur, cujo poder e a força eram superados apenas por sua virtude. Yahvur sempre foi um líder pacífico e justo, levando seu povo a prosperidade. Após o giro que deu inicio à era dos dragões elementais, Yahvur decidiu...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-caracteristicas-35",
       "name": "Características",
       "area": "criaturas_npcs",
@@ -2638,27 +2256,6 @@
         "power_magic"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-36",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        36
-      ],
-      "page": 36,
-      "summary": "Dragões: Reis Caídos Dragões Psíquicos A Origem Também conhecido como Dragão Psiônico, Dragão Astral ou Psidragão, essas criaturas vivem completamente no Plano Astral, nunca existindo completamente em Spiritum nem no Plano Material. Dragões Psíquicos possuem seus poderes completamente baseados em poderes psíquicos, nunca podendo desenvolver poderes mágicos –...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -2913,77 +2510,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "gerador-de-criaturas--gerador-de-criaturas-poderes-elementais-70",
-      "name": "PODERES ELEMENTAIS",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "gerador-de-criaturas",
-      "sourceTitle": "Gerador de criaturas",
-      "pages": [
-        [
-          70,
-          71
-        ]
-      ],
-      "page": null,
-      "summary": "70 PODERES ELEMENTAIS Esse capitulo apresenta um conjunto de características focadas em um tipo de criaturas, as criaturas elementais, pode-se definir criaturas elementais como sendo aquelas que possuem afinidade a um determinado elemento. Esse tipo de criatura está presente em inúmeras culturas, tais como os Onis, japoneses (criaturas com afinidade ao fogo...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "gerador-de-criaturas--gerador-de-criaturas-simbiontes-79",
-      "name": "SIMBIONTES",
-      "area": "criaturas_npcs",
-      "category": "attribute_skill",
-      "source": "gerador-de-criaturas",
-      "sourceTitle": "Gerador de criaturas",
-      "pages": [
-        [
-          79,
-          83
-        ]
-      ],
-      "page": null,
-      "summary": "79 SIMBIONTES O termo simbionte é utilizado para definir um organismo que se junta a outro para suprir uma deficiência, e em troca proporciona benefícios a se hospedeiro. Com o objetivo de oferecer uma visão mais completa sobre esse tipo de criaturas, inicialmente os simbiontes serão divididos levando em conta o aspecto psicológico, posteriormente serão clas...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "gigantes-mitologicos--gigantes-mitologicos-gibborim-10",
-      "name": "GIBBORIM",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "gigantes-mitologicos",
-      "sourceTitle": "Gigantes Mitologicos",
-      "pages": [
-        [
-          10,
-          12
-        ]
-      ],
-      "page": null,
-      "summary": "GIBBORIM “Poderosos” Origem Os conhecidos Gigantes mencionados na Bíblia são outra opção para os filhos de Anjos com Humanos. Além dos Nephalins, humanos comuns que lembram-se perfeitamente de suas encarnações anteriores, ainda há os Gibborims, seres de grande estatura. Os Grigori, 300 Anjos que protegeriam a Terra e seus habitantes sob o comando de Samyaza,...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "gigantes-mitologicos--gigantes-mitologicos-kotan-nukur-16",
       "name": "KOTAN-NUKUR",
       "area": "criaturas_npcs",
@@ -3092,30 +2618,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-trazer-58",
-      "name": "trazer",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "guia-do-aventureiro-de-arton",
-      "sourceTitle": "Guia do Aventureiro de Arton",
-      "pages": [
-        [
-          58,
-          62
-        ]
-      ],
-      "page": null,
-      "summary": "trazer conseqüências sérias se usadas indiscriminadamente. Se por acaso elas forem utilizadas para afetar o metabolismo de criaturas vivas (envelhecendo-as ou rejuvenescendo-as), os alvos ganham ou perdem um ano de vida permanentemente. Esta efeito pode ser ainda maior dependendo do poder da magia em questão e só pode ser revertido com a magia Desejo. Outros...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -3323,214 +2825,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "imortal-a-centelha--imortal-a-centelha-parte-i-3",
-      "name": "Parte I",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        [
-          3,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "Parte I A Centelha O Homem sempre se viu envolvido em situações que o relembra de sua fragilidade e sua mortalidade. Desde os tempos pré- históricos, os primitivos já se preocupavam em manter-se vivos pelo maior tempo possível, resistindo às ameaças dos outros predadores que conviviam com eles, e também aos perigos que a natureza e o clima ofereciam, o que i...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-bogatyr-8",
-      "name": "Bogatyr",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        8
-      ],
-      "page": 8,
-      "summary": "Bogatyr Homens Fortes Homens Fortes Homens Fortes Homens Fortes Origem e História Os Bogatyr são os Imortais surgidos dos povos eslavos, protetores da Sibéria e do Leste Europeu. É dito que os primeiros Bogatyr adquiriram a imortalidade em situações críticas, e os próprios deuses lhes concederam a Centelha. Ainda há dúvidas sobre o panteão eslavo, pois eles...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-caracteristicas-27",
-      "name": "Características",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        27
-      ],
-      "page": 27,
-      "summary": "Características Os Urlug são todos descendentes diretos de Gilgamesh, e por isto mesmo são tão raros de se ver. Suas ligações com divindades mesopotâmicas os fazem freqüentemente visitar Ark-a-nun e Dilmun, embora ambos os locais estejam quase desertos. Na Terra, são os únicos adeptos (junto com os Akrabu) verdadeiros do politeísmo do panteão de Marduk, e an...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-zilant-39",
-      "name": "Zilant",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        39
-      ],
-      "page": 39,
-      "summary": "Zilant (Bogatyr) 5 pontos: Zilant é o nome que os eslavos dão aos Dragões que se disfarçavam e atacavam as pessoas nas vilas, agindo como os Íncubos europeus. Zilant também são os filhos de um Zmey (Dragão eslavo) com uma mulher entregue a ele em troca de paz na vila. Os Zilant vivem muito isolados, e são extremamente raros. O Personagem recebe FR+5, CON+5,...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-a-centelha-3",
-      "name": "A CENTELHA",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "A CENTELHA A CENTELHA A CENTELHA A CENTELHA A CENTELHA O Homem sempre se viu envolvido em situações que o relembra de sua fragilidade e sua mortalidade. Desde os tempos pré- históricos, os primitivos já se preocupavam em manter-se vivos pelo maior tempo possível, resistindo às ameaças dos outros predadores que conviviam com eles, e também aos perigos que a n...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-bogatyr-6",
-      "name": "BOGATYR",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "BOGATYR BOGATYR BOGATYR BOGATYR BOGATYR “Homens Fortes” ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA Os Bogatyr são os Imortais surgidos dos povos eslavos, protetores da Sibéria e do Leste Europeu. É dito que os primeiros Bogatyr adquiriram a imortalidade em situações críticas, e os próprios deuses lhes concederam...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-makrobioi-12",
-      "name": "MAKROBIOI",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        12
-      ],
-      "page": 12,
-      "summary": "MAKROBIOI MAKROBIOI MAKROBIOI MAKROBIOI MAKROBIOI “Longevos” ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA ORIGEM E HISTORIA Na mitologia grega, os Imortais propriamente ditos são os verdadeiros deuses olímpicos, mas ainda há um grupo de humanos que vivia muito mais que um humano comum. Estes humanos especiais viviam até três mil an...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-recem-chegado-27",
-      "name": "Recém-Chegado",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        27
-      ],
-      "page": 27,
-      "summary": "Recém-Chegado (Todas as Origens) -2 pontos: O Imortal esteve fora da Terra ou preso em algum lugar durante séculos e voltou recentemente. O mundo mudou muito. O choque cultural é imenso e apenas a sociedade sobrenatural faz algum sentido para ele. O Imortal só poderá realizar Testes Difíceis envolvendo tecnologia e interações sociais, exceto com criaturas ce...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-revenantes-41",
-      "name": "Revenantes",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        41
-      ],
-      "page": 41,
-      "summary": "Revenantes Uma espécie muito especial de Morto- Vivo, o Revenante é uma pessoa que morreu por uma causa injusta e não encontrou paz ao morrer, geralmente porque outras pessoas morreram junto e a pessoa sente-se responsável por vingar-se do causador das mortes. Não se sabe quem permite a volta de suas almas em seus próprios corpos, mas acredita-se que sejam s...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "inquisicao-celestial--inquisicao-celestial-por-antonio-augusto-shaftiel-1",
-      "name": "Por Antônio Augusto Shaftiel",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "inquisicao-celestial",
-      "sourceTitle": "Inquisição Celestial",
-      "pages": [
-        [
-          1,
-          5
-        ]
-      ],
-      "page": null,
-      "summary": "Por Antônio Augusto Shaftiel Autor dos romances Entre Anjos e Demônios, Assassino de Almas, Busca por Sangue e do RPG Jyhad: Guerra Santa 1 A Inquisição Celestial “E não te poupará o meu olho, nem terei piedade de ti; conforme os teus caminhos, assim te punirei, e as tuas abominações estarão no meio de ti; e sabereis que eu, o SENHOR, é que firo.” A Bíblia,...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "ismails-anjos-islamicos--ismails-anjos-islamicos-ismails-1",
       "name": "Ismails",
       "area": "criaturas_npcs",
@@ -3612,50 +2906,6 @@
       "tags": [
         "combat",
         "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "magic-para-daemon--magic-para-daemon-magic-the-gathering-1",
-      "name": "Magic The Gathering",
-      "area": "criaturas_npcs",
-      "category": "attribute_skill",
-      "source": "magic-para-daemon",
-      "sourceTitle": "Magic para Daemon",
-      "pages": [
-        [
-          1,
-          3
-        ]
-      ],
-      "page": null,
-      "summary": "1 Magic The Gathering Bem pessoal esta e agora mais uma das minhas Adaptações sendo que isso e uma sistema onde os jogadores podem passar suas cartas de Magic para o sistema Daemon. Para definir os pontos de atributo para as criaturas deve se seguir as seguintes progressões 1pts de mano a criatura tem 100 pts de atributo para distribuir entre ( Destreza ; Ag...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "manual-de-converscao--manual-de-converscao-banf-13",
-      "name": "Banf!",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "manual-de-converscao",
-      "sourceTitle": "Manual de Conversção",
-      "pages": [
-        13
-      ],
-      "page": 13,
-      "summary": "Banf! Bola de fogo (Bola de Fogo) A Bola de Fogo de Questor O Canto da Sereia - com Artes Chuva Quente Conhecer Direção (Conhecer Direção) Conjurar Criatura Extraplanar Conjurar Objetos O Crânio Voador de Vladislav Cura Para Mortos Desvio de Disparos Enxame de Trovões A Erupção de Aleph Explosão Fascinação Fazer Dever de Casa Fechadura Ferrões Venenosos Fest...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
@@ -3882,30 +3132,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-criatura-sobre-um-determinado-objeto-106",
-      "name": "criatura sobre um determinado objeto,",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "pages": [
-        [
-          106,
-          108
-        ]
-      ],
-      "page": null,
-      "summary": "criatura sobre um determinado objeto, realizando uma disputa de WILLxWILL. Este poder desfaz efeitos envolvendo o poder Telecinesia e Caminhos de Magia, além de outros poderes sobrenaturais. Nível 2 – Tomar o Controle: Como o poder anterior, mas o Neteru toma o controle do objeto de seu antigo dono. Nível 3 – Comandar Objeto Superior: Como o poder de nível a...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-importancia-transformando-estes-em-25",
       "name": "importância, transformando estes em",
       "area": "criaturas_npcs",
@@ -3966,27 +3192,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "novos-poderes-para-fadas-e-fadas-da-luz--novos-poderes-para-fadas-e-fadas-da-luz-seducao-nata-2",
-      "name": "Sedução Nata",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
-      "sourceTitle": "Novos poderes para fadas e fadas da Luz",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "Sedução Nata Uso Automático Todas as fadas recebem o poder sobrenatural da sedução por possuírem uma beleza e aura natural que atraem qualquer criatura. Teste WILL X CAR da fada Custo 1 pode estimular e seduzir qualquer humano ou humanóide Custo 2 pode criar sensações extremamente fortes a qualquer humano ou humanóide Custo 3 pode estimular e seduzir qualque...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -4076,52 +3281,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "os-invocadores-de-demencia--os-invocadores-de-demencia-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "os-invocadores-de-demencia",
-      "sourceTitle": "Os Invocadores de demência",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "Os Invocadores de demência são seres treinados pela Cabala para chegar até os confins de sua psiquê e liberar os monstros mais aterradores baseados em seus próprios medos mais profundos e a mais obscura imaginação. Este magos vagam pelo mundo procurando observar animais e monstros para mais tarde arrancá-los de suas memórias como aberrações distorcidas de su...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "para-preservar-o-equilibrio-entre-o-ceu-eo-inferno--para-preservar-o-equilibrio-entre-o-ceu-eo-inferno-guerra-straga-batalhas-e-e-derrotado-1",
-      "name": "Guerra Straga batalhas e é derrotado.",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "para-preservar-o-equilibrio-entre-o-ceu-eo-inferno",
-      "sourceTitle": "Para preservar o equilíbrio entre o Céu eo Inferno",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "Para preservar o equilíbrio entre o Céu eo Inferno, um grupo mediador, o Conselho Charred, envia os Quatro Cavaleiros do Apocalipse, para intervir e forçar uma trégua entre os dois reinos, depois de séculos incontáveis de guerra. Eons após a trégua, o Conselho prevê que o Homem vai ser um fator importante na batalha final apocalíptico, o que seria marcado pe...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "phage--phage-el-gato-1",
       "name": "El Gato",
       "area": "criaturas_npcs",
@@ -4142,54 +3301,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "poderes-cabalisticos--poderes-cabalisticos-iii-3",
-      "name": "III",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "poderes-cabalisticos",
-      "sourceTitle": "Poderes Cabalisticos",
-      "pages": [
-        [
-          3,
-          6
-        ]
-      ],
-      "page": null,
-      "summary": "III (6) Avatar: O Arcanjo pode mandar para Terra uma forma Avatar de si mesmo. Ele pode usar todos os seus poderes normalmente, mas terá todas as restrições como anjo/avatar (vide Anjos: A Cidade de Prata). Se caso o Avatar for destruído, o seu espírito volta para Paradísia, mas não poderá voltar a Terra durante um determinado tempo (para termos de jogo, só...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "poderes-cabalisticos--poderes-cabalisticos-poderes-cabalisticos-1",
-      "name": "Poderes Cabalísticos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "poderes-cabalisticos",
-      "sourceTitle": "Poderes Cabalisticos",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "1 Poderes Cabalísticos Revisado e Ampliado Apresento aqui a lista completa dos poderes dos Anjos Protetore, que não vinham especificados no livro Anjos: A Cidade de Prata. Estes poderes foram criados para serem usados em campanhas por personagens jogadores e por isso não estão especificados os poderes dos Serafins, que são permitidos apenas como NPC’s. Cada...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -4236,29 +3347,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-1",
-      "name": "FORÇA DE VONTADE (72-81)",
-      "area": "criaturas_npcs",
-      "category": "attribute_skill",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          72,
-          81
-        ]
-      ],
-      "page": null,
-      "summary": "- 71 - FORÇA DE VONTADE 0 Zumbi 5 Orc 9 Espectros do Anel 12 Harry Potter, Dr. Jones 15 CD (demônio de Anjos e Demônios e Assassino de Almas) 18 Joana D´Arc 21 Andersom de Castro (vrikolaka de Busca por Sangue) 24 Betânia (Recípere dos romances Assassino de Almas e Príncipe da Destruição.) 26 Kravinoth 30 Erridk 31 Merlin 36 Magnus Petraak 48 Saruman 50 Tor,...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-introducao-5",
       "name": "INTRODUÇÃO",
       "area": "criaturas_npcs",
@@ -4279,54 +3367,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-9",
-      "name": "a partir de Spiritum, atingir as partes (209-218)",
-      "area": "criaturas_npcs",
-      "category": "ritual_spell",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          209,
-          218
-        ]
-      ],
-      "page": null,
-      "summary": "- 208 - O Mago sente as emoções básicas que um Boréada está sentindo: angústia, medo, alegria e tristeza; e pode aumentar, modificar ou diminuir algumas destas emoções. Focus 9: Permite ao Mago conseguir encontrar um determinado ser vivo que ele procura em um plano físico, vale espiritual ou bolsão espiritual (o Mago precisa já ter ouvido a voz da criatura o...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-liga-das-sombras-19",
-      "name": "Liga das Sombras",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "trevas-do-oriente-28-palacios",
-      "sourceTitle": "Trevas do oriente - 28 Palácios",
-      "pages": [
-        [
-          19,
-          27
-        ]
-      ],
-      "page": null,
-      "summary": "Liga das Sombras Recomenda-se utilizar apenas como NPCs. Fundação: Tenebras. Base: Túmulo de Kurma, Noroeste da China. Atuação: Terra e Ark-a-nun. Personalidades: Ankokushin, Orochi, Durga, Izanami, Hsi Wu, Hiranyakashyap, Varnae, Maki, Elhazzared. Background: A Liga das Sombras é a mais antiga Escola de Magia existente, e controlada por entidades tão podero...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -4442,30 +3482,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "utupia-d10--utupia-d10-utopia-d10-1-3",
-      "name": "UTOPIA D10 (21-30)",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "utupia-d10",
-      "sourceTitle": "Utupia d10",
-      "pages": [
-        [
-          21,
-          30
-        ]
-      ],
-      "page": null,
-      "summary": "21 UTOPIA D10 Magia da língua Cada palavra dita provoca ressonância entre o que é dito e a manifestação energética da palavra. Um Dragão, draconiano ou mesmo alguém que tenha sangue de Dragão é capaz de utilizar a língua draconiana como magia, combinando cada palavra como se estivesse montando uma frase. Neste caso, a mente do operador (que executa a magia)...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "vaticano--vaticano-organizacao-1",
       "name": "Organização",
       "area": "criaturas_npcs",
@@ -4486,81 +3502,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "watchmen--watchmen-a-verdade-por-tras-da-paz-6",
-      "name": "A VERDADE POR TRÁS DA PAZ",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "watchmen",
-      "sourceTitle": "Watchmen",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "A VERDADE POR TRÁS DA PAZ MUNDIAL A trama de Watchmen começa com o assassinato do diplomata Edward Blake, que depois descobre-se ser o Comediante. Quem costura a história é o anti- herói Rorchach que descobrindo a identidade secreta de Blake se convence de um \"matador de mascarados e a partir desta hipótese a trama revela complexidades inesperadas. O idealiz...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "animalidade--animalidade-feras-prontos",
-      "name": "Alguns Feras Prontos",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "animalidade",
-      "sourceTitle": "animalidade",
-      "pages": [
-        [
-          10,
-          13
-        ]
-      ],
-      "page": null,
-      "summary": "Modelos prontos de Feras e parentes, incluindo Nagas, Beliors, Reflictys, Minotauros, Herats, Licantropos, Pantros, Garudas, Bastet, Rocs, Defensores do Ragnarok, Garras de Sharikan, Croatan, Harpias, Filhos de Aracne e Crias do Caos.",
-      "entityRefs": [
-        "feras-prontos",
-        "nagas",
-        "minotauros",
-        "licantropos",
-        "garudas",
-        "bastet",
-        "croatan",
-        "harpias"
-      ],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "anjossombras01--anjossombras01-anjos-1",
-      "name": "Anjos.....",
-      "area": "criaturas_npcs",
-      "category": "race_lineage",
-      "source": "anjossombras01",
-      "sourceTitle": "anjossombras01",
-      "pages": [
-        [
-          1,
-          5
-        ]
-      ],
-      "page": null,
-      "summary": "Anjos..... ....e sombras. By: Denis “agellus” Machado. Capítulo I – Esquecimento… Mais uma madrugada chuvosa no Recife, porcaria de cidade, abafada, úmida e mal cheirosa, pelo menos do ponto de vista de quem vive e mora embaixo das pontes da cidade. E ali está ele, com frio, com fome, mais uma vez encolhido embaixo de uma das pontes tentando se proteger não...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "race_lineage"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -4693,29 +3634,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "anjossombras05--anjossombras05-anjos-e-sombras-1",
-      "name": "Anjos e Sombras.",
-      "area": "criaturas_npcs",
-      "category": "race_lineage",
-      "source": "anjossombras05",
-      "sourceTitle": "anjossombras05",
-      "pages": [
-        [
-          1,
-          9
-        ]
-      ],
-      "page": null,
-      "summary": "Anjos e Sombras. Capitulo V. Descobertas.... By: Denis Agellus Machado. Paris não pode ser chamada de cidade luz. A Torre Eifel agora é só um monte de ferro retorcido. Vocês perguntam ao Igor qual seu destino agora e ele diz: Notre Dame. Catedral de Notre Dame. Seus vitrais estão destruídos e uns poucos gárgulas resistiram no alto da catedral, isso não chama...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "race_lineage"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "archonan--archonan-franca-seculo-xix-1",
       "name": " França, século XIX.",
       "area": "criaturas_npcs",
@@ -4805,30 +3723,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "daemonium--daemonium-dd-monion-1-2",
-      "name": "DD æmonion (11-20)",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "daemonium",
-      "sourceTitle": "daemonium",
-      "pages": [
-        [
-          11,
-          20
-        ]
-      ],
-      "page": null,
-      "summary": "11 que Daemons possuem e seu máximo é de 8 níveis por século. Nosso demônio possui 200 anos, um puro Daemon pode desenvolver tentáculos até nível 16, mas um 40% Daemon só poderá adquirir tentáculos até nível 6 (16 x 0,4 = 6,4 arredondando dá 6), um puro espectro pode desenvolver telecinésia até nível 6, mas um 30% espectro só poderá adquirir telecinésia até...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -5160,30 +4054,6 @@
         "criaturas_npcs"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "guiademagias--guiademagias-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "2 Introdução Neste arquivo vão constar algumas magias novas desenvolvidas especialmente para o cenário de Arton, o mundo de fantasia medieval da Dragão Brasil. A principal razão para a criação de um projeto como este é diversificar as opções e utilidades possíveis para o uso da mágica. Com o surgimento de novos tipos de magos e clérigos a partir de textos of...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {

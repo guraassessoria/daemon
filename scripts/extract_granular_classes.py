@@ -282,18 +282,10 @@ def main() -> None:
     entities: list[dict] = []
     per_source: list[dict] = []
 
-    if "gerador-de-criaturas" in ready:
-        found = extract_gerador()
-        entities.extend(found)
-        per_source.append({"source": "gerador-de-criaturas", "extractedCount": len(found)})
     if "abismo-infinito-quick-start" in ready:
         found = extract_abismo_quick_start_roles()
         entities.extend(found)
         per_source.append({"source": "abismo-infinito-quick-start", "extractedCount": len(found)})
-    if "demonios-a-divina-comedia" in ready:
-        found = extract_demonios()
-        entities.extend(found)
-        per_source.append({"source": "demonios-a-divina-comedia", "extractedCount": len(found)})
     if "monges-daemon" in ready:
         found = extract_monges()
         entities.extend(found)

@@ -2,7 +2,7 @@
   "version": 1,
   "subtype": "kit",
   "candidateSourceCount": 81,
-  "rawExtractedCount": 322,
+  "rawExtractedCount": 338,
   "sources": [
     {
       "source": "abismo",
@@ -190,7 +190,7 @@
         12
       ],
       "context": "book-part,text-kit-term",
-      "extractedCount": 0
+      "extractedCount": 5
     },
     {
       "source": "caminhos2",
@@ -236,7 +236,7 @@
         5
       ],
       "context": "text-kit-term",
-      "extractedCount": 0
+      "extractedCount": 3
     },
     {
       "source": "clube-de-caca-guia-do-jogador",
@@ -1322,6 +1322,34 @@
       ],
       "context": "text-kit-term",
       "extractedCount": 0
+    },
+    {
+      "source": "gerador-de-criaturas",
+      "candidatePages": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "context": "classlike-kit,source-specific",
+      "extractedCount": 5
+    },
+    {
+      "source": "demonios-a-divina-comedia",
+      "candidatePages": [
+        104,
+        105
+      ],
+      "context": "classlike-kit,source-specific",
+      "extractedCount": 3
     }
   ]
 }

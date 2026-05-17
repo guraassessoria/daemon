@@ -4,7 +4,7 @@
   "name": "Fontes",
   "readySourceCount": 190,
   "entityCount": 0,
-  "sourcePartCount": 33,
+  "sourcePartCount": 28,
   "entities": [],
   "sourceParts": [
     {
@@ -219,26 +219,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "etruscos--etruscos-henrique-morcego-santos-1",
-      "name": "HENRIQUE “MORCEGO” SANTOS",
-      "area": "fontes",
-      "category": "source",
-      "source": "etruscos",
-      "sourceTitle": "Etruscos",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "HENRIQUE “MORCEGO” SANTOS ETRUSCOS",
-      "entityRefs": [],
-      "tags": [
-        "fontes",
-        "source"
-      ],
-      "confidence": 0.64,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "gdac-light--gdac-light-pagina-inicial-1",
       "name": "Pagina inicial",
       "area": "fontes",
@@ -259,26 +239,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "gigantes-mitologicos--gigantes-mitologicos-henrique-morcego-santos-1",
-      "name": "HENRIQUE “MORCEGO” SANTOS",
-      "area": "fontes",
-      "category": "source",
-      "source": "gigantes-mitologicos",
-      "sourceTitle": "Gigantes Mitologicos",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "HENRIQUE “MORCEGO” SANTOS PÉRICLES “THIEFACE””VINICIUS GIGANTES GIGANTES GIGANTES GIGANTES GIGANTES MITOL MITOL MITOL MITOL GICOS GICOS GICOS GICOS MITOLóGICOS",
-      "entityRefs": [],
-      "tags": [
-        "fontes",
-        "source"
-      ],
-      "confidence": 0.64,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-bruno-garrido-e-bruno-burp-schlatter-1",
       "name": "Bruno Garrido e Bruno “BURP” Schlatter",
       "area": "fontes",
@@ -290,69 +250,6 @@
       ],
       "page": 1,
       "summary": "Bruno Garrido e Bruno “BURP” Schlatter",
-      "entityRefs": [],
-      "tags": [
-        "fontes",
-        "source"
-      ],
-      "confidence": 0.64,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "fontes",
-      "category": "source",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "\\ \\ , , • •",
-      "entityRefs": [],
-      "tags": [
-        "fontes",
-        "source"
-      ],
-      "confidence": 0.64,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "fontes",
-      "category": "source",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Pagina sem texto extraido relevante.",
-      "entityRefs": [],
-      "tags": [
-        "fontes",
-        "source"
-      ],
-      "confidence": 0.64,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-imortal-1",
-      "name": "IMORTAL",
-      "area": "fontes",
-      "category": "source",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "IMORTAL IMORTAL IMORTAL IMORTAL IMORTAL a CENTELHA a CENTELHA a CENTELHA a CENTELHA a CENTELHA HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS HENRIQUE MORCEGO SANTOS",
       "entityRefs": [],
       "tags": [
         "fontes",

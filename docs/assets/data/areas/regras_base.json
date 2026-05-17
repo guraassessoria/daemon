@@ -3,9 +3,31 @@
   "id": "regras_base",
   "name": "Regras Base",
   "readySourceCount": 190,
-  "entityCount": 1,
-  "sourcePartCount": 47,
+  "entityCount": 4,
+  "sourcePartCount": 41,
   "entities": [
+    {
+      "id": "geracao-aleatoria-de-atributos",
+      "name": "Geracao aleatoria de atributos",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Aliança Daemon 01",
+      "page": 30,
+      "entries": [
+        "Metodo alternativo para gerar atributos no Sistema Daemon rolando 1d10+8 para cada atributo e permitindo troca final entre dois valores."
+      ],
+      "tags": [
+        "atributos",
+        "core_rule",
+        "criacao-de-personagem",
+        "racas",
+        "regra-opcional",
+        "regras_base"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1"
+    },
     {
       "id": "loucura-abissal",
       "name": "Loucura Abissal",
@@ -25,6 +47,50 @@
         "regras_base"
       ],
       "confidence": 0.84,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "progressao-de-atributos-daemon",
+      "name": "Progressao de atributos no Sistema Daemon",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "alianca-daemon-01",
+      "sourceTitle": "Aliança Daemon 01",
+      "page": 3,
+      "entries": [
+        "Artigo explica a progressao matematica dos atributos no Sistema Daemon, comparando valores a dados e destacando que atributos dobram a cada seis unidades."
+      ],
+      "tags": [
+        "atributos",
+        "core_rule",
+        "racas",
+        "regra",
+        "regras_base",
+        "sistema-daemon"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1"
+    },
+    {
+      "id": "terror-abissal",
+      "name": "Terror Abissal",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "page": 185,
+      "entries": [
+        "Orientacoes de condução de terror em campanhas de Abismo, destacando influencia sutil, medo, paranoia e presenca indireta das forcas abissais."
+      ],
+      "tags": [
+        "abismo",
+        "core_rule",
+        "mestre",
+        "racas",
+        "regras_base",
+        "terror"
+      ],
+      "confidence": 0.82,
       "extractionMethod": "manual-pass-1"
     }
   ],
@@ -305,112 +371,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "imortal--imortal-mestre-63",
-      "name": "MESTRE",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          63,
-          64
-        ]
-      ],
-      "page": null,
-      "summary": "MESTRE 2 PONTOS: Todos sabem que imortais lutam entre si pelo pode e conhecimento do outro, mas a grande maioria se sente compelida a ensinar imortais recém-despertos, tOf- , nando-se mestre dele. E quase impossível encontrar um imor- tal que tenha aprendido sobre sua imortalidade sozinho. Em jogo esse imortal irá tentar auxiliar o persona- gem em seu prepar...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-nivels-80",
-      "name": "NÍVELS",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          80,
-          81
-        ]
-      ],
-      "page": null,
-      "summary": "NÍVELS TORNAR OUTROS INVISÍVEIS: Como Invisibilidade. 5 pontos de Ressonância para cada alvo por rmnuto. ILUSÃO REAL: neste nível todas as ilusões cria- das podem ser tocadas e serão sentidas como reais. ENERGIA A Ressonância é uma fonte de energia e como tal pode ser usada para afetar aparelhos eletrônicos ou mesmo a corrente elétrica . • NIVEL I INTERFERÊN...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-capitulo-2-65",
-      "name": "CAPÍTULO 2",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        65
-      ],
-      "page": 65,
-      "summary": "CAPÍTULO 2 funciona em qualquer Plano Existencial que o Personagem esteja (Plano Astral, Inferno e etc). SENSO NUMÉRICO I PONTO: O Personagem é capaz de contar imedi- atamente grande quantidade de objetos. com muita precisão. Pode contar cabeças de gado. quantos palitos de fósforo ca- íram de uma caixa, caltas de baralho e coisas assim. SENTIDOS AGUÇADOS I P...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-capitulo-3-77",
-      "name": "CAPÍTULO 3",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        77
-      ],
-      "page": 77,
-      "summary": "CAPÍTULO 3 , NIVEL 3 LOCALIZAR: Permite localizar alguém em uma multidão ou dentro de um prédio. É necessário conhecer ou possuir algum objeto que pertença ao \"alvo\". NÍVEL 4 PRESSENTIMENTO: Permite saber se alguém está procurando por você ou se algo está prestes a acontecer como: um desastre, uma emboscada ou uma traição. O Mestre deve fornecer informações...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-consideracoes-2",
-      "name": "Considerações",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "Considerações Este Netbook (meu segundo!) trata de uma possível inserção dos Imortais no cenário de Trevas. Como os Imortais não são abordados nos diversos livros da Daemon Editora (possuindo apenas breves menções), passei a estudar as diferentes culturas, mitologias, religiões, folclores e a própria cultura Pop para abrir todo o leque de opções para Persona...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "lobisomem-a-maldicao-v2-biblioteca-elfica--lobisomem-a-maldicao-v2-biblioteca-elfica-lobisomem-a-maldicao-2-1",
       "name": "Lobisomem: a Maldição (2-11)",
       "area": "regras_base",
@@ -488,26 +448,6 @@
       ],
       "page": 2,
       "summary": "Sistema Daemon 1ª edição",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "mago-sistema-daemon--mago-sistema-daemon-iniciativa-46",
-      "name": "Iniciativa",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "mago-sistema-daemon",
-      "sourceTitle": "Mago Sistema Daemon",
-      "pages": [
-        46
-      ],
-      "page": 46,
-      "summary": "Iniciativa DAEMON Sistema Daemon Conheça a Realidade. Manipule seus sonhos. Ouça a voz do Avatar. E Desperte. Essa adaptação do jogo de RPG MAGO: A ASCENSÃO para o Sistema Daemon permite que os Personagens manipulem a Mágika Verdadeira, a habilidade de distorcer a Realidade e enxergá-la em sua natureza. Esse livro além disso contém adaptações de Qualidades e...",
       "entityRefs": [],
       "tags": [
         "core_rule",

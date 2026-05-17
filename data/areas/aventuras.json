@@ -3,8 +3,8 @@
   "id": "aventuras",
   "name": "Aventuras",
   "readySourceCount": 190,
-  "entityCount": 14,
-  "sourcePartCount": 62,
+  "entityCount": 12,
+  "sourcePartCount": 44,
   "entities": [
     {
       "id": "a-assassina",
@@ -27,28 +27,6 @@
         "urbano"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "acorrentados",
-      "name": "Acorrentados",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "abismo",
-      "sourceTitle": "Abismo",
-      "page": 93,
-      "entries": [
-        "Seres vinculados a fragmentos ou forcas de criaturas das trevas, usados como antagonistas, avatares ou focos de campanha."
-      ],
-      "tags": [
-        "avatar",
-        "aventuras",
-        "creature_npc",
-        "criatura",
-        "criaturas_npcs",
-        "tenebras"
-      ],
-      "confidence": 0.84,
       "extractionMethod": "manual-pass-1"
     },
     {
@@ -290,27 +268,6 @@
         "nave"
       ],
       "confidence": 0.72,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
-      "id": "terror-abissal",
-      "name": "Terror Abissal",
-      "area": "aventuras",
-      "category": "core_rule",
-      "source": "abismo",
-      "sourceTitle": "Abismo",
-      "page": 185,
-      "entries": [
-        "Orientacoes de condução de terror em campanhas de Abismo, destacando influencia sutil, medo, paranoia e presenca indireta das forcas abissais."
-      ],
-      "tags": [
-        "abismo",
-        "aventuras",
-        "core_rule",
-        "mestre",
-        "terror"
-      ],
-      "confidence": 0.82,
       "extractionMethod": "manual-pass-1"
     }
   ],
@@ -850,27 +807,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-ideias-para-aventura-108",
-      "name": "IDÉIAS PARA AVENTURA",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        108
-      ],
-      "page": 108,
-      "summary": "IDÉIAS PARA AVENTURA Em Demônios: A Divina Comédia, as possibilidades de aventuras são quase infinitas. No mundo de Arkanun/Trevas existem tantas forças políticas e ideológicas em jogo que se torna possível criar praticamente qualquer tipo de situação. A seguir fornecemos algumas idéias básicas que podem ser desenvolvidas pelo Mestre para suas campanhas. Not...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.88,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "energia-mistica--energia-mistica-suplemento-para-rpg-daemon-2",
       "name": "Suplemento para RPG Daemon",
       "area": "aventuras",
@@ -914,113 +850,6 @@
         "core_rule"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-cenario-94",
-      "name": "CENÁRIO",
-      "area": "aventuras",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          94,
-          97
-        ]
-      ],
-      "page": null,
-      "summary": "juntar tudo de modo que a campanha tome uma forma con- sistente. Sempre dê um útulo à sua campanha e se desejar, dê títulos também às sessões (como se fosse um capítulo de uma serie). Veja a seguir um pequeno questionário que irá auxiliá- lo: CENÁRIO 1- Qual a data de inicio da campanha? 2- Em que cidade será ambientada? 3- Qual será o clima? 4- Os personage...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "core_rule"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-metodo-3-por-pontos-112",
-      "name": "METODO 3 - POR PONTOS",
-      "area": "aventuras",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          112,
-          115
-        ]
-      ],
-      "page": null,
-      "summary": ", METODO 3 - POR PONTOS Ao térmjno de cada sessão de jogo, você pode con~ ceder de O a 15 Pontos de Experiência para cada persona- gem, baseado na interpretação do jogador. Este método deve ser cuidadoso e cabe ao mestre dosar a quantidade adequada de pontos para cada um, para permitir que evoluam sem com- prometer o bom andamento da campanha. Para auxiliá-l...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "core_rule"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-metodo-2-por-idade-111",
-      "name": "MÉTODO 2 - POR IDADE",
-      "area": "aventuras",
-      "category": "attribute_skill",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        111
-      ],
-      "page": 111,
-      "summary": "MÉTODO 2 - POR IDADE o Mestre que quiser dar mais vida e toniar suas aventuras mais empolgantes pode iniciar sua aventura em outra época da história do mundo (dê uma olhada na Linha de tempo no fim do livro para usar como referência). Usan- do este artifício, O Mestre pode controlar 3 a 5 aventuras ou uma pequena campanha por década, até a época que preten-...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "aventuras"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-tesouros-7",
-      "name": "Tesouros",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        7
-      ],
-      "page": 7,
-      "summary": "Tesouros Personagens podem conseguir muito dinheiro como pagamento por uma missão cumprida, roubo a uma Sociedade Secreta, criminosos ou como investimentos que tenham feito durante a campanha. Tesouros com Valor Arcano Os personagens podem encontrar algum livro ou tomo mágico, algum mapa com instruções para a localização de um tesouro, ou de uma fonte místic...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-campanha-14",
-      "name": "Campanha",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        14
-      ],
-      "page": 14,
-      "summary": "Campanha A melhor maneira de se utilizar um Hsien em uma campanha de Trevas é colocando-o como um velho sábio isolado que conhece um segredo crucial para a missão que os Personagens empreendem. Sempre encarados como detentores dos maiores segredos do Universo, os Hsien e os Sennin são ótimos como conselheiros, anjos da guarda e mentores de heróis. Uma campan...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1108,26 +937,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "spawn--spawn-sam-twitch-4",
-      "name": "SAM & TWITCH",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "spawn",
-      "sourceTitle": "Spawn",
-      "pages": [
-        4
-      ],
-      "page": 4,
-      "summary": "SAM & TWITCH Sam e Twitch são os dois detetives de Nova York encarregados de investigar as mortes suspeitas que aconteciam no beco, provocadas por Al Simmons quando chegou à Terra. Sam e Twitch estão na força policial há 14 anos, e conhecem muito bem todas as manhas de investigação e perseguição de criminosos. Podem ser usados em campanha como Personagens, o...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-agradecimentos-7",
       "name": "AGRADECIMENTOS",
       "area": "aventuras",
@@ -1174,193 +983,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-2",
-      "name": "FACILIDADE, LAMIA (239-248)",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          239,
-          248
-        ]
-      ],
-      "page": null,
-      "summary": "- 239 - de influência. Logo que Dagon instituiu seu reinado de terror nos oceanos Pacífico e Índico, Netuno decidiu transportar seus Reinos Marinhos de Paradísia exatamente no Oceano Atlântico, reforçando o mito da Atlântida e protegendo a integridade das águas da Terra. Acompanhado de seus seguidores paradisianos e seus monstros marinhos, Netuno declarou gu...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-4",
-      "name": "FORÇA DE VONTADE (102-111)",
-      "area": "aventuras",
-      "category": "attribute_skill",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          102,
-          111
-        ]
-      ],
-      "page": null,
-      "summary": "- 101 - Força de Vontade, com a diferença que drena até 2d6 pontos de força de vontade. A vítima tem direito a um teste de WILL vs. WILL da entidade para resistir. Nível 6: Pensamentos. A entidade é capaz de ouvir (como se estivessem realmente falando) os pensamentos de todos os mortais dentro de um raio de 50m. Não inclui entender o que é pensado. Apenas ou...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "aventuras"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-5",
-      "name": "FORÇA DE VONTADE (112-117)",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          112,
-          117
-        ]
-      ],
-      "page": null,
-      "summary": "- 111 - Compulsivo, Perversão Sexual ou Sanguinário. Depois, deve fazer um teste de WILL vs. CON. Caso a vítima falhe, ela irá envelhecer 5 vezes mais rápido que o normal. Nível 7: Apodrecimento. A entidade pode lançar parte de sua própria essência numa vítima, seja ela um espírito ou não, e infectá-la. Caso esta falhe num teste de WILL vs. WILL, a vítima de...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          1,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "ÚLTIMA POSTAGEM DO JORNAL DE VIENA ONLINE Aqui, neste cubículo, digito minha última matéria ao \"Jornal de Viena\". Tenho a certeza de que logo este bunker será aniquilado por forças que há até pouco tempo ninguém imaginava existirem. Como jornalista sério, sempre separei o mito da realidade. Agora, nada mais posso em meio a tais eventos. Esta é uma síntese de...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-5",
-      "name": "a partir de Spiritum, atingir as partes (169-178)",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          169,
-          178
-        ]
-      ],
-      "page": null,
-      "summary": "- 168 - fracos, ou 2 Demônios medianos ou 1 Demônio avançado de Infernun. Focus 18: Conjura um punhado de Demônios de Ark-a-nun, Underworld, Inferno ou o Abismo, cuja biomassa total seja de no máximo 5.000ton. O Mago pode incorporar a si características dos grandes Demônios de Infernun, como o sangue morto- vivo, a emissão de energia maligna em toda a área,...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-7",
-      "name": "a partir de Spiritum, atingir as partes (189-198)",
-      "area": "aventuras",
-      "category": "ritual_spell",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          189,
-          198
-        ]
-      ],
-      "page": null,
-      "summary": "- 188 - tempo não é revertido, somente os efeitos da passagem do tempo, afetando coisas físicas, metafísicas e abstratas. Focus 28: O Mago pode literalmente desenlaçar o fio do tempo, ganhando novas chances de desfazer seus erros ou prevenir as ações de outros e manipular o passado da maneira que preferir. Depois de mudar o passado, as memórias de todos os p...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "ritual_spell"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-8",
-      "name": "a partir de Spiritum, atingir as partes (199-208)",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          199,
-          208
-        ]
-      ],
-      "page": null,
-      "summary": "- 198 - localização exata de todo ser que contenha líquidos em qualquer lugar do plano/vale/bolsão em que vive, mesmo os mágicos. Focus 30: O Mago terá um reino influente no Mami Wata, adquirindo poder místico e político suficiente para tornar-se o Mo Acha do plano/vale/bolsão do qual é considerado a divindade protetora da água e dos mares. Porém, só pode to...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-10",
-      "name": "a partir de Spiritum, atingir as partes (219-227)",
-      "area": "aventuras",
-      "category": "ritual_spell",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          219,
-          227
-        ]
-      ],
-      "page": null,
-      "summary": "- 218 - feudo inteiro de Ah Kin por um curto período de tempo. Focus 20: Mudanças complexas no Maya de uma grandiosa área (área com 5.000km de raio). Focus 22: Forças fotônicas capazes de destruir em poucos dias um continente (área com 25.000km2). Focus 26: Mudanças complexas no Maya de uma lua pequena ou área com 1.250.000km2, podendo comandar todas as mani...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "ritual_spell"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-1",
       "name": "matei (16-25)",
       "area": "aventuras",
@@ -1379,30 +1001,6 @@
       "tags": [
         "aventuras",
         "creature_npc"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-2",
-      "name": "matei (26-35)",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          26,
-          35
-        ]
-      ],
-      "page": null,
-      "summary": "- 25 - resistência dos aztlantes contra a ameaça de Tezcatlipoca. Os Deuses-Serpente mais notórios a invadirem Ark-a-nun foram Jormungandr, Orochi, Oxumaré, Mingusoto e Apophis. Os poderosos Dagon e Kthulhu, mestres de todos estes Deuses-Serpente, os lideraram a Ark-a-nun e iniciaram uma nova religião, com a arkanita Atargatis como sumo-sacerdotisa e Honoyet...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "poderes_magias",
-        "power_magic"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
@@ -1455,30 +1053,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-5",
-      "name": "matei (56-65)",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        [
-          56,
-          65
-        ]
-      ],
-      "page": null,
-      "summary": "- 55 - mataram o avatar de Siva, esquartejando seu corpo e bebendo seu sangue. E, enquanto Bhairav morria pelas mãos dos cenobitas, Raktabija evocara suas poderosas magias de teleporte para, enfim, fugir dali, levando consigo a Senhora dos Rakshasas. Após a fuga, Kali retornou para Lanka, para então reclamar seu lugar como Rainha dos Rakshasas. Kali prometer...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-veneravel-druida-senta-se-ao-66",
       "name": "venerável Druida senta-se ao",
       "area": "aventuras",
@@ -1497,26 +1071,6 @@
       "tags": [
         "aventuras",
         "combat"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-campanha-epica--trevas-campanha-epica-caminhando-em-meio-a-uma-multidao-228",
-      "name": "CAMINHANDO EM MEIO A UMA MULTIDÃO",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "trevas-campanha-epica",
-      "sourceTitle": "Trevas - Campanha Épica",
-      "pages": [
-        228
-      ],
-      "page": 228,
-      "summary": "CAMINHANDO EM MEIO A UMA MULTIDÃO QUE CORRE DESESPERADAMENTE PARA TODOS OS LADOS, LAMIA COMEÇA A SE ESTABILIZAR EM SUA NOVA CONDIÇÃO. ANTES, UMA SIMPLES HUMANA AMADA POR ZEUS. LOGO DEPOIS, A MÃE DAS FERAS VAMPÍRICAS, ODIADA E AMALDIÇOADA POR HERA. APÓS SÉCULOS NESTE ESTADO SEMIDIVINO, FINALMENTE LAMIA SENTE A ENERGIA DE NYX BANHAR SEU CORPO, TORNANDO-A MUITO...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"

@@ -2,8 +2,8 @@
 
 Varredura das 190 fontes com trava de certificacao para kits.
 
-- Certified kits: 178
-- Rejected candidates: 144
+- Certified kits: 191
+- Rejected candidates: 147
 
 ## Policy
 
@@ -23,6 +23,7 @@ Varredura das 190 fontes com trava de certificacao para kits.
 | `gaki` | 7 |
 | `rocknrt` | 7 |
 | `livrodomal` | 6 |
+| `cabala-2` | 5 |
 | `elf` | 5 |
 | `etruscos` | 5 |
 | `guerreiros-orientais` | 5 |
@@ -30,11 +31,13 @@ Varredura das 190 fontes com trava de certificacao para kits.
 | `kitsdaemon` | 5 |
 | `magia-negra` | 5 |
 | `vaticano` | 5 |
+| `gerador-de-criaturas` | 5 |
 | `steampunk` | 4 |
 | `guia-dos-dragoes-1-biblioteca-elfica` | 3 |
 | `guia-dragoes-vol-ii` | 3 |
 | `ray` | 3 |
 | `trevas-de-marte` | 3 |
+| `demonios-a-divina-comedia` | 3 |
 | `daemon-medieval` | 2 |
 | `mortal-kombat` | 2 |
 | `canislux` | 1 |
@@ -44,7 +47,7 @@ Varredura das 190 fontes com trava de certificacao para kits.
 
 | Reason | Count |
 | --- | ---: |
-| `text_only_context_without_name_kit_evidence` | 115 |
+| `text_only_context_without_name_kit_evidence` | 118 |
 | `name_is_section_or_empty` | 20 |
 | `name_is_broken_sentence` | 5 |
 | `no_skill_or_option_field` | 4 |
@@ -106,6 +109,9 @@ Varredura das 190 fontes com trava de certificacao para kits.
 - `biohazard` / `Contrabandista`: text_only_context_without_name_kit_evidence
 - `biohazard` / `Detetive Particular`: text_only_context_without_name_kit_evidence
 - `ceifadores` / `Daemon - Ceifadores de Leen`: text_only_context_without_name_kit_evidence
+- `ciganos` / `Hiotas`: text_only_context_without_name_kit_evidence
+- `ciganos` / `Madji`: text_only_context_without_name_kit_evidence
+- `ciganos` / `Daiphires`: text_only_context_without_name_kit_evidence
 - `clube-de-caca-guia-do-jogador` / `Caçador de Vampiros`: text_only_context_without_name_kit_evidence
 - `clube-de-caca-guia-do-jogador` / `Caçador de Lobisomens`: text_only_context_without_name_kit_evidence
 - `clube-de-caca-guia-do-jogador` / `Sobrevivente Z`: text_only_context_without_name_kit_evidence
@@ -128,6 +134,3 @@ Varredura das 190 fontes com trava de certificacao para kits.
 - `desentsu` / `Meio-Demonio`: text_only_context_without_name_kit_evidence
 - `desentsu` / `Meio-Celestial`: text_only_context_without_name_kit_evidence
 - `desentsu` / `Yuki`: text_only_context_without_name_kit_evidence
-- `desentsu` / `Kitsunes`: text_only_context_without_name_kit_evidence
-- `desentsu` / `Kyubes`: text_only_context_without_name_kit_evidence
-- `desentsu` / `Caçador de criaturas Sobrenaturais`: text_only_context_without_name_kit_evidence

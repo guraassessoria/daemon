@@ -6,8 +6,8 @@
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_kit_claims_do_not_enter_kits": true
   },
-  "certifiedCount": 178,
-  "rejectedCount": 144,
+  "certifiedCount": 191,
+  "rejectedCount": 147,
   "records": [
     {
       "id": "kit-alastores-a-justica-infernal-auxiliares",
@@ -78,6 +78,56 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:alastores-a-justica-infernal:milicianos-de-ferro"
+    },
+    {
+      "id": "kit-cabala-2-cabalista-iniciado",
+      "source": "cabala-2",
+      "name": "Cabalista Iniciado",
+      "nameKey": "cabalista-iniciado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:cabala-2:cabalista-iniciado"
+    },
+    {
+      "id": "kit-cabala-2-cacador-sobrenatural",
+      "source": "cabala-2",
+      "name": "Caçador Sobrenatural",
+      "nameKey": "cacador-sobrenatural",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:cabala-2:cacador-sobrenatural"
+    },
+    {
+      "id": "kit-cabala-2-mago-cabalista",
+      "source": "cabala-2",
+      "name": "Mago Cabalista",
+      "nameKey": "mago-cabalista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:cabala-2:mago-cabalista"
+    },
+    {
+      "id": "kit-cabala-2-sacerdote-da-cabala",
+      "source": "cabala-2",
+      "name": "Sacerdote da Cabala",
+      "nameKey": "sacerdote-da-cabala",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:cabala-2:sacerdote-da-cabala"
+    },
+    {
+      "id": "kit-cabala-2-necromante",
+      "source": "cabala-2",
+      "name": "Necromante",
+      "nameKey": "necromante",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:cabala-2:necromante"
     },
     {
       "id": "kit-canislux-agradeco-especialmente-ao-danilo",
@@ -1788,6 +1838,86 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:vaticano:exorcista"
+    },
+    {
+      "id": "kit-gerador-de-criaturas-mestre-das-feras",
+      "source": "gerador-de-criaturas",
+      "name": "Mestre das Feras",
+      "nameKey": "mestre-das-feras",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gerador-de-criaturas:mestre-das-feras"
+    },
+    {
+      "id": "kit-gerador-de-criaturas-cacador",
+      "source": "gerador-de-criaturas",
+      "name": "Caçador",
+      "nameKey": "cacador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gerador-de-criaturas:cacador"
+    },
+    {
+      "id": "kit-gerador-de-criaturas-convocador",
+      "source": "gerador-de-criaturas",
+      "name": "Convocador",
+      "nameKey": "convocador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gerador-de-criaturas:convocador"
+    },
+    {
+      "id": "kit-gerador-de-criaturas-imitador",
+      "source": "gerador-de-criaturas",
+      "name": "Imitador",
+      "nameKey": "imitador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gerador-de-criaturas:imitador"
+    },
+    {
+      "id": "kit-gerador-de-criaturas-mestre-da-transformacao",
+      "source": "gerador-de-criaturas",
+      "name": "Mestre da Transformação",
+      "nameKey": "mestre-da-transformacao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:gerador-de-criaturas:mestre-da-transformacao"
+    },
+    {
+      "id": "kit-demonios-a-divina-comedia-exorcista-de-roma",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Roma",
+      "nameKey": "exorcista-de-roma",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:demonios-a-divina-comedia:exorcista-de-roma"
+    },
+    {
+      "id": "kit-demonios-a-divina-comedia-exorcista-de-espanhol",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Espanhol",
+      "nameKey": "exorcista-de-espanhol",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:demonios-a-divina-comedia:exorcista-de-espanhol"
+    },
+    {
+      "id": "kit-demonios-a-divina-comedia-exorcista-de-constantinopla",
+      "source": "demonios-a-divina-comedia",
+      "name": "Exorcista de Constantinopla",
+      "nameKey": "exorcista-de-constantinopla",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:demonios-a-divina-comedia:exorcista-de-constantinopla"
     }
   ]
 }

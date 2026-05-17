@@ -1,0 +1,3594 @@
+{
+  "version": 1,
+  "area": "poderes",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_power_claims_do_not_enter_poderes": true,
+    "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_poderes": true
+  },
+  "certifiedCount": 358,
+  "rejectedCount": 1791,
+  "records": [
+    {
+      "id": "poder-alastores-a-justica-infernal-marcas",
+      "source": "alastores-a-justica-infernal",
+      "name": "Marcas",
+      "nameKey": "marcas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:alastores-a-justica-infernal:marcas"
+    },
+    {
+      "id": "poder-alastores-a-justica-infernal-veredictum",
+      "source": "alastores-a-justica-infernal",
+      "name": "Veredictum",
+      "nameKey": "veredictum",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:alastores-a-justica-infernal:veredictum"
+    },
+    {
+      "id": "poder-alianca-daemon-01-ras-al-ghul",
+      "source": "alianca-daemon-01",
+      "name": "Ras'Al-Ghul",
+      "nameKey": "ras-al-ghul",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:alianca-daemon-01:ras-al-ghul"
+    },
+    {
+      "id": "poder-animalidade-pele-grossa",
+      "source": "animalidade",
+      "name": "Pele Grossa",
+      "nameKey": "pele-grossa",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:pele-grossa"
+    },
+    {
+      "id": "poder-animalidade-reprodutor",
+      "source": "animalidade",
+      "name": "Reprodutor",
+      "nameKey": "reprodutor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:reprodutor"
+    },
+    {
+      "id": "poder-animalidade-aquatico",
+      "source": "animalidade",
+      "name": "Aquático",
+      "nameKey": "aquatico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:aquatico"
+    },
+    {
+      "id": "poder-animalidade-asas",
+      "source": "animalidade",
+      "name": "Asas",
+      "nameKey": "asas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:asas"
+    },
+    {
+      "id": "poder-animalidade-garras",
+      "source": "animalidade",
+      "name": "Garras",
+      "nameKey": "garras",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:garras"
+    },
+    {
+      "id": "poder-animalidade-peconha",
+      "source": "animalidade",
+      "name": "Peçonha",
+      "nameKey": "peconha",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:peconha"
+    },
+    {
+      "id": "poder-animalidade-sangue-frio",
+      "source": "animalidade",
+      "name": "Sangue Frio",
+      "nameKey": "sangue-frio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:sangue-frio"
+    },
+    {
+      "id": "poder-animalidade-sentir-o-sobrenatural",
+      "source": "animalidade",
+      "name": "Sentir o Sobrenatural",
+      "nameKey": "sentir-o-sobrenatural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:sentir-o-sobrenatural"
+    },
+    {
+      "id": "poder-animalidade-sombras",
+      "source": "animalidade",
+      "name": "Sombras",
+      "nameKey": "sombras",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:sombras"
+    },
+    {
+      "id": "poder-animalidade-bico",
+      "source": "animalidade",
+      "name": "Bico",
+      "nameKey": "bico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:bico"
+    },
+    {
+      "id": "poder-animalidade-chifres",
+      "source": "animalidade",
+      "name": "Chifres",
+      "nameKey": "chifres",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:chifres"
+    },
+    {
+      "id": "poder-animalidade-comunicacao-animal",
+      "source": "animalidade",
+      "name": "Comunicação Animal",
+      "nameKey": "comunicacao-animal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:comunicacao-animal"
+    },
+    {
+      "id": "poder-animalidade-inspirar-terror",
+      "source": "animalidade",
+      "name": "Inspirar Terror",
+      "nameKey": "inspirar-terror",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:inspirar-terror"
+    },
+    {
+      "id": "poder-animalidade-matilha",
+      "source": "animalidade",
+      "name": "Matilha",
+      "nameKey": "matilha",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:matilha"
+    },
+    {
+      "id": "poder-animalidade-presas",
+      "source": "animalidade",
+      "name": "Presas",
+      "nameKey": "presas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:presas"
+    },
+    {
+      "id": "poder-animalidade-sentidos-agucados",
+      "source": "animalidade",
+      "name": "Sentidos Aguçados",
+      "nameKey": "sentidos-agucados",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:sentidos-agucados"
+    },
+    {
+      "id": "poder-animalidade-teia",
+      "source": "animalidade",
+      "name": "Teia",
+      "nameKey": "teia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:teia"
+    },
+    {
+      "id": "poder-animalidade-visao-noturna",
+      "source": "animalidade",
+      "name": "Visão Noturna",
+      "nameKey": "visao-noturna",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:animalidade:visao-noturna"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-abencoar",
+      "source": "anjos-requiem-de-fe",
+      "name": "Abençoar",
+      "nameKey": "abencoar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:abencoar"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-agilidade",
+      "source": "anjos-requiem-de-fe",
+      "name": "Agilidade",
+      "nameKey": "agilidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:agilidade"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-asas",
+      "source": "anjos-requiem-de-fe",
+      "name": "Asas",
+      "nameKey": "asas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:asas"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-cacada",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caçada",
+      "nameKey": "cacada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:cacada"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-energia",
+      "source": "anjos-requiem-de-fe",
+      "name": "Energia",
+      "nameKey": "energia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:energia"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-espirito",
+      "source": "anjos-requiem-de-fe",
+      "name": "Espírito",
+      "nameKey": "espirito",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:espirito"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-natureza",
+      "source": "anjos-requiem-de-fe",
+      "name": "Natureza",
+      "nameKey": "natureza",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:natureza"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-passagem",
+      "source": "anjos-requiem-de-fe",
+      "name": "Passagem",
+      "nameKey": "passagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:passagem"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-pertinacia",
+      "source": "anjos-requiem-de-fe",
+      "name": "Pertinácia",
+      "nameKey": "pertinacia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:pertinacia"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-potencia",
+      "source": "anjos-requiem-de-fe",
+      "name": "Potência",
+      "nameKey": "potencia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:potencia"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-robustez",
+      "source": "anjos-requiem-de-fe",
+      "name": "Robustez",
+      "nameKey": "robustez",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:robustez"
+    },
+    {
+      "id": "poder-anjos-requiem-de-fe-salvaguarda",
+      "source": "anjos-requiem-de-fe",
+      "name": "Salvaguarda",
+      "nameKey": "salvaguarda",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-requiem-de-fe:salvaguarda"
+    },
+    {
+      "id": "poder-ark-a-nun-arquivos-de-bel-kalaa-nivel-repoem-dias",
+      "source": "ark-a-nun-arquivos-de-bel-kalaa",
+      "name": "Nível Repõem Dias",
+      "nameKey": "nivel-repoem-dias",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:ark-a-nun-arquivos-de-bel-kalaa:nivel-repoem-dias"
+    },
+    {
+      "id": "poder-arte-da-guerra-ajna",
+      "source": "arte-da-guerra",
+      "name": "AJNA",
+      "nameKey": "ajna",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:arte-da-guerra:ajna"
+    },
+    {
+      "id": "poder-arte-da-guerra-sahasrara",
+      "source": "arte-da-guerra",
+      "name": "SAHASRARA",
+      "nameKey": "sahasrara",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:arte-da-guerra:sahasrara"
+    },
+    {
+      "id": "poder-cabala-2-dreno-de-energia",
+      "source": "cabala-2",
+      "name": "Dreno de Energia",
+      "nameKey": "dreno-de-energia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cabala-2:dreno-de-energia"
+    },
+    {
+      "id": "poder-cabala-2-olhar-da-verdade",
+      "source": "cabala-2",
+      "name": "Olhar da Verdade",
+      "nameKey": "olhar-da-verdade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cabala-2:olhar-da-verdade"
+    },
+    {
+      "id": "poder-cabala-2-agua-amaldicoada",
+      "source": "cabala-2",
+      "name": "Água Amaldiçoada",
+      "nameKey": "agua-amaldicoada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cabala-2:agua-amaldicoada"
+    },
+    {
+      "id": "poder-cura-cura-avancada",
+      "source": "cura",
+      "name": "Cura avançada",
+      "nameKey": "cura-avancada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:cura-avancada"
+    },
+    {
+      "id": "poder-cura-poderes-da-fe",
+      "source": "cura",
+      "name": "Poderes Da fé",
+      "nameKey": "poderes-da-fe",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:poderes-da-fe"
+    },
+    {
+      "id": "poder-cura-cura-de-skady",
+      "source": "cura",
+      "name": "Cura de Skady",
+      "nameKey": "cura-de-skady",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:cura-de-skady"
+    },
+    {
+      "id": "poder-cura-forca-de-deus",
+      "source": "cura",
+      "name": "Força de Deus",
+      "nameKey": "forca-de-deus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:forca-de-deus"
+    },
+    {
+      "id": "poder-cura-gui-gui-gury",
+      "source": "cura",
+      "name": "Gui-gui-gury",
+      "nameKey": "gui-gui-gury",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:gui-gui-gury"
+    },
+    {
+      "id": "poder-dbz-rpg-controle-de-crescimento",
+      "source": "dbz-rpg",
+      "name": "Controle de Crescimento",
+      "nameKey": "controle-de-crescimento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dbz-rpg:controle-de-crescimento"
+    },
+    {
+      "id": "poder-dbz-rpg-fusao-metamaru",
+      "source": "dbz-rpg",
+      "name": "Fusão Metamaru",
+      "nameKey": "fusao-metamaru",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dbz-rpg:fusao-metamaru"
+    },
+    {
+      "id": "poder-demonios-a-divina-comedia-succubi-incubi",
+      "source": "demonios-a-divina-comedia",
+      "name": "Succubi/Incubi)",
+      "nameKey": "succubi-incubi",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:demonios-a-divina-comedia:succubi-incubi"
+    },
+    {
+      "id": "poder-demonios-a-divina-comedia-asas",
+      "source": "demonios-a-divina-comedia",
+      "name": "ASAS",
+      "nameKey": "asas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:demonios-a-divina-comedia:asas"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-alivio",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Alívio",
+      "nameKey": "alivio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:alivio"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-autodestruicao-do-mal",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Autodestruição do Mal",
+      "nameKey": "autodestruicao-do-mal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:autodestruicao-do-mal"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-ordem-de-deus",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Ordem de Deus",
+      "nameKey": "ordem-de-deus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:ordem-de-deus"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-pensamentos-pacificos",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Pensamentos Pacíficos",
+      "nameKey": "pensamentos-pacificos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:pensamentos-pacificos"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-punir-o-perjurio",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Punir o Perjúrio",
+      "nameKey": "punir-o-perjurio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:punir-o-perjurio"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-resistencia-de-eremita",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Resistência de Eremita",
+      "nameKey": "resistencia-de-eremita",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:resistencia-de-eremita"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-sacramentar-voto",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Sacramentar Voto",
+      "nameKey": "sacramentar-voto",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:sacramentar-voto"
+    },
+    {
+      "id": "poder-domini-urbs-biblioteca-elfica-verdade-compulsiva",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Verdade Compulsiva",
+      "nameKey": "verdade-compulsiva",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:verdade-compulsiva"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-asas",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Asas",
+      "nameKey": "asas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:asas"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-bafo",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Bafo",
+      "nameKey": "bafo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:bafo"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-cauda",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Cauda",
+      "nameKey": "cauda",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:cauda"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-controle-mental",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Controle Mental",
+      "nameKey": "controle-mental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:controle-mental"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-dominus-aquae",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Dominus Aquae",
+      "nameKey": "dominus-aquae",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:dominus-aquae"
+    },
+    {
+      "id": "poder-dragoes-reis-caidos-sistema-daemon-metamorfose",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "name": "Metamorfose",
+      "nameKey": "metamorfose",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes-reis-caidos-sistema-daemon:metamorfose"
+    },
+    {
+      "id": "poder-dragoes2-poderes-draconicos",
+      "source": "dragoes2",
+      "name": "Poderes Dracônicos",
+      "nameKey": "poderes-draconicos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes2:poderes-draconicos"
+    },
+    {
+      "id": "poder-dragoes2-armas-de-sopro",
+      "source": "dragoes2",
+      "name": "Armas de Sopro",
+      "nameKey": "armas-de-sopro",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragoes2:armas-de-sopro"
+    },
+    {
+      "id": "poder-era-dos-herois-herois",
+      "source": "era-dos-herois",
+      "name": "HERÓIS",
+      "nameKey": "herois",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:era-dos-herois:herois"
+    },
+    {
+      "id": "poder-era-dos-herois-viloes",
+      "source": "era-dos-herois",
+      "name": "VILÕES",
+      "nameKey": "viloes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:era-dos-herois:viloes"
+    },
+    {
+      "id": "poder-etruscos-larani",
+      "source": "etruscos",
+      "name": "Larani",
+      "nameKey": "larani",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:etruscos:larani"
+    },
+    {
+      "id": "poder-etruscos-jettatura",
+      "source": "etruscos",
+      "name": "Jettatura",
+      "nameKey": "jettatura",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:etruscos:jettatura"
+    },
+    {
+      "id": "poder-fadadaluz-a-forma-humana",
+      "source": "fadadaluz",
+      "name": "A Forma Humana",
+      "nameKey": "a-forma-humana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:a-forma-humana"
+    },
+    {
+      "id": "poder-fadadaluz-asas-arcadianas",
+      "source": "fadadaluz",
+      "name": "Asas Arcadianas",
+      "nameKey": "asas-arcadianas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:asas-arcadianas"
+    },
+    {
+      "id": "poder-fadadaluz-camuflagem",
+      "source": "fadadaluz",
+      "name": "Camuflagem",
+      "nameKey": "camuflagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:camuflagem"
+    },
+    {
+      "id": "poder-fadadaluz-cauda-arcadiana",
+      "source": "fadadaluz",
+      "name": "Cauda Arcadiana",
+      "nameKey": "cauda-arcadiana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:cauda-arcadiana"
+    },
+    {
+      "id": "poder-fadadaluz-tamanho-arcadiano",
+      "source": "fadadaluz",
+      "name": "Tamanho Arcadiano",
+      "nameKey": "tamanho-arcadiano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:tamanho-arcadiano"
+    },
+    {
+      "id": "poder-fadadaluz-aprimoracao-magica",
+      "source": "fadadaluz",
+      "name": "Aprimoração magica",
+      "nameKey": "aprimoracao-magica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:aprimoracao-magica"
+    },
+    {
+      "id": "poder-fadadaluz-regeneracao-de-pm",
+      "source": "fadadaluz",
+      "name": "Regeneração de PM",
+      "nameKey": "regeneracao-de-pm",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:regeneracao-de-pm"
+    },
+    {
+      "id": "poder-fadadaluz-teleporte-arcadiano",
+      "source": "fadadaluz",
+      "name": "Teleporte Arcadiano",
+      "nameKey": "teleporte-arcadiano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:teleporte-arcadiano"
+    },
+    {
+      "id": "poder-fadadaluz-encontrar-fraquezas",
+      "source": "fadadaluz",
+      "name": "Encontrar fraquezas",
+      "nameKey": "encontrar-fraquezas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:encontrar-fraquezas"
+    },
+    {
+      "id": "poder-fadadaluz-forma-humana-aprimorada",
+      "source": "fadadaluz",
+      "name": "Forma Humana aprimorada",
+      "nameKey": "forma-humana-aprimorada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:forma-humana-aprimorada"
+    },
+    {
+      "id": "poder-fadadaluz-telepatia",
+      "source": "fadadaluz",
+      "name": "Telepatia",
+      "nameKey": "telepatia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:telepatia"
+    },
+    {
+      "id": "poder-fadadaluz-free",
+      "source": "fadadaluz",
+      "name": "Free",
+      "nameKey": "free",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:free"
+    },
+    {
+      "id": "poder-fadadaluz-teleporte",
+      "source": "fadadaluz",
+      "name": "Teleporte",
+      "nameKey": "teleporte",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:teleporte"
+    },
+    {
+      "id": "poder-fadadaluz-extase-temporal",
+      "source": "fadadaluz",
+      "name": "Êxtase Temporal",
+      "nameKey": "extase-temporal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:extase-temporal"
+    },
+    {
+      "id": "poder-fadadaluz-desejo-maior",
+      "source": "fadadaluz",
+      "name": "Desejo Maior",
+      "nameKey": "desejo-maior",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:desejo-maior"
+    },
+    {
+      "id": "poder-fadadaluz-desejo-menor",
+      "source": "fadadaluz",
+      "name": "Desejo menor",
+      "nameKey": "desejo-menor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:desejo-menor"
+    },
+    {
+      "id": "poder-fadadaluz-dano-sofrido",
+      "source": "fadadaluz",
+      "name": "Dano sofrido",
+      "nameKey": "dano-sofrido",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadadaluz:dano-sofrido"
+    },
+    {
+      "id": "poder-fadas-a-forma-humana",
+      "source": "fadas",
+      "name": "A Forma Humana",
+      "nameKey": "a-forma-humana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:a-forma-humana"
+    },
+    {
+      "id": "poder-fadas-asas-arcadianas",
+      "source": "fadas",
+      "name": "Asas Arcadianas",
+      "nameKey": "asas-arcadianas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:asas-arcadianas"
+    },
+    {
+      "id": "poder-fadas-camuflagem",
+      "source": "fadas",
+      "name": "Camuflagem",
+      "nameKey": "camuflagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:camuflagem"
+    },
+    {
+      "id": "poder-fadas-mau-desenvolvimento",
+      "source": "fadas",
+      "name": "Mau Desenvolvimento",
+      "nameKey": "mau-desenvolvimento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:mau-desenvolvimento"
+    },
+    {
+      "id": "poder-fadas-pes-especiais",
+      "source": "fadas",
+      "name": "Pés Especiais",
+      "nameKey": "pes-especiais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:pes-especiais"
+    },
+    {
+      "id": "poder-fadas-tamanho-arcadiano",
+      "source": "fadas",
+      "name": "Tamanho Arcadiano",
+      "nameKey": "tamanho-arcadiano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:tamanho-arcadiano"
+    },
+    {
+      "id": "poder-fadas-teleporte-arcadiano",
+      "source": "fadas",
+      "name": "Teleporte Arcadiano",
+      "nameKey": "teleporte-arcadiano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas:teleporte-arcadiano"
+    },
+    {
+      "id": "poder-fadas-2-fada-de-fogo",
+      "source": "fadas-2",
+      "name": "Fada de Fogo",
+      "nameKey": "fada-de-fogo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fada-de-fogo"
+    },
+    {
+      "id": "poder-fadas-2-fada-da-terra",
+      "source": "fadas-2",
+      "name": "Fada Da Terra",
+      "nameKey": "fada-da-terra",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fada-da-terra"
+    },
+    {
+      "id": "poder-fadas-2-fada-da-agua",
+      "source": "fadas-2",
+      "name": "Fada da Água",
+      "nameKey": "fada-da-agua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fada-da-agua"
+    },
+    {
+      "id": "poder-fadas-2-fadas-do-ar",
+      "source": "fadas-2",
+      "name": "Fadas do AR",
+      "nameKey": "fadas-do-ar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fadas-do-ar"
+    },
+    {
+      "id": "poder-fadas-2-fada-da-luz",
+      "source": "fadas-2",
+      "name": "Fada da Luz",
+      "nameKey": "fada-da-luz",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fada-da-luz"
+    },
+    {
+      "id": "poder-fadas-2-fadas-das-plantas",
+      "source": "fadas-2",
+      "name": "Fadas das Plantas",
+      "nameKey": "fadas-das-plantas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fadas-das-plantas"
+    },
+    {
+      "id": "poder-fadas-2-fadas-dos-animais",
+      "source": "fadas-2",
+      "name": "Fadas dos Animais",
+      "nameKey": "fadas-dos-animais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fadas-dos-animais"
+    },
+    {
+      "id": "poder-fadas-2-a-fada-da-vida",
+      "source": "fadas-2",
+      "name": "A Fada Da vida",
+      "nameKey": "a-fada-da-vida",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:a-fada-da-vida"
+    },
+    {
+      "id": "poder-fadas-2-a-fada-do-tempo",
+      "source": "fadas-2",
+      "name": "A Fada do Tempo",
+      "nameKey": "a-fada-do-tempo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:a-fada-do-tempo"
+    },
+    {
+      "id": "poder-fadas-2-de-focus",
+      "source": "fadas-2",
+      "name": "De focus",
+      "nameKey": "de-focus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:de-focus"
+    },
+    {
+      "id": "poder-fadas-2-a-forma-humana",
+      "source": "fadas-2",
+      "name": "A Forma Humana",
+      "nameKey": "a-forma-humana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:a-forma-humana"
+    },
+    {
+      "id": "poder-fadas-2-asas-faerica",
+      "source": "fadas-2",
+      "name": "Asas Faérica",
+      "nameKey": "asas-faerica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:asas-faerica"
+    },
+    {
+      "id": "poder-fadas-2-camuflagem",
+      "source": "fadas-2",
+      "name": "Camuflagem",
+      "nameKey": "camuflagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:camuflagem"
+    },
+    {
+      "id": "poder-fadas-2-cauda",
+      "source": "fadas-2",
+      "name": "Cauda",
+      "nameKey": "cauda",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:cauda"
+    },
+    {
+      "id": "poder-fadas-2-teleporte",
+      "source": "fadas-2",
+      "name": "Teleporte",
+      "nameKey": "teleporte",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:teleporte"
+    },
+    {
+      "id": "poder-fadas-2-teleporte-aprimorado",
+      "source": "fadas-2",
+      "name": "Teleporte aprimorado",
+      "nameKey": "teleporte-aprimorado",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:teleporte-aprimorado"
+    },
+    {
+      "id": "poder-fadas-2-esplendor-da-magia",
+      "source": "fadas-2",
+      "name": "Esplendor da Magia",
+      "nameKey": "esplendor-da-magia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:esplendor-da-magia"
+    },
+    {
+      "id": "poder-fadas-2-magia-nata",
+      "source": "fadas-2",
+      "name": "Magia Nata",
+      "nameKey": "magia-nata",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:magia-nata"
+    },
+    {
+      "id": "poder-fadas-2-contramagia",
+      "source": "fadas-2",
+      "name": "Contramagia",
+      "nameKey": "contramagia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:contramagia"
+    },
+    {
+      "id": "poder-fadas-2-regeneracao-de-pm",
+      "source": "fadas-2",
+      "name": "Regeneração de PM",
+      "nameKey": "regeneracao-de-pm",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:regeneracao-de-pm"
+    },
+    {
+      "id": "poder-fadas-2-paixao",
+      "source": "fadas-2",
+      "name": "Paixão",
+      "nameKey": "paixao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:paixao"
+    },
+    {
+      "id": "poder-fadas-2-atracao-proibida",
+      "source": "fadas-2",
+      "name": "Atração proibida",
+      "nameKey": "atracao-proibida",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:atracao-proibida"
+    },
+    {
+      "id": "poder-fadas-2-dor-em-prazer",
+      "source": "fadas-2",
+      "name": "Dor em Prazer",
+      "nameKey": "dor-em-prazer",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:dor-em-prazer"
+    },
+    {
+      "id": "poder-fadas-2-telepatia",
+      "source": "fadas-2",
+      "name": "Telepatia",
+      "nameKey": "telepatia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:telepatia"
+    },
+    {
+      "id": "poder-fadas-2-fogo-estelar",
+      "source": "fadas-2",
+      "name": "Fogo estelar",
+      "nameKey": "fogo-estelar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fogo-estelar"
+    },
+    {
+      "id": "poder-fadas-2-po-magico",
+      "source": "fadas-2",
+      "name": "Pó mágico",
+      "nameKey": "po-magico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:po-magico"
+    },
+    {
+      "id": "poder-fadas-2-zona-faerica",
+      "source": "fadas-2",
+      "name": "Zona Faérica",
+      "nameKey": "zona-faerica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:zona-faerica"
+    },
+    {
+      "id": "poder-fadas-2-controle-gravitacional",
+      "source": "fadas-2",
+      "name": "Controle Gravitacional",
+      "nameKey": "controle-gravitacional",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:controle-gravitacional"
+    },
+    {
+      "id": "poder-fadas-2-estados-da-agua",
+      "source": "fadas-2",
+      "name": "Estados da Água",
+      "nameKey": "estados-da-agua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:estados-da-agua"
+    },
+    {
+      "id": "poder-fadas-2-sentidos-do-vento",
+      "source": "fadas-2",
+      "name": "Sentidos do Vento",
+      "nameKey": "sentidos-do-vento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:sentidos-do-vento"
+    },
+    {
+      "id": "poder-fadas-2-deusa-da-magia",
+      "source": "fadas-2",
+      "name": "Deusa da Magia",
+      "nameKey": "deusa-da-magia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:deusa-da-magia"
+    },
+    {
+      "id": "poder-fadas-2-encontrar-fraquezas",
+      "source": "fadas-2",
+      "name": "Encontrar fraquezas",
+      "nameKey": "encontrar-fraquezas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:encontrar-fraquezas"
+    },
+    {
+      "id": "poder-fadas-2-forma-humana-aprimorada",
+      "source": "fadas-2",
+      "name": "Forma Humana aprimorada",
+      "nameKey": "forma-humana-aprimorada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:forma-humana-aprimorada"
+    },
+    {
+      "id": "poder-fadas-2-free",
+      "source": "fadas-2",
+      "name": "Free",
+      "nameKey": "free",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:free"
+    },
+    {
+      "id": "poder-fadas-2-desejo-menor",
+      "source": "fadas-2",
+      "name": "Desejo menor",
+      "nameKey": "desejo-menor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:desejo-menor"
+    },
+    {
+      "id": "poder-fadas-2-extase-temporal",
+      "source": "fadas-2",
+      "name": "Êxtase Temporal",
+      "nameKey": "extase-temporal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:extase-temporal"
+    },
+    {
+      "id": "poder-fadas-2-beleza-astral",
+      "source": "fadas-2",
+      "name": "Beleza astral",
+      "nameKey": "beleza-astral",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:beleza-astral"
+    },
+    {
+      "id": "poder-fadas-2-desejo-maior",
+      "source": "fadas-2",
+      "name": "Desejo Maior",
+      "nameKey": "desejo-maior",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:desejo-maior"
+    },
+    {
+      "id": "poder-fadas-2-magias-simples",
+      "source": "fadas-2",
+      "name": "Magias simples",
+      "nameKey": "magias-simples",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:magias-simples"
+    },
+    {
+      "id": "poder-fadas-2-beleza-faerica-superior",
+      "source": "fadas-2",
+      "name": "Beleza Faérica Superior",
+      "nameKey": "beleza-faerica-superior",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:beleza-faerica-superior"
+    },
+    {
+      "id": "poder-fadas-2-a-yggdrasil",
+      "source": "fadas-2",
+      "name": "A yggdrasil",
+      "nameKey": "a-yggdrasil",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:a-yggdrasil"
+    },
+    {
+      "id": "poder-fadas-2-guardioes-da-natureza",
+      "source": "fadas-2",
+      "name": "Guardiões da Natureza",
+      "nameKey": "guardioes-da-natureza",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:guardioes-da-natureza"
+    },
+    {
+      "id": "poder-fadas-2-alterar-o-tempo",
+      "source": "fadas-2",
+      "name": "Alterar o Tempo",
+      "nameKey": "alterar-o-tempo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:alterar-o-tempo"
+    },
+    {
+      "id": "poder-fadas-2-dano-sofrido",
+      "source": "fadas-2",
+      "name": "Dano sofrido",
+      "nameKey": "dano-sofrido",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:dano-sofrido"
+    },
+    {
+      "id": "poder-fadas-2-sentir-auras",
+      "source": "fadas-2",
+      "name": "Sentir Auras",
+      "nameKey": "sentir-auras",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:sentir-auras"
+    },
+    {
+      "id": "poder-fadas-2-afinidade-terrena",
+      "source": "fadas-2",
+      "name": "Afinidade terrena",
+      "nameKey": "afinidade-terrena",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:afinidade-terrena"
+    },
+    {
+      "id": "poder-fadas-2-conhecimento-elemental",
+      "source": "fadas-2",
+      "name": "Conhecimento elemental",
+      "nameKey": "conhecimento-elemental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:conhecimento-elemental"
+    },
+    {
+      "id": "poder-fadas-2-fada-multielemental",
+      "source": "fadas-2",
+      "name": "Fada multielemental",
+      "nameKey": "fada-multielemental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-2:fada-multielemental"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-deusa-da-beleza",
+      "source": "fadas-3-edicao",
+      "name": "A Deusa da Beleza",
+      "nameKey": "a-deusa-da-beleza",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-deusa-da-beleza"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-fada-de-cristal",
+      "source": "fadas-3-edicao",
+      "name": "A Fada de Cristal",
+      "nameKey": "a-fada-de-cristal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-fada-de-cristal"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-fada-de-cores",
+      "source": "fadas-3-edicao",
+      "name": "A Fada de Cores",
+      "nameKey": "a-fada-de-cores",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-fada-de-cores"
+    },
+    {
+      "id": "poder-fadas-3-edicao-da-ilusao-para-realidade",
+      "source": "fadas-3-edicao",
+      "name": "Da Ilusão para Realidade",
+      "nameKey": "da-ilusao-para-realidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:da-ilusao-para-realidade"
+    },
+    {
+      "id": "poder-fadas-3-edicao-o-frio-eterno",
+      "source": "fadas-3-edicao",
+      "name": "O Frio eterno",
+      "nameKey": "o-frio-eterno",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:o-frio-eterno"
+    },
+    {
+      "id": "poder-fadas-3-edicao-um-sentimento-perdido",
+      "source": "fadas-3-edicao",
+      "name": "Um Sentimento Perdido",
+      "nameKey": "um-sentimento-perdido",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:um-sentimento-perdido"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-fada-do-infinito",
+      "source": "fadas-3-edicao",
+      "name": "A Fada do Infinito",
+      "nameKey": "a-fada-do-infinito",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-fada-do-infinito"
+    },
+    {
+      "id": "poder-fadas-3-edicao-o-multiverso",
+      "source": "fadas-3-edicao",
+      "name": "O Multiverso",
+      "nameKey": "o-multiverso",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:o-multiverso"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-mestra-das-criacoes",
+      "source": "fadas-3-edicao",
+      "name": "A Mestra das Criações",
+      "nameKey": "a-mestra-das-criacoes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-mestra-das-criacoes"
+    },
+    {
+      "id": "poder-fadas-3-edicao-zona-faerica",
+      "source": "fadas-3-edicao",
+      "name": "Zona Faérica",
+      "nameKey": "zona-faerica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:zona-faerica"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-magia-eterna",
+      "source": "fadas-3-edicao",
+      "name": "A Magia eterna",
+      "nameKey": "a-magia-eterna",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-magia-eterna"
+    },
+    {
+      "id": "poder-fadas-3-edicao-apagar-poderes",
+      "source": "fadas-3-edicao",
+      "name": "Apagar Poderes",
+      "nameKey": "apagar-poderes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:apagar-poderes"
+    },
+    {
+      "id": "poder-fadas-3-edicao-conhecimento-mistico",
+      "source": "fadas-3-edicao",
+      "name": "Conhecimento Místico",
+      "nameKey": "conhecimento-mistico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:conhecimento-mistico"
+    },
+    {
+      "id": "poder-fadas-3-edicao-desejos-eternos",
+      "source": "fadas-3-edicao",
+      "name": "Desejos Eternos",
+      "nameKey": "desejos-eternos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:desejos-eternos"
+    },
+    {
+      "id": "poder-fadas-3-edicao-velocidade-do-pensamento",
+      "source": "fadas-3-edicao",
+      "name": "Velocidade do Pensamento",
+      "nameKey": "velocidade-do-pensamento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:velocidade-do-pensamento"
+    },
+    {
+      "id": "poder-fadas-3-edicao-a-deusa-dos-animais",
+      "source": "fadas-3-edicao",
+      "name": "A Deusa dos Animais",
+      "nameKey": "a-deusa-dos-animais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:a-deusa-dos-animais"
+    },
+    {
+      "id": "poder-fadas-3-edicao-chamas-incandesceste",
+      "source": "fadas-3-edicao",
+      "name": "Chamas Incandesceste",
+      "nameKey": "chamas-incandesceste",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:chamas-incandesceste"
+    },
+    {
+      "id": "poder-fadas-3-edicao-luz-eterna",
+      "source": "fadas-3-edicao",
+      "name": "Luz Eterna",
+      "nameKey": "luz-eterna",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:luz-eterna"
+    },
+    {
+      "id": "poder-fadas-3-edicao-o-frio-absoluto",
+      "source": "fadas-3-edicao",
+      "name": "O Frio Absoluto",
+      "nameKey": "o-frio-absoluto",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:o-frio-absoluto"
+    },
+    {
+      "id": "poder-fadas-3-edicao-purificacao",
+      "source": "fadas-3-edicao",
+      "name": "Purificação",
+      "nameKey": "purificacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:purificacao"
+    },
+    {
+      "id": "poder-fadas-3-edicao-amor-de-fada",
+      "source": "fadas-3-edicao",
+      "name": "Amor de Fada",
+      "nameKey": "amor-de-fada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:amor-de-fada"
+    },
+    {
+      "id": "poder-fadas-3-edicao-poder-elemental-elevado",
+      "source": "fadas-3-edicao",
+      "name": "Poder Elemental Elevado",
+      "nameKey": "poder-elemental-elevado",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:poder-elemental-elevado"
+    },
+    {
+      "id": "poder-fadas-3-edicao-pontos",
+      "source": "fadas-3-edicao",
+      "name": "Pontos",
+      "nameKey": "pontos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:fadas-3-edicao:pontos"
+    },
+    {
+      "id": "poder-gaki-controle-mental",
+      "source": "gaki",
+      "name": "Controle Mental",
+      "nameKey": "controle-mental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gaki:controle-mental"
+    },
+    {
+      "id": "poder-gaki-drenar-energia",
+      "source": "gaki",
+      "name": "Drenar Energia",
+      "nameKey": "drenar-energia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gaki:drenar-energia"
+    },
+    {
+      "id": "poder-gigantes-mitologicos-tamanho",
+      "source": "gigantes-mitologicos",
+      "name": "Tamanho",
+      "nameKey": "tamanho",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gigantes-mitologicos:tamanho"
+    },
+    {
+      "id": "poder-gigantes-mitologicos-arkanismo",
+      "source": "gigantes-mitologicos",
+      "name": "ARKANISMO",
+      "nameKey": "arkanismo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gigantes-mitologicos:arkanismo"
+    },
+    {
+      "id": "poder-gigantes-mitologicos-cthon",
+      "source": "gigantes-mitologicos",
+      "name": "CTHON",
+      "nameKey": "cthon",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gigantes-mitologicos:cthon"
+    },
+    {
+      "id": "poder-gigantes-mitologicos-forja",
+      "source": "gigantes-mitologicos",
+      "name": "FORJA",
+      "nameKey": "forja",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:gigantes-mitologicos:forja"
+    },
+    {
+      "id": "poder-guerreiros-orientais-escudo-contra-projeteis",
+      "source": "guerreiros-orientais",
+      "name": "Escudo Contra Projéteis",
+      "nameKey": "escudo-contra-projeteis",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:guerreiros-orientais:escudo-contra-projeteis"
+    },
+    {
+      "id": "poder-guia-dragoes-vol-ii-sopro-adicional",
+      "source": "guia-dragoes-vol-ii",
+      "name": "Sopro Adicional",
+      "nameKey": "sopro-adicional",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:guia-dragoes-vol-ii:sopro-adicional"
+    },
+    {
+      "id": "poder-ismails-anjos-islamicos-bloqueio-de-poderes-angelicais",
+      "source": "ismails-anjos-islamicos",
+      "name": "Bloqueio de Poderes Angelicais",
+      "nameKey": "bloqueio-de-poderes-angelicais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:ismails-anjos-islamicos:bloqueio-de-poderes-angelicais"
+    },
+    {
+      "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-bencao-de-cronos",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Benção de Cronos",
+      "nameKey": "bencao-de-cronos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:bencao-de-cronos"
+    },
+    {
+      "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-hora-de-dionisio",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Hora de Dionísio",
+      "nameKey": "hora-de-dionisio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:hora-de-dionisio"
+    },
+    {
+      "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-reconhecer-o-impostor",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Reconhecer o Impostor",
+      "nameKey": "reconhecer-o-impostor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:reconhecer-o-impostor"
+    },
+    {
+      "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-vinganca-de-arcade",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Vingança de Árcade",
+      "nameKey": "vinganca-de-arcade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:vinganca-de-arcade"
+    },
+    {
+      "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-exclusivo-para-lobisomens-corrompidos",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Exclusivo para Lobisomens Corrompidos",
+      "nameKey": "exclusivo-para-lobisomens-corrompidos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:exclusivo-para-lobisomens-corrompidos"
+    },
+    {
+      "id": "poder-lobisomem02-controle-da-metamorfose",
+      "source": "lobisomem02",
+      "name": "Controle da Metamorfose",
+      "nameKey": "controle-da-metamorfose",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem02:controle-da-metamorfose"
+    },
+    {
+      "id": "poder-lobisomem02-poderes-urbanos",
+      "source": "lobisomem02",
+      "name": "Poderes Urbanos",
+      "nameKey": "poderes-urbanos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem02:poderes-urbanos"
+    },
+    {
+      "id": "poder-lobisomem02-uma",
+      "source": "lobisomem02",
+      "name": "Uma",
+      "nameKey": "uma",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:lobisomem02:uma"
+    },
+    {
+      "id": "poder-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-esta",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "name": "Esta",
+      "nameKey": "esta",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:esta"
+    },
+    {
+      "id": "poder-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-ou-poderes-maatianos",
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "name": "ou Poderes Maatianos",
+      "nameKey": "ou-poderes-maatianos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:ou-poderes-maatianos"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-barreira-mental",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Barreira mental",
+      "nameKey": "barreira-mental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:barreira-mental"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-teleporte-aprimorado",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Teleporte aprimorado",
+      "nameKey": "teleporte-aprimorado",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:teleporte-aprimorado"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-uso-automatico",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Uso Automático",
+      "nameKey": "uso-automatico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:uso-automatico"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-contramagia",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Contramagia",
+      "nameKey": "contramagia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:contramagia"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-esplendor-da-magia",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Esplendor da Magia",
+      "nameKey": "esplendor-da-magia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:esplendor-da-magia"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-magia-nata",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Magia Nata",
+      "nameKey": "magia-nata",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:magia-nata"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-custo-2",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Custo 2",
+      "nameKey": "custo-2",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:custo-2"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-custo-3",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Custo 3",
+      "nameKey": "custo-3",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:custo-3"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-deusa-da-magia",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Deusa da Magia",
+      "nameKey": "deusa-da-magia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:deusa-da-magia"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-beleza-astral",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Beleza astral",
+      "nameKey": "beleza-astral",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:beleza-astral"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-telepatia",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Telepatia",
+      "nameKey": "telepatia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:telepatia"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-beleza-faerica-superior",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Beleza Faérica Superior",
+      "nameKey": "beleza-faerica-superior",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:beleza-faerica-superior"
+    },
+    {
+      "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-magias-simples",
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "name": "Magias simples",
+      "nameKey": "magias-simples",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:magias-simples"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-arautos-da-guerra",
+      "source": "poderes-cabalisticos",
+      "name": "Arautos da Guerra",
+      "nameKey": "arautos-da-guerra",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:arautos-da-guerra"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-atravessar-paredes",
+      "source": "poderes-cabalisticos",
+      "name": "Atravessar Paredes",
+      "nameKey": "atravessar-paredes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:atravessar-paredes"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-determinacao",
+      "source": "poderes-cabalisticos",
+      "name": "Determinação",
+      "nameKey": "determinacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:determinacao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-fundir-mensagem",
+      "source": "poderes-cabalisticos",
+      "name": "Fundir Mensagem",
+      "nameKey": "fundir-mensagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:fundir-mensagem"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-inspiracao",
+      "source": "poderes-cabalisticos",
+      "name": "Inspiração",
+      "nameKey": "inspiracao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:inspiracao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-mensagem-direta",
+      "source": "poderes-cabalisticos",
+      "name": "Mensagem Direta",
+      "nameKey": "mensagem-direta",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:mensagem-direta"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-velocidade",
+      "source": "poderes-cabalisticos",
+      "name": "Velocidade",
+      "nameKey": "velocidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:velocidade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-aumento-de-dano",
+      "source": "poderes-cabalisticos",
+      "name": "Aumento de Dano",
+      "nameKey": "aumento-de-dano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:aumento-de-dano"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-aumento-de-pontos-de-vida",
+      "source": "poderes-cabalisticos",
+      "name": "Aumento de Pontos de Vida",
+      "nameKey": "aumento-de-pontos-de-vida",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:aumento-de-pontos-de-vida"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-esconjuro-do-mau",
+      "source": "poderes-cabalisticos",
+      "name": "Esconjuro do Mau",
+      "nameKey": "esconjuro-do-mau",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:esconjuro-do-mau"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-espada-da-guerra",
+      "source": "poderes-cabalisticos",
+      "name": "Espada da Guerra",
+      "nameKey": "espada-da-guerra",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:espada-da-guerra"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-expulsar-o-mau",
+      "source": "poderes-cabalisticos",
+      "name": "Expulsar o Mau",
+      "nameKey": "expulsar-o-mau",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:expulsar-o-mau"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-imunidade-ao-medo",
+      "source": "poderes-cabalisticos",
+      "name": "Imunidade ao Medo",
+      "nameKey": "imunidade-ao-medo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:imunidade-ao-medo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-imunidade-a-dor",
+      "source": "poderes-cabalisticos",
+      "name": "Imunidade à dor",
+      "nameKey": "imunidade-a-dor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:imunidade-a-dor"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-medo",
+      "source": "poderes-cabalisticos",
+      "name": "Medo",
+      "nameKey": "medo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:medo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-vento",
+      "source": "poderes-cabalisticos",
+      "name": "Vento",
+      "nameKey": "vento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:vento"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-vitalidade",
+      "source": "poderes-cabalisticos",
+      "name": "Vitalidade",
+      "nameKey": "vitalidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:vitalidade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-alivio",
+      "source": "poderes-cabalisticos",
+      "name": "Alívio",
+      "nameKey": "alivio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:alivio"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-aparencia-fragil",
+      "source": "poderes-cabalisticos",
+      "name": "Aparência Frágil",
+      "nameKey": "aparencia-fragil",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:aparencia-fragil"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-avatar",
+      "source": "poderes-cabalisticos",
+      "name": "Avatar",
+      "nameKey": "avatar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:avatar"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-compartilhar",
+      "source": "poderes-cabalisticos",
+      "name": "Compartilhar",
+      "nameKey": "compartilhar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:compartilhar"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cura",
+      "source": "poderes-cabalisticos",
+      "name": "Cura",
+      "nameKey": "cura",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cura"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cura-de-maldicao",
+      "source": "poderes-cabalisticos",
+      "name": "Cura de Maldição",
+      "nameKey": "cura-de-maldicao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cura-de-maldicao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-equilibrio-perfeito",
+      "source": "poderes-cabalisticos",
+      "name": "Equilíbrio Perfeito",
+      "nameKey": "equilibrio-perfeito",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:equilibrio-perfeito"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-felicidade",
+      "source": "poderes-cabalisticos",
+      "name": "Felicidade",
+      "nameKey": "felicidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:felicidade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-horror",
+      "source": "poderes-cabalisticos",
+      "name": "Horror",
+      "nameKey": "horror",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:horror"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-incitar-paixao",
+      "source": "poderes-cabalisticos",
+      "name": "Incitar Paixão",
+      "nameKey": "incitar-paixao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:incitar-paixao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-repulsa-ao-mal",
+      "source": "poderes-cabalisticos",
+      "name": "Repulsa ao Mal",
+      "nameKey": "repulsa-ao-mal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:repulsa-ao-mal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-arma-contra-mortos-vivos",
+      "source": "poderes-cabalisticos",
+      "name": "Arma Contra Mortos Vivos",
+      "nameKey": "arma-contra-mortos-vivos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:arma-contra-mortos-vivos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-bloqueio-de-energia-mistica",
+      "source": "poderes-cabalisticos",
+      "name": "Bloqueio de energia Mística",
+      "nameKey": "bloqueio-de-energia-mistica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:bloqueio-de-energia-mistica"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cura-completa",
+      "source": "poderes-cabalisticos",
+      "name": "Cura Completa",
+      "nameKey": "cura-completa",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cura-completa"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-olhos-sobrenaturais",
+      "source": "poderes-cabalisticos",
+      "name": "Olhos Sobrenaturais",
+      "nameKey": "olhos-sobrenaturais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:olhos-sobrenaturais"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-purificacao",
+      "source": "poderes-cabalisticos",
+      "name": "Purificação",
+      "nameKey": "purificacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:purificacao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-ressurreicao",
+      "source": "poderes-cabalisticos",
+      "name": "Ressurreição",
+      "nameKey": "ressurreicao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:ressurreicao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-senhor-da-lei",
+      "source": "poderes-cabalisticos",
+      "name": "Senhor da Lei",
+      "nameKey": "senhor-da-lei",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:senhor-da-lei"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-inimizade",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Inimizade",
+      "nameKey": "sentir-inimizade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-inimizade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-arco-de-luz",
+      "source": "poderes-cabalisticos",
+      "name": "Arco de Luz",
+      "nameKey": "arco-de-luz",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:arco-de-luz"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-arma-magica",
+      "source": "poderes-cabalisticos",
+      "name": "Arma Mágica",
+      "nameKey": "arma-magica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:arma-magica"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-armadura-de-luz",
+      "source": "poderes-cabalisticos",
+      "name": "Armadura de Luz",
+      "nameKey": "armadura-de-luz",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:armadura-de-luz"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-calafrio",
+      "source": "poderes-cabalisticos",
+      "name": "Calafrio",
+      "nameKey": "calafrio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:calafrio"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-chamado-natal",
+      "source": "poderes-cabalisticos",
+      "name": "Chamado Natal",
+      "nameKey": "chamado-natal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:chamado-natal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-escudo-de-luz",
+      "source": "poderes-cabalisticos",
+      "name": "Escudo de Luz",
+      "nameKey": "escudo-de-luz",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:escudo-de-luz"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-grande-punicao-dos-magos",
+      "source": "poderes-cabalisticos",
+      "name": "Grande Punição dos Magos",
+      "nameKey": "grande-punicao-dos-magos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:grande-punicao-dos-magos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-olhos-sobrenaturais-ampliados",
+      "source": "poderes-cabalisticos",
+      "name": "Olhos Sobrenaturais Ampliados",
+      "nameKey": "olhos-sobrenaturais-ampliados",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:olhos-sobrenaturais-ampliados"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-olhos-sobrenaturais-plenos",
+      "source": "poderes-cabalisticos",
+      "name": "Olhos Sobrenaturais Plenos",
+      "nameKey": "olhos-sobrenaturais-plenos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:olhos-sobrenaturais-plenos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-punicao-dos-magos",
+      "source": "poderes-cabalisticos",
+      "name": "Punição dos Magos",
+      "nameKey": "punicao-dos-magos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:punicao-dos-magos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sinfonia-de-ninar",
+      "source": "poderes-cabalisticos",
+      "name": "Sinfonia de Ninar",
+      "nameKey": "sinfonia-de-ninar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sinfonia-de-ninar"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-visao-noturna",
+      "source": "poderes-cabalisticos",
+      "name": "Visão Noturna",
+      "nameKey": "visao-noturna",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:visao-noturna"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-conjunta",
+      "source": "poderes-cabalisticos",
+      "name": "Canção Conjunta",
+      "nameKey": "cancao-conjunta",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-conjunta"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-da-guerra",
+      "source": "poderes-cabalisticos",
+      "name": "Canção da Guerra",
+      "nameKey": "cancao-da-guerra",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-da-guerra"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-da-verdade",
+      "source": "poderes-cabalisticos",
+      "name": "Canção da Verdade",
+      "nameKey": "cancao-da-verdade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-da-verdade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-do-ridiculo",
+      "source": "poderes-cabalisticos",
+      "name": "Canção do Ridículo",
+      "nameKey": "cancao-do-ridiculo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-do-ridiculo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-do-senhor",
+      "source": "poderes-cabalisticos",
+      "name": "Canção do Senhor",
+      "nameKey": "cancao-do-senhor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-do-senhor"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-dos-fatos",
+      "source": "poderes-cabalisticos",
+      "name": "Canção dos Fatos",
+      "nameKey": "cancao-dos-fatos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-dos-fatos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-encanto-musical",
+      "source": "poderes-cabalisticos",
+      "name": "Encanto Musical",
+      "nameKey": "encanto-musical",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:encanto-musical"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-lira-do-amor-perfeito",
+      "source": "poderes-cabalisticos",
+      "name": "Lira do Amor Perfeito",
+      "nameKey": "lira-do-amor-perfeito",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:lira-do-amor-perfeito"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-mensagem-em-sonho",
+      "source": "poderes-cabalisticos",
+      "name": "Mensagem em Sonho",
+      "nameKey": "mensagem-em-sonho",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:mensagem-em-sonho"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sinfonia-da-pacificacao",
+      "source": "poderes-cabalisticos",
+      "name": "Sinfonia da Pacificação",
+      "nameKey": "sinfonia-da-pacificacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sinfonia-da-pacificacao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sinfonia-de-protecao",
+      "source": "poderes-cabalisticos",
+      "name": "Sinfonia de Proteção",
+      "nameKey": "sinfonia-de-protecao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sinfonia-de-protecao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sinfonia-do-sono-calmo",
+      "source": "poderes-cabalisticos",
+      "name": "Sinfonia do Sono Calmo",
+      "nameKey": "sinfonia-do-sono-calmo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sinfonia-do-sono-calmo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-verdade",
+      "source": "poderes-cabalisticos",
+      "name": "Verdade",
+      "nameKey": "verdade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:verdade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-heroica",
+      "source": "poderes-cabalisticos",
+      "name": "Canção Heróica",
+      "nameKey": "cancao-heroica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-heroica"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-cancao-da-maldicao",
+      "source": "poderes-cabalisticos",
+      "name": "Canção da Maldição",
+      "nameKey": "cancao-da-maldicao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:cancao-da-maldicao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-comunhao-com-as-artes",
+      "source": "poderes-cabalisticos",
+      "name": "Comunhão com as Artes",
+      "nameKey": "comunhao-com-as-artes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:comunhao-com-as-artes"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-dissonancia",
+      "source": "poderes-cabalisticos",
+      "name": "Dissonância",
+      "nameKey": "dissonancia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:dissonancia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-neutralizacao-reforcada",
+      "source": "poderes-cabalisticos",
+      "name": "Neutralização Reforçada",
+      "nameKey": "neutralizacao-reforcada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:neutralizacao-reforcada"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-neutralizacao-sobrenatural",
+      "source": "poderes-cabalisticos",
+      "name": "Neutralização Sobrenatural",
+      "nameKey": "neutralizacao-sobrenatural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:neutralizacao-sobrenatural"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-requiem",
+      "source": "poderes-cabalisticos",
+      "name": "Réquiem",
+      "nameKey": "requiem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:requiem"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-demonios",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Demônios",
+      "nameKey": "sentir-demonios",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-demonios"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-magos",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Magos",
+      "nameKey": "sentir-magos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-magos"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-analise",
+      "source": "poderes-cabalisticos",
+      "name": "Análise",
+      "nameKey": "analise",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:analise"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-analise-de-magia",
+      "source": "poderes-cabalisticos",
+      "name": "Análise de Magia",
+      "nameKey": "analise-de-magia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:analise-de-magia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-arma-de-fogo-celestial",
+      "source": "poderes-cabalisticos",
+      "name": "Arma de Fogo Celestial",
+      "nameKey": "arma-de-fogo-celestial",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:arma-de-fogo-celestial"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-asas-metalicas",
+      "source": "poderes-cabalisticos",
+      "name": "Asas Metálicas",
+      "nameKey": "asas-metalicas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:asas-metalicas"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-concentracao",
+      "source": "poderes-cabalisticos",
+      "name": "Concentração",
+      "nameKey": "concentracao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:concentracao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-forma-verdadeira",
+      "source": "poderes-cabalisticos",
+      "name": "Forma Verdadeira",
+      "nameKey": "forma-verdadeira",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:forma-verdadeira"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-grande-arma-de-fogo-celestial",
+      "source": "poderes-cabalisticos",
+      "name": "Grande Arma de Fogo Celestial",
+      "nameKey": "grande-arma-de-fogo-celestial",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:grande-arma-de-fogo-celestial"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-neutralizacao-ampliada",
+      "source": "poderes-cabalisticos",
+      "name": "Neutralização Ampliada",
+      "nameKey": "neutralizacao-ampliada",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:neutralizacao-ampliada"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-neutralizacao-plena",
+      "source": "poderes-cabalisticos",
+      "name": "Neutralização Plena",
+      "nameKey": "neutralizacao-plena",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:neutralizacao-plena"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentido-alienigena",
+      "source": "poderes-cabalisticos",
+      "name": "Sentido Alienígena",
+      "nameKey": "sentido-alienigena",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentido-alienigena"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-tecnoanjo",
+      "source": "poderes-cabalisticos",
+      "name": "Tecnoanjo",
+      "nameKey": "tecnoanjo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:tecnoanjo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-boas-vindas",
+      "source": "poderes-cabalisticos",
+      "name": "Boas Vindas",
+      "nameKey": "boas-vindas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:boas-vindas"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-controle-tecnologico",
+      "source": "poderes-cabalisticos",
+      "name": "Controle Tecnológico",
+      "nameKey": "controle-tecnologico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:controle-tecnologico"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-encontrar",
+      "source": "poderes-cabalisticos",
+      "name": "Encontrar",
+      "nameKey": "encontrar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:encontrar"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-estado-de-sitio",
+      "source": "poderes-cabalisticos",
+      "name": "Estado de Sítio",
+      "nameKey": "estado-de-sitio",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:estado-de-sitio"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-habitante-local",
+      "source": "poderes-cabalisticos",
+      "name": "Habitante Local",
+      "nameKey": "habitante-local",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:habitante-local"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-bairro",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Bairro",
+      "nameKey": "sentir-bairro",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-bairro"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-rua",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Rua",
+      "nameKey": "sentir-rua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-rua"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-visitas",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Visitas",
+      "nameKey": "sentir-visitas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-visitas"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-simpatia",
+      "source": "poderes-cabalisticos",
+      "name": "Simpatia",
+      "nameKey": "simpatia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:simpatia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-estado-de-sitio-total",
+      "source": "poderes-cabalisticos",
+      "name": "Estado de Sítio Total",
+      "nameKey": "estado-de-sitio-total",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:estado-de-sitio-total"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-expulsar",
+      "source": "poderes-cabalisticos",
+      "name": "Expulsar",
+      "nameKey": "expulsar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:expulsar"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-filho-de-deus",
+      "source": "poderes-cabalisticos",
+      "name": "Filho de Deus",
+      "nameKey": "filho-de-deus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:filho-de-deus"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-fundir-se-a-cidade",
+      "source": "poderes-cabalisticos",
+      "name": "Fundir-se à Cidade",
+      "nameKey": "fundir-se-a-cidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:fundir-se-a-cidade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-olhos-de-serpente",
+      "source": "poderes-cabalisticos",
+      "name": "Olhos de Serpente",
+      "nameKey": "olhos-de-serpente",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:olhos-de-serpente"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-representacao",
+      "source": "poderes-cabalisticos",
+      "name": "Representação",
+      "nameKey": "representacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:representacao"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-cidade",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Cidade",
+      "nameKey": "sentir-cidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-cidade"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-simpatia-fascinante",
+      "source": "poderes-cabalisticos",
+      "name": "Simpatia Fascinante",
+      "nameKey": "simpatia-fascinante",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:simpatia-fascinante"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-chamar-animais",
+      "source": "poderes-cabalisticos",
+      "name": "Chamar Animais",
+      "nameKey": "chamar-animais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:chamar-animais"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-disfarce-natural",
+      "source": "poderes-cabalisticos",
+      "name": "Disfarce Natural",
+      "nameKey": "disfarce-natural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:disfarce-natural"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-entrar-na-arvore",
+      "source": "poderes-cabalisticos",
+      "name": "Entrar na Árvore",
+      "nameKey": "entrar-na-arvore",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:entrar-na-arvore"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-falar-com-animais",
+      "source": "poderes-cabalisticos",
+      "name": "Falar com Animais",
+      "nameKey": "falar-com-animais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:falar-com-animais"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-falar-com-plantas",
+      "source": "poderes-cabalisticos",
+      "name": "Falar com Plantas",
+      "nameKey": "falar-com-plantas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:falar-com-plantas"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-forma-animal",
+      "source": "poderes-cabalisticos",
+      "name": "Forma Animal",
+      "nameKey": "forma-animal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:forma-animal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-garras",
+      "source": "poderes-cabalisticos",
+      "name": "Garras",
+      "nameKey": "garras",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:garras"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-pernas-de-cervo",
+      "source": "poderes-cabalisticos",
+      "name": "Pernas de Cervo",
+      "nameKey": "pernas-de-cervo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:pernas-de-cervo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-possessao-animal",
+      "source": "poderes-cabalisticos",
+      "name": "Possessão Animal",
+      "nameKey": "possessao-animal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:possessao-animal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-natureza",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Natureza",
+      "nameKey": "sentir-natureza",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-natureza"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-sentir-vida",
+      "source": "poderes-cabalisticos",
+      "name": "Sentir Vida",
+      "nameKey": "sentir-vida",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:sentir-vida"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-telepatia-animal",
+      "source": "poderes-cabalisticos",
+      "name": "Telepatia Animal",
+      "nameKey": "telepatia-animal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:telepatia-animal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-viagem-entre-as-arvores",
+      "source": "poderes-cabalisticos",
+      "name": "Viagem Entre as Árvores",
+      "nameKey": "viagem-entre-as-arvores",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:viagem-entre-as-arvores"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-visao-animal",
+      "source": "poderes-cabalisticos",
+      "name": "Visão Animal",
+      "nameKey": "visao-animal",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:visao-animal"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-visao-de-aguia",
+      "source": "poderes-cabalisticos",
+      "name": "Visão de Águia",
+      "nameKey": "visao-de-aguia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:visao-de-aguia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-dom-da-vida",
+      "source": "poderes-cabalisticos",
+      "name": "Dom da Vida",
+      "nameKey": "dom-da-vida",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:dom-da-vida"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-filho-de-gaia",
+      "source": "poderes-cabalisticos",
+      "name": "Filho de Gaia",
+      "nameKey": "filho-de-gaia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:filho-de-gaia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-imunidade-ao-caminho-animalia",
+      "source": "poderes-cabalisticos",
+      "name": "Imunidade ao Caminho Animalia",
+      "nameKey": "imunidade-ao-caminho-animalia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:imunidade-ao-caminho-animalia"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-imunidade-ao-caminho-plantae",
+      "source": "poderes-cabalisticos",
+      "name": "Imunidade ao Caminho Plantae",
+      "nameKey": "imunidade-ao-caminho-plantae",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:imunidade-ao-caminho-plantae"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-ligacao-natural",
+      "source": "poderes-cabalisticos",
+      "name": "Ligação Natural",
+      "nameKey": "ligacao-natural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:ligacao-natural"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-viagem-pelo-globo",
+      "source": "poderes-cabalisticos",
+      "name": "Viagem Pelo Globo",
+      "nameKey": "viagem-pelo-globo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:viagem-pelo-globo"
+    },
+    {
+      "id": "poder-poderes-cabalisticos-vingador-da-natureza",
+      "source": "poderes-cabalisticos",
+      "name": "Vingador da Natureza",
+      "nameKey": "vingador-da-natureza",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-cabalisticos:vingador-da-natureza"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-oceano",
+      "source": "poderes-de-fe-02",
+      "name": "Oceano)",
+      "nameKey": "oceano",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:oceano"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-cochilo",
+      "source": "poderes-de-fe-02",
+      "name": "Cochilo",
+      "nameKey": "cochilo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:cochilo"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-conjurar-espirito",
+      "source": "poderes-de-fe-02",
+      "name": "Conjurar Espírito",
+      "nameKey": "conjurar-espirito",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:conjurar-espirito"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-conjurar-pequeno-elemental",
+      "source": "poderes-de-fe-02",
+      "name": "Conjurar Pequeno Elemental",
+      "nameKey": "conjurar-pequeno-elemental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:conjurar-pequeno-elemental"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-copiar-documento",
+      "source": "poderes-de-fe-02",
+      "name": "Copiar Documento",
+      "nameKey": "copiar-documento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:copiar-documento"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-encorajar-amedrontar-mortos-vivos",
+      "source": "poderes-de-fe-02",
+      "name": "Encorajar/ Amedrontar Mortos-Vivos",
+      "nameKey": "encorajar-amedrontar-mortos-vivos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:encorajar-amedrontar-mortos-vivos"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-escrita-magica",
+      "source": "poderes-de-fe-02",
+      "name": "Escrita Mágica",
+      "nameKey": "escrita-magica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:escrita-magica"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-qualquer",
+      "source": "poderes-de-fe-02",
+      "name": "Qualquer",
+      "nameKey": "qualquer",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:qualquer"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-fortalecer-magica",
+      "source": "poderes-de-fe-02",
+      "name": "Fortalecer Mágica",
+      "nameKey": "fortalecer-magica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:fortalecer-magica"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-infectar-esterilizar-ferimentos",
+      "source": "poderes-de-fe-02",
+      "name": "Infectar/ Esterilizar Ferimentos",
+      "nameKey": "infectar-esterilizar-ferimentos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:infectar-esterilizar-ferimentos"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-passos-sem-pegadas",
+      "source": "poderes-de-fe-02",
+      "name": "Passos sem Pegadas",
+      "nameKey": "passos-sem-pegadas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:passos-sem-pegadas"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-sentir-emocoes",
+      "source": "poderes-de-fe-02",
+      "name": "Sentir Emoções",
+      "nameKey": "sentir-emocoes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:sentir-emocoes"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-sentir-mana",
+      "source": "poderes-de-fe-02",
+      "name": "Sentir Mana",
+      "nameKey": "sentir-mana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:sentir-mana"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-transferir-sugar-mana",
+      "source": "poderes-de-fe-02",
+      "name": "Transferir/ Sugar Mana",
+      "nameKey": "transferir-sugar-mana",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:transferir-sugar-mana"
+    },
+    {
+      "id": "poder-poderes-de-fe-02-truque-magico",
+      "source": "poderes-de-fe-02",
+      "name": "Truque Mágico",
+      "nameKey": "truque-magico",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-de-fe-02:truque-magico"
+    },
+    {
+      "id": "poder-poderes-mentais-caminhos-mediunidade-5",
+      "source": "poderes-mentais",
+      "name": "Caminhos: Mediunidade 5",
+      "nameKey": "caminhos-mediunidade-5",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:caminhos-mediunidade-5"
+    },
+    {
+      "id": "poder-poderes-mentais-caminhos-projecao-3",
+      "source": "poderes-mentais",
+      "name": "Caminhos: Projeção 3",
+      "nameKey": "caminhos-projecao-3",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:caminhos-projecao-3"
+    },
+    {
+      "id": "poder-poderes-mentais-personagem",
+      "source": "poderes-mentais",
+      "name": "Personagem",
+      "nameKey": "personagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:personagem"
+    },
+    {
+      "id": "poder-poderes-mentais-caminhos-vida-1",
+      "source": "poderes-mentais",
+      "name": "Caminhos: Vida 1",
+      "nameKey": "caminhos-vida-1",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:caminhos-vida-1"
+    },
+    {
+      "id": "poder-poderes-mentais-caminhos-dominio-2",
+      "source": "poderes-mentais",
+      "name": "Caminhos: Domínio 2",
+      "nameKey": "caminhos-dominio-2",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:caminhos-dominio-2"
+    },
+    {
+      "id": "poder-poderes-mentais-sensitividade-1",
+      "source": "poderes-mentais",
+      "name": "Sensitividade 1",
+      "nameKey": "sensitividade-1",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:sensitividade-1"
+    },
+    {
+      "id": "poder-poderes-mentais-psion",
+      "source": "poderes-mentais",
+      "name": "Psion",
+      "nameKey": "psion",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:psion"
+    },
+    {
+      "id": "poder-poderes-mentais-telecinese-elemental",
+      "source": "poderes-mentais",
+      "name": "Telecinese Elemental",
+      "nameKey": "telecinese-elemental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:telecinese-elemental"
+    },
+    {
+      "id": "poder-poderes-mentais-recuperando-pontos-mentais",
+      "source": "poderes-mentais",
+      "name": "Recuperando Pontos Mentais",
+      "nameKey": "recuperando-pontos-mentais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:poderes-mentais:recuperando-pontos-mentais"
+    },
+    {
+      "id": "poder-racas-gigante",
+      "source": "racas",
+      "name": "Gigante",
+      "nameKey": "gigante",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:racas:gigante"
+    },
+    {
+      "id": "poder-racas-manta",
+      "source": "racas",
+      "name": "Manta",
+      "nameKey": "manta",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:racas:manta"
+    },
+    {
+      "id": "poder-racas-vampiro",
+      "source": "racas",
+      "name": "Vampiro",
+      "nameKey": "vampiro",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:racas:vampiro"
+    },
+    {
+      "id": "poder-racas-sprite",
+      "source": "racas",
+      "name": "Sprite",
+      "nameKey": "sprite",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:racas:sprite"
+    },
+    {
+      "id": "poder-secundarios-aura-maldita",
+      "source": "secundarios",
+      "name": "Aura Maldita",
+      "nameKey": "aura-maldita",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:secundarios:aura-maldita"
+    },
+    {
+      "id": "poder-trevas-campanha-epica-andlangr",
+      "source": "trevas-campanha-epica",
+      "name": "Andlangr",
+      "nameKey": "andlangr",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-campanha-epica:andlangr"
+    },
+    {
+      "id": "poder-trevas-campanha-epica-absoluto",
+      "source": "trevas-campanha-epica",
+      "name": "Absoluto",
+      "nameKey": "absoluto",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-campanha-epica:absoluto"
+    },
+    {
+      "id": "poder-trevas-campanha-epica-moto-continuo",
+      "source": "trevas-campanha-epica",
+      "name": "Moto-Contínuo",
+      "nameKey": "moto-continuo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-campanha-epica:moto-continuo"
+    },
+    {
+      "id": "poder-trevas-campanha-epica-velocidade",
+      "source": "trevas-campanha-epica",
+      "name": "Velocidade",
+      "nameKey": "velocidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-campanha-epica:velocidade"
+    },
+    {
+      "id": "poder-trevas-campanha-epica-resistencia",
+      "source": "trevas-campanha-epica",
+      "name": "Resistência",
+      "nameKey": "resistencia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-campanha-epica:resistencia"
+    },
+    {
+      "id": "poder-trevas-de-marte-drakonia-drakon",
+      "source": "trevas-de-marte",
+      "name": "DRAKONIA (Drakon)",
+      "nameKey": "drakonia-drakon",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-de-marte:drakonia-drakon"
+    },
+    {
+      "id": "poder-trevas-de-marte-daimons-servos-de-ares-marte",
+      "source": "trevas-de-marte",
+      "name": "Daimons Servos de Ares-Marte)",
+      "nameKey": "daimons-servos-de-ares-marte",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-de-marte:daimons-servos-de-ares-marte"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-monstruoso",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Monstruoso",
+      "nameKey": "monstruoso",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:monstruoso"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-kinniku-souza-apenas-toguro",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Kin’niku Souza (Apenas Toguro",
+      "nameKey": "kinniku-souza-apenas-toguro",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:kinniku-souza-apenas-toguro"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-exercito-do-rei-kai",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Exército do Rei-Kai)",
+      "nameKey": "exercito-do-rei-kai",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:exercito-do-rei-kai"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-demons-spirit",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Demon’s Spirit",
+      "nameKey": "demons-spirit",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:demons-spirit"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-diabolical-hair",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Diabolical Hair",
+      "nameKey": "diabolical-hair",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:diabolical-hair"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-meikai-power-apenas-seres",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Meikai Power (Apenas Seres",
+      "nameKey": "meikai-power-apenas-seres",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:meikai-power-apenas-seres"
+    },
+    {
+      "id": "poder-yuyu-hakusho-rpg-para-daemon-olhos-demoniacos",
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "name": "Olhos Demoníacos",
+      "nameKey": "olhos-demoniacos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:olhos-demoniacos"
+    }
+  ]
+}

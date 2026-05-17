@@ -1,7 +1,7 @@
 # Granular kits pass 001
 
 - Candidate sources scanned: 81
-- Raw extracted kit candidates: 322
+- Raw extracted kit candidates: 338
 
 ## By source
 
@@ -22,11 +22,11 @@
 | `avatar-volume-1` | 2 | text-kit-term | 0 |
 | `avatars-vol-2` | 3 | book-part,text-kit-term | 0 |
 | `biohazard` | 8 | text-kit-term | 7 |
-| `cabala-2` | 2 | book-part,text-kit-term | 0 |
+| `cabala-2` | 2 | book-part,text-kit-term | 5 |
 | `caminhos2` | 1 | book-part | 0 |
 | `canislux` | 15 | book-part,text-kit-term | 1 |
 | `ceifadores` | 1 | text-kit-term | 1 |
-| `ciganos` | 1 | text-kit-term | 0 |
+| `ciganos` | 1 | text-kit-term | 3 |
 | `clube-de-caca-guia-do-jogador` | 19 | text-kit-term | 12 |
 | `conan` | 1 | text-kit-term | 0 |
 | `cyfell` | 3 | text-kit-term | 0 |
@@ -88,3 +88,5 @@
 | `watchmen` | 1 | text-kit-term | 0 |
 | `youkai-kyuukai` | 5 | book-part | 0 |
 | `yuyu-hakusho-rpg-para-daemon` | 1 | text-kit-term | 0 |
+| `gerador-de-criaturas` | 12 | classlike-kit,source-specific | 5 |
+| `demonios-a-divina-comedia` | 2 | classlike-kit,source-specific | 3 |

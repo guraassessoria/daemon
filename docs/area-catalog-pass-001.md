@@ -3,32 +3,34 @@
 Initial navigation/population layer for the 190 sources marked as ready to proceed.
 
 - Ready sources: 190
-- Areas: 15
-- Curated entities included: 712
+- Areas: 17
+- Curated entities included: 1403
 - Book parts indexed: 1544
 
 ## Areas
 
 | Area | Entities | Source parts |
 | --- | ---: | ---: |
-| Fontes (`fontes`) | 0 | 33 |
-| Regras Base (`regras_base`) | 1 | 47 |
-| Atributos e Pericias (`atributos_pericias`) | 3 | 88 |
-| Combate (`combate`) | 4 | 150 |
+| Fontes (`fontes`) | 0 | 28 |
+| Regras Base (`regras_base`) | 4 | 41 |
+| Atributos e Pericias (`atributos_pericias`) | 2 | 74 |
+| Combate (`combate`) | 4 | 121 |
 | Aprimoramentos (`aprimoramentos`) | 453 | 0 |
-| Kits (`kits`) | 178 | 0 |
-| Classes (`classes`) | 20 | 0 |
-| Racas e Linhagens (`racas`) | 6 | 227 |
-| Poderes e Magias (`poderes_magias`) | 3 | 260 |
-| Rituais (`rituais`) | 1 | 73 |
-| Itens e Equipamentos (`itens_equipamentos`) | 3 | 100 |
-| Criaturas e NPCs (`criaturas_npcs`) | 17 | 220 |
-| Cenarios e Lore (`cenarios_lore`) | 9 | 18 |
-| Aventuras (`aventuras`) | 14 | 62 |
-| Tabelas e Geradores (`tabelas`) | 0 | 3 |
+| Kits (`kits`) | 191 | 0 |
+| Classes (`classes`) | 12 | 0 |
+| Racas (`racas`) | 47 | 0 |
+| Linhagens (`linhagens`) | 70 | 0 |
+| Poderes (`poderes`) | 358 | 0 |
+| Magias (`magias`) | 217 | 0 |
+| Rituais (`rituais`) | 1 | 60 |
+| Itens e Equipamentos (`itens_equipamentos`) | 3 | 80 |
+| Criaturas e NPCs (`criaturas_npcs`) | 18 | 169 |
+| Cenarios e Lore (`cenarios_lore`) | 11 | 11 |
+| Aventuras (`aventuras`) | 12 | 44 |
+| Tabelas e Geradores (`tabelas`) | 0 | 2 |
 
 ## Notes
 
 - This is a pass-1 catalog based on existing book parts plus curated entities already extracted.
 - Duplicate IDs are resolved to their canonical source before the 190-source ready list is built.
-- The next pass should split high-value source parts into individual mechanical records, starting with aprimoramentos, kits/classes, racas and pericias.
+- The next pass should keep splitting high-value source parts into individual mechanical records, including pericias and remaining uncategorized rules.

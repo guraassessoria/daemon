@@ -1,0 +1,2185 @@
+{
+  "version": 1,
+  "area": "magias",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_magic_claims_do_not_enter_magias": true,
+    "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_magias": true,
+    "rituais_are_kept_in_rituais": true
+  },
+  "certifiedCount": 217,
+  "rejectedCount": 1791,
+  "records": [
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Água 1",
+      "nameKey": "caminhos-agua-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Água 2",
+      "nameKey": "caminhos-agua-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Água 3",
+      "nameKey": "caminhos-agua-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Água 4",
+      "nameKey": "caminhos-agua-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Água 5",
+      "nameKey": "caminhos-agua-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-animal-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Animal 1",
+      "nameKey": "caminhos-animal-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-animal-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-animal-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Animal 2",
+      "nameKey": "caminhos-animal-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-animal-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-animal-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Animal 3",
+      "nameKey": "caminhos-animal-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-animal-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-animal-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Animal 4",
+      "nameKey": "caminhos-animal-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-animal-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-animal-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Animal 5",
+      "nameKey": "caminhos-animal-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-animal-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-ar-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Ar 1",
+      "nameKey": "caminhos-ar-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-ar-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-ar-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Ar 2",
+      "nameKey": "caminhos-ar-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-ar-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-ar-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Ar 3",
+      "nameKey": "caminhos-ar-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-ar-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-ar-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Ar 4",
+      "nameKey": "caminhos-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-ar-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-ar-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Ar 5",
+      "nameKey": "caminhos-ar-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-ar-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-arkanun-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Arkanun 1",
+      "nameKey": "caminhos-arkanun-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-arkanun-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-arkanun-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Arkanun 2",
+      "nameKey": "caminhos-arkanun-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-arkanun-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-arkanun-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Arkanun 3",
+      "nameKey": "caminhos-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-arkanun-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-arkanun-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Arkanun 4",
+      "nameKey": "caminhos-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-arkanun-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-arkanun-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Arkanun 5",
+      "nameKey": "caminhos-arkanun-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-arkanun-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-fogo-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Fogo 1",
+      "nameKey": "caminhos-fogo-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-fogo-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-fogo-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Fogo 2",
+      "nameKey": "caminhos-fogo-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-fogo-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-fogo-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Fogo 3",
+      "nameKey": "caminhos-fogo-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-fogo-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-fogo-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Fogo 4",
+      "nameKey": "caminhos-fogo-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-fogo-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-fogo-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Fogo 5",
+      "nameKey": "caminhos-fogo-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-fogo-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos 1",
+      "nameKey": "caminhos-humanos-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos 2",
+      "nameKey": "caminhos-humanos-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos 3",
+      "nameKey": "caminhos-humanos-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos 4",
+      "nameKey": "caminhos-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos",
+      "nameKey": "caminhos-humanos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-humanos-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Humanos 5",
+      "nameKey": "caminhos-humanos-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-humanos-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-luz-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Luz 1",
+      "nameKey": "caminhos-luz-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-luz-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-luz-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Luz 2",
+      "nameKey": "caminhos-luz-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-luz-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-luz-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Luz 3",
+      "nameKey": "caminhos-luz-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-luz-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-luz-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Luz 4",
+      "nameKey": "caminhos-luz-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-luz-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-luz-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Luz 5",
+      "nameKey": "caminhos-luz-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-luz-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-metamagia-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Metamagia 1",
+      "nameKey": "caminhos-metamagia-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-metamagia-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-metamagia-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Metamagia 2",
+      "nameKey": "caminhos-metamagia-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-metamagia-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-metamagia-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Metamagia 3",
+      "nameKey": "caminhos-metamagia-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-metamagia-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-metamagia-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Metamagia 4",
+      "nameKey": "caminhos-metamagia-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-metamagia-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-metamagia-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Metamagia 5",
+      "nameKey": "caminhos-metamagia-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-metamagia-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-plantas-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Plantas 1",
+      "nameKey": "caminhos-plantas-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-plantas-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-plantas-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Plantas 2",
+      "nameKey": "caminhos-plantas-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-plantas-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-plantas-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Plantas 3",
+      "nameKey": "caminhos-plantas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-plantas-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-dura",
+      "source": "anjos-requiem-de-fe",
+      "name": "Dura-",
+      "nameKey": "dura",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:dura"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-plantas-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Plantas 4",
+      "nameKey": "caminhos-plantas-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-plantas-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-plantas-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Plantas 5",
+      "nameKey": "caminhos-plantas-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-plantas-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-spiritum-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Spiritum 1",
+      "nameKey": "caminhos-spiritum-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-spiritum-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-spiritum-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Spiritum 2",
+      "nameKey": "caminhos-spiritum-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-spiritum-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-spiritum-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Spiritum 3",
+      "nameKey": "caminhos-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-spiritum-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-spiritum-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Spiritum 4",
+      "nameKey": "caminhos-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-spiritum-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-spiritum-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Spiritum 5",
+      "nameKey": "caminhos-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-spiritum-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-terra-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Terra 1",
+      "nameKey": "caminhos-terra-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-terra-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-terra-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Terra 2",
+      "nameKey": "caminhos-terra-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-terra-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-terra-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Terra 3",
+      "nameKey": "caminhos-terra-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-terra-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-terra-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Terra 4",
+      "nameKey": "caminhos-terra-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-terra-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-terra-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Terra 5",
+      "nameKey": "caminhos-terra-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-terra-5"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-trevas-1",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Trevas 1",
+      "nameKey": "caminhos-trevas-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-1"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-trevas-2",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Trevas 2",
+      "nameKey": "caminhos-trevas-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-2"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-trevas-3",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Trevas 3",
+      "nameKey": "caminhos-trevas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-3"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-trevas-4",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Trevas 4",
+      "nameKey": "caminhos-trevas-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-4"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-trevas-5",
+      "source": "anjos-requiem-de-fe",
+      "name": "Caminhos: Trevas 5",
+      "nameKey": "caminhos-trevas-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-5"
+    },
+    {
+      "id": "magia-cabala-2-detectar-magias",
+      "source": "cabala-2",
+      "name": "Detectar Magias",
+      "nameKey": "detectar-magias",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:cabala-2:detectar-magias"
+    },
+    {
+      "id": "magia-caminhos2-primeiro-circulo",
+      "source": "caminhos2",
+      "name": "Primeiro Círculo",
+      "nameKey": "primeiro-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:primeiro-circulo"
+    },
+    {
+      "id": "magia-caminhos2-entender-o",
+      "source": "caminhos2",
+      "name": "Entender-O",
+      "nameKey": "entender-o",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-o"
+    },
+    {
+      "id": "magia-caminhos2-quarto-circulo",
+      "source": "caminhos2",
+      "name": "Quarto Círculo",
+      "nameKey": "quarto-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:quarto-circulo"
+    },
+    {
+      "id": "magia-caminhos2-segundo-circulo",
+      "source": "caminhos2",
+      "name": "Segundo Círculo",
+      "nameKey": "segundo-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:segundo-circulo"
+    },
+    {
+      "id": "magia-caminhos2-sexto-circulo",
+      "source": "caminhos2",
+      "name": "Sexto Círculo",
+      "nameKey": "sexto-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:sexto-circulo"
+    },
+    {
+      "id": "magia-caminhos2-terceiro-circulo",
+      "source": "caminhos2",
+      "name": "Terceiro Círculo",
+      "nameKey": "terceiro-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:terceiro-circulo"
+    },
+    {
+      "id": "magia-caminhos2-controlar-afeta",
+      "source": "caminhos2",
+      "name": "Controlar-Afeta",
+      "nameKey": "controlar-afeta",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:controlar-afeta"
+    },
+    {
+      "id": "magia-caminhos2-brilhos",
+      "source": "caminhos2",
+      "name": "Brilhos",
+      "nameKey": "brilhos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:brilhos"
+    },
+    {
+      "id": "magia-caminhos2-quinto-circulo",
+      "source": "caminhos2",
+      "name": "Quinto Círculo",
+      "nameKey": "quinto-circulo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:quinto-circulo"
+    },
+    {
+      "id": "magia-caminhos2-gelo",
+      "source": "caminhos2",
+      "name": "Gelo",
+      "nameKey": "gelo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:gelo"
+    },
+    {
+      "id": "magia-caminhos2-controlar-pode",
+      "source": "caminhos2",
+      "name": "Controlar-Pode",
+      "nameKey": "controlar-pode",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:controlar-pode"
+    },
+    {
+      "id": "magia-caminhos2-cristais",
+      "source": "caminhos2",
+      "name": "Cristais",
+      "nameKey": "cristais",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:cristais"
+    },
+    {
+      "id": "magia-caminhos2-entender-pode",
+      "source": "caminhos2",
+      "name": "Entender-Pode",
+      "nameKey": "entender-pode",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-pode"
+    },
+    {
+      "id": "magia-caminhos2-criar-pode",
+      "source": "caminhos2",
+      "name": "Criar-Pode",
+      "nameKey": "criar-pode",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:criar-pode"
+    },
+    {
+      "id": "magia-caminhos2-vacuo",
+      "source": "caminhos2",
+      "name": "Vácuo",
+      "nameKey": "vacuo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:vacuo"
+    },
+    {
+      "id": "magia-caminhos2-entender-pequenos",
+      "source": "caminhos2",
+      "name": "Entender-Pequenos",
+      "nameKey": "entender-pequenos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-pequenos"
+    },
+    {
+      "id": "magia-daemon-medieval-geralmente",
+      "source": "daemon-medieval",
+      "name": "Geralmente",
+      "nameKey": "geralmente",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daemon-medieval:geralmente"
+    },
+    {
+      "id": "magia-daemon-medieval-limites",
+      "source": "daemon-medieval",
+      "name": "Limites",
+      "nameKey": "limites",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daemon-medieval:limites"
+    },
+    {
+      "id": "magia-demonios-a-divina-comedia-madragora",
+      "source": "demonios-a-divina-comedia",
+      "name": "MADRÁGORA",
+      "nameKey": "madragora",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:demonios-a-divina-comedia:madragora"
+    },
+    {
+      "id": "magia-demonios-a-divina-comedia-mandragora",
+      "source": "demonios-a-divina-comedia",
+      "name": "MANDRÁGORA",
+      "nameKey": "mandragora",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:demonios-a-divina-comedia:mandragora"
+    },
+    {
+      "id": "magia-domini-urbs-biblioteca-elfica-circulo-sagrado",
+      "source": "domini-urbs-biblioteca-elfica",
+      "name": "Círculo Sagrado",
+      "nameKey": "circulo-sagrado",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:domini-urbs-biblioteca-elfica:circulo-sagrado"
+    },
+    {
+      "id": "magia-energia-mistica-energia-misticas-internas",
+      "source": "energia-mistica",
+      "name": "Energia Místicas Internas",
+      "nameKey": "energia-misticas-internas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:energia-mistica:energia-misticas-internas"
+    },
+    {
+      "id": "magia-energia-mistica-controlar-entender-spiritum-metamagia-3",
+      "source": "energia-mistica",
+      "name": "Controlar/Entender Spiritum/Metamagia 3",
+      "nameKey": "controlar-entender-spiritum-metamagia-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:energia-mistica:controlar-entender-spiritum-metamagia-3"
+    },
+    {
+      "id": "magia-gigantes-mitologicos-criar-controlar-humanos-arkanun-8",
+      "source": "gigantes-mitologicos",
+      "name": "Criar/Controlar Humanos/Árkanun 8",
+      "nameKey": "criar-controlar-humanos-arkanun-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:gigantes-mitologicos:criar-controlar-humanos-arkanun-8"
+    },
+    {
+      "id": "magia-grimark201-controlar-spiritum-4",
+      "source": "grimark201",
+      "name": "Controlar Spiritum 4",
+      "nameKey": "controlar-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-spiritum-4"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-ar-4",
+      "source": "grimark201",
+      "name": "Criar/Controlar Ar 4",
+      "nameKey": "criar-controlar-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-ar-4"
+    },
+    {
+      "id": "magia-grimark201-entender-humanos-4",
+      "source": "grimark201",
+      "name": "Entender Humanos 4",
+      "nameKey": "entender-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-humanos-4"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-4",
+      "source": "grimark201",
+      "name": "Entender Spiritum 4",
+      "nameKey": "entender-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-4"
+    },
+    {
+      "id": "magia-grimark201-controlar-animais-5",
+      "source": "grimark201",
+      "name": "Controlar Animais 5",
+      "nameKey": "controlar-animais-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-animais-5"
+    },
+    {
+      "id": "magia-grimark201-criar-ar-4",
+      "source": "grimark201",
+      "name": "Criar Ar 4",
+      "nameKey": "criar-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-ar-4"
+    },
+    {
+      "id": "magia-grimark201-criar-arkanun-humanos-7",
+      "source": "grimark201",
+      "name": "Criar Arkanun/Humanos 7",
+      "nameKey": "criar-arkanun-humanos-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-arkanun-humanos-7"
+    },
+    {
+      "id": "magia-grimark201-criar-humanos-animais-4",
+      "source": "grimark201",
+      "name": "Criar Humanos/Animais 4",
+      "nameKey": "criar-humanos-animais-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-humanos-animais-4"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-ar-6",
+      "source": "grimark201",
+      "name": "Criar/Controlar Ar 6",
+      "nameKey": "criar-controlar-ar-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-ar-6"
+    },
+    {
+      "id": "magia-grimark201-entender-metamagia-1",
+      "source": "grimark201",
+      "name": "Entender Metamagia 1",
+      "nameKey": "entender-metamagia-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-metamagia-1"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-humanos-5",
+      "source": "grimark201",
+      "name": "Entender/Controlar Humanos 5",
+      "nameKey": "entender-controlar-humanos-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-5"
+    },
+    {
+      "id": "magia-grimark201-conjuracao-de-elementais",
+      "source": "grimark201",
+      "name": "Conjuração de Elementais",
+      "nameKey": "conjuracao-de-elementais",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:conjuracao-de-elementais"
+    },
+    {
+      "id": "magia-grimark201-criar-animais-3-8",
+      "source": "grimark201",
+      "name": "Criar Animais 3-8",
+      "nameKey": "criar-animais-3-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-animais-3-8"
+    },
+    {
+      "id": "magia-grimark201-criar-animais-humanos-4",
+      "source": "grimark201",
+      "name": "Criar Animais/Humanos 4",
+      "nameKey": "criar-animais-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-animais-humanos-4"
+    },
+    {
+      "id": "magia-grimark201-entender-humanos-spiritum-arkanun-4",
+      "source": "grimark201",
+      "name": "Entender Humanos/Spiritum/Arkanun 4",
+      "nameKey": "entender-humanos-spiritum-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-humanos-spiritum-arkanun-4"
+    },
+    {
+      "id": "magia-grimark201-entender-luz-agua-humanos-6",
+      "source": "grimark201",
+      "name": "Entender Luz/Água/Humanos 6",
+      "nameKey": "entender-luz-agua-humanos-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-luz-agua-humanos-6"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-arkanun-3",
+      "source": "grimark201",
+      "name": "Criar/Controlar Arkanun 3",
+      "nameKey": "criar-controlar-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-arkanun-3"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-arkanun-7",
+      "source": "grimark201",
+      "name": "Criar/Controlar Arkanun 7",
+      "nameKey": "criar-controlar-arkanun-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-arkanun-7"
+    },
+    {
+      "id": "magia-grimark201-entender-fogo-2-5",
+      "source": "grimark201",
+      "name": "Entender Fogo 2-5",
+      "nameKey": "entender-fogo-2-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-fogo-2-5"
+    },
+    {
+      "id": "magia-grimark201-controlar-criar-humanos-6",
+      "source": "grimark201",
+      "name": "Controlar/Criar Humanos 6",
+      "nameKey": "controlar-criar-humanos-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-criar-humanos-6"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-3-6",
+      "source": "grimark201",
+      "name": "Entender Spiritum 3-6",
+      "nameKey": "entender-spiritum-3-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-3-6"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-4-8",
+      "source": "grimark201",
+      "name": "Entender Spiritum 4-8",
+      "nameKey": "entender-spiritum-4-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-4-8"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-5",
+      "source": "grimark201",
+      "name": "Entender Spiritum 5",
+      "nameKey": "entender-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-5"
+    },
+    {
+      "id": "magia-grimark201-controlar-metamagia-4",
+      "source": "grimark201",
+      "name": "Controlar Metamagia 4",
+      "nameKey": "controlar-metamagia-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-metamagia-4"
+    },
+    {
+      "id": "magia-grimark201-controlar-trevas-10",
+      "source": "grimark201",
+      "name": "Controlar Trevas 10",
+      "nameKey": "controlar-trevas-10",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-trevas-10"
+    },
+    {
+      "id": "magia-grimark201-controlar-arkanun-humanos-2",
+      "source": "grimark201",
+      "name": "Controlar Arkanun/Humanos 2",
+      "nameKey": "controlar-arkanun-humanos-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-arkanun-humanos-2"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-spiritum-9",
+      "source": "grimark201",
+      "name": "Entender/Controlar Spiritum 9",
+      "nameKey": "entender-controlar-spiritum-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-9"
+    },
+    {
+      "id": "magia-grimark201-invocar-jakharte",
+      "source": "grimark201",
+      "name": "Invocar Jakharte",
+      "nameKey": "invocar-jakharte",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:invocar-jakharte"
+    },
+    {
+      "id": "magia-grimark201-invocar-kaelthorn",
+      "source": "grimark201",
+      "name": "Invocar Kaelthorn",
+      "nameKey": "invocar-kaelthorn",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:invocar-kaelthorn"
+    },
+    {
+      "id": "magia-grimark201-invocar-revella",
+      "source": "grimark201",
+      "name": "Invocar Revella",
+      "nameKey": "invocar-revella",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:invocar-revella"
+    },
+    {
+      "id": "magia-grimark201-invocar-saraphmael",
+      "source": "grimark201",
+      "name": "Invocar Saraphmael",
+      "nameKey": "invocar-saraphmael",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:invocar-saraphmael"
+    },
+    {
+      "id": "magia-grimark201-controlar-metamagia-9",
+      "source": "grimark201",
+      "name": "Controlar Metamagia 9",
+      "nameKey": "controlar-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-metamagia-9"
+    },
+    {
+      "id": "magia-grimark201-controlar-plantas-terra-6",
+      "source": "grimark201",
+      "name": "Controlar Plantas/Terra 6",
+      "nameKey": "controlar-plantas-terra-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-plantas-terra-6"
+    },
+    {
+      "id": "magia-grimark201-criar-animais-5",
+      "source": "grimark201",
+      "name": "Criar Animais 5",
+      "nameKey": "criar-animais-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-animais-5"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-humanos-6",
+      "source": "grimark201",
+      "name": "Criar/Controlar Humanos 6",
+      "nameKey": "criar-controlar-humanos-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-humanos-6"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-luz-3",
+      "source": "grimark201",
+      "name": "Criar/Controlar Luz 3",
+      "nameKey": "criar-controlar-luz-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-luz-3"
+    },
+    {
+      "id": "magia-grimark201-ligacoes-negras",
+      "source": "grimark201",
+      "name": "Ligações Negras",
+      "nameKey": "ligacoes-negras",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:ligacoes-negras"
+    },
+    {
+      "id": "magia-grimark201-controlar-humanos-5",
+      "source": "grimark201",
+      "name": "Controlar Humanos 5",
+      "nameKey": "controlar-humanos-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-humanos-5"
+    },
+    {
+      "id": "magia-grimark201-controlar-humanos-9",
+      "source": "grimark201",
+      "name": "Controlar Humanos 9",
+      "nameKey": "controlar-humanos-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-humanos-9"
+    },
+    {
+      "id": "magia-grimark201-criar-arkanun-9",
+      "source": "grimark201",
+      "name": "Criar Arkanun 9",
+      "nameKey": "criar-arkanun-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-arkanun-9"
+    },
+    {
+      "id": "magia-grimark201-entender-luz-humanos-4",
+      "source": "grimark201",
+      "name": "Entender Luz/Humanos 4",
+      "nameKey": "entender-luz-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-luz-humanos-4"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-9",
+      "source": "grimark201",
+      "name": "Entender Spiritum 9",
+      "nameKey": "entender-spiritum-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-9"
+    },
+    {
+      "id": "magia-grimark201-criar-animais-trevas-3",
+      "source": "grimark201",
+      "name": "Criar Animais/Trevas 3",
+      "nameKey": "criar-animais-trevas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-animais-trevas-3"
+    },
+    {
+      "id": "magia-grimark201-criar-humanos-8",
+      "source": "grimark201",
+      "name": "Criar Humanos 8",
+      "nameKey": "criar-humanos-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-humanos-8"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-3",
+      "source": "grimark201",
+      "name": "Entender Spiritum 3",
+      "nameKey": "entender-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-3"
+    },
+    {
+      "id": "magia-grimark201-entender-criar-humanos-3",
+      "source": "grimark201",
+      "name": "Entender/Criar Humanos 3",
+      "nameKey": "entender-criar-humanos-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-criar-humanos-3"
+    },
+    {
+      "id": "magia-grimark201-controlar-arkanun-animais-9",
+      "source": "grimark201",
+      "name": "Controlar Arkanun/Animais 9",
+      "nameKey": "controlar-arkanun-animais-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-arkanun-animais-9"
+    },
+    {
+      "id": "magia-grimark201-controlar-terra-humanos-5",
+      "source": "grimark201",
+      "name": "Controlar Terra/Humanos 5",
+      "nameKey": "controlar-terra-humanos-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-terra-humanos-5"
+    },
+    {
+      "id": "magia-grimark201-criar-plantas-6",
+      "source": "grimark201",
+      "name": "Criar Plantas 6",
+      "nameKey": "criar-plantas-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-plantas-6"
+    },
+    {
+      "id": "magia-grimark201-criar-plantas-8",
+      "source": "grimark201",
+      "name": "Criar Plantas 8",
+      "nameKey": "criar-plantas-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-plantas-8"
+    },
+    {
+      "id": "magia-grimark201-parlamento-das-arvores",
+      "source": "grimark201",
+      "name": "Parlamento das Árvores",
+      "nameKey": "parlamento-das-arvores",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:parlamento-das-arvores"
+    },
+    {
+      "id": "magia-grimark201-entender-plantas-3",
+      "source": "grimark201",
+      "name": "Entender Plantas 3",
+      "nameKey": "entender-plantas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-plantas-3"
+    },
+    {
+      "id": "magia-grimark201-putrefacao",
+      "source": "grimark201",
+      "name": "Putrefação",
+      "nameKey": "putrefacao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:putrefacao"
+    },
+    {
+      "id": "magia-grimark201-controlar-ar-metamagia-5",
+      "source": "grimark201",
+      "name": "Controlar Ar/Metamagia 5",
+      "nameKey": "controlar-ar-metamagia-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-ar-metamagia-5"
+    },
+    {
+      "id": "magia-grimark201-criar-animais-arkanun-6",
+      "source": "grimark201",
+      "name": "Criar Animais/Arkanun 6",
+      "nameKey": "criar-animais-arkanun-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-animais-arkanun-6"
+    },
+    {
+      "id": "magia-grimark201-criar-agua-9",
+      "source": "grimark201",
+      "name": "Criar Água 9",
+      "nameKey": "criar-agua-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-agua-9"
+    },
+    {
+      "id": "magia-grimark201-criar-controlar-humanos-4",
+      "source": "grimark201",
+      "name": "Criar/Controlar Humanos 4",
+      "nameKey": "criar-controlar-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-controlar-humanos-4"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-humanos-4",
+      "source": "grimark201",
+      "name": "Entender/Controlar Humanos 4",
+      "nameKey": "entender-controlar-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-4"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-metamagia-9",
+      "source": "grimark201",
+      "name": "Entender/Controlar Metamagia 9",
+      "nameKey": "entender-controlar-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-metamagia-9"
+    },
+    {
+      "id": "magia-grimark201-controlar-metamagia-10",
+      "source": "grimark201",
+      "name": "Controlar Metamagia 10",
+      "nameKey": "controlar-metamagia-10",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-metamagia-10"
+    },
+    {
+      "id": "magia-grimark201-entender-agua-2",
+      "source": "grimark201",
+      "name": "Entender Água 2",
+      "nameKey": "entender-agua-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-agua-2"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-spiritum-5",
+      "source": "grimark201",
+      "name": "Entender/Controlar Spiritum 5",
+      "nameKey": "entender-controlar-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-5"
+    },
+    {
+      "id": "magia-grimark201-entender-spiritum-8",
+      "source": "grimark201",
+      "name": "Entender Spiritum 8",
+      "nameKey": "entender-spiritum-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-spiritum-8"
+    },
+    {
+      "id": "magia-grimorio101-lista-de-magias",
+      "source": "grimorio101",
+      "name": "Lista de Magias",
+      "nameKey": "lista-de-magias",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:lista-de-magias"
+    },
+    {
+      "id": "magia-grimorio101-cegueira",
+      "source": "grimorio101",
+      "name": "Cegueira",
+      "nameKey": "cegueira",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:cegueira"
+    },
+    {
+      "id": "magia-grimorio101-controle-de-mortos-vivos",
+      "source": "grimorio101",
+      "name": "Controle de Mortos-Vivos",
+      "nameKey": "controle-de-mortos-vivos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:controle-de-mortos-vivos"
+    },
+    {
+      "id": "magia-grimorio101-cura-total",
+      "source": "grimorio101",
+      "name": "Cura Total",
+      "nameKey": "cura-total",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:cura-total"
+    },
+    {
+      "id": "magia-grimorio101-esconjuro-de-mortos-vivos",
+      "source": "grimorio101",
+      "name": "Esconjuro de Mortos-Vivos",
+      "nameKey": "esconjuro-de-mortos-vivos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:esconjuro-de-mortos-vivos"
+    },
+    {
+      "id": "magia-grimorio101-invulnerabilidade",
+      "source": "grimorio101",
+      "name": "Invulnerabilidade",
+      "nameKey": "invulnerabilidade",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:invulnerabilidade"
+    },
+    {
+      "id": "magia-grimorio101-magia-perdida",
+      "source": "grimorio101",
+      "name": "Magia Perdida",
+      "nameKey": "magia-perdida",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:magia-perdida"
+    },
+    {
+      "id": "magia-grimorio101-paralisia",
+      "source": "grimorio101",
+      "name": "Paralisia",
+      "nameKey": "paralisia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:paralisia"
+    },
+    {
+      "id": "magia-grimorio101-ressurreicao",
+      "source": "grimorio101",
+      "name": "Ressurreição",
+      "nameKey": "ressurreicao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:ressurreicao"
+    },
+    {
+      "id": "magia-grimorio101-o-sacrificio-do-heroi",
+      "source": "grimorio101",
+      "name": "O Sacrifício do Herói",
+      "nameKey": "o-sacrificio-do-heroi",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:o-sacrificio-do-heroi"
+    },
+    {
+      "id": "magia-grimorio101-sanidade",
+      "source": "grimorio101",
+      "name": "Sanidade",
+      "nameKey": "sanidade",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:sanidade"
+    },
+    {
+      "id": "magia-grimorio101-a-teleportacao-infalivel",
+      "source": "grimorio101",
+      "name": "A Teleportação Infalível",
+      "nameKey": "a-teleportacao-infalivel",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio101:a-teleportacao-infalivel"
+    },
+    {
+      "id": "magia-guia-do-aventureiro-de-arton-passado",
+      "source": "guia-do-aventureiro-de-arton",
+      "name": "Passado",
+      "nameKey": "passado",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guia-do-aventureiro-de-arton:passado"
+    },
+    {
+      "id": "magia-guia-dragoes-vol-ii-couro-rigido",
+      "source": "guia-dragoes-vol-ii",
+      "name": "Couro Rígido",
+      "nameKey": "couro-rigido",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guia-dragoes-vol-ii:couro-rigido"
+    },
+    {
+      "id": "magia-guia-dragoes-vol-ii-habilidade-magica",
+      "source": "guia-dragoes-vol-ii",
+      "name": "Habilidade Mágica",
+      "nameKey": "habilidade-magica",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guia-dragoes-vol-ii:habilidade-magica"
+    },
+    {
+      "id": "magia-guiademagias-natural-4",
+      "source": "guiademagias",
+      "name": "Natural 4",
+      "nameKey": "natural-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:natural-4"
+    },
+    {
+      "id": "magia-guiademagias-focus",
+      "source": "guiademagias",
+      "name": "Focus",
+      "nameKey": "focus",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:focus"
+    },
+    {
+      "id": "magia-guiademagias-arma-poderosa",
+      "source": "guiademagias",
+      "name": "Arma Poderosa",
+      "nameKey": "arma-poderosa",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:arma-poderosa"
+    },
+    {
+      "id": "magia-guiademagias-criar",
+      "source": "guiademagias",
+      "name": "Criar",
+      "nameKey": "criar",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:criar"
+    },
+    {
+      "id": "magia-guiademagias-anti-magica",
+      "source": "guiademagias",
+      "name": "Anti-Mágica",
+      "nameKey": "anti-magica",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:anti-magica"
+    },
+    {
+      "id": "magia-guiademagias-enquanto",
+      "source": "guiademagias",
+      "name": "Enquanto",
+      "nameKey": "enquanto",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:enquanto"
+    },
+    {
+      "id": "magia-guiademagias-mestre",
+      "source": "guiademagias",
+      "name": "Mestre",
+      "nameKey": "mestre",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:mestre"
+    },
+    {
+      "id": "magia-guiademagias-para",
+      "source": "guiademagias",
+      "name": "Para",
+      "nameKey": "para",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:para"
+    },
+    {
+      "id": "magia-guiademagias-estas",
+      "source": "guiademagias",
+      "name": "Estas",
+      "nameKey": "estas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:estas"
+    },
+    {
+      "id": "magia-guiademagias-gracas",
+      "source": "guiademagias",
+      "name": "Graças",
+      "nameKey": "gracas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:gracas"
+    },
+    {
+      "id": "magia-guiademagias-metamagia-espiritos",
+      "source": "guiademagias",
+      "name": "Metamagia/Espíritos",
+      "nameKey": "metamagia-espiritos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:metamagia-espiritos"
+    },
+    {
+      "id": "magia-guiademagias-pms",
+      "source": "guiademagias",
+      "name": "PMs",
+      "nameKey": "pms",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:pms"
+    },
+    {
+      "id": "magia-guiademagias-personagens",
+      "source": "guiademagias",
+      "name": "Personagens",
+      "nameKey": "personagens",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:personagens"
+    },
+    {
+      "id": "magia-guiademagias-concedido",
+      "source": "guiademagias",
+      "name": "Concedido",
+      "nameKey": "concedido",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:concedido"
+    },
+    {
+      "id": "magia-guiademagias-veneno",
+      "source": "guiademagias",
+      "name": "Veneno",
+      "nameKey": "veneno",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:veneno"
+    },
+    {
+      "id": "magia-guiademagias-dadiva-de-wynna",
+      "source": "guiademagias",
+      "name": "Dádiva de Wynna",
+      "nameKey": "dadiva-de-wynna",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:dadiva-de-wynna"
+    },
+    {
+      "id": "magia-guiademagias-controlar-agua-trevas-humanos-daemon",
+      "source": "guiademagias",
+      "name": "Controlar Água/Trevas/Humanos (Daemon)",
+      "nameKey": "controlar-agua-trevas-humanos-daemon",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:controlar-agua-trevas-humanos-daemon"
+    },
+    {
+      "id": "magia-guiademagias-a-embriaguez-coletiva-de-bakunin",
+      "source": "guiademagias",
+      "name": "A Embriaguez Coletiva de Bakunin",
+      "nameKey": "a-embriaguez-coletiva-de-bakunin",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:a-embriaguez-coletiva-de-bakunin"
+    },
+    {
+      "id": "magia-guiademagias-suponhamos",
+      "source": "guiademagias",
+      "name": "Suponhamos",
+      "nameKey": "suponhamos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:suponhamos"
+    },
+    {
+      "id": "magia-guiademagias-espiritos",
+      "source": "guiademagias",
+      "name": "Espíritos",
+      "nameKey": "espiritos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:espiritos"
+    },
+    {
+      "id": "magia-guiademagias-metamagia-humanos",
+      "source": "guiademagias",
+      "name": "Metamagia/Humanos",
+      "nameKey": "metamagia-humanos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:metamagia-humanos"
+    },
+    {
+      "id": "magia-guiademagias-identificacao",
+      "source": "guiademagias",
+      "name": "Identificação",
+      "nameKey": "identificacao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:identificacao"
+    },
+    {
+      "id": "magia-guiademagias-koroakovis",
+      "source": "guiademagias",
+      "name": "Koroakovis",
+      "nameKey": "koroakovis",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:koroakovis"
+    },
+    {
+      "id": "magia-guiademagias-especial",
+      "source": "guiademagias",
+      "name": "Especial",
+      "nameKey": "especial",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:especial"
+    },
+    {
+      "id": "magia-guiademagias-animais-humanos-metamagia-8",
+      "source": "guiademagias",
+      "name": "Animais/Humanos/Metamagia 8",
+      "nameKey": "animais-humanos-metamagia-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:animais-humanos-metamagia-8"
+    },
+    {
+      "id": "magia-guiademagias-elemental-4",
+      "source": "guiademagias",
+      "name": "Elemental 4",
+      "nameKey": "elemental-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:elemental-4"
+    },
+    {
+      "id": "magia-guiademagias-durante",
+      "source": "guiademagias",
+      "name": "Durante",
+      "nameKey": "durante",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:durante"
+    },
+    {
+      "id": "magia-guiademagias-metamagia-humanos-8",
+      "source": "guiademagias",
+      "name": "Metamagia/Humanos 8",
+      "nameKey": "metamagia-humanos-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:metamagia-humanos-8"
+    },
+    {
+      "id": "magia-guiademagias-regeneracao",
+      "source": "guiademagias",
+      "name": "Regeneração",
+      "nameKey": "regeneracao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:regeneracao"
+    },
+    {
+      "id": "magia-guiademagias-o-resplendor-de-azgher",
+      "source": "guiademagias",
+      "name": "O Resplendor de Azgher",
+      "nameKey": "o-resplendor-de-azgher",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:o-resplendor-de-azgher"
+    },
+    {
+      "id": "magia-guiademagias-restauracao",
+      "source": "guiademagias",
+      "name": "Restauração",
+      "nameKey": "restauracao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:restauracao"
+    },
+    {
+      "id": "magia-guiademagias-schaubert",
+      "source": "guiademagias",
+      "name": "Schaubert",
+      "nameKey": "schaubert",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:schaubert"
+    },
+    {
+      "id": "magia-guiademagias-aasaroth",
+      "source": "guiademagias",
+      "name": "Aasaroth",
+      "nameKey": "aasaroth",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:aasaroth"
+    },
+    {
+      "id": "magia-guiademagias-doencas",
+      "source": "guiademagias",
+      "name": "Doenças",
+      "nameKey": "doencas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:doencas"
+    },
+    {
+      "id": "magia-guiademagias-magica",
+      "source": "guiademagias",
+      "name": "Mágica",
+      "nameKey": "magica",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:magica"
+    },
+    {
+      "id": "magia-imortal-a-centelha-mortus-immortus",
+      "source": "imortal-a-centelha",
+      "name": "Mortus Immortus",
+      "nameKey": "mortus-immortus",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:imortal-a-centelha:mortus-immortus"
+    },
+    {
+      "id": "magia-lobisomem-a-maldicao-v2-biblioteca-elfica-forja-de-hefesto",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Forja de Hefesto",
+      "nameKey": "forja-de-hefesto",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:forja-de-hefesto"
+    },
+    {
+      "id": "magia-lobisomem-a-maldicao-v2-biblioteca-elfica-luz-de-apolo",
+      "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+      "name": "Luz de Apolo",
+      "nameKey": "luz-de-apolo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:lobisomem-a-maldicao-v2-biblioteca-elfica:luz-de-apolo"
+    },
+    {
+      "id": "magia-magia-negra-irmandade-de-tenebras",
+      "source": "magia-negra",
+      "name": "Irmandade de Tenebras",
+      "nameKey": "irmandade-de-tenebras",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:magia-negra:irmandade-de-tenebras"
+    },
+    {
+      "id": "magia-magia-negra-graus",
+      "source": "magia-negra",
+      "name": "Graus",
+      "nameKey": "graus",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:magia-negra:graus"
+    },
+    {
+      "id": "magia-magia-negra-obscuridade",
+      "source": "magia-negra",
+      "name": "Obscuridade",
+      "nameKey": "obscuridade",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:magia-negra:obscuridade"
+    },
+    {
+      "id": "magia-manual-de-converscao-abencoar",
+      "source": "manual-de-converscao",
+      "name": "Abençoar",
+      "nameKey": "abencoar",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:manual-de-converscao:abencoar"
+    },
+    {
+      "id": "magia-racas-gargula",
+      "source": "racas",
+      "name": "Gárgula",
+      "nameKey": "gargula",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:gargula"
+    },
+    {
+      "id": "magia-racas-meio-dragap",
+      "source": "racas",
+      "name": "Meio-Dragãp",
+      "nameKey": "meio-dragap",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:meio-dragap"
+    },
+    {
+      "id": "magia-racas-lich",
+      "source": "racas",
+      "name": "Lich",
+      "nameKey": "lich",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:lich"
+    },
+    {
+      "id": "magia-racas-mumia",
+      "source": "racas",
+      "name": "Múmia",
+      "nameKey": "mumia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:mumia"
+    },
+    {
+      "id": "magia-racas-sereia",
+      "source": "racas",
+      "name": "Sereia",
+      "nameKey": "sereia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:sereia"
+    },
+    {
+      "id": "magia-secundarios-criar-fumaca-2",
+      "source": "secundarios",
+      "name": "Criar Fumaça 2",
+      "nameKey": "criar-fumaca-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:criar-fumaca-2"
+    },
+    {
+      "id": "magia-secundarios-controlar-cristais-2",
+      "source": "secundarios",
+      "name": "Controlar Cristais 2",
+      "nameKey": "controlar-cristais-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:controlar-cristais-2"
+    },
+    {
+      "id": "magia-secundarios-criar-controlar-gelo-4",
+      "source": "secundarios",
+      "name": "Criar/Controlar Gelo 4",
+      "nameKey": "criar-controlar-gelo-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:criar-controlar-gelo-4"
+    },
+    {
+      "id": "magia-secundarios-criar-controlar-magma-6",
+      "source": "secundarios",
+      "name": "Criar/Controlar Magma 6",
+      "nameKey": "criar-controlar-magma-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:criar-controlar-magma-6"
+    },
+    {
+      "id": "magia-secundarios-criar-controlar-relampagos-6",
+      "source": "secundarios",
+      "name": "Criar/Controlar Relâmpagos 6",
+      "nameKey": "criar-controlar-relampagos-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:criar-controlar-relampagos-6"
+    }
+  ]
+}

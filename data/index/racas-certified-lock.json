@@ -1,0 +1,484 @@
+{
+  "version": 1,
+  "area": "racas",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_race_claims_do_not_enter_racas": true,
+    "certified_aprimoramentos_kits_and_classes_are_not_reclassified_as_racas": true
+  },
+  "certifiedCount": 47,
+  "rejectedCount": 810,
+  "records": [
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-brokk-femea",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Brokk Fêmea",
+      "nameKey": "brokk-femea",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:brokk-femea"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-brokk-macho",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Brokk Macho",
+      "nameKey": "brokk-macho",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:brokk-macho"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-bugbear",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Bugbear",
+      "nameKey": "bugbear",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:bugbear"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-gigante",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Gigante",
+      "nameKey": "gigante",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:gigante"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-gnoll",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Gnoll",
+      "nameKey": "gnoll",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:gnoll"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-golem",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Golem",
+      "nameKey": "golem",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:golem"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-gargula",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Gárgula",
+      "nameKey": "gargula",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:gargula"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-golem",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Meio-Golem",
+      "nameKey": "meio-golem",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:meio-golem"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-hobgoblin",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Hobgoblin",
+      "nameKey": "hobgoblin",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:hobgoblin"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-lagarto",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Lagarto",
+      "nameKey": "homem-lagarto",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-lagarto"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-sapo",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Sapo",
+      "nameKey": "homem-sapo",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-sapo"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-sapo-superior",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Sapo Superior",
+      "nameKey": "homem-sapo-superior",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-sapo-superior"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-licantropo-animal",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Licantropo Animal",
+      "nameKey": "licantropo-animal",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:licantropo-animal"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-javali-bestial",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Javali Bestial",
+      "nameKey": "homem-javali-bestial",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-javali-bestial"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-rato-bestial",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Rato Bestial",
+      "nameKey": "homem-rato-bestial",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-rato-bestial"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-tigre-bestial",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Tigre Bestial",
+      "nameKey": "homem-tigre-bestial",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-tigre-bestial"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-homem-urso-bestial",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Homem-Urso Bestial",
+      "nameKey": "homem-urso-bestial",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:homem-urso-bestial"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-lobisomem-bestial",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Lobisomem Bestial",
+      "nameKey": "lobisomem-bestial",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:lobisomem-bestial"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-manta",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Manta",
+      "nameKey": "manta",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:manta"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-dragap",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Meio-Dragãp",
+      "nameKey": "meio-dragap",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:meio-dragap"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-esqueleto",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Esqueleto",
+      "nameKey": "esqueleto",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:esqueleto"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-fantasma",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Fantasma",
+      "nameKey": "fantasma",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:fantasma"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-ghoul",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Ghoul",
+      "nameKey": "ghoul",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:ghoul"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-lich",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Lich",
+      "nameKey": "lich",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:lich"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-mumia",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Múmia",
+      "nameKey": "mumia",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:mumia"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-vampiro",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Vampiro",
+      "nameKey": "vampiro",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:vampiro"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-zumbi",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Zumbi",
+      "nameKey": "zumbi",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:zumbi"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-ogre",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Meio-Ogre",
+      "nameKey": "meio-ogre",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:meio-ogre"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-ogre",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Ogre",
+      "nameKey": "ogre",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:ogre"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-orc",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Orc",
+      "nameKey": "orc",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:orc"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-orc",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Meio-Orc",
+      "nameKey": "meio-orc",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:meio-orc"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-orog",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Orog",
+      "nameKey": "orog",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:orog"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-ceratops",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Ceratops",
+      "nameKey": "ceratops",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:ceratops"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-dragoas-cacadoras",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Dragoas-Caçadoras",
+      "nameKey": "dragoas-cacadoras",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:dragoas-cacadoras"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-planador",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Planador",
+      "nameKey": "planador",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:planador"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-ptero",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Ptero",
+      "nameKey": "ptero",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:ptero"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-veloci",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Veloci",
+      "nameKey": "veloci",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:veloci"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-brownie",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Brownie",
+      "nameKey": "brownie",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:brownie"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-dragonete",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Dragonete",
+      "nameKey": "dragonete",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:dragonete"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-satiro",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Sátiro",
+      "nameKey": "satiro",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:satiro"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-sprite",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Sprite",
+      "nameKey": "sprite",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:sprite"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-sereia",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "name": "Sereia",
+      "nameKey": "sereia",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:sereia"
+    },
+    {
+      "id": "raca-guia-dos-dragoes-1-biblioteca-elfica-drago-fada",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "name": "DRAGO-FADA",
+      "nameKey": "drago-fada",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-dos-dragoes-1-biblioteca-elfica:drago-fada"
+    },
+    {
+      "id": "raca-guia-dos-dragoes-1-biblioteca-elfica-dragotauro",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "name": "DRAGOTAURO",
+      "nameKey": "dragotauro",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-dos-dragoes-1-biblioteca-elfica:dragotauro"
+    },
+    {
+      "id": "raca-ray-elfos",
+      "source": "ray",
+      "name": "Elfos",
+      "nameKey": "elfos",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:ray:elfos"
+    },
+    {
+      "id": "raca-ray-imortais",
+      "source": "ray",
+      "name": "Imortais",
+      "nameKey": "imortais",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:ray:imortais"
+    },
+    {
+      "id": "raca-ray-meio-elfos",
+      "source": "ray",
+      "name": "Meio-elfos",
+      "nameKey": "meio-elfos",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:ray:meio-elfos"
+    }
+  ]
+}

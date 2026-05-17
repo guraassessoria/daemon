@@ -2,7 +2,7 @@
 
 Varredura das 190 fontes com trava de certificacao para classes, profissoes, arquetipos e cargos.
 
-- Certified classes: 20
+- Certified classes: 12
 - Rejected candidates: 0
 
 ## Policy
@@ -16,8 +16,6 @@ Varredura das 190 fontes com trava de certificacao para classes, profissoes, arq
 | Source | Certified |
 | --- | ---: |
 | `abismo-infinito-quick-start` | 10 |
-| `gerador-de-criaturas` | 5 |
-| `demonios-a-divina-comedia` | 3 |
 | `monges-daemon` | 1 |
 | `fadas-3-edicao` | 1 |
 

@@ -22,8 +22,10 @@ AREA_LABELS = {
     "aprimoramentos": "Aprimoramentos",
     "kits": "Kits",
     "classes": "Classes",
-    "racas": "Racas e Linhagens",
-    "poderes_magias": "Poderes e Magias",
+    "racas": "Racas",
+    "linhagens": "Linhagens",
+    "poderes": "Poderes",
+    "magias": "Magias",
     "rituais": "Rituais",
     "itens_equipamentos": "Itens e Equipamentos",
     "criaturas_npcs": "Criaturas e NPCs",
@@ -42,7 +44,7 @@ CATEGORY_TO_AREA = {
     "character_class": "classes",
     "kit_class": "kits",
     "race_lineage": "racas",
-    "power_magic": "poderes_magias",
+    "power_magic": "poderes",
     "ritual_spell": "rituais",
     "item_equipment": "itens_equipamentos",
     "creature_npc": "criaturas_npcs",
@@ -56,11 +58,13 @@ AREA_KEYWORDS = [
     ("aprimoramentos", ("aprimoramento", "aprimoramentos", "vantagem", "desvantagem", "talento", "talentos")),
     ("classes", ("classe", "classes", "classe de prestigio", "profissao", "profissoes", "ocupacao", "ocupacoes")),
     ("kits", ("kit", "kits", "arquetipo", "arquetipos")),
-    ("racas", ("raca", "racas", "linhagem", "linhagens", "elfo", "elfos", "anao", "anoes", "vampiro", "vampiros", "youkai", "youkais")),
+    ("racas", ("raca", "racas", "elfo", "elfos", "anao", "anoes", "sprite", "sereia", "orc", "goblin", "ogre")),
+    ("linhagens", ("linhagem", "linhagens", "vampiro", "vampiros", "youkai", "youkais", "imortal", "imortais", "fera", "feras")),
     ("atributos_pericias", ("atributo", "atributos", "pericia", "pericias", "especializacao", "especializacoes")),
     ("combate", ("combate", "manobra", "manobras", "ataque", "defesa", "dano", "armas", "armaduras")),
     ("rituais", ("ritual", "rituais", "grimorio", "invocacao", "encantamento", "circulo", "circulos")),
-    ("poderes_magias", ("magia", "magias", "poder", "poderes", "caminho", "caminhos", "kidou", "psiquismo", "milagre")),
+    ("poderes", ("poder", "poderes", "superpoder", "superpoderes", "psiquismo", "psionico", "milagre", "reiatsu")),
+    ("magias", ("magia", "magias", "caminho", "caminhos", "kidou", "kidous", "focus", "feitico", "feiticos")),
     ("itens_equipamentos", ("item", "itens", "equipamento", "equipamentos", "arma", "armas", "armadura", "veiculo", "veiculos")),
     ("criaturas_npcs", ("criatura", "criaturas", "monstro", "monstros", "npc", "npcs", "demonio", "anjos", "dragao", "dragoes")),
     ("aventuras", ("aventura", "aventuras", "campanha", "campanhas", "cenario pronto", "quick start")),
@@ -142,6 +146,54 @@ def class_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict
     return by_id, by_source_name
 
 
+def race_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "racas-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
+def lineage_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "linhagens-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
+def power_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "poderes-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
+def magic_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "magias-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
 def is_aprimoramento_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
     normalized_name = normalize_for_search(name)
@@ -186,6 +238,71 @@ def is_class_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     )
 
 
+def is_race_claim(entity: dict[str, Any], category: str, name: str) -> bool:
+    tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
+    normalized_name = normalize_for_search(name)
+    name_terms = set(normalized_name.split())
+    entity_id = str(entity.get("id") or "")
+    return (
+        entity.get("subtype") in {"raca", "race"}
+        or entity_id.startswith("raca-")
+        or category == "race_lineage"
+        or "raca" in tags
+        or "racas" in tags
+        or "raca" in name_terms
+        or "racas" in name_terms
+    )
+
+
+def is_lineage_claim(entity: dict[str, Any], category: str, name: str) -> bool:
+    tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
+    normalized_name = normalize_for_search(name)
+    name_terms = set(normalized_name.split())
+    return (
+        entity.get("subtype") in {"linhagem", "lineage"}
+        or "linhagem" in tags
+        or "linhagens" in tags
+        or "linhagem" in name_terms
+        or "linhagens" in name_terms
+    )
+
+
+def is_power_claim(entity: dict[str, Any], category: str, name: str) -> bool:
+    tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
+    normalized_name = normalize_for_search(name)
+    name_terms = set(normalized_name.split())
+    entity_id = str(entity.get("id") or "")
+    return (
+        entity.get("subtype") == "poder"
+        or entity_id.startswith("poder-")
+        or "poder" in tags
+        or "poderes" in tags
+        or "superpoder" in tags
+        or "superpoderes" in tags
+        or "poder" in name_terms
+        or "poderes" in name_terms
+        or (category == "power_magic" and "magia" not in tags and "magias" not in tags)
+    )
+
+
+def is_magic_claim(entity: dict[str, Any], category: str, name: str) -> bool:
+    tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
+    normalized_name = normalize_for_search(name)
+    name_terms = set(normalized_name.split())
+    entity_id = str(entity.get("id") or "")
+    return (
+        entity.get("subtype") == "magia"
+        or entity_id.startswith("magia-")
+        or "magia" in tags
+        or "magias" in tags
+        or "caminho" in tags
+        or "caminhos" in tags
+        or "magia" in name_terms
+        or "magias" in name_terms
+        or (category == "power_magic" and ("magia" in tags or "magias" in tags))
+    )
+
+
 def infer_area(category: str, name: str, summary: str, source_title: str) -> tuple[str, float, list[str]]:
     haystack = normalize_for_search(" ".join([name, summary, source_title]))
     matches: list[str] = []
@@ -194,7 +311,7 @@ def infer_area(category: str, name: str, summary: str, source_title: str) -> tup
         hit_count = sum(1 for keyword in normalized_keywords if keyword in haystack)
         if hit_count:
             matches.append(area)
-            if area in {"aprimoramentos", "classes", "kits", "racas"}:
+            if area in {"aprimoramentos", "classes", "kits", "racas", "linhagens", "poderes", "magias"}:
                 return area, min(0.92, 0.76 + hit_count * 0.04), matches
             if area != CATEGORY_TO_AREA.get(category):
                 return area, min(0.88, 0.72 + hit_count * 0.04), matches
@@ -210,10 +327,22 @@ def area_for_entity(entity: dict[str, Any], category: str, name: str, summary: s
         return "aprimoramentos", 0.9, ["aprimoramentos"]
     if subtype in {"kit", "class"}:
         return "kits" if subtype == "kit" else "classes", 0.9, [subtype]
-    if subtype in {"raca", "race", "lineage"}:
+    if subtype in {"raca", "race"}:
         return "racas", 0.9, ["racas"]
+    if subtype in {"linhagem", "lineage"}:
+        return "linhagens", 0.9, ["linhagens"]
+    if subtype == "poder":
+        return "poderes", 0.9, ["poderes"]
+    if subtype == "magia":
+        return "magias", 0.9, ["magias"]
     area, confidence, matches = infer_area(category, name, summary, source_title)
     if area in {"classes", "kits"} and category != "kit_class":
+        return CATEGORY_TO_AREA.get(category, "fontes"), 0.78, matches
+    if area == "racas" and category != "race_lineage":
+        return CATEGORY_TO_AREA.get(category, "fontes"), 0.78, matches
+    if area == "linhagens" and category != "race_lineage":
+        return CATEGORY_TO_AREA.get(category, "fontes"), 0.78, matches
+    if area in {"poderes", "magias"} and category != "power_magic":
         return CATEGORY_TO_AREA.get(category, "fontes"), 0.78, matches
     return area, confidence, matches
 
@@ -260,12 +389,24 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     lock_by_id, lock_by_source_name = aprimoramento_locks()
     kit_lock_by_id, kit_lock_by_source_name = kit_locks()
     class_lock_by_id, class_lock_by_source_name = class_locks()
+    race_lock_by_id, race_lock_by_source_name = race_locks()
+    lineage_lock_by_id, lineage_lock_by_source_name = lineage_locks()
+    power_lock_by_id, power_lock_by_source_name = power_locks()
+    magic_lock_by_id, magic_lock_by_source_name = magic_locks()
     quarantined_aprimoramentos: list[dict[str, Any]] = []
     duplicate_aprimoramentos: list[dict[str, Any]] = []
     quarantined_kits: list[dict[str, Any]] = []
     duplicate_kits: list[dict[str, Any]] = []
     quarantined_classes: list[dict[str, Any]] = []
     duplicate_classes: list[dict[str, Any]] = []
+    quarantined_races: list[dict[str, Any]] = []
+    duplicate_races: list[dict[str, Any]] = []
+    quarantined_lineages: list[dict[str, Any]] = []
+    duplicate_lineages: list[dict[str, Any]] = []
+    quarantined_powers: list[dict[str, Any]] = []
+    duplicate_powers: list[dict[str, Any]] = []
+    quarantined_magics: list[dict[str, Any]] = []
+    duplicate_magics: list[dict[str, Any]] = []
     for path in sorted(ENTITIES_DIR.glob("*.json")):
         if path.name == "source.json":
             continue
@@ -283,6 +424,10 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
             is_certified_aprimoramento = entity_id in lock_by_id
             is_certified_kit = entity_id in kit_lock_by_id
             is_certified_class = entity_id in class_lock_by_id
+            is_certified_race = entity_id in race_lock_by_id
+            is_certified_lineage = entity_id in lineage_lock_by_id
+            is_certified_power = entity_id in power_lock_by_id
+            is_certified_magic = entity_id in magic_lock_by_id
             if source_name_key in lock_by_source_name and not is_certified_aprimoramento:
                 duplicate_aprimoramentos.append(
                     {
@@ -322,7 +467,59 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento:
+            if source_name_key in race_lock_by_source_name and not is_certified_race:
+                duplicate_races.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": race_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if source_name_key in lineage_lock_by_source_name and not is_certified_lineage:
+                duplicate_lineages.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": lineage_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if source_name_key in power_lock_by_source_name and not is_certified_power:
+                duplicate_powers.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": power_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if source_name_key in magic_lock_by_source_name and not is_certified_magic:
+                duplicate_magics.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": magic_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
                 quarantined_aprimoramentos.append(
                     {
                         "id": entity_id,
@@ -335,7 +532,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class:
+            if is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
                 quarantined_kits.append(
                     {
                         "id": entity_id,
@@ -348,7 +545,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit:
+            if is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic:
                 quarantined_classes.append(
                     {
                         "id": entity_id,
@@ -361,12 +558,72 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
+            if is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic:
+                quarantined_lineages.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "reason": "uncertified_lineage_claim",
+                    }
+                )
+                continue
+            if is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic:
+                quarantined_races.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "reason": "uncertified_race_claim",
+                    }
+                )
+                continue
+            if is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage:
+                quarantined_powers.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "reason": "uncertified_power_claim",
+                    }
+                )
+                continue
+            if is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage:
+                quarantined_magics.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "reason": "uncertified_magic_claim",
+                    }
+                )
+                continue
             if is_certified_aprimoramento:
                 category = "character_option"
             if is_certified_kit:
                 category = "kit_class"
             if is_certified_class:
                 category = "character_class"
+            if is_certified_race:
+                category = "race_lineage"
+            if is_certified_lineage:
+                category = "race_lineage"
+            if is_certified_power:
+                category = "power_magic"
+            if is_certified_magic:
+                category = "power_magic"
             entries = entity.get("entries") or []
             summary = " ".join(entry for entry in entries if isinstance(entry, str))
             if is_certified_aprimoramento:
@@ -375,6 +632,14 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 area, confidence, matched_areas = "kits", 1.0, ["kits", "certificado"]
             elif is_certified_class:
                 area, confidence, matched_areas = "classes", 1.0, ["classes", "certificado"]
+            elif is_certified_race:
+                area, confidence, matched_areas = "racas", 1.0, ["racas", "certificado"]
+            elif is_certified_lineage:
+                area, confidence, matched_areas = "linhagens", 1.0, ["linhagens", "certificado"]
+            elif is_certified_power:
+                area, confidence, matched_areas = "poderes", 1.0, ["poderes", "certificado"]
+            elif is_certified_magic:
+                area, confidence, matched_areas = "magias", 1.0, ["magias", "certificado"]
             else:
                 area, confidence, matched_areas = area_for_entity(
                     entity,
@@ -418,6 +683,14 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 "certificationMethod",
                 "kitContext",
                 "classContext",
+                "raceContext",
+                "powerMagicContext",
+                "costText",
+                "initialAgeText",
+                "attributesText",
+                "advantagesText",
+                "disadvantagesText",
+                "weaknessesText",
             ]:
                 if optional_field in entity:
                     item[optional_field] = entity[optional_field]
@@ -429,6 +702,14 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     write_json(WORK_DIR / "kits-duplicate-blocks.json", duplicate_kits)
     write_json(WORK_DIR / "classes-quarantine.json", quarantined_classes)
     write_json(WORK_DIR / "classes-duplicate-blocks.json", duplicate_classes)
+    write_json(WORK_DIR / "racas-quarantine.json", quarantined_races)
+    write_json(WORK_DIR / "racas-duplicate-blocks.json", duplicate_races)
+    write_json(WORK_DIR / "linhagens-quarantine.json", quarantined_lineages)
+    write_json(WORK_DIR / "linhagens-duplicate-blocks.json", duplicate_lineages)
+    write_json(WORK_DIR / "poderes-quarantine.json", quarantined_powers)
+    write_json(WORK_DIR / "poderes-duplicate-blocks.json", duplicate_powers)
+    write_json(WORK_DIR / "magias-quarantine.json", quarantined_magics)
+    write_json(WORK_DIR / "magias-duplicate-blocks.json", duplicate_magics)
     return items
 
 
@@ -438,7 +719,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
         area: {"entities": [], "sourceParts": []} for area in AREA_LABELS
     }
     for item in part_items:
-        if item["area"] in {"aprimoramentos", "kits", "classes"}:
+        if item["area"] in {"aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias"}:
             continue
         by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["sourceParts"].append(item)
     for item in entity_items:
@@ -505,7 +786,7 @@ def write_report(summary: dict[str, Any]) -> None:
             "",
             "- This is a pass-1 catalog based on existing book parts plus curated entities already extracted.",
             "- Duplicate IDs are resolved to their canonical source before the 190-source ready list is built.",
-            "- The next pass should split high-value source parts into individual mechanical records, starting with aprimoramentos, kits/classes, racas and pericias.",
+            "- The next pass should keep splitting high-value source parts into individual mechanical records, including pericias and remaining uncategorized rules.",
             "",
         ]
     )

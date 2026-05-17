@@ -4,7 +4,7 @@
   "name": "Tabelas e Geradores",
   "readySourceCount": 190,
   "entityCount": 0,
-  "sourcePartCount": 3,
+  "sourcePartCount": 2,
   "entities": [],
   "sourceParts": [
     {
@@ -21,30 +21,6 @@
       "summary": "MAYTRÉIA – AS DIFERENÇAS ENTRE OS DIVERSOS SERES DOS PLANOS Quando em Maytréia nos referimos a Elementais, Elementares, Conceitos e Egrégoras, alguns podem pensar que não existem diferenças fundamentais entre eles. Isso não é verdade. Vamos explicar a diferença existente em cada um na tabela abaixo. Lembramos que estamos falando de forma simplificada. Cabe a...",
       "entityRefs": [],
       "tags": [
-        "attribute_skill",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-pericias-49",
-      "name": "PERICIAS",
-      "area": "tabelas",
-      "category": "attribute_skill",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          49,
-          51
-        ]
-      ],
-      "page": null,
-      "summary": ", PERICIAS Perícias são as habilidades do seu Per- sonagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momen- to que o personagem é criado, verifique a Tabela de Pontos. Esses pontos po- dem ser gastos com quaisquer Períci- as descritas neste tópico, mas sem- pre com aprovação do mestre. SUBGRUPOS Algumas Perícias são marcadas com u...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
         "attribute_skill",
         "tabelas"
       ],

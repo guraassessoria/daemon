@@ -4,7 +4,7 @@
   "name": "Rituais",
   "readySourceCount": 190,
   "entityCount": 1,
-  "sourcePartCount": 73,
+  "sourcePartCount": 60,
   "entities": [
     {
       "id": "sellas-locum",
@@ -146,29 +146,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "cabala-2--cabala-2-organizacao-5",
-      "name": "ORGANIZAÇÃO",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "cabala-2",
-      "sourceTitle": "Cabala",
-      "pages": [
-        [
-          5,
-          6
-        ]
-      ],
-      "page": null,
-      "summary": "5 Existe a crença entre os cabalistas, de que alguns magos conseguiram encontrar a chave para a imortalidade. Por isso, os grimórios da Cabala estão repletos de referências e fórmulas de longevidade e magias de ressurreição. Muitos grão-mestres da sociedade têm fama de terem centenas de anos de idade. Os cabalistas mais antigos (adeptos dos séculos anteriore...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "cabala-2--cabala-2-rituais-necromanticos-19",
       "name": "RITUAIS NECROMÂNTICOS",
       "area": "rituais",
@@ -267,26 +244,6 @@
       "entityRefs": [],
       "tags": [
         "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "caminhos2--caminhos2-segundo-circulo-16",
-      "name": "Segundo Círculo",
-      "area": "rituais",
-      "category": "combat",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "pages": [
-        16
-      ],
-      "page": 16,
-      "summary": "Segundo Círculo Entender-O mago dobra o tempo em que consegue ficar sem ar.O mago não produz odores. Criar-Pode criar uma esfera de vácuo suficiente para matar pequenos e médios animais(cachorro,gato,coelhos,etc)ou apagar fogueiras em alguns segundos. Controlar-O mago pode puxar o ar e a luz para si num raio de 3m,ganhando +2 em Força,fazendo uma área de vác...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
         "rituais"
       ],
       "confidence": 0.76,
@@ -627,157 +584,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "imortal--imortal-egito-50-ac-6",
-      "name": "EGITO, 50 AC.",
-      "area": "rituais",
-      "category": "ritual_spell",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "EGITO, 50 AC. UMA DAS MAIORES CIVILIZAÇÕES DO MUNDO ANTIGO, COM SUAS MAGNiFICAS PIRÂMIDES E UM POVO PRO- FUNDAMENTE ESPIRITUALIZADO. - • • • , ..... -_-::,- • • • ESTÁ SENSAÇÃO. UM IMORTAL SE APROXIMA, EU DEVIA TER FICADO NO SANTUÁRIO! , , • A} t.. - . , ii • •",
-      "entityRefs": [],
-      "tags": [
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-parte-v-40",
-      "name": "Parte V",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        [
-          40,
-          44
-        ]
-      ],
-      "page": null,
-      "summary": "Parte V Artefatos e Rituais Embora existam Humanos que adquirem a imortalidade através da Centelha, ainda há muitas outras formas de se simular a Centelha, ou mesmo adquiri-la, mostradas abaixo. Algumas são relativas a modos de se utilizar a Magia para tornar-se imortal, outras estão ligadas a criaturas e objetos especiais que mantém seu “usuário” incapaz de...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-quadro-vivo-47",
-      "name": "Quadro Vivo",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        [
-          47,
-          48
-        ]
-      ],
-      "page": null,
-      "summary": "Quadro Vivo (Ritual: Humanos/Spiritum 6) Conta-se que um dos mais ilustres Magos a se sujeitar a tal Ritual foi Dorian Gray, um conhecido aristocrata da era vitoriana. Tal Ritual consiste em transferir sua “mortalidade” a um auto-retrato, e assim o realizador do Ritual deixa de envelhecer; seus próprios ferimentos se curar com a velocidade do pensamento. Enq...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-caracteristicas-19",
-      "name": "Características",
-      "area": "rituais",
-      "category": "character_option",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        19
-      ],
-      "page": 19,
-      "summary": "Características O Primeiro Pesadelo do Neperari requer que o Potencial tenha uma forte energia espiritual, que seja alguém especial desde o nascimento. Este Potencial é enviado ao Umbral, onde será esquartejado pelos espíritos que lá habitam, em uma espécia de ritual xamânico de iniciação. O fato de o Potencial estar vivo ou morto é irrelevante - embora aque...",
-      "entityRefs": [],
-      "tags": [
-        "character_option",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-criatura-cadaverica-e-decadente-apodrecendo-45",
-      "name": "criatura cadavérica e decadente, apodrecendo",
-      "area": "rituais",
-      "category": "combat",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        45
-      ],
-      "page": 45,
-      "summary": "criatura cadavérica e decadente, apodrecendo com o passar dos anos, como se seu corpo estivesse morto desde que o Ritual foi realizado. Como um Morto-Vivo, o Lich recebe 7 pontos para comprar Poderes Mortuários, e mais 1 ponto para cada década no estágio de Lich. Os Liches são imunes a dano não-mágico, fogo, ácido, venenos, eletricidade; um outro efeito curi...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-artefatos-e-rituais-para-a-29",
-      "name": "ARTEFATOS e RITUAIS para a",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        29
-      ],
-      "page": 29,
-      "summary": "ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a ARTEFATOS e RITUAIS para a IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE Embora existam Humanos que adquirem a imortalidade através da Centelha, ainda há muitas outras formas de se simular a Centelha, ou mesmo adquiri-la, mostradas a...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-efeitos-de-kidous-12",
-      "name": "EFEITOS DE KIDOUS",
-      "area": "rituais",
-      "category": "attribute_skill",
-      "source": "kidous-arte-das-trevas",
-      "sourceTitle": "Kidous - Arte das Trevas",
-      "pages": [
-        [
-          12,
-          20
-        ]
-      ],
-      "page": null,
-      "summary": "12 EFEITOS DE KIDOUS Alterar atributos Por meio de um ritual, o artífice é capaz de aumentar ou reduzir seus atributos ou de seus oponentes. Cada nível adquirido altera (para mais ou para menos) 02 (dois) pontos em um determinado atributo: CON, FR, AGI, DEX, PER ou CAR. (A Inteligência e a Força de vontade nunca podem ser alteradas). Na compra do efeito o jo...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "magia-negra--magia-negra-irmandade-de-tenebras-5",
       "name": "Irmandade de Tenebras",
       "area": "rituais",
@@ -1069,26 +875,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-16",
-      "name": "Segundo Círculo",
-      "area": "rituais",
-      "category": "combat",
-      "source": "os-caminhos-secundarios",
-      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
-      "pages": [
-        16
-      ],
-      "page": 16,
-      "summary": "Segundo Círculo Entender-O mago dobra o tempo em que consegue ficar sem ar.O mago não produz odores. Criar-Pode criar uma esfera de vácuo suficiente para matar pequenos e médios animais(cachorro,gato,coelhos,etc)ou apagar fogueiras em alguns segundos. Controlar-O mago pode puxar o ar e a luz para si num raio de 3m,ganhando +2 em Força,fazendo uma área de vác...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-3",
       "name": "FACILIDADE, LAMIA (249-258)",
       "area": "rituais",
@@ -1155,29 +941,6 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "umbral-e-seus-vales--umbral-e-seus-vales-consideracoes-importantes-2",
-      "name": "Considerações Importantes",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "umbral-e-seus-vales",
-      "sourceTitle": "Umbral e seus vales",
-      "pages": [
-        [
-          2,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "Considerações Importantes Conhecendo o Umbral “Após longo tempo cruzando grandes distâncias espirituais através dos poderes recém- adquiridos de volitação espiritual, surgia em nossas vistas uma região menos bela. O firmamento cobria-se de nuvens espessas e trovões, além disto, algo nos impedia a fácil volitação. A atmosfera começara a pesar muitíssimo e dec...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1376,29 +1139,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "rituais--rituais-absorcao-de-magia-2",
-      "name": "Absorção de Magia",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "rituais",
-      "sourceTitle": "rituais",
-      "pages": [
-        [
-          2,
-          5
-        ]
-      ],
-      "page": null,
-      "summary": "Absorção de Magia Controlar / Entender Metamagia 5 ou 10 Utilizando-se de um cadáver de um usuário de magia (necromante, necromante, clérigo elementalista etc...). Quando o necromante inicia o ritual, ele deve definir qual será seu efeito (há duas opções; escolher uma magia que o atual cadáver conhecia quando vivo, ou aprender 1d4 - 1 (mínimo 1) magias aleat...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "rituais--rituais-asas-e-rabo-2pvs-9",
       "name": "Asas e rabo = 2pvs",
       "area": "rituais",
@@ -1439,26 +1179,6 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
-        "rituais"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "rituais--rituais-novas-magias-e-rituais-1",
-      "name": "Novas Magias e Rituais",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "rituais",
-      "sourceTitle": "rituais",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Novas Magias e Rituais Obs: Neste texto estará GENERALIZADO o realizador do ritual em muitas vezes como necromante, mas não quer dizer que apenas um necromante possa realizar tal ritual, a decisão cabe ao mestre e óbvio ao bom senso, se necessário mande-me um e-mail, o endereço está ao fim do texto. Absorção de Energia Controlar Espíritos / Humanos / Metamag...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
         "rituais"
       ],
       "confidence": 0.8,

@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "area": "linhagens",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_lineage_claims_do_not_enter_linhagens": true,
+    "certified_aprimoramentos_kits_classes_and_racas_are_not_reclassified_as_linhagens": true
+  },
+  "certifiedCount": 70,
+  "rejectedCount": 810,
+  "records": [
+    {
+      "id": "raca-alianca-daemon-01-ghuls",
+      "source": "alianca-daemon-01",
+      "name": "Ghuls",
+      "nameKey": "ghuls",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:alianca-daemon-01:ghuls"
+    },
+    {
+      "id": "raca-animalidade-feras",
+      "source": "animalidade",
+      "name": "Feras",
+      "nameKey": "feras",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:feras"
+    },
+    {
+      "id": "raca-animalidade-nagas",
+      "source": "animalidade",
+      "name": "Nagas",
+      "nameKey": "nagas",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:nagas"
+    },
+    {
+      "id": "raca-animalidade-herats",
+      "source": "animalidade",
+      "name": "Herats",
+      "nameKey": "herats",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:herats"
+    },
+    {
+      "id": "raca-animalidade-licantropos",
+      "source": "animalidade",
+      "name": "Licantropos",
+      "nameKey": "licantropos",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:licantropos"
+    },
+    {
+      "id": "raca-animalidade-minotauros",
+      "source": "animalidade",
+      "name": "Minotauros",
+      "nameKey": "minotauros",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:minotauros"
+    },
+    {
+      "id": "raca-animalidade-pantros",
+      "source": "animalidade",
+      "name": "Pantros",
+      "nameKey": "pantros",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:pantros"
+    },
+    {
+      "id": "raca-animalidade-bastet",
+      "source": "animalidade",
+      "name": "Bastet",
+      "nameKey": "bastet",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:bastet"
+    },
+    {
+      "id": "raca-animalidade-defensores-do-ragnarok",
+      "source": "animalidade",
+      "name": "Defensores do Ragnarok",
+      "nameKey": "defensores-do-ragnarok",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:defensores-do-ragnarok"
+    },
+    {
+      "id": "raca-animalidade-garras-de-sharikan",
+      "source": "animalidade",
+      "name": "Garras de Sharikan",
+      "nameKey": "garras-de-sharikan",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:garras-de-sharikan"
+    },
+    {
+      "id": "raca-animalidade-rocs",
+      "source": "animalidade",
+      "name": "Rocs",
+      "nameKey": "rocs",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:rocs"
+    },
+    {
+      "id": "raca-animalidade-croatan",
+      "source": "animalidade",
+      "name": "Croatan",
+      "nameKey": "croatan",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:croatan"
+    },
+    {
+      "id": "raca-animalidade-filhos-de-aracne",
+      "source": "animalidade",
+      "name": "Filhos de Aracne",
+      "nameKey": "filhos-de-aracne",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:animalidade:filhos-de-aracne"
+    },
+    {
+      "id": "raca-gaki-gaki",
+      "source": "gaki",
+      "name": "Gaki",
+      "nameKey": "gaki",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:gaki:gaki"
+    },
+    {
+      "id": "raca-imortal-a-centelha-bogatyr",
+      "source": "imortal-a-centelha",
+      "name": "Bogatyr",
+      "nameKey": "bogatyr",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:bogatyr"
+    },
+    {
+      "id": "raca-imortal-a-centelha-chaneque",
+      "source": "imortal-a-centelha",
+      "name": "Chaneque",
+      "nameKey": "chaneque",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:chaneque"
+    },
+    {
+      "id": "raca-imortal-a-centelha-hsien",
+      "source": "imortal-a-centelha",
+      "name": "Hsien",
+      "nameKey": "hsien",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:hsien"
+    },
+    {
+      "id": "raca-imortal-a-centelha-makrobioi",
+      "source": "imortal-a-centelha",
+      "name": "Makrobiói",
+      "nameKey": "makrobioi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:makrobioi"
+    },
+    {
+      "id": "raca-imortal-a-centelha-neperari",
+      "source": "imortal-a-centelha",
+      "name": "Neperari",
+      "nameKey": "neperari",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:neperari"
+    },
+    {
+      "id": "raca-imortal-a-centelha-sidhichean",
+      "source": "imortal-a-centelha",
+      "name": "Sidhichean",
+      "nameKey": "sidhichean",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:sidhichean"
+    },
+    {
+      "id": "raca-imortal-a-centelha-unwaba-tulo",
+      "source": "imortal-a-centelha",
+      "name": "Unwaba-Tulo",
+      "nameKey": "unwaba-tulo",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:unwaba-tulo"
+    },
+    {
+      "id": "raca-imortal-a-centelha-urlug",
+      "source": "imortal-a-centelha",
+      "name": "Urlug",
+      "nameKey": "urlug",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:urlug"
+    },
+    {
+      "id": "raca-imortal-a-centelha-yamabushi",
+      "source": "imortal-a-centelha",
+      "name": "Yamabushi",
+      "nameKey": "yamabushi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:imortal-a-centelha:yamabushi"
+    },
+    {
+      "id": "raca-youkai-kyuukai-akuma",
+      "source": "youkai-kyuukai",
+      "name": "Akuma",
+      "nameKey": "akuma",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:akuma"
+    },
+    {
+      "id": "raca-youkai-kyuukai-shiryou-mononoke",
+      "source": "youkai-kyuukai",
+      "name": "Shiryou/Mononoke",
+      "nameKey": "shiryou-mononoke",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:shiryou-mononoke"
+    },
+    {
+      "id": "raca-youkai-kyuukai-shuudouin",
+      "source": "youkai-kyuukai",
+      "name": "Shuudouin",
+      "nameKey": "shuudouin",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:shuudouin"
+    },
+    {
+      "id": "raca-youkai-kyuukai-watashimori",
+      "source": "youkai-kyuukai",
+      "name": "Watashimori",
+      "nameKey": "watashimori",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:watashimori"
+    },
+    {
+      "id": "raca-youkai-kyuukai-youma",
+      "source": "youkai-kyuukai",
+      "name": "Youma",
+      "nameKey": "youma",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:youma"
+    },
+    {
+      "id": "raca-youkai-kyuukai-abareuma",
+      "source": "youkai-kyuukai",
+      "name": "Abareuma",
+      "nameKey": "abareuma",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:abareuma"
+    },
+    {
+      "id": "raca-youkai-kyuukai-bouji-tenma",
+      "source": "youkai-kyuukai",
+      "name": "Bouji Tenma",
+      "nameKey": "bouji-tenma",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:bouji-tenma"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kuei",
+      "source": "youkai-kyuukai",
+      "name": "Kuei",
+      "nameKey": "kuei",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kuei"
+    },
+    {
+      "id": "raca-youkai-kyuukai-oni",
+      "source": "youkai-kyuukai",
+      "name": "Oni",
+      "nameKey": "oni",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:oni"
+    },
+    {
+      "id": "raca-youkai-kyuukai-gaki",
+      "source": "youkai-kyuukai",
+      "name": "Gaki",
+      "nameKey": "gaki",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:gaki"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kappa",
+      "source": "youkai-kyuukai",
+      "name": "Kappa",
+      "nameKey": "kappa",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kappa"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kiang-shi",
+      "source": "youkai-kyuukai",
+      "name": "Kiang-Shi",
+      "nameKey": "kiang-shi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kiang-shi"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kyuuketsuki",
+      "source": "youkai-kyuukai",
+      "name": "Kyuuketsuki",
+      "nameKey": "kyuuketsuki",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kyuuketsuki"
+    },
+    {
+      "id": "raca-youkai-kyuukai-ponaturi",
+      "source": "youkai-kyuukai",
+      "name": "Ponaturi",
+      "nameKey": "ponaturi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:ponaturi"
+    },
+    {
+      "id": "raca-youkai-kyuukai-rakshasa",
+      "source": "youkai-kyuukai",
+      "name": "Rakshasa",
+      "nameKey": "rakshasa",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:rakshasa"
+    },
+    {
+      "id": "raca-youkai-kyuukai-heruka",
+      "source": "youkai-kyuukai",
+      "name": "Heruka",
+      "nameKey": "heruka",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:heruka"
+    },
+    {
+      "id": "raca-youkai-kyuukai-lagsuyar-e-pontianak",
+      "source": "youkai-kyuukai",
+      "name": "Lagsuyar e Pontianak",
+      "nameKey": "lagsuyar-e-pontianak",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:lagsuyar-e-pontianak"
+    },
+    {
+      "id": "raca-youkai-kyuukai-pennangalan",
+      "source": "youkai-kyuukai",
+      "name": "Pennangalan",
+      "nameKey": "pennangalan",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:pennangalan"
+    },
+    {
+      "id": "raca-youkai-kyuukai-teyirang",
+      "source": "youkai-kyuukai",
+      "name": "Teyirang",
+      "nameKey": "teyirang",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:teyirang"
+    },
+    {
+      "id": "raca-youkai-kyuukai-tatsu",
+      "source": "youkai-kyuukai",
+      "name": "Tatsu",
+      "nameKey": "tatsu",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:tatsu"
+    },
+    {
+      "id": "raca-youkai-kyuukai-bikou",
+      "source": "youkai-kyuukai",
+      "name": "Bikou",
+      "nameKey": "bikou",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:bikou"
+    },
+    {
+      "id": "raca-youkai-kyuukai-hinote",
+      "source": "youkai-kyuukai",
+      "name": "Hinote",
+      "nameKey": "hinote",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:hinote"
+    },
+    {
+      "id": "raca-youkai-kyuukai-mizu",
+      "source": "youkai-kyuukai",
+      "name": "Mizu",
+      "nameKey": "mizu",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:mizu"
+    },
+    {
+      "id": "raca-youkai-kyuukai-amanohara",
+      "source": "youkai-kyuukai",
+      "name": "Amanohara",
+      "nameKey": "amanohara",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:amanohara"
+    },
+    {
+      "id": "raca-youkai-kyuukai-chi-mei",
+      "source": "youkai-kyuukai",
+      "name": "Chi-Mei",
+      "nameKey": "chi-mei",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:chi-mei"
+    },
+    {
+      "id": "raca-youkai-kyuukai-chu-ih-yu",
+      "source": "youkai-kyuukai",
+      "name": "Chu-ih-yu",
+      "nameKey": "chu-ih-yu",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:chu-ih-yu"
+    },
+    {
+      "id": "raca-youkai-kyuukai-dendou",
+      "source": "youkai-kyuukai",
+      "name": "Dendou",
+      "nameKey": "dendou",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:dendou"
+    },
+    {
+      "id": "raca-youkai-kyuukai-hou-chi",
+      "source": "youkai-kyuukai",
+      "name": "Hou-chi",
+      "nameKey": "hou-chi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:hou-chi"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kaze",
+      "source": "youkai-kyuukai",
+      "name": "Kaze",
+      "nameKey": "kaze",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kaze"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kei",
+      "source": "youkai-kyuukai",
+      "name": "Kei",
+      "nameKey": "kei",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kei"
+    },
+    {
+      "id": "raca-youkai-kyuukai-hengeyokai",
+      "source": "youkai-kyuukai",
+      "name": "Hengeyokai",
+      "nameKey": "hengeyokai",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:hengeyokai"
+    },
+    {
+      "id": "raca-youkai-kyuukai-shishio",
+      "source": "youkai-kyuukai",
+      "name": "Shishio",
+      "nameKey": "shishio",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:shishio"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kitsune",
+      "source": "youkai-kyuukai",
+      "name": "Kitsune",
+      "nameKey": "kitsune",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kitsune"
+    },
+    {
+      "id": "raca-youkai-kyuukai-reflictys",
+      "source": "youkai-kyuukai",
+      "name": "Reflictys",
+      "nameKey": "reflictys",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:reflictys"
+    },
+    {
+      "id": "raca-youkai-kyuukai-tengu",
+      "source": "youkai-kyuukai",
+      "name": "Tengu",
+      "nameKey": "tengu",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:tengu"
+    },
+    {
+      "id": "raca-youkai-kyuukai-wang-wa",
+      "source": "youkai-kyuukai",
+      "name": "Wang-wa",
+      "nameKey": "wang-wa",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:wang-wa"
+    },
+    {
+      "id": "raca-youkai-kyuukai-peri",
+      "source": "youkai-kyuukai",
+      "name": "Peri",
+      "nameKey": "peri",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:peri"
+    },
+    {
+      "id": "raca-youkai-kyuukai-shinma",
+      "source": "youkai-kyuukai",
+      "name": "Shinma",
+      "nameKey": "shinma",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:shinma"
+    },
+    {
+      "id": "raca-youkai-kyuukai-vanara",
+      "source": "youkai-kyuukai",
+      "name": "Vanara",
+      "nameKey": "vanara",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:vanara"
+    },
+    {
+      "id": "raca-youkai-kyuukai-arahitogami",
+      "source": "youkai-kyuukai",
+      "name": "Arahitogami",
+      "nameKey": "arahitogami",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:arahitogami"
+    },
+    {
+      "id": "raca-youkai-kyuukai-daiphir",
+      "source": "youkai-kyuukai",
+      "name": "Daiphir",
+      "nameKey": "daiphir",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:daiphir"
+    },
+    {
+      "id": "raca-youkai-kyuukai-hanyu",
+      "source": "youkai-kyuukai",
+      "name": "Hanyu",
+      "nameKey": "hanyu",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:hanyu"
+    },
+    {
+      "id": "raca-youkai-kyuukai-siang",
+      "source": "youkai-kyuukai",
+      "name": "Siang",
+      "nameKey": "siang",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:siang"
+    },
+    {
+      "id": "raca-youkai-kyuukai-hsien",
+      "source": "youkai-kyuukai",
+      "name": "Hsien",
+      "nameKey": "hsien",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:hsien"
+    },
+    {
+      "id": "raca-youkai-kyuukai-kotan-nukur",
+      "source": "youkai-kyuukai",
+      "name": "Kotan-Nukur",
+      "nameKey": "kotan-nukur",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:kotan-nukur"
+    },
+    {
+      "id": "raca-youkai-kyuukai-lung-ti-chuan-ren",
+      "source": "youkai-kyuukai",
+      "name": "Lung-Ti Chuan Ren",
+      "nameKey": "lung-ti-chuan-ren",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:lung-ti-chuan-ren"
+    },
+    {
+      "id": "raca-youkai-kyuukai-yamabushi",
+      "source": "youkai-kyuukai",
+      "name": "Yamabushi",
+      "nameKey": "yamabushi",
+      "category": "race_lineage",
+      "subtype": "linhagem",
+      "lockedArea": "linhagens",
+      "certificationId": "linhagem-lock:youkai-kyuukai:yamabushi"
+    }
+  ]
+}

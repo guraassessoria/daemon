@@ -4,7 +4,7 @@
   "name": "Itens e Equipamentos",
   "readySourceCount": 190,
   "entityCount": 3,
-  "sourcePartCount": 100,
+  "sourcePartCount": 80,
   "entities": [
     {
       "id": "areia-de-agaures",
@@ -424,27 +424,6 @@
       ],
       "page": 21,
       "summary": "ARMAS DA SEGUNDA GUERRA MUNDIAL INGLATERRA",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-revolveres-22",
-      "name": "REVÓLVERES",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "armas-da-segunda-guerra-mundial",
-      "sourceTitle": "Armas da Segunda Guerra Mundial",
-      "pages": [
-        22
-      ],
-      "page": 22,
-      "summary": "REVÓLVERES Webley Mk. IV: Arma de longa tradição nas forças armadas inglesas, o primeiro revólver Webley foi adotado em 1887. Durante os anos diversas variantes foram adotadas, tanto pelo exército, como pela marinha e RAF, o último deles em 1942, no calibre .38 (Webley Mark 4), os Webley, apesar de terem começado a ser substituídos em 1932, ainda foram muito...",
       "entityRefs": [],
       "tags": [
         "combat",
@@ -992,27 +971,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "armas-de-fogo--armas-de-fogo-municao-7-62mm-nato-26",
-      "name": "Munição: 7.62mm NATO",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "armas-de-fogo",
-      "sourceTitle": "Armas de Fogo",
-      "pages": [
-        26
-      ],
-      "page": 26,
-      "summary": "Munição: 7.62mm NATO Pente: 20 (clip) Alcance: 600m Dano: 3d6+2 [IP/2] ROF: 3 ou 10 HK G36: Este é atual fuzil de assalto da Bundeswehr (Forças Armadas Alemãs). O G36 foi desenvolvido como um fuzil modular, com capacidade se montar acessórios nele facilmente sem a necessidade de se usar a mão de um armeiro. O G36 é construído, quase na sua totalidade, em plá...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "armas-de-fogo--armas-de-fogo-municao-7-62mm-nato-32",
       "name": "Munição: 7.62mm NATO",
       "area": "itens_equipamentos",
@@ -1076,27 +1034,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "armas-de-fogo--armas-de-fogo-spas-12-espingarda-de-combate-semi-automatica-38",
-      "name": "SPAS-12: Espingarda de combate semi-automática,",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "armas-de-fogo",
-      "sourceTitle": "Armas de Fogo",
-      "pages": [
-        38
-      ],
-      "page": 38,
-      "summary": "SPAS-12: Espingarda de combate semi-automática, muito difundida entre as forças especiais de policia de todo o mundo, por sua firmeza e estabilidade sob fogo cerrado. Munição: .12g Pente: 8 (câmara) Alcance: 40m Dano: 3d6 ROF: 1 ou 3 SPAS-15: Arma para uso militar, o SPAS-12 foi adotado em toda a Europa. Munição: .12g Pente: 6 (clip) Alcance: 40m Dano: 3d6 R...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "armas-de-fogo--armas-de-fogo-armaduras-42",
       "name": "Armaduras",
       "area": "itens_equipamentos",
@@ -1142,27 +1079,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "arte-da-guerra--arte-da-guerra-tecnicas-de-combate-16",
-      "name": "TÉCNICAS DE COMBATE",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "arte-da-guerra",
-      "sourceTitle": "Arte da Guerra",
-      "pages": [
-        16
-      ],
-      "page": 16,
-      "summary": "TÉCNICAS DE COMBATE Seguem a mesma regra de ESTILO DE LUTA. Exemplo: NOME : ESGRIMA RESTRIÇÃO : ESPADA(RAPIER E FLORETE) 65/30, ESTOCADA, MESTRE DA ARMA E FOCO. PONTOS DE TÉCNICA : 15 PTS. DESCRIÇÃO : UMA LUTA QUE SE UTILIZA DE MOVIMENTOS RÁPIDOS DE ESPADA PARA COMBATES DECISIVOS, POR SE UTILIZAR DA VELOCIDADE PERDE EM FORÇA. BÔNUS : +2 EM AGI E +4 EM DEX. P...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "cdd--cdd-hank-15",
       "name": "Hank",
       "area": "itens_equipamentos",
@@ -1181,50 +1097,6 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dbz-rpg--dbz-rpg-torre-karin-27",
-      "name": "Torre Karin",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "dbz-rpg",
-      "sourceTitle": "DBZ_RPG",
-      "pages": [
-        [
-          27,
-          28
-        ]
-      ],
-      "page": null,
-      "summary": "Torre Karin No topo da torre Karin mora nada mais nada menos que o Mestre Karin. Para chegar até lá é preciso ir à terra sagrada de Karin (que é protegida por uma tribo de índios guerreiros) e escalar a torre com suas próprias forças. Goku demorou quase um dia inteiro para escalar esta torre! Uma vez lá em cima, você pode conseguir com ele as Senzu (Sementes...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dbz-rpg--dbz-rpg-atributos-32",
-      "name": "Atributos",
-      "area": "itens_equipamentos",
-      "category": "attribute_skill",
-      "source": "dbz-rpg",
-      "sourceTitle": "DBZ_RPG",
-      "pages": [
-        32
-      ],
-      "page": 32,
-      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1464,27 +1336,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "gigantes-mitologicos--gigantes-mitologicos-korybantes-15",
-      "name": "KORYBANTES",
-      "area": "itens_equipamentos",
-      "category": "power_magic",
-      "source": "gigantes-mitologicos",
-      "sourceTitle": "Gigantes Mitologicos",
-      "pages": [
-        15
-      ],
-      "page": 15,
-      "summary": "KORYBANTES “Dançarinos da Korybas” Origem e História Cria de Réia, Hoplodamos foi o protetor pessoal desta Titânida quando Khronos tentou atacá-la (ao descobrir que Zeus não foi engolido). Hoplodamos (“Homem Armado”) liderou os arkanitas Dáctilos na missão de esconderem Zeus e treiná-lo nas artes da guerra e da magia. Réia então presenteou Hoplodamos com dez...",
-      "entityRefs": [],
-      "tags": [
-        "itens_equipamentos",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-vindos-do-subterraneo-25",
       "name": "vindos do subterrâneo.",
       "area": "itens_equipamentos",
@@ -1506,152 +1357,6 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-estrutura-do-guia-3",
-      "name": "ESTRUTURA DO GUIA",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "guia-do-aventureiro-de-arton",
-      "sourceTitle": "Guia do Aventureiro de Arton",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "ESTRUTURA DO GUIA PARTE I – GUERREIROS Aniquilador: guerreiro do pó e da corrosão capaz de degenerar a matéria com um simples toque. Artilheiro Pesado: especialista no uso de grandes máquinas de guerra, como balistas e catapultas. Atacante: lutador especializado apenas em técnicas de ataque. Atirador de Knui Pkahn: usuário de uma exótica arma goblin de ataqu...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-esporte-5",
-      "name": "esporte.",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "guia-do-aventureiro-de-arton",
-      "sourceTitle": "Guia do Aventureiro de Arton",
-      "pages": [
-        5
-      ],
-      "page": 5,
-      "summary": "esporte. Explorador de Valkaria: aventureiro cujo objetivo é organizar e participar de missões que visem o progresso da humanidade. Falsário: o mestre dos golpes e falsificações. Faz-Tudo: construto criado com o propósito de aprender e realizar tarefas diversas. Gueixa: uma graciosa dama cujo trabalho é entreter os homens com sua beleza, carisma e habilidade...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-artifice-dex-52",
-      "name": "ARTÍFICE' (DEX)",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          52,
-          54
-        ]
-      ],
-      "page": null,
-      "summary": "ARTÍFICE' (DEX) , E a habilidade de se trabalhar com um material es- pecifico. Pode-se construir ou concertar roupas, moveis, cai- xas, utensílios em geral, ferramentas. Potes, casas ou até ar- mas (veja subgrupos). Porem, ser um aJtífice dá apenas o conhecimento para utilizar um material escolhido. O projeto da casa fica para engenheiros e a fechadura da ca...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-taj-do-82",
-      "name": "TAJ-DO",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        82
-      ],
-      "page": 82,
-      "summary": ", TAJ-DO As artes marciais foram desenvolvidas por imortais e aprendidas por mortais, mas a alie do Tai-dô só é domina- da põr imortais. Esta na verdade não é uma arte de luta, mas sim uma Dádiva que permite realizar ataques extras e mais potentes ou mesmo usar as mãos para defender armas. NÍVEL 1 MÃOS DEFENSIVAS: O Personagem pode apa- rar ou bloquear ataqu...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-dinheiro-125",
-      "name": "DINHEIRO",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        125
-      ],
-      "page": 125,
-      "summary": "DINHEIRO De modo geral, um Personagem tem disponível uma quantidade de dinheiro igual à sua renda mensal. Sim, claro que ele precisa pagar contas, mas esse é o dinheiro de que ele dispõe para gastar em uma emergência (contas de água, luz e telefone podem esperar; o suborno para o homem da CIA que aponta a arma para sua cabeça, não). O Persona- gem pode ser r...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-background-129",
-      "name": "BACKGROUND",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        129
-      ],
-      "page": 129,
-      "summary": ". - • • • BACKGROUND • ------------------------ . • • - .- - -- ~~-:_=--. ....... - ---:--~~-- - EQUIPAMENTOS BENS ALIADOS E CONTATOS INIMIGOS CONHECIDOS ,",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "manobras-de-combate--manobras-de-combate-rajada-frontal-6",
-      "name": "RAJADA FRONTAL",
-      "area": "itens_equipamentos",
-      "category": "combat",
-      "source": "manobras-de-combate",
-      "sourceTitle": "Manobras de Combate",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "RAJADA FRONTAL [ 25 pontos ] [ Requer Força 14 e Destreza 14 ] A rajada frontal é realizada quando o Personagem dispara todos os tiros contra o mesmo oponente. O excesso de tiros torna a arma mais difícil de segurar, o que dificulta o acerto, mas, se acertar, o dano é violentamente maior. Quando for realizada uma rajada, há uma regra simplificadora. Consider...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "combate",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1813,30 +1518,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "poderes-mentais--poderes-mentais-premonicao-10",
-      "name": "Premonição",
-      "area": "itens_equipamentos",
-      "category": "power_magic",
-      "source": "poderes-mentais",
-      "sourceTitle": "PODERES MENTAIS",
-      "pages": [
-        [
-          10,
-          11
-        ]
-      ],
-      "page": null,
-      "summary": "Premonição Custo: 1 Ponto Caminhos: Mediunidade 2 e Compreensão 1 Permite ter uma visão, nem sempre clara e direta, de acontecimentos futuros, gasta-se 1PM para ter uma visão rápida. A visão pode ajudar de diversas maneiras, se o Psion ver quer uma pessoa morrerá em um acidente de carro, ela poderá proteger essa pessoa de veículos e afins, mas na maioria das...",
-      "entityRefs": [],
-      "tags": [
-        "itens_equipamentos",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "redentor--redentor-gastos-da-energia-de-treinamento-9",
       "name": "GASTOS DA ENERGIA DE TREINAMENTO",
       "area": "itens_equipamentos",
@@ -1858,29 +1539,6 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-de-marte--trevas-de-marte-major-2",
-      "name": "- Major.",
-      "area": "itens_equipamentos",
-      "category": "item_equipment",
-      "source": "trevas-de-marte",
-      "sourceTitle": "Trevas_de_Marte",
-      "pages": [
-        [
-          2,
-          3
-        ]
-      ],
-      "page": null,
-      "summary": "- Major. - Coronel. Tenho já as informações que buscávamos para a questão do retorno do Boeing X-37B. - Ótimo, vamos ao centro de controle. Os dois oficiais do NORAD se dirigem ao centro de controle da base científica, passando pelas espessas paredes reforçadas desta área subterrânea, repleta de soldados armados com pesados fuzis. Na sala de controle, estão...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.78,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -2109,27 +1767,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "geradoritem02--geradoritem02-introducao-3",
-      "name": "Introdução",
-      "area": "itens_equipamentos",
-      "category": "power_magic",
-      "source": "geradoritem02",
-      "sourceTitle": "geradoritem02",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "Introdução Itens mágicos são alguns dos elementos que mais caracterizam cenários de fantasia medieval. Em alguns cenários como SdA, esses itens são extremamente raros e poderosos, em outros cenários podem ser comprados livremente em feiras. Pode se dizer que o ponto determinante dessa diferença é a forma com que a magia é utilizada no cenário. Por exemplo, d...",
-      "entityRefs": [],
-      "tags": [
-        "itens_equipamentos",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-considerados-uma-35",
       "name": "Considerados uma",
       "area": "itens_equipamentos",
@@ -2176,27 +1813,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-caracteristicas-raciais-18",
-      "name": "Características Raciais",
-      "area": "itens_equipamentos",
-      "category": "power_magic",
-      "source": "guia-dragoes-vol-ii",
-      "sourceTitle": "guia-dragoes_vol-II",
-      "pages": [
-        18
-      ],
-      "page": 18,
-      "summary": "Características Raciais Caminho Principal: O Caminho Principal dos dragões amarelos é Fogo. Eles também apreciam muito o Caminho Ar e a Forma Controlar. Imunidade: Dragões amarelos são imunes a todo tipo de calo ou fogo, naturais ou mágicos. Arma de Sopro: A arma de sopro de um dragão amarelo é um jato de ar muito poderoso misturado com areia, provo- cando d...",
-      "entityRefs": [],
-      "tags": [
-        "itens_equipamentos",
-        "poderes_magias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-imunidade-dra-19",
       "name": "Imunidade: Dra-",
       "area": "itens_equipamentos",
@@ -2213,30 +1829,6 @@
         "combat",
         "combate",
         "itens_equipamentos"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "harrypotter--harrypotter-hogwarts-2",
-      "name": "HOGWARTS",
-      "area": "itens_equipamentos",
-      "category": "power_magic",
-      "source": "harrypotter",
-      "sourceTitle": "harrypotter",
-      "pages": [
-        [
-          2,
-          5
-        ]
-      ],
-      "page": null,
-      "summary": "2 HOGWARTS Introdução Esse RPG é recomendado para pessoas que já leram os 4 livros da série Harry Potter, e conhecem um pouco sobre a história.Nesse jogo, o Mestre deverá criar coisas novas, como lugares, professores, matérias, itens e magias, para que o jogo não fique preso a informações desse guia.Você deve ter notado que esse guia é a versão 1.4, isso que...",
-      "entityRefs": [],
-      "tags": [
-        "itens_equipamentos",
-        "poderes_magias",
-        "power_magic"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
@@ -2262,27 +1854,6 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "ray--ray-atributos-15",
-      "name": "Atributos",
-      "area": "itens_equipamentos",
-      "category": "attribute_skill",
-      "source": "ray",
-      "sourceTitle": "ray",
-      "pages": [
-        15
-      ],
-      "page": 15,
-      "summary": "Atributos Valor / Mod / % Constituição (CON) _____ /_____ /_____ Força (FR) _____ /_____ /_____ Destreza (DEX) _____ /_____ /_____ Agilidade (AGI) _____ /_____ /_____ Inteligência (INT) _____ /_____ /_____ Força de Vontade (WILL) _____ /_____ /_____ Percepção (PER) _____ /_____ /_____ Carisma (CAR) _____ /_____ /_____ Armadura: __________________ Perícias co...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
     }
   ]

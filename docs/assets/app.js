@@ -32,6 +32,10 @@ const subtypeLabels = {
   aprimoramento: "Aprimoramento",
   class: "Classe",
   kit: "Kit",
+  linhagem: "Linhagem",
+  magia: "Magia",
+  poder: "Poder",
+  raca: "Raça",
 };
 
 const typeFilterMap = {

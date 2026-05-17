@@ -53,7 +53,9 @@ Areas atuais:
 - `kits`
 - `classes`
 - `racas`
-- `poderes_magias`
+- `linhagens`
+- `poderes`
+- `magias`
 - `rituais`
 - `itens_equipamentos`
 - `criaturas_npcs`

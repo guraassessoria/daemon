@@ -3,8 +3,8 @@
   "id": "atributos_pericias",
   "name": "Atributos e Pericias",
   "readySourceCount": 190,
-  "entityCount": 3,
-  "sourcePartCount": 88,
+  "entityCount": 2,
+  "sourcePartCount": 74,
   "entities": [
     {
       "id": "fred-krueger",
@@ -31,27 +31,6 @@
       "extractionMethod": "manual-pass-1"
     },
     {
-      "id": "progressao-de-atributos-daemon",
-      "name": "Progressao de atributos no Sistema Daemon",
-      "area": "atributos_pericias",
-      "category": "core_rule",
-      "source": "alianca-daemon-01",
-      "sourceTitle": "Aliança Daemon 01",
-      "page": 3,
-      "entries": [
-        "Artigo explica a progressao matematica dos atributos no Sistema Daemon, comparando valores a dados e destacando que atributos dobram a cada seis unidades."
-      ],
-      "tags": [
-        "atributos",
-        "atributos_pericias",
-        "core_rule",
-        "regra",
-        "sistema-daemon"
-      ],
-      "confidence": 0.86,
-      "extractionMethod": "manual-pass-1"
-    },
-    {
       "id": "tebori",
       "name": "Tebori",
       "area": "atributos_pericias",
@@ -74,32 +53,6 @@
     }
   ],
   "sourceParts": [
-    {
-      "id": "alianca-daemon-01--alianca-desvendando-daemon",
-      "name": "Desvendando o Sistema Daemon",
-      "area": "atributos_pericias",
-      "category": "core_rule",
-      "source": "alianca-daemon-01",
-      "sourceTitle": "Alianca Daemon 01",
-      "pages": [
-        [
-          3,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "Artigo introdutorio sobre o Sistema Daemon, sua historia, preconceitos, adaptabilidade e progressao matematica de atributos/pericias em dados.",
-      "entityRefs": [
-        "desvendando-o-sistema-daemon",
-        "progressao-de-atributos-daemon"
-      ],
-      "tags": [
-        "atributos_pericias",
-        "core_rule"
-      ],
-      "confidence": 0.88,
-      "extractionMethod": "book-part-area-pass-1"
-    },
     {
       "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-pericias-briga-20-conducao-40",
       "name": "Perícias: Briga 20%, Condução",
@@ -394,26 +347,6 @@
       "tags": [
         "atributos_pericias",
         "core_rule"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "atributos--atributos-vontade-12",
-      "name": "Vontade",
-      "area": "atributos_pericias",
-      "category": "power_magic",
-      "source": "atributos",
-      "sourceTitle": "Atributos",
-      "pages": [
-        12
-      ],
-      "page": 12,
-      "summary": "Vontade O último atributo. A Vontade (Nome altera- do por uma denominação mais simples, outrora era chamado de Força de Vontade) rege a resis- tência da mente, num papel muito semelhante à Constituição para o corpo. De certa maneira, o que foi dito para esta última pode ser aplicado para a VON, porém num nível mental. A Vontade rege a capacidade da Personage...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "power_magic"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1"
@@ -751,26 +684,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "daemon-medieval--daemon-medieval-capitulo-7-pericias-38",
-      "name": "Capítulo 7 – Perícias",
-      "area": "atributos_pericias",
-      "category": "item_equipment",
-      "source": "daemon-medieval",
-      "sourceTitle": "Daemon Medieval",
-      "pages": [
-        38
-      ],
-      "page": 38,
-      "summary": "Capítulo 7 – Perícias 38 Escalada (FR): Quando se tem o equipamento necessário, um Teste de Força é suficiente para escalar um muro, parede, calha ou outros similares. A Perícia Escalada é usada para escalar, muros, montanhas e outros lugares íngrimes sem nenhum equipamento apropriado. Escalar paredes muito lisas ou muito íngremes pode ser considerado um Tes...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "item_equipment"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-39",
       "name": "Daemon Medieval",
       "area": "atributos_pericias",
@@ -851,26 +764,6 @@
         "combat"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "etruscos--etruscos-pericia-cels-31",
-      "name": "PERICIA: CELS",
-      "area": "atributos_pericias",
-      "category": "power_magic",
-      "source": "etruscos",
-      "sourceTitle": "Etruscos",
-      "pages": [
-        31
-      ],
-      "page": 31,
-      "summary": "PERICIA: CELS Cels é a deusa etrusca da Terra, a força que faz com que os grãos cresçam até o alto. Sua energia mística conecta a Terra, o Underworld, Asteris (como os estudiosos de Cels chamam a cidade paradisiana Olympus), o Reino do Sul da Nova Arcádia e o Reino de Luna (como chamam o plano de Spiritum). A energia mística Cels chega a tocar o próprio Sol...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1"
     },
     {
@@ -1092,158 +985,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "imortal--imortal-eletronica-o-55",
-      "name": "ELETRÔNICA (O)",
-      "area": "atributos_pericias",
-      "category": "item_equipment",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          55,
-          58
-        ]
-      ],
-      "page": null,
-      "summary": "ELETRÔNICA (O) o Personagem sabe consertar aparelhos eletrônicos, como telefones, computadores, eletrodomésticos e quaisquer máquinas que fUl1cjonem com circuitos complexos. Para máquinas mais simples, como calTOS e armas, usa-se a pelí- da Mecânica. Eletrônica não exige especialização em um subgrupo especifico. A perícia Eletrônica permite concertar circuit...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "item_equipment"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-nivelj-78",
-      "name": "NÍVELJ",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        [
-          78,
-          79
-        ]
-      ],
-      "page": null,
-      "summary": "NÍVELJ PÂNICO: Permite ao imortal infligir um medo tão profundo em sua vítima que ela não conseguirá realizar ne- nhuma ação a não ser fugir. 3 pontos de Ressonância. AURA DE MEDO: O Personagem será sempre evi- tado por outros, ao sentar em um ônibus ninguém irá sentar do seu lado, se for a uma reunião social ninguém irá se apro- ximar. Está sempre atiV3. NÍ...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-tera-que-se-esforcar-mais-8",
-      "name": "TERÁ QUE SE ESFORÇAR MAIS,",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        8
-      ],
-      "page": 8,
-      "summary": "TERÁ QUE SE ESFORÇAR MAIS, SE QUISER SOBREVIVER. CHEGA DE BRINCADEIRAS! PENA QUE NÁO VIVERÁ O SUFICIENTE PARA SER PUNIDO POR SEU MESTRE~. _____ ~",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal--imortal-genialidade-62",
-      "name": "GENIALIDADE",
-      "area": "atributos_pericias",
-      "category": "core_rule",
-      "source": "imortal",
-      "sourceTitle": "Imortal",
-      "pages": [
-        62
-      ],
-      "page": 62,
-      "summary": "GENIALIDADE J PONTOS: Algumas pessoas nascem com uma in- teligência privilegiada e são capazes de compreender assun- tos com o qual tenham tido cantata por livros, experiência ou mesmo observando e analisando alguns eventos. Todos os testes de inteligência considerados difíceis (perícias liga- da a INT também são beneficiadas) devem ser tratados como testes...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "core_rule"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha--imortal-a-centelha-parte-vi-49",
-      "name": "Parte VI",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "imortal-a-centelha",
-      "sourceTitle": "Imortal - A Centelha",
-      "pages": [
-        [
-          49,
-          54
-        ]
-      ],
-      "page": null,
-      "summary": "Parte VI A Imortalidade “I am immortal, I have inside of me blood of kings, I have no rival, no man can be my equal” - Queen, Princes of the Universe Ao se jogar com um Personagem que atravessa os séculos, é preciso muito preparo tanto por parte do Mestre como do Jogador. Personagens cientes de sua mortalidade agem com um certo comportamento, por saberem que...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-ideias-sobre-a-36",
-      "name": "IDEIAS sobre a",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        [
-          36,
-          38
-        ]
-      ],
-      "page": null,
-      "summary": "IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IDEIAS sobre a IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE IMORTALIDADE “I am immortal, I have inside of me blood of kings, I have no rival, no man can be my equal” - Queen, Princes of the Universe Ao se jogar com um Personagem que atravessa os séculos, é preciso muito preparo tanto por part...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "imortal-a-centelha-2--imortal-a-centelha-2-dos-seres-sobrenaturais-e-distorcido-23",
-      "name": "dos seres sobrenaturais é distorcido.",
-      "area": "atributos_pericias",
-      "category": "power_magic",
-      "source": "imortal-a-centelha-2",
-      "sourceTitle": "Imortal-a centelha",
-      "pages": [
-        23
-      ],
-      "page": 23,
-      "summary": "dos seres sobrenaturais é distorcido. -1 ponto: o Imortal possui valores de até 1 século antes do tempo da campanha. Para atualizar uma Perícia à época da campanha, é necessário gastar o triplo dos pontos de Perícia. -2 pontos: o Imortal possui valores de uma época entre 2 e 4 séculos antes do tempo da campanha. Para atualizar uma Perícia à época da campanha...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "kidous-arte-das-trevas--kidous-arte-das-trevas-matematica-de-jogo-21",
       "name": "MATEMÁTICA DE JOGO",
       "area": "atributos_pericias",
@@ -1439,49 +1180,6 @@
       "extractionMethod": "book-part-area-pass-1"
     },
     {
-      "id": "universo-daemon-01--universo-daemon-01-los-na-vi-10",
-      "name": "LOS NA VI",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "universo-daemon-01",
-      "sourceTitle": "Universo Daemon #01",
-      "pages": [
-        10
-      ],
-      "page": 10,
-      "summary": "q -* a, = LOS NA VI Medindo quase 3 metros de altura, com caudas, ossos naturalmente reforçados com fibra de carbono e pelo ui - bioluminescente, os Na'vi vivem em harmonia com a pi os natureza e são considerados primitivos pelos humanos. Eles veneram uma deusa chamada Eywa. . - OSS e Modificadores de Atributos. FR+3, CON +8,AGI +3, PER +3 E Habilidades de R...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "watchmen--watchmen-linha-de-corte-7",
-      "name": "LINHA DE CORTE",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "watchmen",
-      "sourceTitle": "Watchmen",
-      "pages": [
-        [
-          7,
-          23
-        ]
-      ],
-      "page": null,
-      "summary": "LINHA DE CORTE MARGEM NEW FRONTIERSMAN NEW FRONTIERSMAN 5 teoria de Rorchach. As pistas os levam a investigar uma empresa, a Entregas Pirâmide, mas antes eles decidem falar com Veidt em sua empresa mas a encontram vazia. Coruja decide investigar nos computadores de Veidt e descobre que ele é o dono da Entregas Pirâmide. Eles se dirigem ao refúgio de Veidt, K...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
       "id": "armasbrancas--armasbrancas-armas-brancas-1",
       "name": "Armas Brancas",
       "area": "atributos_pericias",
@@ -1585,26 +1283,6 @@
       ],
       "page": 3,
       "summary": "3 INTRODUÇÃO Conan, o Bárbaro, é um herói inigualável. Concebido origi- nalmente em 1932 pelo escritor Robert Ervin Howard (isso mes- mo, Conan foi escrito ANTES do Senhor dos Anéis), o bárbaro deixou os ensaios literários para ganhar, anos mais tarde, um espaço entre os super-heróis dos quadrinhos. Howard já havia escrito história sobre heróis fantásticos,...",
-      "entityRefs": [],
-      "tags": [
-        "atributos_pericias",
-        "attribute_skill"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "deform--deform-agua-6",
-      "name": "ÁGUA",
-      "area": "atributos_pericias",
-      "category": "attribute_skill",
-      "source": "deform",
-      "sourceTitle": "deform",
-      "pages": [
-        6
-      ],
-      "page": 6,
-      "summary": "6 ÁGUA 1-2 Cabeça 1- Os cabelos crescem assustadoramente, chegando até quase a cintura. São pretos ou escuros, com tons azulados. Quando o Mago se move, ou quando o vento sopra com força suficiente para movê-los, os cabelos parecem formar ondas. 2- Os cabelos parecem estar sempre molhados, não importa quanto o Mago enxugue. 3- O Mago freqüentemente sente-se...",
       "entityRefs": [],
       "tags": [
         "atributos_pericias",
