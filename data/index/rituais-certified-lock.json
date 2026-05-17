@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "area": "rituais",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_ritual_claims_do_not_enter_rituais": true,
+    "certified_poderes_and_magias_are_not_reclassified_as_rituais": true,
+    "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_rituais": true
+  },
+  "certifiedCount": 28,
+  "rejectedCount": 264,
+  "records": [
+    {
+      "id": "ritual-alastores-a-justica-infernal-convocar-duinum",
+      "source": "alastores-a-justica-infernal",
+      "name": "Convocar Duinum",
+      "nameKey": "convocar-duinum",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-duinum"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-convocar-lukhavim",
+      "source": "alastores-a-justica-infernal",
+      "name": "Convocar Lukhavim",
+      "nameKey": "convocar-lukhavim",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-lukhavim"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-dammant-indicium",
+      "source": "alastores-a-justica-infernal",
+      "name": "Dammant Indicium",
+      "nameKey": "dammant-indicium",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:dammant-indicium"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-ipsa-nomina",
+      "source": "alastores-a-justica-infernal",
+      "name": "Ipsa Nomina",
+      "nameKey": "ipsa-nomina",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:ipsa-nomina"
+    },
+    {
+      "id": "ritual-alastores-a-justica-infernal-sellas-locum",
+      "source": "alastores-a-justica-infernal",
+      "name": "Sellas locum",
+      "nameKey": "sellas-locum",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:alastores-a-justica-infernal:sellas-locum"
+    },
+    {
+      "id": "ritual-cabala-2-banimento-sombrio",
+      "source": "cabala-2",
+      "name": "Banimento Sombrio",
+      "nameKey": "banimento-sombrio",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:cabala-2:banimento-sombrio"
+    },
+    {
+      "id": "ritual-grimark201-contactar-arkanun",
+      "source": "grimark201",
+      "name": "Contactar Arkanun",
+      "nameKey": "contactar-arkanun",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:contactar-arkanun"
+    },
+    {
+      "id": "ritual-grimark201-contactar-madelein-anjo-dos-sonhos",
+      "source": "grimark201",
+      "name": "Contactar Madelein, Anjo dos Sonhos",
+      "nameKey": "contactar-madelein-anjo-dos-sonhos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:contactar-madelein-anjo-dos-sonhos"
+    },
+    {
+      "id": "ritual-grimark201-insanidade",
+      "source": "grimark201",
+      "name": "Insanidade",
+      "nameKey": "insanidade",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:insanidade"
+    },
+    {
+      "id": "ritual-grimark201-peste",
+      "source": "grimark201",
+      "name": "Peste",
+      "nameKey": "peste",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:peste"
+    },
+    {
+      "id": "ritual-grimark201-portal-para-metropolis",
+      "source": "grimark201",
+      "name": "Portal para Metrópolis",
+      "nameKey": "portal-para-metropolis",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:portal-para-metropolis"
+    },
+    {
+      "id": "ritual-grimark201-regeneracao",
+      "source": "grimark201",
+      "name": "Regeneração",
+      "nameKey": "regeneracao",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:regeneracao"
+    },
+    {
+      "id": "ritual-grimark201-criar-metamagia-3",
+      "source": "grimark201",
+      "name": "Criar Metamagia 3+",
+      "nameKey": "criar-metamagia-3",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:criar-metamagia-3"
+    },
+    {
+      "id": "ritual-grimark201-troca-de-vida",
+      "source": "grimark201",
+      "name": "Troca de Vida",
+      "nameKey": "troca-de-vida",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:troca-de-vida"
+    },
+    {
+      "id": "ritual-grimark201-visoes-do-passado",
+      "source": "grimark201",
+      "name": "Visões do Passado",
+      "nameKey": "visoes-do-passado",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimark201:visoes-do-passado"
+    },
+    {
+      "id": "ritual-guiademagias-humanos-animais-metamagia-1",
+      "source": "guiademagias",
+      "name": "Humanos/Animais/Metamagia 1",
+      "nameKey": "humanos-animais-metamagia-1",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:guiademagias:humanos-animais-metamagia-1"
+    },
+    {
+      "id": "ritual-lobisomens-maldicao-de-licantropia",
+      "source": "lobisomens",
+      "name": "Maldição de Licantropia",
+      "nameKey": "maldicao-de-licantropia",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:lobisomens:maldicao-de-licantropia"
+    },
+    {
+      "id": "ritual-lobisomens-oferenda-do-poder-negro",
+      "source": "lobisomens",
+      "name": "Oferenda do Poder Negro",
+      "nameKey": "oferenda-do-poder-negro",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:lobisomens:oferenda-do-poder-negro"
+    },
+    {
+      "id": "ritual-rituais-absorcao-de-energia",
+      "source": "rituais",
+      "name": "Absorção de Energia",
+      "nameKey": "absorcao-de-energia",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-energia"
+    },
+    {
+      "id": "ritual-rituais-absorcao-de-energia-avancada",
+      "source": "rituais",
+      "name": "Absorção de Energia Avançada",
+      "nameKey": "absorcao-de-energia-avancada",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-energia-avancada"
+    },
+    {
+      "id": "ritual-rituais-absorcao-de-magia",
+      "source": "rituais",
+      "name": "Absorção de Magia",
+      "nameKey": "absorcao-de-magia",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:absorcao-de-magia"
+    },
+    {
+      "id": "ritual-rituais-envelhecimento",
+      "source": "rituais",
+      "name": "Envelhecimento",
+      "nameKey": "envelhecimento",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:envelhecimento"
+    },
+    {
+      "id": "ritual-rituais-enxame-de-cranios",
+      "source": "rituais",
+      "name": "Enxame de Crânios",
+      "nameKey": "enxame-de-cranios",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:enxame-de-cranios"
+    },
+    {
+      "id": "ritual-rituais-cauda-aos-mortos",
+      "source": "rituais",
+      "name": "Cauda aos Mortos",
+      "nameKey": "cauda-aos-mortos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:cauda-aos-mortos"
+    },
+    {
+      "id": "ritual-rituais-garras-aos-mortos",
+      "source": "rituais",
+      "name": "Garras aos Mortos",
+      "nameKey": "garras-aos-mortos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:garras-aos-mortos"
+    },
+    {
+      "id": "ritual-rituais-magia-aos-mortos",
+      "source": "rituais",
+      "name": "Magia aos Mortos",
+      "nameKey": "magia-aos-mortos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:magia-aos-mortos"
+    },
+    {
+      "id": "ritual-rituais-transformacao-em-lich",
+      "source": "rituais",
+      "name": "Transformação em Lich",
+      "nameKey": "transformacao-em-lich",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:transformacao-em-lich"
+    },
+    {
+      "id": "ritual-rituais-vida-em-morte",
+      "source": "rituais",
+      "name": "Vida em Morte",
+      "nameKey": "vida-em-morte",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:rituais:vida-em-morte"
+    }
+  ]
+}

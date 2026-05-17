@@ -1,0 +1,775 @@
+{
+  "version": 1,
+  "candidateSourceCount": 47,
+  "rawExtractedCount": 295,
+  "extractedCount": 292,
+  "sources": [
+    {
+      "source": "abismo",
+      "candidatePages": [
+        184,
+        185,
+        186,
+        187,
+        188
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "alastores-a-justica-infernal",
+      "candidatePages": [
+        36,
+        37
+      ],
+      "context": "ritual-book-part,ritual-term",
+      "extractedCount": 5
+    },
+    {
+      "source": "anjos-jyhad-faces-da-fe",
+      "candidatePages": [
+        29
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "anjos-requiem-de-fe",
+      "candidatePages": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "aprimoramentos-3",
+      "candidatePages": [
+        16
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "aprimoramentostormenta",
+      "candidatePages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "arte-da-guerra",
+      "candidatePages": [
+        20
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "avatar-volume-1",
+      "candidatePages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "cabala-2",
+      "candidatePages": [
+        5,
+        6,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "ceifadores",
+      "candidatePages": [
+        13
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "charadas",
+      "candidatePages": [
+        3
+      ],
+      "context": "ritual-book-part",
+      "extractedCount": 0
+    },
+    {
+      "source": "cura",
+      "candidatePages": [
+        8,
+        9
+      ],
+      "context": "ritual-book-part",
+      "extractedCount": 0
+    },
+    {
+      "source": "daemon-medieval",
+      "candidatePages": [
+        14,
+        58,
+        63,
+        64
+      ],
+      "context": "ritual-term",
+      "extractedCount": 1
+    },
+    {
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "candidatePages": [
+        32,
+        33,
+        34
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "deform",
+      "candidatePages": [
+        2,
+        3
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "demon-cthulhu",
+      "candidatePages": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "demonios-a-divina-comedia",
+      "candidatePages": [
+        3,
+        103,
+        104,
+        105,
+        127,
+        128
+      ],
+      "context": "ritual-term",
+      "extractedCount": 5
+    },
+    {
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "candidatePages": [
+        52,
+        53,
+        62,
+        63
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "elf",
+      "candidatePages": [
+        1,
+        2,
+        3
+      ],
+      "context": "ritual-book-part",
+      "extractedCount": 0
+    },
+    {
+      "source": "energia-mistica",
+      "candidatePages": [
+        13
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "etruscos",
+      "candidatePages": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "context": "ritual-term",
+      "extractedCount": 6
+    },
+    {
+      "source": "fadadaluz",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "gigantes-mitologicos",
+      "candidatePages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "context": "ritual-book-part,ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "grimark201",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "context": "ritual-term",
+      "extractedCount": 88
+    },
+    {
+      "source": "grimorio101",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "context": "dedicated-ritual-source,ritual-term",
+      "extractedCount": 70
+    },
+    {
+      "source": "guiademagias",
+      "candidatePages": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "context": "ritual-term",
+      "extractedCount": 51
+    },
+    {
+      "source": "imortal",
+      "candidatePages": [
+        6
+      ],
+      "context": "ritual-book-part,ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "imortal-a-centelha",
+      "candidatePages": [
+        12,
+        13,
+        19,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        47,
+        48,
+        56,
+        57,
+        58
+      ],
+      "context": "ritual-term",
+      "extractedCount": 3
+    },
+    {
+      "source": "imortal-a-centelha-2",
+      "candidatePages": [
+        10,
+        29,
+        42
+      ],
+      "context": "ritual-term",
+      "extractedCount": 1
+    },
+    {
+      "source": "kidous-arte-das-trevas",
+      "candidatePages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "lobisomens",
+      "candidatePages": [
+        3
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "magia-negra",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "context": "dedicated-ritual-source,ritual-term",
+      "extractedCount": 6
+    },
+    {
+      "source": "manual-de-converscao",
+      "candidatePages": [
+        15
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "mitraismo",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+      "candidatePages": [
+        12,
+        42,
+        43,
+        44,
+        45,
+        98,
+        99,
+        100,
+        101,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "context": "ritual-term",
+      "extractedCount": 2
+    },
+    {
+      "source": "novos-poderes-para-fadas-e-fadas-da-luz",
+      "candidatePages": [
+        5
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "poderes-cabalisticos",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "context": "dedicated-ritual-source,ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "poderes-de-fe-02",
+      "candidatePages": [
+        19,
+        20
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "rituais",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "context": "dedicated-ritual-source,ritual-term",
+      "extractedCount": 16
+    },
+    {
+      "source": "rocknrt",
+      "candidatePages": [
+        14,
+        15,
+        16
+      ],
+      "context": "ritual-book-part",
+      "extractedCount": 0
+    },
+    {
+      "source": "secundarios",
+      "candidatePages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        20,
+        21
+      ],
+      "context": "ritual-term",
+      "extractedCount": 12
+    },
+    {
+      "source": "tartarugasninja",
+      "candidatePages": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "context": "ritual-term",
+      "extractedCount": 1
+    },
+    {
+      "source": "trevas-campanha-epica",
+      "candidatePages": [
+        128,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227
+      ],
+      "context": "ritual-book-part,ritual-term",
+      "extractedCount": 1
+    },
+    {
+      "source": "umbral-e-seus-vales",
+      "candidatePages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "context": "ritual-book-part,ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "vantagens-regionais-ii",
+      "candidatePages": [
+        6
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "youkai-kyuukai",
+      "candidatePages": [
+        22,
+        23,
+        24
+      ],
+      "context": "ritual-term",
+      "extractedCount": 0
+    },
+    {
+      "source": "yuyu-hakusho-rpg-para-daemon",
+      "candidatePages": [
+        2,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        26,
+        27,
+        28,
+        29
+      ],
+      "context": "ritual-term",
+      "extractedCount": 14
+    },
+    {
+      "source": "_manual_ritual_spell",
+      "candidatePages": [],
+      "context": "manual-ritual-spell",
+      "extractedCount": 3
+    }
+  ]
+}
