@@ -8,6 +8,7 @@ const state = {
   type: "all",
   category: "all",
   typeByArea: readTypePrefs(),
+  theme: readThemePref(),
   searchTimer: null,
 };
 
@@ -23,6 +24,7 @@ const nodes = {
   typeFilter: document.querySelector("#typeFilter"),
   categoryFilter: document.querySelector("#categoryFilter"),
   refreshButton: document.querySelector("#refreshButton"),
+  themeToggle: document.querySelector("#themeToggle"),
   areaButtonTemplate: document.querySelector("#areaButtonTemplate"),
   itemTemplate: document.querySelector("#itemTemplate"),
 };
@@ -73,6 +75,27 @@ function readTypePrefs() {
 
 function writeTypePrefs() {
   sessionStorage.setItem("daemonTools.typeByArea", JSON.stringify(state.typeByArea));
+}
+
+function preferredSystemTheme() {
+  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+}
+
+function readThemePref() {
+  return localStorage.getItem("daemonTools.theme") || preferredSystemTheme();
+}
+
+function applyTheme(theme) {
+  state.theme = theme === "dark" ? "dark" : "light";
+  document.documentElement.dataset.theme = state.theme;
+  nodes.themeToggle?.setAttribute("aria-pressed", state.theme === "dark" ? "true" : "false");
+  nodes.themeToggle?.setAttribute("title", state.theme === "dark" ? "Usar tema claro" : "Usar tema escuro");
+}
+
+function toggleTheme() {
+  const nextTheme = state.theme === "dark" ? "light" : "dark";
+  localStorage.setItem("daemonTools.theme", nextTheme);
+  applyTheme(nextTheme);
 }
 
 function setText(element, value) {
@@ -597,6 +620,8 @@ nodes.refreshButton.addEventListener("click", () => {
   load().catch(showError);
 });
 
+nodes.themeToggle?.addEventListener("click", toggleTheme);
+
 window.addEventListener("hashchange", () => {
   const hash = hashState();
   if (!hash.areaId || hash.areaId === state.area) {
@@ -616,4 +641,5 @@ function showError(error) {
   nodes.detailPane.replaceChildren(empty.cloneNode(true));
 }
 
+applyTheme(state.theme);
 load().catch(showError);
