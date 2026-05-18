@@ -5,9 +5,6 @@ const state = {
   items: [],
   selectedId: null,
   query: "",
-  type: "all",
-  category: "all",
-  typeByArea: readTypePrefs(),
   theme: readThemePref(),
   searchTimer: null,
 };
@@ -21,8 +18,6 @@ const nodes = {
   resultsCount: document.querySelector("#resultsCount"),
   detailPane: document.querySelector("#detailPane"),
   searchInput: document.querySelector("#searchInput"),
-  typeFilter: document.querySelector("#typeFilter"),
-  categoryFilter: document.querySelector("#categoryFilter"),
   refreshButton: document.querySelector("#refreshButton"),
   themeToggle: document.querySelector("#themeToggle"),
   areaButtonTemplate: document.querySelector("#areaButtonTemplate"),
@@ -45,11 +40,6 @@ const subtypeLabels = {
   ritual: "Ritual",
 };
 
-const typeFilterMap = {
-  entities: "entity",
-  sourceParts: "sourcePart",
-};
-
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) {
@@ -63,18 +53,6 @@ function normalize(value) {
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase();
-}
-
-function readTypePrefs() {
-  try {
-    return JSON.parse(sessionStorage.getItem("daemonTools.typeByArea") ?? "{}");
-  } catch {
-    return {};
-  }
-}
-
-function writeTypePrefs() {
-  sessionStorage.setItem("daemonTools.typeByArea", JSON.stringify(state.typeByArea));
 }
 
 function preferredSystemTheme() {
@@ -192,37 +170,6 @@ function buildItems(areaData) {
   }));
 }
 
-function renderCategoryFilter() {
-  const optionLabels = new Map();
-  state.items.forEach((item) => {
-    const value = categoryFilterValue(item);
-    if (value) optionLabels.set(value, categoryFilterLabel(item));
-  });
-  const categories = [...optionLabels.keys()].sort((left, right) =>
-    optionLabels.get(left).localeCompare(optionLabels.get(right), "pt-BR"),
-  );
-  const current = state.category;
-  const fieldLabel = nodes.categoryFilter.closest("label")?.querySelector("span");
-  if (fieldLabel) fieldLabel.textContent = state.area === "aprimoramentos" ? "Subgrupo" : "Categoria";
-  const options = [
-    new Option(state.area === "aprimoramentos" ? "Todos" : "Todas", "all"),
-    ...categories.map((category) => new Option(optionLabels.get(category), category)),
-  ];
-  nodes.categoryFilter.replaceChildren(...options);
-  nodes.categoryFilter.value = categories.includes(current) ? current : "all";
-  state.category = nodes.categoryFilter.value;
-}
-
-function categoryFilterValue(item) {
-  if (state.area === "aprimoramentos" && item.subgroup) return item.subgroup;
-  return item.category;
-}
-
-function categoryFilterLabel(item) {
-  if (state.area === "aprimoramentos" && item.subgroupLabel) return item.subgroupLabel;
-  return item.category;
-}
-
 function itemSummary(item) {
   if (item.summary) return item.summary;
   if (Array.isArray(item.entries) && item.entries.length) return item.entries.join(" ");
@@ -292,12 +239,9 @@ function itemKind(item) {
 
 function filteredItems() {
   const query = normalize(state.query);
-  return state.items.filter((item) => {
-    if (state.type !== "all" && item.itemType !== typeFilterMap[state.type]) return false;
-    if (state.category !== "all" && categoryFilterValue(item) !== state.category) return false;
-    if (!query) return true;
-    return item.normalizedSearchable.includes(query);
-  }).sort(compareItemsByName);
+  return state.items
+    .filter((item) => !query || item.normalizedSearchable.includes(query))
+    .sort(compareItemsByName);
 }
 
 function compareItemsByName(left, right) {
@@ -348,7 +292,7 @@ function renderResults() {
   if (!items.length) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = "Nenhum item encontrado com os filtros atuais.";
+    empty.textContent = "Nenhum item encontrado com a busca atual.";
     state.selectedId = null;
     nodes.results.replaceChildren(empty);
     renderDetail();
@@ -553,14 +497,9 @@ async function selectArea(areaId, options = {}) {
   state.area = areaId;
   state.areaData = await fetchJson(`assets/data/areas/${areaId}.json`);
   state.items = buildItems(state.areaData);
-  state.type = state.typeByArea[areaId] ?? (state.areaData.entityCount > 0 ? "entities" : "all");
-  if (state.type === "entities" && state.areaData.entityCount === 0) state.type = "all";
-  if (state.type === "sourceParts" && state.areaData.sourcePartCount === 0) state.type = "all";
   state.selectedId = options.itemId ?? null;
-  nodes.typeFilter.value = state.type;
   renderAreaList();
   renderOverview();
-  renderCategoryFilter();
   renderResults();
   renderDetail();
   if (!options.skipHash) {
@@ -600,20 +539,6 @@ nodes.searchInput.addEventListener("input", (event) => {
     renderResults();
     renderDetail();
   }, 180);
-});
-
-nodes.typeFilter.addEventListener("change", (event) => {
-  state.type = event.target.value;
-  state.typeByArea[state.area] = state.type;
-  writeTypePrefs();
-  renderResults();
-  renderDetail();
-});
-
-nodes.categoryFilter.addEventListener("change", (event) => {
-  state.category = event.target.value;
-  renderResults();
-  renderDetail();
 });
 
 nodes.refreshButton.addEventListener("click", () => {

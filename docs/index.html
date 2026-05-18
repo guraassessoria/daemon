@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daemon Tools</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260518-mobile">
+    <link rel="stylesheet" href="assets/styles.css?v=20260518-filters">
   </head>
   <body>
     <header class="topbar">
@@ -38,20 +38,6 @@
             <span>Buscar</span>
             <input id="searchInput" type="search" placeholder="Nome, fonte, resumo ou tag">
           </label>
-          <label class="select">
-            <span>Tipo</span>
-            <select id="typeFilter">
-              <option value="all">Tudo</option>
-              <option value="entities">Entidades</option>
-              <option value="sourceParts">Partes dos livros</option>
-            </select>
-          </label>
-          <label class="select">
-            <span>Categoria</span>
-            <select id="categoryFilter">
-              <option value="all">Todas</option>
-            </select>
-          </label>
         </div>
 
         <div class="area-overview" id="areaOverview"></div>
@@ -61,7 +47,7 @@
               <h2 id="resultsTitle">Itens</h2>
               <span id="resultsCount"></span>
             </div>
-            <div class="results" id="results" role="listbox" aria-label="Itens filtrados"></div>
+            <div class="results" id="results" role="listbox" aria-label="Itens encontrados"></div>
           </section>
 
           <article class="detail-pane" id="detailPane" aria-label="Detalhe do item">
@@ -91,6 +77,6 @@
       </button>
     </template>
 
-    <script src="assets/app.js?v=20260518-mobile" type="module"></script>
+    <script src="assets/app.js?v=20260518-filters" type="module"></script>
   </body>
 </html>

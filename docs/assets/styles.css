@@ -72,8 +72,7 @@ body {
 }
 
 button,
-input,
-select {
+input {
   font: inherit;
 }
 
@@ -287,7 +286,7 @@ h1 {
 
 .toolbar {
   display: grid;
-  grid-template-columns: minmax(260px, 1fr) 160px 220px;
+  grid-template-columns: minmax(0, 1fr);
   gap: 10px;
   align-items: end;
   padding: 12px 14px;
@@ -295,14 +294,12 @@ h1 {
   background: var(--surface-soft);
 }
 
-.search,
-.select {
+.search {
   display: grid;
   gap: 4px;
 }
 
 .search span,
-.select span,
 dt {
   color: var(--muted);
   font-size: 0.68rem;
@@ -311,8 +308,7 @@ dt {
   text-transform: uppercase;
 }
 
-input,
-select {
+input {
   width: 100%;
   min-height: 34px;
   border: 1px solid var(--line-strong);
@@ -322,7 +318,6 @@ select {
 }
 
 input:focus,
-select:focus,
 button:focus-visible {
   outline: 3px solid var(--focus);
   outline-offset: 1px;
@@ -728,13 +723,9 @@ dd {
   }
 
   .toolbar {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr);
     gap: 8px;
     padding: 9px 10px;
-  }
-
-  .search {
-    grid-column: 1 / -1;
   }
 
   .area-overview {
@@ -774,10 +765,6 @@ dd {
 
   .metric {
     min-width: 76px;
-  }
-
-  .toolbar {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   }
 
   .item-row {
