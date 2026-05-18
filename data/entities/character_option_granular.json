@@ -7043,40 +7043,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-negativos",
-    "name": "Negativos,",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 1,
-    "pages": [
-      1
-    ],
-    "costs": [
-      "3 pontos",
-      "5 pontos",
-      "8 pontos"
-    ],
-    "entries": [
-      "que\noferecem\nalguma\ndesvantagem. O benefício de assumir uma\ndesvantagem é que o personagem “ganha”\nmais pontos de Aprimoramento para gastar\nem outros Aprimoramentos Positivos.\nCada Personagem humano começa o jogo com\n5 pontos positivos de Aprimoramentos e o\nJogador pode gastá-los como desejar. Os\nPersonagens podem ainda aceitar até 3 pontos\nnegativos de Aprimoramento. Cada ponto\nnegativo garante ao Personagem um ponto\npositivo extra de Aprimoramento, que pode\nser\nusado\npara\ncomprar\noutros\nAprimoramentos, excedendo o limite de 5\npontos, mas nunca ultrapassando 8 pontos\n(porque 5+3=8). Podem ainda serem usados\npara completar o valor de Kits de Perícia, na\nbase de um Ponto Negativo para cada Ponto\nPositivo.\nLembre-se\nque\npara\nter\nacesso\na\num\nAprimoramento nível 2 é preciso ter esse\nmesmo Aprimoramento no nível 1. Gasta-se\num ponto de Aprimoramento para aumentar\num Aprimoramento em um nível.\nAprimoramentos"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:negativos",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-mago-de-combate",
     "name": "Mago de Combate",
     "category": "character_option",
@@ -7643,9 +7609,8 @@
     "subtype": "aprimoramento",
     "source": "aprimoramentos-3",
     "sourceTitle": "Aprimoramentos 3",
-    "page": 3,
+    "page": 4,
     "pages": [
-      3,
       4
     ],
     "costs": [
@@ -7843,24 +7808,18 @@
     "sourceTitle": "Aprimoramentos 3",
     "page": 4,
     "pages": [
-      4,
-      5
+      4
     ],
     "costs": [
-      "1 ponto",
-      "2 pontos",
-      "3 pontos",
-      "4 pontos"
+      "1 ponto"
     ],
     "entries": [
-      "1 ponto: seu Personagem possui sono leve e\npode\nacordar\ncom\nqualquer\nbarulho,\nmovimento brusco ou agitação próximo do\nlocal onde ele está dormindo. Muito bom para\nos que não querem ser pegos de surpresa\ndurante o descanso.\nAprimoramentos\nSociais\nArmas de Fogo\nNão importa o quão rico ou poderoso seu\nPersonagem possa ser, para carregar armas de\nfogo, uma destas duas condições deve ser\nsatisfeita: ou seu Personagem as adquiriu\nlegalmente, possui certificados e licença (o que\nnão é uma desculpa para entrar em um\ntiroteio) ou as adquiriu no mercado negro (e\nportanto, pode ser indiciado criminalmente\npor porte ilegal de armas). Qualquer que seja a\nrazão,\nela\ndeve\nestar\nexplicada\nem\nBackground.\n1 ponto: o Personagem possui revólver,\npistola, rifle ou arma semi-automática dentro\ndo limite da lei.\n2 pontos: submetralhadoras, carabinas calibre\n12, armas automáticas ou reservadas.\n3 pontos: metralhadoras pesadas, outras armas\nmilitares, armas pesadas.\nContatos e Aliados\nLembre-se que os aliados podem morrer com o\npassar do tempo (bom, até mesmo seres\nsobrenaturais podem morrer...). Quando isso\nocorrer,\nassume-se\nque\no\nPersonagem\nconseguiu outro aliado no mesmo ramo,\npassou a conhecer os descendentes dele ou seu\nsucessor.\nO Mestre deve sempre se lembrar de que os\ncontatos e aliados do Personagem também tem\nseus próprios problemas, não estando à\ndisposição de seu Personagem sempre que\nacontecer\nalgum\nproblema\ne\nque\nocasionalmente também cobrarão favores ou\npedirão ajuda a ele (isso pode ser usado como\nfonte de Aventuras pelo Mestre).\nCada Ponto de Contato equivale a alguns\npequenos contatos (o Jogador deve especificar\nquais, dentro das áreas abaixo) ou a um\ncontato importante (um NPC), de acordo com\nos Pontos gastos. Cada subgrupo deve ser\ncomprado separadamente.\n1 ponto: um aliado importante.\n2 pontos: dois aliados importantes.\n3 pontos: quatro aliados importantes.\n4 pontos: oito aliados importantes.\nPolítica: inclui manter o controle burocrático\nsobre a região, não importando através de que\nmeios. Pode ser controlando o prefeito,\nsecretárias, vereadores, ou outros funcionários\nda burocracia pública. Permite ao Personagem\nmanipular (ou mesmo mudar) as leis e regras\nque compõem uma sociedade.\nJurídico: seu Personagem conhece as leis ou\naqueles que fazem as leis. Mantém contato\ncom\nsenadores,\nlegisladores,\nadvogados,\npromotores e juízes. Pode fazer multas e\npequenas\nacusações\nse\n“perderem\nna\npapelada”, cancelar casos, modificar penas ou\natrapalhar investigações.\nIgreja: controle sobre o clero, sobre padres,\nbispos, fiéis, ativistas, caçadores de bruxas e,\ndependendo da época e local onde se estiver\njogando: Templários, Inquisição e ordens\nmilitares religiosas.\nIndústrias: seu Personagem possui influência\nna área industrial, sobre organizações de\ntrabalhadores,\nartesãos,\noperários,\nengenheiros, transportes e outras pessoas\nligadas à área industrial. Pode conseguir\nequipamentos,\nprojetos,\nespecificações,\ncálculos ou outras operações ligadas à área de\nengenharia (ou cibernéticos, se a Campanha\npermitir).\nMídia:\ncontrole\nsobre\nos\nmeios\nde\ncomunicação como um todo. Existem cada vez\nmais meios de comunicação e mídia, como\nJornais, rádio, televisão, revistas, Internet e\noutros. Apesar de ninguém duvidar que a\nmídia é corrupta, até mesmo os Personagens se\nassustariam se descobrissem quem cobre os\nolhos da mídia às vezes.\nPolícia:\ninclui\ndelegados,\ninvestigadores,\nescrivães, algumas forças especiais (SWAT,\nFBI, drogas e homicídios, DENARC, GARRA).\nPode ajudar a conduzir investigações, se elas\nforem importantes, ou desviar a atenção da lei\npara casos mais “interessantes”.\nSubmundo: o que seria de um Personagem\nsem suas gangues de arruaceiros para cuidar\nde pequenos problemas que podem surgir?\nSubmundo inclui um contato com alguma\norganização criminosa como a Máfia, a Cosa\nNostra, a Tríade, a Yakusa ou os traficantes\ncolombianos."
+      "1 ponto: seu Personagem possui sono leve e\npode\nacordar\ncom\nqualquer\nbarulho,\nmovimento brusco ou agitação próximo do\nlocal onde ele está dormindo. Muito bom para\nos que não querem ser pegos de surpresa\ndurante o descanso."
     ],
     "tags": [
       "aprimoramento",
       "auto-extraido",
-      "certificado",
-      "combate",
-      "fisico"
+      "certificado"
     ],
     "confidence": 0.74,
     "extractionMethod": "auto-aprimoramento-pass-1",
@@ -8288,42 +8247,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-maxima",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-testes",
-    "name": "Testes",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 8,
-    "pages": [
-      8
-    ],
-    "costs": [
-      "11 ponto",
-      "18 pontos",
-      "2 pontos"
-    ],
-    "entries": [
-      "de\nResistência não são afetados. Uma Magia\nMaximizada exige 2 pontos de Focus a mais\npara ser lançada e tem custo aumentado em\n50% arredondado para cima.\nPor exemplo, uma Bola de Fogo Maximizada\ncom Focus 3 causará 18 pontos de dano (o\nmáximo de 3d6) mas exigirá Focus 5 e terá\ncusto de 11 ponto (3+1,5 arredondado para\ncima)."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "magia",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:testes",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -10408,9 +10331,8 @@
     "subtype": "aprimoramento",
     "source": "aprimoramentos-3",
     "sourceTitle": "Aprimoramentos 3",
-    "page": 19,
+    "page": 20,
     "pages": [
-      19,
       20
     ],
     "costs": [
@@ -10499,6 +10421,41 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:traumatizado",
+    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
+  },
+  {
+    "id": "aprimoramento-aprimoramentos-3-armas-de-fogo",
+    "name": "Armas de Fogo",
+    "category": "character_option",
+    "subtype": "aprimoramento",
+    "source": "aprimoramentos-3",
+    "sourceTitle": "Aprimoramentos 3",
+    "page": 4,
+    "pages": [
+      4,
+      5
+    ],
+    "costs": [
+      "1 ponto",
+      "2 pontos",
+      "3 pontos"
+    ],
+    "entries": [
+      "Não importa o quão rico ou poderoso seu\nPersonagem possa ser, para carregar armas de\nfogo, uma destas duas condições deve ser\nsatisfeita: ou seu Personagem as adquiriu\nlegalmente, possui certificados e licença (o que\nnão é uma desculpa para entrar em um\ntiroteio) ou as adquiriu no mercado negro (e\nportanto, pode ser indiciado criminalmente\npor porte ilegal de armas). Qualquer que seja a\nrazão,\nela\ndeve\nestar\nexplicada\nem\nBackground.\n1 ponto: o Personagem possui revólver,\npistola, rifle ou arma semi-automática dentro\ndo limite da lei.\n2 pontos: submetralhadoras, carabinas calibre\n12, armas automáticas ou reservadas.\n3 pontos: metralhadoras pesadas, outras armas\nmilitares, armas pesadas."
+    ],
+    "tags": [
+      "aprimoramento",
+      "auto-extraido",
+      "certificado",
+      "combate"
+    ],
+    "confidence": 0.82,
+    "extractionMethod": "manual-aprimoramento-source-fix",
+    "certificationStatus": "certified",
+    "certifiedAs": "aprimoramento",
+    "certifiedArea": "aprimoramentos",
+    "lockedArea": "aprimoramentos",
+    "certificationId": "aprimoramento-lock:aprimoramentos-3:armas-de-fogo",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -11146,9 +11103,8 @@
     "subtype": "aprimoramento",
     "source": "aprimoramentos-4",
     "sourceTitle": "Aprimoramentos 4",
-    "page": 4,
+    "page": 5,
     "pages": [
-      4,
       5
     ],
     "costs": [],
@@ -11607,9 +11563,8 @@
     "subtype": "aprimoramento",
     "source": "aprimoramentos-4",
     "sourceTitle": "Aprimoramentos 4",
-    "page": 6,
+    "page": 7,
     "pages": [
-      6,
       7
     ],
     "costs": [
@@ -11868,9 +11823,8 @@
     "subtype": "aprimoramento",
     "source": "aprimoramentos-4",
     "sourceTitle": "Aprimoramentos 4",
-    "page": 7,
+    "page": 8,
     "pages": [
-      7,
       8
     ],
     "costs": [
@@ -13541,40 +13495,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-talentos-aviso-aos-jogadores-principalmente-owerpowers",
-    "name": "AVISO AOS JOGADORES (PRINCIPALMENTE OWERPOWERS!)",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "talentos",
-    "sourceTitle": "talentos",
-    "page": 1,
-    "pages": [
-      1
-    ],
-    "costs": [
-      "1 ponto",
-      "3 pontos"
-    ],
-    "entries": [
-      "CAROS JOGADORES...SE VOCS ACHAM QUE OS CUSTOS DOS APRIMORAMENTOS SO\nDEMASIADOS ``ELEVADOS´´,TENTEM IMAGINAR UM PERSONAGEM DE 8º NÍVEL COM\nACUIDADE COM ARMA (MONTANTE) (1 PONTO),INVESTIDA IMPLACÁVEL\n(1 PONTO) EM FÚRIA BERSERKER (3 PONTOS).\nELE CAUSA 2D6+2+4(ACUIDADE)+4 (FÚRIA) +BÔNUS POR FR (VAMOS SUPOR 2).SEM\nDIZER QUE ELE RECEBE UM BÔNUS DE +15/0 EM SUA PERÍCIA DE ATAQUE."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:talentos:aviso-aos-jogadores-principalmente-owerpowers",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-talentos-ataque-giratorio",
     "name": "ATAQUE GIRATÓRIO",
     "category": "character_option",
@@ -13713,9 +13633,8 @@
     "subtype": "aprimoramento",
     "source": "talentos",
     "sourceTitle": "talentos",
-    "page": 2,
+    "page": 3,
     "pages": [
-      2,
       3
     ],
     "costs": [
@@ -14404,9 +14323,8 @@
     "subtype": "aprimoramento",
     "source": "talentos",
     "sourceTitle": "talentos",
-    "page": 5,
+    "page": 6,
     "pages": [
-      5,
       6
     ],
     "costs": [
@@ -14636,9 +14554,8 @@
     "subtype": "aprimoramento",
     "source": "talentos",
     "sourceTitle": "talentos",
-    "page": 6,
+    "page": 7,
     "pages": [
-      6,
       7
     ],
     "costs": [
@@ -14919,47 +14836,14 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-talentos-atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
-    "name": "ATRIBUTOS, APRIMORAMENTOS E HABILIDADES ESPECIAIS TAMBÉM PODEM SER",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "talentos",
-    "sourceTitle": "talentos",
-    "page": 8,
-    "pages": [
-      8
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "COMPARTILHADOS, DESDE QUE SEJAM DE USO EM COMBATE. QUANDO O GRUPO\nRECEBE DANO,ESTE É DIVIDIDO IGUALMENTE POR TODOS OS PERSONAGENS\n(SENDO QUE OS PONTOS DE DANO QUE SOBRAREM EM ARREDONDAMENTO SO\nDESCONTADOS NO PERSONAGEM DE NÍVEL MAIS ALTO (OU COM MAIOR N° DE\nPONTOS DE VIDA).\n2 PONTOS(PARCEIRO): IGUAL AO SINCRONIA NÍVEL 1,MAS VOCÊ SÓ PODERÁ\nESCOLHER UM PERSONAGEM(QUE OBRIGATÓRIAMENTE DEVERÁ TER ESTE\nAPRIMORAMENTO). QUANDO VC SE JUNTA AO SEU PARCEIRO,VOCÊS COMBINAM\nSUAS CARACTERÍSTICAS MAIS ALTAS,E COMPARTILHAM AMBOS DE QUALQUER\nHABILIDADE ESPECIAL QUE UM DOS DOIS TENHAM,E EM QUALQUER SITUAO\n(NO S COMBATE-VIDE EXEMPLO). QUANDO PRXIMOS,VOCS PODEM\nCOMPARTILHAR PENSAMENTOS (NECESSÁRIO CONTATO VISUAL),E QUANDO\nSEPARADOS,UM SEMPRE SABER A DIREO ONDE SE ENCONTRA O OUTRO. ESTE\nPARCEIRO (PC OU NPC) TEM UMA LIGAO ESPECIAL COM O SEU PERSONAGEM,QUE\nDEVE SER EXPLICADA NO BACKGROUND.\nEXEMPLO:         JULI                                     JUNI                                 JUNO\nCON:14                               CON:15                              CON:15\nFR:17                                   FR:14                                 FR:17\nDEX:15                                DEX:16                              DEX:16\nAGI:14                                 AGI:17                               AGI:17\nINT:15                                  INT:10                               INT:15\nWILL: 10                               WILL: 06                            WILL: 10\nPER:15                                 PER:15                               PER:15\nCAR:10                                 CAR:12                             CAR:12\nPV:18+9                               PV:16+9                             PV:18+9\nIP:4                                       IP:4                                     IP:4\nBRIGA 85/55                        BRIGA 66/76                      BRIGA 85/76\nESCALADA  45                  FURTIVIDADE  47             ESCALADA 45"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:talentos:atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-talentos-foco-em-magia",
     "name": "FOCO EM MAGIA",
     "category": "character_option",
     "subtype": "aprimoramento",
     "source": "talentos",
     "sourceTitle": "talentos",
-    "page": 8,
+    "page": 9,
     "pages": [
-      8,
       9
     ],
     "costs": [

@@ -5,6 +5,7 @@
   "readySourceCount": 190,
   "entityCount": 217,
   "sourcePartCount": 0,
+  "subgroups": [],
   "entities": [
     {
       "id": "magia-guiademagias-a-embriaguez-coletiva-de-bakunin",
@@ -267,6 +268,175 @@
       "certificationId": "magia-lock:caminhos2:brilhos",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
+      "name": "Caminhos: Água 1",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "page": 93,
+      "entries": [
+        "Custo: um ponto de Fé.\nDuração: instantânea.\nEfeito: O mago cria o equivalente a três\nlitros de água saindo de suas mãos. Caso\n94\nnão seja contida em nenhum recipiente, ela\nse espalhará como qualquer outro líquido."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        93,
+        94
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-1",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-2",
+      "name": "Caminhos: Água 2",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "page": 94,
+      "entries": [
+        "Custo: um ponto de Fé.\nDuração: uma cena.\nEfeito: Enxerga sob a água é usualmente\ndifícil. Poucos locais possuem água crista-\nlina e límpida. A partir desse ritual, o ma-\ngo enxerga com seu alcance natural mes-\nmo quando está submerso. A magia funci-\nona somente sob a água, nunca para facili-\ntar condições de visão fora dela. Em caso\nde tempestades ou chuvas muito fortes, os\nredutores são reduzidos a zero."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        94
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-2",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-3",
+      "name": "Caminhos: Água 3",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "page": 94,
+      "entries": [
+        "Custo: um ponto de Fé.\nDuração: uma cena.\nEfeito: O mago pode respirar enquanto\nsubmerso sem quaisquer dificuldades."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        94
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-3",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-4",
+      "name": "Caminhos: Água 4",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "page": 94,
+      "entries": [
+        "Custo: dois pontos de Fé.\nDuração: instantânea.\n95\nEfeito: As forças do Caminho da Água são\ninvocadas para se gerar uma onda a partir\ndo nada a partir das mãos do mago. Essa\nquantidade descomunal de líquido tem\nseis metros de comprimento, dois metros\nde altura e se arrastará por uma distância\nde até dez metros por nível do mago no\nCaminho das Águas. Qualquer um atingi-\ndo sofre quatro dados de dano e deve tes-\ntar Força + Esportes e obter quatro suces-\nsos para permanecer de pé.\nFundir com a Água"
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        94,
+        95
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-4",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-anjos-requiem-de-fe-caminhos-agua-5",
+      "name": "Caminhos: Água 5",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "anjos-requiem-de-fe",
+      "sourceTitle": "Anjos - Réquiem de Fé",
+      "page": 95,
+      "entries": [
+        "Custo: dois pontos de Fé.\nDuração: um turno por sucesso.\nEfeito: O mago se transforma em uma cria-\ntura de água pura e mágica. Suas formas\nfluidas e mágicas fazem com que apenas\ndano agravado ou causado por fogo pos-\nsam afetá-lo. A forma física é bastante afe-\ntada, aumentando em dois a Destreza. A\nDefesa passa a ser calculada pelo maior e\nnão pelo menor Atributo. Magias baseados\nno Caminho do Fogo causam o dobro do\ndano na forma elemental do mago."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        95
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-5",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-anjos-requiem-de-fe-caminhos-animal-1",
@@ -2159,175 +2329,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
-      "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
-      "name": "Caminhos: Água 1",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "page": 93,
-      "entries": [
-        "Custo: um ponto de Fé.\nDuração: instantânea.\nEfeito: O mago cria o equivalente a três\nlitros de água saindo de suas mãos. Caso\n94\nnão seja contida em nenhum recipiente, ela\nse espalhará como qualquer outro líquido."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        93,
-        94
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-1",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-anjos-requiem-de-fe-caminhos-agua-2",
-      "name": "Caminhos: Água 2",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "page": 94,
-      "entries": [
-        "Custo: um ponto de Fé.\nDuração: uma cena.\nEfeito: Enxerga sob a água é usualmente\ndifícil. Poucos locais possuem água crista-\nlina e límpida. A partir desse ritual, o ma-\ngo enxerga com seu alcance natural mes-\nmo quando está submerso. A magia funci-\nona somente sob a água, nunca para facili-\ntar condições de visão fora dela. Em caso\nde tempestades ou chuvas muito fortes, os\nredutores são reduzidos a zero."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        94
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-2",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-anjos-requiem-de-fe-caminhos-agua-3",
-      "name": "Caminhos: Água 3",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "page": 94,
-      "entries": [
-        "Custo: um ponto de Fé.\nDuração: uma cena.\nEfeito: O mago pode respirar enquanto\nsubmerso sem quaisquer dificuldades."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        94
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-3",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-anjos-requiem-de-fe-caminhos-agua-4",
-      "name": "Caminhos: Água 4",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "page": 94,
-      "entries": [
-        "Custo: dois pontos de Fé.\nDuração: instantânea.\n95\nEfeito: As forças do Caminho da Água são\ninvocadas para se gerar uma onda a partir\ndo nada a partir das mãos do mago. Essa\nquantidade descomunal de líquido tem\nseis metros de comprimento, dois metros\nde altura e se arrastará por uma distância\nde até dez metros por nível do mago no\nCaminho das Águas. Qualquer um atingi-\ndo sofre quatro dados de dano e deve tes-\ntar Força + Esportes e obter quatro suces-\nsos para permanecer de pé.\nFundir com a Água"
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        94,
-        95
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-4",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-anjos-requiem-de-fe-caminhos-agua-5",
-      "name": "Caminhos: Água 5",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "anjos-requiem-de-fe",
-      "sourceTitle": "Anjos - Réquiem de Fé",
-      "page": 95,
-      "entries": [
-        "Custo: dois pontos de Fé.\nDuração: um turno por sucesso.\nEfeito: O mago se transforma em uma cria-\ntura de água pura e mágica. Suas formas\nfluidas e mágicas fazem com que apenas\ndano agravado ou causado por fogo pos-\nsam afetá-lo. A forma física é bastante afe-\ntada, aumentando em dois a Destreza. A\nDefesa passa a ser calculada pelo maior e\nnão pelo menor Atributo. Magias baseados\nno Caminho do Fogo causam o dobro do\ndano na forma elemental do mago."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        95
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-agua-5",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
       "id": "magia-grimorio101-cegueira",
       "name": "Cegueira",
       "area": "magias",
@@ -2358,6 +2359,40 @@
       "certificationId": "magia-lock:grimorio101:cegueira",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-term"
+    },
+    {
+      "id": "magia-domini-urbs-biblioteca-elfica-circulo-sagrado",
+      "name": "Círculo Sagrado",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "domini-urbs-biblioteca-elfica",
+      "sourceTitle": "Domini-urbs-biblioteca-elfica",
+      "page": 140,
+      "entries": [
+        "Custo: 3 Pontos de Fé\nDuração: 1d6 rodadas + 1 por Ponto de\nFé extra gasto\nO personagem cria um círculo sagrado\nque protege todos em seu interior de influências\ndemoníacas. Agentes do Inferno ou do Abismo,\nsejam eles seres sobrenaturais ou magos, estarão\nimpossibilitados de entrar a não ser que passem\nem um teste de Força de Vontade contra a Força\nde Vontade do personagem + seu nível de Pontos\nde Fé. Precisam fazer o mesmo teste para fazerem\nseus poderes ou magias atravessarem o círculo. O\ncírculo de dois metros de raio."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "demonico",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        140
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:domini-urbs-biblioteca-elfica:circulo-sagrado",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "power-magic-book-part,power-term"
     },
     {
       "id": "magia-guiademagias-concedido",
@@ -2426,6 +2461,70 @@
       "certificationId": "magia-lock:grimark201:conjuracao-de-elementais",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-caminhos2-controlar-afeta",
+      "name": "Controlar-Afeta",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 3,
+      "entries": [
+        "uma\nchama\nnegra\nde\n1m\nde\naltura.O\nmago\npode\n``drenar``fogo\nnegro,aumentando sua Força em +2."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        3
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:controlar-afeta",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-guiademagias-controlar-agua-trevas-humanos-daemon",
+      "name": "Controlar Água/Trevas/Humanos (Daemon)",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "guiademagias",
+      "sourceTitle": "guiademagias",
+      "page": 26,
+      "entries": [
+        "Muitas outras variantes desta magia\npodem ser desenvolvidas. O processo de\ncriação deve ser supervisionado pelo Mestre."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        26
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:controlar-agua-trevas-humanos-daemon",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-grimark201-controlar-animais-5",
@@ -2562,6 +2661,39 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
+      "id": "magia-grimark201-controlar-criar-humanos-6",
+      "name": "Controlar/Criar Humanos 6",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 8,
+      "entries": [
+        "Custo: 3 pts\nTempo de Conjuração: imediato\nMateriais: cordas de uma marionete\nUma antiga e rústica versão dos bonecos Voodoos, este\nritual foi inicialmente reportado por Sir Arthur Miller em\n1828, na Africa, mas os nativos afirmam que este ritual pos-\nsui centenas de anos. Como ele foi parar na europa, porém,\nninguém soube explicar.\nCom este ritual, o mago é capaz de controlar os movimen-\ntos grosseiros de uma vítima, como andar, saltar, lutar, etc.\nCaso a vítima tente resistir, ela pode fazer um teste de Força\nversus Força de Vontade do Mago para resistir ao controle.\nEste ritual demora 2d6 rodadas para perder seu efeito."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        8
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:controlar-criar-humanos-6",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
       "id": "magia-secundarios-controlar-cristais-2",
       "name": "Controlar Cristais 2",
       "area": "magias",
@@ -2593,6 +2725,43 @@
       "certificationId": "magia-lock:secundarios:controlar-cristais-2",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-energia-mistica-controlar-entender-spiritum-metamagia-3",
+      "name": "Controlar/Entender Spiritum/Metamagia 3",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "energia-mistica",
+      "sourceTitle": "Energia Mistica",
+      "page": 11,
+      "entries": [
+        "Fetiches: Versos e uma gema preparada\nantecipadamente.\nApesar do nome, este ritual criado por\num poderoso mago chamado Jacob, consiste em\n“transportar” energia mística de sua aura\ndiretamente para seu Cordão de Prata, e não\nfortalecer seu espírito. Para efeitos de jogo, o\nmago transforma Pontos de Magia em Pontos de\nPrata, assim conseguindo armazenar um maior\nnúmero de Pontos de Prata em seu próprio\nCordão (caso seja possível) ou então acelerando\no processo comum de recuperação de Pontos de\nPrata perdidos.\nO mago realiza o ritual, pagando dois\nPontos de Magia que são transportados para\ndentro da gema, que no mesmo instante converte\num desses Pontos em um Ponto de Prata, ou\nseja, transporta um desses Pontos de Magia para\no Cordão de Prata do mago que o executou ou\nde algum outro alvo que o dono escolher. É\nnecessário que a gema esteja em contado direto\ncom a pele da pessoa que irá receber este Ponto\nde Prata para que o ritual funcione, e que o\nmago que executa o ritual esteja a menos de 1m\nda mesma. Se por qualquer motivo, o alvo da\nmagia já possuir o número máximo de pontos\npermitidos em seu Cordão, a energia é\nautomaticamente perdida no processo. A gema\nse destrói após o ritual e não é possível\narmazenar o Ponto de Prata na mesma para\nutilizar depois, pois o efeito é instantâneo.\nManutenção da vida de Victorius\nControlar/Entender Spiritum/Metamagia 5+\nFetiches: Versos, uma adaga ritual e o sacrifício\nde uma criatura que possua Pontos de Prata (ou\nseja, qualquer uma que possua pelo menos 1D\nem INT).\nEnergia Místicas Internas\nEste ritual foi desenvolvido por Victorius\npara adquirir Pontos de Prata com maior\nvelocidade. O mago usa a adaga para realizar\num corte superficial em seu próprio corpo\n(geralmente a palma da mão) e depois, recitando\nalgumas palavras de ativação, crava a adaga na\ncriatura, abrindo um corte de igual tamanho.\nDepois, ainda recitando alguns versos, o mago\ncoloca sua ferida em contato com a da criatura,\nassim drenando sua energia vital.\nPara efeitos de jogo, cada Ponto de Prata\ndrenado da criatura sacrificada é transportado\ndiretamente para o Cordão do mago. Do mesmo\nmodo como no caso anterior, não é possível\narmazenar mais Pontos de Prata do que o\nmáximo permitido. É possível que a criatura\nsacrificada possua mais Pontos de Prata que o\nnecessário para o mago. Nesses casos, os pontos\nrestantes são perdidos no processo. Níveis\nmaiores deste ritual permitem que se drene\ntambém estes Pontos de Prata excedentes, mas\ncomo Pontos de Magia, à razão de dois para um.\n15\nForum da Daemon;\nTrevas 3.5;\nGrimorio;\nAnjos;\nDemônios;\nSpiritum;\nGoogle;\nE diversos livros de espiritismo que nem me lembro o nome.\nBibliográfia\n16\nEnergia Místicas Internas"
+      ],
+      "tags": [
+        "angelico",
+        "auto-extraido",
+        "certificado",
+        "demonico",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        11,
+        12,
+        13
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:energia-mistica:controlar-entender-spiritum-metamagia-3",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part"
     },
     {
       "id": "magia-grimark201-controlar-humanos-5",
@@ -2795,6 +2964,38 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
+      "id": "magia-caminhos2-controlar-pode",
+      "name": "Controlar-Pode",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 11,
+      "entries": [
+        "cristalizar\numa\nparede\nde\nfina\nespessura,tornando-a semitransparente.Pode\nmoldar pequenos cristais como argila.Transforma uma pedra comum em ametista,ou pode\ntransformar ferro em cristal frágil.Pode cristalizar as mãos do mago,fazendo-as causar 2d6 de\ndano."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        11
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:controlar-pode",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
       "id": "magia-grimark201-controlar-spiritum-4",
       "name": "Controlar Spiritum 4",
       "area": "magias",
@@ -2893,172 +3094,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
-      "id": "magia-guiademagias-controlar-agua-trevas-humanos-daemon",
-      "name": "Controlar Água/Trevas/Humanos (Daemon)",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "page": 26,
-      "entries": [
-        "Muitas outras variantes desta magia\npodem ser desenvolvidas. O processo de\ncriação deve ser supervisionado pelo Mestre."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        26
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:controlar-agua-trevas-humanos-daemon",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-caminhos2-controlar-afeta",
-      "name": "Controlar-Afeta",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 3,
-      "entries": [
-        "uma\nchama\nnegra\nde\n1m\nde\naltura.O\nmago\npode\n``drenar``fogo\nnegro,aumentando sua Força em +2."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        3
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:controlar-afeta",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-caminhos2-controlar-pode",
-      "name": "Controlar-Pode",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 11,
-      "entries": [
-        "cristalizar\numa\nparede\nde\nfina\nespessura,tornando-a semitransparente.Pode\nmoldar pequenos cristais como argila.Transforma uma pedra comum em ametista,ou pode\ntransformar ferro em cristal frágil.Pode cristalizar as mãos do mago,fazendo-as causar 2d6 de\ndano."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        11
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:controlar-pode",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-grimark201-controlar-criar-humanos-6",
-      "name": "Controlar/Criar Humanos 6",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 8,
-      "entries": [
-        "Custo: 3 pts\nTempo de Conjuração: imediato\nMateriais: cordas de uma marionete\nUma antiga e rústica versão dos bonecos Voodoos, este\nritual foi inicialmente reportado por Sir Arthur Miller em\n1828, na Africa, mas os nativos afirmam que este ritual pos-\nsui centenas de anos. Como ele foi parar na europa, porém,\nninguém soube explicar.\nCom este ritual, o mago é capaz de controlar os movimen-\ntos grosseiros de uma vítima, como andar, saltar, lutar, etc.\nCaso a vítima tente resistir, ela pode fazer um teste de Força\nversus Força de Vontade do Mago para resistir ao controle.\nEste ritual demora 2d6 rodadas para perder seu efeito."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        8
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:controlar-criar-humanos-6",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-energia-mistica-controlar-entender-spiritum-metamagia-3",
-      "name": "Controlar/Entender Spiritum/Metamagia 3",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "energia-mistica",
-      "sourceTitle": "Energia Mistica",
-      "page": 11,
-      "entries": [
-        "Fetiches: Versos e uma gema preparada\nantecipadamente.\nApesar do nome, este ritual criado por\num poderoso mago chamado Jacob, consiste em\n“transportar” energia mística de sua aura\ndiretamente para seu Cordão de Prata, e não\nfortalecer seu espírito. Para efeitos de jogo, o\nmago transforma Pontos de Magia em Pontos de\nPrata, assim conseguindo armazenar um maior\nnúmero de Pontos de Prata em seu próprio\nCordão (caso seja possível) ou então acelerando\no processo comum de recuperação de Pontos de\nPrata perdidos.\nO mago realiza o ritual, pagando dois\nPontos de Magia que são transportados para\ndentro da gema, que no mesmo instante converte\num desses Pontos em um Ponto de Prata, ou\nseja, transporta um desses Pontos de Magia para\no Cordão de Prata do mago que o executou ou\nde algum outro alvo que o dono escolher. É\nnecessário que a gema esteja em contado direto\ncom a pele da pessoa que irá receber este Ponto\nde Prata para que o ritual funcione, e que o\nmago que executa o ritual esteja a menos de 1m\nda mesma. Se por qualquer motivo, o alvo da\nmagia já possuir o número máximo de pontos\npermitidos em seu Cordão, a energia é\nautomaticamente perdida no processo. A gema\nse destrói após o ritual e não é possível\narmazenar o Ponto de Prata na mesma para\nutilizar depois, pois o efeito é instantâneo.\nManutenção da vida de Victorius\nControlar/Entender Spiritum/Metamagia 5+\nFetiches: Versos, uma adaga ritual e o sacrifício\nde uma criatura que possua Pontos de Prata (ou\nseja, qualquer uma que possua pelo menos 1D\nem INT).\nEnergia Místicas Internas\nEste ritual foi desenvolvido por Victorius\npara adquirir Pontos de Prata com maior\nvelocidade. O mago usa a adaga para realizar\num corte superficial em seu próprio corpo\n(geralmente a palma da mão) e depois, recitando\nalgumas palavras de ativação, crava a adaga na\ncriatura, abrindo um corte de igual tamanho.\nDepois, ainda recitando alguns versos, o mago\ncoloca sua ferida em contato com a da criatura,\nassim drenando sua energia vital.\nPara efeitos de jogo, cada Ponto de Prata\ndrenado da criatura sacrificada é transportado\ndiretamente para o Cordão do mago. Do mesmo\nmodo como no caso anterior, não é possível\narmazenar mais Pontos de Prata do que o\nmáximo permitido. É possível que a criatura\nsacrificada possua mais Pontos de Prata que o\nnecessário para o mago. Nesses casos, os pontos\nrestantes são perdidos no processo. Níveis\nmaiores deste ritual permitem que se drene\ntambém estes Pontos de Prata excedentes, mas\ncomo Pontos de Magia, à razão de dois para um.\n15\nForum da Daemon;\nTrevas 3.5;\nGrimorio;\nAnjos;\nDemônios;\nSpiritum;\nGoogle;\nE diversos livros de espiritismo que nem me lembro o nome.\nBibliográfia\n16\nEnergia Místicas Internas"
-      ],
-      "tags": [
-        "angelico",
-        "auto-extraido",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        11,
-        12,
-        13
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:energia-mistica:controlar-entender-spiritum-metamagia-3",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part"
-    },
-    {
       "id": "magia-grimorio101-controle-de-mortos-vivos",
       "name": "Controle de Mortos-Vivos",
       "area": "magias",
@@ -3153,6 +3188,40 @@
       "certificationId": "magia-lock:guiademagias:criar",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-grimark201-criar-agua-9",
+      "name": "Criar Água 9",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 18,
+      "entries": [
+        "Custo: 6 pts\nTempo de Conjuração: uma hora\nMateriais: uma varinha bifurcada e sangue misturado à\nareia do local.\nCom este ritual, o mago é capaz de evitar a chuva em uma\nregião com até duas milhas de raio. A seca permanece enquanto\no mago mantiver a varinha intacta (a varinha armazena 5 pon-\ntos de magia). A seca pode durar indefinidamente, por anos\nou mesmo décadas, e nenhuma núvem conseguirá entrar no\ncírculo formado por este ritual. Pode ser quebrado a qualquer\nmomento, ou se a varinha for quebrada."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        18
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-agua-9",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
       "id": "magia-grimark201-criar-animais-3-8",
@@ -3425,238 +3494,6 @@
       "certificationId": "magia-lock:grimark201:criar-arkanun-humanos-7",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-secundarios-criar-fumaca-2",
-      "name": "Criar Fumaça 2",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "secundarios",
-      "sourceTitle": "secundarios",
-      "page": 5,
-      "entries": [
-        "Custo:1 pt\nTempo de Conjuração:Imediato\nComponentes:V,M(uma folha seca)\nCom este ritual, o mago pode criar fumaça\nsem precisar de fogo.O mago deve pegar uma\nfolha seca e coloca-la na sua mão e então\ndeve dizer as palavras  ritualísticas;ao faze-\nlo,a folha começará a se desintegrar e soltará\nfumaça como se fosse uma fogueira média;a\nfolha irá se desintegrar por completo em 3d6\nrodadas e então irá parar de produzir\nfumaça.O mago pode deixar a folha num\nlocal que queira,ela não precisa ficar com o\nmago.Existe outra versão deste\nritual,”Chamas sem fumaça”que faz\nexatamente ao contrário;no entanto o mago\nnão precisará da folha,apenas de gestos,\npalavras  e de uma chama que não seja maior\ndo que uma fogueira média para realizar o\nritual, que também durará 3d6 rodadas.\nAndar em gelo"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        5
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:secundarios:criar-fumaca-2",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-grimark201-criar-humanos-8",
-      "name": "Criar Humanos 8",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 15,
-      "entries": [
-        "Custo: 4 pts\nTempo de Conjuração: 1d6 rodada\nMateriais: A cera de uma vela\nCom este ritual, o mago é capaz de alterar sua forma\n(altura, peso, formato do rosto, cabelos, cor e formato dos\nolhos, forma das mãos, etc). O mago deve mentalizar sua\nnova forma (que deve ser do mesmo sexo) e recitar os ver-\nsos do ritual.  O mago ficará, então, com sua nova forma, e\nos 5 pontos de magia ficarão armazenados na nova forma.\nO ritual pode ser quebrado pelo mago a qualquer mo-\nmento ou se a cera da vela for afastada mais do que 1 metro\nde seu corpo. Em outras versões deste ritual, o Mago deve\nmanter a vela sempre acesa a qualquer custo e o efeito dura\nenquanto a vela não se apagar.\nEste ritual é tão perfeito que mesmo pessoas que conhe-\ncem bem a vítima serão enganados pela forma que o Mago\nassumiu. Este ritual também é conhecido como\nDoppelganger em algumas partes da Alemanha."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        15
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:criar-humanos-8",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-criar-humanos-animais-4",
-      "name": "Criar Humanos/Animais 4",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 5,
-      "entries": [
-        "Custo: 2 pts\nTempo de Conjuração: imediato\nMateriais: o pelo de um urso\nEsta antiga conjuração Celta era frequentemente utilizado\npelos campeões de cada vila em competições de força e resis-\ntência. Este ritual confere ao mago a força equivalente à de um\nurso (força 24) durante 3d6 rodadas. O mago pode conjurar\neste ritual sobre uma outra pessoa,  Os guerreiros nórdicos\nutilizavam este ritual antes de entrarem em uma batalha."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        5
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:criar-humanos-animais-4",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-criar-plantas-6",
-      "name": "Criar Plantas 6",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 16,
-      "entries": [
-        "Custo: 3 pts\nTempo de Conjuração: algumas rodadas\nMateriais: uma pérola negra\nCom este malévolo ritual, todas as plantas em um raio\nde cinco metros do mago apodrecem e morrem instantane-\namente (árvores mais antigas, vivas ou místicas podem fa-\nzer um teste de resistência). as plantas se transformarão em\ncinzas e pó, e somente sobrarão galhos retorcidos e cinzas\nnegras. O uso deste ritual em uma floresta protegida pelas\nfadas é desaconselhavel."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "fada",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        16
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:criar-plantas-6",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-criar-plantas-8",
-      "name": "Criar Plantas 8",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 16,
-      "entries": [
-        "Custo: 4 pts\nTempo de Conjuração: imediato\nMateriais: um espinho de rosa\nPara a realização deste ritual druida, o mago precisa furar\nseu dedo com o espinho e espirrar uma gota de sangue no\nsolo. Uma barreira de espinhos se erguerá no ponto onde o\nsangue tocou o solo (somente funciona em um solo fértil).\nA barreira pode ocupar uma área de até 20m2, com 2m\nde altura. Os espinhos são resistentes e causarão 2d6 pontos\nde dano a  quem tentar atravessár a barreira. São necessários\n30 pontos de dano para derrubar a barreira de espinhos, que\npossui Indice de Proteção 3"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        16
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:criar-plantas-8",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-criar-agua-9",
-      "name": "Criar Água 9",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 18,
-      "entries": [
-        "Custo: 6 pts\nTempo de Conjuração: uma hora\nMateriais: uma varinha bifurcada e sangue misturado à\nareia do local.\nCom este ritual, o mago é capaz de evitar a chuva em uma\nregião com até duas milhas de raio. A seca permanece enquanto\no mago mantiver a varinha intacta (a varinha armazena 5 pon-\ntos de magia). A seca pode durar indefinidamente, por anos\nou mesmo décadas, e nenhuma núvem conseguirá entrar no\ncírculo formado por este ritual. Pode ser quebrado a qualquer\nmomento, ou se a varinha for quebrada."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        18
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:criar-agua-9",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-caminhos2-criar-pode",
-      "name": "Criar-Pode",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 13,
-      "entries": [
-        "criar\nlama\ndentro\ndos\nvasos\nsanguíneos\nda\nvítima,fazendo-a\nsentir\nmuita\ndor,causando 3d6 de dano(a vítima tem o direito a um teste de resistência para reduzir o dano\npela metade)\nControlar-Pode cavar túneis em paredes,sem que a estrutura desabe.Pode colocar um membro do\ncorpo na lama sem suja-lo."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        13
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:criar-pode",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-grimark201-criar-controlar-ar-4",
@@ -4023,6 +3860,204 @@
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
+      "id": "magia-secundarios-criar-fumaca-2",
+      "name": "Criar Fumaça 2",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "page": 5,
+      "entries": [
+        "Custo:1 pt\nTempo de Conjuração:Imediato\nComponentes:V,M(uma folha seca)\nCom este ritual, o mago pode criar fumaça\nsem precisar de fogo.O mago deve pegar uma\nfolha seca e coloca-la na sua mão e então\ndeve dizer as palavras  ritualísticas;ao faze-\nlo,a folha começará a se desintegrar e soltará\nfumaça como se fosse uma fogueira média;a\nfolha irá se desintegrar por completo em 3d6\nrodadas e então irá parar de produzir\nfumaça.O mago pode deixar a folha num\nlocal que queira,ela não precisa ficar com o\nmago.Existe outra versão deste\nritual,”Chamas sem fumaça”que faz\nexatamente ao contrário;no entanto o mago\nnão precisará da folha,apenas de gestos,\npalavras  e de uma chama que não seja maior\ndo que uma fogueira média para realizar o\nritual, que também durará 3d6 rodadas.\nAndar em gelo"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        5
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:secundarios:criar-fumaca-2",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-grimark201-criar-humanos-8",
+      "name": "Criar Humanos 8",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 15,
+      "entries": [
+        "Custo: 4 pts\nTempo de Conjuração: 1d6 rodada\nMateriais: A cera de uma vela\nCom este ritual, o mago é capaz de alterar sua forma\n(altura, peso, formato do rosto, cabelos, cor e formato dos\nolhos, forma das mãos, etc). O mago deve mentalizar sua\nnova forma (que deve ser do mesmo sexo) e recitar os ver-\nsos do ritual.  O mago ficará, então, com sua nova forma, e\nos 5 pontos de magia ficarão armazenados na nova forma.\nO ritual pode ser quebrado pelo mago a qualquer mo-\nmento ou se a cera da vela for afastada mais do que 1 metro\nde seu corpo. Em outras versões deste ritual, o Mago deve\nmanter a vela sempre acesa a qualquer custo e o efeito dura\nenquanto a vela não se apagar.\nEste ritual é tão perfeito que mesmo pessoas que conhe-\ncem bem a vítima serão enganados pela forma que o Mago\nassumiu. Este ritual também é conhecido como\nDoppelganger em algumas partes da Alemanha."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        15
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-humanos-8",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-criar-humanos-animais-4",
+      "name": "Criar Humanos/Animais 4",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 5,
+      "entries": [
+        "Custo: 2 pts\nTempo de Conjuração: imediato\nMateriais: o pelo de um urso\nEsta antiga conjuração Celta era frequentemente utilizado\npelos campeões de cada vila em competições de força e resis-\ntência. Este ritual confere ao mago a força equivalente à de um\nurso (força 24) durante 3d6 rodadas. O mago pode conjurar\neste ritual sobre uma outra pessoa,  Os guerreiros nórdicos\nutilizavam este ritual antes de entrarem em uma batalha."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        5
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-humanos-animais-4",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-criar-plantas-6",
+      "name": "Criar Plantas 6",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 16,
+      "entries": [
+        "Custo: 3 pts\nTempo de Conjuração: algumas rodadas\nMateriais: uma pérola negra\nCom este malévolo ritual, todas as plantas em um raio\nde cinco metros do mago apodrecem e morrem instantane-\namente (árvores mais antigas, vivas ou místicas podem fa-\nzer um teste de resistência). as plantas se transformarão em\ncinzas e pó, e somente sobrarão galhos retorcidos e cinzas\nnegras. O uso deste ritual em uma floresta protegida pelas\nfadas é desaconselhavel."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "fada",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        16
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-plantas-6",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-criar-plantas-8",
+      "name": "Criar Plantas 8",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 16,
+      "entries": [
+        "Custo: 4 pts\nTempo de Conjuração: imediato\nMateriais: um espinho de rosa\nPara a realização deste ritual druida, o mago precisa furar\nseu dedo com o espinho e espirrar uma gota de sangue no\nsolo. Uma barreira de espinhos se erguerá no ponto onde o\nsangue tocou o solo (somente funciona em um solo fértil).\nA barreira pode ocupar uma área de até 20m2, com 2m\nde altura. Os espinhos são resistentes e causarão 2d6 pontos\nde dano a  quem tentar atravessár a barreira. São necessários\n30 pontos de dano para derrubar a barreira de espinhos, que\npossui Indice de Proteção 3"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        16
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:criar-plantas-8",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-caminhos2-criar-pode",
+      "name": "Criar-Pode",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 13,
+      "entries": [
+        "criar\nlama\ndentro\ndos\nvasos\nsanguíneos\nda\nvítima,fazendo-a\nsentir\nmuita\ndor,causando 3d6 de dano(a vítima tem o direito a um teste de resistência para reduzir o dano\npela metade)\nControlar-Pode cavar túneis em paredes,sem que a estrutura desabe.Pode colocar um membro do\ncorpo na lama sem suja-lo."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        13
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:criar-pode",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
       "id": "magia-caminhos2-cristais",
       "name": "Cristais",
       "area": "magias",
@@ -4088,21 +4123,19 @@
       "powerMagicContext": "magic-source,magic-term,power-term"
     },
     {
-      "id": "magia-domini-urbs-biblioteca-elfica-circulo-sagrado",
-      "name": "Círculo Sagrado",
+      "id": "magia-guiademagias-dadiva-de-wynna",
+      "name": "Dádiva de Wynna",
       "area": "magias",
       "category": "power_magic",
-      "source": "domini-urbs-biblioteca-elfica",
-      "sourceTitle": "Domini-urbs-biblioteca-elfica",
-      "page": 140,
+      "source": "guiademagias",
+      "sourceTitle": "guiademagias",
+      "page": 25,
       "entries": [
-        "Custo: 3 Pontos de Fé\nDuração: 1d6 rodadas + 1 por Ponto de\nFé extra gasto\nO personagem cria um círculo sagrado\nque protege todos em seu interior de influências\ndemoníacas. Agentes do Inferno ou do Abismo,\nsejam eles seres sobrenaturais ou magos, estarão\nimpossibilitados de entrar a não ser que passem\nem um teste de Força de Vontade contra a Força\nde Vontade do personagem + seu nível de Pontos\nde Fé. Precisam fazer o mesmo teste para fazerem\nseus poderes ou magias atravessarem o círculo. O\ncírculo de dois metros de raio."
+        "3D&T: Ar 4, Luz 6, Clericato\nDaemon: Entender Metamagia 6, Pontos de\nFé\nCusto: 1 ponto"
       ],
       "tags": [
         "auto-extraido",
-        "caminho",
         "certificado",
-        "demonico",
         "magia",
         "magias",
         "power_magic"
@@ -4111,15 +4144,15 @@
       "extractionMethod": "auto-power-magic-heading-pass-1",
       "subtype": "magia",
       "pages": [
-        140
+        25
       ],
       "certificationStatus": "certified",
       "certifiedAs": "magia",
       "certifiedArea": "magias",
       "lockedArea": "magias",
-      "certificationId": "magia-lock:domini-urbs-biblioteca-elfica:circulo-sagrado",
+      "certificationId": "magia-lock:guiademagias:dadiva-de-wynna",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "power-magic-book-part,power-term"
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-cabala-2-detectar-magias",
@@ -4255,38 +4288,6 @@
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
-      "id": "magia-guiademagias-dadiva-de-wynna",
-      "name": "Dádiva de Wynna",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "page": 25,
-      "entries": [
-        "3D&T: Ar 4, Luz 6, Clericato\nDaemon: Entender Metamagia 6, Pontos de\nFé\nCusto: 1 ponto"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        25
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:dadiva-de-wynna",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
       "id": "magia-guiademagias-elemental-4",
       "name": "Elemental 4",
       "area": "magias",
@@ -4385,6 +4386,237 @@
       "certificationId": "magia-lock:guiademagias:enquanto",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-grimark201-entender-agua-2",
+      "name": "Entender Água 2",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 19,
+      "entries": [
+        "Custo: 1 pt\nTempo de Conjuração: imediato\nMateriais: uma pérola\nCom este ritual, o mago é capaz de identificar se um\nlíquido é ou não venenoso. O mago faz os gestos corres-\npondentes, e coloca a pérola no líquido. Se ele estiver enve-\nnenado, a pérola se dissolverá."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        19
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-agua-2",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-humanos-4",
+      "name": "Entender/Controlar Humanos 4",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 18,
+      "entries": [
+        "Custo: 2 pts\nTempo de Conjuração: 1 rodada\nMateriais: Um objeto pessoal da vítima\nEste ritual permite enfeitiçar uma pessoa de modo que\nela pense que o mago é um de seus melhores amigos. Todas\nas suas ações e pensamentos terão sempre em mente o bem\nestar e a felicidade do seu novo amigo. Os 2 pontos de\nmagia ficarão armazenados na vitima enquanto o ritual esti-\nver sendo mantido, e o mago pode libertá-la quando dese-\njar, ou se o objeto pessoal (que deve ser mantido com o\nmago sempre) for destruído. O alvo, quando é libertado,\nsabe que foi vítima de algum feitiço."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        18
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-4",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-humanos-5",
+      "name": "Entender/Controlar Humanos 5",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 5,
+      "entries": [
+        "Custo: 3 pts\nTempo de Conjuração: 1 rodada\nMateriais: Um punhado de areia fina, misturado à pé-\ntalas de rosas.\nEste ritual foi criado pelos adoradores de Cernunnos e\nGaia, muitos séculos antes do nascimento de Cristo. Rezam\nas lendas que a mítica  terra de Avalon está permanentemen-\nte protegida de nosso mundo por este ritual.\nEste ritual bloqueia da mente da vítima a habilidade de\nconscientemente recordar algum evento particular.  O mago\nque conjura este ritual deve jogar sobre a vítima um punha-\ndo de areia fina e rosas enquanto recita  os versos de ativação.\nO mago deve ser capaz de enxergar a vítima, e recitar os\nversos em uma lingua que a vítima entenda. A vitima pode\nfazer um teste de Força de Vontade vs a Força de Vontade\ndo mago para resistir\nSe o incidente a ser esquecido foi muito chocante ou\ntraumático, a vítima pode vir a ter pesadelos relacionados\ncom o incidente no futuro. O mago pode fazer a vitima\nesquecer que foi encantada por este ritual."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        5
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-5",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-metamagia-9",
+      "name": "Entender/Controlar Metamagia 9",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 18,
+      "entries": [
+        "Custo: 5 pts\nTempo de Conjuração: 1 dia\nMateriais: um circulo de conjuração traçado em pedra, 5\nbraseiros, um pouco do sangue do mago\nO mago deve se sentar dentro do círculo e recitar os encan-\ntamentos. Depois disto, entrará em transe por 1 dia. Após este\nperíodo, o mago saberá exatamente a localização do objeto\ndesejado (2 pontos de magia ficarão armazenados na trilha\nentre o mago e o objeto desejado). Alguns objetos poderão\nestar mascarados por encantamentos ou rituais. O mago já\ndeve ter visto e tocado o objeto para este ritual funcionar."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        18
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-metamagia-9",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-spiritum-5",
+      "name": "Entender/Controlar Spiritum 5",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 19,
+      "entries": [
+        "Custo: 3 pts\nTempo de Conjuração: imediato\nMateriais: uma coroa de espinhos, que deve ser usada\nenquanto o ritual estiver memorizado\nQuando o mago realiza este ritual, ele encosta suas mãos\nsobre o alvo e recita as palavras finais do ritual. A vítima\nsofre um dreno de energia e perde 2d6 Pontos de Vida. O\nmago recebe estes pontos de vida drenados para sí. Caso\nultrapasse seu máximo de Pontos de Vida possíveis, os\npontos extras desaparecerão em cerca de uma hora."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        19
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-5",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-controlar-spiritum-9",
+      "name": "Entender/Controlar Spiritum 9",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 11,
+      "entries": [
+        "Custo: 5 pts\nTempo de Conjuração: 3 rodadas\nMateriais: um espelho especialmente preparado\nO uso de circulos de proteção vs espíritos é altamente\nrecomendado.\nCom este ritual, o mago é capaz de abandonar seu corpo\nfísico e vagar com sua alma através dos reinos que estão\ndentro dos espelhos. Um novo simulacro será criado den-\ntro do Reino dos Espelhos, com as mesmas características\ndo mago.  Este é um ritual muito perigoso, pois o corpo\nficará abandonado, e poderá eventualmente (5%) ser\npossuido por um espírito errante.\nDentro dos espelhos vivem muitas criaturas, além de\nalgumas bruxas, que moram em castelos escondidos nos\nreinos esfumaçados dos espelhos (como Petraak, Baal e\nDesespero, uma das perpétuas)."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        11
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-9",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-criar-humanos-3",
+      "name": "Entender/Criar Humanos 3",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 15,
+      "entries": [
+        "Custo: 2 pts\nTempo de Conjuração: imediato\nMateriais: cálice com vinho\nEste ritual simples permite ao mago descobrir doenças\nem uma pessoa. Para isto, basta ao mago derramar o con-\nteúdo do cálice sobre a pessoa, e as partes infectadas ficam\nimediatamente arroxeadas em contato com o vinho."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        15
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-criar-humanos-3",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
       "id": "magia-grimark201-entender-fogo-2-5",
@@ -4487,38 +4719,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
-      "id": "magia-grimark201-entender-luz-humanos-4",
-      "name": "Entender Luz/Humanos 4",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 14,
-      "entries": [
-        "Custo: 2 pts\nTempo de Conjuração: 5 rodadas\nMateriais: um monóculo abençoado por um padre\nEste ritual é usado para compreender linguas estranhas. O\nmago encanta o monóculo e, quando o colocar, poderá enten-\nde o que está escrito em qualquer texto (desde que tenha sido\nescrito em qualquer lingua humana, e não em código, runas ou\nlinguas extraplanares). Os pontos de Magia podem ou não\nficar armazenadas no monóculo, a critério do mago.\nMorte do Lago ou Rio\nApenas por Ritual.\nCusto: 10 pts\nTempo de Conjuração: uma hora\nMateriais:  uma gota do sangue de um dragão\nEste ritual arruina as águas de um lago ou riacho, tornan-\ndo-as impuras para o consumo, para a vida aquática e para as\nplantas e animais nas redondezas. O lago também passa a ter\num fedor característico, tornando-se escuro e lamacento. O lago\nabsorve 5 pontos de magia,  O ritual pode ser quebrado pelo\npróprio mago, ou com a morte do mago que o conjurou."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        14
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-luz-humanos-4",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
       "id": "magia-grimark201-entender-luz-agua-humanos-6",
       "name": "Entender Luz/Água/Humanos 6",
       "area": "magias",
@@ -4548,6 +4748,38 @@
       "certifiedArea": "magias",
       "lockedArea": "magias",
       "certificationId": "magia-lock:grimark201:entender-luz-agua-humanos-6",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-grimark201-entender-luz-humanos-4",
+      "name": "Entender Luz/Humanos 4",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "grimark201",
+      "sourceTitle": "grimark201",
+      "page": 14,
+      "entries": [
+        "Custo: 2 pts\nTempo de Conjuração: 5 rodadas\nMateriais: um monóculo abençoado por um padre\nEste ritual é usado para compreender linguas estranhas. O\nmago encanta o monóculo e, quando o colocar, poderá enten-\nde o que está escrito em qualquer texto (desde que tenha sido\nescrito em qualquer lingua humana, e não em código, runas ou\nlinguas extraplanares). Os pontos de Magia podem ou não\nficar armazenadas no monóculo, a critério do mago.\nMorte do Lago ou Rio\nApenas por Ritual.\nCusto: 10 pts\nTempo de Conjuração: uma hora\nMateriais:  uma gota do sangue de um dragão\nEste ritual arruina as águas de um lago ou riacho, tornan-\ndo-as impuras para o consumo, para a vida aquática e para as\nplantas e animais nas redondezas. O lago também passa a ter\num fedor característico, tornando-se escuro e lamacento. O lago\nabsorve 5 pontos de magia,  O ritual pode ser quebrado pelo\npróprio mago, ou com a morte do mago que o conjurou."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.82,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        14
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimark201:entender-luz-humanos-4",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
@@ -4586,6 +4818,72 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
+      "id": "magia-caminhos2-entender-o",
+      "name": "Entender-O",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 2,
+      "entries": [
+        "mago\npode``passear``com\nos\nolhos\npor\ndentro\nde\num\nvulcão,observando-o\ninternamente(como num endoscópio) e requer concentração.Pode determinar quando um vulcão\nentrará em erupção(com no máximo um ano de antecedência).\nCriar-Cria uma parede de pura lava,com 2m de altura e 10m de comprimento.Pode criar um\npequeno rio de magma.Cria um pequeno terremoto.\nControlar-O mago pode mergulhar na lava como se fosse água.Pode abrir um buraco de 3m de\nprofundidade e encher de lava.O mago pode apressar uma erupção(o vulcão tem que ser ativo)"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        2
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-o",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-caminhos2-entender-pequenos",
+      "name": "Entender-Pequenos",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 16,
+      "entries": [
+        "ruídos\nque\neram\nprovocados\npelo\nmago\nnão\nproduzem\nmais\nsom(espirros,tosses,etc.)\nCriar-O mago pode criar vácuo suficiente para preencher uma sala,ou engolfar três vítimas ao\nmesmo tempo.\nControlar-Cria um círculo de vácuo ao redor do mago,fazendo com que o mago fique invisível\nno escuro e deixando as pessoas sufocadas ao chegar perto dele(causando 4d6 de dano por\nrodada)"
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        16
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-pequenos",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
       "id": "magia-grimark201-entender-plantas-3",
       "name": "Entender Plantas 3",
       "area": "magias",
@@ -4616,6 +4914,38 @@
       "certificationId": "magia-lock:grimark201:entender-plantas-3",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part"
+    },
+    {
+      "id": "magia-caminhos2-entender-pode",
+      "name": "Entender-Pode",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 12,
+      "entries": [
+        "``enxergar``amostras\nem\ncristais(digitais,sangue\nque\nfoi\nlimpado\nou\nlavado,etc.)Pode determinar o local de origem de um cristal.\nCriar-Pode criar uma parede de ferro ou de esmeralda,com 2m de altura por 5m de\ncomprimento.Pode criar uma chuva de cristais cortantes numa área de 5x5m,e que causa 4d6 de\ndano.\nControlar-Pode fazer uma prisão de aço ou de esmeralda,com Força 4d e PVs iguais ao do\nmago.Pode moldar grandes porções de cristal como argila."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        12
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:entender-pode",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-grimark201-entender-spiritum-3",
@@ -4855,335 +5185,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part"
     },
     {
-      "id": "magia-grimark201-entender-agua-2",
-      "name": "Entender Água 2",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 19,
-      "entries": [
-        "Custo: 1 pt\nTempo de Conjuração: imediato\nMateriais: uma pérola\nCom este ritual, o mago é capaz de identificar se um\nlíquido é ou não venenoso. O mago faz os gestos corres-\npondentes, e coloca a pérola no líquido. Se ele estiver enve-\nnenado, a pérola se dissolverá."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        19
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-agua-2",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-caminhos2-entender-o",
-      "name": "Entender-O",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 2,
-      "entries": [
-        "mago\npode``passear``com\nos\nolhos\npor\ndentro\nde\num\nvulcão,observando-o\ninternamente(como num endoscópio) e requer concentração.Pode determinar quando um vulcão\nentrará em erupção(com no máximo um ano de antecedência).\nCriar-Cria uma parede de pura lava,com 2m de altura e 10m de comprimento.Pode criar um\npequeno rio de magma.Cria um pequeno terremoto.\nControlar-O mago pode mergulhar na lava como se fosse água.Pode abrir um buraco de 3m de\nprofundidade e encher de lava.O mago pode apressar uma erupção(o vulcão tem que ser ativo)"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        2
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:entender-o",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-caminhos2-entender-pequenos",
-      "name": "Entender-Pequenos",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 16,
-      "entries": [
-        "ruídos\nque\neram\nprovocados\npelo\nmago\nnão\nproduzem\nmais\nsom(espirros,tosses,etc.)\nCriar-O mago pode criar vácuo suficiente para preencher uma sala,ou engolfar três vítimas ao\nmesmo tempo.\nControlar-Cria um círculo de vácuo ao redor do mago,fazendo com que o mago fique invisível\nno escuro e deixando as pessoas sufocadas ao chegar perto dele(causando 4d6 de dano por\nrodada)"
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        16
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:entender-pequenos",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-caminhos2-entender-pode",
-      "name": "Entender-Pode",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 12,
-      "entries": [
-        "``enxergar``amostras\nem\ncristais(digitais,sangue\nque\nfoi\nlimpado\nou\nlavado,etc.)Pode determinar o local de origem de um cristal.\nCriar-Pode criar uma parede de ferro ou de esmeralda,com 2m de altura por 5m de\ncomprimento.Pode criar uma chuva de cristais cortantes numa área de 5x5m,e que causa 4d6 de\ndano.\nControlar-Pode fazer uma prisão de aço ou de esmeralda,com Força 4d e PVs iguais ao do\nmago.Pode moldar grandes porções de cristal como argila."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        12
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:entender-pode",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-grimark201-entender-controlar-humanos-4",
-      "name": "Entender/Controlar Humanos 4",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 18,
-      "entries": [
-        "Custo: 2 pts\nTempo de Conjuração: 1 rodada\nMateriais: Um objeto pessoal da vítima\nEste ritual permite enfeitiçar uma pessoa de modo que\nela pense que o mago é um de seus melhores amigos. Todas\nas suas ações e pensamentos terão sempre em mente o bem\nestar e a felicidade do seu novo amigo. Os 2 pontos de\nmagia ficarão armazenados na vitima enquanto o ritual esti-\nver sendo mantido, e o mago pode libertá-la quando dese-\njar, ou se o objeto pessoal (que deve ser mantido com o\nmago sempre) for destruído. O alvo, quando é libertado,\nsabe que foi vítima de algum feitiço."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        18
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-4",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-entender-controlar-humanos-5",
-      "name": "Entender/Controlar Humanos 5",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 5,
-      "entries": [
-        "Custo: 3 pts\nTempo de Conjuração: 1 rodada\nMateriais: Um punhado de areia fina, misturado à pé-\ntalas de rosas.\nEste ritual foi criado pelos adoradores de Cernunnos e\nGaia, muitos séculos antes do nascimento de Cristo. Rezam\nas lendas que a mítica  terra de Avalon está permanentemen-\nte protegida de nosso mundo por este ritual.\nEste ritual bloqueia da mente da vítima a habilidade de\nconscientemente recordar algum evento particular.  O mago\nque conjura este ritual deve jogar sobre a vítima um punha-\ndo de areia fina e rosas enquanto recita  os versos de ativação.\nO mago deve ser capaz de enxergar a vítima, e recitar os\nversos em uma lingua que a vítima entenda. A vitima pode\nfazer um teste de Força de Vontade vs a Força de Vontade\ndo mago para resistir\nSe o incidente a ser esquecido foi muito chocante ou\ntraumático, a vítima pode vir a ter pesadelos relacionados\ncom o incidente no futuro. O mago pode fazer a vitima\nesquecer que foi encantada por este ritual."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        5
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-controlar-humanos-5",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-entender-controlar-metamagia-9",
-      "name": "Entender/Controlar Metamagia 9",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 18,
-      "entries": [
-        "Custo: 5 pts\nTempo de Conjuração: 1 dia\nMateriais: um circulo de conjuração traçado em pedra, 5\nbraseiros, um pouco do sangue do mago\nO mago deve se sentar dentro do círculo e recitar os encan-\ntamentos. Depois disto, entrará em transe por 1 dia. Após este\nperíodo, o mago saberá exatamente a localização do objeto\ndesejado (2 pontos de magia ficarão armazenados na trilha\nentre o mago e o objeto desejado). Alguns objetos poderão\nestar mascarados por encantamentos ou rituais. O mago já\ndeve ter visto e tocado o objeto para este ritual funcionar."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        18
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-controlar-metamagia-9",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-entender-controlar-spiritum-5",
-      "name": "Entender/Controlar Spiritum 5",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 19,
-      "entries": [
-        "Custo: 3 pts\nTempo de Conjuração: imediato\nMateriais: uma coroa de espinhos, que deve ser usada\nenquanto o ritual estiver memorizado\nQuando o mago realiza este ritual, ele encosta suas mãos\nsobre o alvo e recita as palavras finais do ritual. A vítima\nsofre um dreno de energia e perde 2d6 Pontos de Vida. O\nmago recebe estes pontos de vida drenados para sí. Caso\nultrapasse seu máximo de Pontos de Vida possíveis, os\npontos extras desaparecerão em cerca de uma hora."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        19
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-5",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-entender-controlar-spiritum-9",
-      "name": "Entender/Controlar Spiritum 9",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 11,
-      "entries": [
-        "Custo: 5 pts\nTempo de Conjuração: 3 rodadas\nMateriais: um espelho especialmente preparado\nO uso de circulos de proteção vs espíritos é altamente\nrecomendado.\nCom este ritual, o mago é capaz de abandonar seu corpo\nfísico e vagar com sua alma através dos reinos que estão\ndentro dos espelhos. Um novo simulacro será criado den-\ntro do Reino dos Espelhos, com as mesmas características\ndo mago.  Este é um ritual muito perigoso, pois o corpo\nficará abandonado, e poderá eventualmente (5%) ser\npossuido por um espírito errante.\nDentro dos espelhos vivem muitas criaturas, além de\nalgumas bruxas, que moram em castelos escondidos nos\nreinos esfumaçados dos espelhos (como Petraak, Baal e\nDesespero, uma das perpétuas)."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        11
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-controlar-spiritum-9",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
-      "id": "magia-grimark201-entender-criar-humanos-3",
-      "name": "Entender/Criar Humanos 3",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "page": 15,
-      "entries": [
-        "Custo: 2 pts\nTempo de Conjuração: imediato\nMateriais: cálice com vinho\nEste ritual simples permite ao mago descobrir doenças\nem uma pessoa. Para isto, basta ao mago derramar o con-\nteúdo do cálice sobre a pessoa, e as partes infectadas ficam\nimediatamente arroxeadas em contato com o vinho."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        15
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimark201:entender-criar-humanos-3",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part"
-    },
-    {
       "id": "magia-grimorio101-esconjuro-de-mortos-vivos",
       "name": "Esconjuro de Mortos-Vivos",
       "area": "magias",
@@ -5379,6 +5380,40 @@
       "powerMagicContext": "magic-term,power-term"
     },
     {
+      "id": "magia-racas-gargula",
+      "name": "Gárgula",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "racas",
+      "sourceTitle": "racas",
+      "page": 8,
+      "entries": [
+        "Custo: 2 pontos.\nIdade Inicial: 10+1d6.\nAtributos: Normais.\nVantagens: Golem. Pode voar com velocidade de 20m/s.\nInfravisão (20m). Garras e Mordida.\nDesvantagens: Fica petrificado sob a luz do sol. Aparên-\ncia demoníaca (sempre possui Má Reputação).\nAs gárgulas são um tipo especial de golem. Todas são\nconstruídas de pedra, com aspecto demoníaco e costumam ser\ncriadas com a finalidade de servirem como servos ou guardiãs.\nPossuem asas demoníacas (como as de morcegos) além de chi-\nfres e garras. Apesar disso, elas não servem apenas seres ma-\nlignos: existem muitos clérigos e magos bons que também utili-\nzam gárgulas como servos. Vectorius, mago prefeito do Merca-\ndo Voador de Vectora, é um exemplo.\nAs gárgulas possuem todas as mesmas características que\nos golens. No entanto todas possuem uma grave maldição:\nquando tocadas pela luz do sol, as gárgulas são transformadas\nem estátuas de pedra, não podendo realizar nenhuma ação, e\nnão podem ser destruídas por nada a não ser por Magias e ar-\nmas mágicas encantadas com Focus 5 ou mais. Elas apenas\nvoltam ao normal quando o sol se por.\nDevido a essa maldição característica, muitos sábios e pes-\nquisadores teorizam que as gárgulas teriam sido criadas por\nmago ou clérigos devotos de Tenebra, Deusa das trevas, cujos\nservos jamais podem ser tocados pelo sol.\nTodas as gárgulas podem utilizar suas asas para voar, com\nvelocidade de 20m por segundo. Em combate elas podem usar\nsua mordida e suas garras para atacar (com a Perícia Nova Gar-\nras e Mordida). Com as garras elas podem fazer dois ataques\npor rodada, causando dano de 1d10+bônus da Força, e podem\nusa-la para ataque ou defesa. A Mordida pode ser usada ape-\nnas uma vez por rodada e causa dano de 1d6+2. Além do mais, a\nmordida não pode ser usada para defesa, apenas para ataque.\nSeus olhos são acostumados à escuridão total, e as gárgulas\nsão capazes de enxergar o calor dos seres vivos.\nEntre os Aprimoramentos de golens, descritos a cima, as\ngárgulas podem comprar apenas os Estátua e IP Natural. Assim\ncomo os golens, elas não podem usar magias, e nunca haverão\ngárgulas magos ou clérigos. A maioria são ladinos e guerreiros.\nAlgumas vezes ocorre de uma gárgula vencer estas suas des-\nvantagens e tornarem-se independentes. Destas, muitas tornam-\nse aventureiros. No entanto as gárgulas tem uma aparência extre-\nmamente desagradável para a maioria dos seres civilizados, e são\nvistas como demoníacas e perigosas. Portanto, gárgulas encon-\ntrarão certas dificuldades em seu caminho de aventuras."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        8
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:racas:gargula",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+    },
+    {
       "id": "magia-caminhos2-gelo",
       "name": "Gelo",
       "area": "magias",
@@ -5446,41 +5481,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
-      "id": "magia-magia-negra-graus",
-      "name": "Graus",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "magia-negra",
-      "sourceTitle": "Magia Negra",
-      "page": 6,
-      "entries": [
-        "A irmandade é constituída de sete Círculos de Mistérios. Os dois primeiros são\ndivididos em três graus cada: Aprendiz do primeiro Círculo, Iniciado do Primeiro\nCírculo e Mestre do Primeiro Círculo (igualmente para o Segundo Círculo).\nO rito de passagem só é realizado quando o acólito realiza algumas missões com êxito\npara os Mestres Invisíveis da Ordem. Algumas missões são claras, mas outras podem\nnão fazer o menor sentido para os acólitos.\nA partir do Terceiro Círculo, o sacerdote precisa cortar todas as suas raízes com outras\npessoas e iniciar a longa jornada de iluminação dentro da Irmandade (o que inclui matar\nTODOS os seus parentes ainda vivos, ou fazer algum tipo de sacrifício pela Irmandade).\nAtravés de seus grandes poderes e Rituais, os magos de Tenebras conseguem infiltrar-se\nem corporações, adquirindo grandes somas de dinheiro para financiarem seus projetos\nna sociedade mundana.\nOs mais antigos dentro da Irmandade são chamados de Mestres Invisíveis e segundo as\nlendas vivem em uma outra dimensão dentro de Spiritum, em castelos de sombras e\nossos e raramente vêm à Terra, exceto quando necessitam realizar algum tipo de Ritual.\nEscola de Tenebras (Recomenda-se utilizar apenas como NPCs).\nCusto: 3 Pontos de Aprimoramento, 270 Pontos de Perícia\nPerícias: Armas brancas (Punhal ou outra 30/30) ou Armas de fogo (escolha uma 50/0),\nCiências (Herbalismo 20), Ciências proibidas (Abismo 30, Astrologia 20, Ocultismo 30,\nPlanos de Existência 20, Rituais 30), Etiqueta (Nobreza 10), Idiomas (Grego 30,\nHebraico 30, Latim 30), Manipulação (Interrogatório 20, Intimidação 30, Tortura 40).\nAprimoramentos: Patrono (Irmandade de Tenebras), Poderes Mágicos 3, Pontos\nheróicos 1.\nCaminhos Preferidos: Trevas, Arkanun, Spiritum, Humanos.\nO Pentagrama: Utilizado como auxílio de concentração para rituais de conjuração e\nexorcismo, os pentagramas estão intimamente ligados à própria natureza da Magia.\nPode ser traçado com qualquer tipo de material, dependendo do Ritual que está sendo\nrealizado, mas os principais são:\nSal (Caminho da Terra)\nCinzas (Caminho do Fogo)\nÁgua Benta (Caminho da Água)\nIncenso (Caminho do Ar)\nGiz Branco (Caminho da Luz)\nCarvão (Caminho de Trevas)\nTintas Vegetais (Caminho das Plantas)\nSangue de Animais (Caminho de Animais)\nSangue Humano (Caminho de Humanos)\nBronze em pó (Caminho de Spiritum)\nPrata em pó (Caminho de Arkanun-Demônios de Arkanun)\nOuro em pó (Caminho de Arkanun-Demônios do Inferno)\nUma vez traçado, o pentagrama nunca deve ser cruzado ou riscado, pois ele perderá seu\nefeito se assim acontecer. Muitas vezes, os feiticeiros preparam todo o pentagrama,\nexceto uma pequena passagem, pela qual irão conjurar o demônio para dentro do\npentagrama e depois selar a saída astral, não deixando que a criatura saia do pentagrama\naté que tenha cumprido todas as ordens do mago ou da bruxa.\nOutros materiais incluem barro, urina, giz azul, gelo,gordura, cera derretida e até talhos\nno chão."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        6
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:magia-negra:graus",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
       "id": "magia-guiademagias-gracas",
       "name": "Graças",
       "area": "magias",
@@ -5514,20 +5514,21 @@
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
-      "id": "magia-racas-gargula",
-      "name": "Gárgula",
+      "id": "magia-magia-negra-graus",
+      "name": "Graus",
       "area": "magias",
       "category": "power_magic",
-      "source": "racas",
-      "sourceTitle": "racas",
-      "page": 8,
+      "source": "magia-negra",
+      "sourceTitle": "Magia Negra",
+      "page": 6,
       "entries": [
-        "Custo: 2 pontos.\nIdade Inicial: 10+1d6.\nAtributos: Normais.\nVantagens: Golem. Pode voar com velocidade de 20m/s.\nInfravisão (20m). Garras e Mordida.\nDesvantagens: Fica petrificado sob a luz do sol. Aparên-\ncia demoníaca (sempre possui Má Reputação).\nAs gárgulas são um tipo especial de golem. Todas são\nconstruídas de pedra, com aspecto demoníaco e costumam ser\ncriadas com a finalidade de servirem como servos ou guardiãs.\nPossuem asas demoníacas (como as de morcegos) além de chi-\nfres e garras. Apesar disso, elas não servem apenas seres ma-\nlignos: existem muitos clérigos e magos bons que também utili-\nzam gárgulas como servos. Vectorius, mago prefeito do Merca-\ndo Voador de Vectora, é um exemplo.\nAs gárgulas possuem todas as mesmas características que\nos golens. No entanto todas possuem uma grave maldição:\nquando tocadas pela luz do sol, as gárgulas são transformadas\nem estátuas de pedra, não podendo realizar nenhuma ação, e\nnão podem ser destruídas por nada a não ser por Magias e ar-\nmas mágicas encantadas com Focus 5 ou mais. Elas apenas\nvoltam ao normal quando o sol se por.\nDevido a essa maldição característica, muitos sábios e pes-\nquisadores teorizam que as gárgulas teriam sido criadas por\nmago ou clérigos devotos de Tenebra, Deusa das trevas, cujos\nservos jamais podem ser tocados pelo sol.\nTodas as gárgulas podem utilizar suas asas para voar, com\nvelocidade de 20m por segundo. Em combate elas podem usar\nsua mordida e suas garras para atacar (com a Perícia Nova Gar-\nras e Mordida). Com as garras elas podem fazer dois ataques\npor rodada, causando dano de 1d10+bônus da Força, e podem\nusa-la para ataque ou defesa. A Mordida pode ser usada ape-\nnas uma vez por rodada e causa dano de 1d6+2. Além do mais, a\nmordida não pode ser usada para defesa, apenas para ataque.\nSeus olhos são acostumados à escuridão total, e as gárgulas\nsão capazes de enxergar o calor dos seres vivos.\nEntre os Aprimoramentos de golens, descritos a cima, as\ngárgulas podem comprar apenas os Estátua e IP Natural. Assim\ncomo os golens, elas não podem usar magias, e nunca haverão\ngárgulas magos ou clérigos. A maioria são ladinos e guerreiros.\nAlgumas vezes ocorre de uma gárgula vencer estas suas des-\nvantagens e tornarem-se independentes. Destas, muitas tornam-\nse aventureiros. No entanto as gárgulas tem uma aparência extre-\nmamente desagradável para a maioria dos seres civilizados, e são\nvistas como demoníacas e perigosas. Portanto, gárgulas encon-\ntrarão certas dificuldades em seu caminho de aventuras."
+        "A irmandade é constituída de sete Círculos de Mistérios. Os dois primeiros são\ndivididos em três graus cada: Aprendiz do primeiro Círculo, Iniciado do Primeiro\nCírculo e Mestre do Primeiro Círculo (igualmente para o Segundo Círculo).\nO rito de passagem só é realizado quando o acólito realiza algumas missões com êxito\npara os Mestres Invisíveis da Ordem. Algumas missões são claras, mas outras podem\nnão fazer o menor sentido para os acólitos.\nA partir do Terceiro Círculo, o sacerdote precisa cortar todas as suas raízes com outras\npessoas e iniciar a longa jornada de iluminação dentro da Irmandade (o que inclui matar\nTODOS os seus parentes ainda vivos, ou fazer algum tipo de sacrifício pela Irmandade).\nAtravés de seus grandes poderes e Rituais, os magos de Tenebras conseguem infiltrar-se\nem corporações, adquirindo grandes somas de dinheiro para financiarem seus projetos\nna sociedade mundana.\nOs mais antigos dentro da Irmandade são chamados de Mestres Invisíveis e segundo as\nlendas vivem em uma outra dimensão dentro de Spiritum, em castelos de sombras e\nossos e raramente vêm à Terra, exceto quando necessitam realizar algum tipo de Ritual.\nEscola de Tenebras (Recomenda-se utilizar apenas como NPCs).\nCusto: 3 Pontos de Aprimoramento, 270 Pontos de Perícia\nPerícias: Armas brancas (Punhal ou outra 30/30) ou Armas de fogo (escolha uma 50/0),\nCiências (Herbalismo 20), Ciências proibidas (Abismo 30, Astrologia 20, Ocultismo 30,\nPlanos de Existência 20, Rituais 30), Etiqueta (Nobreza 10), Idiomas (Grego 30,\nHebraico 30, Latim 30), Manipulação (Interrogatório 20, Intimidação 30, Tortura 40).\nAprimoramentos: Patrono (Irmandade de Tenebras), Poderes Mágicos 3, Pontos\nheróicos 1.\nCaminhos Preferidos: Trevas, Arkanun, Spiritum, Humanos.\nO Pentagrama: Utilizado como auxílio de concentração para rituais de conjuração e\nexorcismo, os pentagramas estão intimamente ligados à própria natureza da Magia.\nPode ser traçado com qualquer tipo de material, dependendo do Ritual que está sendo\nrealizado, mas os principais são:\nSal (Caminho da Terra)\nCinzas (Caminho do Fogo)\nÁgua Benta (Caminho da Água)\nIncenso (Caminho do Ar)\nGiz Branco (Caminho da Luz)\nCarvão (Caminho de Trevas)\nTintas Vegetais (Caminho das Plantas)\nSangue de Animais (Caminho de Animais)\nSangue Humano (Caminho de Humanos)\nBronze em pó (Caminho de Spiritum)\nPrata em pó (Caminho de Arkanun-Demônios de Arkanun)\nOuro em pó (Caminho de Arkanun-Demônios do Inferno)\nUma vez traçado, o pentagrama nunca deve ser cruzado ou riscado, pois ele perderá seu\nefeito se assim acontecer. Muitas vezes, os feiticeiros preparam todo o pentagrama,\nexceto uma pequena passagem, pela qual irão conjurar o demônio para dentro do\npentagrama e depois selar a saída astral, não deixando que a criatura saia do pentagrama\naté que tenha cumprido todas as ordens do mago ou da bruxa.\nOutros materiais incluem barro, urina, giz azul, gelo,gordura, cera derretida e até talhos\nno chão."
       ],
       "tags": [
         "auto-extraido",
         "caminho",
         "certificado",
+        "demonico",
         "magia",
         "magias",
         "mental",
@@ -5537,15 +5538,15 @@
       "extractionMethod": "auto-power-magic-heading-pass-1",
       "subtype": "magia",
       "pages": [
-        8
+        6
       ],
       "certificationStatus": "certified",
       "certifiedAs": "magia",
       "certifiedArea": "magias",
       "lockedArea": "magias",
-      "certificationId": "magia-lock:racas:gargula",
+      "certificationId": "magia-lock:magia-negra:graus",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-guia-dragoes-vol-ii-habilidade-magica",
@@ -6020,7 +6021,7 @@
     },
     {
       "id": "magia-demonios-a-divina-comedia-madragora",
-      "name": "MADRÁGORA",
+      "name": "Madrágora",
       "area": "magias",
       "category": "power_magic",
       "source": "demonios-a-divina-comedia",
@@ -6050,41 +6051,6 @@
       "certifiedArea": "magias",
       "lockedArea": "magias",
       "certificationId": "magia-lock:demonios-a-divina-comedia:madragora",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-demonios-a-divina-comedia-mandragora",
-      "name": "MANDRÁGORA",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "page": 130,
-      "entries": [
-        "CON [2D], FR [2D], DEX [3D], AGI [3D3, INT [3D],\nWILL [3D], CAR [4D], PER [3D] #Ataques 1 ou magias IP\n2, PVs 3 a 7\nGarras 30/35                    dano 1 d2 + bônus\nPontos de Magia 4 / Focus 6\nCaminhos: Água, Ar, Terra, Plantas e Humano.\nHOMÚNCULO\nEstes demônios menores são criados a partir da própria\ncarne do mago que o conjurou. Variam de 5 a 10 cm de\naltura, e sempre se assemelham a uma cópia distorcida e\nmaligna do mago que o conjurou. A lenda diz que\nhomúnculos brotam da garganta do mago que realizou o\nritual, em um processo que dura três dias e três noites e é\nextremamente incomodo.\nHomúnculos são ótimos espiões e assassinos frios e\nprecisos e sabem manejar muito bem uma adaga. Costumam\nutilizam-se de venenos em suas missões.\nUm homúnculo precisa se alimentar de pelo menos uma\ngota de sangue de seu mestre por dia. ou perde 1 PV que não\npode ser regenerado enquanto a criatura não se alimentar de\nsangue novamente.\nAlguns homúnculos possuem poderes especiais, mas são\nraros. Sorteie na tabela abaixo:\n1, 2 - Dois ataques por rodada (com a adaga).\n3, 4 - Sangue venenoso (dano de 1 d4 se for espirrado).\n5, 6 - Sentem a presença de estranhos em 20m de raio.\n7-0 - Nenhum poder."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        130
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:demonios-a-divina-comedia:mandragora",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
@@ -6120,6 +6086,75 @@
       "certificationId": "magia-lock:grimorio101:magia-perdida",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-term"
+    },
+    {
+      "id": "magia-guiademagias-magica",
+      "name": "Mágica",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "guiademagias",
+      "sourceTitle": "guiademagias",
+      "page": 68,
+      "entries": [
+        "pode\ncurar\ninstantaneamente\nmazelas\ndeste\ntipo.\nExemplos: dengue, pneumonia, cólera...\nFocus 6: A magia provoca uma enfermidade\ngrave na vítima, levando-a à morte após 2d6\ndias. Os sintomas desta costumam ser uma\ngrande debilidade física (penalidades de -2/-\n20% em testes de atributos físicos e perícias\nfísicas) acompanhada por algum outro tipo de\nlimitação corporal — imobilidade nas pernas,\ncegueira, convulsões esporádicas etc. A vítima\ntambém passa a perder 1 PV a cada quatro\nhoras. O uso conjunto de perícias médicas e\ncuras mágicas, ou o uso de magias poderosas\ncomo Cura Total podem eliminar os efeitos\ndesta doença. A magia Cura Mágica prolonga\na vida do paciente em até 1d6-2 dias.\nFocus 7: A magia provoca uma doença de\ndesenvolvimento acelerado. Ela é capaz de\nmatar a vítima em até três dias de incubação,\nprovocando-lhe as conseqüências da versão\nanterior, além da perda de 1 PV a cada duas\nhoras. O emprego da perícia Medicina torna-\nse inútil e a magia Cura Mágica prolonga a\nvida do paciente por apenas 1d3 dias. Mágicas\nde alto nível tornam-se a única forma de cura\npossível.\nFocus 8: Esta é a versão mais poderosa do\nToque de Aasaroth conhecida pelos mortais\nem geral. A doença provocada neste estágio\ndeixa a vítima completamente incapacitada,\nmatando-a em até 24 horas. Além disso, o\nalvo sofre a perda de 1 PV a cada hora e, a\ncada três horas, ele deve fazer um teste de\nResistência/CON com redutor de -2/-20%.\nSe falhar, o seu corpo sofrerá algum tipo de\nsintoma letal, capaz de acelerar a morte deste\nou\nsimplesmente\nconsumar\no\nóbito\n(hemorragia,\nataque\ncardíaco,\nderrame\ncerebral...). Esta versão do Toque de Aasaroth\nsó pode ser contida por meios mágicos\n67\npoderosos.\nAcredita-se que as formas mais\npotentes desta magia (Focus 9+) sejam\nconhecidas apenas pelo deus Aasaroth."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        68,
+        69
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:magica",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-demonios-a-divina-comedia-mandragora",
+      "name": "Mandrágora",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "page": 130,
+      "entries": [
+        "CON [2D], FR [2D], DEX [3D], AGI [3D3, INT [3D],\nWILL [3D], CAR [4D], PER [3D] #Ataques 1 ou magias IP\n2, PVs 3 a 7\nGarras 30/35                    dano 1 d2 + bônus\nPontos de Magia 4 / Focus 6\nCaminhos: Água, Ar, Terra, Plantas e Humano.\nHOMÚNCULO\nEstes demônios menores são criados a partir da própria\ncarne do mago que o conjurou. Variam de 5 a 10 cm de\naltura, e sempre se assemelham a uma cópia distorcida e\nmaligna do mago que o conjurou. A lenda diz que\nhomúnculos brotam da garganta do mago que realizou o\nritual, em um processo que dura três dias e três noites e é\nextremamente incomodo.\nHomúnculos são ótimos espiões e assassinos frios e\nprecisos e sabem manejar muito bem uma adaga. Costumam\nutilizam-se de venenos em suas missões.\nUm homúnculo precisa se alimentar de pelo menos uma\ngota de sangue de seu mestre por dia. ou perde 1 PV que não\npode ser regenerado enquanto a criatura não se alimentar de\nsangue novamente.\nAlguns homúnculos possuem poderes especiais, mas são\nraros. Sorteie na tabela abaixo:\n1, 2 - Dois ataques por rodada (com a adaga).\n3, 4 - Sangue venenoso (dano de 1 d4 se for espirrado).\n5, 6 - Sentem a presença de estranhos em 20m de raio.\n7-0 - Nenhum poder."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "demonico",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        130
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:demonios-a-divina-comedia:mandragora",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
       "id": "magia-racas-meio-dragap",
@@ -6325,40 +6360,6 @@
       "powerMagicContext": "magic-term,power-magic-book-part,power-term"
     },
     {
-      "id": "magia-guiademagias-magica",
-      "name": "Mágica",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "page": 68,
-      "entries": [
-        "pode\ncurar\ninstantaneamente\nmazelas\ndeste\ntipo.\nExemplos: dengue, pneumonia, cólera...\nFocus 6: A magia provoca uma enfermidade\ngrave na vítima, levando-a à morte após 2d6\ndias. Os sintomas desta costumam ser uma\ngrande debilidade física (penalidades de -2/-\n20% em testes de atributos físicos e perícias\nfísicas) acompanhada por algum outro tipo de\nlimitação corporal — imobilidade nas pernas,\ncegueira, convulsões esporádicas etc. A vítima\ntambém passa a perder 1 PV a cada quatro\nhoras. O uso conjunto de perícias médicas e\ncuras mágicas, ou o uso de magias poderosas\ncomo Cura Total podem eliminar os efeitos\ndesta doença. A magia Cura Mágica prolonga\na vida do paciente em até 1d6-2 dias.\nFocus 7: A magia provoca uma doença de\ndesenvolvimento acelerado. Ela é capaz de\nmatar a vítima em até três dias de incubação,\nprovocando-lhe as conseqüências da versão\nanterior, além da perda de 1 PV a cada duas\nhoras. O emprego da perícia Medicina torna-\nse inútil e a magia Cura Mágica prolonga a\nvida do paciente por apenas 1d3 dias. Mágicas\nde alto nível tornam-se a única forma de cura\npossível.\nFocus 8: Esta é a versão mais poderosa do\nToque de Aasaroth conhecida pelos mortais\nem geral. A doença provocada neste estágio\ndeixa a vítima completamente incapacitada,\nmatando-a em até 24 horas. Além disso, o\nalvo sofre a perda de 1 PV a cada hora e, a\ncada três horas, ele deve fazer um teste de\nResistência/CON com redutor de -2/-20%.\nSe falhar, o seu corpo sofrerá algum tipo de\nsintoma letal, capaz de acelerar a morte deste\nou\nsimplesmente\nconsumar\no\nóbito\n(hemorragia,\nataque\ncardíaco,\nderrame\ncerebral...). Esta versão do Toque de Aasaroth\nsó pode ser contida por meios mágicos\n67\npoderosos.\nAcredita-se que as formas mais\npotentes desta magia (Focus 9+) sejam\nconhecidas apenas pelo deus Aasaroth."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        68,
-        69
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:magica",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
       "id": "magia-racas-mumia",
       "name": "Múmia",
       "area": "magias",
@@ -6517,40 +6518,6 @@
       "certifiedArea": "magias",
       "lockedArea": "magias",
       "certificationId": "magia-lock:magia-negra:obscuridade",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-guiademagias-pms",
-      "name": "PMs",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "page": 17,
-      "entries": [
-        "permanentemente\npara\nexecutá-la.\nNenhum meio mágico ou mundano será capaz\nde recuperar os pontos perdidos (talvez a\n16\nmagia Desejo possa solucionar isto, mas como\nnão é todo mago que a conhece, então...). O\nmago só pode criar um clone por vez, visto\nque o processo para criá-lo é muito exigente e\nrequer muitos poderes mágicos. Ele só\npoderia utilizá-la novamente caso o clone seja\ndestruído.\nA Clonagem de Fausto pode se\nmostrar uma magia perigosa. Ao ser criado, o\nclone pensará que é o mago e, ao vê-lo,\nentrará em um conflito de identidades, algo\nmuito doloroso para o clone. A única maneira\nse solucionar esta crise seria eliminando o\n\"impostor\", pois assim ele recuperaria o seu\n\"lugar de direito\". Se tiver a oportunidade de\nadquirir novos conhecimentos e outras\nexperiências de convívio social, isto vai afetar\ndecisivamente a personalidade do clone,\ntornando-o distinto de seu criador. Neste\ncaso,\nseria\npossível\numa\nconvivência\nharmônica entre criador (o mago) e criatura (o\nclone), já que a personalidade de ambos\ntornou-se diferente, exceto por um ou outro\ntraço característico do mago que ainda persista\nno clone.\nAlguns magos da Academia Arcana\nacreditam que a morte de Fausto foi um\ntruque. Na verdade, um clone do mago teria\nmorrido no lugar do seu criador. Desta forma,\nFausto poderia continuar suas pesquisas sobre\ntransmutação sem ser incomodado por\nninguém. A maioria dos docentes da\nAcademia considera esta possibilidade como\num \"boato paranóico e preconceituoso criado\npor magos invejosos\". O próprio mestre\nTalude diz que a morte do professor Fausto é\num fato consumado."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        17,
-        18
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:pms",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
@@ -6716,6 +6683,40 @@
       "certifiedArea": "magias",
       "lockedArea": "magias",
       "certificationId": "magia-lock:guiademagias:personagens",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
+      "id": "magia-guiademagias-pms",
+      "name": "PMs",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "guiademagias",
+      "sourceTitle": "guiademagias",
+      "page": 17,
+      "entries": [
+        "permanentemente\npara\nexecutá-la.\nNenhum meio mágico ou mundano será capaz\nde recuperar os pontos perdidos (talvez a\n16\nmagia Desejo possa solucionar isto, mas como\nnão é todo mago que a conhece, então...). O\nmago só pode criar um clone por vez, visto\nque o processo para criá-lo é muito exigente e\nrequer muitos poderes mágicos. Ele só\npoderia utilizá-la novamente caso o clone seja\ndestruído.\nA Clonagem de Fausto pode se\nmostrar uma magia perigosa. Ao ser criado, o\nclone pensará que é o mago e, ao vê-lo,\nentrará em um conflito de identidades, algo\nmuito doloroso para o clone. A única maneira\nse solucionar esta crise seria eliminando o\n\"impostor\", pois assim ele recuperaria o seu\n\"lugar de direito\". Se tiver a oportunidade de\nadquirir novos conhecimentos e outras\nexperiências de convívio social, isto vai afetar\ndecisivamente a personalidade do clone,\ntornando-o distinto de seu criador. Neste\ncaso,\nseria\npossível\numa\nconvivência\nharmônica entre criador (o mago) e criatura (o\nclone), já que a personalidade de ambos\ntornou-se diferente, exceto por um ou outro\ntraço característico do mago que ainda persista\nno clone.\nAlguns magos da Academia Arcana\nacreditam que a morte de Fausto foi um\ntruque. Na verdade, um clone do mago teria\nmorrido no lugar do seu criador. Desta forma,\nFausto poderia continuar suas pesquisas sobre\ntransmutação sem ser incomodado por\nninguém. A maioria dos docentes da\nAcademia considera esta possibilidade como\num \"boato paranóico e preconceituoso criado\npor magos invejosos\". O próprio mestre\nTalude diz que a morte do professor Fausto é\num fato consumado."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "mental",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        17,
+        18
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:guiademagias:pms",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
@@ -7186,6 +7187,39 @@
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     },
     {
+      "id": "magia-caminhos2-vacuo",
+      "name": "Vácuo",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "caminhos2",
+      "sourceTitle": "Caminhos2",
+      "page": 15,
+      "entries": [
+        "(Ar + Trevas)\nA ausência de ar produz efeitos muito desagradáveis sobre os seres vivos,como a morte,por\nexemplo.Os magos que lidam com este Caminho sabem muito bem disso.O som não se propaga\nno vácuo,por isso,também pertencem a eles as magias do silencio e escuridão.Os magos\nespecialistas no vácuo são chamados de sombras silenciosas,ou assassinos perfeitos,pois podem\nse ocultar na escuridão e no silencio até ser tarde demais.Magos muitos poderosos podem\nengolfar suas vítimas em uma cortina de escuridão sem ar que os levará a uma morte\ndesesperadora,sem luz e sem ar."
+      ],
+      "tags": [
+        "auto-extraido",
+        "caminho",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "subtype": "magia",
+      "pages": [
+        15
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:caminhos2:vacuo",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
+    },
+    {
       "id": "magia-guiademagias-veneno",
       "name": "Veneno",
       "area": "magias",
@@ -7216,39 +7250,6 @@
       "certifiedArea": "magias",
       "lockedArea": "magias",
       "certificationId": "magia-lock:guiademagias:veneno",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
-    },
-    {
-      "id": "magia-caminhos2-vacuo",
-      "name": "Vácuo",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "caminhos2",
-      "sourceTitle": "Caminhos2",
-      "page": 15,
-      "entries": [
-        "(Ar + Trevas)\nA ausência de ar produz efeitos muito desagradáveis sobre os seres vivos,como a morte,por\nexemplo.Os magos que lidam com este Caminho sabem muito bem disso.O som não se propaga\nno vácuo,por isso,também pertencem a eles as magias do silencio e escuridão.Os magos\nespecialistas no vácuo são chamados de sombras silenciosas,ou assassinos perfeitos,pois podem\nse ocultar na escuridão e no silencio até ser tarde demais.Magos muitos poderosos podem\nengolfar suas vítimas em uma cortina de escuridão sem ar que os levará a uma morte\ndesesperadora,sem luz e sem ar."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "subtype": "magia",
-      "pages": [
-        15
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:vacuo",
       "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term"
     }

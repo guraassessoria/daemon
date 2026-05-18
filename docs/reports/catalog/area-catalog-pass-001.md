@@ -4,7 +4,7 @@ Initial navigation/population layer for the sources marked as ready to proceed.
 
 - Ready sources: 190
 - Areas: 17
-- Curated entities included: 1428
+- Curated entities included: 1425
 - Book parts indexed: 1544
 
 ## Areas
@@ -15,7 +15,7 @@ Initial navigation/population layer for the sources marked as ready to proceed.
 | Regras Base (`regras_base`) | 4 | 41 |
 | Atributos e Pericias (`atributos_pericias`) | 2 | 74 |
 | Combate (`combate`) | 4 | 121 |
-| Aprimoramentos (`aprimoramentos`) | 453 | 0 |
+| Aprimoramentos (`aprimoramentos`) | 450 | 0 |
 | Kits (`kits`) | 191 | 0 |
 | Classes (`classes`) | 12 | 0 |
 | Racas (`racas`) | 47 | 0 |

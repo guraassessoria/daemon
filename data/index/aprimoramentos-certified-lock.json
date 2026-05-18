@@ -6,8 +6,8 @@
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_character_options_do_not_enter_aprimoramentos": true
   },
-  "certifiedCount": 453,
-  "rejectedCount": 0,
+  "certifiedCount": 450,
+  "rejectedCount": 4,
   "records": [
     {
       "id": "aprimoramento-aprimoramentos-1-afinidade-com-fadas",
@@ -2150,16 +2150,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-2:recarga-rapida"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-negativos",
-      "source": "aprimoramentos-3",
-      "name": "Negativos,",
-      "nameKey": "negativos",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:negativos"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-mago-de-combate",
       "source": "aprimoramentos-3",
       "name": "Mago de Combate",
@@ -2518,16 +2508,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-maxima"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-testes",
-      "source": "aprimoramentos-3",
-      "name": "Testes",
-      "nameKey": "testes",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:testes"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-magia-sem-gestos",
@@ -3188,6 +3168,16 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:traumatizado"
+    },
+    {
+      "id": "aprimoramento-aprimoramentos-3-armas-de-fogo",
+      "source": "aprimoramentos-3",
+      "name": "Armas de Fogo",
+      "nameKey": "armas-de-fogo",
+      "category": "character_option",
+      "subtype": "aprimoramento",
+      "lockedArea": "aprimoramentos",
+      "certificationId": "aprimoramento-lock:aprimoramentos-3:armas-de-fogo"
     },
     {
       "id": "aprimoramento-aprimoramentos-4-atropelar",
@@ -4100,16 +4090,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentostormenta:potencializar-magia"
     },
     {
-      "id": "aprimoramento-talentos-aviso-aos-jogadores-principalmente-owerpowers",
-      "source": "talentos",
-      "name": "AVISO AOS JOGADORES (PRINCIPALMENTE OWERPOWERS!)",
-      "nameKey": "aviso-aos-jogadores-principalmente-owerpowers",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:talentos:aviso-aos-jogadores-principalmente-owerpowers"
-    },
-    {
       "id": "aprimoramento-talentos-ataque-giratorio",
       "source": "talentos",
       "name": "ATAQUE GIRATÓRIO",
@@ -4518,16 +4498,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:talentos:sincronia"
-    },
-    {
-      "id": "aprimoramento-talentos-atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
-      "source": "talentos",
-      "name": "ATRIBUTOS, APRIMORAMENTOS E HABILIDADES ESPECIAIS TAMBÉM PODEM SER",
-      "nameKey": "atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:talentos:atributos-aprimoramentos-e-habilidades-especiais-tambem-podem-ser"
     },
     {
       "id": "aprimoramento-talentos-foco-em-magia",

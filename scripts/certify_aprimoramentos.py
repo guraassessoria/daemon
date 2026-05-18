@@ -23,14 +23,20 @@ BAD_NAMES = {
     "aprimoramentos positivos",
     "aprimoramentos negativos",
     "aprimoramentos regionais",
+    "atributos aprimoramentos e habilidades especiais tambem podem ser",
+    "aviso aos jogadores principalmente owerpowers",
     "desenvolvimento",
     "agradecimentos",
     "introducao",
     "introdução",
+    "negativos",
+    "negativos,",
+    "testes",
     "vantagens",
     "desvantagens",
     "talentos",
 }
+BAD_NAME_KEYS = {slugify(name) for name in BAD_NAMES}
 
 
 def published_sources() -> set[str]:
@@ -49,7 +55,7 @@ def certification_failure(entity: dict[str, Any], allowed_sources: set[str]) -> 
         return "subtype_is_not_aprimoramento"
     if not str(entity.get("id") or "").startswith("aprimoramento-"):
         return "id_is_not_aprimoramento"
-    if not name or slugify(name) in BAD_NAMES:
+    if not name or slugify(name) in BAD_NAME_KEYS:
         return "name_is_section_or_empty"
     if len(body) < 30:
         return "entry_too_short"

@@ -1,7 +1,7 @@
 # Granular aprimoramentos pass 001
 
 - Publishable candidate sources: 6
-- Published extracted aprimoramentos: 453
+- Published extracted aprimoramentos: 454
 - Review candidate sources: 65
 - Review extracted candidates: 669
 
@@ -11,7 +11,7 @@
 | --- | ---: | ---: |
 | `aprimoramentos-1` | 17 | 150 |
 | `aprimoramentos-2` | 8 | 64 |
-| `aprimoramentos-3` | 20 | 104 |
+| `aprimoramentos-3` | 20 | 105 |
 | `aprimoramentos-4` | 12 | 65 |
 | `aprimoramentostormenta` | 10 | 26 |
 | `talentos` | 9 | 44 |

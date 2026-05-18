@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any
@@ -12,6 +13,15 @@ ENTITIES_DIR = DATA_DIR / "entities"
 AREAS_DIR = DATA_DIR / "areas"
 DOCS_DIR = ROOT / "docs"
 WORK_DIR = DATA_DIR / "work"
+
+NEGATIVE_APRIMORAMENTO_COST_RE = re.compile(
+    r"(?<![\w+])[-\u2010-\u2015\u2212]\s*[1-9]\d?\s*(?:pontos?|pts?\.?)\b",
+    re.IGNORECASE,
+)
+APRIMORAMENTO_COST_MARKER_RE = re.compile(
+    r"(?<!\w)([-\u2010-\u2015\u2212]?)\s*[1-9]\d?\s*(?:pontos?|pts?\.?)\s*:",
+    re.IGNORECASE,
+)
 
 
 AREA_LABELS = {
@@ -221,6 +231,28 @@ def is_aprimoramento_claim(entity: dict[str, Any], category: str, name: str) -> 
     )
 
 
+def aprimoramento_subgroup(entity: dict[str, Any]) -> tuple[str, str, str]:
+    searchable = " ".join(
+        str(value)
+        for value in [
+            entity.get("name", ""),
+            entity.get("costText", ""),
+            " ".join(str(cost) for cost in entity.get("costs", []) if cost),
+            " ".join(str(entry) for entry in entity.get("entries", []) if entry),
+        ]
+        if value
+    )
+    first_marker = APRIMORAMENTO_COST_MARKER_RE.search(searchable)
+    if first_marker:
+        marker_sign = first_marker.group(1)
+        if marker_sign:
+            return "aprimoramentos_negativos", "Aprimoramentos Negativos", "aprimoramento-negativo"
+        return "aprimoramentos_positivos", "Aprimoramentos Positivos", "aprimoramento-positivo"
+    if NEGATIVE_APRIMORAMENTO_COST_RE.search(searchable):
+        return "aprimoramentos_negativos", "Aprimoramentos Negativos", "aprimoramento-negativo"
+    return "aprimoramentos_positivos", "Aprimoramentos Positivos", "aprimoramento-positivo"
+
+
 def is_kit_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
     normalized_name = normalize_for_search(name)
@@ -331,6 +363,78 @@ def infer_area(category: str, name: str, summary: str, source_title: str) -> tup
     area = CATEGORY_TO_AREA.get(category, "fontes")
     confidence = 0.78 if area != "fontes" else 0.64
     return area, confidence, matches
+
+
+def catalog_sort_key(item: dict[str, Any]) -> tuple[str, str, int, str]:
+    return (
+        slugify(str(item.get("name") or "")),
+        slugify(str(item.get("sourceTitle") or item.get("source") or "")),
+        int(item.get("page") or 0),
+        str(item.get("id") or ""),
+    )
+
+
+TITLE_LOWERCASE_WORDS = {"a", "as", "ao", "aos", "com", "da", "das", "de", "do", "dos", "e", "em", "na", "nas", "no", "nos", "para", "por"}
+TEXT_ACRONYMS = {
+    "agi": "AGI",
+    "car": "CAR",
+    "con": "CON",
+    "dex": "DEX",
+    "fbi": "FBI",
+    "fr": "FR",
+    "int": "INT",
+    "ip": "IP",
+    "npc": "NPC",
+    "npcs": "NPCs",
+    "per": "PER",
+    "pm": "PM",
+    "pms": "PMs",
+    "pv": "PV",
+    "pvs": "PVs",
+    "will": "WILL",
+}
+
+
+def uppercase_ratio(value: str) -> float:
+    letters = [char for char in value if char.isalpha()]
+    if not letters:
+        return 0.0
+    return sum(1 for char in letters if char.isupper()) / len(letters)
+
+
+def is_mostly_uppercase(value: str, minimum_letters: int = 8, threshold: float = 0.78) -> bool:
+    letters = [char for char in value if char.isalpha()]
+    return len(letters) >= minimum_letters and uppercase_ratio(value) >= threshold
+
+
+def normalize_uppercase_name(value: str) -> str:
+    if not is_mostly_uppercase(value, minimum_letters=4):
+        return value
+    words = value.lower().split()
+    normalized: list[str] = []
+    for index, word in enumerate(words):
+        if index > 0 and word in TITLE_LOWERCASE_WORDS:
+            normalized.append(word)
+        else:
+            normalized.append(word[:1].upper() + word[1:])
+    return " ".join(normalized)
+
+
+def normalize_uppercase_text(value: str) -> str:
+    if not is_mostly_uppercase(value, minimum_letters=20):
+        return value
+    text = value.lower()
+    for source, replacement in TEXT_ACRONYMS.items():
+        text = re.sub(rf"\b{re.escape(source)}\b", replacement, text, flags=re.IGNORECASE)
+
+    def capitalize_match(match: re.Match[str]) -> str:
+        return f"{match.group(1)}{match.group(2).upper()}"
+
+    return re.sub(r"(^|[.!?]\s+)([a-zà-ÿ])", capitalize_match, text)
+
+
+def normalize_display_entries(entries: list[Any]) -> list[Any]:
+    return [normalize_uppercase_text(entry) if isinstance(entry, str) else entry for entry in entries]
 
 
 def area_for_entity(entity: dict[str, Any], category: str, name: str, summary: str, source_title: str) -> tuple[str, float, list[str]]:
@@ -655,6 +759,8 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
             if is_certified_ritual:
                 category = "ritual_spell"
             entries = entity.get("entries") or []
+            display_name = normalize_uppercase_name(str(name))
+            display_entries = normalize_display_entries(entries)
             summary = " ".join(entry for entry in entries if isinstance(entry, str))
             if is_certified_aprimoramento:
                 area, confidence, matched_areas = "aprimoramentos", 1.0, ["aprimoramentos", "certificado"]
@@ -680,19 +786,28 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     summary,
                     source_lookup.get(source_id, {}).get("title", source_id),
                 )
+            subgroup: str | None = None
+            subgroup_label: str | None = None
+            subgroup_tag: str | None = None
+            if area == "aprimoramentos":
+                subgroup, subgroup_label, subgroup_tag = aprimoramento_subgroup(entity)
+                matched_areas = [*matched_areas, subgroup_tag]
             item = {
                 "id": entity_id,
-                "name": name,
+                "name": display_name,
                 "area": area,
                 "category": category,
                 "source": source_id,
                 "sourceTitle": source_lookup.get(source_id, {}).get("title", source_id),
                 "page": entity.get("page"),
-                "entries": entries,
+                "entries": display_entries,
                 "tags": sorted(set([area, category, *entity.get("tags", []), *matched_areas])),
                 "confidence": round(float(entity.get("confidence", confidence)), 2),
                 "extractionMethod": entity.get("extractionMethod", "entity-area-pass-1"),
             }
+            if subgroup and subgroup_label:
+                item["subgroup"] = subgroup
+                item["subgroupLabel"] = subgroup_label
             for optional_field in [
                 "subtype",
                 "pages",
@@ -760,6 +875,16 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
 
     area_summaries: list[dict[str, Any]] = []
     for area in AREA_LABELS:
+        subgroup_counts: dict[str, dict[str, Any]] = {}
+        for item in by_area[area]["entities"]:
+            subgroup = item.get("subgroup")
+            if not subgroup:
+                continue
+            current = subgroup_counts.setdefault(
+                subgroup,
+                {"id": subgroup, "name": item.get("subgroupLabel", subgroup), "entityCount": 0},
+            )
+            current["entityCount"] += 1
         payload = {
             "version": 1,
             "id": area,
@@ -767,7 +892,8 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
             "readySourceCount": len(source_ids),
             "entityCount": len(by_area[area]["entities"]),
             "sourcePartCount": len(by_area[area]["sourceParts"]),
-            "entities": sorted(by_area[area]["entities"], key=lambda item: (item.get("name") or "", item.get("source") or "")),
+            "subgroups": sorted(subgroup_counts.values(), key=lambda item: item["name"]),
+            "entities": sorted(by_area[area]["entities"], key=catalog_sort_key),
             "sourceParts": sorted(by_area[area]["sourceParts"], key=lambda item: (item.get("sourceTitle") or "", item.get("page") or 0, item.get("name") or "")),
         }
         write_json(AREAS_DIR / f"{area}.json", payload)

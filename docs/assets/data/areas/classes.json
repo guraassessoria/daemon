@@ -5,6 +5,7 @@
   "readySourceCount": 190,
   "entityCount": 12,
   "sourcePartCount": 0,
+  "subgroups": [],
   "entities": [
     {
       "id": "classe-fadas-3-edicao-a-lendaria-fada-da-morte",
@@ -208,39 +209,6 @@
       "classContext": "book-part,cargo-section"
     },
     {
-      "id": "classe-monges-daemon-monge",
-      "name": "Monge",
-      "area": "classes",
-      "category": "character_class",
-      "source": "monges-daemon",
-      "sourceTitle": "Monges Daemon",
-      "page": 1,
-      "entries": [
-        "Copyright © 2004 – Francisco Antônio da Silva Souza\n1\nMonges para Daemon\nEsta é uma adaptação de Monges para o sistema\nDaemon, esta adaptação é de distribuição gratuita pelo\nsite Mundo Daemon, todos os direitos autorais são\nreservados. A adaptação é baseada na descrição da\nrevista Dragão Brasil número 75.\nHeróis Humildes\nOs monges vivem em Monastérios (um tipo de\nigreja isolada), seguindo uma rotina simples e\ndesprovida de luxos, seguindo os ensinamentos\nde Buda. Em algum ponto de seu treinamento,\neles recebem a tarefa de percorrer o mundo para\nespalhar os ensinamentos Budistas, ou para\nrealizar missões específicas.\nO Monge não acumula riquezas ou bens\nmateriais, pois eles acreditam que a felicidade\nou evolução provenham dessas coisas. Suas\nroupas são simples e funcionais como as dos\ncamponeses mais pobres.\nMestres sem armas\nMonges são mestres do combate desarmado.\nSuas mãos podem ser mais letais que espadas\nou machados. Possuem um aperfeiçoamento\ntécnico, evoluindo a cada nível esse poder.\nMonges em números\nOs monges são uma classe de muito poder, por\nisso cabe ao mestre decidir por cobrar pontos de\naprimoramentos ou não para que o personagem\nseja um monge, segue agora a lista de poder\nque um Monge tem direito.\nDano desarmado\nPoderes compráveis\nAbaixo uma lista de poderes dos monges que\nsão comprados em conjunto com as outras\nperícias.\nDesviar Flechas  (25 pontos) – quando atacado\ncom arcos ou bestas o monge pode fazer um\nteste de Defesa de sua arte marcial ou de briga\npara “aparar” as flechas desviando-as. (o\nmonge NO pode desviar o projtil na direo\nde outro alvo).\nMente Calma (30 pontos) – com este poder,\ngraças ao estado que sua mente alcança pela\nmeditação, o monge se torna mais resistente a\nmagias de influência e controle mental. Ele terá\ndireito a um teste de WILLvsWILL em\nqualquer magia com um bônus de +30%.\nPureza do Corpo (40 pontos) – com este poder\no monge se torna imune a doenças não mágicas.\nPlenitude do Corpo (50 pontos) – o controle\ndo monge sobre o seu corpo é tal que ele pode\ncurar seus próprios ferimentos. Uma vez por\ndia, ele pode recuperar 1d10 pontos de vida. O\nMonge não pode curar outras pessoas com essa\nhabilidade.\nGolpe do Ki (65 pontos) – com este poder, os\nmonges\nsão\nfortalecidos\npor\nsua\nenergia\ninterior, o ki. Seus golpes se tornam tão\npoderosos que podem ferir criaturas vulneráveis\napenas a Magia – ou seja, atuam como armas\nmágicas!! Assim, criaturas como gárgulas e\nvultos, que só podem ser atingidas por armas\nmágicas, sofrem dano pelos punhos de um\nMonge com este poder.\nMundo Daemon – o seu portal sobre Daemon.\nBy Francisco Souza\n1° nível – 1d6+bônus de Força\n4° nível – 1d6+1+bônus de Força\n6° nível – 1d6+3+bônus de Força\n8° nível – 1d10+bônus de Força\n10° nível – 1d10+2+bônus de Força"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "character_class",
-        "classe",
-        "classes"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "auto-class-pass-1",
-      "subtype": "class",
-      "pages": [
-        1
-      ],
-      "classKind": "classe",
-      "certificationStatus": "certified",
-      "certifiedAs": "class",
-      "certifiedArea": "classes",
-      "lockedArea": "classes",
-      "certificationId": "class-lock:monges-daemon:monge",
-      "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "manual-extractor"
-    },
-    {
       "id": "classe-abismo-infinito-quick-start-medico",
       "name": "Médico",
       "area": "classes",
@@ -273,6 +241,39 @@
       "certificationId": "class-lock:abismo-infinito-quick-start:medico",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
       "classContext": "book-part,cargo-section"
+    },
+    {
+      "id": "classe-monges-daemon-monge",
+      "name": "Monge",
+      "area": "classes",
+      "category": "character_class",
+      "source": "monges-daemon",
+      "sourceTitle": "Monges Daemon",
+      "page": 1,
+      "entries": [
+        "Copyright © 2004 – Francisco Antônio da Silva Souza\n1\nMonges para Daemon\nEsta é uma adaptação de Monges para o sistema\nDaemon, esta adaptação é de distribuição gratuita pelo\nsite Mundo Daemon, todos os direitos autorais são\nreservados. A adaptação é baseada na descrição da\nrevista Dragão Brasil número 75.\nHeróis Humildes\nOs monges vivem em Monastérios (um tipo de\nigreja isolada), seguindo uma rotina simples e\ndesprovida de luxos, seguindo os ensinamentos\nde Buda. Em algum ponto de seu treinamento,\neles recebem a tarefa de percorrer o mundo para\nespalhar os ensinamentos Budistas, ou para\nrealizar missões específicas.\nO Monge não acumula riquezas ou bens\nmateriais, pois eles acreditam que a felicidade\nou evolução provenham dessas coisas. Suas\nroupas são simples e funcionais como as dos\ncamponeses mais pobres.\nMestres sem armas\nMonges são mestres do combate desarmado.\nSuas mãos podem ser mais letais que espadas\nou machados. Possuem um aperfeiçoamento\ntécnico, evoluindo a cada nível esse poder.\nMonges em números\nOs monges são uma classe de muito poder, por\nisso cabe ao mestre decidir por cobrar pontos de\naprimoramentos ou não para que o personagem\nseja um monge, segue agora a lista de poder\nque um Monge tem direito.\nDano desarmado\nPoderes compráveis\nAbaixo uma lista de poderes dos monges que\nsão comprados em conjunto com as outras\nperícias.\nDesviar Flechas  (25 pontos) – quando atacado\ncom arcos ou bestas o monge pode fazer um\nteste de Defesa de sua arte marcial ou de briga\npara “aparar” as flechas desviando-as. (o\nmonge NO pode desviar o projtil na direo\nde outro alvo).\nMente Calma (30 pontos) – com este poder,\ngraças ao estado que sua mente alcança pela\nmeditação, o monge se torna mais resistente a\nmagias de influência e controle mental. Ele terá\ndireito a um teste de WILLvsWILL em\nqualquer magia com um bônus de +30%.\nPureza do Corpo (40 pontos) – com este poder\no monge se torna imune a doenças não mágicas.\nPlenitude do Corpo (50 pontos) – o controle\ndo monge sobre o seu corpo é tal que ele pode\ncurar seus próprios ferimentos. Uma vez por\ndia, ele pode recuperar 1d10 pontos de vida. O\nMonge não pode curar outras pessoas com essa\nhabilidade.\nGolpe do Ki (65 pontos) – com este poder, os\nmonges\nsão\nfortalecidos\npor\nsua\nenergia\ninterior, o ki. Seus golpes se tornam tão\npoderosos que podem ferir criaturas vulneráveis\napenas a Magia – ou seja, atuam como armas\nmágicas!! Assim, criaturas como gárgulas e\nvultos, que só podem ser atingidas por armas\nmágicas, sofrem dano pelos punhos de um\nMonge com este poder.\nMundo Daemon – o seu portal sobre Daemon.\nBy Francisco Souza\n1° nível – 1d6+bônus de Força\n4° nível – 1d6+1+bônus de Força\n6° nível – 1d6+3+bônus de Força\n8° nível – 1d10+bônus de Força\n10° nível – 1d10+2+bônus de Força"
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "character_class",
+        "classe",
+        "classes"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "auto-class-pass-1",
+      "subtype": "class",
+      "pages": [
+        1
+      ],
+      "classKind": "classe",
+      "certificationStatus": "certified",
+      "certifiedAs": "class",
+      "certifiedArea": "classes",
+      "lockedArea": "classes",
+      "certificationId": "class-lock:monges-daemon:monge",
+      "certificationMethod": "class-explicit-context-mechanical-pass-1",
+      "classContext": "manual-extractor"
     },
     {
       "id": "classe-abismo-infinito-quick-start-navegador",

@@ -144,6 +144,8 @@ function buildItems(areaData) {
       item.sourceTitle,
       item.category,
       item.certifiedAs,
+      item.subgroup,
+      item.subgroupLabel,
       item.costText,
       ...(item.costs ?? []),
       ...(item.entries ?? []),
@@ -168,18 +170,87 @@ function buildItems(areaData) {
 }
 
 function renderCategoryFilter() {
-  const categories = [...new Set(state.items.map((item) => item.category).filter(Boolean))].sort();
+  const optionLabels = new Map();
+  state.items.forEach((item) => {
+    const value = categoryFilterValue(item);
+    if (value) optionLabels.set(value, categoryFilterLabel(item));
+  });
+  const categories = [...optionLabels.keys()].sort((left, right) =>
+    optionLabels.get(left).localeCompare(optionLabels.get(right), "pt-BR"),
+  );
   const current = state.category;
-  const options = [new Option("Todas", "all"), ...categories.map((category) => new Option(category, category))];
+  const fieldLabel = nodes.categoryFilter.closest("label")?.querySelector("span");
+  if (fieldLabel) fieldLabel.textContent = state.area === "aprimoramentos" ? "Subgrupo" : "Categoria";
+  const options = [
+    new Option(state.area === "aprimoramentos" ? "Todos" : "Todas", "all"),
+    ...categories.map((category) => new Option(optionLabels.get(category), category)),
+  ];
   nodes.categoryFilter.replaceChildren(...options);
   nodes.categoryFilter.value = categories.includes(current) ? current : "all";
   state.category = nodes.categoryFilter.value;
+}
+
+function categoryFilterValue(item) {
+  if (state.area === "aprimoramentos" && item.subgroup) return item.subgroup;
+  return item.category;
+}
+
+function categoryFilterLabel(item) {
+  if (state.area === "aprimoramentos" && item.subgroupLabel) return item.subgroupLabel;
+  return item.category;
 }
 
 function itemSummary(item) {
   if (item.summary) return item.summary;
   if (Array.isArray(item.entries) && item.entries.length) return item.entries.join(" ");
   return "Sem resumo nesta passada.";
+}
+
+function formatEntryText(raw) {
+  let text = String(raw ?? "")
+    .replace(/\r\n?/g, "\n")
+    .replace(/\u00ad/g, "")
+    .replace(/(\p{L})-\n(?=\p{L})/gu, "$1")
+    .replace(/[ \t]+\n/g, "\n")
+    .replace(/\n[ \t]+/g, "\n")
+    .replace(/\n{3,}/g, "\n\n");
+
+  text = text
+    .split(/\n{2,}/)
+    .map((paragraph) =>
+      paragraph
+        .split("\n")
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .join(" "),
+    )
+    .join("\n\n");
+
+  return text.replace(/\n?\s*\d{1,3}\s*$/g, "").trim();
+}
+
+function splitEntryBlocks(raw) {
+  const text = formatEntryText(raw);
+  if (!text) return [];
+  const markerRe = /(?:^|\s)((?:[-\u2010-\u2015\u2212]\s*)?\d+\s+PONTOS?\s*:|\bCUSTO\s*:)/gi;
+  const markerIndexes = [];
+  let match;
+  while ((match = markerRe.exec(text)) !== null) {
+    markerIndexes.push(match.index + match[0].indexOf(match[1]));
+  }
+  if (!markerIndexes.length || markerIndexes[0] !== 0) markerIndexes.unshift(0);
+
+  return markerIndexes
+    .map((start, index) => text.slice(start, markerIndexes[index + 1]).trim())
+    .filter(Boolean);
+}
+
+function isCostBlock(text) {
+  return /^(?:[-\u2010-\u2015\u2212]\s*)?\d+\s+PONTOS?\s*:|^CUSTO\s*:/i.test(text);
+}
+
+function isNegativeCostBlock(text) {
+  return /^[-\u2010-\u2015\u2212]\s*\d+\s+PONTOS?\s*:/i.test(text);
 }
 
 function itemPage(item) {
@@ -189,6 +260,9 @@ function itemPage(item) {
 }
 
 function itemKind(item) {
+  if (item.subtype === "aprimoramento" && item.subgroupLabel) {
+    return item.subgroupLabel.replace(/^Aprimoramentos\s+/i, "Aprimoramento ");
+  }
   if (item.classKind) return `${subtypeLabels[item.subtype] ?? "Classe"}: ${item.classKind}`;
   return subtypeLabels[item.subtype] ?? typeLabels[item.itemType] ?? item.itemType;
 }
@@ -197,9 +271,19 @@ function filteredItems() {
   const query = normalize(state.query);
   return state.items.filter((item) => {
     if (state.type !== "all" && item.itemType !== typeFilterMap[state.type]) return false;
-    if (state.category !== "all" && item.category !== state.category) return false;
+    if (state.category !== "all" && categoryFilterValue(item) !== state.category) return false;
     if (!query) return true;
     return item.normalizedSearchable.includes(query);
+  }).sort(compareItemsByName);
+}
+
+function compareItemsByName(left, right) {
+  return (left.name || left.id || "").localeCompare(right.name || right.id || "", "pt-BR", {
+    sensitivity: "base",
+    numeric: true,
+  }) || (left.sourceTitle || left.source || "").localeCompare(right.sourceTitle || right.source || "", "pt-BR", {
+    sensitivity: "base",
+    numeric: true,
   });
 }
 
@@ -252,7 +336,57 @@ function renderResults() {
     state.selectedId = items[0].id;
   }
 
+  if (state.area === "aprimoramentos") {
+    renderAprimoramentoGroups(items);
+    return;
+  }
+
   nodes.results.replaceChildren(...items.map(renderItemRow));
+}
+
+function renderAprimoramentoGroups(items) {
+  const groups = [
+    ["aprimoramentos_positivos", "Aprimoramentos Positivos"],
+    ["aprimoramentos_negativos", "Aprimoramentos Negativos"],
+  ];
+  const grouped = new Map(groups.map(([id]) => [id, []]));
+  items.forEach((item) => {
+    const groupId = item.subgroup ?? "aprimoramentos_positivos";
+    if (!grouped.has(groupId)) grouped.set(groupId, []);
+    grouped.get(groupId).push(item);
+  });
+
+  const elements = groups
+    .map(([id, label]) => renderResultGroup(id, label, grouped.get(id) ?? []))
+    .filter(Boolean);
+  nodes.results.replaceChildren(...elements);
+}
+
+function renderResultGroup(id, label, items) {
+  if (!items.length) return null;
+
+  const details = document.createElement("details");
+  details.className = "result-group";
+  details.dataset.group = id;
+  details.open = true;
+
+  const summary = document.createElement("summary");
+  summary.className = "result-group-summary";
+
+  const title = document.createElement("span");
+  title.textContent = label;
+
+  const count = document.createElement("span");
+  count.className = "result-group-count";
+  count.textContent = `${items.length}`;
+
+  const list = document.createElement("div");
+  list.className = "result-group-items";
+  list.append(...items.map(renderItemRow));
+
+  summary.append(title, count);
+  details.append(summary, list);
+  return details;
 }
 
 function renderDetail(explicitItem) {
@@ -287,18 +421,13 @@ function renderDetail(explicitItem) {
   addMeta(meta, "Pagina", itemPage(item));
   addMeta(meta, "Confianca", item.confidence ?? "-");
   addMeta(meta, "Tipo", typeLabels[item.itemType] ?? item.itemType);
-  if (item.costText) addMeta(meta, "Custo", item.costText);
-  if (Array.isArray(item.costs) && item.costs.length) addMeta(meta, "Custos", item.costs.join(", "));
   if (item.classKind) addMeta(meta, "Classe", item.classKind);
 
+  const facts = renderDetailFacts(item);
   const body = document.createElement("section");
   body.className = "detail-body";
   const entries = Array.isArray(item.entries) && item.entries.length ? item.entries : [item.summary || ""];
-  entries.filter(Boolean).forEach((entry) => {
-    const block = document.createElement("p");
-    block.textContent = entry;
-    body.append(block);
-  });
+  renderEntryBlocks(body, entries);
 
   const tags = document.createElement("div");
   tags.className = "detail-tags";
@@ -308,7 +437,7 @@ function renderDetail(explicitItem) {
     ...(item.tags ?? []),
   ]);
 
-  nodes.detailPane.replaceChildren(header, meta, body, tags);
+  nodes.detailPane.replaceChildren(header, meta, facts, body, tags);
 }
 
 function addMeta(container, label, value) {
@@ -319,6 +448,64 @@ function addMeta(container, label, value) {
   description.textContent = value;
   wrapper.append(term, description);
   container.append(wrapper);
+}
+
+function renderDetailFacts(item) {
+  const facts = document.createElement("section");
+  facts.className = "detail-facts";
+  const rows = [
+    ["Custo", item.costText],
+    ["Custos detectados", Array.isArray(item.costs) ? item.costs.join(", ") : ""],
+    ["Subgrupo", item.subgroupLabel],
+    ["Requisitos", item.requirements],
+    ["Pericias", item.skillsText],
+    ["Atributos", item.attributesText],
+    ["Vantagens", item.advantagesText],
+    ["Desvantagens", item.disadvantagesText],
+    ["Contexto de classe", item.classContext],
+    ["Contexto racial", item.raceContext],
+    ["Contexto magico", item.powerMagicContext],
+    ["Contexto ritual", item.ritualContext],
+  ].filter(([, value]) => value !== undefined && value !== null && String(value).trim());
+
+  if (!rows.length) {
+    facts.hidden = true;
+    return facts;
+  }
+
+  const list = document.createElement("dl");
+  rows.forEach(([label, value]) => addMeta(list, label, formatEntryText(value)));
+  facts.append(list);
+  return facts;
+}
+
+function renderEntryBlocks(container, entries) {
+  entries.filter(Boolean).forEach((entry) => {
+    const blocks = splitEntryBlocks(entry);
+    let costList = null;
+    const shouldListCosts = blocks.filter((block) => isCostBlock(block) && !isNegativeCostBlock(block)).length > 1;
+
+    blocks.forEach((block) => {
+      if (isCostBlock(block) && !isNegativeCostBlock(block) && shouldListCosts) {
+        if (!costList) {
+          costList = document.createElement("ul");
+          costList.className = "cost-tiers";
+          container.append(costList);
+        }
+        const item = document.createElement("li");
+        item.textContent = block;
+        costList.append(item);
+        return;
+      }
+
+      costList = null;
+      block.split(/\n{2,}/).filter(Boolean).forEach((paragraph) => {
+        const element = document.createElement("p");
+        element.textContent = paragraph;
+        container.append(element);
+      });
+    });
+  });
 }
 
 function renderTags(container, tags) {
@@ -334,7 +521,7 @@ function renderTags(container, tags) {
 }
 
 function compactText(value, maxLength) {
-  const text = String(value ?? "").replace(/\s+/g, " ").trim();
+  const text = formatEntryText(value).replace(/\s+/g, " ").trim();
   if (text.length <= maxLength) return text || "-";
   return `${text.slice(0, maxLength - 1).trim()}…`;
 }

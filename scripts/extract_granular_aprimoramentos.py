@@ -189,6 +189,66 @@ def tag_from_name_and_text(name: str, text: str) -> list[str]:
     return sorted(set(tags))
 
 
+def make_entity(source_id: str, source_title: str, name: str, chunk_lines: list[Line]) -> dict[str, Any]:
+    body = "\n".join(line.text for line in chunk_lines).strip()
+    pages = sorted({line.page for line in chunk_lines if line.page})
+    return {
+        "id": f"aprimoramento-{source_id}-{slugify(name)}",
+        "name": name,
+        "category": "character_option",
+        "subtype": "aprimoramento",
+        "source": source_id,
+        "sourceTitle": source_title,
+        "page": pages[0] if pages else None,
+        "pages": pages,
+        "costs": extract_costs(body),
+        "entries": [body],
+        "tags": tag_from_name_and_text(name, body),
+        "confidence": 0.74,
+        "extractionMethod": "auto-aprimoramento-pass-1",
+    }
+
+
+def index_of_line(lines: list[Line], text: str, start: int = 0) -> int | None:
+    normalized = normalize_text(text)
+    for index in range(start, len(lines)):
+        if normalize_text(lines[index].text) == normalized:
+            return index
+    return None
+
+
+def apply_source_fixes(source_id: str, source_title: str, lines: list[Line], entities: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    if source_id != "aprimoramentos-3":
+        return entities
+
+    fixed = list(entities)
+    sono_marker = "\nAprimoramentos\nSociais\nArmas de Fogo"
+    for entity in fixed:
+        if entity.get("id") != "aprimoramento-aprimoramentos-3-sono-leve":
+            continue
+        body = "\n".join(entry for entry in entity.get("entries", []) if isinstance(entry, str))
+        if sono_marker in body:
+            trimmed = body.split(sono_marker, 1)[0].strip()
+            entity["entries"] = [trimmed]
+            entity["costs"] = extract_costs(trimmed)
+            entity["pages"] = [entity["page"]] if entity.get("page") else []
+            entity["tags"] = tag_from_name_and_text(str(entity.get("name") or "Sono Leve"), trimmed)
+
+    if any(entity.get("id") == "aprimoramento-aprimoramentos-3-armas-de-fogo" for entity in fixed):
+        return fixed
+
+    start = index_of_line(lines, "Armas de Fogo")
+    end = index_of_line(lines, "Contatos e Aliados", start + 1 if start is not None else 0)
+    if start is None or end is None or end <= start + 1:
+        return fixed
+
+    entity = make_entity(source_id, source_title, "Armas de Fogo", lines[start + 1:end])
+    entity["confidence"] = 0.82
+    entity["extractionMethod"] = "manual-aprimoramento-source-fix"
+    fixed.append(entity)
+    return fixed
+
+
 def extract_from_lines(source_id: str, source_title: str, lines: list[Line]) -> list[dict[str, Any]]:
     headings: list[int] = []
     texts = [line.text for line in lines]
@@ -215,27 +275,9 @@ def extract_from_lines(source_id: str, source_title: str, lines: list[Line]) -> 
         body = "\n".join(line.text for line in chunk_lines[1:]).strip()
         if len(body) < 45 or not COST_RE.search(body):
             continue
-        pages = sorted({line.page for line in chunk_lines if line.page})
-        entity_id = f"aprimoramento-{source_id}-{name_key}"
-        entities.append(
-            {
-                "id": entity_id,
-                "name": name,
-                "category": "character_option",
-                "subtype": "aprimoramento",
-                "source": source_id,
-                "sourceTitle": source_title,
-                "page": pages[0] if pages else None,
-                "pages": pages,
-                "costs": extract_costs(body),
-                "entries": [body],
-                "tags": tag_from_name_and_text(name, body),
-                "confidence": 0.74,
-                "extractionMethod": "auto-aprimoramento-pass-1",
-            }
-        )
+        entities.append(make_entity(source_id, source_title, name, chunk_lines[1:]))
         seen_names.add(name_key)
-    return entities
+    return apply_source_fixes(source_id, source_title, lines, entities)
 
 
 def main() -> None:

@@ -5,6 +5,7 @@
   "readySourceCount": 190,
   "entityCount": 47,
   "sourcePartCount": 0,
+  "subgroups": [],
   "entities": [
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-brokk-femea",
@@ -202,7 +203,7 @@
     },
     {
       "id": "raca-guia-dos-dragoes-1-biblioteca-elfica-drago-fada",
-      "name": "DRAGO-FADA",
+      "name": "Drago-fada",
       "area": "racas",
       "category": "race_lineage",
       "source": "guia-dos-dragoes-1-biblioteca-elfica",
@@ -240,46 +241,6 @@
       "attributesText": "+1 AGI, +2 WILL",
       "advantagesText": "Vôo (10m/s), Poderes Mágicos 1, Comuni- cação Telepática; sopro",
       "disadvantagesText": "Apenas pode usar equipamentos desti"
-    },
-    {
-      "id": "raca-guia-dos-dragoes-1-biblioteca-elfica-dragotauro",
-      "name": "DRAGOTAURO",
-      "area": "racas",
-      "category": "race_lineage",
-      "source": "guia-dos-dragoes-1-biblioteca-elfica",
-      "sourceTitle": "Guia-dos-dragoes-1-biblioteca-elfica",
-      "page": 42,
-      "entries": [
-        "Custo: 2 pontos.\nIdade Inicial: 21+1d6.\nAtributos: Normais.\nVantagens: Características táuricas, imunidade a elemen-\nto, vôo (20m/s).\nDesvantagens: Má Reputação, odiado por dragões.\nNos mundos de fantasia existem criaturas táuricas, seres\ncom corpo quadrúpede mas, no lugar da cabeça, o torso de\num humanóide. Os centauros são os tauros mais conhecidos.\nO dragotauro é uma combinação táurica de humanóide\ncom dragões. Sua origem é um grande mistério. A teoria mais\ndifundida e aceita diz que os dragotauros foram criados por\nMagia. Alguns sustentam a idéia de que tais criaturas teriam\nsurgido pela Magia insana de magos que tentavam combinar\ncriaturas. Outros dizem que os dragotauros foram criados há\nmuitos e muitos anos pelos próprios dragões, para servirem\ncomo seus guardas. Entretanto, os dragotauros teriam se\nrevoltado e por isso passaram a ser odiados por todos os\ndragões.\nUm dragotauro tem o corpo de um dragão médio (apro-\nximadamente do tamanho de um cavalo) ligado ao tronco de\num humanóide. Essa parte humanóide geralmente é humana,\nembora existam variações. De qualquer forma, sempre have-\nrão traços animalescos, como escamas da mesma cor do dra-\ngão. Todos os dragotauros tem asas, algumas vezes presas às\ncostas da parte humanóide e outras presas ao tronco táurico.\n42\nCaracterísticas Táuricas\nTodos os tauros compartilham de algumas características\nem comum, que também são comparti0lhadas pelos\ncentauros. Tauros recebem +2 de FR para qualquer tarefa\nenvolvendo sua metade inferior do corpo, incluindo ataque\ncom as patas.\nTauros podem atacar com as patas, utilizando uma Perícia\nNova adequada (Patas DEX/DEX ou Coice DEX/0). O dano\nserá de 1d6 para as patas dianteiras e, caso treine ataque com\ncoice, 2d6. Como são qudrúpedes, os dragotauros recebem\nAGI +4, mas apenas para efeitos de deslocamento em terra\nfirme. Por outro lado eles encontram dificuldades em se\ndeslocar por certos terrenos, como escaladas. Pela mesma\nrazão, dragotauros não podem usar certos equipamentos\nfeitos para humanóides, apesar feitos para eles próprios ou\npeças de certos itens (como colares, peitoral de armadura,\netc).\nTabela 7-1: Dano do Meio-Dragão Monstruoso\nTamanho (m)\nDano Mordida\nDano Garra\nMenor que 0,5m\n1+ bônus FR\n–\n0,6m a 1,2m\n1d3+ bônus FR\n1+ bônus FR\n1,3m a 2m\n1d6+ bônus FR\n1d3+ bônus FR\n2,1m a 3,5m\n1d10+ bônus FR\n1d6+ bônus FR\nmais de 3,6m\n2d10+ Bõnus FR\n1d10+ bônus FR\nTabela 7-2: Sopro e Imunidade do Meio-Dragão\nTipo de\nDragão\nTipo\nde Sopro\nDano do\nSopro\nImunidade\nAzul\nRajada de eletricidade\n4d6\nEletricidade\nBranco\nCone de frio\n2d6\nFrio\nBronze\nRajada de eletricidade\n2d6\nEletricidade\nCamaleão\nCone de fogo\n2d6\nFogo\nCobre\nRajada ácida\n2d6\nÁcido\nLatão\nRajada de fogo\n2d6\nFogo\nMarinho\nRajada de água fervente\n2d6\nÁcido\nNegro\nRajada de ácido\n2d6\nÁcido\nOuro\nCone de fogo\n3d10\nFogo\nPrata\nCone de frio\n4d6\nFrio\nSilvestre\nRajada ácida\n2d6\nÁcido\nTatsu\nRajada de fogo\n4d6\nFogo\nVerde\nCone de gás\n2d6\nÁcido\nVermelho\nCone de fogo\n3d10\nFogo\nUm dragotauro pode carregar muito mais peso com sua\nmetade inferior. Em regras, ele carrega o dobro do peso indi-\ncado por sua FR na tabela de Atributo."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "dragao",
-        "raca",
-        "raca-linhagem",
-        "racas",
-        "race_lineage"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "auto-race-heading-pass-1",
-      "subtype": "raca",
-      "pages": [
-        42,
-        43
-      ],
-      "costText": "2 pontos",
-      "certificationStatus": "certified",
-      "certifiedAs": "raca",
-      "certifiedArea": "racas",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:guia-dos-dragoes-1-biblioteca-elfica:dragotauro",
-      "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
-      "initialAgeText": "21+1d6",
-      "attributesText": "Normais",
-      "advantagesText": "Características táuricas, imunidade a elemen- to, vôo (20m/s)",
-      "disadvantagesText": "Má Reputação, odiado por dragões"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-dragoas-cacadoras",
@@ -362,6 +323,46 @@
       "attributesText": "Normais",
       "advantagesText": "Pode voar com velocidade de 10m/s. Pode- res Mágicos 1 gratuitamente. Comunicação telepática",
       "disadvantagesText": "Não podem usar Magias de ataque. Vul"
+    },
+    {
+      "id": "raca-guia-dos-dragoes-1-biblioteca-elfica-dragotauro",
+      "name": "Dragotauro",
+      "area": "racas",
+      "category": "race_lineage",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "sourceTitle": "Guia-dos-dragoes-1-biblioteca-elfica",
+      "page": 42,
+      "entries": [
+        "Custo: 2 pontos.\nIdade Inicial: 21+1d6.\nAtributos: Normais.\nVantagens: Características táuricas, imunidade a elemen-\nto, vôo (20m/s).\nDesvantagens: Má Reputação, odiado por dragões.\nNos mundos de fantasia existem criaturas táuricas, seres\ncom corpo quadrúpede mas, no lugar da cabeça, o torso de\num humanóide. Os centauros são os tauros mais conhecidos.\nO dragotauro é uma combinação táurica de humanóide\ncom dragões. Sua origem é um grande mistério. A teoria mais\ndifundida e aceita diz que os dragotauros foram criados por\nMagia. Alguns sustentam a idéia de que tais criaturas teriam\nsurgido pela Magia insana de magos que tentavam combinar\ncriaturas. Outros dizem que os dragotauros foram criados há\nmuitos e muitos anos pelos próprios dragões, para servirem\ncomo seus guardas. Entretanto, os dragotauros teriam se\nrevoltado e por isso passaram a ser odiados por todos os\ndragões.\nUm dragotauro tem o corpo de um dragão médio (apro-\nximadamente do tamanho de um cavalo) ligado ao tronco de\num humanóide. Essa parte humanóide geralmente é humana,\nembora existam variações. De qualquer forma, sempre have-\nrão traços animalescos, como escamas da mesma cor do dra-\ngão. Todos os dragotauros tem asas, algumas vezes presas às\ncostas da parte humanóide e outras presas ao tronco táurico.\n42\nCaracterísticas Táuricas\nTodos os tauros compartilham de algumas características\nem comum, que também são comparti0lhadas pelos\ncentauros. Tauros recebem +2 de FR para qualquer tarefa\nenvolvendo sua metade inferior do corpo, incluindo ataque\ncom as patas.\nTauros podem atacar com as patas, utilizando uma Perícia\nNova adequada (Patas DEX/DEX ou Coice DEX/0). O dano\nserá de 1d6 para as patas dianteiras e, caso treine ataque com\ncoice, 2d6. Como são qudrúpedes, os dragotauros recebem\nAGI +4, mas apenas para efeitos de deslocamento em terra\nfirme. Por outro lado eles encontram dificuldades em se\ndeslocar por certos terrenos, como escaladas. Pela mesma\nrazão, dragotauros não podem usar certos equipamentos\nfeitos para humanóides, apesar feitos para eles próprios ou\npeças de certos itens (como colares, peitoral de armadura,\netc).\nTabela 7-1: Dano do Meio-Dragão Monstruoso\nTamanho (m)\nDano Mordida\nDano Garra\nMenor que 0,5m\n1+ bônus FR\n–\n0,6m a 1,2m\n1d3+ bônus FR\n1+ bônus FR\n1,3m a 2m\n1d6+ bônus FR\n1d3+ bônus FR\n2,1m a 3,5m\n1d10+ bônus FR\n1d6+ bônus FR\nmais de 3,6m\n2d10+ Bõnus FR\n1d10+ bônus FR\nTabela 7-2: Sopro e Imunidade do Meio-Dragão\nTipo de\nDragão\nTipo\nde Sopro\nDano do\nSopro\nImunidade\nAzul\nRajada de eletricidade\n4d6\nEletricidade\nBranco\nCone de frio\n2d6\nFrio\nBronze\nRajada de eletricidade\n2d6\nEletricidade\nCamaleão\nCone de fogo\n2d6\nFogo\nCobre\nRajada ácida\n2d6\nÁcido\nLatão\nRajada de fogo\n2d6\nFogo\nMarinho\nRajada de água fervente\n2d6\nÁcido\nNegro\nRajada de ácido\n2d6\nÁcido\nOuro\nCone de fogo\n3d10\nFogo\nPrata\nCone de frio\n4d6\nFrio\nSilvestre\nRajada ácida\n2d6\nÁcido\nTatsu\nRajada de fogo\n4d6\nFogo\nVerde\nCone de gás\n2d6\nÁcido\nVermelho\nCone de fogo\n3d10\nFogo\nUm dragotauro pode carregar muito mais peso com sua\nmetade inferior. Em regras, ele carrega o dobro do peso indi-\ncado por sua FR na tabela de Atributo."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "dragao",
+        "raca",
+        "raca-linhagem",
+        "racas",
+        "race_lineage"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "auto-race-heading-pass-1",
+      "subtype": "raca",
+      "pages": [
+        42,
+        43
+      ],
+      "costText": "2 pontos",
+      "certificationStatus": "certified",
+      "certifiedAs": "raca",
+      "certifiedArea": "racas",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-dos-dragoes-1-biblioteca-elfica:dragotauro",
+      "certificationMethod": "race-lineage-explicit-context-pass-1",
+      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
+      "initialAgeText": "21+1d6",
+      "attributesText": "Normais",
+      "advantagesText": "Características táuricas, imunidade a elemen- to, vôo (20m/s)",
+      "disadvantagesText": "Má Reputação, odiado por dragões"
     },
     {
       "id": "raca-ray-elfos",
@@ -477,6 +478,44 @@
       "attributesText": "Normais",
       "advantagesText": "Apenas sofre dano por Magias e armas má- gicas. Imortal. Pode voar e levitar. Translúcido (75%). Pos- sessão. Aura de medo",
       "disadvantagesText": "Devoção"
+    },
+    {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-gargula",
+      "name": "Gárgula",
+      "area": "racas",
+      "category": "race_lineage",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "sourceTitle": "guia_de_raças_de_arton_tormentarpg",
+      "page": 8,
+      "entries": [
+        "Custo: 2 pontos.\nIdade Inicial: 10+1d6.\nAtributos: Normais.\nVantagens: Golem. Pode voar com velocidade de 20m/s.\nInfravisão (20m). Garras e Mordida.\nDesvantagens: Fica petrificado sob a luz do sol. Aparên-\ncia demoníaca (sempre possui Má Reputação).\nAs gárgulas são um tipo especial de golem. Todas são\nconstruídas de pedra, com aspecto demoníaco e costumam ser\ncriadas com a finalidade de servirem como servos ou guardiãs.\nPossuem asas demoníacas (como as de morcegos) além de chi-\nfres e garras. Apesar disso, elas não servem apenas seres ma-\nlignos: existem muitos clérigos e magos bons que também utili-\nzam gárgulas como servos. Vectorius, mago prefeito do Merca-\ndo Voador de Vectora, é um exemplo.\nAs gárgulas possuem todas as mesmas características que\nos golens. No entanto todas possuem uma grave maldição:\nquando tocadas pela luz do sol, as gárgulas são transformadas\nem estátuas de pedra, não podendo realizar nenhuma ação, e\nnão podem ser destruídas por nada a não ser por Magias e ar-\nmas mágicas encantadas com Focus 5 ou mais. Elas apenas\nvoltam ao normal quando o sol se por.\nDevido a essa maldição característica, muitos sábios e pes-\nquisadores teorizam que as gárgulas teriam sido criadas por\nmago ou clérigos devotos de Tenebra, Deusa das trevas, cujos\nservos jamais podem ser tocados pelo sol.\nTodas as gárgulas podem utilizar suas asas para voar, com\nvelocidade de 20m por segundo. Em combate elas podem usar\nsua mordida e suas garras para atacar (com a Perícia Nova Gar-\nras e Mordida). Com as garras elas podem fazer dois ataques\npor rodada, causando dano de 1d10+bônus da Força, e podem\nusa-la para ataque ou defesa. A Mordida pode ser usada ape-\nnas uma vez por rodada e causa dano de 1d6+2. Além do mais, a\nmordida não pode ser usada para defesa, apenas para ataque.\nSeus olhos são acostumados à escuridão total, e as gárgulas\nsão capazes de enxergar o calor dos seres vivos.\nEntre os Aprimoramentos de golens, descritos a cima, as\ngárgulas podem comprar apenas os Estátua e IP Natural. Assim\ncomo os golens, elas não podem usar magias, e nunca haverão\ngárgulas magos ou clérigos. A maioria são ladinos e guerreiros.\nAlgumas vezes ocorre de uma gárgula vencer estas suas des-\nvantagens e tornarem-se independentes. Destas, muitas tornam-\nse aventureiros. No entanto as gárgulas tem uma aparência extre-\nmamente desagradável para a maioria dos seres civilizados, e são\nvistas como demoníacas e perigosas. Portanto, gárgulas encon-\ntrarão certas dificuldades em seu caminho de aventuras."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "raca",
+        "raca-linhagem",
+        "racas",
+        "race_lineage"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "auto-race-heading-pass-1",
+      "subtype": "raca",
+      "pages": [
+        8
+      ],
+      "costText": "2 pontos",
+      "certificationStatus": "certified",
+      "certifiedAs": "raca",
+      "certifiedArea": "racas",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:gargula",
+      "certificationMethod": "race-lineage-explicit-context-pass-1",
+      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
+      "initialAgeText": "10+1d6",
+      "attributesText": "Normais",
+      "advantagesText": "Golem. Pode voar com velocidade de 20m/s. Infravisão (20m). Garras e Mordida",
+      "disadvantagesText": "Fica petrificado sob a luz do sol. Aparên"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-ghoul",
@@ -635,44 +674,6 @@
       "attributesText": "Normais",
       "advantagesText": "Não precisa dormir, comer, beber; imunidade a veneno, doenças e magias que afetam a mente",
       "disadvantagesText": "Não recupera PV com descanso. Não po"
-    },
-    {
-      "id": "raca-guia-de-racas-de-arton-tormentarpg-gargula",
-      "name": "Gárgula",
-      "area": "racas",
-      "category": "race_lineage",
-      "source": "guia-de-racas-de-arton-tormentarpg",
-      "sourceTitle": "guia_de_raças_de_arton_tormentarpg",
-      "page": 8,
-      "entries": [
-        "Custo: 2 pontos.\nIdade Inicial: 10+1d6.\nAtributos: Normais.\nVantagens: Golem. Pode voar com velocidade de 20m/s.\nInfravisão (20m). Garras e Mordida.\nDesvantagens: Fica petrificado sob a luz do sol. Aparên-\ncia demoníaca (sempre possui Má Reputação).\nAs gárgulas são um tipo especial de golem. Todas são\nconstruídas de pedra, com aspecto demoníaco e costumam ser\ncriadas com a finalidade de servirem como servos ou guardiãs.\nPossuem asas demoníacas (como as de morcegos) além de chi-\nfres e garras. Apesar disso, elas não servem apenas seres ma-\nlignos: existem muitos clérigos e magos bons que também utili-\nzam gárgulas como servos. Vectorius, mago prefeito do Merca-\ndo Voador de Vectora, é um exemplo.\nAs gárgulas possuem todas as mesmas características que\nos golens. No entanto todas possuem uma grave maldição:\nquando tocadas pela luz do sol, as gárgulas são transformadas\nem estátuas de pedra, não podendo realizar nenhuma ação, e\nnão podem ser destruídas por nada a não ser por Magias e ar-\nmas mágicas encantadas com Focus 5 ou mais. Elas apenas\nvoltam ao normal quando o sol se por.\nDevido a essa maldição característica, muitos sábios e pes-\nquisadores teorizam que as gárgulas teriam sido criadas por\nmago ou clérigos devotos de Tenebra, Deusa das trevas, cujos\nservos jamais podem ser tocados pelo sol.\nTodas as gárgulas podem utilizar suas asas para voar, com\nvelocidade de 20m por segundo. Em combate elas podem usar\nsua mordida e suas garras para atacar (com a Perícia Nova Gar-\nras e Mordida). Com as garras elas podem fazer dois ataques\npor rodada, causando dano de 1d10+bônus da Força, e podem\nusa-la para ataque ou defesa. A Mordida pode ser usada ape-\nnas uma vez por rodada e causa dano de 1d6+2. Além do mais, a\nmordida não pode ser usada para defesa, apenas para ataque.\nSeus olhos são acostumados à escuridão total, e as gárgulas\nsão capazes de enxergar o calor dos seres vivos.\nEntre os Aprimoramentos de golens, descritos a cima, as\ngárgulas podem comprar apenas os Estátua e IP Natural. Assim\ncomo os golens, elas não podem usar magias, e nunca haverão\ngárgulas magos ou clérigos. A maioria são ladinos e guerreiros.\nAlgumas vezes ocorre de uma gárgula vencer estas suas des-\nvantagens e tornarem-se independentes. Destas, muitas tornam-\nse aventureiros. No entanto as gárgulas tem uma aparência extre-\nmamente desagradável para a maioria dos seres civilizados, e são\nvistas como demoníacas e perigosas. Portanto, gárgulas encon-\ntrarão certas dificuldades em seu caminho de aventuras."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "raca",
-        "raca-linhagem",
-        "racas",
-        "race_lineage"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "auto-race-heading-pass-1",
-      "subtype": "raca",
-      "pages": [
-        8
-      ],
-      "costText": "2 pontos",
-      "certificationStatus": "certified",
-      "certifiedAs": "raca",
-      "certifiedArea": "racas",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:gargula",
-      "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
-      "initialAgeText": "10+1d6",
-      "attributesText": "Normais",
-      "advantagesText": "Golem. Pode voar com velocidade de 20m/s. Infravisão (20m). Garras e Mordida",
-      "disadvantagesText": "Fica petrificado sob a luz do sol. Aparên"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-hobgoblin",
@@ -1230,6 +1231,43 @@
       "disadvantagesText": "Nenhuma"
     },
     {
+      "id": "raca-ray-meio-elfos",
+      "name": "Meio-elfos",
+      "area": "racas",
+      "category": "race_lineage",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "page": 7,
+      "entries": [
+        "Custo: 1 pontos\nIdade Inicial: 16+1d6\nAtributos: -1 em FR e CON; e +1 em INT e CAR\nVantagens: Teletransporte\nEmbora isto não seja comum, os elfos podem ter filhos com\nseres humanos, chamados meio-elfos. Esses mestiços possuem a\nforça e resistência dos humanos, mais a longevidade e a capaci-\ndade dos elfos de se teleportarem. No entanto, eles são fracos\npara\na\nmagia,\ne\nraramente\nse\ntornam\nmagos.\nMeio-elfos têm as mesmas características de Atributos e Habilida-\ndes dos seres humanos, além da capacidade de se teleportarem."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "raca",
+        "raca-linhagem",
+        "racas",
+        "race_lineage"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "auto-race-heading-pass-1",
+      "subtype": "raca",
+      "pages": [
+        7
+      ],
+      "costText": "1 pontos",
+      "certificationStatus": "certified",
+      "certifiedAs": "raca",
+      "certifiedArea": "racas",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:ray:meio-elfos",
+      "certificationMethod": "race-lineage-explicit-context-pass-1",
+      "raceContext": "text-race-term",
+      "initialAgeText": "16+1d6",
+      "attributesText": "1 em FR e CON; e +1 em INT e CAR",
+      "advantagesText": "Teletransporte Embora isto não seja comum, os elfos podem ter filhos com seres humanos, chamados meio-elfos. Esses mestiços possuem a força e resistência dos humanos, mais a longevidade e a capaci- dade dos elfos de se teleportarem. No entanto, eles são fracos para a magia, e raramente se tornam magos. Meio-elfos têm as mesmas características de Atributos e Habilida- des dos seres humanos, além da capacidade de se teleportarem"
+    },
+    {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-golem",
       "name": "Meio-Golem",
       "area": "racas",
@@ -1344,43 +1382,6 @@
       "attributesText": "+2 CON, +2 FR, -2 INT, -2 CAR",
       "advantagesText": "Infravisão (20m)",
       "disadvantagesText": "Má Reputação"
-    },
-    {
-      "id": "raca-ray-meio-elfos",
-      "name": "Meio-elfos",
-      "area": "racas",
-      "category": "race_lineage",
-      "source": "ray",
-      "sourceTitle": "ray",
-      "page": 7,
-      "entries": [
-        "Custo: 1 pontos\nIdade Inicial: 16+1d6\nAtributos: -1 em FR e CON; e +1 em INT e CAR\nVantagens: Teletransporte\nEmbora isto não seja comum, os elfos podem ter filhos com\nseres humanos, chamados meio-elfos. Esses mestiços possuem a\nforça e resistência dos humanos, mais a longevidade e a capaci-\ndade dos elfos de se teleportarem. No entanto, eles são fracos\npara\na\nmagia,\ne\nraramente\nse\ntornam\nmagos.\nMeio-elfos têm as mesmas características de Atributos e Habilida-\ndes dos seres humanos, além da capacidade de se teleportarem."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "raca",
-        "raca-linhagem",
-        "racas",
-        "race_lineage"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "auto-race-heading-pass-1",
-      "subtype": "raca",
-      "pages": [
-        7
-      ],
-      "costText": "1 pontos",
-      "certificationStatus": "certified",
-      "certifiedAs": "raca",
-      "certifiedArea": "racas",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:ray:meio-elfos",
-      "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "text-race-term",
-      "initialAgeText": "16+1d6",
-      "attributesText": "1 em FR e CON; e +1 em INT e CAR",
-      "advantagesText": "Teletransporte Embora isto não seja comum, os elfos podem ter filhos com seres humanos, chamados meio-elfos. Esses mestiços possuem a força e resistência dos humanos, mais a longevidade e a capaci- dade dos elfos de se teleportarem. No entanto, eles são fracos para a magia, e raramente se tornam magos. Meio-elfos têm as mesmas características de Atributos e Habilida- des dos seres humanos, além da capacidade de se teleportarem"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-mumia",
@@ -1615,6 +1616,46 @@
       "disadvantagesText": "Envelhecem aos 25 anos. Não possuem"
     },
     {
+      "id": "raca-guia-de-racas-de-arton-tormentarpg-satiro",
+      "name": "Sátiro",
+      "area": "racas",
+      "category": "race_lineage",
+      "source": "guia-de-racas-de-arton-tormentarpg",
+      "sourceTitle": "guia_de_raças_de_arton_tormentarpg",
+      "page": 34,
+      "entries": [
+        "Custo: 2 pontos.\nIdade Inicial: 14+1d6.\nAtributos: Normais.\nVantagens: Recebem +10% nas Perícias Artes e Espor-\ntes, e +10/+10 em Testes de Arco e Flecha. Podem usar O\nCanto da Sereia e Fascinação. Chifres.\nDesvantagens: Jamais pode atacar ou ferir uma fêmea. Não\npodem ser clérigos.\nOs sátiros não são exatamente fadas, apesar de também apre-\nsentarem algumas características mágicas. Costumam viver em\nprofundas e densas florestas, e aquelas que cercam Pondsmânia\nsão perfeitas. Sátiros tem cabeça, tronco e braços humanos, com\numa pele que varia da mesma forma que os humanos, apesar de\na coloração mais escura conhecida ser de apenas um bronzea-\ndo. Há rumores sobre indivíduos como uma pele avermelhada,\nmas jamais eles foram confirmados. Da cintura para baixo são\ncompletamente diferentes, visto que têm pernas e cascos de\nbode (mas andam eretos, como humanos). Na cabeça eles tam-\nbém apresentam pequenos chifres de bode, e seu rosto normal-\nmente é dotado de bigode ou cavanhaque. Seus cascos são\nnegros, e a pelagem, tanto do cabelo como das pernas, costuma\nser castanho ou uma coloração mais escura.\nPovo Silvestre\nSátiros são criaturas silvestres. Muitos acreditam que ele\ntenha sido criado por Allihanna, mais um fator que o diferencia\ndo povo-fada (concebido por Wynna). É comum encontrá-los\nvivendo entre centauros e outros povos silvestres. Uma comu-\nnidade élfica também seria de agrado a eles.\nSátiros são onívoros, alimentando-se tanto de carne como\nde frutas e vegetais. No entanto eles jamais interferem com a\ndiversidade do lugar onde vivem, evitando a caça em excesso e\nevitando danificar a natureza ao seu redor.\nSátiros tem um idioma próprio, mas muitos também costu-\nmam aprender o Valkar, além dos idiomas de centauros, elfos e\nmembros do povo-fada como os sprites.\nSátiros são capazes de utilizar seus chifres para atacar, cau-\nsando 1d10-2 pontos de dano (sem os bônus de Força). Mas\npara isso, claro, devem utilizar a Perícia Nova Chifres (DEX/0).\nBoa Vida\nO maior ponto fraco de qualquer sátiro são as fêmeas\nhumanóides. Eles adoram perseguir ninfas e dríades nas flores-\ntas que vivem. Outras fêmeas também são muito admiradas.\nDevido a isso, um sátiro é totalmente incapaz de ferir ou ata-\ncar qualquer fêmea humanóide. Além do mais eles não conse-\nguem resistir ao pedido de uma mulher: eles sempre ajudarão\nfêmeas em necessidade. Por outro lado, sátiros que tenham uma\nflauta ou outro instrumento musical (que deve ser comprado ou\nfabricado, à escolha do Mestre) são capazes de utilizar as Ma-\ngias O Canto da Sereia e Fascinação como habilidades naturais,\nsem gastar Pontos de Magia. Estes efeitos, no entanto, funcio-\nnam apenas com fêmeas humanóides, jamais com machos.\nSátiros são amantes da boa vida. Adoram principalmente\ncomida, bebida e esportes – sendo o arqueirismo seu maior ta-\nlento. Muitas vezes eles caçam por pura diversão, mas ainda\nassim sem excesso. Devido ao seu gosto por artes, sátiros são\nespecialmente habilidosos nestas Perícias. É comum que eles\ninventem competições como forma de diversão, seja entre seu\npovo ou entre indivíduos que atravessam seus lares. Quando\nestes vencem, costumam prestar ajuda, oferecendo informações\nsobre o lugar. Claro, fêmeas atraentes (geralmente com CAR 15\nou mais) jamais escaparão de uma cantada.\nNão existem fêmeas entre os sátiros – e talvez seja por isso\nque eles gostem de perseguir as fêmeas de outras espécies. O\nmodo de reprodução deste povo não é muito bem conhecida. A\nmaioria dos pesquisadores acredita que eles sejam como os\nminotauros, reproduzindo-se com fêmeas de outras espécies,\nespecialmente dríades. Neste caso, a cria sempre será um sátiro\nmacho, jamais nascendo uma fêmea.\nAventureiros\nA busca por fêmeas pode levar um sátiro a tornar-se aven-\ntureiro. Outros fatores mais comuns, como a procura por novos\nprazeres, também é comum entre eles. O fato é que sátiros aven-\ntureiros não são incomuns.\nNa maioria dos vezes os sátiros tornam-se arqueiros. Por\nisso se relacionam muito bem com os elfos. Sátiros guerreiros\nsão mais incomuns que os arcanos, mas essa possibilidade exis-\nte. Os especialistas também são incomuns. Apesar de existirem\nsátiros devotos a essa ou aquela religião, eles jamais tornam-se\nclérigos, sendo proibidos de ter qualquer Ponto de Fé. Eles não\ntem disciplina suficiente para seguir esta carreira."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "fada",
+        "raca",
+        "raca-linhagem",
+        "racas",
+        "race_lineage"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "auto-race-heading-pass-1",
+      "subtype": "raca",
+      "pages": [
+        34,
+        35
+      ],
+      "costText": "2 pontos",
+      "certificationStatus": "certified",
+      "certifiedAs": "raca",
+      "certifiedArea": "racas",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:satiro",
+      "certificationMethod": "race-lineage-explicit-context-pass-1",
+      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
+      "initialAgeText": "14+1d6",
+      "attributesText": "Normais",
+      "advantagesText": "Recebem +10% nas Perícias Artes e Espor- tes, e +10/+10 em Testes de Arco e Flecha. Podem usar O Canto da Sereia e Fascinação. Chifres",
+      "disadvantagesText": "Jamais pode atacar ou ferir uma fêmea. Não"
+    },
+    {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-sereia",
       "name": "Sereia",
       "area": "racas",
@@ -1693,46 +1734,6 @@
       "attributesText": "+6 AGI, +2 DEX, +2 CAR, -6 FR, -2 CON",
       "advantagesText": "Voam a 5m/s. Poderes Mágicos 1",
       "disadvantagesText": "FR e CON máximo 12. Vulneráveis a Ma"
-    },
-    {
-      "id": "raca-guia-de-racas-de-arton-tormentarpg-satiro",
-      "name": "Sátiro",
-      "area": "racas",
-      "category": "race_lineage",
-      "source": "guia-de-racas-de-arton-tormentarpg",
-      "sourceTitle": "guia_de_raças_de_arton_tormentarpg",
-      "page": 34,
-      "entries": [
-        "Custo: 2 pontos.\nIdade Inicial: 14+1d6.\nAtributos: Normais.\nVantagens: Recebem +10% nas Perícias Artes e Espor-\ntes, e +10/+10 em Testes de Arco e Flecha. Podem usar O\nCanto da Sereia e Fascinação. Chifres.\nDesvantagens: Jamais pode atacar ou ferir uma fêmea. Não\npodem ser clérigos.\nOs sátiros não são exatamente fadas, apesar de também apre-\nsentarem algumas características mágicas. Costumam viver em\nprofundas e densas florestas, e aquelas que cercam Pondsmânia\nsão perfeitas. Sátiros tem cabeça, tronco e braços humanos, com\numa pele que varia da mesma forma que os humanos, apesar de\na coloração mais escura conhecida ser de apenas um bronzea-\ndo. Há rumores sobre indivíduos como uma pele avermelhada,\nmas jamais eles foram confirmados. Da cintura para baixo são\ncompletamente diferentes, visto que têm pernas e cascos de\nbode (mas andam eretos, como humanos). Na cabeça eles tam-\nbém apresentam pequenos chifres de bode, e seu rosto normal-\nmente é dotado de bigode ou cavanhaque. Seus cascos são\nnegros, e a pelagem, tanto do cabelo como das pernas, costuma\nser castanho ou uma coloração mais escura.\nPovo Silvestre\nSátiros são criaturas silvestres. Muitos acreditam que ele\ntenha sido criado por Allihanna, mais um fator que o diferencia\ndo povo-fada (concebido por Wynna). É comum encontrá-los\nvivendo entre centauros e outros povos silvestres. Uma comu-\nnidade élfica também seria de agrado a eles.\nSátiros são onívoros, alimentando-se tanto de carne como\nde frutas e vegetais. No entanto eles jamais interferem com a\ndiversidade do lugar onde vivem, evitando a caça em excesso e\nevitando danificar a natureza ao seu redor.\nSátiros tem um idioma próprio, mas muitos também costu-\nmam aprender o Valkar, além dos idiomas de centauros, elfos e\nmembros do povo-fada como os sprites.\nSátiros são capazes de utilizar seus chifres para atacar, cau-\nsando 1d10-2 pontos de dano (sem os bônus de Força). Mas\npara isso, claro, devem utilizar a Perícia Nova Chifres (DEX/0).\nBoa Vida\nO maior ponto fraco de qualquer sátiro são as fêmeas\nhumanóides. Eles adoram perseguir ninfas e dríades nas flores-\ntas que vivem. Outras fêmeas também são muito admiradas.\nDevido a isso, um sátiro é totalmente incapaz de ferir ou ata-\ncar qualquer fêmea humanóide. Além do mais eles não conse-\nguem resistir ao pedido de uma mulher: eles sempre ajudarão\nfêmeas em necessidade. Por outro lado, sátiros que tenham uma\nflauta ou outro instrumento musical (que deve ser comprado ou\nfabricado, à escolha do Mestre) são capazes de utilizar as Ma-\ngias O Canto da Sereia e Fascinação como habilidades naturais,\nsem gastar Pontos de Magia. Estes efeitos, no entanto, funcio-\nnam apenas com fêmeas humanóides, jamais com machos.\nSátiros são amantes da boa vida. Adoram principalmente\ncomida, bebida e esportes – sendo o arqueirismo seu maior ta-\nlento. Muitas vezes eles caçam por pura diversão, mas ainda\nassim sem excesso. Devido ao seu gosto por artes, sátiros são\nespecialmente habilidosos nestas Perícias. É comum que eles\ninventem competições como forma de diversão, seja entre seu\npovo ou entre indivíduos que atravessam seus lares. Quando\nestes vencem, costumam prestar ajuda, oferecendo informações\nsobre o lugar. Claro, fêmeas atraentes (geralmente com CAR 15\nou mais) jamais escaparão de uma cantada.\nNão existem fêmeas entre os sátiros – e talvez seja por isso\nque eles gostem de perseguir as fêmeas de outras espécies. O\nmodo de reprodução deste povo não é muito bem conhecida. A\nmaioria dos pesquisadores acredita que eles sejam como os\nminotauros, reproduzindo-se com fêmeas de outras espécies,\nespecialmente dríades. Neste caso, a cria sempre será um sátiro\nmacho, jamais nascendo uma fêmea.\nAventureiros\nA busca por fêmeas pode levar um sátiro a tornar-se aven-\ntureiro. Outros fatores mais comuns, como a procura por novos\nprazeres, também é comum entre eles. O fato é que sátiros aven-\ntureiros não são incomuns.\nNa maioria dos vezes os sátiros tornam-se arqueiros. Por\nisso se relacionam muito bem com os elfos. Sátiros guerreiros\nsão mais incomuns que os arcanos, mas essa possibilidade exis-\nte. Os especialistas também são incomuns. Apesar de existirem\nsátiros devotos a essa ou aquela religião, eles jamais tornam-se\nclérigos, sendo proibidos de ter qualquer Ponto de Fé. Eles não\ntem disciplina suficiente para seguir esta carreira."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "fada",
-        "raca",
-        "raca-linhagem",
-        "racas",
-        "race_lineage"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "auto-race-heading-pass-1",
-      "subtype": "raca",
-      "pages": [
-        34,
-        35
-      ],
-      "costText": "2 pontos",
-      "certificationStatus": "certified",
-      "certifiedAs": "raca",
-      "certifiedArea": "racas",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:guia-de-racas-de-arton-tormentarpg:satiro",
-      "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "dedicated-source,race_lineage-book-part,text-race-term",
-      "initialAgeText": "14+1d6",
-      "attributesText": "Normais",
-      "advantagesText": "Recebem +10% nas Perícias Artes e Espor- tes, e +10/+10 em Testes de Arco e Flecha. Podem usar O Canto da Sereia e Fascinação. Chifres",
-      "disadvantagesText": "Jamais pode atacar ou ferir uma fêmea. Não"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-vampiro",
