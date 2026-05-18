@@ -12,7 +12,6 @@ const state = {
 const nodes = {
   metrics: document.querySelector("#metrics"),
   areaList: document.querySelector("#areaList"),
-  areaOverview: document.querySelector("#areaOverview"),
   results: document.querySelector("#results"),
   resultsTitle: document.querySelector("#resultsTitle"),
   resultsCount: document.querySelector("#resultsCount"),
@@ -115,25 +114,8 @@ function renderAreaList() {
   nodes.areaList.replaceChildren(...buttons);
 }
 
-function overviewTile(label, value) {
-  const tile = document.createElement("div");
-  tile.className = "overview-tile";
-  const number = document.createElement("strong");
-  number.textContent = value;
-  const text = document.createElement("span");
-  text.textContent = label;
-  tile.append(number, text);
-  return tile;
-}
-
 function renderOverview() {
-  const area = state.areaData;
-  nodes.areaOverview.replaceChildren(
-    overviewTile("entidades", area.entityCount),
-    overviewTile("partes dos livros", area.sourcePartCount),
-    overviewTile("fontes", area.readySourceCount),
-  );
-  nodes.resultsTitle.textContent = area.name;
+  nodes.resultsTitle.textContent = state.areaData.name;
 }
 
 function buildItems(areaData) {
