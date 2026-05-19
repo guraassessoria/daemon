@@ -1,0 +1,42 @@
+from __future__ import annotations
+
+import json
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+
+
+def read_json(path: Path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def test_source_family_facets_are_published() -> None:
+    summary = read_json(ROOT / "data" / "index" / "area-summary.json")
+    families = summary["filters"].get("sourceFamilies", [])
+    family_ids = {family["id"] for family in families}
+
+    assert "official_core" in family_ids
+    assert "supplement_misc" in family_ids
+    assert len(families) >= 5
+
+
+def test_docs_data_matches_built_catalog() -> None:
+    source_summary = read_json(ROOT / "data" / "index" / "area-summary.json")
+    docs_summary = read_json(ROOT / "docs" / "assets" / "data" / "area-summary.json")
+
+    assert docs_summary["readySourceCount"] == source_summary["readySourceCount"]
+    assert docs_summary["sourcePartCount"] == source_summary["sourcePartCount"]
+    assert docs_summary["entityCount"] == source_summary["entityCount"]
+
+
+def test_ui_has_admin_panel_editorial_notes_and_table_renderer() -> None:
+    app = (ROOT / "docs" / "assets" / "app.js").read_text(encoding="utf-8")
+    html = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+    css = (ROOT / "docs" / "assets" / "styles.css").read_text(encoding="utf-8")
+
+    assert "adminPanel" in html
+    assert "notesToggle" in html
+    assert "function renderQualityAlert" in app
+    assert "function renderTables" in app
+    assert ".rules-table" in css

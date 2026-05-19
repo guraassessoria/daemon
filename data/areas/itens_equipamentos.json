@@ -6,6 +6,434 @@
   "entityCount": 3,
   "sourcePartCount": 80,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "daemon-medieval",
+        "title": "Daemon Medieval",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 3
+      },
+      {
+        "id": "demonios-a-divina-comedia",
+        "title": "Demônios - A Divina Comédia",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
+      },
+      {
+        "id": "abismo-infinito-quick-start",
+        "title": "Abismo-Infinito-Quick-Start",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 1
+      },
+      {
+        "id": "alastores-a-justica-infernal",
+        "title": "Alastores - A Justiça Infernal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 4
+      },
+      {
+        "id": "ark-a-nun-arquivos-de-bel-kalaa",
+        "title": "Ark-a-nun - Arquivos de Bel-Kalaa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 1
+      },
+      {
+        "id": "armamedieval",
+        "title": "armamedieval",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 4
+      },
+      {
+        "id": "armas-da-segunda-guerra",
+        "title": "Armas da Segunda Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 3
+      },
+      {
+        "id": "armas-da-segunda-guerra-mundial",
+        "title": "Armas da Segunda Guerra Mundial",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 20
+      },
+      {
+        "id": "armas-de-fogo",
+        "title": "Armas de Fogo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 18
+      },
+      {
+        "id": "armasmagicas",
+        "title": "armasmagicas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 1
+      },
+      {
+        "id": "arte-da-guerra",
+        "title": "Arte da Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "biohazard",
+        "title": "biohazard",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "cdd",
+        "title": "Cdd",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "demon-cthulhu",
+        "title": "Demon Cthulhu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "devilmaycry",
+        "title": "Devilmaycry",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "dragoes-reis-caidos-sistema-daemon",
+        "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "equip",
+        "title": "equip",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "etruscos",
+        "title": "Etruscos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "gerador-de-criaturas",
+        "title": "Gerador de criaturas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "creatures_bestiary",
+        "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+        "count": 1
+      },
+      {
+        "id": "geradoritem02",
+        "title": "geradoritem02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 1
+      },
+      {
+        "id": "guia-do-aventureiro-de-arton",
+        "title": "Guia do Aventureiro de Arton",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "guia-dragoes-vol-ii",
+        "title": "guia-dragoes vol-II",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "livrodomal",
+        "title": "livrodomal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "modulo-combate",
+        "title": "Módulo Combate",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 4
+      },
+      {
+        "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "title": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "novas-armas-de-fogo",
+        "title": "Novas Armas de Fogo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 2
+      },
+      {
+        "id": "redentor",
+        "title": "Redentor",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "vantagens-regionais-ii",
+        "title": "Vantagens Regionais II",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 1
+      },
+      {
+        "id": "watchmen",
+        "title": "Watchmen",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": "attribute_skill",
+        "count": 4
+      },
+      {
+        "id": "combat",
+        "count": 64
+      },
+      {
+        "id": "core_rule",
+        "count": 4
+      },
+      {
+        "id": "creature_npc",
+        "count": 1
+      },
+      {
+        "id": "item_equipment",
+        "count": 8
+      },
+      {
+        "id": "power_magic",
+        "count": 2
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "adventure_scene",
+        "count": 1
+      },
+      {
+        "id": "combat_maneuver",
+        "count": 1
+      },
+      {
+        "id": "creature_npc",
+        "count": 2
+      },
+      {
+        "id": "item_equipment",
+        "count": 41
+      },
+      {
+        "id": "lore_world",
+        "count": 4
+      },
+      {
+        "id": "organization_faction",
+        "count": 3
+      },
+      {
+        "id": "raw_chapter_block",
+        "count": 17
+      },
+      {
+        "id": "rule_mechanic",
+        "count": 1
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 13
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 4
+      },
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 79
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
+        "count": 1
+      },
+      {
+        "id": "setting_lore",
+        "label": "Cenários, lore e organizações",
+        "count": 1
+      },
+      {
+        "id": "creatures_bestiary",
+        "label": "Criaturas, monstros e NPCs",
+        "count": 1
+      },
+      {
+        "id": "equipment_items",
+        "label": "Equipamentos, armas e itens",
+        "count": 49
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 4
+      },
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 4
+      },
+      {
+        "id": "races_options",
+        "label": "Raças, kits e opções de personagem",
+        "count": 1
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 6
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 15
+      }
+    ],
+    "areas": [
+      {
+        "id": "itens_equipamentos",
+        "count": 83
+      }
+    ]
+  },
   "entities": [
     {
       "id": "areia-de-agaures",
@@ -25,7 +453,20 @@
         "objeto-magico"
       ],
       "confidence": 0.76,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "caixa-e-besouro",
@@ -45,7 +486,20 @@
         "objeto-magico"
       ],
       "confidence": 0.76,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "soro-da-verdade",
@@ -66,7 +520,18 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     }
   ],
   "sourceParts": [
@@ -93,7 +558,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "alastores-a-justica-infernal--alastores-objetos-magicos",
@@ -121,7 +606,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-2",
@@ -144,7 +649,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-calibre-45-acp-3",
@@ -168,7 +695,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-metralhadora-bronwning-m-919-5",
@@ -189,7 +736,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra--armas-da-segunda-guerra-lanca-rojao-2-36-pol-m9a1-7",
@@ -210,7 +776,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-11",
@@ -234,7 +819,30 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-30",
@@ -258,7 +866,31 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-13",
@@ -282,7 +914,25 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-tipo-defensivo-28",
@@ -306,7 +956,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pagina-inicial-1",
@@ -327,7 +997,30 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-2",
@@ -348,7 +1041,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-municao-50-bmg-15",
@@ -369,7 +1084,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-morteiros-16",
@@ -390,7 +1125,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-17",
@@ -411,7 +1165,31 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-21",
@@ -432,7 +1210,31 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-alcance-500m-23",
@@ -453,7 +1255,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-lanca-chamas-24",
@@ -474,7 +1296,25 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-25",
@@ -495,7 +1335,30 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-rifles-27",
@@ -516,7 +1379,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-32",
@@ -537,7 +1421,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-36",
@@ -558,7 +1462,32 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-39",
@@ -579,7 +1508,31 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pistolas-40",
@@ -600,7 +1553,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-municao-7-7x58mm-41",
@@ -621,7 +1594,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-morteiros-42",
@@ -642,7 +1635,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-armaduras-sobrepostas-43",
@@ -666,7 +1680,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-armas-longas-5",
@@ -690,7 +1724,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-carabinas-de-assalto-27",
@@ -714,7 +1769,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-customizacao-39",
@@ -738,7 +1813,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-escudos-45",
@@ -762,7 +1857,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-localizacao-aleatoria-de-dano-14",
@@ -786,7 +1901,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-metralhadoras-34",
@@ -810,7 +1945,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-5-56mm-nato-29",
@@ -834,7 +1989,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-5-7-mm-23",
@@ -858,7 +2033,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-9mm-357-sig-40-s-w-20",
@@ -882,7 +2077,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-pistolas-18",
@@ -906,7 +2121,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-armas-de-fogo-4",
@@ -927,7 +2162,30 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-dano-7",
@@ -948,7 +2206,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-lista-de-armas-16",
@@ -969,7 +2248,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-7-62mm-nato-32",
@@ -990,7 +2289,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-308-win-33",
@@ -1011,7 +2330,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-municao-12g-37",
@@ -1032,7 +2371,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armas-de-fogo--armas-de-fogo-armaduras-42",
@@ -1053,7 +2412,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "arte-da-guerra--arte-da-guerra-arte-da-batalha-13",
@@ -1077,7 +2456,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "cdd--cdd-hank-15",
@@ -1098,7 +2496,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-31",
@@ -1118,7 +2536,30 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-43",
@@ -1138,7 +2579,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-44",
@@ -1159,7 +2622,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.88,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-3",
@@ -1183,7 +2668,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-industria-64",
@@ -1203,7 +2710,26 @@
         "power_magic"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "devilmaycry--devilmaycry-itens-magicos-6",
@@ -1224,7 +2750,25 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-64",
@@ -1247,7 +2791,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-seus-dois-outros-juizes-ativos-19",
@@ -1267,7 +2833,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "etruscos--etruscos-o-sangue-mais-puro-38",
@@ -1291,7 +2877,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "etruscos--etruscos-sagrada-ordem-16",
@@ -1311,7 +2918,25 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "gerador-de-criaturas--gerador-de-criaturas-alteracoes-fisicas-e-locomocao-55",
@@ -1334,7 +2959,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "creatures_bestiary",
+      "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "guia-do-aventureiro-de-arton--guia-do-aventureiro-de-arton-vindos-do-subterraneo-25",
@@ -1358,7 +3002,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "modulo-combate--modulo-combate-armaduras-23",
@@ -1366,7 +3030,7 @@
       "area": "itens_equipamentos",
       "category": "combat",
       "source": "modulo-combate",
-      "sourceTitle": "MÓDULO COMBATE",
+      "sourceTitle": "Módulo Combate",
       "pages": [
         [
           23,
@@ -1382,7 +3046,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "modulo-combate--modulo-combate-lutadores-3",
@@ -1390,7 +3074,7 @@
       "area": "itens_equipamentos",
       "category": "combat",
       "source": "modulo-combate",
-      "sourceTitle": "MÓDULO COMBATE",
+      "sourceTitle": "Módulo Combate",
       "pages": [
         [
           3,
@@ -1406,7 +3090,26 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "modulo-combate--modulo-combate-usando-as-manobras-especiais-13",
@@ -1414,7 +3117,7 @@
       "area": "itens_equipamentos",
       "category": "combat",
       "source": "modulo-combate",
-      "sourceTitle": "MÓDULO COMBATE",
+      "sourceTitle": "Módulo Combate",
       "pages": [
         13
       ],
@@ -1427,7 +3130,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "modulo-combate--modulo-combate-lancas-22",
@@ -1435,7 +3158,7 @@
       "area": "itens_equipamentos",
       "category": "combat",
       "source": "modulo-combate",
-      "sourceTitle": "MÓDULO COMBATE",
+      "sourceTitle": "Módulo Combate",
       "pages": [
         22
       ],
@@ -1448,7 +3171,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-vendiam-seus-produtos-nos-mercados-29",
@@ -1471,7 +3214,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "novas-armas-de-fogo--novas-armas-de-fogo-magnum-357-cp-3",
@@ -1495,7 +3258,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "novas-armas-de-fogo--novas-armas-de-fogo-lista-das-armas-2",
@@ -1516,7 +3299,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "redentor--redentor-gastos-da-energia-de-treinamento-9",
@@ -1540,7 +3343,25 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "combat_maneuver",
+      "contentKindLabel": "Combate ou manobra",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "vantagens-regionais-ii--vantagens-regionais-ii-amigo-das-aguas-callistia-khubar-2",
@@ -1563,7 +3384,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "races_options",
+      "sourceFamilyLabel": "Raças, kits e opções de personagem",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "watchmen--watchmen-linha-de-corte-5",
@@ -1583,7 +3424,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armamedieval--armamedieval-escudo-medio-com-1-efeito-9",
@@ -1607,7 +3468,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armamedieval--armamedieval-valores-de-ataque-no-escudo-4",
@@ -1631,7 +3512,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armamedieval--armamedieval-armas-armaduras-1",
@@ -1652,7 +3554,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armamedieval--armamedieval-atencao-2",
@@ -1672,7 +3596,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "armasmagicas--armasmagicas-by-rafael-menestrel-1",
@@ -1696,7 +3642,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "biohazard--biohazard-os-b-o-w-s-53",
@@ -1719,7 +3685,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "equip--equip-roupas-1",
@@ -1742,7 +3730,29 @@
         "itens_equipamentos"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "geradoritem02--geradoritem02-gerador-de-itens-magicos-1",
@@ -1765,7 +3775,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-considerados-uma-35",
@@ -1773,7 +3803,7 @@
       "area": "itens_equipamentos",
       "category": "attribute_skill",
       "source": "guia-dragoes-vol-ii",
-      "sourceTitle": "guia-dragoes_vol-II",
+      "sourceTitle": "guia-dragoes vol-II",
       "pages": [
         [
           35,
@@ -1788,7 +3818,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-arma-de-sopro-20",
@@ -1796,7 +3847,7 @@
       "area": "itens_equipamentos",
       "category": "power_magic",
       "source": "guia-dragoes-vol-ii",
-      "sourceTitle": "guia-dragoes_vol-II",
+      "sourceTitle": "guia-dragoes vol-II",
       "pages": [
         [
           20,
@@ -1811,7 +3862,28 @@
         "power_magic"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "guia-dragoes-vol-ii--guia-dragoes-vol-ii-imunidade-dra-19",
@@ -1819,7 +3891,7 @@
       "area": "itens_equipamentos",
       "category": "combat",
       "source": "guia-dragoes-vol-ii",
-      "sourceTitle": "guia-dragoes_vol-II",
+      "sourceTitle": "guia-dragoes vol-II",
       "pages": [
         19
       ],
@@ -1832,7 +3904,28 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "livrodomal--livrodomal-o-marginal-20",
@@ -1855,7 +3948,27 @@
         "itens_equipamentos"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     }
   ]
 }

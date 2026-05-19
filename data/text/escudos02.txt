@@ -1,0 +1,138 @@
+--- page 1 ---
+Escudos:
+Manual de Instruções
+A perícia escudo é tratada como a de qualquer outra
+arma (ataque/defesa).
+A vantagem é que armado com o escudo o personagem
+pode defender sem abdicar do seu ataque, ou seja por ele está
+posicionado à frente do corpo, o personagem pode, com a mão
+oposta à que segura o escudo executar um ataque, mesmo
+defendendo o ataque adversário.
+Ex: Just possuí Escudo 0/50 e Espada Longa 45/0 ele
+é atacado por Wislow que possuí Machado 50/20. Wislow ganha
+na iniciativa e parte para o ataque deferindo um golpe frontal
+em Just. Porêm com sua perícia em escudo 0/50 ele defende o
+golpe utilizando um escudo de madeira  em sua mão esquerda,
+e com a mão direita defere um golpe com sua espada no coração
+de Wislow, matando-o. Mas Just sofre as consequências, seu
+escudo foi quase destruído pelo ataque de Wislow.
+Outras vantagens do Escudo
+Por que usar  escudo e não uma arma para se defender?
+Simples. O escudo pode fazer algo que nenhuma arma
+comum pode: bloquear pedras, flechas e até mesmo tiros.
+Nesse caso, você pode fazer um teste de Escudo para
+bloquear o dano desse tipo de ataque, coisa que seria impossível
+apenas com uma espada...
+Se for suficientemente grande, um escudo pode proteger
+o personagem de armadilhas com setas envenenadas, baforadas
+de ácido, jatos de fogo e outras coisas “arremessadas” contra
+ele.
+Todo o dano que passar do IP do escudo causa dano na
+PRA do escudo.
+O que vem a ser PRA?
+PRA (Pontos de Resistência da Arma) é uma espesse
+de PV’s das armas, escudos ou armaduras. O PRA vai diminuido
+de acordo com dano excedente ao IP do escudo, até que a PRA
+seja igual à 0, e então o escudo tem a diminuição de 1 de IP no
+escudo.
+Ex.1: Wislow com seu machado deu um total de 6 de
+dano em seu ataque que foi defendido por Just com  seu escudo
+de madeira IP 2 (6 PRA’s), o escudo absorve 2 pontos de dano
+do ataque e sofre 4 de dano no seu PRA que é 4, ou seja o
+escudo foi quase destruído tendo agora IP 1 (6 PRA’s) já que a
+PRA do IP 2 foi zerada.
+Ex.2: Melder, O Mercador, é atacado por Luidg, um
+saquedor. No ataque, com uma Espada Longa, o saqueador
+causa 8 pontos de dano que são defendidos pelo escudo de
+Melder que possuí IP 2 (6 PRA’s), o escudo absorve 2 pontos
+de dano do ataque e sofre 6 de dano no seu PRA que é 6 , ou
+seja o escudo foi destruido e Melder saqueado.
+Porêm se o dano causado por Luidg fosse 8, o escudo
+seria destruído e o mercador tomaria os 2 pontos exedentes no
+braço em que portava o escudo.
+Utilizando a tabela
+A tabela é útil da seguinte maneira pegue o dano
+e diminua do IP, e o que exceder é diminuido dos PRA’s.
+Sabendo o valor final das PRA’s consulte a tabela para
+saber como está o IP do escudo.
+Ex: Na batalha travada entre dois feudos da
+Inglaterra, John e Fidgan, Comandantes dos lados oposto
+travam uma luta. John porta uma Espada Bastarda e um
+escudo enquanto Fidgan porta uma Montante. John ataca
+primeiro mais não acerta sue oponente, Fidgan por outro
+lado defere um golpe com sua Montante que é defendido
+pelo escudo de John. O escudo é de metal e concede IP 5
+(30 PRA’s) o dano causado pela espada foi de 15.
+Resultado: pega-se o dano e diminui do IP (15 - 5 = 10),
+10 é o que o escudo vai tomar em sua PRA (30 - 10 = 20)
+consultando o tabela veremos que o escudo não possui
+mais IP 5 e sim 4.
+Valores de Ataque no Escudo
+Normalmente, os escudos são dados pela fórmula
+0/X, mas não é impossível comprar valores de Ataque em
+escudo, para isso, assume-se que o personagem treinou
+manobras de ataque com o escudo também (usá-lo para
+bloquear um oponente, bater com ele na cara do adversário,
+etc...)
+O dano causado pelo impacto de um escudo é de
+1d3 (madeira) ou 1d3+1 (metal), mas o Personagem pode
+acrescentar espinhos/lâminas que podem elevar o dano
+desses ataques para 1d3+1d6 (espinhos pequenos) ou até
+mesmo 1d10 (lâmina afiada nas bordas). O dano segue a
+tabela abaixo:
+Pancada com o Escudo (madeira) 1d3 + bônus
+Pancada com o Escudo (metal) 1d3+1 + bônus
+Espinhos (1 a 4, pequenos) +1d3
+Espinhos (5 a 10, pequenos) +1d6
+Espinho (grande, central) +1d6
+Lâminas nas bordas 1d10
+1
+IP
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+PRA
+2
+6
+12
+20
+30
+42
+56
+72
+90
+110
+
+
+--- page 2 ---
+Manobras de Combate
+Arremesso (20)
+Seu Personagem pode arremessar o escudo à
+distância (até FR metros) com um teste de Ataque do escudo
+(mas ele NÃO vai ricochetear e voltar pra sua mão, a menos
+que você utilize o Poder de Fé: Arremesso de Arma que se
+encontra no Net-Book - Novos Poderes de Fé). O dano
+causado é de 1d6+bônus escudos comuns e 2d6+bônus os
+com lâminas nas bordas.
+Prensar (15)
+O personagem consegue prensar e imobilizar um
+oponente contra a parede. Caso o Personagem tenha vencido
+a iniciativa, o oponente perde o direito a um ataque.
+A vítima precisa fazer na rodada seguinte um teste
+de FR vs FR do dono do escudo para se libertar.
+Agradecimentos:
+Ao meu Pai e a minha Mãe que me botaram no mundo.
+Aos meus amigos do grupo de RPG (Fernando, Jeffersson,
+Jonathan, Thadeu, Gabriel, Gabriel e ao meu irmão Jainor)
+Ao Gizmo que escreveu a 1ª versão desse suplemento.
+Ao Del Debbio que desenvolveu o Sistema Daemon.
+2
+Junior_Jr
+junior_jr_rj@hotmail.com

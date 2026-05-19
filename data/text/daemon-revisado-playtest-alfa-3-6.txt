@@ -1,0 +1,1653 @@
+--- page 1 ---
+Daemon Revisado 
+Playteste Alpha v. 3.6
+Texto e desenvolvimento: Victor Gaigaia
+1
+
+
+--- page 2 ---
+INTRODUÇÃO
+Este é apenas um jogo. A realidade é muito pior. 
+Boas vindas ao playteste do Sistema Daemon revisado. Este documento tem foco em jogadores que já conhecem o
+sistema Daemon em suas versões anteriores, então as regras descritas aqui já pressupõem familiaridade do leitor. Nosso
+objetivo é analisar as bases da nova versão e, conforme avançar o playteste, novas regras poderão ser adicionadas. As
+regras de Poderes não foram adicionadas, então é solicitado que não usem a sessão de Poderes nos aprimoramentos.
+Ad Musas Vivenda
+Ad Aeternum Excelsae Pugnandas Pugnabunt
+Daemones Aeterne Muniunt Omnes Nummos
+2
+
+
+--- page 3 ---
+SUMÁRIO
+Introdução
+ 
+     
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Criação de Personagens
+ 
+        
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Kits de personagens
+ 
+               
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Perícias
+ 
+           
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Aprimoramentos
+ 
+       
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Equipamentos
+ 
+            
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Regras e Testes
+ 
+           
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Combate e Conflitos
+ 
+              
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Evolução
+ 
+         
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+  
+Ficha de personagem
+ 
+            
+ 
+             
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Anexo 1 – Lista de perícias
+ 
+                 
+ 
+             
+ 
+             
+ 
+             
+ 
+ 
+Anexo 2 – Lista de aprimoramentos
+ 
+            
+ 
+             
+ 
+             
+ 
+ 
+Versão 3.6, 13/06/2020:
+. Adicionado o método de criação de personagem baseado em Idade como opção.
+. Adicionado o método clássico de rolagem (d100 negativo) como uma opção.
+Mudanças na versão 3.5, 11 06 2020:
+. A rolagem foi alterada para dado positivo (1d100 + valor).
+. O valor percentual do atributo foi reduzido para x2, ao invés de x4. Contudo, esse valor é somado a todas as perícias
+(ao invés do valor base de x1)
+. Todos os testes se tornam Atributo x2 + Perícia + 1d100 vs Obstáculo.
+. Críticos foram alterados para rolagem igual no dado. Se os dois dados caírem iguais num sucesso, vira um sucesso
+crítico. Se foi uma falha, vira uma falha crítica.
+Mudanças principais da versão 3.1:
+. Adicionados os Kits de personagens e lista de aprimoramentos.
+. Atributos – bônus de dano por força começa agora a partir de 12, para ser mais fácil de calcular. Iniciativa é
+determinada por (AGI + PER)/2. Testes de atributo agora são Atributos x 5, para ser mais fácil de calcular.
+. Perícias – foram retiradas as especialidades (não se mostravam necessárias).
+. Aprimoramentos estão reunidos em listas comuns.
+. Testes – rola 1d100 e compara ao valor de teste. Menor ou igual é um sucesso. Em disputas, vê-se quem conseguiu
+maior resultado (sucesso crítico, sucesso, falha, falha crítica). Desempate feito com quem rolar número mais alto no
+d100. O crítico é agora 1/5 do valor de teste.
+. Combate – seguem a tradição da 1a e 2a edição. Atacante rola contra a perícia. Se tiver sucesso, ataque acertou. Uma
+pessoa pode resolver não atacar para usar a ação do turno para se defender de um ataque. A ordem de ação é
+determinada pelo valor fixo da iniciativa.
+. Adicionadas as manobras de combate e regras específicas – Ataque desesperado, ataque localizado, agarramento,
+cobertura, queda, dreno de atributo etc.
+. Proezas foram retiradas.
+. Na evolução foi adicionada a opção de daemon 1a e 2a edição – não usar pontos de experiência.
+. Adicionada uma ficha rascunho ao final do documento para servir de base.
+3
+
+
+--- page 4 ---
+CRIAÇÃO DE PERSONAGENS
+Passo 1: Campanha e Cenário 
+O grupo decide qual tipo de jogo pretende jogar, o que determina quantos pontos os personagens terão em sua criação.
+Campanhas realistas:
+. Personagens começam no nível 0
+. Atributos: Distribua os seguintes valores - 16/14/14/12/12/12/10/10.
+. Perícias: Escolha 3 grupos de perícias. Em cada um deles, distribua os valores 40/30/30/20.
+. Aprimoramentos: Personagens começam com 5 pontos de aprimoramento, podendo comprar até -3 pontos em
+aprimoramentos negativos.
+Campanhas heroicas: siga os parâmetros da campanha realista, mas os personagens começam com 10 pontos de poder
+para gastar em aprimoramentos sobrenaturais e poderes, com o máximo de nível 3 em qualquer um dos poderes.
+(Opção) Método de pontos livres: Em vez de usar os valores fixos, os jogadores podem distribuir 100 pontos entre os
+atributos (mínimo de 6 e máximo de 18) e 360 pontos entre as perícias. Esse método só deve ser feito caso o grupo
+disponha de tempo, sendo aconselhado o método de pontos fixos – especialmente com jogadores iniciantes.
+(Opção) Pontos por Idade: Em vez de usar valores pré-definidos para pontos de perícia e atributo, você pode usar os
+seguintes valores a depender da faixa etária do personagem, que você deve distribuir livremente:
+. Criança (até 11 anos): 70 de atributo, 150 de perícias
+. Adolescente (12 a 17 anos): 90 de atributo, 200 de perícia
+. Adulto jovem (: 105 de atributo, 300 de perícia
+. Adulto maduro (30 a 50 anos):  100 de atributo, 360 de perícias
+. Idoso: Atributos (51 a 70): 90 de atributo, 420 de perícias
+. Ancião: Atributo (mais de 70): 70 de atributo, 500 de perícias. 
+(Opção) Kits de personagens: ao invés de distribuir as perícias e escolher os aprimoramentos, os jogadores podem
+escolher kis de personagem. Eles são arquétipos pré-feitos, personagens prontos. São muito úteis para jogadores
+novatos e também para dar ideias e auxiliar no processo de criação. Um jogador por alterar os valores dos kits como
+preferir, trocando perícias por outras (usando o mesmo valor de pontos gastos) ou aprimoramentos (de mesmo custo em
+pontos). Veja a sessão Kits para alguns exemplos, o mestre é livre para criar seus próprios kits.
+Passo 2: Conceito
+Depois de decidir a campanha, agora o jogador deve pensar no personagem que quer jogar. Descreva em palavras
+simples o conceito do personagem. O que o personagem é? Qual a ideia central dele? Escreva numa frase algo que
+possa sumarizar seu personagem. Não precisa ser algo detalhado, pois ao longo do jogo a história do personagem se
+desenvolverá na narrativa.
+Investigador do sobrenatural com passado trágico.
+Guerreira de terras distantes, especialista do arco e espada.
+Jornalista em busca da verdade detrás dos fatos.
+Ex-militar aposentado à procura dos assassinos de seu sobrinho.
+Psicóloga exigente que não acredita em fantasmas.
+4
+
+
+--- page 5 ---
+Passo 3: Atributos
+São as capacidades inatas do personagem. Atributos têm um valor em pontos que costuma ir de 6 a 18 para humanos. 
+Atributos básicos
+Atributos são somados à perícia para determinar o Valor de Teste. Você soma Atributo x2 à perícia relevante.
+Força (FOR), capacidade muscular do corpo. Usado para determinar dano físico e os pontos de vida em conjunto com
+a Constituição. 
+Constituição (CON), energia vital, saúde e massa corporal. Usada para resistir a aflições físicas e determinas
+os pontos de vida junto com Força.
+Destreza (DES), precisão de movimentos, capacidade motora fina dos pés e das mãos. Serve de base para
+muitas perícias.
+Agilidade (AGI), equilíbrio, velocidade de reação e movimento do corpo. Serve de base para perícias atléticas
+e ajuda a determinar a iniciativa.
+Inteligência (INT), memória, raciocínio, lógica e aprendizado. Atributo chave para diversas perícias.
+Percepção (PER), quão atento e quão aguçados são os sentidos do personagem. Base para diversas perícias e
+ajuda a determinar a iniciativa.
+Vontade (VON), concentração, consciência e força psíquica. É o atributo usado para resistir a pressões
+mentais e danos psicológicos.
+Carisma (CAR), magnetismo pessoal, inteligência emotiva e presença. Atributo base para perícias sociais e
+ocasionalmente para determinar a sorte do personagem.
+Atributos derivados
+Pontos de vida (Pvs) são iguais à soma de Força e constituição e depois dividindo por dois - ([FOR+CON]/2)
+Iniciativa é igual ao seu valor de agilidade somada à percepção dividido por dois ([AGI + PER]/2), mas pode
+ser modificado por carga (veja na sessão equipamento).
+Bônus de dano físico: é determinado pelo seu valor de força: ([For – 10]/2), arredondado para baixo. 
+FOR
+1-2
+3-4
+5-6
+7-8
+9-11
+12-13
+14-15
+16-17
+18-19
+20-21
+Bônus
+-4
+-3
+-2
+-1
+0
++1
++2
++3
++4
++5
+Passo 4: Perícias
+Representam os conhecimentos adquiridos pelo personagem ao longo da vida. Personagens podem escolher as perícias
+a partir da lista no capítulo de perícias. Escolha 3 grupos de perícias. Em cada um deles, distribua os valores
+40/30/30/20.
+Passo 5: Aprimoramentos
+Personagens começam com 5 pontos de aprimoramentos, que são características extras que não se encaixam nem nas
+capacidades inatas dos atributos, nem no conhecimento adquirido por treino pelas perícias. Muitas vezes, representam
+influência, status social, recursos e outras características culturais. Também podem significar traços marcantes únicos,
+como talentos ou sentidos aguçados.
+5
+
+
+--- page 6 ---
+Aprimoramentos podem ser positivos ou negativos. Os negativos conferem mais pontos para o personagem comprar
+aprimoramentos positivos. De forma geral, não se pode começar o jogo com mais que -3 pontos em aprimoramentos
+negativos. 
+(Opção) Sem aprimoramentos – É possível usar o sistema Daemon sem precisar dos aprimoramentos. Nesse caso, os
+jogadores  podem  descrever  as  características  do personagem  e  usá-las  com  aval  do Mestre.  Por  exemplo, um
+personagem que seja um ex-guerrilheiro teria contatos e recursos, mesmo se não tiver os aprimoramentos específicos
+relacionados a isso. Essa opção é boa também para acelerar a criação de personagem e pode ser recomendada para
+jogadores novatos.
+Passo 6: Finalização e Extras
+Com a ficha pronta, os personagens já podem ser apresentados. A depender da campanha, o mestre pode permitir o uso
+de poderes e aprimoramentos sobrenaturais. 
+KITS DE PERSONAGEM
+KITS MEDIEVAIS
+Alquimista
+Perícias: Oculto (Alquimia 40, Ocultismo 30, Herbalismo 30, Sociedades secretas 20), Ciências (Medicina 40, História
+30, Geografia 30), Culturais (Barganha 30), Paramilitares (Prontidão 30), Línguas (escolha duas 20).
+Aprimoramentos: Contatos 1, Status 1, Recursos 1, Talento (Alquimia), Imunidade a venenos 1
+Arqueiro
+Perícias: Bélicas (Arco 40, Esquiva 30, Espada 20), Esporte (Escalada 30, Corrida 30), Paramilitares (Camuflagem 40,
+Furtividade 40, Prontidão 30, Sobrevivência 30, Rastreio 20, Montaria 20), Ciências (Herbalismo 30).
+Aprimoramentos: Saúde de ferro, Recursos 1, Talento (Sobrevivência), Atenção, Sentidos aguçados (Visão).
+Assassino
+Perícias:  Paramilitares (Furtividade 40, Venenos 40, Disfarce 40, Prontidão 30, Escapismo 30, Sobrevivência 20),
+Culturais (Lábia 30, Empatia 30), Bélicas (Faca 30, Espada 30, Arremesso 20, Esquiva 20)
+Aprimoramentos: Contatos 1, Status 1, Recursos 1, Atenção, Inocência 1
+Caçador de Recompensas
+Perícias:  Paramilitares (Furtividade 40, Manha 40, Prontidão 30, Interrogatório 30, Sobrevivência 30, Rastreio 30,
+Montaria 20), Bélicas (Espada 40, Arco 30, Briga 20), Ciência (História 30, Geografia 20).
+Aprimoramentos: Contatos 2, Recursos 1, Atenção 1, Sorte incrível 1.
+Cavaleiro
+Perícias: Paramilitares (Montaria 40, Interrogatório 30, Prontidão 30), Bélicas (Espada 40, Lança 30, Escudo 30, Briga
+20), Esporte (Corrida 30, Natação 20, Escalada 20), Culturais (Etiqueta 40, Intimidação 30), Ciências (Religião 30).
+Aprimoramentos: Duro de matar, Status 2, Recursos 2.
+Espião
+6
+
+
+--- page 7 ---
+Perícias: Paramilitares (Furtividade 40, Disfarce 40, Prontidão 30, Sobrevivência 20), Culturais (Lábia 30, Etiqueta 30,
+Empatia 30), Bélicas (Faca 30, Espada 30, Esquiva 20), Ciências (História 40, Religião 20).
+Aprimoramentos: Contatos 2, Recursos 1, Sorte Incrível 1, Inocência 1.
+Guarda-costas
+Perícias:  Paramilitares (Prontidão 40, Interrogatório 30, Burocracia 30, Sobrevivência 20, Montaria 20), Culturais
+(Etiqueta 30, Intimidação 30, Empatia 30), Bélicas ( Espada 40, Arco 30, Esquiva 20), Esportes (Corrida 40)
+Aprimoramentos: Contatos 1, Status 1, Recursos 1, Duro de Matar, Atenção.
+Guerreiro
+Perícias: Bélicas (Espada ou Machado 40, maça ou arco 30, escudo ou esquiva 30, briga 20), Esportes (Corrida 40,
+Escalada 30, Natação 30, Acrobacia 20), 
+Aprimoramentos: Saúde de Ferro, Duro de Matar, Atenção, Reflexos de combate, Status 1.
+Ladrão
+Perícias:  Esportes (Acrobacia 40, Escalada 30), Paramilitares  (Arrombamento 40, Furtividade 40, Armadilhas 30,
+Furto 30, Escapismo 30, Manha 20, Prontidão 20, Investigação 20), Bélicas (Esquiva 30, Faca 30).
+Aprimoramentos: Contatos 2, Recursos 1, Talento 2 (escolha 2: acrobacia, furtividade, arrombamento, armadilhas).
+Ladrão de tumbas
+Perícias: Paramilitares (Arrombamento 40, Furtividade 30, Armadilhas 30, Prontidão 20, Investigação 20), Ciências
+(Arquitetura 40, História 30, Geografia 30), Esportes (Escalada 40, Natação 30, Acrobacia 30), Bélicas (Arco 20).
+Aprimoramentos: Biblioteca 1, Contatos 1, Recursos 1, Talento (Arquitetura), Sono Pleno.
+Menestrel
+Perícias: Culturais (Música 40, Atuação 40, Etiqueta 30, Lábia 30, Sedução 30, Empatia 30), Paramilitares (Manha 40,
+Investigação 30, Prontidão 20, Furtividade 20), Esporte (Acrobacia 20), Línguas (Outra 30).
+Aprimoramentos: Status 2, Contatos 2, Talento (Música).
+Mercador
+Perícias: Culturais (Barganha 40, Artes 40, Empatia 30, Lábia 30, Etiqueta 20), Paramilitares (Avaliação 40, Burocracia
+30, Falsificação 30, Manha 20), Ciências (Geografia 30, História 30), Língua (outra 20)
+Aprimoramentos: Recursos 2, Contatos 1, Certificação 1, Biblioteca 1.
+Padre
+Perícias: Culturais (Empatia 40, Lábia 30, Etiqueta 30, Intimidação 20), Ciências (Religião 40, História 30, Geografia
+20), Línguas (Latim 30, Outra 20), Paramilitares (Burocracia 40, Prontidão 20), Ocultas (Ocultismo 30).
+Aprimoramentos: Status 2, Contatos 1, Recursos 1, Certificação 1.
+Patrulheiro
+Perícias: Bélicas (Arco 40), Esporte (Escalada 30, Corrida 30, Natação 20), Paramilitares (Rastreio 40, Camuflagem
+40, Trato com animais 30,  Explorar 30, Sobrevivência 30, Montaria 20, Prontidão 20), Ciências (Herbalismo 30).
+Aprimoramentos: Talento (Rastreio), Sono Pleno, Saúde de Ferro, Familiar 1, Atenção.
+KITS MODERNOS
+Advogado
+Perícias: Ciências (Direito 40, Filosofia 30, Psicologia 30, História 20); Culturais (Lábia 40, Diplomacia 30, Empatia
+30, Barganha 20); Paramilitares (Criminologia 40, Investigação 30, Burocracia 30, Prontidão 20)
+7
+
+
+--- page 8 ---
+Aprimoramentos: Contatos 1, Certificação 2, Recursos 2
+Antiquário
+Perícias:  Ciências (História 40, Arqueologia 30, Direito 30, Antropologia 20), Culturais (Artes 40, Barganha 30,
+Empatia 30, Lábia 20), Paramilitares (Avaliação 40, Falsificação 30, Investigação 30, Prontidão 20)
+Aprimoramentos: Biblioteca 2, Recursos 2, Sábio (escolha 1: História, Avaliação ou Artes)
+Arqueólogo
+Perícias: Ciências (Arqueologia 40, Antropologia 30, História 30, Geografia 20), Culturais (Artes 40, Diplomacia 30,
+Lábia 30, Empatia 20), Paramilitares (Falsificação 40, Avaliação 30, Investigação 30, Prontidão 20)
+Aprimoramentos: Contatos 1, Status 1, Recursos 2, Certificação 1.
+Ator
+Perícias: Culturais x2 (Atuação 40, Artes 40,  Lábia 30, Empatia 30, Etiqueta 30, Maquiagem 30, Intimidação 20,
+Diplomacia 20), Ciências (Filosofia 40, História 30, Antropologia 30, Geografia 20)
+Aprimoramentos: Contato 2, Status 1, Certificação 1, Talento – Atuação.
+Artista de circo
+Perícias: Esportes (Acrobacia 40, Escalada 30, Específica [Malabarismo, Contorcionismo ou outra] 30, Natação 20),
+Paramilitares (Escapismo 40, Prontidão 30, Manha 30, Furtividade 20), Culturais (Atuação 40, Lábia 30, Dança 30,
+Empatia 20).
+Aprimoramentos: Contatos 2, Talento 2 (Acrobacia, Atuação), Status 1.
+Artista marcial
+Perícias: Bélicas (Artes marciais 40, Esquiva 30, Arma branca [escolha uma] 30, Arma de alcance [escolha uma] 20),
+Esportes (Acrobacia 40, Escalada 30, Corrida 30, Natação 20), Paramilitares (Prontidão 40, Furtividade 30), Extras
+(Meditação 30, Intimidação 20).
+Aprimoramentos: Bruto, Atenção, Duro de Matar, Alvo Elusivo, Surto de Adrenalina.
+Criminoso
+Ladrão gatuno
+Perícias: Esportes (Acrobacia 40, Escalada 30, Corrida 30, Natação 20), Paramilitares (Arrombamento 40, Furtividade
+40, Armadilhas 30, Furto 30, Escapismo 30, Manha 30, Prontidão 20, Falsificação 20)
+Aprimoramentos: Contatos 2, Recursos 1, Talento 2 (escolha 2: acrobacia, furtividade, arrombamento, armadilhas).
+Contrabandista
+Perícias: Bélicas (Pistola 40, Esquiva 30, Briga 20), Culturais (Intimidação 40, Barganha 30, Empatia 30, Lábia 20),
+Paramilitares (Manha 40, Criminologia 30, Interrogatório 30, Prontidão 20), Outras (Avaliação 30)
+Aprimoramentos: Armas de fogo 1, Contatos 2, Recursos 2.
+Detetive particular
+Perícias:  Bélicas  (Pistola  40,  Esquiva  20),  Culturais  (Lábia  40,  Empatia  30,  Intimidação  30),  Paramilitares
+(Investigação 40, Criminologia 30, Manha 30, Interrogatório 30, Burocracia 30, Prontidão 20), Tecnológicas (Direção
+20)
+Aprimoramentos: Armas de fogo 1, Contatos 1, Recursos 1, Status 1, Certificação 1.
+Explorador
+Perícias:  Paramilitares (Explorar 40, Sobrevivência 30), Esportes (Escalada 30, Natação 30, Corrida 20), Bélicas
+(Pistola 40, Rifle 30, Faca 30, Briga 20), Ciências (Geografia 40, História 30), Línguas (escolha uma 20)
+Aprimoramentos: Saúde de Ferro, Recursos 2, Contatos 1, Status 1.
+8
+
+
+--- page 9 ---
+Hacker
+Perícias: Tecnológicas (Hacker 40, Programação 30, Computação 30, Eletrônica 20), Ciências (Direito 30, Engenharia
+30), Paramilitares (Investigação 40, Manha 30, Criminologia 30, Burocracia 20, Prontidão 20).
+Aprimoramentos: Talento 2 (escolha 2: Hacker, programação, computação, eletrônica), Recursos 1, Contatos 1, Senso
+Numérico.
+Investigador da Polícia
+Perícias:  Paramilitares  (Criminologia  40,  Investigação  40,  Arrombamento  30,  Prontidão  30,  Interrogatório  30,
+Burocracia 30, Furtividade 20, Manha 20), Bélicas (Pistola 40, Esquiva 30, Briga 30, Faca 20).
+Aprimoramentos: Certificação 2, Armas de Fogo 1, Recursos 1, Contatos 1.
+Jornalista
+Perícias: Paramilitares (Investigação 40, Prontidão 30, Burocracia 30, Manha 30, Furtividade 20), Culturais (Lábia 40,
+Empatia 30), Ciências (Jornalismo 40, História 30, Direito 30), Tecnológicas (Computação 20), Línguas (outra 20)
+Aprimoramentos: Certificação 1, Contatos 2, Status 1, Recursos 1
+Médico
+Perícias: Ciência (Medicina 40, Cirurgia 40, Biologia 40, Química 30, Filosofia 20), Culturais (Empatia 30, Etiqueta
+30, Lábia 20), Paramilitares (Burocracia 30, Investigação 30, Prontidão 20), Língua (Outra 30)
+Aprimoramentos: Recursos 2, Contatos 1, Status 2.
+Mercenário
+Perícias: Bélicas (Pistola 40, Rifle ou fuzil 30, Explosivos 30, Artes marciais ou Briga 30), Paramilitares (Camuflagem
+40, Sobrevivência 40, Explorar 30,  Interrogatório 30, Prontidão 20), Culturais (Intimidar 30), Esportes (Natação 20)
+Aprimoramentos: Saúde de Ferro, Duro de Matar, Contatos 2, Armas de Fogo 1.
+Missionário
+Perícias: Culturais (Empatia 40, Lábia 30, Etiqueta 30), Ciências (Religião 40, História 30, Filosofia 30, Geografia 20),
+Línguas (Outra 20), Paramilitares (Burocracia 40, Prontidão 20, Sobrevivência 20), Ocultas (Ocultismo 30).
+Aprimoramentos: Status 1, Recursos 1, Contatos 2, Sono Pleno.
+Parapsicólogo
+Perícias: Ciências (Psicologia 40, História 30, Antropologia 30, Filosofia 20), Ocultas (Parapsicologia 40, Ocultismo
+30, Astrologia 20), Paramilitares (Investigação 40, Prontidão 20), Culturais (Empatia 30, Lábia 30)
+Aprimoramentos: Status 1, Contatos 1, Recursos 1, Biblioteca 1, Sábio (Parapsicologia)
+Prostituta/Gigolô
+Perícias: Culturais (Sedução 40, Empatia 40, Lábia 30, Dança 30, Atuação 30, Maquiagem 30), Bélicas (Esquiva 30,
+Faca 20), Paramilitares (Manha 40, Investigação 30, Prontidão 20), Esportes (Corrida 20).
+Aprimoramentos: Contatos 1, Talento 3 (Sedução, Manha e Empatia), Sedutor.
+PERÍCIAS
+Todo o personagem tem capacidades que vão para além das suas qualidades inatas e físicas. Estas capacidades são
+representadas  por  perícias  –  os  conhecimentos,  treinamentos  e  especializações  que  ele  fez  ao  longo  da  vida.
+Personagens começam com 360 pontos de perícia, sendo distribuídos em valores fechados ou abertos a depender do tipo
+de criação de personagens.
+9
+
+
+--- page 10 ---
+Os pontos gastos numa perícia indicam o nível de perícia, esse valor deve ser somado ao valor dobrado do atributo
+relacionado. A soma do atributo dobrado mais a perícia determina o valor de teste que é usado para os testes e conflitos
+do sistema (veja mais na sessão Regras e Testes).
+Nível de Perícia 
+01 a 10 Curioso, já ouviu falar sobre o assunto.
+11 a 20 Novato, teve um treinamento básico.
+21 a 30 Praticante, usa a perícia diariamente
+31 a 40 Profissional, trabalha e ganha seu sustento com a perícia.
+41 a 50 Elite, um profissional altamente qualificado.
+51 a 60 Mestre, um dos melhores na área.
+61 a 75 Grão-mestre, normalmente o nível máximo que humanos conseguem alcançar
+76 a 100 Iluminado, o máximo em pontos que alguém pode gastar em perícia (100 pontos).
+Além do nível humano – Estes valores indicam um nível de treinamento e conhecimento humanos. Porém, criaturas
+sobrenaturais, seres alienígenas e entidades superpoderosas podem ter valores que muito ultrapassam a capacidade
+humana. Um nível de perícia sobrenatural, junto a atributos altíssimos, confere valores de teste impressionantes.
+Valor de Teste (Atributo + Nível de Perícia)
+12
+Valor médio de um humano sem treinamento.
+30
+Valor médio de um humano razoavelmente competente.
+50
+Profissional qualificado.
+75
+Mestre na área.
+100
+O limite humano, beirando o impossível.
+120
+Heróis de filmes de ação.
+150
+Criaturas mitológicas, heróis das lendas.
+200+
+Super-heróis, Aliens, e seres muito acima do patamar humano
+Grupos e Subgrupos
+As perícias são separadas em conjuntos semelhantes: grupos e subgrupos. Grupos representam áreas grandes de
+treinamento e conhecimento relacionados, enquanto que subgrupos são divisões desses grupos maiores. Todo grupo tem
+um atributo básico atrelado, que é usado em todas as perícias dos subgrupos. Quando uma perícia específica usar um
+atributo diferente, ela irá mostrar em sua descrição.
+Perícias Limite
+Em alguns cenários e situações especiais, o nível máximo que o personagem pode ter em uma perícia é determinada por
+outra. Por exemplo, em cenários futuristas onde há pilotagem de robôs gigantes (mechas), o personagem teria a perícia
+Operar Mecha, e seu valor de teste nela determinaria o valor de teste máximo que ele poderia ter em todas as perícias
+enquanto estiver num mecha. Assim, alguém que tenha valor 45 em Operar Mecha e 56 em Artilharia, só poderia ter
+Artilharia 45 enquanto estiver num mecha.
+O Mestre é livre para criar novas perícias limite em seus cenários, e isso normalmente se aplica em situações onde o
+personagem deve manipular, operar ou controlar um equipamento que serve de plataforma para suas habilidades.
+Alguns exemplos:
+Operar Mecha - é a habilidade de pilotar um robô, limitando os valores das perícias Esportivas e Bélicas.
+Decker – é a habilidade de usar um deck, um computador de ficção científica especializado em hackear
+sistemas. O nível em decker determina o limite das perícias de Informática do personagem.
+Controle Astral – em campanhas onde viagens astrais são comuns, essa perícia determina quão bem formado
+é o corpo astral do personagem, limitando todas as suas perícias bélicas e esportivas no mundo astral.
+10
+
+
+--- page 11 ---
+Lista de Perícias
+A lista abaixo contém as principais perícias encontráveis nos principais cenários que seu grupo possa jogar.
+Contudo, a lista de possibilidades é infinita. Perícias como Maquiagem, Hotelaria, Forja, Análise de Inteligência,
+Contabilidade – tudo isso é possível, e muito mais. Você pode adicionar ou adaptar perícias ao jogo que quiserem jogar.
+Grupo (Atributo Básico)
+Subgrupo I: Descição
+Perícia I, Perícia II, Perícia III etc.
+Subgrupo II: Descrição
+Perícia I, Perícia II, Perícia III etc.
+Esportivas (AGI)
+Atletismo: Os feitos clássicos relacionados às capacidades atléticas.
+Escalada, Corrida, Acrobacia, Natação.
+De forma geral, a velocidade de um personagem é determinada pelo seu valor de AGI. Quanto maior a AGI,
+mais rápido o personagem é. Testes de corrida são feitos somente para grandes distâncias e perseguições, representando
+quanto tempo o personagem consegue aguentar uma marcha acelerada. Um personagem que tenha pelo menos 10% em
+natação sabe boiar, e 20% já permite que ele nade normalmente. Testes de natação são feitos somente em situações
+extremas (mar aberto, tempestade, corridas etc.).
+Específicos - Nesse subgrupo entram os diversos esportes que existem. 
+Basquete, Futebol, Skate, Surf.
+Devido à proximidade com Atletismo, com a permissão do Mestre, um jogador com um esporte específico
+pode usá-lo no lugar de qualquer outra de Atletismo aumentando a dificuldade do teste em 1.
+Bélicas (DES)
+Armas Brancas – Armas corpo a corpo arcaicas. 
+Escudo, Espada, Machado, Maça/Martelo, Armas de Haste, Corrente/Laço
+Armas à Distância – Armas arcaicas de ataque à distância.
+Arco, Arremesso, Bestas, Dardos.
+Armas de Fogo – Armas mecânicas de ataque à distância modernas.
+Artilharia, Pistolas, Submetralhadoras, Metralhadoras, Escopetas, Fuzis, Rifles.
+Desarmadas – Técnicas de combate usando somente o corpo.
+Artes marciais (AGI/DES), Briga (FOR/DES), Esquiva (AGI).
+A perícia Artes Marciais usa o melhor valor entre AGI e DES. A perícia Briga usa o melhor valor entre FOR e
+DES. A perícia esquiva pode ser usada para esquivar de qualquer ataque, a menos que o mestre não permita algum
+(como armas de fogo).
+Científicas (INT)
+Biológicas – Área ligada aos conhecimentos sobre a vida, corpo e cura.
+Biologia, Educação Física, Fisioterapia, Medicina, Odontologia, Veterinária.
+11
+
+
+--- page 12 ---
+Exatas – Área dos conhecimentos tidos como exatos, matemáticos e lógicos.
+Arquitetura, Engenharias, Física, Geologia, Matemática, Química.
+Humanas – Área dos conhecimentos tidos como humanos, sociais e inter-relacionais.
+Filosofia, Geografia, História, Linguística, Sociologia.
+Culturais (CAR)
+Artísticas – Representam a prática das habilidades consideradas artísticas. 
+Artes (INT), Artesanato (DES), Culinária (PER), Dança (AGI), Desenho (DES), Música (PER), Literatura (INT).
+Artes representa um conhecimento geral do cenário artístico da sociedade.
+Sociais –  São  as  capacidades  interacionais  do  personagem  e  suas  estratégias  de  manipulação,  dissimulação  e
+convencimento.
+Barganha, Diplomacia, Empatia, Etiqueta, Intimidação, Lábia, Liderança, Farrear, Sedução.
+Empatia é a perícia principal ligada a compreender os sentimentos próprios e dos outros, sendo usada para
+resistir tentativas de manipulação (intimidação, sedução, lábia, diplomacia).
+Jogos – As áreas de jogos, variando desde os jogos eletrônicos (PC, Consoles etc.), tradicionais (RPG, Cartas,
+Tabuleiro) até jogos de azar (poker, jogos de dados etc.).
+Eletrônicos (DES), Tradicionais (INT), de Azar.
+Ocultas (INT)
+Esotérica – Indicam habilidades ocultas ligadas à magia e sobrenatural.
+Rituais, Teoria Mágica, Alquimia, Divinação (PER), Meditação (VON).
+Misticismo – Indica área de conhecimento sobrenatural. Variam muito de cenário a cenário, e o Mestre deve permitir
+novas áreas diferentes a depender o mundo de jogo.
+Astrologia, Criaturas sobrenaturais, Sociedades Secretas, Planos Astrais, Ocultismo, Conhecimento alienígena.
+Paramilitares (PER)
+Ladinagem – São perícias ligadas a atos ilícitos.
+Armadilhas, Arrombamento (DES), Falsificação (INT), Furtividade (AGI), Furto (DES), Escapismo (AGI), Manha
+(CAR)
+Criminais – São as perícias ligadas a conhecimentos restritos na maioria das sociedades, tanto ligados ao crime como
+ao combate ao crime e também ao treinamento militar.
+Avaliação (INT), Burocracia (INT), Criminologia (INT), Interrogatório (INT), Investigação (INT), Tática (INT),
+Tortura (INT).
+Avaliação pode ser usada para determinar o valor e autenticidade de uma obra, e é preciso que o personagem
+tenha conhecimento na área avaliada (o que significa normalmente ter pelo menos nível 10 em alguma perícia relevante
+científica, artística ou tecnológica). Manha indica a capacidade de conseguir informação através de conversas com a
+população de uma determinada área.
+Interrogatório é a forma de fazer perguntas para que depoimentos se contradigam. Portanto, empatia não pode
+ser usada para resistir a um interrogatório – apenas Prontidão ou Criminologia pode ser usada para disputar.
+Rupestres – São as perícias que lidam com o mundo natural.
+12
+
+
+--- page 13 ---
+Prontidão, Sobrevivência, Camuflagem, Exploração, Trato com animais (CAR), Montaria (AGI), Rastrear, Agricultura
+(INT).
+Prontidão é a perícia básica para perceber algo passivamente e é usada em disputas contra Furtividade e Furto.
+Camuflagem indica se mesclar num meio, podendo se esconder até mesmo em plena vista, mas precisa que o
+personagem fique estático e consiga ter tempo para preparar roupagem específica – o Mestre determina os detalhes.
+Exploração é a perícia de investigação usada para grandes áreas, normalmente desconhecidas, e também permite criar
+um mapa rudimentar da região conforme ela é desvendada.
+Tecnológicas (INT)
+Informática – São os conhecimentos ligados aos computadores.
+Computação, Hackear, Programação, Eletrônica
+Computação é a perícia para uso geral dos programas de um computador, representando os conhecimentos
+ligados à navegação da internet, sites e programas gerais de edição (de imagens, vídeos etc.). Hackear é a perícia que
+engloba técnicas de invadir sistemas e danificá-los. Programação é a capacidade de criar programas de computador e
+inteligência artificial. Eletrônica é a perícia usada para a construção da parte física dos computadores (e também
+sistemas inteligentes, como smart TVs, smartphones etc.).
+Mecânica – Conhecimentos ligados ao uso de mecanismos e aparelhos de forma geral.
+Invenção, Máquinas pequenas, Máquinas grandes.
+Invenção é a capacidade de criar novas máquinas. É um processo que costuma levar muito tempo e dinheiro,
+sendo  necessário  também  conhecimentos  específicos  de  perícias  Científicas.  Máquinas  pequenas  representa  o
+conhecimento de operar e consertar mecanismos de uso particular, como relógios e eletrodomésticos. Máquinas grandes
+representa o conhecimento de operar e consertar mecanismos grandes, normalmente da área industrial. É importante
+notar que as perícias são relativas ao nível tecnológico da campanha – um inventor renascentista que tenha invenção e
+máquinas pequenas não saberá inventar nem utilizar máquinas atuais (e vice-versa). Em campanhas com personagens
+de tempos diferentes, é importante distinguir as perícias. Assim, haveria Máquinas Pequenas (Renascença) e Máquinas
+Pequenas (Séc. XXI). 
+Direção – Perícias ligadas à operação de veículos.
+Condução (DES), Pilotar (DES), Navegar (PER).
+Condução é usada para veículos terrestres, Pilotar para aviões e Navegar para navios. Veículos especiais e
+incomuns, como caminhões monstro, tanques, naves espaciais, lanchas, submarinos e similares, podem exigir que o
+personagem tenha especialidade na perícia ou um antecedente na história dele que o permita usar esses veículos (cabe
+ao Mestre decidir isso).
+Línguas (especial)
+O conhecimento de línguas custa 10 pontos para conhecer os rudimentos da língua, e 20 para ser capaz de falar e
+escrever (caso a língua tenha escrita) com competência. Com 30, considera-se que você tem um conhecimento
+profundo, inclusive conhecendo as variações regionais. Todos os personagens começam com sua língua nativa em 30.
+APRIMORAMENTOS
+São capacidades únicas do personagem que vão além de seus conhecimentos e habilidades. Se dividem em positivos
+(dando benefícios ao personagem) e negativos (conferindo penalidades). Pessoas comuns costumam ter um valor
+equilibrado em aprimoramentos, beirando 0 pontos entre positivos e negativos. Personagens jogadores, que representam
+os protagonistas e heróis da história, começam com 5 pontos positivos para distribuir e podendo ganhar até -3 pontos
+extras em negativos para poder comprar mais positivos.
+13
+
+
+--- page 14 ---
+APRIMORAMENTOS POSITIVOS
+Aprimoramentos com * indicam aqueles de origem sobrenatural e que podem ou não ser permitidos, dependendo da
+decisão do mestre.
+Influência e recursos – aprimoramentos ligados a posses do personagem ou sua influência na sociedade.
+Armas de fogo (1 a 3): o personagem tem acesso e licença para carregar armas. Por 1 ponto são armas de
+pequeno calibre (pistolas, revólveres) e semiautomáticas. Por 2 pontos, armamento militar (kevlar e metralhadoras). Por
+3 pontos, ele também tem acesso a granadas e explosivos.
+Biblioteca  (1 a 4): o personagem tem acesso a um acervo de pesquisa único. Ele pode ser tanto físico quando
+eletrônico, como também uma ordem secreta ou uma combinação de tudo isso. Quando o personagem se recolhe para
+pesquisar em sua biblioteca, reduza as dificuldades do teste em 1 para cada nível neste aprimoramento (dificuldades
+abaixo de Fácil são consideradas sucessos automáticos). Caso o personagem não tenha a perícia relevante para o objeto
+pesquisado, considere que o valor de teste é 25% para cada nível em biblioteca (até 100% com biblioteca 4). 
+Contatos (1 a 5): o personagem tem uma rede de conhecidos  com influência capaz de oferecer auxílio. Por 1
+ponto, os aliados são em escala local. Por 2 pontos, eles são em escala regional. Por 3 pontos, a escala é nacional – todo
+um país. Por 4 pontos, a escala é continental. Por 5 pontos, a escala é mundial. Para cada nível, o personagem pode
+nomear 1 npc importante, representando um dos principais contatos seus.
+Certificação (1 a 5): seu personagem tem acesso a regalias e livre-passagem em diversas situações. Por 1
+ponto, é acesso da imprensa, capacidade de entrar em eventos por passe de jornalismo. Por 2 pontos, é acesso jurídico, o
+acesso de advogados. Por 3 pontos, é imunidade legal em escala nacional – o caso de políticos. Por 4 pontos, é
+imunidade diplomática, em escala internacional, o caso de presidentes e embaixadores. Por 5 pontos, seu personagem
+tem licença para matar; esse nível é o equivalente aos espiões de filmes, onde o personagem pode agir como quiser que
+todo o aparato legal de um país poderoso tentará protegê-lo.
+*Guardião de um artefato importante (3):  O Personagem foi designado como guardião de um item de
+grande valor. Esse Aprimoramento pode ser menos vantajoso e mais daninho: objetos poderosos atraem a atenção de
+seres poderosos. Cabe ao Mestre escolher qual artefato seu Personagem possui e as razões dele estar com esse
+personagem. ESTE APRIMORAMENTO NÃO DEVE SER USADO LEVIANAMENTE. 
+Recursos (1 a 5): imóveis e dinheiro. Com 1 ponto, você é equivalente a classe média alta. Com 2, você é rico.
+Com 3, você é milionário. Com 4, você é multimilionário. Com 5, você é uma das dez pessoas mais ricas do mundo.
+Status (1 a 5): você é reconhecido, respeitado ou mesmo temido. 1 ponto você é reconhecido localmente. 2,
+em uma região. 3, em uma nação. 4, em um continente. 5, no mundo inteiro.
+Capacidades naturais – indicam diversos aprimoramentos ligados a uma capacidade físicas melhorada.
+Ambidestria (1): O personagem é capaz de usar habilmente tanto o lado esquerdo quanto direito do corpo, não
+tendo penalidade de mão ou pé inábil. Normalmente, usar a parte inábil do corpo incorre num aumento em 1 da
+dificuldade dos testes. Ambidestria não confere ações extras ou ataques extras.
+Alvo elusivo (1):  O Personagem, quando em combate corpo-a-corpo, consegue usar seus oponentes como
+cobertura, bloqueando e atrapalhando os ataques de outros inimigos. Sempre que estiver enfrentando mais de um
+oponente ao mesmo tempo, o Personagem é capaz de se posicionar de modo a atrapalhar os ataques dos outros
+inimigos. Cada um dos oponentes recebe uma penalidade de -10% em ataque. Não pode ser usado contra armas de
+combate à distância.
+Atenção (1): o Personagem não pode ser pego de surpresa. Ele está sempre preparado pra qualquer emboscada
+e nunca perde o direito de fazer um teste de defesa quando é atacado, mesmo se for um ataque surpresa de seus
+oponentes. 
+Bom senso (1): toda vez que o personagem com bom senso for fazer algo estúpido, o mestre pode dizer que é
+uma burrice. Além disso, bom senso reduz a dificuldade de testes de inteligência para se lembrar de coisas óbvias que o
+personagem esteja esquecendo, como lembrar de levar a lanterna para uma exploração ou uma picareta para uma
+caverna.
+Bruto (1):  seu Personagem é bruto e consegue resistir melhor a qualquer tipo de dano físico. Considere que
+ele tenha IP 1 contra-ataques cinéticos e balísticos. 
+Duro de Matar (1): seu personagem tem +3 pvs. Além disso, reduza em 1 a dificuldade dos testes para se
+manter consciente ou para resistir à dor.
+Inocência (1 ou 2):  o Personagem tem uma habilidade quase sobrenatural de passar a impressão de ser
+inocente em qualquer acusação sem testemunhas. Ele consegue facilmente arrumar álibis, provar que “comprou aquela
+bolsa na feira local” ou que outra pessoa arrombou a porta. Com 2 pontos, esse aprimoramento é considerado
+sobrenatural e funciona da mesma maneira que a anterior, mas desta vez até mesmo uma testemunha pode se convencer
+14
+
+
+--- page 15 ---
+de que se enganou ao acusar o Personagem (para isso, deve passar em um teste de Lábia). Ele ainda aumenta em 1 a
+dificuldade de todos os testes de Interrogatório/Tortura. 
+Imunidade a Venenos (1 a 3): o personagem têm grande resistência natural a venenos. Por 1 ponto, testes para
+resisti-los são feito com 1 de dificuldade a menos. A partir do 2 o nível, esse aprimoramento é considerado sobrenatural.
+Por 2 pontos, o personagem é imune a venenos naturais, e reduz em 1D os venenos mágicos e artificiais. Por 3 pontos,
+ele é imune a todo tipo de veneno.
+Reflexos de combate (1): seu personagem tem um reflexo apurado e treinado para reações rápidas. Ele recebe
++3 em iniciativa e pode sacar sua arma em combate sem precisar perder seu turno para isso.
+Sábio/Talento (1): escolha uma perícia do grupo de Ciências ou do subgrupo Artes. Seu personagem é um
+reconhecido no assunto, além de reduzir em 1 a dificuldade dos testes.
+Saúde de ferro (1): Personagem recupera 50% a mais de pontos de vida (arredondado para cima) por dia.
+Além disso, ele é imune a doenças comuns.
+Sedutor (1): o personagem exerce uma sedução natural nas pessoas, mesmo àquelas que normalmente não se
+sentiriam atraída por ele. Isso permite que faça testes de sedução mais vezes ou em situações onde normalmente não
+seria possível.
+Senso de direção (1 ou 2): 1 ponto: seu Personagem sabe se orientar, mesmo sem bases visuais — ele não
+precisa de bússola, do Sol, estrelas ou outros pontos de referência para saber onde ficam os pontos cardeais. Sempre
+será capaz de lembrar-se de um caminho que tenha percorrido.  2 pontos: O mesmo que a habilidade acima, mas
+funciona em importa em que plano de existência o Personagem esteja. Nesse nível, o aprimoramento conta como
+sobrenatural.
+Senso numérico (1): o personagem é capaz de contar grandes quantidades de objetos, com precisão, além de
+fazer contas complexas em segundos. Além dos benefícios de ser uma calculadora ambulantes, testes relacionados a
+contas e aplicações de fórmulas matemáticas têm dificuldade reduzida em 1.
+Sentidos Aguçados (1 ou 2): um dos sentidos do personagem é mais aguçado do que o normal. Testes
+relacionados a esse sentido tem dificuldade reduzida em 1. Por 2 pontos, todos os seus sentidos são aguçados.
+Sono pleno (1): o personagem é capaz de dormir em qualquer lugar. Também só precisa dormir 4 horas por
+dia. Em termos gerais, ele sempre recupera pontos de vida mesmo caso tenha tido uma noite conturbada.
+Sorte incrível (1 a 3): Por 1 ponto, o personagem pode refazer um rolamento que tenha feito 1 vez por sessão.
+Por 2 pontos, pode refazer um rolamento a cada hora de sessão (hora de jogo real, não dentro do mundo de ficção). Por
+3 pontos, pode refazer 1 rolamento a cada 30 minutos.
+Surto de Adrenalina (1 a 3): O personagem pode ser tomado por um arrobo de capacidade física. Por 1 ponto,
+ele pode uma vez por sessão transformar uma rolagem num teste físico (seja de ataque, perícias esportivas ou testes de
+atributo) em um sucesso simples automático. Por 2 pontos, a cada 1 hora de sessão de jogo, ele pode transformar uma
+rolagem. Por 3 pontos, a cada 30 minutos de sessão ele pode transformar 1 rolagem.
+Visão noturna (1): o Personagem consegue enxergar muito bem à noite, não sofrendo nenhuma penalidade
+por escuridão, desde que haja um mínimo de luz (a luz da lua já é suficiente). Não funciona em escuridão completa
+(cavernas e túneis). 
+*Capacidades sobrenaturais – ligados ao espírito e forças inatas ao personagem
+Afinidade com magia (1): Seu personagem tem afinidade a um dos caminhos da magia. Recebe 1D de
+proteção contra esse caminho e pode realizar efeitos sutis (magia de focus 1) sem custo em Pms. Contudo, magias do
+caminho oposto contam como se fosse +1 nível de efeito acima contra ele. 
+Alma Pura (2): O personagem tem um código de conduta que mantém sua alma limpa. Nenhum demônio é
+capaz de chegar perto do personagem, nem tocá-lo ou atacá-lo enquanto alma se mantiver limpa. Ele pode ficar
+próximo e dialogar, mas não atacar. Caso personagem quebre o código de conduta, precisará limpar a alma, que ficará
+suja por pelo menos 1 semana e 1 dia. Magias demoníacas sofrem um redutor de 4D de efeito enquanto a alma do
+personagem estiver limpa.
+Canalizador (1 a 3): o mago pode trocar sua energia vital por pontos de magia. Por 1 ponto, ele pode trocar 4
+pvs por 1 pm. Por 2 pontos, ele troca 2 pvs por 1 pm. Por 3 pontos, pode trocar 1 pv por 1 pm.
+Capaz de enxergar auras  (1  ou  2): com  alguma  concentração  (e teste  fácil  da perícia  prontidão)  o
+personagem pode sentir a aura de uma pessoa, detectando seu estado de espírito. Por 2 pontos, o personagem é capaz de
+ver detalhes na aura, podendo analisar suas mudanças ao longo do tempo e como a pessoa tem passado, incluindo
+contato com seres sobrenaturais.
+Comunicação em sonhos (1 a 3): o personagem é capaz de fazer comunicação por sonhos. Por 1 ponto, é
+capaz de dar mensagens curtas e crípticas. Por 2 pontos, a comunicação é completa, apesar de o destinatário lembrar
+apenas por metáforas e com detalhes faltando. Por 3 pontos, a comunicação é perfeita e lembrada pelo destinatário.
+Conhecimentos arcanos (1 a 2): o personagem tem acesso a conhecimentos divinatórios – tarot, i-ching,
+búzios etc. Uma vez por sessão de jogo, ele pode fazer uma pergunta e conseguir até 3 respostas de Sim, Não ou
+Irrelevante. Por 2 pontos, ele terá respostas mais completas, apesar de metafórica e aberta a interpretação.
+15
+
+
+--- page 16 ---
+Conjuração (4):  Com este Aprimoramento, o anjo possui o conhecimento sobre a Forma-Pensamento e a
+capacidade de canalizar essa energia para os planos físicos. Com um Teste de Percepção, é capaz de tatear o mundo
+espiritual em busca de algum objeto e materializá-lo onde estiver. O Teste é Fácil para objetos pequenos (moedas, lápis,
+papel, coisas de uso cotidiano); Normal para objetos pequenos mas exóticos (jóias, armas, peças de roupa) ou com mais
+de 30cm; e Difícil para objetos únicos (a chave de uma porta, um documento específico, um objeto personalizado) ou
+feitos de qualquer tipo de metal ferroso. Os objetos conjurados dissolvem-se em Forma-Pensamento novamente em 3d6
+rodada 
+Detecção de magia (1 a 3): com um sucesso em um teste de percepção, o personagem pode sentir a presença
+de resíduos mágicos. Por 2 pontos, ele consegue seguir o rastro de resíduos próximos. Por 3 pontos, ele pode rastrear
+magia como se fossem rastros normais.
+Resistência a magia  (1 a 3): cada nível reduz em 1D as magias lançadas contra o personagem. Repare que
+magias lançadas pelo personagem também sofrem a mesma penalidade.
+Sensitivo (1): 1 ponto: o Personagem sonha com coisas sobrenaturais, que podem vir a ocorrer. Escreve livros,
+modela esculturas e pinta quadros a respeito. Esses quadros devem ser usados pelo Mestre como ajuda na preparação de
+Campanhas e Aventuras. 2 pontos: o Personagem possui uma espécie de sexto sentido, uma percepção extra-sensorial
+que beira a paranormalidade. Em alguns casos, com a permissão do Mestre, o Jogador pode tentar um Teste de
+Percepção para notar coisas que estão além dos sentidos normais: uma presença sobrenatural, um risco para sua vida ou
+a localização de um objeto perdido. 
+*Aliado sobrenatural – o personagem tem algum contato com entidades sobrenaturais.
+Afinidade com fadas (1 a 3): a presença do personagem não afugenta as fadas. Com 1 ponto, ele é visto como
+uma figura interessante e que, ocasionalmente, pode receber visitas. Com 2 pontos, as fadas são atraídas até ele, não
+procurando causar hostilidade e trazendo informações. Por 3 pontos, o personagem pode ser auxiliado pelas fadas em
+momentos de grande necessidade.
+Amigo fantasma (1 ou 2): uma pessoa próxima do personagem já morta o acompanha. Por 1 ponto, as
+aparições são incertas, mas acontecem para guiá-lo em momentos difíceis. Por 2, o fantasma tem conhecimento extenso
+do reino dos mortos e pode trazer informações pertinentes ao personagem.
+Anjo da Guarda (2 ou 3): o personagem possui um espírito guia que às vezes pode se comunicar com ele em
+sonhos, com informações, dicas e conhecimentos. Por 3 pontos, o espírito pode intervir em momentos de grande
+necessidade, socorrendo o personagem (no máximo 1 vez por sessão).
+Familiares (1 a 3): o personagem tem acesso a um familiar; um animal misticamente ligado a ele. O
+personagem é capaz de sentir a presença de seu familiar, além de ter noção onde ele possa estar mesmo à distância.
+Também é capaz de sentir suas emoções e pode, a critério do mestre, receber habilidades especiais por curto período,
+como o equilíbrio de um gato ou a escalada de um lagarto. Por 1 ponto, o familiar é um animal comum (cão, gato,
+lagarto). Por 2, é um animal exótico (macaco, aranha, cobra). Por 3, é um animal selvagem ou grande (tigre, sucuri,
+crocodilo, cavalo). Uma vez por sessão, o personagem pode ganhar uma habilidade do animal ou um de seus atributos
+físicos (como a força de um crocodilo). Não é possível ganhar mudanças severas, como as asas de um pássaro – mas é
+possível reduzir o peso e cair mais leve, a depender da decisão do mestre.
+Gremlins  bons  (3):  gremlins,  criaturas  empenhadas  em  sabotar  equipamentos,  seguem  o  personagem.
+Contudo, ao invés de causar mal, elas apenas sabotam equipamentos que o personagem peça que sabotem. É preciso um
+teste de Lábia ou Diplomacia para determinar se eles seguem as ordens do personagem – equipamentos grandes ou
+complexos podem ter nível de dificuldade maior no teste.
+Homúnculo (2): o Personagem possui um homúnculo, um pequeno demônio voador com cerca de 10cm a
+50cm de altura, totalmente fiel a seu mestre. Ele pode ser utilizado para missões ligeiras e outros pequenos trabalhos. O
+homúnculo precisa beber pelo menos uma gota do sangue de seu senhor por dia, diretamente de seu corpo (o mais
+comum é permitir que ele perfure um dedo com seus dentes afiados). Sem esse alimento ele perderá 1PV por dia e
+morrerá, levando cerca de uma semana para um outro brotar novamente de dentro da garganta de seu senhor -- um
+processo extremamente doloroso.
+Homúnculo: CON 6, FOR 6, AGI 16, DEX 4, INT 5, VON 6, CAR 3, PER 16.
+8 PVs, IP 0, Garras 20/20, dano 1d3+1.
+Costumam ter acesso a Poderes Mágicos 2, com 4 pontos de focus divididos como o personagem quiser.
+Tutor (1 a 4): 1 ponto: seu Tutor é um humano com afinidade sobrenatural. Ele ainda está vivo e pode ou não
+morar com o Personagem. Pode possuir um laboratório ou biblioteca, ser um druida solitário que quase nunca é
+encontrado, ou ser um sujeito misterioso escondido nas sombras, que procura o Personagem quando interessar. Por 2
+pontos seu Tutor é uma criatura sobrenatural. Pode ser um anjo de Paradísia ou um demônio de Arkanun ou ainda o
+espírito de um mago morto. Seu Tutor pode ainda ser um oráculo ou um espírito da floresta (um elemental de água ou
+terra) ou mesmo um vampiro ou uma fúria. Por 3 pontos seu Tutor é uma criatura de Infernun. Ele pode estar
+16
+
+
+--- page 17 ---
+escondido numa caverna ou nas catacumbas de uma igreja e usar o Personagem como discípulo. Demônios de Infernun
+são os mais perigosos e não confiáveis de todos os mentores. Eles são traiçoeiros e tendem a pensar no próprio bem
+antes de qualquer coisa. E devem ter um bom motivo para ensinar as artes arcanas a um mero mortal. Apesar disso, são
+ótimas máquinas de matar e caso se interessem podem resolver muitos problemas para o Personagem (mas a que
+preço?). 4 pontos: seu Tutor pode ser um anjo mais poderoso ou até mesmo um arcanjo. Os motivos de um anjo ter
+descido dos céus e ensinado as artes místicas a um mortal são tão obscuros quanto sua própria natureza. Geralmente,
+personagens com mentores de Éden ou Paradísia tendem a se autoproclamar mensageiros de Deus ou até mesmo
+Messias (e portanto, merecem um tratamento “especial” da Inquisição). 
+*Poderes – capacidades extraordinárias que vão além do limite humano. Só serão abordados na versão 4.0 do playteste.
+Poderes Mágicos (1+): você tem acesso à magia. Cada nível confere 3 pontos de focus para distribuir entre as
+formas e caminhos da magia. Você tem pontos de magia igual à soma de inteligência e vontade dividido por dois ([INT
++ VON]/2).
+Poderes de Fé (1+): você tem acesso a milagres. O máximo de pontos que você pode usar de uma vez é igual
+ao seu nível em Poderes de Fé. Você tem pontos de fé igual à soma de percepção e carisma dividido por dois ([PER +
+CAR]/2).
+Poderes Heroicos  (1+): você tem acesso a pontos heroicos. Cada nível em Poderes Heroicos confere 6 pontos
+heroicos para seu personagem usar. Leia mais na sessão sobre pontos heroicos. 
+Poderes Psíquicos (1+): você tem acessoa pontos psíquicos. Cada nível nesse aprimoramento confere 2 pontos
+de focus para distribuir entre as disciplinas psiônicas. Você tem pontos psíquicos igual à soma de Inteligência e
+Percepção dividido por dois ([INT + PER]/2).
+- Aprimoramentos negativos
+Desvantagens sociais e interpessoais
+Dependente indefeso (-1): o Personagem possui filhos, animais de estimação queridos, persocons caríssimos e
+outros NPCs que são dependentes dele e precisam ser protegidos a qualquer custo. O dependente não pode ter atributos
+maiores do que 10 e não pode ter nenhum tipo de Perícia ou Poder Ofensivo. O Mestre deve criar este NPC e ele deve
+estar sempre relacionado ao background do Personagem. 
+Inimigo (-1 cada): o Personagem pode ter arrumado encrenca "da grossa" com algum NPC muitíssimo
+poderoso (algo quase intocável pelos Jogadores). Pode ser um chefe de quadrilhas, um poderoso mago demonologista,
+um dragão, um clérigo poderoso, um sacerdote de Tenebras ou outros. O inimigo pode e deve ser usado pelo Mestre
+como pano de fundo para Aventuras e até mesmo background para a Campanha.  
+Má fama (-1): este Personagem possui uma péssima fama, que o acompanha onde quer que vá. Todos ao seu
+redor desconfiam dele, e mesmo as pessoas que acaba de conhecer não gostam muito dele. Pode ser perseguido por
+fanáticos ou levado como suspeito por policiais em uma batida. 
+Mal-entendidos (-1): funciona numa sucessão de desventuras, besteiras e mal-entendidos que colocarão seu
+Personagem sempre em problemas embaraçosos (gafes sociais, uso de termos fora de contexto ou gestos desastrados).
+Recomenda-se que o Mestre só autorize Jogadores experientes a pegar este aprimoramento, porque se o Jogador não
+fizer um roleplay satisfatório de seus mal-entendidos, ele não poderá usar o ponto negativo de aprimoramento 
+Pobreza (-1 a -2): o personagem praticamente não tem recursos, podendo até mesmo ter que viver na rua.
+Com -2, o personagem é sempre pobre num nível sobrenatural. Não importa o que aconteça na vida do Personagem,
+quantos tesouros, recompensas por capturar criminosos ou dinheiro que consiga, ele sempre dará um jeito (ou o destino
+dará por ele) de ficar pobre. Pode ser por acidente, roubo, perda ou mesmo apagamento de dados causados durante a
+missão. Não importa a razão, o Personagem nunca conseguirá acumular mais dinheiro do que o suficiente para viver e
+manter (mal e porcamente) o pouco que possui. Obviamente, este aprimoramento não pode ser escolhido junto a
+nenhum tipo de aprimoramento que dê ao Personagem dinheiro ou recursos. 
+Desvantagens Mentais e Físicas
+Alucinado (-1 a -3): nem tudo o que o personagem vê ou sente é real. O personagem pode fazer testes de
+inteligência (não de percepção) para discernir a realidade. Por -1 ponto, as alucinações podem ser visões, sons
+misteriosos ou vultos. Por -2, elas podem ser complexas, pessoas ou lugares. Por -3, o personagem pode literalmente
+17
+
+
+--- page 18 ---
+viver acontecimentos inteiros que nunca existiram. O personagem só tem direito a um teste de inteligência por cena para
+determinar se algo é real ou não. 
+Analfabeto (-1): o personagem não sabe ler ou escrever. Esse aprimoramento negativo só é válido em cenários
+onde o letramento é disseminado. Em cenários medievais, onde analfabetismo é a regra, esse aprimoramento negativo
+vale 0, e, pelo contrário, para ser alfabetizado o personagem deve gastar 1 ponto.
+Assassino serial (-2 a -3): por consequência de um grave desequilíbrio mental (pelo menos assim pensam os
+médicos), seu Personagem é um assassino serial. Ele tem algum tipo de marca registrada, ligada ao tipo de vítima
+(apenas crianças, ruivas, homossexuais, negros, pessoas de terno e gravata...) ou método de execução (tortura suas
+vítimas antes de matá-las, envia cartas ameaçadoras, coleciona seus dedos, arranca e guarda a pele de seus rostos...). Já
+cometeu algumas mortes e está sendo procurado pela lei. Por -3, seu Personagem já cometeu muitas mortes, tendo um
+destacamento inteiro da polícia e mais a imprensa em sua perseguição. O Mestre pode exigir um Teste de VON quando
+o assassino tenta resistir à chance de atacar uma vítima em potencial. 
+Cleptomania (-1 a -2): seu Personagem PRECISA roubar alguma coisa de quase todos os lugares que visita.
+Pode ser algum tipo específico de objeto (apenas enfeites, chaveiros, porta-retratos), coisas aleatórias e até mesmo
+objetos de muito valor (como jóias, relógios ou estatuetas). Muitas vezes a cleptomania funciona de forma inconsciente
+-- o Personagem não se lembra de ter surrupiado o objeto. Por -1 ponto, você rouba coisas que normalmente não são
+consideradas de valor. Por -2, você rouba coisas que são notadas e que têm valor.
+Canibal (-2): conta como um vício (veja o aprimoramento Vício), onde o vício é carne humana (ou carne de
+espécies racionais para cenários fantásticos) . Por -3 pontos, seu personagem também conta como um assassino serial
+(ver o aprimoramento de nível -2) que come suas vítimas.
+Código de honra (-1 a -3): seu Personagem possui um Código de Honra que ele segue até a morte. Esse
+código inclui nunca atacar em vantagem numérica, um adversário desarmado ou de forma covarde, proteger os mais
+fracos e indefesos, ser sempre educado e respeitar os mais velhos, entre outros. Por -1 ponto, o código é relativamente
+simples. Por -2, é algo complexo e que determina a vida do personagem. Por -3 é algo que pode constantemente o
+colocar em perigo.
+Defeito físico (-1 a -3): Seu personagem detém algum problema físico que interfere em sua vid. Se o defeito
+físico for corrigido por meio de cibernéticos, o Personagem perde o direito aos pontos negativos de aprimoramento.
+Caolho (-1): seu personagem não tem um olho. Ele não consegue julgar profundidades. Seus testes ligados à
+visão não somam seu valor de PER.
+Mudo (-1): Seu Personagem não é capaz de proferir nenhum tipo de som que não sejam grunhidos.
+Surdo (-2): Seu Personagem não ouve nenhum tipo de som.
+Desajeitado (-1): Seu Personagem é extremamente desajeitado. Seu personagem não soma AGI ou às perícias.
+Desfigurado (-1): Seu Personagem possui um rosto completamente destruído, seja por problemas de nascença,
+seja por tortura ou por alguma doença. Num primeiro contato as pessoas terão uma reação negativa com ele.
+Paraplégico (-3): o personagem não pode mexer as pernas.
+Dupla personalidade (-1 a -3): o personagem tem um lado de si que age sem seu conhecimento. A
+personalidade principal não sabe o que a outra faz. O mestre determina os efeitos. Por -1 ponto, a outra personalidade é
+relativamente próxima em trejeitos dos desejos e vontades da personalidade principal. Por -2,  a outra personalidade é
+bem diferente, podendo causar problemas ao personagem. Por -3, a outra personalidade é violenta e destrutiva, podendo
+acabar com a vida do personagem.
+Esquizofrênico (-2): Um tipo de alucinação, onde o personagem vive num mundo só seu, podendo até
+imaginar que é algo ou alguém que não é realmente. Veja o negativo Alucinado.
+Fanatismo (-1):  o Personagem acredita fortemente em seu país, alguma organização, filosofia, religião ou
+política, que coloca acima de tudo e de todos. Ele não pode fazer nada que comprometa ou vá de encontro aos dogmas
+que acredita, mesmo que venha a morrer por eles. Esse negativo conta como uma Obsessão.
+Fobia (-1 cada): seu Personagem morre de medo de alguma coisa. Não é apenas medo, mas pânico total, um
+horror irracional e inexplicável diante do objeto de sua fobia. Caso não possa fugir, enquanto diante do medo todos os
+seus testes aumentam em 1 a dificuldade.  A fobia deve ser sobre algo relativamente comum. Medos mais comuns
+(medo de falar publicamente) pode valer -2 pontos, e muito comuns presentes (medo de sair à noite) pode valer -3
+pontos. 
+Glutão (-1): o Personagem é desesperado por comida. Não participará de nenhuma aventura ou esforço físico
+se não for recompensado com fartos banquetes. Caso não coma um refeição a cada três horas, ficará fraco (perda de -3
+FR e CON) até que coma qualquer coisa. 
+Indiferente (-1): o Personagem faz seu trabalho, ignorando qualquer tipo de pedido de ajuda, choro ou
+sofrimento. Ele não se comoverá com vítimas e esse tipo de atitude faz com que pessoas tenham primeiras impressões
+ruins com o personagem.
+Intolerante  (-1): Não aceitará  ajuda  ou colaboração de qualquer um  que  julgar "diferente". Deve  ser
+especificado o "tipo" de pessoa que ele não tolera, mas não pode escolher os inimigos de sua nação na guerra. 
+18
+
+
+--- page 19 ---
+Mania  de  perseguição  (-1  a  -2):  para  este  Personagem  paranoico, ELES estão  sempre  de  olho.
+Extraterrestres, demônios, fantasmas, vampiros, agentes secretos, comunistas, mafiosos, terroristas... Membros de um
+destes grupos (ou mais de um) perseguem o Personagem aonde quer que ele vá. Pelo menos, é nisso que ele acredita
+com todas as forças. Esse negativo conta como uma alucinação (veja alucinado). -2 pontos: igual ao acima, com a
+diferença de que ELES realmente existem e estão mesmo perseguindo seu Personagem onde quer que ele vá.
+Maníaco-depressivo (-2): O Personagem sofre mudanças drásticas de humor, indo do entusiasmo flamejante
+ao desejo de morrer e vice-versa. Já tentou o suicídio uma ou duas vezes. Preocupa-se com facilidade e constantemente
+pondera sobre a vida e a morte, tendendo mais para a morte. 
+Mentiroso compulsivo (-1 a -2): o pior mentiroso, dizem, é aquele que acredita na própria mentira. Esse é um
+deles. O Personagem mente por prazer e compulsão. Acredita no que diz e pensa estar enganando todos o tempo todo.
+Não consegue dizer meia dúzia de frases sem introduzir nelas uma mentira descarada. Por -2 pontos, as mentiras são
+perigosas, inventando fatos que constantemente colocam o personagem e seus conhecidos em apuros.
+Obsessão (-1): seu Personagem tem fixação doentia por uma pessoa, causa ou missão. Pode ser um sentimento
+positivo (apaixonado por uma ex-namorada) ou negativo (ódio por um rival ou ex-colega). Todas as ações e acordos em
+quaisquer assuntos são planejados tendo em vista aproximar-se da pessoa amada ou prejudicar/atacar o adversário, levar
+em frente a missão ou causa.
+Perda Terrível (-1): o Personagem teve os pais, cônjuge, filhos ou mesmo toda a família assassinada, talvez
+em um Ritual profano. Ele presenciou o ato, investigou ou apenas encontrou os corpos ao chegar em casa. Sua sanidade
+foi despedaçada naquele momento terrível, diante da visão de partes daqueles que amava dispostas em um pentagrama,
+no centro de sua sala de jantar. Depois disso, nunca voltou a ter uma noite de sono decente. Ao deparar com uma cena
+ou situação semelhante à que o traumatizou deixa o Personagem perturbado, tornando todos os Testes Difíceis. Esse
+negativo conta como um tipo de trauma – veja Traumatizado.
+Pervertido  sexual  (-1  a  -3):  Conta  como  um  vício  ligado  a  ações  sexuais.  Veja  o  negativo  viciado.
+Personagem gosta de fazer sexo de forma... não-convencional. Algumas perversões são fantasias inofensivas, como
+filmar ou fotografar o ato, vestir roupas do sexo oposto ou fazer amor em lugares públicos. Outras, mais pesadas,
+podem envolver objetos estranhos, algemas, chicotes, sexo com animais e assim por diante. As perversões mais graves
+são criminosas, quase sempre colocando a polícia na pista de seu praticante: estupro seguido ou não de morte, sexo com
+cadáveres... o resto fica por conta de sua imaginação doentia. 
+Traumatizado (-1): este Personagem sofreu um severo trauma durante a infância, algo que nenhuma criança (e
+a maioria dos adultos) está preparada para conhecer: foi testemunha de um crime hediondo, presenciou um ritual
+demoníaco (ou participou de um) ou foi molestado sexualmente). Ao deparar com uma cena ou situação semelhante à
+que o traumatizou deixa o Personagem perturbado, tornando todos os Testes Difíceis. 
+Tremedeira de combate (-1): seu Personagem fica tremendo e incapacitado após cada combate. Quando
+acabar a adrenalina (quando todos os inimigos estiverem mortos ou incapacitados) o Personagem fica paralisado por
+3d6 minutos. 
+Viciado (-1 a -3): Seu personagem é viciado em alguma droga, produto ou serviço – deve ser algo que causa
+algum impacto em seu corpo ou em seus recursos. O personagem durante o efeito do vício tem todos os testes com a
+dificuldade aumentada em 1 por pelo menos 1 hora. A cada dia que passa sem usar seu vício, ele tem 10% de chance
+(cumulativo com cada dia) de entrar em crise de abstinência. A crise dura até que ele abrace o vício. Durante a crise,
+aumente em 1 a dificuldade de todos os testes. Essa desvantagem custa -1 ponto para drogas legalizadas, -2 para drogas
+ilícitas, e -3 para drogas ou produtos caros, raros ou ilícitos.
+Vícios que não são baseados em substâncias também são possíveis de emular – devem ser ações que
+causam problemas ao personagem, mesmo que não necessariamente ao corpo, e seguem a mesma lógica de -1 para algo
+legalizado, -2 para algo ilícito e -3 para algo caro, raro e ilícito.
+Exemplos:
+Alcoólatra: -1 ponto: viciado em álcool. Pode ser dependente de qualquer tipo de bebida, ou de uma
+específica. 
+Viciado em cocaína: -2 pontos.
+Viciado em apostas -1
+Pervertido sexual -1 a -3
+Desvantagens sobrenaturais e variadas
+*Alma Vendida: (-1 a -3): o personagem vendeu a alma a alguma entidade, e quaisquer que sejam os
+benefícios já se perderam ao longo do tempo. O nível desse aprimoramento depende de quão ativa e poderosa é a
+entidade que detém a alma do personagem. -1 ponto a entidade tem pouco impacto na vida do personagem. -2 a
+entidade  constantemente  se  mostra  presente,  causando  problemas.  -3  a  entidade  ativamente  manda  emissários,
+infortúnio e problemas querendo coletar a alma do personagem.
+19
+
+
+--- page 20 ---
+Azarado (-1): as coisas dão errado para este Personagem com indesejável frequência. Uma vez por sessão de
+jogo, o mestre pode exigir que você role novamente um teste que tenha sido bem sucedido. Por -2 pontos, 1 rolamento
+pode ser refeito a cada hora de sessão de jogo (tempo real). Por -3 pontos, 1 rolamento a cada 30 minutos de sessão.
+*Ferro Frio, alergia (-2): o ferro frio se opõe às coisas mágicas; seu personagem é altamente vulnerável ao
+toque do ferro frio -- uma espécie de "alergia mágica". Basta um toque para que uma vermelhidão intensa apareça em
+sua pele. Exposição prolongada causa bolhas muito dolorosas (dano 1d6 por rodada). Desnecessário dizer que usar
+armas e armaduras metálicas é um problema sério... 
+*Gremlinint, gremlins maus (-1 a -3): ao que parece, um pequeno grupo de Gremlins (minúsculas criaturas
+empenhadas em sabotar objetos em geral) resolveu acompanhar o Personagem aonde quer que ele vá. As coisas
+quebram ou não funcionam em sua presença. Relógios não duram uma semana em seu pulso, rádios ficam fora do ar,
+TVs se enchem de chuviscos, carros quebram, peças se soltam, aparelhos novos aoresentam defeitos e computadores
+travam. Este Aprimoramento só funciona CONTRA o Personagem. Por -2 pontos, os defeitos são mais severos, e
+mesmo máquinas caras ou complexas irão quebrar. Por -3 pontos, a vida do personagem estará constantemente em
+perigo, pois carros poderão levar a acidentes e até mesmo casas poderão desabar quando ele dormir debaixo delas,
+especialmente procurando o matar.
+*Maldição (-1 a -2):  por -1 ponto é uma maldição suave, que atrapalha mas não chega a causar penalidades
+em termos de jogo. Por exemplo, se transformar em mulher quando molhado com água fria e voltar ao normal quando
+molhado com água quente. Por -2 é uma maldição grave, seu Personagem se transforma em um porquinho ou gato
+quando é molhado, ficando com todos os atributos em 2 e sem poder usar magias ou perícias nessa forma. 
+*Poltergeist (-2): é um espírito que se manifesta causando dano físico e existe um ou mais deles rondando seu
+Personagem. Coisas inexplicáveis acontecem quando ele está por perto. Vasos estouram, copos se movimentam,
+relógios giram ao contrário, televisores queimam. Efeitos fracos ou fortes, dependendo da hora e local. 
+*Sangramento sobrenatural (-1):  o nariz, boca ou ouvidos do Personagem sangram quando ele está em
+contato com alguma magia, objeto ou criatura sobrenatural, ou quando utiliza poderes místicos. Este sangramento não
+pode ser evitado, mas nem sempre é uma coisa ruim (pode ser utilizado como forma de detectar eventos sobrenaturais).
+Caso aconteça seguidas vezes, este efeito pode começar a causar dano no Personagem (o efeito causa 1PV de dano no
+Personagem a cada três sangramentos). 
+*Toque Letal (-1 a -2): -1 ponto, a presença do personagem definha planas e causa impressões estranhas nas
+pessoas e faz animais domésticos fugirem. Por -2 pontos, a presença do personagem é maldita, podendo inclusive matar
+pequenos animais e fazendo com que pessoas o repudiem.
+Equipamento e Armamento
+Armas possuem dano cinético ou balístico, o que reflete a forma como ele é absorvido pela armadura. Uma armadura 
+que receba um dano que não consegue absorver direito tem seu IP reduzido pela metade. Assim, uma armadura balística
+de 6, recebendo dano cinético, vai para IP 3.
+Armas cinéticas físicas: São armas corpo a corpo. O dano é somado ao bônus de força. O tipo de dano é cinético.
+. Desarmado: 1d3. Esse é o valor para um golpe humano. Monstros e animais podem ter armas naturais que contam 
+como armas pequenas, médias ou grandes.
+. Armas pequenas: 1d6. São armas que usam uma mão, e são fáceis de ocultar. Adagas, facas, pequenas maças etc.
+. Armas médias: 1d10. Necessitam de uma mão, mas são difíceis de ocultar.
+. Armas grandes: 2d6. Necessitam as duas mãos, então não permitem uso de escudo. 
+Armas à Distância
+Arcos e bestas causam dano balístico, então têm mais facilidade para perfurar armaduras antigas do tipo cinético.
+20
+
+
+--- page 21 ---
+. Arcos: Os pequenos causam 1d6, e os grandes causam 1d6+2.
+. Bestas: 2d6. Esse dano considera bestas grandes. As pequenas causam 1d6+2 de dano. A menos que você use uma 
+besta de repetição, cada tiro de uma besta demora 1 turno para carregar. Então, você atira em 1 e demora o outro 
+carregando.
+. Armas de arremesso: Causam dano cinético equivalentes ao seu tamanho (pequenas 1d6, médias 1d6+2 e grandes 
+2d6).
+Armas de Fogo
+. Pistolas: 2d6+1 de dano.
+. Submetralhadoras: 2d6+1 de dano, e permite rajada.
+. Fuzis: 3d6+2 de dano, permite rajada.
+. Escopetas: Dano 3d6+4 à curta distância. Em longas, dano 1d6+2, mas ataca em área.
+. Rifles: Dano 3d6+6. Caso você atire à curta distância, aumente em 1 a dificuldade dos testes.
+*Rajada: Veja a sessão de combate para a definição da opção de rajada.
+Armaduras
+Você deve escolher se a armadura será cinética ou balística. Normalmente, armaduras antigas eram cinéticas, e as 
+modernas são balísticas.
+. Armadura Leve: IP 2. Pode ser ocultada debaixo da roupa. Reduz em 2 iniciativa.
+. Armadura Média: IP 4. Não pode ser ocultada. Reduz em 4 iniciativa.
+. Armadura pesada: IP 6. Visível à longa distância e cara. Aumenta a dificuldade de todos os testes Atléticos em 1. 
+Reduz em 6 a iniciativa.
+. Escudos: Pequenos conferem IP +1 e Iniciativa -1. Grandes conferem IP+2 e Iniciativa -2. É preciso ter uma mão livre
+para serem usados. 
+Armamento sobre-humano: Criaturas acima da escala humana têm valores cada vez mais crescentes. De forma geral, 
+determine o número de dados do tamanho da criatura. 2D é humano. 3D é grande. 4D é gigante. 8D é colossal.
+Assim, uma arma gigante causaria 4d6 de dano + o bônus de força da criatura (em média algo entre 24 e 48). 
+Assim, um gigante com FOR 36 causaria em torno de 4d6+12 de dano.
+Quanto a armadura, costuma ser 1 IP por dado para armaduras leves, 2 para médias e 3 para pesadas. Então, o 
+mesmo gigante usando uma armadura média gigante, teria IP 8. Usando um escudo grande gigante, teria +
+Quanto a escudos, equivalem a ½ IP por dado para pequenos e 1 IP por dado para grandes. Assim, o gigante, se
+usasse um escudo pequeno, teria IP 10.
+Armaduras naturais de criaturas costumam ser Leves. A armadura é Média, caso a criatura tenha escamas, e
+Pesadas caso elas tenham placas ósseas.
+REGRAS E TESTES
+Rolando o 1d100
+Para todos os testes em Daemon 4a edição, usa-se o dado de 100 lados. Para isso, rola-se 2 dados de 10 lados de cores
+diferentes, sendo que um dado conta como dezena e o outro, como unidade. Assim, um 5 nas dezenas e um 4 nas
+21
+
+
+--- page 22 ---
+unidades representa 54. Um resultado de 00 representa 100. O grupo deve decidir qual dado é o de dezena, qual o de
+unidade, normalmente o de cor mais forte ou escura é o de dezena.
+Caso o grupo não tenha dados de cores diferentes ou que possam mostrar as dezenas, é possível usar um cronômetro.
+Coloque o cronômetro para rodar e, quando o parar, considere os valores de milissegundos como a rolagem. 
+Por fim, você também pode usar a regra de usar 2 dados de 10 lados de cores iguais, sendo que o dado que cair mais
+próximo do jogador é a dezena, e o mais distante é a unidade.
+Testes e Disputas
+Quando há uma situação dramática, fora do comum ou não trivial, o mestre pode exigir um teste. Para isso, rola-se
+1d100 e soma ao Valor de Teste – normalmente determinado pelo seu nível numa perícia mais o valor dobrado do
+atributo relevante.  Compare o Total de Teste com o valor do obstáculo. Caso a rolagem seja maior que o obstáculo, o
+teste foi um sucesso; se for menor ou igual, é uma falha. 
+Ex: Você quer escalar um muro. Você tem FOR 13 e Escalada 20, então seu Valor de Teste é 46. O mestre
+determina o Obstáculo como 75. Você rola o d100 e tira 39, totalizando uma rolagem de 85. Como 85 é maior que 75, o
+resultado foi um sucesso.
+(Opção) Rolagem baixa com d100 negativo: Para quem preferir, é possível usar o método clássico ‘rolagem baixa’ no
+1d100. O método clássico é explicado mais à frente.
+Valores comuns de Obstáculos: Normalmente, obstáculos possuem os seguintes valores: 50 para corriqueiros; 75 para
+medianos; 100 para desafiadores; e 125 para heroicos. O Mestre pode determinar valores menores ou maiores para
+obstáculos.
+Sucesso crítico e falha crítica: Caso você role números iguais no d100, houve um teste Crítico. Se o resultado foi um
+sucesso, então foi um sucesso crítico. Se foi uma falha, então foi uma falha crítica. Em termos de jogo, um sucesso
+crítico normalmente tem efeitos dobrados do que um sucesso normal, então o mestre deve narrar uma consequência boa
+para o personagem. Por exemplo, se você tem Atributo 14 e Perícia 30, seu Valor de Teste é 58.  Você então rola 22 no
+dado. O obstáculo que você enfrentava era 90. Assim, o resultado foi uma falha – e, como você rolou números
+dobrados, foi uma falha crítica.
+Disputas: quando dois ou mais personagens ativamente se confrontam, há uma disputa. Nessas situações, ambos os
+lados rolam seus testes e quem tiver o maior total ganha. Em caso de empate, rola-se de novo para desempatar. 
+(Opção) Valores passivos em disputa: Para simplicidade, em disputas de dois personagens, apenas a força ativa
+(atacante) rola, e a força passiva (defensor) considera o valor de 50 como sua rolagem.
+Testes sem perícia: Caso o personagem não tenha uma perícia aplicável, ele faz apenas o teste usando seu valor de
+Atributo x2.  O mestre pode considerar que perícias altamente especializadas não podem ser testadas caso o personagem
+não seja treinado nela, isto é, caso não possua pelo menos 10 pontos de perícia investidos nela.
+Teste de Sorte: O Mestre pode permitir um teste de sorte fazendo um teste de Carisma do personagem. O obstáculo vai
+depender de quão difícil é a ocorrência da sorte, mas um valor normal costuma ser 100.
+22
+
+
+--- page 23 ---
+Narrando falhas e sucessos: o que indica ser bem-sucedido ou falhar numa ação? Isso reflete na ficção do rpg. Falhar
+não quer dizer que a ação simplesmente não surtiu efeito; pode significar que você teve um sucesso custoso, algo deu
+errado. Falhar num teste de arrombamento pode significar que você abriu a porta fazendo barulho, alertando os guardas.
+Falhar num teste de furtividade pode significar que o alvo não te viu, mas você deixou rastros para que seu grupo inteiro
+fosse descoberto depois. Falhar num teste de intimidação pode significar que você até assustou a pessoa, mas ela ficou
+tão amedrontada que chamou a polícia contra você. É importante notar que a história sempre deve seguir em frente.
+Dificuldade: o mestre pode considerar que uma ação é mais fácil ou difícil que a outra aplicando níveis diferentes de
+dificuldade. Uma dificuldade aumentada indica que o personagem está em desvantagem na situação, enquanto que uma
+dificuldade reduzia indica vantagem. A dificuldade padrão é Normal. Dificuldade aumentada é Difícil, e reduzida é
+Fácil. 
+Personagens que fizerem um teste difícil devem rolar os dados e ficar com o MENOR dado como dezena. Num
+teste FÁCIL, devem rolar os dados e ficar com o MAIOR como dezena.
+Ex: Você quer escalar um muro e está usando material de escalada. O mestre considera o teste contra um
+obstáculo mediano (75) mas com dificuldade Fácil por causa do equipamento. Você tem um valor de teste de apenas 20
+e rola os dados, tirando 1 e 7. Normalmente, você teria rolado 17. Porém, como é um teste fácil, o valor mais alto virá
+dezena, ficando então 71. por conta disso, você teve sucesso no teste.
+Quando uma situação diz para aumentar uma dificuldade em +1, ela vai para o próximo nível (fácil para Normal, e
+Normal para difícil). Quando diz para reduzir, você reduz para o próximo nível (difícil para normal, e normal para
+fácil).
+Normalmente, não é possível reduzir abaixo de fácil ou aumentar acima de difícil. Mas, se o mestre quiser, para cada
+nível acima de difícil ou abaixo de fácil, rola-se mais 1d10 e fica-se com o menor para dezena (em caso de dificuldade
+acima de difícil) ou maior para dezena (em caso de dificuldade menor que fácil).
+Quando e como usar as dificuldades?
+As dificuldades refletem quanto tempo, preparo e acesso a ferramentas um personagem tem para um teste. Um
+teste normal indica uma situação tensa, onde o tempo é urgente, mas o personagem está bem preparado. Testes fáceis
+representam situações em que o tempo está a favor do personagem, e testes difíceis indicam situações corridas ou em
+ambientes adversos.
+De maneira geral, se um jogador descreve de forma interessante como ele usa sua perícia, planejando e
+narrando a ação, o teste pode ser considerado fácil. Um investigador analisando uma cena do crime, vendo as pistas,
+coletando dados, poderia fazer o teste de investigação como fácil. Caso o jogador apenas diga “eu rolo investigar”, o
+mestre pode fazer um teste normal, já que o personagem não estará sendo metódico – ou até mesmo difícil, se o jogador
+não prestar atenção e atrapalhar as evidências!
+Tenha isso em mente: quando não houver pressa, e quando o jogador descrever de maneira inteligente como
+seu personagem usa a perícia na qual ele é treinado, o teste pode ser considerado fácil. Caso ele aja sem pensar, ou
+quando ele tiver nenhum tempo de planejamento ou o ambiente estiver contra ele, o teste é difícil.
+(Opção) Dificuldades lineares – Por simplicidade e intuição, os níveis de dificuldade usam apenas noções de meio e
+dobro. Porém, o Mestre pode usar modificadores percentuais, indo de +40% (muito fácil) até -40% (muito difícil). 
+Ações de ajuda e reforço
+Quando for possível e pertinente, um personagem pode ajudar na tarefa do outro – como auxiliar numa investigação ou
+pesquisa indo a uma biblioteca, ou empurrando um objeto pesado em conjunto. Nesse caso, o personagem que estiver
+ajudando faz um teste determinado pelo mestre. Em caso de sucesso, o teste do personagem ajudado tem a dificuldade
+reduzida em 1.
+23
+
+
+--- page 24 ---
+Ações em Grupo
+Às vezes, um grupo de pessoas trabalha em conjunto numa mesma ação ou as ações de um indivíduo podem afetar todo
+um grupo de pessoas. Nesses casos, todos os envolvidos rolam seus testes e o Mestre deve avaliar o resultado.
+Quando várias pessoas trabalham juntas numa mesma tarefa, como numa investigação de cena do crime,
+uma pesquisa na biblioteca ou situação semelhante, o melhor resultado conta como o resultado do grupo. 
+Quando as ações de cada pessoa podem atrapalhar o resto do grupo, como quando o grupo está tentando
+passar furtivamente por um batalhão de guardas, o pior resultado conta como o resultado do grupo.
+(Método variante) Testes e Disputas no Método Clássico
+Acima foi demonstrado como usar rolagens com o método novo, usando o 1d100 positivo. Isto é, quanto maior
+a rolagem do 1d100, melhor o resultado, pois você soma a rolagem ao seu valor de teste. Agora, mostraremos o Método
+Clássico como uma opção variante que simula a maneira clássica de jogar, que é com o 1d100 negativo: quanto menor a
+rolagem, melhor. Caso sua mesa de jogo prefira, pode usar este Método Clássico ao invés do Novo.
+Testes: No método clássico, você rola 1d100 e compara ao seu valor de Teste. Caso seja menor ou igual, você teve
+sucesso. Ex: você quer fazer uma pesquisa. Você tem INT 13 e Pesquisa 36, totalizando um valor de teste de 62. Você
+deve rolar 1d100 e rolar menor ou igual a 62 para ter sucesso.
+Disputas: Numa disputa no método clássico, você deve somar 50 ao seu valor de teste e reduzir o valor de teste do
+oponente para determinar o seu valor de disputa. Ex: Você possui um total de Espada 59 e ataca alguém que defende
+com Bloqueio 38. Seu valor de disputa será 59 + 50 – 38 = 71%.
+Caso a disputa seja entre vários oponentes simultâneos, reduza o valor de todos pelo valor de teste MAIOR
+dentro da disputa. Assim, se 5 pessoas disputam uma corrida, e a pessoa com Corrida 64 for quem tiver maior valor,
+então todos reduzem em 64. A pessoa com 64 terá base 50% (que é a soma base de +50), e o resto terá seu valor
+reduzido em 64.
+Dificuldade: As regras de dificuldade se aplicam normalmente, mas seus efeitos são invertidos. Um teste Difícil faria
+você usar o valor mais ALTO dentre os dados (pois rolagem alta é pior no método clássico), e um teste Fácil faria você
+usar o valor mais BAIXO (pois rolagem baixa é melhor no método clássico).
+Caso você use a opção de Dificuldade Lineares, então não haverá alteração. Pode usar normalmente as
+modificações de -40% até +40% em testes.
+COMBATE E CONFLITOS
+Normalmente, numa sessão de jogo, a conversa ocorre naturalmente entre jogadores  e mestre. Quando
+acontece uma situação mais dramática e incerta, é possível determinar o resultado com alguns testes. Porém, alguma
+cenas são mais complexas, repletas de forças opostas lutando e disputando. Essas cenas são Conflitos, e o mais comum
+dos conflitos é o Combate.
+Rodada de combate: uma rodada não funciona como o tempo real, é apenas uma medida de tempo imaginário, o
+tempo necessário para todos os personagens envolvidos fazerem 1 ação. A ordem das ações é determinada pela
+iniciativa (AGI + PER, dividindo a soma por dois), indo da maior para a menor. 
+Durante seu turno, o personagem pode, além da ação, se mover uma quantidade de metros igual a metade
+(arredondado para baixo) da sua AGI ou usar a ação inteira para correr em metros o total de sua AGI.
+Ataque e Defesa – o personagem pode usar sua ação no turno para atacar. Para isso, ele rola 1d100 + seu Ataque e
+compara com a Defesa do oponente (que é um valor passivo). Caso tenha sucesso, o ataque atingiu o alvo.  Veja os tipos
+de ataques e defesas abaixo:
+24
+
+
+--- page 25 ---
+Ataque: Perícia de ataque (Briga, Armas, etc) + Atributo x2 (normalmente DES) + 1d100
+Defesa de Aparar: Perícia de Ataque + Atributo x2 (normalmente DES) + 50. Normalmente, só pode usar
+aparar contra ataques corporais.
+Defesa de Bloqueio: Perícia Bloqueio + DES x 2 + 50. Pode ser usado contra todo tipo de ataque que possa ser
+impedido por seu escudo. Precisa usar algum tipo de escudo.
+Defesa de Esquiva: Perícia Esquiva + AGI x2 + 50. Pode ser usada contra todo tipo de ataque, desde que saiba
+de onde esteja vindo.
+Ações múltiplas – Um personagem pode decidir fazer mais de uma ação por turno, para ataques ou defesas extras. Para
+cada ação que queria fazer, divida o valor de teste pelo número de ações. Por exemplo, um personagem com 50% em
+Espadas que quisesse atacar e defender reduziria pela metade o valor de teste. Caso ele quisesse três ações, dividiria por
+3 o valor. 
+Em jogos realistas, o máximo de ações extras além da primeira que alguém pode fazer é igual a uma a cada 6
+pontos em AGI. Alguém com AGI 12, por exemplo, poderia fazer 3 ações dividindo por 3 o valor de teste de todas.
+(Opção) Defesa Realística – Normalmente, em jogos, as defesas são bem cinematográficas. Contudo, caso você queira
+que as defesas sejam realísticas, pode considerar o seguinte: o valor base de defesa é 50, e o personagem terá que
+escolher quantos pontos extras, vindos de seu total de perícia, vai querer usar em cada tentativa. 
+Por exemplo, seu personagem tem um total de Esquiva 54 e Espada 80. Na primeira defesa, o personagem foi
+atacado por alguém usando uma espada curta, e resolve usar 50 pontos para se defender; seu total de defesa é então 100
+(50 dos pontos que usou, e 50 do valor base). Depois, ele é atacado por outro usando um machado, e resolve usar os 30
+pontos que sobraram. O personagem, por fim, recebe dois ataques: um, sendo uma flechada, e o outro sendo mais uma
+espadada. Ele não tem mais pontos para usar de seu total de Espada para se defender (já usou 80), mas ainda tem
+Esquiva 54 para poder usar para se defender.
+Essa opção realística vai deixar o jogo mais lento.
+Resultados Críticos
+Num ataque, um sucesso crítico indica dano superior, causando dano dobrado. Uma falha crítica indica que a arma
+escapou da mão do atacante ou ele se machucou com o ataque (decisão do atacante). 
+Dano e Pontos de Vida
+Quando um ataque é bem-sucedido, rola-se o dano. Armas físicas somam o bônus de dano de força do personagem. O
+total de dano é reduzido do IP do alvo. Qualquer valor que sobrar é o total de ferimentos, reduzindo os pontos de vida
+do alvo.
+Quando um personagem chega a 0 pontos de vida, e sempre que receber novo dano depois disso, ele deve fazer um teste
+de atributo usando o menor valor entre sua VON e CON contra Obstáculo 75. Em caso de falha, o personagem desmaia.
+Quando um personagem ficar com pontos de vida negativos igual ao valor total de seus pontos de vida, ele morre.
+(Opção) Sangramento – Essa opção deixa o dano mais realista e letal. Um personagem com 0 pontos de vida ou menos
+perde 10% dos seus pontos de vida totais (arredondado para baixo) por turno até que alguém pare o sangramento com
+um teste de Medicina (o teste é difícil caso a pessoa não tenha um kit de primeiros socorros). 
+Sufocamento – um personagem que não respire dano igual a 1d6+ seu bônus de força por turno (quanto maior uma
+pessoa, mais ela precisa de ar). Esse dano é temporário – assim que ela volta a respirar, ela recupera os pontos de vida
+25
+
+
+--- page 26 ---
+perdidos desse jeito até o valor original. Repare que alguém ferido e que esteja com poucos pontos de vida é mais fácil
+de ir para 0 pontos de vida e poder desmaiar, ou então ficar com pvs negativos e poder morrer.
+Queda - Um personagem que caia recebe 1d6 ou 10% dos seus pontos de vida totais de dano por dois metros de queda
+(o que for maior), reduzido pelo IP. Um teste bem-sucedido de acrobacia reduz o dano pela metade. O dano máximo, na
+atmosfera terrestre, é 10d6 de dano (100% dos pontos de vida totais), necessitando que a criatura faça um teste bem-
+sucedido de acrobacia para sobreviver.
+Ex: um vorme que perseguia um grupo de aventureiros é levado até uma armadilha – um fosso de 12 metros. O
+dano que o vorme recebe é 5d6 ou 50% dos pontos de vida totais, o que for maior. O vorme tem 46 pvs, e rola o dano da
+queda, conseguindo 17 nos 5d6. Como 50% dos seus pvs é 23, então ele recebe 23 de dano, a menos que seja bem-
+sucedido num teste de acrobacia (muito improvável). No caso, se tiver sucesso, o dano será apenas 11.
+Venenos – existem muitos efeitos diferentes de venenos, tanto relacionados a dano simples ou dreno de atributo. Cada
+veneno causa danos diferentes e tem recuperações diferentes.
+Dreno de Atributo – poderes, ataques especiais, venenos e doenças podem causar dano aos atributos, reduzindo o seu
+valor temporário. Normalmente, um personagem recupera 1 ponto em todos os atributos por semana, mas cada doença
+ou veneno tem sua recuperação particular e pode ter uma taxa diferente. Caso um personagem fique com atributo 0, em
+qualquer momento, ele morre por perda da energia vital.
+Recuperação
+Com um dia de descanso, um personagem recupera uma quantidade de pontos de vida igual a 10% (arredondado para
+baixo) dos seus pontos de vida totais. Caso o personagem esteja com pontos de vida negativos, a recuperação passa a
+ser por semana. 
+Manobras e Situações Especiais
+Num combate, existem muitas situações únicas e manobras que um personagem pode fazer. Como regra geral, um
+personagem pode usar suas perícias bélicas para tentar ações que fujam do comum, conseguindo efeitos diferentes do
+que simplesmente causar dano. Ou então podem tentar melhorar suas jogadas com a regra de manobras especiais (como
+explicada na sessão de regras e testes), cabendo ao Mestre permitir e julgar essas possibilidades.
+Segue abaixo uma lista de possíveis manobras e situações especiais:
+Agarramento – Um personagem pode tentar agarrar outro fazendo um ataque normal com Briga ou Artes Marciais, ou
+alguma arma branca que permita agarrar (como rede, laço, chicote etc.). Num sucesso, o alvo foi agarrado. Um alvo
+agarrado fica com todos os testes difíceis para atacar quem não o estiver agarrando e não pode se mover nem usar
+Esquiva. Existem várias opções numa situação de agarramento:
+. Chave – implica em travar um membro do oponente. Para isso, é preciso dizer qual membro quer dar a chave
+fazer uma disputa entre FOR, Briga ou Artes Marciais (o que for maior) vs a FOR, Briga ou Artes Marciais (o que for
+maior) do agarrado. Em caso de sucesso, o membro está travado e não pode ser usado. Dar uma chave no pescoço
+implica um teste com dificuldade+1 ao atacante.
+. Torção – o personagem pode usar sua ação para torcer um membro que esteja sob efeito de chave com uma
+nova disputa entre FOR, Briga ou Artes Marciais (o que for maior) vs a FOR, Briga ou Artes Marciais (o que for maior)
+do agarrado. Caso seja bem-sucedido, o alvo perde metade dos pontos de vida e tem o membro inutilizado (torcido ou
+quebrado, decisão do atacante). O alvo não pode perder mais pontos de vida de um membro inutilizado. Caso o alvo
+tenha uma armadura que dificulte quebrar o membro, some o valor de IP à força dele.
+.  Imobilizar – ao invés de torcer um membro sob chave, o atacante pode tentar imobilizar o oponente.
+Novamente, ele usa a ação no turno e faz a mesma disputa de FOR, Briga ou Artes Marciais (o que for maior) vs a FOR,
+Briga ou Artes Marciais (o que for maior). Caso ganhe, o alvo está imobilizado, ficando paralisado e sem poder agir. A
+cada minuto, o imobilizado tem direito a um teste muito difícil para escapar do agarrante. 
+26
+
+
+--- page 27 ---
+. Escapar - o agarrado pode usar sua ação para tentar escapar fazendo uma disputa entre sua FOR, Briga ou
+Artes Marciais (o que for maior) vs a FOR, Briga ou Artes Marciais (o que for maior) de quem o está agarrando. Em
+caso de sucesso, está livre do agarramento.
+Ataque Desesperado – o personagem pode fazer um ataque sem qualquer forma de planejamento, atirando ou dando
+golpes de qualquer jeito para atingir um oponente, o que é algo bastante comum em lutas reais. Nessa situação, reduza a
+dificuldade em 1 do teste de ataque com perícia bélica (um teste normal vira fácil), mas reduza o dano causado pela
+metade. O desespero faz com que ele foque em acertar, às custas do dano. Ao invés de usar uma perícia bélica para
+atacar, o personagem pode fazer um teste de DES normal. Ele escolhe o que for maior: o teste de DES ou o teste de
+perícia com dificuldade -1.
+Ataque Localizado  – São ataques que miram em uma parte específica do corpo da pessoa. Para fazer um ataque
+localizado, faz-se o ataque com dificuldade +1 (um teste normal seria difícil). O primeiro efeito de um ataque localizado
+é a possibilidade de atingir uma área com menos proteção, onde a armadura do alvo não seja tão resistente. Os efeitos
+secundários dependem da área atingida.
+Cabeça – Uma pessoa que receber dano na cabeça está atordoada. No início do seu turno, deverá fazer um
+teste de CON ou VON (o que for menor). Caso falhe, ela não poderá usar sua ação no turno.
+Membros – Um membro que receber dano igual a ½ dos Pontos de Vida totais está incapacitado, só voltando a
+se recuperar depois que o personagem recuperar o dano sofrido. Caso o dano sofrido no membro seja igual aos pontos
+de vida totais, o membro foi destruído (decepado, estraçalhado etc.).
+Olho – para atingir o olho de um alvo, o personagem deve dizer que está tentando e conseguir um sucesso
+crítico. Como efeito, o dano é triplicado, além do alvo provavelmente não ter qualquer armadura no lugar (apesar de
+algumas criaturas poderem ter olhos blindados). Além disso, caso receba 1/10 de seus pontos de vida totais de dano, o
+olho fica cego.
+Mão/Pé – a dificuldade para atingir o pé ou a mão é aumentada em +2 (um teste normal se tornaria muito
+difícil). O resultado é semelhante a um ataque aos membros, mas só é necessário causar ¼ dos pontos de vida em dano
+para que o local fique incapacitado.
+Ataque Poderoso – Um ataque feito com mais força ou mirando num ponto vital do alvo. O teste é feito como difícil,
+mas aumenta o dano causado em 50%. Um sucesso crítico triplica o dano.
+Cobertura – atirar ou atacar alvo sobre cobertura tem chance de falha. Determine o percentual do corpo do alvo que
+está coberto. Caso o atacante tenha sucesso, role 1d100. Caso você role menor ou igual ao percentual de cobertura, o
+ataque atingiu a cobertura, sendo bloqueado. Um atacante pode fazer um ataque localizado (seguindo as regras
+específicas) para atingir uma área que não esteja coberta e ignorando a cobertura.
+Desarme – Faz-se um ataque como difícil e, em vez de causar dano, o alvo é desarmado, sua arma caindo para longe de
+si.
+Derrubar – Faz-se um ataque normal mas, em vez de causar dano, o alvo é derrubado, tendo dificuldade +1 para os
+testes de ataque, além de mover apenas com a metade do deslocamento normal. Ele pode usar sua ação do turno para
+poder se levantar.
+Explosivos e ataques em área – Armas que permitam atingir uma área são muito difíceis de evitar, como granadas e
+lança-chamas. Mesmo se o ataque errar (seja rolando uma falha, seja com a defesa tendo sucesso), ele ainda causa
+metade do dano. Criaturas muito grandes, como ogros, gigantes e dragões, têm seus ataques físicos considerados em
+área contra criaturas menores.
+Mirar – um personagem pode gastar sua ação no turno para mirar um ataque. Sua próxima ação de ataque terá
+dificuldade -1 (normal se torna fácil).
+27
+
+
+--- page 28 ---
+Posição vantajosa – Costumam oferecer bônus ou penalidades na jogada de ataque ou defesa. Alguns exemplos:
+Ataque pelas costas/Invisíveis – Um alvo atacado pelas costas ou por um alvo invisível não tem direito a
+defesa, caso não saiba do ataque. Caso saiba do ataque, a defesa tem dificuldade +1.
+Posição superior  – Quando ataca um estando em um lugar protegido, mais alto ou com uma arma mais longa,
+seu ataque é mais fácil, tendo dificuldade -1.
+Rajada – Armas que disparam muitos projéteis num turno usam a regra de Rajada, que pode tanto focar em um alvo
+como tentar atingir vários. Caso foque em um alvo, dobre os ferimentos causados pela arma (cada ponto de dano que
+superar IP é dobrado). Caso tente atingir vários alvos próximos um do outro, a arma pode atingir todos os alvos
+próximos causando dano normal.
+Poderes:
+ (somente na versão 4.0 de playteste)
+Poderes Heroicos
+Poderes Mágicos
+Poderes de Fé
+Poderes Psíquicos
+Poderes Sobrenaturais
+EVOLUÇÃO
+A cada aventura terminada, os personagens, assim como as pessoas na vida real, se desenvolvem. Conseguem aprender
+novas coisas, melhorar suas capacidades e ganham acesso a uma maior influência sobre a sociedade. Esse é o processo
+de evolução do personagem.
+Ao final de cada sessão, o Mestre distribuiria pontos de experiência (xp) para os personagens seguindo estas três
+perguntas:
+1) O personagem seguiu seus interesses e personalidade?
+Em outras palavras, o jogador conseguiu interpretar seu personagem, dando vida a ele e sua personalidade?
+2) O personagem conseguiu alcançar objetivos relacionados ao tema do cenário?
+28
+
+
+--- page 29 ---
+O grupo conseguiu realizar alguma missão ou objetivo? Foi possível deter os avanços de um oponente,
+encontrar um objeto que estava sendo procurado ou desvendar algum tipo de mistério? Responder essa pergunta
+depende muito do tipo de cenário que o grupo esteja jogando. Um de fantasia pode focar em missões como derrotar
+monstros e coletar tesouros. Um de investigação sobrenatural estaria relacionado a descobrir conhecimentos ocultos e
+revelar mistérios.
+3) O personagem causou uma mudança no mundo?
+Esta pergunta diz respeito a uma mudança grande, onde as ações dos personagens refletem na sociedade em
+que vive, e talvez até no mundo. Conseguiram derrotar uma criatura que assolava toda uma região, ou impedir que um
+culto sombrio invocasse uma entidade maligna ao mundo. 
+Para cada SIM, o Mestre confere 1 xp ao personagem. A pergunta 1 normalmente sempre é respondida com um sim,
+pois basta que o jogador interprete seu personagem numa sessão para receber 1 xp. A segunda dependerá se o grupo
+conseguir ou não cumprir alguma missão ou objetivo, então pode ter sessões em que esse ponto de experiência não é
+ganho. A 3a pergunta é algo mais ocasional, e normalmente só acontece a cada 3 ou 4 sessões de jogo. 
+Níveis de Evolução
+O acúmulo dos pontos de experiência fazem com que o personagem possa subir de nível. Níveis representam epifanias,
+momentos em que os personagens descobrem algo novo sobre eles mesmos e sobre o mundo. Os personagens começam
+no nível 0, e vão para o primeiro nível ao final da sessão que conseguirem 1 xp. Para alcançarem os próximos níveis, é
+preciso juntar XP igual ao nível que se quer alcançar. A cada nivel, os personagens ganham 30 pontos de perícia  e a
+cada três ganham 1 ponto de aprimoramento, como na tabela abaixo:
+Nível
+Xp
+necessário
+Pontos
+ 
+de
+Perícia
+Aprimoramentos
+1
+1
+30
+2
+3
+60
+3
+6
+90
++1
+4
+10
+120
+5
+15
+150
+6
+21
+180
++2
+7
+28
+210
+8
+36
+240
+9
+45
+270
++3
+10
+55
+300
+Os valores da tabela estão acumulados. Um personagem no nível 6 terá +180 pontos de perícia e +2 aprimoramentos, e
+não 180 pontos a mais do que no 5o nível.
+Os pontos de perícia devem ser divididos de 10 em 10, não fracionados, e uma perícia só pode receber um máximo de
++10 pontos por nível.
+(Opção) Níveis sem pontos de experiência – Esse é o método original da 1a e 2a edição de Daemon. Não são dados
+pontos de experiência ao final das aventuras. Os personagens mudam de nível apenas após um período longo de tempo
+e treino dentro do mundo de jogo (normalmente a cada 3 sessões completadas). 
+29
+
+
+--- page 30 ---
+(Opção) Evolução por Pontos de Evolução – Ao invés de usar níveis, é possível usar diretamente os pontos para
+evolução de personagem. Para cada ponto de experiência, o personagem ganha 5 pontos de Evolução para gastar. Cada
+ponto pode ser usado para aumentar em 1 uma perícia. Sempre que o personagem tiver acumulado 3 pontos de XP, ele
+ganha 1 ponto de atributo, e a cada 10 de XP ganham 1 de aprimoramento.
+(Opção) Evolução Orgânica - Esta forma de evolução é diferente das outras duas, e não usa as perguntas ao final da
+sessão. Em vez disso, sempre que um personagem usar uma perícia em uma sessão, coloque 1 marca nela. Quando ele
+falhar, coloque outra marca na perícia. Quando tiver uma falha crítica, coloque a 3a marca. Ao final da sessão, some as
+marcas e escreva o total na ficha (junto como total acumulado das outras sessões também). Cada marca aumenta em 1 a
+perícia usada. A cada 25 marcas totalizadas, dê +1 a um atributo. A cada 50 marcas, ganhe +1 aprimoramento.
+O desenho da marcação pode ser simples, aconselhamos que sejam os lados de um triângulo. Cada marca indica um dos
+lados até a terceira, que fecha o triângulo.
+(Opção) Evolução por feitos – Os níveis podem ser conferidos por feitos dos personagens. O primeiro nível seria
+conferido aos personagens que sobreviverem à primeira aventura. Depois, podem ser feitos cada vez maiores dentro do
+universo da campanha. Se for uma campanha de exploração e fantasia, pode ser para cada lugar fantástico encontrado
+ou inimigo perigoso vencido, por exemplo.
+30
+
+
+--- page 31 ---
+Nome
+Conceito
+Atributos (distribuir valores 16/14/14/12/12/12/10/10)
+Valor
+Percentual (x2)
+Força (FOR)
+Constituição (CON)
+Destreza (DES)
+Agilidade (AGI)
+Inteligência (INT)
+Percepção (PER)
+Vontade (VON)
+Carisma (CAR)
+Pontos de Vida FOR + CON/2
+Bônus de dano físico (FOR - 10)/2
+Iniciativa (AGI + PER)/2
+Aprimoramentos (5 positivos e até -3 em negativos)
+.
+.
+.
+.
+.
+Equipamento
+Perícias (escolha 3 grupos e distribua neles os valores 40/30/30/20)
+Nível
+Teste (Nível+atributo x2)
+Bélicas (DES)
+Briga
+Esquiva (AGI)
+Esportivas (AGI)
+Acrobacia
+Corrida
+Escalada
+Natação 
+Científicas (INT)
+Arquitetura
+Medicina
+Cirurgia
+Direito
+Química
+História
+Religião
+31
+
+
+--- page 32 ---
+Culturais (CAR)
+Artesanato (DES)
+Empatia
+Diplomacia
+Intimidação
+Lábia
+Sedução
+Música (INT)
+Ocultas (INT)
+Teoria da magia
+Rituais
+Divinação
+Ocultismo
+Sociedades Secretas
+Criaturas sobrenaturais
+Conhecimentos alienígenas
+Planos Astrais
+Paramilitares (PER)
+Armadilhas
+Agricultura (INT)
+Arrombamento (DES)
+Criminologia (INT)
+Escapismo (AGI)
+Furtividade (AGI)
+Furto (DES)
+Investigação
+Manha (CAR)
+Montaria
+Prontidão
+Rastrear
+Sobrevivência
+Camuflagem
+Trato com animais
+Tecnológicas (INT)
+Computação
+Hacker
+Programação
+Eletrônica
+Máquinas pequenas
+Máquinas grandes
+Condução (DES)
+Pilotar (DES)
+Navegar (PER)
+Línguas
+Nativa
+30
+32
+
+
+--- page 33 ---
+Anexo 1 – Lista de perícias 
+Bélicas (DES)
+Armas brancas (Escudo, Espada, Machado, Maça/Martelo, Armas de Haste, Corrente/Laço)
+Armas à distância (arco, arremesso, bestas, dardos)
+Armas de fogo (artilharia, pistola, submetralhadora, metralhadora, escopeta, fuzil, rifle, explosivos)
+Desarmadas (Artes marciais (AGI/DES), Briga (FOR/DES), Esquiva (AGI))
+Esportivas (AGI)
+Atletismo (Acrobacia, Corrida, Escalada, Natação)
+Específicos (Mergulho, Basquete, Futebol, Surfe etc.)
+Científicas (INT)
+Biológicas (Biologia, Educação Física, Fisioterapia, Medicina, Odontologia, Veterinária)
+Exatas (Arquitetura, Engenharias, Física, Geologia, Matemática, Química)
+Humanas (Filosofia, Geografia, História, Linguística, Sociologia.)
+Culturais (CAR)
+Artísticas (Artes, Artesanato (DES), Culinária (PER), Dança (AGI), Desenho (DES), Música (PER), Literatura (INT))
+Sociais (Barganha, Diplomacia, Empatia, Etiqueta, Intimidação, Lábia, Farrear, Sedução).
+Jogos (Eletrônicos (DES), Tradicionais (INT), de Azar.)
+Ocultas (INT)
+Esotérica (Rituais, Teoria Mágica, Alquimia, Divinação (PER), Meditação (VON).)
+Misticismo (Criaturas sobrenaturais, Sociedades Secretas, Planos Astrais, Ocultismo, Conhecimento alienígena.)
+Paramilitares (PER)
+Ladinagem  (Armadilhas  (DES),  Arrombamento  (DES),  Falsificação  (INT),  Furtividade  (DES),  Furto  (DES),
+Escapismo, Manha (CAR))
+Criminais (Avaliação, Burocracia (INT), Criminologia (INT), Interrogatório (INT), Investigação (INT), Tática (INT),
+Tortura (INT).)
+Rupestres (Prontidão, Sobrevivência, Camuflagem, Exploração, Trato com animais (CAR), Montaria (AGI), Rastrear,
+Agricultura.)
+Tecnológicas (INT)
+Informática (Computação, Hackear, Programação, Eletrônica)
+Mecânica (Invenção, Máquinas pequenas, Máquinas grandes.)
+Direção (Condução (DES), Pilotar (DES), Navegar (PER).)
+Línguas
+Variadas (cada língua é uma perícia, com níveis 10, 20 ou 30)
+33
+
+
+--- page 34 ---
+Anexo 2 – Lista de aprimoramentos
+Asterisco (*) indica que um aprimoramento é sobrenatural. Asterisco (*) num grupo de aprimoramentos indica que
+todos os aprimoramentos são sobrenaturais. Alguns são sobrenaturais na descrição.
+APRIMORAMENTOS POSITIVOS
+Influência e recursos - Armas de fogo (1 a 3), Biblioteca  (1 a 4), Contatos (1 a 5), Certificação (1 a 5), *Guardião de
+um artefato importante (3), Recursos (1 a 5) 
+Capacidades naturais – Ambidestria (1), Alvo elusivo (1), Atenção (1), Bom senso (1), Bruto (1), Duro de Matar (1),
+Inocência (1 ou 2), Imunidade a Venenos (1 a 3), Reflexos de combate (1), Sábio/Talento (1), Saúde de ferro (1),
+Sedutor (1), Senso de direção (1 ou 2), Senso numérico (1), Sentidos Aguçados (1 ou 2), Sono pleno (1), Sorte incrível
+(1 a 3), Surto de Adrenalina (1 a 3), Visão noturna (1)
+*Capacidades sobrenaturais –  Afinidade com magia (1), Alma Pura (2), Canalizador (1 a 3), Capaz de enxergar auras
+(1 ou 2), Comunicação em sonhos (1 a 3), Conhecimentos arcanos (1 a 2), Conjuração (4), Detecção de magia (1 a 3),
+Resistência a magia  (1 a 3), Sensitivo (1)
+*Aliado sobrenatural – Afinidade com fadas (1 a 3), Amigo fantasma (1 ou 2), Anjo da Guarda (2 ou 3), Familiares (1
+a 3), Gremlins bons (3), Homúnculo (2), Tutor (1 a 4).
+*Poderes – Poderes Mágicos (1+), Poderes de Fé (1+), Poderes Heroicos  (1+), Poderes Psíquicos (1+)
+APRIMORAMENTOS NEGATIVOS
+Desvantagens sociais e interpessoais –  Dependente indefeso (-1), Inimigo (-1 cada), Má fama (-1), Mal-entendidos (-
+1), Pobreza (-1 a -2).
+Desvantagens Mentais e Físicas – Alucinado (-1 a -3), Analfabeto (-1), Assassino serial (-2 a -3), Cleptomania (-1 a -
+2), Canibal (-2), Código de honra (-1 a -3), Defeito físico (-1 a -3: Caolho (-1), Mudo (-1), Surdo (-2), Desajeitado (-1),
+Desfigurado (-1), Paraplégico (-3)), Dupla personalidade (-1 a -3), Esquizofrênico (-2), Fanatismo (-1), Fobia (-1 cada),
+Glutão (-1), Indiferente (-1), Intolerante (-1), Mania de perseguição (-1 a -2), Maníaco-depressivo (-2), Mentiroso
+compulsivo (-1 a -2), Obsessão (-1)., Perda Terrível (-1), Pervertido sexual (-1 a -3), Traumatizado (-1), Tremedeira de
+combate (-1). Viciado (-1 a -3: Alcoólatra -1, Viciado em cocaína: -2 , Viciado em apostas -1, Pervertido sexual -1 a -3)
+Desvantagens sobrenaturais e variadas –  *Alma Vendida: (-1 a -3), Azarado (-1),  *Ferro Frio, alergia (-2). ,
+*Gremlinint, gremlins maus (-1 a -3), *Maldição (-1 a -2), *Poltergeist (-2), *Sangramento sobrenatural (-1), *Toque
+Letal (-1 a -2).
+34

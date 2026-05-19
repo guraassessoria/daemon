@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Daemon Tools</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260518-overview">
+    <link rel="stylesheet" href="assets/styles.css?v=20260519-editorial">
   </head>
   <body>
     <header class="topbar">
       <div class="brand">
         <p class="eyebrow">Daemon Tools</p>
-        <h1>Catalogo Daemon/Trevas</h1>
+        <h1>Catálogo Daemon/Trevas</h1>
       </div>
       <div class="topbar-actions">
         <div class="metrics" id="metrics" aria-live="polite"></div>
@@ -22,9 +22,9 @@
     </header>
 
     <main class="layout">
-      <aside class="sidebar" aria-label="Areas">
+      <aside class="sidebar" aria-label="Áreas">
         <div class="sidebar-header">
-          <h2>Areas</h2>
+          <h2>Áreas</h2>
           <button class="icon-button" id="refreshButton" type="button" title="Recarregar dados" aria-label="Recarregar dados">
             &#8635;
           </button>
@@ -36,8 +36,55 @@
         <div class="toolbar">
           <label class="search">
             <span>Buscar</span>
-            <input id="searchInput" type="search" placeholder="Nome, fonte, resumo ou tag">
+            <input id="searchInput" type="search" placeholder="Nome, fonte, regra, tag ou trecho">
           </label>
+          <button class="admin-toggle" id="adminToggle" type="button" aria-expanded="false" aria-controls="adminPanel">
+            ADM
+          </button>
+          <section class="admin-panel" id="adminPanel" hidden aria-label="Painel ADM">
+            <div class="admin-panel-head">
+              <div>
+                <h2>Painel ADM</h2>
+                <p>Revisão editorial, quarentena e filtros avançados.</p>
+              </div>
+              <button class="icon-button" id="adminClose" type="button" title="Fechar painel ADM" aria-label="Fechar painel ADM">×</button>
+            </div>
+            <div class="admin-grid">
+              <label>
+                <span>Modo</span>
+                <select id="qualityMode">
+                  <option value="catalog">Catálogo normal</option>
+                  <option value="review">Revisar</option>
+                  <option value="quarantine">Quarentena</option>
+                </select>
+              </label>
+              <label>
+                <span>Fonte</span>
+                <select id="sourceMode">
+                  <option value="all">Todas</option>
+                  <option value="official">Oficiais</option>
+                  <option value="supplement">Suplementos</option>
+                </select>
+              </label>
+              <fieldset>
+                <legend>Famílias</legend>
+                <div class="filter-options" id="familyFilter"></div>
+              </fieldset>
+              <fieldset>
+                <legend>Tipos de conteúdo</legend>
+                <div class="filter-options" id="kindFilter"></div>
+              </fieldset>
+              <fieldset class="wide">
+                <legend>Fontes</legend>
+                <div class="filter-options filter-options-sources" id="sourceFilter"></div>
+              </fieldset>
+            </div>
+            <div class="admin-actions">
+              <button class="filter-action" id="notesToggle" type="button" aria-pressed="false">Mostrar avisos</button>
+              <button class="clear-filters" id="clearFilters" type="button">Limpar filtros ADM</button>
+            </div>
+            <div class="active-filters" id="activeFilters" aria-live="polite"></div>
+          </section>
         </div>
 
         <div class="browser">
@@ -69,13 +116,14 @@
           <span class="item-title"></span>
           <span class="item-preview"></span>
         </span>
-        <span class="row-meta">
-          <span class="pill item-kind"></span>
-          <span class="muted item-source"></span>
-        </span>
+          <span class="row-meta">
+            <span class="pill item-kind"></span>
+            <span class="pill item-warning" hidden></span>
+            <span class="muted item-source"></span>
+          </span>
       </button>
     </template>
 
-    <script src="assets/app.js?v=20260518-overview" type="module"></script>
+    <script src="assets/app.js?v=20260519-editorial" type="module"></script>
   </body>
 </html>

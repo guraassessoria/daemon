@@ -1,0 +1,2116 @@
+--- page 1 ---
+"Revolução, Uma nova maneira de jogar Tormenta Daemon: 
+Mais Magia, Mais Fantasia – Muitos netbooks em um!" 
+ 
+Em primeiro lugar, peço desculpas pela correria, mas são muitas idéias e pouco tempo para escrevê-las. 
+ 
+Capítulo I:   Editorial ou "Tentando me explicar" 
+ 
+Foi recentemente publicado nas revistas Tormenta e Dragão Brasil que futuros suplementos de Tormenta serão 
+voltados apenas para 3D&T (afinal, é o sistema da DB), e D20 (que mostra ter enorme aceitação). Assim, visando 
+poder continuar jogando o sistema Daemon, desenvolvi estas regras de adaptação. Pensei: “tal medida fará com que 
+os personagens sejam menos realistas” e daí? Tormenta é um cenário fantástico; nada mais natural que personagens 
+fantásticos! Assim, além de tornar os grandes feitos mais acessíveis aos personagens, é possível aumentar a 
+quantidade de material para os jogadores, "reciclando" material antigo. 
+Há, é claro, outros motivos: queria jogar tormenta de modo mais fantástico que com o sistema Daemon (é difícil 
+ter alguma habilidade especial diferente no personagem, em termos de regras) e mais realista que 3D&T (gosto do 
+sistema de modo geral, mas a parte de perícias me irrita!!!). Além disso, em Daemon há poucos poderes divinos para 
+os clérigos e paladinos, enquanto em 3D&T  clérigos podem (ou podiam) ser mais poderosos (magicamente) que um 
+mago! Foram surgindo as idéias para aprimoramentos e magias, e o resto foi quase que natural (embora não pareça 
+muito natural escrever mais de 30 páginas...). 
+Finalizando, espero não me expressar mal, e não ser mal interpretado (isso tem acontecido muito no fórum). Quero 
+deixar claro que críticas são sempre bem vindas (afinal, o próprio netbook surgiu por uma crítica a 3D&T e Daemon) e 
+que estou a toda hora me referindo tanto a 3D&T quanto a Daemon porque são esses os sistemas do Tormenta 3ª 
+Edição (e apesar deste netbook ser voltado principalmente para Daemon, o fato de ser baseado em parte em 3D&T faz 
+com que seja muito fácil aproveitar muitas das idéias diretamente). 
+ 
+ 
+Capítulo II:   Agradecimentos 
+  
+A Marcelo Del Debbio, pelo sistema Daemon 
+A Marcelo Cassaro, por 3D&T 
+A todos que colaboraram com Tormenta 
+A Felipe Barca, pelas regras de D20 
+A Henrique C. Barbieri, por suas Magias (entendam como quiser!) 
+Ao Spider Neo, por seus Poderes da Mente (entendam como quiser!) 
+A todos aqueles que escrevem netbooks 
+Às férias de julho, sem a quais este netbook não seria possível 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- page 2 ---
+Capítulo III:   D20 + 3D&T = Daemon 'Fantasia' 
+ 
+Para construir as estatísticas de jogo em Daemon (o background de uma personagem sempre é explicado na própria 
+publicação), são necessárias algumas coisas: 
+ 
+1-) Atributos 
+2-) Perícias 
+3-) Aprimoramentos 
+4-) Índice de Proteção 
+5-) Magias 
+ 
+1-) Atributos 
+ 
+For = For(D20) 
+Con = Con(D20) 
+Dex = [Dex(D20) + For(D20)]/2 
+Agi = Dex(D20) 
+Int = Int(D20) 
+Car = Car(D20) 
+Per = [Sab(D20)+Int(D20)]/2 
+Will = Sab(D20) 
+ 
+É isso mesmo: copie os valores dos atributos das estatísticas de D20. 
+Bom, isso já seria melhor que nada, mas confesso que só isso também não me agradou. 
+por isso, acrescente os modificadores abaixo (basta somá-los aos atributos) 
+ 
+Conversão de Raças 
+Humanos - padrão 
+Elfos(2) - +2 Agi, -2 Con; Visão Noturna, Espada Longa +10/+10 ou Arco +10/0 
+Meio-Elfos(1) - +1 Agi, -1 Con; Visão Noturna 
+Elfos do Mar(0) - +2 Agi, -1 Dex, -1 For; Anfíbios, Sonar.  
+Anões(2) - +2 Con, +1 For, -3 Agi; Infravisão, Resistência à Magia 
+Goblins(0) - +3 Agi, +1 Dex, -2 For, -1 Con; Visão Noturna, Má fama 
+Halflins(1) - +3 Agi, +3 Dex, -4 For, -2 Con; Modelo Especial, Resistência à magia, funda 10/0 
+Fadas (4)- +6 Agi, +2 Dex, +2 Car, -6 For, -2 Con; levitação, Modelo Especial, Arcano, Vulnerabilidade à magia 
+Troglodita (2)- +3 Con, +3For, -3 Dex, -2 Car; Ip +2, óleo, Infravisão, Má fama, Camuflagem + 20%, Monstruoso, 
+Vulnerabilidade: Frio/gelo 
+Minotauro (0)- +3 Con, +3 For, -4 Dex, -2 Will; Chifres (1d6 de dano), olfato aguçado, acrofobia, não usam magia, 
+código de combate 
+Centauros (2)- +6 Con, +3 For, -3 Agi, Modelo especial, carrega 2x mais peso 
+Meio Orc (-1) +2Con, +2For, -2Int, -2Car, infravisão(20m), má fama 
+ 
+se a raça possui algum sentido especial, acrescente +1 Per  
+ 
+Outras Raças 
+Os Netbooks Raças e Construindo Novas Raças apresentam regras para outros seres. De modo geral, seres que não 
+possuam mãos possuem dex - 3 para cada mão ausente; mãos extras dão Dex +3 cada. Membros Extras dão Agi +2; 
+Membros a menos, Agi -2; Se a raça apresenta sentidos especiais, acrescente Per +1 para cada sentido. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- page 3 ---
+ 
+2-) Perícias 
+Terminadas as correções nos atributos, podemos calcular as perícias das personagens: 
+ 
+Em D20, para testar uma perícia, rola-se 1d20 + Bônus de perícia e compara-se com o Nível de Dificuldade pré 
+estabelecido. Essa dificuldade varia geralmente entre 10 (quando está tudo ao seu favor) até 40 (quase impossível). O 
+padrão é 20. Note que quando está tudo a seu favor a dificuldade é metade da padrão e, conseqüentemente, suas 
+chances são o dobro da padrão. E se estiver tudo contra você, a dificuldade dobra, reduzindo pela metade suas 
+chances, exatamente como em Daemon. 
+ 
+Considere a dificuldade padrão, 20. Para cada ponto de bônus na perícia que a personagem tiver, há mais um valor no 
+dado que faz com que 1d20 + Bônus > 20. 
+Assim, suas chances aumentam em 1/20 = 5/100 = 5%. 
+ 
+Portanto, considere que o nível de cada perícia é igual ao [Bônus (D20)]*5% 
+ Há, porém, perícias em D20 que não existem em Daemon. Veja o Capítulo IV para a conversão dessas perícias. 
+ 
+3-) Aprimoramentos 
+Para estabelecer os aprimoramentos, olhemos as regas de 3D&T: Vantagens e Desvantagens. No Capítulo V elas 
+aparecem adaptadas para Daemon, ou trocadas por Aprimoramentos já existentes em Daemon que reproduzem seus 
+efeitos. Note que utilizá-las como aprimoramentos  tanto na conversão quanto na criação de personagens faz com 
+que as aventuras em Tormenta tenham um tom ainda mais fantástico (perde-se parte do realismo de Daemon). 
+ 
+4-) Índice de Proteção 
+Essa é a mais fácil: considere IP = Armadura em 3D&T 
+ 
+5-) Magia 
+Adaptar magia é mais complicado: D20 tem regas totalmente diferentes das de daemon, e 3D&T usa regras 
+simplificadas, sendo mais fácil adaptar Daemon para 3D&T que o inverso.Sendo assim, façamos isso. Afinal, em 
+mundos de fantasticos com oTormenta a magia é muito mais acessível que em mundos realistas como em Arkanum. 
+Essa idéia se baseia fortemente no fato de aparecerem as estatísticas das magias para 3D&T no livro Tormenta 3E. 
+Sim, simplesmente use as regras para magia de 3D&T e pronto. 
+No capítulo VI há regras que devem ser acrescentadas às de 3D&T, e mais magias. Para o caso de alguém não gostar 
+de usar o sistema simplificado de magias (isto é, não há formas, e só são usados os 6 caminhos elementais), há 
+também as regras completas de magia entre parêntesis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- page 4 ---
+ 
+ 
+Capítulo IV:   Conversão de Perícias 
+ 
+D&D 
+ 
+ 
+ 
+Daemon 
+Abrir Fechaduras 
+ 
+ 
+Manipulação de Fechaduras (0) 
+Acrobacia 
+ 
+ 
+ 
+Acrobacia (Agi)  
+Adestrar Animais  
+ 
+ 
+Treinamento de Animais (0) 
+Alquimia 
+ 
+ 
+ 
+Alquimia (0)  
+Arte da Fuga 
+ 
+ 
+ 
+Escapismo (Agi)   
+Atuação 
+ 
+ 
+ 
+Atuação (Car)  
+Avaliação 
+ 
+ 
+ 
+Avaliação de Objetos (Per) 
+Blefar 
+ 
+ 
+ 
+Lábia (Car/Manha) 
+Cavalgar 
+ 
+ 
+ 
+Montaria (Agi) 
+Concentração 
+ 
+ 
+------------------ 
+Conhecimento 
+ 
+ 
+Ciências/Ciências Proibidas (0) 
+Cura 
+ 
+ 
+ 
+Primeiros Socorros (Int) 
+Decifrar Escrita 
+ 
+ 
+Idiomas - Ler e Escrever (0) 
+Diplomacia  
+ 
+ 
+Etiqueta (Car) 
+Disfarces 
+ 
+ 
+ 
+Disfarce (Int) 
+Empatia Com Animais  
+ 
+Novo - Empatia com Animais (Car) 
+Escalar 
+ 
+ 
+ 
+Novo - Escalar (Agi) 
+Esconder-se  
+ 
+ 
+Camuflagem (Per) 
+Espionar 
+ 
+ 
+ 
+Subterfúgio (Per) 
+Falar Idioma  
+ 
+ 
+Idioma - Falar(0) 
+Falsificação  
+ 
+ 
+Falsificação (Int) 
+Furtividade  
+ 
+ 
+Furtividade (Agi) 
+Identificar Magia 
+ 
+ 
+------------------ 
+Intimidar 
+ 
+ 
+ 
+Intimidação (Will) 
+Leitura Labial 
+ 
+ 
+Novo - Leitura Labial (Per) 
+Mensagens Secretas  
+ 
+Novo - Criptografia (0) 
+Natação 
+ 
+ 
+ 
+Natação (Agi) 
+Observar 
+ 
+ 
+ 
+--------------- 
+Obter Informações 
+ 
+ 
+Pesquisa/Investigação (Per) 
+Ofícios/Profissão 
+ 
+ 
+Ciências/Artífice (0) 
+ 
+ 
+Operar Mecanismo  
+ 
+ 
+Armadilhas (Int) 
+Ouvir 
+ 
+ 
+ 
+Escutar (Per) 
+Procurar 
+ 
+ 
+ 
+Procura(Per) 
+Punga 
+ 
+ 
+ 
+Furtar (Dex) 
+Saltar 
+ 
+ 
+ 
+Salto (Agi) 
+Senso de Direção 
+ 
+ 
+Aprimoramento Senso de Direção (1 ponto) 
+Sentir Motivação 
+ 
+ 
+Empatia (Car) 
+Sobrevivência 
+ 
+ 
+Sobrevivência ( Per) 
+Usar Instrumento Mágico 
+ 
+------------------ 
+ 
+------------- = ignorar perícia (não será usada em Daemon) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- page 5 ---
+ 
+Novas Perícias 
+Animais 
+Empatia com Animais (Car): É como empatia, mas funciona com animais ao invés de humanóides 
+Esportes 
+Escalar (Agi): Serve para subir em montanhas, árvores e muros 
+Artes 
+Imitar (Int) : Capacidade de imitar sotaques, pessoas, sons e vozes. 
+Arremesso (Dex): Esta perícia permite ao presonagem arremessar objetos em geral. É também valor inicial de 
+todas as perícias relacionadas a armas de arremesso.  
+Manobras de Arremesso 
+Arremessar Oponente (15): Permite arremessar ou projetar outro personagem que esteja em luta corpo-a-corpo 
+e imobilizado 
+Alvos Móveis (15): Permite acertar  um alvo em movimento (até 50km/h) sem redutores no teste. 
+Arremesso Ricochete (30): Permite arremessar objetos ou armas arremessáveis contra um alvo de forma 
+indireta, ou seja, lançar em outro alvo de modo que ricocheteie e atinja o verdadeiro alvo. O alvo que tentar se  
+esquivar, aparar ou bloquear o arremesso deverá fazer um teste difícil. 
+Idiomas 
+Criptografia (0): É a habilidade de criar mensagens que não possam ser lidas por pessoas não autorizadas - ou 
+decodificar essas mensagens quando você é a pessoa não autorizada. 
+Leitura Labial (0): Permite descobrir o que alguém está dizendo  pela observação dos movimentos de sua boca. 
+Pode ser usado à distância para espionar, e é preciso conhecer o idioma utilizado. 
+Manipulação 
+Manha (Car): É a sabedoria das ruas, que permite usá-las em seu favor. Com esta perícia seu personagem 
+consegue contatos, informações, comprar armas ilegais no mercado negro ou apenas sobreviver fora de casa 
+(em cidades). 
+Manobras de Combate 
+Imobilização (20): O personagem é capaz de, com o próprio corpo, manter o adversário imóvel. É muito utilizada 
+para capturar alguém sem machucá-lo. 
+Meditação (Will): o personagem é capaz de entrar num estado de transe, concentrando-se por alguns minutos. 
+Uma hora de meditação é suficiente para cancelar qualquer modificador físico ou mental provocado por 
+estresse emocional. Também dá um bônus de 10% em Will. Uma meditação interrompida deve ser reiniciada. 
+ 
+Perícias de Combate : Um pouco de matemática (ou matemágica??) 
+ 
+Esta foi a parte do netbook que mais deu trabalho, e ainda não estou plenamente satisfeito com ela, mas acho 
+que já dá para jogar assim. Foi difícil porque não há uma relação direta entre as regras de combate D20 e 
+Daemon. Em D20, sua chance de acertar depende (além da defesa do oponente e de uma rolagem de dados) de 
+sua classe, sua força ou destreza e seu nível. Analisando alguns personagens oficiais de tormenta, cujas fichas 
+possuo para Daemon e D20, também não apareceu um padrão claro. 
+Por fim, decidi tentar um método estatístico (que parece ter funcionado razoavelmente, princialmente para 
+personagens poderosos). Para simplificar, considere que os valores de ataque e defesa nas perícias com armas 
+são sempre iguais. 
+Fiz algumas tabelas e tentei encaixar uma função matemática que passasse pelos valores, ou pelo menos,  
+próximo a eles. Vejam os resultados: 
+ 
+I - Para personagens Magos, Clérigos, Feiticeiros, Druidas, Bardos e Ladrões, o valor da melhor perícia com 
+armas é : 
+% = Nível x 13 / 9 + Dex(Daemon) x 32 / 9, arredondado para baixo 
+ 
+II - Para personagens Guerreiros, Bárbaros, Rangers, Paladinos e Monges, o valor da melhor perícia com armas 
+é : 
+% = Nível x 44 / 9 + Dex(Daemon) x 23 / 9, arredondado para cima 
+ 
+
+
+--- page 6 ---
+Podemos perceber certa lógica neste sistema: as classes foram divididas de acordo com uma maior ou menos 
+pré-disposição (ou preferência) pelo combate (de modo geral, é mais comum um Bárbaro saber lutar melhor que 
+um Mago, mesmo que eles sejam do mesmo nível e tenham os mesmos atributos). 
+ 
+Além disso, nas classes tipo I, que não são naturalmente voltadas para o combate (e portanto não recebem 
+grandes benefícios de combate conforme avançam de nível), os atributos são bem mais importantes que o nível 
+dos personagens (39/9 é bem maior que 13/9).  Já nas classes que recebem benefícios para combate,  II, o nível 
+torna-se mais importante que os atributos (46/9 > 25/9). 
+ 
+Exemplos:  
+I: Ladrão 1º nível, Dex(Daemon) = 13;  
+% = 1 x 13 / 9 + 13 x 29 / 9 = 390/9 = 43%, arredondando: 40% (na perícia adaga, por exemplo) 
+ 
+II: Monge 2º nível, Dex(Daemon) = 14;  
+% = 2 x 46 / 9 + 13 x 25 / 9 = 437/9 = 46%, arredondando: 50% (na perícia nunchaku, por exemplo) 
+ 
+No caso de um personagem multiclasse (como um Mago 4º nível / Guerreiro 2º nível, Dex(Daemon)= 11), 
+calculamos ambas as porcentagens e fazemos a proporção: 
+Este personagem tem nível total 4+2=6. 4/6 dele é mago, e 2/6 dele é guerreiro. 
+Assim, a fórmula fica 
+% = Nível(I) x 13 / 9 + Nível(II) x 46 / 9 +  
+[Nível(I) x 29 + Nível(II) x 25] x Dex(Daemon) / [ 9 x (Nível(I) + Nível(II) )] 
+ 
+E no nosso exemplo:  
+% = 4x13/9 + 2x46/9 + [4x29 + 2x25]x11 / [9x(4+2)] 
+% = 448/9 = 49 %.  
+Como é um multiclasse, arredondamos para onde for mais próximo: 50% (espadas, por exemplo) 
+(obs: se este personagem fosse um Mago (6º nível) ao invés de Mago/Guerreiro, teria apenas 40%) 
+ 
+É claro que esse processo é um pouco trabalhoso, mas apenas usado na hora da conversão: jogar ainda é tão 
+simples quanto usar um personagem pronto do sistema Daemon. 
+ 
+ 
+ 
+Capítulo V: Aprimoramentos 
+ 
+Legenda: * Aprimoramentos criados pelo autor 
+----------- - Aprimoramentos que devem ser ignorados 
+ 
+Aceleração (1) Você pode correr mais rápido e saltar mais longe, sendo até mesmo capaz de permanecer no ar por alguns 
+instantes (pode voar a 1m de altura). Esta vantagem acrescenta +1 em Agi, +10% em fuga/perseguição, +10% em esquiva 
+e também permite mudar a distância de combate corpo-a-corpo para ataque à distância (ou vice-versa) instantâneamente, 
+sem gastar nenhum turno. 
+Adaptador: ---------------- 
+Aliado (1 ponto cada)-Você tem um aliado, um companheiro com quem pode contar. O aliado pode ser outro personagem 
+jogador ou então um NPC, um personagem controlado pelo Mestre. Seu aliado pode ajudar você quando tiver problemas, 
+mas às vezes ele também pode precisar de sua ajuda!  
+Aparência Inofensiva  (1 ponto) Por algum motivo você não parece perigoso. Talvez pareça muito pequeno, muito fraco, 
+uma menininha segurando um pirulito... você escolhe o motivo. Além de outros benefícios, como entrar em lugares 
+protegidos sem levantar suspeitas, possuir uma Aparência Inofensiva também ajuda em combate. Ela vai surpreender seu 
+oponente - você sempre ganha um ataque extra antes do primeiro turno de um combate. Esse truque NÃO funciona com 
+ninguém que já tenha visto você lutar, e também não engana duas vezes a mesma pessoa! 
+
+
+--- page 7 ---
+*Aptidão Mágica (1 ponto) Você tem a inteligência mínima e capacidade de lidar com conceitos abstratos, 
+idéias exóticas e raciocínio lógico essenciais para o bom aprendizado da magia. Pode aprender magias 
+normalmente, apenas estudando o suficiente para isso. Recebe também 1 ponto em focus (que não pode ser 
+usado para ultrapassar o limite inicial de 5 pontos por caminho). Importante: Aptidão mágica não influi no 
+custo de superpoderes. 
+Arcano (4 pontos) Além de aptidão para magia, você possui uma afinidade natural com as energias místicas 
+necessárias para realizá-la, e pode se tornar um grande mago mais facilmente. Você recebe automaticamente 
+focus 1 em cada um dos 6 caminhos - e mais tarde pode elevar cada focus em separado, com pontos, de forma 
+normal. Contudo, os níveis que você ganha com esta vantagem não podem ser remanejados. Pode realizar 
+normalmente as magias que tenham Aptidão Mágica como exigência. 
+Área de Batalha ------------------- 
+Arena 1 ponto (+10% sempre que o conhecimento do terreno ajudar) 
+Arma Especial: (1 ponto) - +1 de dano, + 10% p/ distribuir entre ataque e defesa;  
+2 ptos - +3 de dano, +30% p/ distribuir entre ataque e defesa 
+Vorpal(2) – Decapita o oponente em caso de acerto crítico 
+Retornável (1pto- volta qdo ARREMESSADA, ou quando chamada) 
+Armadura Extra Dobra o IP quando atacado com essa fonte de dano 
+Cinético,Balístico, Calor/Fogo, Frio/Gelo, Relâmpago/Eletricidade, Luz/laser, Som/Vento, Explosão, Água/Químico (2 ptos 
+cada)/magia : (3ptos) 
+*Ataque de Energia: O personagem pode realizar um ataque de pura energia (um raio laser, por exemplo) que causa Xd6 
+de dano, onde X é o custo do aprimoramento. Para realisar tal ataque, o personagem consome X pontos místicos (ver o 
+capítulo VII para saber o que são pontos místicos). Um personagem com ataque de energia 3 pode utilizar os ataque 1 e 2 
+normalmente, para gastar menos pontos místicos. 
+Ataque Especial ----------------verificar se pode ser substituído por um ataque de energia  
+Ataque Múltiplo ---------------- 
+Boa Fama (1 ponto)- Você é respeitado entre os outros heróis e aventureiros do mundo. Você pode ser conhecido por 
+lutar bem, ter um estilo diferente, uma aparência especial, ou até por uma única luta marcante. De qualquer forma, você é 
+famoso, respeitado ou temido por alguma razão. Ser famoso pode trazer vantagens em algumas ocasiões, mas também 
+problemas. Para você, será mais difícil passar despercebido ou agir disfarçado. Se você tem o aprimoramento negativo 
+Ponto Fraco (veja mais adiante), ele será conhecido por todos. Outra coisa: você é famoso entre aventureiros, heróis e 
+vilões, mas não necessariamente entre pessoas comuns. 
+Clericato: (Deve-se comprar um dos Kits de Tormenta 3E). Ao cumprir as obrigaçõs e restrições, recebe-se os poderes 
+concedidos e um ponto em Focus. 
+Contatos (n: 2 n-1) 
+Deflexão: Esta vantagem permite desviar totalmente um ataque de longa distância. Faça um teste difícil da perícia escudo 
+para desviar o ataque. Se obtiver sucesso, o ataque é desviado e você não recebe nenhum dano. Se falhar, absorva 
+normalmente o dano com seu IP. 
+Energia Extra ------------------- 
+Energia Vital : É o aprimoramento Canalizador (2 pontos – T3E) 
+Forma Alternativa (2 para construtos e máquinas, 4 para outros)- Você pode mudar de forma e de poderes. Para cada 
+forma alternativa que tiver, construa um personagem diferente. Atributos e aprimoramentos podem mudar, mas perícias e 
+desvantagens devem permanecer as mesmas  
+observação: com a variação dos Atributos, os valores iniciais das perícias podem variar, causando uma pequena diferença 
+no final. 
+É importante lembrar que ambas as formas devem possuir o aprimora mento forma alternativa 
+Genialidade ------------------(indica apenas atributos mentais elevados) 
+Levitação (2)- Você pode voar. Quanto maior sua Agilidade, melhor você voa: Em vôo, pode-se voar a uma velocidade 
+duas vezes maior que a em terra, e a 5m de altura para cada ponto de Agi. Você pode tentar atingir altura ou velocidade 
+acima de seu limite, mas o Mestre vai exigir um teste de Agilidade (com um redutor de -1 para cada ponto de Agilidade 
+além da sua); se falhar você cai e sofre 1d6 de dano para cada 10m de altura. 
+Ligação Natural (1)- Você tem uma ligação poderosa e sobrenatural com um animal, criatura ou personagem. Este ser 
+jamais irá atacá-lo e será capaz de sarificar a própria vida para proteger o companheiro - que por sua vez, irá retribuir a 
+proteção. Se estiverem em um mesmo campo visual, podem perceber os pensamentos um do outro e comunicar-se sem 
+
+
+--- page 8 ---
+sinais aparentes. Fora do campo de visão, podem apenas sentir emoções gerais e saber em que direção e distãncia está o 
+outro. Caso um dos dois morra, o outro sofre -10% em todos os testes pelas próximas 3d6 semanas seguintes. 
+Máquina ---------------- 
+Memória Expandida (2)- Você tem uma memória infalível. Pode lembrar tudo que seja ligado aos cinco sentidos, e jamais 
+esquece nada. Você também pode usar sua memória para guardar novos conhecimentos: quando ê uma pessoa usar uma 
+perícia, pode aprendê-la e usá-la como se a tivesse. Você pode manter apenas uma perícia por vez: para aprender uma 
+nova perícia, é necessário apagar a anterior. 
+Mestre (1)- É como o aprimoramento Tutor. Você ainda tem contato com a pessoa que ensinou você a usar seus poderes, 
+habilidades de combate e magias. Pode ser um velho sensei, um guerreiro veterano, um clérigo que ensinou você a louvar 
+uma divindade, um mago que aceitou você como aprendiz, e assim por diante. Ele é muito sábio e sabe responder a 
+praticamente qualquer pergunta. Mesmo que ele esteja morto ou distante, o mestre ainda pode ajudá-lo: em momentos de 
+dificuldade você pode se lembrar de algum ensinamento importante ou receber uma mensagem telepática. 
+Oráculo (1) – Você pode ver o futuro. Em certos momentos, escolhidos pelo mestre, ele pode dizerque você teve uma 
+rápida visão. Você também pode tentar se concentrar com calma para ter essas visões (não necessariamente claras)- Teste 
+difícil de Per ou Will. 
+Paralisia ------------------- 
+Parceiro ------------------- (caso um personagem pronto possua, trocar por aliado) 
+Patrono (2)- Uma grande organização, empresa, governo ou um NPC poderoso ajuda você. Dentro de certos limites, um 
+Patrono pode fornecer transporte, equipamento e informação para um empregado. Um Patrono também pode enviar 
+reforços e ajudar você quando mais precisar.  
+Ter um Patrono também significa que você precisa ser leal e seguir ordens. Muitas vezes você vai precisar cumprir 
+missões para seu Patrono. 
+Pontos Heróicos  ----------------(ver capítulo VII) 
+Poder oculto ----------------- 
+Pontos de Magia Extras --------------- 
+Pontos de Vida Extras ----------------- 
+Possessão ------------------- 
+Reflexão: -------------- (Caso um personagem pronto a possua, trocar por deflexão) 
+Regeneração –Você tem uma espantosa cadacidade de recuperar-se de ferimentos. Por 1 ponto, recupera 1 PV a cada 4 
+horas; por 2 pontos, 1 PV a cada 2 horas; por 3 pontos, 1PV por hora. 
+Resistência à Magia: +30% em Con ou Will para resistir a uma magia  
+Riqueza – Trocar por Recursos 3, 4 ou 5 
+Sentidos Especiais (torna um teste de Per 1 nível mais fácil) Além de cada um dos 5 sentidos aguçados, você pode 
+escolher: visão noturna, visão infravermelha, ver o invisível, visão Raios-X ou Radar (‘visão’ de 360° - porém não 
+depende dos olhos) 
+Separação - -------------- 
+Telepatia (2)- Você tem o poder de ler a mente de outras pessoas e saber o que estão pensando. Quando tenta ler a mente 
+de alguém contra a sua vontade, a vítima testa Per para notar a invasão. Caso consiga, teste WillxWill se o alvo teve 
+sucesso, você falhou - e só pode fazer outra tentativa contra aquele alvo após 24 horas. Você só pode ler a mente de 
+alguém que consiga ver.  
+Usar Telepatia exige que você esteja calmo e concentrado: portanto, é impossível usar durante uma luta. 
+Teleporte (2) - Você é capaz de desaparecer de um lugar e reaparecer em outro. Teleportar-se para lugares que estejam à 
+vista não exige nenhum teste. Para lugares que não possa ver (do outro lado de uma parede, por exemplo), teste 
+máx(Agi/Will/Per): se falhar, nada acontece; se tiver sucesso, você desaparece de onde estava e reaparece onde quiser. 
+Você só  pode levar consigo o que puder carregar. A distância máxima que você pode atingir é igual a 
+máx(Agi/Will/Per)em metros.  
+Tiro Carregável ------- Trocar por Mira (manobra de combate) 
+Tiro Múltiplo ---------- 
+Toque de Energia ---------- 
+Torcida (1) - Você tem fãs, e eles inspiram suas lutas! Um grupo de admiradores acomp anha você, e torce por seu 
+sucesso. Às vezes esse fã-clube pode ser um verdadeiro estorvo, tirando seu sossego e seguindo você por toda a parte - 
+mas, em combates, eles são preciosos. Entre outras coisas, o maior benefício de uma Torcida é que ela aumenta seu moral. 
+Durante uma luta, quando uma torcida está vibrando por você e vaiando o oponente, você ganha +10% e impõe -10% ao 
+oponente em todos os testes do combate. Você recebe esses benefícios sempre que houver uma torcida presente - não 
+
+
+--- page 9 ---
+necessariamente a SUA torcida, mas qualquer público que seja a seu favor (ou contra o oponente, tanto faz). Claro que 
+nem sempre haverá espectadores para torcer por você! 
+Ambiente Especial (-1 ponto) 
+Assombrado (-1) É o aprimoramento "Assombrado" (vide Tormenta 3E, página 50) 
+Bateria (-1) -------------- 
+Código de Honra (-1 ponto cada) - Você segue um código rígido que o impede totalmente de fazer (ou deixar de fazer) 
+alguma coisa. São como as Diretrizes de Robocop ou as Leis da Robótica de Isaac Asimov - você nunca pode 
+desobedecê-las, mesmo que sua vida dependa disso.  
+ - 1ª Lei de Asimov: jamais causar mal a um ser humano (APENAS seres humanos!) ou, por omissão, permitir que um ser 
+humano sofra qualquer mal.  
+ - 2ª Lei de Asimov: SEMPRE obedecer ordens de seres humanos, exceto quando essas ordens violam qualquer outro 
+Código que você possua.  
+ - Código de Área: nunca lutar em áreas urbanas ou rurais/selvagens (escolha uma das duas).  
+ - Código do Caçador: nunca matar (combater ou capturar, quando necessário, mas nunca matar) filhotes ou fêmeas 
+grávidas de qualquer espécie. Nunca abandonar uma caça abatida. Sempre escolher como oponente a criatura mais 
+perigosa que esteja à vista.  
+ - Código dos Cavalheiros: nunca atacar uma mulher (ou fêmea de qualquer espécie), nem mesmo quando atacado, e nem 
+permitir que seus companheiros o façam. Sempre atender um pedido de ajuda de uma mulher.  
+ - Código de Combate: nunca usar Vantagens ou armas superiores às do oponente, nem atacar oponentes caídos ou em 
+desvantagem numérica.  
+ - Código da Derrota: nunca se permitir ser capturado com vida e nunca aceitar a derrota. Caso seja reduzido a 0 Pontos de 
+Vida (apenas em situações de combate honrado, um contra um) ou capturado (em qualquer situação), você DEVE tirar a 
+própria vida.  
+ - Código dos Heróis: sempre cumprir sua palavra, sempre proteger qualquer pessoa ou criatura mais fraca que você, e 
+jamais recusar um pedido de ajuda.  
+ - Código da Honestidade: nunca roubar, trapacear, mentir ou desobedecer as leis locais, nem permitir que seus 
+companheiros o façam.  
+Você pode coletar vários itens e criar um grande Código de Honra, que conta como uma única Desvantagem. Então, se 
+quiser seguir até quatro leis, você terá um único Código de Honra no valor total de - 4 pontos (o máximo permitido). 
+Curto-Circuito (-2 pontos) ---------------- 
+Dependência (-2 pontos): É como os aprimoramentos negativos "Alcoólatra" e "Canibal": você é viciado em algo ilegal, 
+raro ou imoral, e deve satisfazer seu vício todos os dias. Para cada dia sem satisfazê-lo seus atributos diminuem todos em 1 
+ponto (caso algum deles chegue a zero você morre). Sempre que tiver a chance de satisfazer seu vício e não quiser fazê-lo, 
+deve passar por um teste de Will para conseguir resistir. 
+Devoção (-2 pontos) O personagem jurou cumprir um dever sagrado, uma grande missão ou tem uma profunda obcessão. 
+Sua vida é dedicada a cumprir esse dever e nada mais importa. Você não se desvia de seu objetivo e, quando o faz, sofre 
+um redutos de –10% em todos s testes.  
+Fetiche (-1) Seu poderes mágicos estão vinculados a um tipo de objeto que canaliza seu poder (varinhas, cajados, 
+amuletos sagrados, instrumentos musicais, etc.). Se perdê-lo, não poderá usar magia até encontrar outro. Em situações de 
+combate, se sofrer mais de um ponto de dano e falhar em um teste de Dex (ou for desarmado) ele cai no chão e você vai 
+gastar um turno para conseguir recuperá-lo. Um fetiche quebrado ou improvisado impõe um redutos de –1 nos seus 
+focus. 
+Fúria (-1): Você é o famoso irritadinho: se recebe mais de 1 ponto de dano de uma só vez você se enfurece e parte para 
+cima do adversário, esquecento do resto do mundo. Em fúria você luta melhor (+10% no ataque, dano +2), mas é incapaz 
+de usar qualquer manobra de combate ou aprimoramento que conceda benefícios no mesmo. Além disso, nessas ocasiões 
+sempre luta até a morte (ou pelo menos até um dos dois desmaiar) e depois da luta fica esgotado, recebendo um redutor 
+de –10% em todos os testes durante a próxima hora. Se nesse período você entrar em fúria novamente, os redutores serão 
+cumulativos. 
+Inculto -----------Indica apenas baixos atributos mentais  
+Inimigo – (-1 ou –2 pontos cada): É o contrário de Aliado. Você tem um inimigo que está sempre tentando derrotar ou 
+acabar com você. Esse inimigo é um NPC, controlado pelo Mestre, e você nunca sabe quando ele vai aparecer.  
+Um Inimigo mediano, de poder similar ao seu (feito com a mesma quantidade de pontos), é uma Desvantagem de -1 ponto. 
+O inimigo desse tipo mais clássico é o "gêmeo maligno", uma cópia exata do seu personagem. Por -2 pontos você pode ter 
+
+
+--- page 10 ---
+um inimigo muito mais poderoso que você (feito com muito mais pontos!). Inimigos podem ser escolhidos ou sugeridos 
+pelo jogador, mas serão sempre construídos - ou modificados - pelo Mestre.  
+Caso um Inimigo seja destruído para sempre, ele p ode ser substituído por outro mais poderoso. O personagem não recebe 
+pontos extras por isso. 
+Insano (0 a –3 pontos cada) 
+- 
+Cleptomaníaco (-1) É o aprimoramento "Cleptomaníaco" (vide Tormenta 3E, página 50) 
+- 
+Compulsivo (-1): É como o aprimoramento negativo"Mentiroso compulsivo", mas não se aplica a mentiras, e sim 
+a alguma outra atividade. Uma vez por hora, o personagem deve gastar 3d6 minutos satisfazendo sua compulsão. 
+Se não estiver dormindo, larga qualquer coisa (incluindi combates) para fazê-lo. 
+- 
+Demente (-1) ----------------- 
+- 
+Depressivo (-2) É o aprimoramento "Maniaco Depressivo" (vide Tormenta 3E, página 51) 
+- 
+Dupla Personalidade (-3) É o aprimoramento "Dupla Personalidade" (vide Tormenta 3E, página 50) 
+- 
+Distraído (0): O personagem se distrai muito facilmente. Deve fazer um tste de Will para conseguir se concentrar 
+em qualquer coisa em que não tenha grande interesse (ou seja, que não esteja ao menos citada no background 
+do personagem) Em caso de falha, sofre um redutos de –10% na realização de qualquer teste. 
+- 
+Fantasia (-1): É como o aprimoramento negativo "Esquisofrenia" 
+- 
+Fobia (-1 a –3): É igual ao aprimoramento negativo 'Fobia Grave' (Tormenta 3E, pág 51); a diferença de custo 
+deve-se a quão comum é encontrar o objeto ou situação causadora do medo. 
+- 
+Furioso (-1): É igual ao Aprimoramento negativo 'Fúria' 
+- 
+Histérico (-2): Você pode começar a rir ou a chorar sem motivo. Em regras, é o mesmo que Assombrado. 
+- 
+Homicida (-2) É o aprimoramento "Assassino Serial" (vide Tormenta 3E, página 50) 
+- 
+ Megalomaníaco (-1): Se enquadra no aprimoramento negativo "Esquisofrênico" 
+- 
+Mentiroso (-2) É o aprimoramento "Mmentiroso Compulsivo" (vide Tormenta 3E, página 51) 
+- 
+Obcessivo (-2) É igual a Devoção 
+- 
+Paranóico (-1) É o aprimoramento "Mania de Perseguição" (vide Tormenta 3E, página 51) 
+- 
+Sonâmbulo (0): Você sai andando e falando 50% das vezes que dorme. Se sofrer qualquer dano, acorda. 
+- 
+Suicida (0): Você não dá valor à própria vida. Embora não tenha coragem se matar, sempre procura oportunidades 
+de morrer, correndo riscos desnecessários e desafiando inimigos perigosos. 
+Interferência -------------- 
+Má Fama(-1) - Você é famoso entre aventureiros, heróis e vilões, mas de uma forma que não gostaria. Talvez você tenha 
+fracassado em alguma missão importante, foi derrotado ou humilhado publicamente, é um ex-criminoso tentando se 
+regenerar, pertence a uma raça detestada... por algum motivo, ninguém acredita ou confia em você. Você está sempre sob 
+suspeita. Será mais difícil fazer com que confiem em você, e sua presença em um grupo vai tornar todos os outros 
+suspeitos também. Caso seja constatado algum perigo, muito provavelmente você será perseguido mesmo que seja 
+inocente. 
+Maldição (-1 ou –2 pontos) É o aprimoramento "Maldição" (vide Tormenta 3E, página 51) 
+Modelo Especial (-1) Por algum motivo, seu corpo é diferente de um corpo humano normal: muito maior, menor, com 
+membros nos lugares errados...diferente do padrão humanóide normal. Por esse motivo, você não pode usar máquinas e 
+veículos projetados para humanos e vice-versa. 
+Monstruoso (-1)- Por algum motivo sua aparência é repulsiva e assustadora. Você não pode sair pelas ruas como gente 
+normal - as pessoas ficarão assustadas ou furiosas. O motivo exato daquilo que torna você monstruoso pode variar. 
+Qualquer coisa que possa ser facilmente disfarçada com roupas (olhos vermelhos, orelhas pontudas, uma cauda fina...) 
+NÃO conta como Monstruosa. Se você tem algum poder natural para disfarçar seu verdadeiro aspecto, isso também não é 
+considerado Monstruoso.  
+Por motivos óbvios, ninguém pode ter Monstruoso e Aparência Inofensiva ao mesmo tempo!  
+Munição Limitada (-1 ponto) --------------- 
+Ponto Fraco (-1): Sua técnica de luta é falha. Um oponente que conheça seu ponto fraco recebe +10% quando luta contra 
+você. Um ataque localisado no seu ponto fraco causa o dobro do dano. Para localisar um ponto fraco, basta um teste de 
+Per. Se você tem Boa ou Má fama, seu ponto fraco será conhecido por todos os heróis e vilões. 
+Protegido Indefeso - Existe alguém que você precisa proteger de qualquer maneira. Essa pessoa será sempre visada pelos 
+vilões, e você precisa protegê-la com a própria vida. Ter um Protegido é arriscado, pois os vilões podem tentar usá-lo 
+como chantagem para vencer você!  
+Sua concentração nas lutas será prejudicada caso seu Protegido esteja em perigo, prisioneiro ou muito ferido; nessas 
+situações você sofre um redutor de -10% em seus testes, até que ele esteja são e salvo outra vez. Se o Protegido morrer ou 
+
+
+--- page 11 ---
+desaparecer para sempre, você sofre o redutor PERMANENTEMENTE. Se quiser, você pode ter mais de um Protegido - 
+mas isso aumenta seus riscos: caso eles estejam em perigo ao mesmo tempo, os redutores serão acumulados. 
+Restrição de Magia É o aprimoramento "Restrição de Magia" (vide Tormenta 3E, página 51) 
+Vulnerabilidade: (-2 Magia, -1outros) ignora o IP do alvo 
+ 
+ 
+Capítulo VI: MUUUUITA Magia 
+ 
+ 
+Magia Arcana x Magia Divina 
+ 
+Magos são, acima de tudo, estudiosos. Livros e linguas antigas, runas e rituais são vasculhados a fundo a fim 
+de entender a lei que rege a energia mística conhecida como magia. Por outro lado, clérigos são sacerdotes de 
+uma divindade poderosa, que lhes concede “pequenos milagres” em troca de sua devoção e constantes 
+orações. 
+ 
+Uma vez que magos devotam a maior parte do seu tempo ao estudo, compreensão e aprendizado de magias, é 
+de se esperar que magos dominem melhor que os clérigos, já que estes últimos têm outras obrigações (como 
+realizar cerimônias e conduzir a vida espiritual dos fiéis) além de tentar realizar “milagres”.  
+ 
+Para possibilitar a conversão (3D&T + D20 = Daemon), aumentar os poderes dos clérigos e paladinos, 
+aumentando assim o lado fantástico (Daemon) e diferenciar melhos magos e clérigos (3D&T), foram criadas 
+algumas novas regras. 
+Como ficam regras novas e antigas: 
+ 
+Magia Arcana 
+Realizada por magos, bardos, ilusionistas e gênios. 
+ 
+Aptidão Mágica (1 ponto) 
+Você tem a inteligência mínima e capacidade de lidar com conceitos abstratos, idéias exóticas e raciocínio 
+lógico essenciais para o bom aprendizado da magia. Pode aprender magias normalmente, apenas estudando o 
+suficiente para is so. Recebe também 1 ponto em focus (que não pode ser usado para ultrapassar o limite inicial 
+de 5 pontos por caminho). Importante: Aptidão mágica não influi no custo de superpoderes. 
+ 
+Arcano (4 pontos) 
+Além de aptidão para magia, você possui uma afinidade natural com as energias místicas necessárias para 
+realizá-la, e pode se tornar um grande mago mais facilmente. Você recebe automaticamente focus 1 em cada um 
+dos 6 caminhos - e mais tarde pode elevar cada focus em separado, com pontos, de forma normal. Contudo, os 
+níveis que você ganha com esta vantagem não podem ser remanejados. Pode realizar normalmente as magias 
+que tenham Aptidão Mágica como exigência. 
+ 
+Magia Divina 
+Realizada por sacerdotes, paladinos, druidas e xamãs, que se utilizam da fé e da oração para canalizar os 
+poderes de seus deuses. 
+ 
+Clericato (2 pontos) 
+Você é um sacerdote, um servo dos deuses. Em troca de cumprir certas Obrigações e Restrições, você recebe 
+poder mágico (1 ponto em focus, podendo aprender magias divinas, mas não arcanas) e uma série de outros 
+benefícios, como visto no Manual 3D&T, pág 117, Capítulo: Clérigos e Deuses. 
+ 
+Paladino (2 pontos) 
+Você é um guerreiro sagrado. Um soldado que recebeu poder dos deuses, guiado por nobres ideaisde honra e 
+justiça. Paladinos recebem 2 pontos em focus, que devem ser gastos nos caminhos da água, do ar e da luz, 
+
+
+--- page 12 ---
+sendo que não podem ter focus em nenhum outro caminho. Podem realizar quaisquer magias divinas que usem 
+apenas esses três caminhos. 
+Paladinos recebem bônus de +1 em testes de resistência. Isso não aumenta seus pontos de vida além do 
+normal para sua resistência verdadeira. Paladinos devem seguir os códigos de honra dos heróis e da 
+honestidade, e recebem automaticamente os Poderes Concedidos e devem cumprir as Obrigações e Restrições. 
+Apenas humanos, meio-elfos e meio-orcs podem ser paladinos. A única exceção é quanto aos paladinos da 
+justiça, que podem ser Anões. 
+ 
+Divindades, sejam maiores ou menores, podem lançar quaisquer magias, incluindo as divinas. 
+ 
+Psis 
+Usuários de magia que sejam telepatas podem aprender todas as magias que têm telepatia como exigência, 
+mesmo que não tenham Aptidão Mágica ou Clericato, mas precisam ter as outras exigências das magias. Pode-
+se também utilizar tais magias usando Poder Telepático. Ainda sobre as magias p ara telepatas, colocarei as 
+adaptações para usar os Dons da Mente. Além disso, já que no Tormenta 3E havia algumas magias que na 
+verdade eram poderes mentais, por que não adaptar os poderes mentais como formas de magia ? 
+ 
+Outros 
+Sem estas vantagens, não é possível aprender novas magias: seus poderes são habilidades 
+naturais,descobertas por acaso e desenvolvidas com treinamento, sem palavras mágicas ou gestos especiais; 
+sua magia apenas "acontece". Há apenas duas opções: comprar magias como superpoderes ou, como ocorre 
+com os Feiticeiros (comprando o Kit), suas magias podem ser escolhidas apenas entre as que não exigem 
+Aptidão Mágica nem Clericato. 
+ 
+Magias iniciais e Aprendendo Magias 
+Além das regras vistas no manual 3d&t, colocamos mais algumas: 
+Ao tentar aprender uma magia apenas ouvindo-a uma vez, a menos que o mago tenha memória expandida (que 
+fará ele se lembrar exatamente das palavras) ou idiomas (que fará com que ele entenda tais palavras), o mago 
+NÃO irá entender as palavras mágicas direito (tente ter uma pronúncia perfeita de palavras em russo, sueco ou 
+alemão ouvindo-as somente uma vez e entenderá o que digo). Nas primeiras 1d6 vezes que realizar a nova 
+magia, role 1d6 na tabela abaixo: 
+1-2) Falha: a magia não funciona, mas também não consome pvs do mago. 
+3) Efeito inesperado: A magia funciona de maneira totalmente diferente, talvez até se tornando outra magia. 
+Magias de invocação conjuram os seres errados, criaturas mágicas se voltam contra o mago, magias de 
+influência/controle da mente criam reações no alvo diferentes das planejadas, a magia atinge outro alvo 
+qualquer, enfim, qualquer coisa pode acontecer. 
+4-6) Sucesso: A magia funciona normalmente. 
+ 
+Acrescentamos às magias iniciais as magias Criar Elemento, Leitura de Mentes e Transmissão telepática. 
+ 
+Lista de Magias Arcanas (74) 
+Passam a ter Aptidão Mágica (ou Arcano) como exigência 
+Os nomes entre parêntesis são os nomes dos poderes psíquicos equivalentes; Nomes sublinhados indicam 
+que a magia é nova (e sua descrição encontra-se mais para frente)..  
+ 
+Aderência  
+Alarme! 
+Alterar Sabor  
+Ao Alcance da mão 
+Anfíbio 
+O Apavorante Gás de Luigi 
+Armadura Elétrica 
+Ataque Vorpal 
+Asfixia 
+
+
+--- page 13 ---
+Banf! 
+Bola de fogo (Bola de Fogo) 
+A Bola de Fogo de Questor 
+O Canto da Sereia - com Artes 
+Chuva Quente 
+Conhecer Direção (Conhecer Direção) 
+Conjurar Criatura Extraplanar 
+Conjurar Objetos 
+O Crânio Voador de Vladislav 
+Cura Para Mortos 
+Desvio de Disparos 
+Enxame de Trovões 
+A Erupção de Aleph 
+Explosão 
+Fascinação 
+Fazer Dever de Casa  
+Fechadura 
+Ferrões Venenosos 
+Festa de Primavera  
+Flecha de Ácido 
+Flecha de Fogo 
+Flecha de Gelo  
+A Flor Perene de Milady "A" 
+Fogueira 
+Fúria Guerreira - com Artes 
+Gênio na Garrafa  
+Imagem Turva 
+Inferno de Gelo 
+Intangibilidade  
+Lágrimas de Wynna 
+A Lança Infalível de Talude 
+Leitura de Lábios 
+Limpeza  
+Mãos de Fogo 
+Mãos Espectrais  
+A Mágica Silenciosa de Talude 
+A Marcha da Coragem 
+Marionete 
+Mata-Dragão 
+Um Momento de Tormenta 
+A Morte Estelar 
+A Nulificação Total de Talude 
+Petrificação 
+Poder Telepático 
+Porta Astral 
+Raio Desintegrador 
+A Resistência de Helena 
+A Rocha Cadente de Vectorius 
+Roubo de Vida 
+Sentidos Especiais 
+A Seta infalível de Talude 
+Silêncio 
+Sinestesia 
+Sombra de uma Magia 
+
+
+--- page 14 ---
+Sussurro da Ninfa  
+Teleportação 
+Teleportação Avançada 
+A Teleportação Infalível de Vectorius 
+Terremoto 
+Terreno Escorregadio de Neo 
+Transformação em Pudim de Ameixa 
+Twilight Simphony 
+Verificar Dever de Casa 
+Visão do Passado 
+Voz dos Ventos 
+ 
+Lista de Magias Comuns (70) 
+Podem ser usadas por todos 
+Os nomes entre parêntesis são os nomes dos poderes psíquicos equivalentes. Nomes sublinhados indicam 
+que a magia é nova (e sua descrição encontra-se mais para frente)..  
+ 
+Absorção de Energia 
+Amortecer Queda 
+Aquecer o Ar (Aquecer o Ar) 
+Armadura Espectral 
+Armadura Extra 
+Ataque Mágico* 
+Aumento de Dano* 
+Banir 
+Buraco Negro 
+Cajado em Cobra 
+Campo de Distorção 
+Cancelamento de magia* (Cancelar Poder) 
+Catalogar 
+Cegueira (vira Perda de Sentidos) 
+Conjurar Animais 
+Cores 
+Corpo Elemental* 
+Criação de Mortos Vivos 
+Criar Elemento* (Criar Sons, Incendiar, Criar Gelo...) 
+Criatura Mágica* 
+Cura Mágica* (Cura) 
+Defesa do Coração 
+Desejo 
+Desmaio 
+Detecção de Magia* (Detectar Psiquismo) 
+Distorção do Equilíbrio 
+Envelhecer 
+Escuridão 
+Esfriar o Ar (Esfriar o ar) 
+Fogo Frio 
+Fogo Negro 
+Força Mágica* (Força Cinética) 
+Garras de Atavus 
+Ilusão* 
+Ilusão Avançada* 
+Ilusão Total* 
+Invisibilidade* 
+
+
+--- page 15 ---
+Invocação do Dragão 
+Invocação do Elemental 
+Invocação da Fênix 
+Invulnerabilidade 
+Leitura de Auras 
+A Loucura de Atavus 
+Luz (entra em criar elemento) 
+Megalon 
+Mentir 
+Mikron 
+Monstros do Pântano 
+Nobre Montaria 
+Pacto com a Serpente 
+Permanência 
+Perda de Sentidos 
+Praga de Kobolds 
+Proteção Mágica* 
+Proteção contra o elemento* 
+Sanidade 
+O Soco de Arsenal 
+Sopro de Tenebra (Animação Suspensa) 
+Temporizar 
+O Toque do Unicórnio 
+Transformação 
+Transformação em Orc 
+Transformação em Outro 
+Transporte 
+Troca de Corpos 
+Troca de Sexo  
+Tropas de Ragnar 
+Verter água de pedra 
+Vidente 
+Vôo 
+ 
+* magias Iniciais 
+ 
+Lista de magias Divinas (30) 
+Apenas para clérigos e paladinos 
+Os nomes entre parêntesis são os nomes dos poderes psíquicos equivalentes. Nomes sublinhados indicam 
+que a magia é nova (e sua descrição encontra-se mais para frente)..  
+ 
+Abençoar 
+Acelerar Envenenamento 
+Afinidade com Animais  
+Amor de Marah 
+Apodrecer 
+A Arma de Allihanna 
+A Armadura de Allihanna 
+O Beijo do Príncipe 
+Bênção 
+Controle de Mortos Vivos 
+Conversar em Sonhos – com clericato 
+Criação de Frutas e Vegetais  
+Cura de Maldição 
+
+
+--- page 16 ---
+Cura Sagrada 
+Descanso 
+Empatia 
+Esconjuro de Mortos Vivos 
+Explosão de Azgher 
+Fortalecer Magia 
+Intensidade 
+Lágrimas de Hyninn 
+Paralisia 
+A Pedra no Meio do Caminho 
+Perigo! (Sensação de Perigo, Intuição) 
+Prontidão 
+Remover Possessão 
+Ressurreição 
+Retardar Envenenamento 
+O Sacrifício do Herói 
+Toque da Dor 
+ 
+ 
+Lista de Magias para Telepatas (21) 
+Exigem Telepatia ou Poder Telepático 
+Os nomes entre parêntesis são os nomes dos poderes psíquicos equivalentes. Nomes sublinhados indicam 
+que a magia é nova (e sua descrição encontra-se mais para frente)..  
+ 
+O Amor Incontestável de Raviollius 
+Armadura Mental (Barreira Mental) 
+Ataque Mental (Golpe mental) 
+O Canto da Sereia - com telepatia 
+Coma 
+Contra-Ataque Mental 
+Conversar em Sonhos – com telepatia 
+Desmaio 
+Dominação Total 
+Fúria Guerreira - com Telepatia 
+Leitura de Mentes* 
+Magia perdida 
+Mundo dos Sonhos 
+Olho da Alma  
+Pânico (Assombro) 
+Pesadelo 
+Pirofobia 
+Sono 
+Transferência de Conhecimento 
+Transmissão Telepática* 
+Vazio 
+ 
+Lista de Novas Magias ( 67 novas magias) 
+Além das novas regras e divisão das magias em grupos, aproveitamos para sugerir novas magias, aqui 
+listadas. 
+Os nomes entre parêntesis serõa os nomes dos poderes psíquicos equivalentes.  
+ 
+Abençoar 
+Exigências: 3D&T: Focus 1, Clericato; Daemon: Clericato, Focus 1 
+Duração: Permanente até ser cancelada 
+
+
+--- page 17 ---
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Tudo se torna mais fácil com os deuses (ou pelo menos um deles) do seu lado. Ao realizar esta magia, o clérigo 
+pede ao(s) seu(s) deus(es) para ajudarem o alvo em sua próxima tarefa. O alvo recebe um bônus de +1 no 
+próximo teste que fizer, seja ele um ataque, perícia, teste de resistência, etc. Esta magia NÃO é cumulativa com 
+ela própria. 
+ 
+Absorção de Energia 
+Exigências: 3D&T: Trevas 3; Daemon: Controlar Metamagia/Humanos 3; Psi: Força Vital 3 
+Custo: Padrão 
+Duração: Enquanto o toque durar  
+Alcance: Somente ao toque  
+Igual ao magia Roubo de Vida, mas absorve PMs (2 por turno). Esses pontos serão adicionados aos do mago, 
+sem ultrapassar o limite máximo. 
+ 
+Acelerar Envenenamento 
+Exigências: 3D&T: Trevas 3, Água 2, Clericato  
+Daemon: Clericato, Controlar Trevas3/Água2/Metamagia2; Psi: Força vital 4 
+Duração: Instantânea 
+Custo: 2PMs 
+Alcance: Apenas ao toque 
+Esta magia, usada principalmente por Sszzaasitas, pode ser mortal. Quando aplicada, faz com que o veneno aja 
+duas vezes mais rápido para matar a vítima (por exemplo, um veneno que levaria 2d rodadas para começar a agir 
+leva 1d, enquanto um que cause 1 ponto de dano por turno causa dois pontos de dano por turno), diminuindo 
+as chances de que se consiga algum médico ou alguém com habilidades de cura mágica. 
+ 
+Aderência 
+Exigências: 3D&T: Terra 1, Aptidão Mágica; Daemon: A. Mágica, Controlar Humanos 1/Animais 1 
+Duração: sustentável 
+Custo: 1 PMs  
+Alcance: Apenas o próprio mago 
+Esta magia simples, porém não muito difundida cria um sistema de ventosas ou garras microscópicas nas mãos 
+e pés do mago, tornando-o capaz de escalar com as mãos nuas qualquer superfície sólida, mesmo as mais lisas, 
+como fazem insetos e lagartixas. Andrus, o Aranha, ficou famoso após roubar de Mestre Arsenal uma capa 
+encantada com esta magia. 
+ 
+Afinidade com Animais 
+Exigências: 3D&T: Clericato, Luz 1; Daemon: Clericato, Entender Animais 2;  
+Psi: Força Vital 1 
+Custo: Padrão 
+Duração: Sustentável 
+Alcance: Padrão 
+Os animais não vêm o mago como uma ameaça e o deixarão em paz (a menos que sejam provocados ou estejam 
+sobre controle mental). 
+ 
+Alterar Sabor 
+Exigências: 3D&T: Água 1; Daemon: Controlar Água 1 
+Duração: Permanente até ser cancelada 
+Custo: 1PM para cada kg de alimento 
+Alcance: Padrão 
+Em alguns restaurantes de boa qualidade, por ser comum que clientes duvidem das habilidades culinárias dos 
+cozinheiros, há placas onde se lê: "visite nossa cozinha"; tudo isso pela existência dessa magia, que é capaz de 
+produzir qualquer gosto em uma refeição, podendo torná-la extremamente saborosa. Sua utilização é 
+
+
+--- page 18 ---
+preocupante, uma vez que os pratos alvos desta magia podem causar, naqueles que falham em um teste de 
+R+1, uma doença comum, não mágica, conhecida como diarréia. 
+ 
+Amor de Marah 
+Exigências: 3D&T: Luz 3, Clericato; Daemon: Clericato, Criar Luz 3 
+Duração: Permanente até ser cancelada 
+Custo: 2PMs 
+Alcance: Apenas ao toque 
+Esta magia é usada por clérigos para proteger pessoas que estejam sendo agredidas, simulando o poder dos 
+clérigos da deusa da paz, porém em versão mais fraca. Qualquer ser que tente atacar o alvo da magia deve ser 
+bem sucedido em um teste de R+1, ou será incapaz de fazê-lo. Caso a magia tenha sido feita por um clérigo de 
+Marah, o teste será R-1. Um novo teste deve ser feito para cada ataque ou ato hostil. É bom lembrar que 
+qualquer ato agressivo por parte do alvo cancela a magia. 
+Esta magia, por impedir atos violentos, é também chamada de Lágrimas de Keen, o que costuma enfurecer os 
+devotos do deus da guerra; afinal, o grande Keen não chora... 
+ 
+Amortecer Queda 
+Exigências: 3D&T: Ar 2; Daemon: Controlar Ar 2; Psi: Telecinésia 2 
+Duração: Sustentável (durante a queda) 
+Custo: 1PM por pessoa (ou 50 kg de carga) 
+Alcance: Padrão 
+Uma vez que a magia de vôo não é dominada por todos, e transporte mágico não funciona muito acima do 
+chão, esta magia foi desenvolvida para minimizar os efeitos de quedas, que já conseguiram matar até mesmo 
+grandes (mas descuidados!) heróis de Arton. Contra pequenas alturas, pode amortecer totalmente a queda de 
+uma pessoa ou objeto, enquanto apenas desacelera corpos a fim de diminuir o baque contra o solo nos casos 
+de grandes alturas. Em termos de regras, o dano da queda é diminuído em 3d6, em qualquer dessas ocasiões. 
+ 
+Apodrecer 
+Exigências: 3D&T: Clericato, Trevas 1; Daemon: Clericato, Criar plantas ou Animais 1;Psi: Força Vital 1
+ 
+ 
+ 
+Custo: Padrão 
+Duração: Instantânea  
+ 
+ 
+ 
+Alcance: Apenas ao toque 
+O toque dos mago destrói ervas, mata pequenos animais e apodrece coisas de natureza orgânica. 
+ 
+Aquecer o Ar 
+Exigências: 3D&T: Fogo 1, Ar 1, Daemon: Controlar Fogo 1, Ar 1; Psi: Pirocinésia 1  
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+Este poder faz com que a temperatura ambiente aumente. Duplique a temperatura  ambiente para cada ponto de 
+Focus utilizado. Se a temperatura ultrapassar 35oC, todos os testes serão feitos com metade do valor normal. Se 
+esta ultrapassar 45o C, qualquer criatura que tenha CON abaixo de 12 deverá fazer um teste de CON para não 
+desmaiar. Se ultrapassar 50o C, criaturas com CON abaixo de 12 devem fazer um teste com metade do valor 
+normal e criaturas com CON abaixo de 18 devem fazer um teste normal. Criaturas aquáticos devem fazer testes a 
+partir de 35o C. 
+ 
+Ataque Mental 
+Exigências: 3D&T: Focus 2, Telepatia; Daemon: Controlar Humanos 2; Psi:Telepatia 1 
+Duração: Instantânea 
+Custo: 1 PM 
+Alcance: Padrão 
+Ataca direto a mente da vítima, causando 1d6 (H+1d em 3D&T) de dano, que ignora totalmente o IP (a 
+armadura) do alvo, exceto se ele tiver Armadura extra: Magia, quando sua proteção funciona normalmente(mas 
+
+
+--- page 19 ---
+ela não dobra). Caso o alvo esteja sob efeito de Armadura mental, nada sofre; Contra-ataque mental funciona 
+normalmente contra esta magia. O alvo ainda deve fazer um teste de Will+20% ( R +2) para não desmaiar. 
+ 
+Banir 
+Exigências: 3D&T: Terra 4, Luz ou Trevas 4;  
+Daemon: Controlar Espíritos/Metamagia 3; Psi: Mediunidade 3 
+ 
+ 
+Custo: Especial 
+Duração: Permanente 
+ 
+ 
+ 
+Alcance: Padrão 
+Através dos seus poderes, o mago pode enviar um ser extraplanar de volta para seu plano de origem. Para isso, 
+anuncia quantos PMs irá gastar (o limite de pontos é igual ao seu Focus em Mediunidade) e testa WILL + Xd6 
+(onde X é igual ao numero de PMs empregados) vs. WILL da criatura (em 3D&T, faz-se um ataque com FA = H 
++ Focus + quantidade de PMs gastos pelo mago. Se a criatura sofrer dano, perde a disputa). Caso a criatura 
+perca a disputa, será enviada para seu plano de origem. A única exceção é se a passagem para o reino dos 
+mortos não tiver sido concedida para aquele espírito; nesse caso, ele se afastará do mago o máximo que puder, 
+e este poder passa a ser instantâneo, e não permanente. 
+ 
+Beijo do Príncipe 
+Exigências: 3D&T: Terra ou Fogo 2, Clericato; Daemon: Clericato, Controlar Humanos 2;  
+Psi: Força Vital 2 
+Duração: Instantânea 
+Custo: 1 PM por criatura 
+Alcance: Padrão 
+Inventada por colegas de dorminhocos, ou de pessoas que se tornam agressivas ao acordarem, esta magia 
+permite, a alguma distância (não é necessário beijar ninguém!), acordar uma certa quantidade de pessoas, que 
+não chegam a perceber diferença entre serem acordadas deste modo ou despertarem naturalmente. Quando 
+usada contra vítimas das magias Desmaio ou Sono, só funciona se o focus do clérigo é maior ou igual à metade 
+do focus do mago "adormecedor". 
+ 
+Campo de Distorção 
+Exigências: 3D&T: Terra (3+X), Fogo 2, Distorção de Equilíbrio;  
+Daemon: Controlar Humanos 3, Metamagia 3+X, Distorção de Equilíbrio;  
+Psi: Telecinésia 5, Distorção de Equilíbrio 
+Duração: Sustentável por 1+3*X turnos 
+Custo: 3+X PMs 
+Alcance: apenas o mago 
+Uma magia tão rara quanto complexa, que cria um campo ao redor do mago o qual faz com que tudo o que o 
+penetre diminua sua velocidade pela metade, excetuando-se o próprio mago e seus ataques. Aqueles afetados 
+pela magia, isto é, aqueles dentro da área de efeito, sofrem um redutor de –20% (-2 em H) nos testes para 
+acertar os não-afetados (o mago e os que estão fora da área de efeito). Estes, por sua vez, recebem +20% (+2 
+em H) para acertarem ou esquivarem-se dos ataques dos que estão sofrendo os efeitos da magia. O campo, 
+cujo raio é de 2x(1+X) metros, tem formato esférico e centro no mago que a invocou. Apesar de ser uma magia 
+por área, o mago pode se mover livremente, pois o campo se movimenta conforme quem a invocou o faz. 
+ 
+Catalogar 
+Exigências: 3D&T: Focus 1 em dois caminhos; Daemon: Controlar + Focus 1 em dois caminhos 
+Duração: Instantânea 
+Custo: 0 
+Alcance: Padrão 
+Utilizada por magos bibliotecários, clérigos de Tanna-Toh e outros, esta magia classifica objetos de um mesmo 
+tipo de acordo com uma característica (tamanho, peso, tipo, cor, conteúdo, etc). É também comum seu uso em 
+livros, ordenando-os por assunto ou ordem alfabética. 
+ 
+Conhecer a Direção 
+
+
+--- page 20 ---
+Exigências: 3D&T: Aptidão Mágica, Terra 1; Daemon: Entender Metamagia 1; Psi: Sensitividade 1 Custo: 
+Padrão 
+Duração: Instantânea 
+ 
+ 
+ 
+Alcance: Padrão 
+A bússola mágica. Com esse poder, o mago pode saber para que lado é o norte. 
+ 
+Conjurar Criatura Extraplanar 
+Exigências: 3D&T: Aptidão Mágica, Terra 3, Água  3, Luz 3;  
+Daemon: Controlar Metamagia 3 Psi: Psicoportação 3 
+ 
+ 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+Com este poder o mago pode conjurar criaturas de qualquer plano. As crituras conjuradas terão 1D de 
+Atributos para cada ponto nos focus utilizados. Lembre-se que tais criaturas podem não gostar de serem 
+conjuradas. 
+ 
+Conjurar Objetos (Criação de Formas-Pensamento) 
+Exigências: Aptidão Mágica, Terra 6, Ar 4;  
+Daemon: Criar Metamagia 6; Psi: Projeção de Consciência 2  
+Custo: 1 PM p/ turno 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+O Mago tem a capacidade de canalizar a energia da Forma-Pensamento de outros planos. Com um teste de 
+Percepção (Habilidade), o mago é capaz de tatear o mundo espiritual em busca de algum objeto e mentaliza-lo 
+dentro da área de alcance do poder. O Teste é Normal para objetos pequenos (moedas, lápis, papel, coisas de 
+uso cotidiano); Difícil (H-2) para objetos pequenos mas exóticos (jóias, armas, peças de roupa) ou com mais de 
+30cm; e impossível para objetos únicos (a chave de uma porta, um documento especifico, um objeto 
+personalizado) ou feitos de qualquer tipo de metal ferroso. Os objetos conjurados dissolvem-se em Forma-
+Pensamento novamente quando o poder for desativado ou quando se esgotarem os PMs do mago.   
+ 
+Conversar em Sonhos 
+Exigências: 3D&T: Telepatia, Fogo 1, ou Clericato, Fogo 1;  
+Daemon: Clericato, Entender Humanos 2; Psi: Telepatia 2 
+ 
+ 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+O mago pode conversar com a pessoa enquanto ela dorme. Esta não é obrigada a responder nenhuma 
+pergunta do mago e pode acordar com um sucesso num teste de WILL (R+2). 
+ 
+Criar Elemento * 
+Exigências: 3D&T: Focus 1; Daemon: Criar Caminho elemental 1 
+Duração: Sustentável 
+Custo: 0 
+Alcance: Padrão 
+A mais simples magia elemental. Um balde d'água, ar fresco, uma fogueira, pedras, luz, sombras podem ser 
+criadas com essa magia. Sim, é possível beber a água, respirar o ar, queimar com o fogo (1 ponto de dano por 
+turno), iluminar ou ofuscar com a luz (caso o alvo falhe em um teste de resistência, fica cego por 1d6 turnos), 
+esconder algo nas sombras e etc. Mas como é uma magia sustentável, não é útil, por exemplo, criar e beber 
+água no deserto: se o criador da água desmaiar pelos efeitos do calor, distanciar-se de quem bebeu essa água 
+ou a magia for interrompida de alguma outra maneira, a água simplesmente desapareceria de dentro de quem a 
+tomou, causando desidratação profunda, e podendo levar à morte. 
+ 
+Defesa do Coração 
+Exigências: 3D&T: Focus 6 em qualquer caminho; Daemon: Controlar Humanos 3, Espíritos 5 
+
+
+--- page 21 ---
+Alcance: Padrão 
+Duração: Permanente 
+Custo: Especial (veja abaixo) 
+Esta magia é a maior prova de amor que um Mago pode fazer a uma pessoa. Num momento de desespero e 
+perigo fatal iminente o Mago pode abdicar da sua vida para proteger sua amada. Todas as forças deste se 
+concentram  até o ponto em que a própria alma do mago se liberta do corpo e viaja o mundo inteiro se 
+necessário para tornar-se eternamente o guardião do alvo. A morte apunhala o Mago ao mesmo tempo em que 
+sua alma se funde ao corpo daquela que o arcano amou. O Mago estará condenado por toda a eternidade pois 
+nunca poderá ser ressuscitado (nem mesmo por desejo), já que sua alma está presa ao corpo da sua amada. 
+Quando esta morrer, a alma do guardião, que carregava consigo, será despedaçada e simplesmente deixará de 
+existir, porém garantindo uma última proteção: um caminho tranqüilo ao reino divino em que será mais feliz. 
+Raríssimas são as pessoas que conhecem esta magia, e mais raras ainda são as que podem utilizá-la pois além 
+de ser necessário um Mago poderoso para efetuá-la é preciso também que ele sinta amor verdadeiro por 
+alguém, a ponto de estar disposto a sacrificar sua vida e sua existência por esta pessoa. A pessoa para quem o 
+Mago se sacrificou, além de ganhar a certeza do amor do mago no momento em que recebeu magia, recebe 
+também IP+2d (3D&T: Armadura+3 contra qualquer tipo de ataque e Armadura+5 contra o focus que o Mago 
+usou para o sacrifício). 
+ 
+Descanso 
+Exigências: 3D&T: Luz, Terra ou Trevas 1, Clericato; Daemon: Clericato, Controlar Humanos1 
+Duração: Ver abaixo 
+Custo: 1 PM por pessoa 
+Alcance: Apenas ao toque 
+Esta magia simples costuma ser usada durante viagens de muita importância, onde a velocidade é vital e não se 
+pode perder tempo dormindo. Caso o alvo da magia concorde, o clérigo pode induzi-lo a um sono profundo, 
+que dura apenas duas horas, mas é extremamente revigorante: o alvo recupera metade de seus PVs e pode ficar 
+acordado por mais Rx6 horas. Após esse período, deve fazer um teste de resistência com redutor cumulativo de 
+-2 a cada hora extra, ou cairá no sono e dormirá por 2d horas. 
+ 
+Distorção de Equilíbrio 
+Exigências: 3D&T: Luz 1, Trevas 1; Daemon Controlar Humanos 2; Psi: Telecinésia 2 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Somente o mago 
+O mago pode se equilibrar em superfícies estreitas, como fios e muros. Aumente em +20% os Testes de AGI 
+que envolvam essa ação e +30% a Perícia Acrobacia enquanto o poder estiver ativo.(3D&T: H+1 em todos os 
+testes – exceto ataques – que envolvam movimento) 
+ 
+Empatia 
+Exigências: 3D&T: Fogo 2, Clericato; Daemon: Clericato, Entender Humanos 2; Psi: Sensitividade 2 
+Duração: Instantânea 
+Custo: 1PM 
+Alcance: padrão 
+Esta magia costuma ser usada para ajudar pessoas aflitas, pois entendendo o problema pode-se ajudar melhor. 
+O clérigo pode absorver e reproduzir os sentimentos da vítima, passando a entender o que ela sente: dor, amor, 
+tristeza, medo, alegria, saudade...Esses novos sentimentos se dissipam rapidamente, mas os instantes que eles 
+duram são suficientes para que o clérigo possa sentir-se no lugar da outra pessoa. 
+Nota: os sentimentos da pessoa não causarão efeitos no clérigo: ele não fugiria de medo por sentir o pavor de 
+uma vítima da magia Pânico, por exemplo. 
+ 
+Envelhecer (Aumentar/Regredir Idade) 
+Exigências: 3D&T: Terra 5, Trevas 6; Daemon: Controlar Trevas 6, Metamagia 4;  
+Psi: Força Vital 6 
+Duração: Permanente 
+
+
+--- page 22 ---
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Este terrível poder causa um envelhecimento ou rejuvenescimento instantâneo no alvo do mago. O mago deve 
+tocar a vitima e esta deve fazer um teste de CON. Se falhar, terá sua idade duplicada ou regredida em 10 anos! 
+Existe uma poção capaz de reverter os efeitos dessa magia e/ou garantir sucesso automático em um teste de 
+idade, adiando a morte natural. A magia Cura de Maldição pode ser usada para desfazer todo o envelhecimento 
+mágico. 
+ 
+Declínio Devido à Idade 
+Daemon: Depois de completar 50 anos, todo personagem deverá fazer, uma vez por ano, uma jogada de teste 
+para ver se a idade está lhe cobrando seu tributo. Se você não desejar se preocupar com a data exata do 
+aniversário de um personagem, assuma simplesme nte que a data é 1º de janeiro e faça a jogada todo ano de 
+jogo conforme seja necessário. A partir dos 70, a jogada deve ser feita a cada 6 meses. A partir dos 90, a cada 3 
+meses. Faça um teste para cada um de seus atributos. Jogue 1d100 e compare o resultado com seu atributo 
+CON +1 para cada 5 séculos (Ex: CON 12 + 4 para séc XX) . Uma pessoa com CON igual a 40% precisará de um 
+resultado menor ou igual a 40 para ser bem sucedida. Uma falha significa que o atributo em questão foi 
+reduzido em um ponto (e um resultado de 95 a 00 significará automaticamente uma falha que provoca a perda 
+de 2 pontos). Faça os testes na seguinte ordem: FR, DEX, AGI, INT, WILL, CAR, PER e CON. Obviamente, se a 
+última jogada resultar numa falha, a própria CON será reduzida. Com isto, o próximo Teste de “Velhice” terá 
+uma chance maior de falhar. Desta maneira, o declínio se acelera. Quando um atributo é reduzido devido à 
+idade (ou por algum outro motivo), todas as perícias envolvendo aquele atributo também são reduzidas. 
+Assim, se o envelhecimento reduzir 1 ponto em sua INT, o nível de habilidade de todas as suas perícias 
+mentais também será reduzido. Se o valor de algum atributo chegar a 0 devido ao envelhecimento, o 
+personagem morrerá de morte natural. Na “vida real”, a pessoa seria arrebatada por uma doença ou acidente 
+muito antes de CON chegar a 0, e isto também seria considerado morte natural. 
+Certos processos mágicos e tecnológicos podem interromper o envelhecimento ou até “reverter o processo”, 
+rejuvenescendo o personagem. Estas “poções”, mecanismos, etc., são extremamente valiosos e serão descritos 
+nos livros de referência dos vários mundos. 
+Se algum processo restaurar a INT perdida (por exemplo), os níveis de habilidade de perícias mentais perdidos 
+também serão restaurados. 
+A escala acima é válida para seres humanos. O envelhecimento de outras raças é descrito nos livros de 
+referência apropriados. 
+3D&T: Todos envelhecem, e há momentos em que a idade cobra seus tributos. A partir de dois terços da idade 
+máxima para sua raça, o indivíduo faz testes de resistência periodicamente (a cada 5 anos para goblins, 10 para 
+humanos, 20 para meio-elfos, 30 para anões e elfos): em caso de falha, perde um ponto aleatoriamente em suas 
+características. Caso cheguem todas a zero e ele falhe novamente em um teste (personagens com R0 contam 
+como R1 para esses testes), ele morre. Essa é a chamada "morte natural". Visto que ressurreição não funciona 
+com vítimas de morte natural, adiantá-la é uma boa forma de livrar-se definitivamente de seus inimigos. As 
+vítimas dessa cruel magia devem fazer um teste de R-2, ou terão sua idade aumentada em 10 anos (aqueles que 
+já tiveram sua idade aumentada através dessa magia recebem um bônus de +1 nesse teste para cada vez que já 
+tiverem sido afetados). Eis o porquê de essas magias terem efeito menor em elfos, e maior em goblins: como 
+fazem testes a cada 30 anos, elfos devem ser alvos dessa magia três vezes para que tenham que fazer um teste 
+"a mais" por causa dela. Goblins, por outro lado, quando alvos dessa magia têm seus testes "adiantados" em 
+dois. 
+ 
+Esfriar o Ar 
+Exigências: 3D$T: Ar 1, Água 1; Daemon: Controlar Ar 1, Água 1; Psi: Criocinese 1   
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+Este poder faz com que a temperatura ambiente diminua. Divida por dois  a temperatura  ambiente para cada 
+ponto de Focus utilizado. Se a temperatura se reduzir a -5oC, todos os testes serão feitos com metade do valor 
+normal. Se esta diminuir a menos de -20o C, qualquer criatura que tenha CON abaixo de 12 deverá fazer um teste 
+
+
+--- page 23 ---
+de CON para não desmaiar. Se ultrapassar -30o C, criaturas com CON abaixo de 12 devem fazer um teste com 
+metade do valor normal e criaturas com CON abaixo de 18 devem fazer um teste normal. Criaturas aquáticas 
+(como os traktorianos) e/ou glaciais, recebem um bônus de +20% ao fazer esses testes; répteis recebem   –20%. 
+(3D&T: teste de R normal; no caso de bônus, R+1; com redutores, R-1) 
+ 
+Explosão de Azgher 
+Exigências: 3D&T: Fogo ou Luz 3, Clericato; Daemon: Clericato, Criar Fogo ou Luz 3 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: padrão 
+O clérigo, ao usar esta magia, cria uma pequena esfera, brilhante como o sol, cujos raios  
+luminosos atingem tudo num raio de 5m x Focus do clérigo, causando 5d (H+3d) de dano em todos os mortos-
+vivos nessa área, com redutor de 1d para cada 5m do centro da esfera. Cada alvo tem direito a uma esquiva 
+para reduzir o dano em 1d. Como efeito adicional, devido à luz intensa, pode causar cegueira por 1d6 turnos 
+naqueles que estiverem dentro da área de efeito (exceto o próprio clérigo) e falharem em um teste de Con 
+(Resistência). 3D&T: Esta magia ignora a armadura dos alvos para o cálculo de sua FD, independentemente de 
+possíveis armaduras extras. 
+  
+Fazer Dever de Casa 
+Exigências: 3D&T: Focus 2, Aptidão Mágica; Daemon: A. Mágica, Controlar Metamagia 2 
+Duração: Instantânea 
+Custo: 0 
+Alcance: Padrão 
+Criada por alguns estudantes da Grande Academia Arcana, que não queriam ou não sabiam fazer o dever de 
+casa. A magia compara as questões do dever com alguns livros, e redige respostas. Contudo, por ser uma 
+magia recente e ainda pouco aprimorada, acerta sempre apenas 40 a 80 por cento do dever. 
+ 
+Festa de Primavera 
+Exigências: 3D&T: Água 1, Aptidão Mágica; Daemon: A. Mágica, Criar Plantas 1 
+Duração: Permanente 
+Custo: 0 
+Alcance: Padrão 
+Uma magia criada especialmente para agradar donzelas, pois cria um buquê de flores comuns (não venenosas, 
+não mágicas, não raras), ou proporciona uma chuva de pétalas em uma área de 5 metros de raio. O tipo exato 
+das flores, bem como sua cor, pode ser escolhida pelo mago. 
+ 
+Flecha de Gelo 
+Exigências: 3D&T: Água 2, Ar 2, Aptidão Mágica; Daemon: A. Mágica, Criar Água2, Ar 2;  
+Psi: Criocinese 2 
+Duração: Permanente até ser cancelada 
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Esta magia não tem sua origem conhecida, mas suspeita-se que seja de origem élfica, já que elfos têm grandes 
+habilidades - tanto com arcos quanto com magia. O mago pode encantar 3 flechas, que podem ser disparadas 
+por um arco comum. Para cada flecha, o alvo sofre dano normal por perfuração e frio/gelo mágicos, além de ter 
+que fazer um teste de Con (Resistência), ou ficará congelado e paralisado por 2 turnos, ou menos, caso seja 
+atacado. 
+ 
+Fogo Frio 
+Exigências: 3D&T: Fogo 1, Luz 1; Daemon: Criar Fogo 1; Psi: Pirocinésia 1  
+ 
+Custo: Padrão 
+Duração: Sustentável  
+ 
+ 
+ 
+Alcance: Padrão 
+
+
+--- page 24 ---
+O mago cria uma espécie de chama ilusória. Ela parecerá real sob o aspecto visual, mas não emite calor e pode 
+ser atravessada normalmente. Qualquer um que esteja vendo este poder sendo realizado dentro de um lugar 
+onde seria improvável pegar fogo (num lugar sem objetos inflamáveis) tem direito a um teste de WILL  ( 
+Resistência ) para perceber que a chama é falsa.  
+ 
+Fogo Negro 
+Exigências: 3D&T: Fogo 3, Luz 3; Daemon: Controlar Fogo 3; Psi: Pirocinésia 4 
+ 
+ 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+Com este poder o mago pode tornar suas chamas invisíveis: qualquer poder que use pirocinésia (com exceção 
+de Pirofobia e Fogo Frio) não poderá ser visto por ninguém enquanto este poder estiver ativado. 
+ 
+Fogueira 
+Exigências: 3D&T: Ap. Mágica, Fogo 2, Luz 2;  
+Daemon: Ap. Mágica, Entender Fogo 2, Luz 2; Psi: Pirocinésia 2/Sensitividade 1 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Veja abaixo 
+Este poder permite ao mago visualizar o que ocorre na fonte de fogo mais próxima. Para isso ele deve estar 
+concentrado e olhando para algum fogo que ele mesmo tenha criado. O alcance desse poder é igual 
+Luz(Sensitividade) x100m.   
+ 
+Fortalecer Magia 
+Exigências: 3D&T: Focus 3, Clericato; Daemon: Clericato, Controlar Metamagia 3 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: Padrão 
+Esta magia faz com que outro usuário de magia tenha seu focus aumentado em 1, para a realização de apenas 
+uma mágica, que deve ser conhecida por ele. Por ser uma magia cumulativa consigo mesma (desde que lançada 
+por pessoas diferentes), vários clérigos de pequeno poder costumam usar esta magia sobre um único alvo, 
+possibilitando a realização de rituais mais poderosos. 
+ 
+Gênio na Garrafa 
+Exigências: 3D&T: Ar 3, Aptidão Mágica; Daemon: A. Mágica, Controlar Ar 3 
+Duração: Instantânea 
+Custo: 2PMs 
+Alcance: Padrão 
+Esta é uma magia que exige componentes materiais. Para lançá-la, o mago precisa ter em mãos uma caixa, uma 
+arca, baú, garrafa, cantil ou qualquer outro objeto que possa ser bem fechado. Ao pronunciar as palavras de 
+invocação des ta magia, que deve ter como alvo um som, o mago aprisiona parte do ar no objeto, e este ar preso 
+passa a possuir as características do som-alvo da magia; ao liberá-lo mais tarde, o som-alvo da magia irá 
+repetir-se. A origem do nome desta magia vem de famosos artefatos mágicos de Arton, conhecidos como "As 
+Garrafas dos Gênios": pares de garrafas encantadas com essa magia, de forma que uma armazena o som e a 
+outra fica vazia. Ambas são abertas, e pode-se ouvir o som que sai de uma, e logo em seguida entra na outra, 
+preservando o som original. 
+ 
+Intangibilidade (Viagem Astral) 
+Exigências: 3D&T: Ar 4, Luz 4, Aptidão Mágica;  
+Daemon: A. Mágica, Controlar Humanos 5, Espíritos 5; Psi: Projação da Consciência 3 
+Duração: Sustentável por uma hora 
+Custo: padrão 
+Alcance: Apenas o Mago 
+
+
+--- page 25 ---
+Uma variação interessante das magias corpo elemental. Ao ativá-la, o mago transforma-se num ser intangível, 
+translúcido e incapaz de tocar qualquer coisa, pois é capaz de atravessar tudo (incluindo grades, paredes e até 
+salas hermeticamente fechadas). Tudo aquilo que carregava consigo na hora da transformação torna-se 
+intangível enquanto estiver junto com o mago,que só pode ser ferido por magia e armas mágicas. 
+Curiosamente, seres intangíveis podem tocar coisas intangíveis, incluindo outros seres. 
+ 
+Intensidade 
+Exigências: 3D&T: Água 2, Luz 1, Paladino; Daemon: Paladino, Controlar Água 2, Luz 1 
+Duração: sustentável até o final do combate 
+Custo: padrão 
+Alcance: apenas o mago 
+Uma magia permitida apenas para paladinos, principalmente os desesperados. Ela invoca forças onde não há 
+mais e seus poderes vão ao limite numa explosão de vitalidade, mas há um preço alto. Esta magia convoca as 
+forças divinas que protegem e compelem este servo e fornece 3 pontos a mais em qualquer atributo ou focus 
+temporariamente (os 3 pontos vão para o mesmo atributo). Ao final do combate ela cobra seu tributo: os 
+pontos voltam ao normal, porém um ponto é perdido no atributo aumentado, permanentemente, assim como 
+outro aleatoriamente também em atributos ou focus, além de deixar o paladino completamente exausto até que 
+tenha uma boa noite de sonhos e recupere seus Pontos de Vida completamente. Caso algum atributo fique com 
+um valor menor que zero, o paladino morre. Esta magia não é acumulativa consigo mesma. 
+Há uma droga que vem fazendo muito sucesso no submundo atualmente, chamada popularmente de "Poder" e 
+sua origem é, para espanto de muitos, esta magia. Apesar de seu grande poder viciante (logo no seu segundo 
+uso) seus espantosos efeitos químicos são suficientes para atrair muitos jovens e já começa a contar como a 
+nova fonte de renda de algumas guildas poderosas, apesar de ter sido criada recentemente. Nas primeiras (5) 
+vezes em que é usada ela dá a seu usuário 5 pontos (1 ponto em 3D&T) para ser colocado temporariamente por 
+20 min. (ou um combate) em qualquer atributo (exceto focus) e gera a euforia comum aos psicotrópicos. A 
+partir daí, apenas a decadência. Num primeiro momento (6ª à 10ª vez em que é usada) ela não fornece mais 
+bônus nenhum além da euforia, mas o usuário vai perdendo 10% em uma perícia (uma especialização em 3D&T) 
+cada vez que a usa. Depois de virar um usuário comum (11ª vez em diante) a droga causa apenas desgraça; a 
+pessoa cai em profunda depressão e perde permanentemente 4 pontos (1 ponto em 3D&T) escolhido 
+aleatoriamente em um atributo (ou focus) por vez que a usa causando a morte, Caso algum atributo fique 
+inferior a 0 (3D&T: caso a Resistência esteja em 0 e perca mais um ponto neste atributo) a menos que seja 
+tratada de forma mágica (Cura de Maldição, Cura Total ou Desejo). Por ser uma droga feita a partir de uma 
+magia, não pode ser curada de formas não mágicas como medicina ou tratamento. 
+ 
+Leitura de Auras 
+Exigências: 3D&T: Luz 3, Ver o Invisível; Daemon: Entender Espíritos 3; Psi: Mediunidade 3 ou 
+Sensitividade 3  
+Custo: Padrão 
+Duração: Instantânea 
+ 
+ 
+  
+Alcance: Padrão 
+Com alguma concentração (e um teste fácil de PER), o mago pode sentir a aura de uma pessoa. Ele detecta seu 
+estado de espírito verificando as cores de sua aura. Cada cor corresponde a uma  emoção diferente e o 
+personagem sabe o que significa cada cor.  
+ 
+Leitura de Mentes* 
+Exigências: 3D&T: Telepatia; Daemon: Entender Humanos 2; Psi: Telepatia 3 
+Custo: 1 ( 0 em 3D&T) 
+Duração: Sustentável 
+Alcance: Padrão 
+O mago tem o poder de ler a mente de outras pessoas e saber o que estão pensando. Quando tenta ler a mente 
+de alguém contra a sua vontade, a vítima tem direito a uma disputa de WILL vs. WILL do Mago (teste de R em 
+3D&T) para evitar o efeito: se o alvo teve sucesso, você falhou -e  só pode fazer outra tentativa contra aquele 
+alvo após 24 horas. O mago só pode ler a mente de alguém que consiga ver.  
+ 
+
+
+--- page 26 ---
+Limpeza 
+Exigências: 3D&T: Água 1, Ar 1, Aptidão Mágica; Daemon: A. Mágica, Controlar Água 1, Ar 1 
+Duração: Instantânea 
+Custo: 0 
+Alcance: Padrão 
+A magia também pode ser utilizada para coisas simples, com varrer, lavar, limpar. Em poucos instantes, um 
+aposento ou área livre de até 50 metros quadrados fica clara e perfumada, pronta para novo uso. Esta magia 
+também pode ser usada para produzir inúmeras bolhas de sabão, muito usadas por "magos de rua", e que 
+costumam trazer a alegria para o rosto das crianças. 
+ 
+Mentir 
+Exigências: 3D&T: Fogo 2; Daemon: Controlar Humanos 2 
+Duração: Sustentável 
+Custo: 1 PM 
+Alcance: Apenas o próprio mago 
+Criada por magos dissimulados e muito utilizada por aqueles que são manipuladores (os Encantor e clérigos de 
+Sszzaas, por exemplo), esta é uma simples magia que ajuda a contar falsas histórias de modo mais convincente. 
+Ela concede um grande bônus de +30% (+3) para testes de lábia enquanto estiver ativa, mesmo para os que 
+não possuem tal especialização. O grande defeito dessa magia é que seus usuários podem ser desmascarados 
+normalmente pelo uso do poder de certos clérigos de Khalmyr e Lin-Wu que permite saber se uma pessoa está 
+mentindo ou não. Porém, tal poder não revela qual a verdade ou a utilização dessa magia, apenas percebe a 
+mentira do mago. 
+ 
+Olho da Alma 
+Exigências: 3D&T: Telepatia, Trevas 3; Daemon: Entender Trevas 2, Humanos 3 ; Psi: Telepatia 3 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Esta magia psíquica sonda a mente do alvo em busca de seus maiores medos e piores sofrimentos, 
+conhecimentos que podem ser grandes armas em mãos inescrupulosas. A vítima deve fazer um teste de Will 
+(Resistência) para negar o efeito: em caso de sucesso, a vítima não percebe a tentativa de invasão, e em caso 
+de falha, revive seus maiores traumas e temores, enquanto estes são revelados ao mago. Costuma ser usada no 
+ritual de iniciação do culto dos elfos negros (os adoradores de Tenebra) por trazer sofrimento, e por aqueles 
+que pretendem pressionar seus inimigos (conhecer tais medos dá um bônus de +20% (+2) em tortura, 
+intimidação e interrogatório).  
+ 
+A Pedra no Meio do Caminho 
+Exigências: 3D&T: Terra 1, Clericato; Daemon: Clericato, Criar ou Controlar Demônios 1 
+Duração: Permanente até ser cancelada 
+Custo: Padrão 
+Alcance: Padrão 
+A espécie mais simples de maldição conhecida, serve apenas para perturbar, não para ferir. Caso falhe em um 
+teste de Con (Resistência –1), a vítima é afetada e passa a tropeçar uma vez para cada meia hora andando, 
+devendo fazer um teste de Agi (Habilidade +1) para não cair. Felizmente, pode ser curada com cancelamento de 
+magia ou cura de maldição.  
+ 
+Perda dos Sentidos 
+Exigências: veja abaixo 
+Duração: Permanente até ser cancelada 
+Custo: 1 PV 
+Alcance: Padrão 
+Lançada diretamente sobre uma criatura, esta magia pode obstruir um de seus sentidos. O mago não precisa 
+fazer nenhum teste para acertar, mas a vítima tem direito a um teste de Con (Resistência) para negar o efeito. 
+Curiosamente, quando a vítima não possui um dos sentidos, seja por causa de um acidente, problema de 
+
+
+--- page 27 ---
+nascença ou por já ter sido alvo desta magia, ela recebe um bônus de +20% (+2) no teste para resistir à magia. 
+Nenhum remédio ou método de cura mundanos pode restaurar os sentidosda vítima, e nem magias de cura 
+normais. As únicas magias capazes de fazê-lo são Cancelamento de Magia, Cura Total, Cura de Maldição, 
+Desejo ou a própria Perda dos Sentidos, usada com o caminho que não foi usado para tirá-los: Ar para curar 
+uma perda de olfato por Trevas ou Trevas para curar a perda do tato por Terra. A perda de cada sentido é uma 
+magia diferente (ou seja, é preciso aprender cada uma delas separadamente), e possui exigências próprias: 
+Audição: 3D&T: Ar ou Trevas 2; Daemon: Controlar Humanos, Ar ou Trevas 3 
+Olfato: 3D&T: Ar ou Trevas 2; Daemon: Controlar Humanos, Ar ou Trevas 3 
+Paladar: 3D&T: Água ou Trevas 2; Daemon: Controlar Humanos, Água ou Trevas 3 
+Tato: 3D&T: Terra ou Trevas 2; Daemon: Controlar Humanos, Terra ou Trevas 3 
+Visão: 3D&T: Luz ou Trevas 2; Daemon: Controlar Humanos, Luz ou Trevas 3 
+ 
+Perigo! (Senso de Perigo) 
+Exigências: 3D&T: Fogo 1, Clericato; Daemon: Clericaro, Entender Humanos 1 ; para ser usada em animais, 
+deve ser Entender Animais 1; Psi Telepatia/Sensitividade 1 
+Duração: Sustentável 
+Custo: Padrão 
+Alcance: Padrão 
+Esta versátil magia pode ser usada como um sensor (Daemon: Per +3), impedindo que o clérigo seja 
+surpreendido, podendo assim defender-se de eventuais ataques surpresa ou arma dilhas (em regras, sua 
+armadura não tem efeito mínimo contra ataques inesperados -Manual 3D&T, pág 13 - e recebe +1 em H para 
+evitar armadilhas). Pode também ser usada para despertar em um companheiro a sensação de perigo, fazendo 
+com que ele fique alerta: muitos aventureiros já tiveram a vida salva por levar a mão à espada e olhar ao redor 
+quando seus amigos usaram esta magia para alertá-los. A magia não permite transmissão de palavras, mas 
+qualquer criatura viva entende o sinal para ficar alerta, independentemente de sua inteligência ou idioma. Com 
+treino, é possível perceber a diferença entre estar sendo alvo desta magia ou ter apenas um mal 
+pressentimento. 
+ 
+Pesadelo 
+Exigências: 3D&T: Trevas 4, Telepatia; Daemon: Controlar Humanos 3, Trevas 4; Psi: Telepatia 6 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: Padrão 
+Esta magia causa terrível sofrimento àqueles que são alvos dela. Seus sonhos serão perturbados por combates 
+incessantes, sensações de queda em abismos sem fim, morte de familiares, torturas e quaisquer outros medos 
+que a vítima possua. Um sono perturbado dessa forma recupera apenas metade dos pontos de vida que 
+recuperaria normalmente, e a vítima fica mais fraca, sofrendo -2 em uma de seus atributos (3D&T: -1 em suas 
+características ou focus), determinado ao acaso pelo mestre, até que consiga ter um sono tranqüilo. Perceba 
+que, se a magia for aplicada em dias consecutivos, os redutores serão cumulativos. Caso a vítima fique com 0 
+em um de  seus atributos (em 3D&T, devem estar zerados todos os atributos) e sofra de pesadelos por mais 
+uma noite, morrerá. Caso seja combinada com Olho da Alma, a vítima vai sonhar sempre com o pior que puder 
+imaginar, e esta magia terá efeito dobrado: -4 em um atributo (-2 em uma característica ou focus). Exceto no 
+caso em que é combinada com Olho da Alma, o mago não fica sabendo o conteúdo dos sonhos da vítima, e em 
+nenhum caso pode controlá-los. Só para 3D&T: Pessoas normais (com 0 em todas as características) resistem a 
+uma noite de pesadelos; caso sofrem de pesadelos mais uma vez, morrem. 
+ 
+Pirofobia 
+Exigências: 3D&T: Fogo 3, Telepatia; Daemon: Entender Humanos 2, Criar Fogo 2; Psi: Pirocinésia 3 
+Custo: Padrão 
+Duração: Instantânea 
+ 
+ 
+ 
+Alcance: Padrão 
+Com este poder, o mago projeta as chamas diretamente na mente da vitima, e esta sofrerá 1d6 de dano para 
+cada ponto de Focus utilizado (1d6 + Focus, em 3D&T), devido ao medo. Ela pode desvendar a ilusão com 
+teste bem sucedido de WILL-10%. (R-1 em 3D&T) 
+
+
+--- page 28 ---
+ 
+Porta Astral 
+Exigências: 3D&T: Aptidão Mágica, Focus 6 em dois caminhos; Daemon: Criar Metamagia 4;  
+Psi: Psicoportação 4 
+Custo: Padrão 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+O mago pode criar uma porta para outro local (dentro do alcance do poder) do tamanho suficiente para uma 
+pessoa passar. 
+ 
+Presença da Natureza 
+Exigências: 3D&T: Água, Ar, Clericato; Daemon: Clericato, Criar Água, Ar 
+Duração: Sustentável 
+Custo: Padrão 
+Alcance: Padrão 
+Magia extremamente poderosa, pois controla as forças da natureza. O clérigo, ao fazer sua prece, invoca os 
+poderes do clima com maior ou menor intensidade, podendo encobrir o sol com nuvens até causar uma grande 
+tempestade. A área de efeito dessa magia é de um raio em torno do mago igual ao alcance da magia, baseada 
+no focus mais alto. Apesar de o quinto nível ser poderoso, cada magia é uma evolução da outra, um passo 
+além: não é possível aprender um nível sem antes dominar todos s seus antecessores. Comenta-se que o 
+Dragão-Rei Hydora costuma lançar esta magia em sua forma mais poderosa (uma grande tempestade) apenas 
+para voar por entre os raios e nuvens carregadas. Obviamente, algumas formas desta magia não podem ser 
+invocadas em áreas desérticas.  
+Enublar Céu:  
+Ar 2, Água 1. 
+Neblina:  
+ 
+Ar 2, Água 2. 
+Garoa:   
+Ar 2, Água 3. 
+Chuva:   
+Ar 3, Água 4. 
+Tempestade:  
+Ar 4, Água 5. 
+ 
+Prever Chuvas 
+Exigências: 3D&T: Água 2, Ar 1; Daemon: Entender Água2, Ar 1; Psi: Sensitividade 1 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: campo visual 
+Esta magia analisa a umidade relativa do ar, permitindo saber sobre uma possível chuva naquele dia ou noite. 
+Claro, só há dois terços (1 a 4 em 1d6) de chance de o resultado se efetivar; afinal, a previsão do tempo nem 
+sempre acerta... 
+ 
+Prontidão 
+Exigências: 3D&T: Ar ou Luz 1, Clericato; Daemon: Clericato, Controlar Ar ou Luz ou Humanos 1 
+Duração: até o final do próximo combate 
+Custo: 1 PM por criatura 
+Alcance: Padrão 
+Atenção aos movimentos do inimigo e velocidade ao sacar as armas podem ser decisivos para definir uma luta. 
+Esta magia, utilizada pelos servos dos deuses mais combativos serve para oferecer esta vantagem - a de atacar 
+primeiro.Ao fazer uma pequena prece, o usuário pede ao seu deus maior precisão de sentidos e leveza a suas 
+armas. O sacar armas torna-se extremamente rápido, dando um bônus de +3 na iniciativa do primeiro turno e +1 
+nos subseqüentes. a magia deve ser invocada no máximo uma hora antes de se entrar em combate; após esse 
+período, perde o seu efeito mesmo que ainda não tenha havido lutas. 
+ 
+Remover Possessão 
+Exigênicas: 3D&T: Clericato, Luz 5; Daemon: Controlar Espíritos 5; Psi: Mediunidade 4, Banir     
+ 
+Custo: Padrão 
+Duração: Instantânea 
+ 
+ 
+ 
+
+
+--- page 29 ---
+Alcance: Padrão 
+O mago pode exorcizar espíritos que estão possuindo um corpo físico. Proceda da mesma forma que o poder 
+banir (o espírito não será realmente banido, apenas sairá do corpo do possuído) 
+ 
+Retardar Envenenamento 
+Exigências: 3D&T: Luz ou Água 1, Clericato; Daemon: Controlar Água ou Luz 1, Clericato;  
+Psi: Força Vital 2 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Esta simples magia pode salvar a vida daqueles que são envenenados. Quando aplicada, faz com que o veneno 
+demore duas vezes mais tempo para matar a vítima (por exemplo, um veneno que levaria 1d rodadas para 
+começar a agir leva 2d, enquanto um que cause 1 ponto de dano por turno causa apenas1 ponto a cada dois 
+turnos), aumentando as chances de que se consiga algum médico ou alguém com habilidades de cura mágica. 
+ 
+Sinestesia 
+Exigências: 3D&T: As dos dois sentidos a serem fundidos (ver abaixo), Aptidão Mágica;  
+Daemon: Ap. Mágica, Controlar Humanos 2,Caminho do sentido – ver abaixo; Psi: Sensitividade 5 
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Duração: Sustentável  
+O controle máximo dos sentidos, possibilita misturá-los a ponto de ver sons, ouvir cheiros,  
+degustar visões ou qualquer outra combinação. Perceba que, aliada a sentidos especiais, esta rara magia pode 
+realizar efeitos realmente impressionantes, especialmente nas mãos de magos criativos. Apesar de serem 
+magias diferentes, por exemplo, "Ver através dos Sons" e "Cheirar com o Toque", as magias que lidam com os 
+mesmos sentidos como "Tocar Visão" e "Ver com o Toque" são a mesma magia. 
+Ouvir (sentido) - você pode ouvir qualquer som produzido por algo que possa ser detectado pelo outro 
+sentido, e entendê-lo como se ele estivesse sendo produzido para você.  
+Cheirar (sentido) - você pode sentir o cheiro de qualquer coisa que possa ser detectada pelo outro sentido. 
+Degustar (sentido) - você pode sentir o gosto de qualquer coisa que possa ser detectada pelo outro sentido. 
+Tocar (sentido) - Permite você tocar QUALQUER coisa que esteja ao seu alcance, e que você possa perceber 
+através do outro sentido. Isso inclui seres etéreos, como fantasmas e usuários da magia intangibilidade, coisas 
+muito pequenas ou rápidas, e sem precisar de nenhum teste. 
+Ver (sentido) - você pode ver qualquer coisa que possa ser detectada pelo outro sentido, independentemente 
+da distância entre vocês, ou do que houver no caminho. 
+Audição: Ar 3 
+Olfato: Ar 2 
+Paladar: Água 2 
+Tato: Terra 3 
+Visão: Luz 3 
+ 
+Sombra de uma Magia 
+Exigências: 3D&T: Fogo 3, Terra 2, Arcano; Daemon: Controlar Metamagia 3 
+Alcance: padrão 
+Custo: padrão 
+Duração: instantânea 
+Esta é uma magia enigmática, pois não se sabe ao certo como funciona seu mecanismo, tudo o que é dito é 
+apenas hipótese. Inventada não se sabe quando, por um mago que conhecia, efetivamente, poucas magias, ela 
+pega os resíduos mágicos da magia anterior e os evoca como uma nova magia, de menor intensidade mas 
+mesmo efeito. Em termos de regras ela refaz a última magia que o mago alvo fez, causando 1/3 do efeito original, 
+arredondado para cima (1/3 do d ano, 1/3 do tempo, 1/3 do tamanho, etc.). Justamente por ser mais fraca não 
+pode ser usada com magias que não possam ter seu efeito reduzido, como Desejo, Teleporte, Defesa do 
+Coração ou a própria Sombra de uma Magia e outras (esta definição fica a cargo do Mestre). Caso seja usada 
+com uma dessas magias ou com alguém que nunca tenha feito qualquer magia ou as tenha feito apenas com 
+
+
+--- page 30 ---
+pergaminhos e métodos similares não terá efeito e o mago perderá os Pontos de Vida, contando como uma 
+ação.Não pode ser usada contra objetos. A magia que foi gerada como efeito não pode ser aprendida e o mago 
+alvo deve estar dentro do alcance da magia 
+ 
+Sopro de Tenebra (Animação Suspensa) 
+Exigências: 3D&T: Trevas 3, Terra 2; Daemon: Controlar Trevas 3, Espíritos 3; Psi: Força Vital 3 
+ 
+Duração: Sustentável por uma hora 
+Custo: 3PMs por pessoa 
+Alcance: Apenas ao toque 
+Esta magia já salvou muitos, mas também matou vários. Quando lançada sobre alguém, se falhar em um teste 
+de Will (Resistência +1), a pessoa parece morrer: o corpo fica frio, os músculos endurecem, a respiração cessa 
+e os batimentos cardíacos também. Além disso, esse processo ocorre de forma que parece uma morte natural. 
+Muitos animais não comem carne morta (quando não foram eles quem matou), mas muitos o fazem. Em certos 
+lugares de Arton, é costume enterrar os mortos assim que falecem: ser usuário dessa magia não é a melhor 
+forma de descobrir isso... 
+ 
+Sussurro da Ninfa 
+Exigências: 3D&T: Ar 1, Aptidão Mágica; Daemon: A. Mágica, Controlar Ar 1 
+Duração: Instantânea 
+Custo: padrão 
+Alcance: 30km por ponto de focus em ar 
+O mago diz palavras mágicas, pensa em uma pessoa ou lugar, diz uma mensagem e assopra. A mensagem é 
+levada em segredo pelos ventos até seu destino, e então pode ser ouvida normalmente. A magia transmite até 
+10 segundos de mensagem por ponto de focus e aqueles que estiverem entre o mago e o destino da mensagem 
+ouvem apenas um assobio quando o vento passa. O criador dessa magia deve ter vivido em Fortuna, pois 
+nesse reino há a crença (mais uma!) de que "ouvir o vento assobiando é sinal de que estão falando mal de 
+você". 
+ 
+Temporizar 
+Exigências: 3D&T: Terra 4; Daemon: Controlar Metamagia 4 
+Duração: Permanente até ser cancelada 
+Custo: Padrão 
+Alcance: Padrão 
+Uma magia extremamente importante, utilizada para coordenar ações. O que ela faz é condicionar uma outra 
+magia a um evento específico. Em outras palavras, ela "libera" outra magia em determinadas situações. O mago 
+gasta dois turnos: no primeiro, invoca Temporizar e no segundo, a magia a ser "temporizada". Assim, por 
+exemplo, pode-se condicionar uma Explosão para ocorrer quando uma porta fosse aberta, ou um Cajado em 
+Cobra quando o cajado fosse tocado por uma pessoa que não fosse o mago, uma Cura de Maldição para agir 
+quando a vítima realmente se arrependesse, ativar a magia Sentidos Especiais: Infravisão quando o mago 
+entrar em um lugar escuro, etc. 
+Esta magia recebe este nome porque o evento-chave pode ser a passagem de uma certa quantidade de tempo 
+(dez minutos, uma hora, dois dias, etc...). Caso combinada com permanência, ativa uma determinada magia 
+sempre que o evento-chave ocorrer. 
+ 
+Toque da Dor 
+Exigências: 3D&T: Trevas 2, Fogo 1, Clericato; Daemon: Clericato, Fogo 1, Trevas 2 
+Duração: Instantânea 
+Custo: Padrão 
+Alcance: Apenas ao toque 
+Causa uma dor intensa (1d6 de d ano em Daemon, 2d6 em 3D&T) no alvo, que ignora totalmente seu IP (FD), e 
+o faz desmaiar caso falhe em um teste de Con (R+2). Entretanto, esse dano não é real, e pode ser totalmente 
+recuperado após uma hora sem grandes esforços físicos (durante esse período não se pode lutar ou correr, 
+mas andar ou cavalgar, sim.). 
+ 
+
+
+--- page 31 ---
+Transferência Conhecimento 
+Exigências: 3D&T: Telepatia, Perícia (ou especialização) a ser "emprestada";  
+Daemon: Entender Humanos 3; Psi: Telepatia 3 
+Custo: 1 PM 
+Alcance: Apenas ao toque 
+Duração: Instantânea 
+Alguns telepatas tem a capacidade de despertar o conhecimento (ou inserí-lo) na cabeça dos outros. O alvo 
+pode, a partir desse momento, usar tal conhecimento uma vez, como se realmente o tivesse aprendido, e então 
+e esquece. Porém, quando o alvo já foi vítima da magia Vazio e recebe um conhecimento que já tinha, relembra-
+se dele e pode usá-lo quando quiser. Caso o alvo não queira receber conhecimentos, tem direito a um teste de 
+R+3; Armadura Mental e Contra Ataque Mental funcionam normalmente; aqueles com Memória Expandida são 
+imunes. 
+ 
+Transmissão Telepática* 
+Exigências: 3D&T: Telepatia; Daemon: Entender Humanos 2 Psi: Telepatia 1  
+Custo: Padrão ( 0 em 3D&T) 
+Duração: Sustentável 
+ 
+ 
+ 
+Alcance: Padrão 
+Este é o poder do envio de pensamento. O mago envia seus pensamentos para o objetivo na velocidade de 
+uma conversa, sendo que desenhos simples também podem ser enviados (através de sua visualização), na 
+velocidade em que seriam desenhados no papel. 
+Usar Transmissão Telepática exige que você esteja calmo e concentrado: portanto, é impossível usar durante 
+uma luta. Isso NÃO vale para outros poderes que usem Telepatia -estes podem ser usadas em combate. 
+ 
+Troca de Corpo 
+Exigências: 3D&T: Água 3, Luz 3, Terra 3; Daemon: Criar Humanos/Metamagia 3 
+Duração: Permanente até ser cancelada 
+Custo: Padrão 
+Alcance: apenas ao toque 
+Esta magia é similar a uma transformação: a mente do mago migra para o corpo do alvo e vice-versa. São 
+mantidas as vantagens e desvantagens mentais (genialidade, focus, perícias, memória expandida, telepatia, 
+códigos de honra, insano...), enquanto as físicas são trocadas (características, membros extras, monstruoso, 
+aparência inofensiva, modelo especial...). As vantagens e desvantagens sociais (aliado, patrono, inimigo,...) 
+podem ser reconquis tadas com o tempo, ou simplesmente perdidas. Caso seja feita contra a vontade do alvo, 
+ele tem direito a um teste de Will (R+1) para resistir. O ponto fraco desta magia é que ela é desfeita 
+simplesmente se as cabeças dos envolvidos se chocarem. Por razões desconhecidas, isso só funciona após um 
+dia inteiro com os corpos trocados. 
+ 
+Troca de Sexo 
+Exigências: 3D&T: Água 2, Luz 2, Terra 2; Daemon: Controlar Humanos 3, Metamagia 2 
+Duração: Permanente, até ser cancelada. 
+Custo: Padrão 
+Alcance: apenas ao toque 
+Esta é uma magia de transformação que muda a aparência do usuário apenas o necessário para que se perceba 
+tratar-se de uma pessoa do sexo posto, mas sem nenhum indício de que a pessoa já foi de outro sexo. Em 
+criaturas em que há bastante diferença entre machos e fêmeas, a transformação pode acarretar grande mudança 
+em suas características. A grande curiosidade sobre esta magia é que seu ponto fraco ainda não foi 
+descoberto: aqueles expostos a ela ainda estão com sexo trocado ou utilizaram-se de um desejo, uma vez que 
+estar com o sexo trocado torna qualquer um imune. Os testes para resistir são testes simples de Con (R+2). 
+Minotauros são imunes, por razões óbvias. 
+ 
+Twilight Simphony 
+Exigências: 3D&T: Ar 3, Luz 4, Trevas 6, Aptidão Mágica;  
+
+
+--- page 32 ---
+Daemon: A. Mágica, Controlar Ar 3, Humanos 6, Trevas 6 
+Custo: Padrão 
+Duração: Instantânea 
+Alcance: padrão 
+Esta é a temível magia criada por Mordred Twilight, fundador do conservatório em Gorendill e único 
+conhecedor desta magia. O alvo deve passar por um teste difícil de Con (Resistência –3), ou será reduzido a um 
+ser em estado vegetativo: vivo, mas incapaz de perceber qualquer coisa à sua volta (o único meio de voltar ao 
+normal é através de um desejo). Caso seja bem sucedido, terá apenas terríveis dores de cabeça e sofrerá de 
+confusão mental, por 1d dias, recebendo –1d em todos os atributos,-1 focus e testes mais difíceis durante esse 
+período (-1 em todas as características e nos focus). Há rumores de que existam pessoas que, apesar de terem 
+sido bem sucedidas em resistir a essa magia, ainda tem dores de cabeça freqüentemente. 
+ 
+Verificar Dever de Casa 
+Exigências: 3D&T: Focus 4, Aptidão Mágica; Daemon: A. Mágica, Entender Metamagia 4 
+Duração: Instantânea 
+Custo: 1 PM 
+Alcance: Padrão 
+Criada pelo corpo docente da Grande Academia Arcana, esta magia serve para agilizar a correção das tarefas 
+dos alunos, e também tem uma chance em seis de descobrir se um dever não foi feito pelo próprio aluno (tenha 
+ele sido feito por colegas ou pela magia Fazer Dever de Casa, ainda que esta seja desconhecida pelos 
+professores). Nesses casos, os alunos recebem advertências ou, em caso de reincidência, punições mais 
+severas (limpar algum dos aposentos da academia - sem o uso da magia limpeza - é uma das punições mais 
+comuns). 
+ 
+Vidente 
+Exigências: 3D&T: Oráculo; Daemon: Entender Luz/Metamagia 5+;  
+Psi: Mediunidade 5+, ou Sensitividade 5+  
+Custo: Padrão (0 para 3D&T) 
+Duração: Instantânea 
+ 
+Alcance: Especial 
+Permite vislumbrar possíveis acontecimentos no tempo-espaço, de acordo com a tabela abaixo. O Mestre deve 
+lembrar ao jogador que  este poder não é 100% garantido, somente indica o curso mais provável das coisas. As 
+visões podem mudar ao longo do tempo, de acordo com as ações do personagem e seus aliados. O uso deste 
+poder requer 10 rodadas de concentração absoluta. (em 3D&T, jogue 1d6+5 e considere esse o "focus" do 
+personagem. Uma nova jogada deve ser feita para cada teste – lembrando que dificilmente tem-se mais de uma 
+visão por dia) 
+ 
+Focus 
+Espaço 
+Tempo 
+5 
+O próprio mago 
+Alguns minutos 
+6 
+Uma residência 
+Algumas horas 
+7 
+Mesma cidade 
+Um dia 
+8 
+Mesma região 
+Uma semana 
+9 
+Mesmo país  
+Um mês 
+10 
+Mesmo continente 
+Uma estação 
+11 
+Mesmo planeta 
+Um ano 
+ 
+Voz dos Ventos 
+Exigências: 3D&T: Ar 2, Aptidão Mágica; Daemon: A. Mágica, Controlar Ar 2  
+Duração: Sustentável 
+Custo: Padrão 
+Alcance: Padrão 
+Criada pelo bardo-mestre do Circo dos irmãos Thiannate, esta magia faz com que todo o som por ela encantado 
+possa ser ouvido em uma área de efeito circular de centro no mago e raio igual ao alcance da magia. Níveis 
+
+
+--- page 33 ---
+mais elevados em Ar permitem uma área de efeito maior, e não há limites de quantidade de som ampliada 
+magicamente. Na prática, é uma magia que aumenta o volume do som (a intensidade da onda sonora). 
+ 
+ 
+Capítulo VII: Pontos Heróicos e Místicos 
+ 
+Uma vez arrumadas as magias, vamos formalizar certas coisas:  
+ 
+Pontos Heróicos: Assume-se que personagens possuem pontos heróicos iguais a  
+#PHs = (Con + Will)/4 (arredondado para baixo) + Nível do Personagem ; 
+ 
+Pontos Místicos: É um nome genérico que engloba todos os pontos que servem para gerar efeitos sobrenaturais: 
+Pontos de Magia, Pontos de Fé, Pontos de Psi, Pontos Espirituais, Pontos de Ressonância, etc. No capítulo anterior 
+(Muitas Magias), note que o custo das magias aparece em PMs (pontos místicos). Assume-se que o número de Pontos 
+Místicos de um personagem é #PMs = (Int + Will)/2 + Nível do Personagem. 
+ 
+Sugere-se que estas regras opcionais sejam adotadas não só para conversão, mas também para construção de 
+personagens. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capítulo VIII: Exemplo de Adaptação 
+ 
+Para exemplificar, usemos uma das npcs preferidas entre os fãs de Tormenta: Hit, a louca da ponte, clériga de Nimb. 
+(fichas extraídas de Só Aventuras) 
+ 
+3D&T 
+F1, H2, R1, A2, PdF1, 4 PVs; Arena (a ponte), arma especial (maça), clericato (Nimb), Religião (uma especialidade de 
+Ciências), Imortal (apenas na ponte); Insana; Ar 1, Água 2 , Terra 2, Luz 1, Kit clériga de Nimb (poder oculto +2 em F, H ou 
+R em situações de combate) 
+ 
+D20 (ficha parcial) 
+For 15, Dex 14, Con 17, Int 13, Sab 15, Car 15, 4º nível 
+Perícias: Concentração +8, Conhecimento (História antiga) +5, Conhecimento Local+5, Conhecimento (Religião) +8 
+ 
+Daemon: 
+Atributos: Con 17 For 15 Dex (14+15)/2 Agi 14 Will 15 Int 13 Per (15+13)/2 Car 15, Clériga de 4º nível 
+Perícias: História antiga 25%, Conhecimento Local 25%, Religião 40% 
+Aprimoramentos: Arena (a ponte), arma especial (maça), clericato (Nimb), Imortal (apenas na ponte); Insana;  
+Focus: Ar 1, Água 2 , Terra 2, Luz 1 
+Kit clériga de Nimb (poder oculto +2 em For, Dex, Agi  ou Con em situações de combate) 
+ 
+Perícias de Combate: Hit é uma clériga, portanto, % = Nível x 13 / 9 + Dex(Daemon) x 32 / 9, arredondado para baixo. 
+Temos, então, % = 4 x 13 / 9 + 14 x 32 / 9 = 55,5%; arredondando: 55/55 (Guenkôtsu – esse é o nome da arma dela!) 
+
+
+--- page 34 ---
+Como sua arma é uma arma mágica (+10% para distribuir entre ataque e defesa), Ela tem 60/60 !! 
+Na ponte que protege (que também é o local onde ela treina), ela ainda ganha +10% em todos os testes, o que dá 70/70!!!! 
+De fato, ela é um adversária considerável na ponte.... 
+ 
+Como há em Daemon o Kit clérigo de Nimb, podemos usá-lo: 
+Perícias: Barganha 30%, Burocracia 10%, Ciências(História) 20%, Escutar 10%, Etiqueta 20%, Haráldica 30%, Ler e 
+Escrever Idioma Nativo 30%, Manipulação (Empatia 30%, Impressionar 40%, Interrogatório 30%), Religião 30% 
+Aprimoramentos: Pontos Heróicos 2, Pontos de Fé 3 
+ 
+Fazendo agora as junções, exclusões e mudanças necessárias: 
+Daemon: Hit, a louca da ponte 
+Atributos: Con 17 For 15 Dex 14 Agi 14 Will 15 Int 13 Per 14 Car 15, Clériga de 4º nível 
+Kit clériga de Nimb (poder oculto +2 em For, Dex, Agi  ou Con em situações de combate) 
+Perícias: Barganha 30%, Burocracia 10%, Ciências (História) 25%, Conhecimento Local25%, Escutar 10%, Etiqueta 20%, 
+Haráldica 30%, Ler e Escrever Idioma Nativo 30%, Manipulação (Empatia 30%, Impressionar 40%, Interrogatório 30%), 
+Religião 40% 
+Aprimoramentos: Arena (a ponte), arma especial (maça), clericato (Nimb), Imortal (apenas na ponte); Insana; 
+Focus: Ar 1, Água 2 , Terra 2, Luz 1 
+Pontos Heróicos 8+4 =12, Pontos Místicos (de Fé) 14 + 4 = 18 , Pontos de Vida 16 
+ 
+Ou seja, ignoramos os aprimoramentos Pontos Heróicos e Pontos de Fé, e para cada perícia escolhemos o 
+maior valor (entre o Kit e a Conversão)

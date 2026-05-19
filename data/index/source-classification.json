@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "policy": {
+    "official": "Livros declarados pelo usuário como oficiais para a linha principal Daemon/Trevas.",
+    "supplement": "Todo o restante deve ser tratado como suplemento de jogo, adaptação, material de campanha ou material não-oficial até validação manual.",
+    "note": "A lista oficial foi aplicada sem reclassificar semanticamente livros ambíguos fora do mapeamento abaixo. Nomes ausentes no acervo atual permanecem no relatório para conferência manual."
+  },
+  "officialSourceNamesProvidedByUser": [
+    "Anjo a cidade de prata",
+    "Daemon Medieval",
+    "Trevas 3.0",
+    "Grimorio",
+    "Spiritum O reino dos mortos",
+    "Demonios A divina Comedia",
+    "Vampiros Mitologicos",
+    "Trevas",
+    "Arkanum",
+    "Sistema Daemon 3.0 modulo basico",
+    "Guida de Armas",
+    "Guia de armas medievais",
+    "Guia de itens magicos",
+    "Guia de monstros e inimigos"
+  ],
+  "sources": {
+    "anjos-a-cidade-de-prata": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Anjos: A Cidade de Prata"
+    },
+    "daemon-medieval": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Daemon Medieval"
+    },
+    "trevas-3-0": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Trevas 3.0"
+    },
+    "grimorio": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Grimório"
+    },
+    "spiritum": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Spiritum: O Reino dos Mortos"
+    },
+    "demonios-a-divina-comedia": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Demônios: A Divina Comédia"
+    },
+    "vampiros-mitologicos": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Vampiros Mitológicos"
+    },
+    "dragao-brasil-especial-06-trevas": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Trevas",
+      "note": "Mapeado como o item mais próximo de 'Trevas' no acervo atual."
+    },
+    "arkanun": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Arkanun",
+      "note": "O usuário escreveu 'Arkanum'; o acervo atual usa 'Arkanun'."
+    },
+    "sistema-daemon-3-0": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Sistema Daemon 3.0 — Módulo Básico"
+    },
+    "guia-de-armas-de-fogo-3a-edicao": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Guia de Armas",
+      "note": "Mapeado para Guia de Armas de Fogo 3ª Edição no acervo atual."
+    },
+    "guia-de-armas-medievais-3a-edicao": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Guia de Armas Medievais"
+    },
+    "guia-de-itens-magicos": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Guia de Itens Mágicos"
+    },
+    "guia-de-monstros-de-arkanum": {
+      "kind": "official",
+      "label": "Livro oficial",
+      "officialName": "Guia de Monstros e Inimigos",
+      "note": "Mapeado para Guia de Monstros de Arkanun/Arkanum no acervo atual."
+    },
+    "compendio-de-regras-daemon-trevas": {
+      "kind": "supplement",
+      "label": "Suplemento / regra de mesa",
+      "officialName": "Compendio de regras DAEMON Trevas",
+      "family": {
+        "id": "custom_rules",
+        "label": "Regras caseiras e compêndios do mestre"
+      },
+      "note": "Documento de regras caseiras importado de DOCX estruturado."
+    },
+    "regras-de-boa-convivencia": {
+      "kind": "supplement",
+      "label": "Suplemento / regra de mesa",
+      "officialName": "Regras de boa convivência",
+      "family": {
+        "id": "custom_rules",
+        "label": "Regras caseiras e compêndios do mestre"
+      },
+      "note": "Documento de regras caseiras importado de DOCX estruturado."
+    },
+    "tabela-de-fadiga-dos-jogadores-e-npc": {
+      "kind": "supplement",
+      "label": "Suplemento / regra de mesa",
+      "officialName": "Tabela de Fadiga dos Jogadores e NPC",
+      "family": {
+        "id": "custom_rules",
+        "label": "Regras caseiras e compêndios do mestre"
+      },
+      "note": "Documento de regras caseiras importado de DOCX estruturado."
+    },
+    "tabela-e-regras-para-magos": {
+      "kind": "supplement",
+      "label": "Suplemento / regra de mesa",
+      "officialName": "Tabela e Regras para magos",
+      "family": {
+        "id": "custom_rules",
+        "label": "Regras caseiras e compêndios do mestre"
+      },
+      "note": "Documento de regras caseiras importado de DOCX estruturado."
+    }
+  }
+}

@@ -1,3 +1,13 @@
+const STORAGE = {
+  theme: "daemonTools.theme",
+  sourceMode: "daemonTools.sourceMode",
+  qualityMode: "daemonTools.qualityMode",
+  selectedSources: "daemonTools.selectedSources",
+  selectedFamilies: "daemonTools.selectedFamilies",
+  selectedKinds: "daemonTools.selectedKinds",
+  showEditorialNotes: "daemonTools.showEditorialNotes",
+};
+
 const state = {
   summary: null,
   area: null,
@@ -6,6 +16,12 @@ const state = {
   selectedId: null,
   query: "",
   theme: readThemePref(),
+  sourceMode: localStorage.getItem(STORAGE.sourceMode) || "all",
+  qualityMode: readQualityMode(),
+  selectedSources: readSet(STORAGE.selectedSources),
+  selectedFamilies: readSet(STORAGE.selectedFamilies),
+  selectedKinds: readSet(STORAGE.selectedKinds),
+  showEditorialNotes: localStorage.getItem(STORAGE.showEditorialNotes) === "true",
   searchTimer: null,
 };
 
@@ -19,13 +35,24 @@ const nodes = {
   searchInput: document.querySelector("#searchInput"),
   refreshButton: document.querySelector("#refreshButton"),
   themeToggle: document.querySelector("#themeToggle"),
+  adminToggle: document.querySelector("#adminToggle"),
+  adminClose: document.querySelector("#adminClose"),
+  adminPanel: document.querySelector("#adminPanel"),
+  sourceMode: document.querySelector("#sourceMode"),
+  qualityMode: document.querySelector("#qualityMode"),
+  sourceFilter: document.querySelector("#sourceFilter"),
+  familyFilter: document.querySelector("#familyFilter"),
+  kindFilter: document.querySelector("#kindFilter"),
+  notesToggle: document.querySelector("#notesToggle"),
+  clearFilters: document.querySelector("#clearFilters"),
+  activeFilters: document.querySelector("#activeFilters"),
   areaButtonTemplate: document.querySelector("#areaButtonTemplate"),
   itemTemplate: document.querySelector("#itemTemplate"),
 };
 
 const typeLabels = {
-  entity: "Entidade",
-  sourcePart: "Parte",
+  entity: "Registro",
+  sourcePart: "Trecho de livro",
 };
 
 const subtypeLabels = {
@@ -37,6 +64,53 @@ const subtypeLabels = {
   poder: "Poder",
   raca: "Raça",
   ritual: "Ritual",
+};
+
+const contentKindLabels = {
+  source_catalog: "Ficha de fonte/livro",
+  rule_mechanic: "Regra ou mecânica",
+  character_option: "Opção de personagem",
+  power_spell: "Poder, magia ou ritual",
+  combat_maneuver: "Combate ou manobra",
+  item_equipment: "Item, equipamento ou material",
+  creature_npc: "Criatura, inimigo ou NPC",
+  lore_world: "História, mundo ou cenário",
+  organization_faction: "Organização, facção ou culto",
+  adventure_scene: "Aventura, cena ou campanha",
+  table_reference: "Tabela ou referência",
+  raw_chapter_block: "Capítulo/página bruto",
+  front_matter: "Créditos, índice ou metadado",
+  ocr_noise: "OCR/lixo de extração",
+  uncertain_fragment: "Fragmento incerto",
+};
+
+const qualityLabels = {
+  empty_display_text: "sem texto exibível",
+  too_short_possible_cut: "possível corte",
+  ends_with_connector_possible_cut: "termina incompleto",
+  does_not_end_like_complete_sentence: "fim possivelmente incompleto",
+  too_long_possible_merged_blocks: "blocos possivelmente colados",
+  encoding_or_ocr_artifact: "artefato de OCR/codificação",
+  hyphenated_word_split: "palavra hifenizada",
+  page_number_inside_text: "número de página misturado",
+  trailing_section_footer_or_page_number: "rodapé misturado",
+  unbalanced_parentheses: "parênteses desbalanceados",
+  unbalanced_brackets: "colchetes desbalanceados",
+  repeated_fragment_possible_duplication: "fragmento repetido",
+  aprimoramento_without_cost_marker: "aprimoramento sem custo",
+  many_cost_markers_possible_merged_aprimoramentos: "custos demais no bloco",
+  starts_mid_sentence_possible_left_cut: "começa no meio da frase",
+  lowercase_sentence_after_section_possible_leak: "possível trecho colado",
+  invalid_title_or_ocr_header: "título inválido/OCR",
+  critical_ocr_gibberish: "OCR crítico",
+  symbol_noise_ocr: "ruído de símbolos",
+  front_matter_or_index_block: "front matter/sumário",
+  generic_chapter_or_page_block: "capítulo genérico",
+  source_part_without_specific_subject: "trecho sem assunto específico",
+  ocr_corrupted_title_or_body: "texto corrompido",
+  raw_source_part_requires_review: "trecho bruto para revisão",
+  manual_quarantine: "quarentena manual",
+  manual_review: "revisão manual",
 };
 
 async function fetchJson(path) {
@@ -54,12 +128,30 @@ function normalize(value) {
     .toLowerCase();
 }
 
+function readSet(key) {
+  try {
+    const value = JSON.parse(localStorage.getItem(key) || "[]");
+    return new Set(Array.isArray(value) ? value : []);
+  } catch {
+    return new Set();
+  }
+}
+
+function saveSet(key, value) {
+  localStorage.setItem(key, JSON.stringify([...value]));
+}
+
+function readQualityMode() {
+  const saved = localStorage.getItem(STORAGE.qualityMode) || "catalog";
+  return ["catalog", "review", "quarantine"].includes(saved) ? saved : "catalog";
+}
+
 function preferredSystemTheme() {
   return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 }
 
 function readThemePref() {
-  return localStorage.getItem("daemonTools.theme") || preferredSystemTheme();
+  return localStorage.getItem(STORAGE.theme) || preferredSystemTheme();
 }
 
 function applyTheme(theme) {
@@ -71,7 +163,7 @@ function applyTheme(theme) {
 
 function toggleTheme() {
   const nextTheme = state.theme === "dark" ? "light" : "dark";
-  localStorage.setItem("daemonTools.theme", nextTheme);
+  localStorage.setItem(STORAGE.theme, nextTheme);
   applyTheme(nextTheme);
 }
 
@@ -129,6 +221,10 @@ function buildItems(areaData) {
       item.certifiedAs,
       item.subgroup,
       item.subgroupLabel,
+      item.sourceKindLabel,
+      item.sourceFamilyLabel,
+      item.contentKindLabel,
+      item.qualityStatus,
       item.costText,
       ...(item.costs ?? []),
       ...(item.entries ?? []),
@@ -143,6 +239,10 @@ function buildItems(areaData) {
       item.sourceTitle,
       item.category,
       item.summary,
+      item.sourceKindLabel,
+      item.sourceFamilyLabel,
+      item.contentKindLabel,
+      item.qualityStatus,
       ...(item.tags ?? []),
     ].join(" "),
   }));
@@ -223,7 +323,39 @@ function filteredItems() {
   const query = normalize(state.query);
   return state.items
     .filter((item) => !query || item.normalizedSearchable.includes(query))
+    .filter(filterByQuality)
+    .filter(filterBySourceMode)
+    .filter(filterByFamily)
+    .filter(filterByKind)
+    .filter(filterBySource)
     .sort(compareItemsByName);
+}
+
+function filterByQuality(item) {
+  const status = item.presentationStatus || "public";
+  const severity = item.qualitySeverity || "ok";
+  if (state.qualityMode === "quarantine") return status === "quarantine";
+  if (state.qualityMode === "review") return status !== "quarantine" && severity !== "ok";
+  return status !== "quarantine";
+}
+
+function filterBySourceMode(item) {
+  if (state.sourceMode === "official") return Boolean(item.officialSource);
+  if (state.sourceMode === "supplement") return item.officialSource === false;
+  return true;
+}
+
+function filterByFamily(item) {
+  return !state.selectedFamilies.size || state.selectedFamilies.has(item.sourceFamily);
+}
+
+function filterByKind(item) {
+  const kind = item.contentKind || item.subtype || item.itemType;
+  return !state.selectedKinds.size || state.selectedKinds.has(kind);
+}
+
+function filterBySource(item) {
+  return !state.selectedSources.size || state.selectedSources.has(item.source);
 }
 
 function compareItemsByName(left, right) {
@@ -262,9 +394,22 @@ function renderItemRow(item) {
   setText(fragment.querySelector(".item-title"), item.name || item.id);
   setText(fragment.querySelector(".item-preview"), compactText(itemSummary(item), 140));
   setText(fragment.querySelector(".item-kind"), itemKind(item));
+  const warning = fragment.querySelector(".item-warning");
+  const badge = qualityBadgeText(item);
+  if (badge) {
+    warning.hidden = false;
+    warning.textContent = badge;
+  }
   setText(fragment.querySelector(".item-source"), item.sourceTitle || item.source || "-");
   button.addEventListener("click", () => selectItem(item.id));
   return fragment;
+}
+
+function qualityBadgeText(item) {
+  if (item.presentationStatus === "quarantine") return "quarentena";
+  if (item.qualitySeverity === "critical") return "crítico";
+  if (item.qualitySeverity === "warning" || (item.qualityFlags ?? []).length) return "revisar";
+  return "";
 }
 
 function renderResults() {
@@ -274,7 +419,7 @@ function renderResults() {
   if (!items.length) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = "Nenhum item encontrado com a busca atual.";
+    empty.textContent = "Nenhum item encontrado com a busca ou filtros atuais.";
     state.selectedId = null;
     nodes.results.replaceChildren(empty);
     renderDetail();
@@ -370,23 +515,31 @@ function renderDetail(explicitItem) {
   addMeta(meta, "Pagina", itemPage(item));
   addMeta(meta, "Confianca", item.confidence ?? "-");
   addMeta(meta, "Tipo", typeLabels[item.itemType] ?? item.itemType);
+  addMeta(meta, "Fonte", item.sourceKindLabel || (item.officialSource ? "Livro oficial" : "Suplemento"));
+  addMeta(meta, "Família", item.sourceFamilyLabel || "-");
+  addMeta(meta, "Conteúdo", item.contentKindLabel || contentKindLabels[item.contentKind] || item.subtype || "-");
   if (item.classKind) addMeta(meta, "Classe", item.classKind);
 
+  const qualityAlert = renderQualityAlert(item);
   const facts = renderDetailFacts(item);
   const body = document.createElement("section");
   body.className = "detail-body";
   const entries = Array.isArray(item.entries) && item.entries.length ? item.entries : [item.summary || ""];
   renderEntryBlocks(body, entries);
+  renderTables(body, item.tables);
 
   const tags = document.createElement("div");
   tags.className = "detail-tags";
   renderTags(tags, [
     ...(item.certifiedAs ? [`certificado: ${item.certifiedAs}`] : []),
     ...(item.lockedArea ? [`trava: ${item.lockedArea}`] : []),
+    ...(item.sourceKindLabel ? [item.sourceKindLabel] : []),
+    ...(item.sourceFamilyLabel ? [item.sourceFamilyLabel] : []),
+    ...(item.contentKindLabel ? [item.contentKindLabel] : []),
     ...(item.tags ?? []),
   ]);
 
-  nodes.detailPane.replaceChildren(header, meta, facts, body, tags);
+  nodes.detailPane.replaceChildren(header, meta, qualityAlert, facts, body, tags);
 }
 
 function addMeta(container, label, value) {
@@ -397,6 +550,27 @@ function addMeta(container, label, value) {
   description.textContent = value;
   wrapper.append(term, description);
   container.append(wrapper);
+}
+
+function renderQualityAlert(item) {
+  const wrapper = document.createElement("section");
+  const flags = item.qualityFlags ?? [];
+  if (!flags.length || !state.showEditorialNotes) {
+    wrapper.hidden = true;
+    return wrapper;
+  }
+  wrapper.className = "quality-alert";
+  const title = document.createElement("strong");
+  title.textContent = item.presentationStatus === "quarantine" ? "Quarentena editorial" : "Avisos editoriais";
+  const list = document.createElement("ul");
+  list.className = "quality-list";
+  flags.slice(0, 12).forEach((flag) => {
+    const entry = document.createElement("li");
+    entry.textContent = qualityLabels[flag] || flag.replaceAll("_", " ");
+    list.append(entry);
+  });
+  wrapper.append(title, list);
+  return wrapper;
 }
 
 function renderDetailFacts(item) {
@@ -457,6 +631,48 @@ function renderEntryBlocks(container, entries) {
   });
 }
 
+function renderTables(container, tables) {
+  if (!Array.isArray(tables) || !tables.length) return;
+  tables.forEach((tableData, index) => {
+    const wrapper = document.createElement("section");
+    wrapper.className = "table-card";
+    const title = document.createElement("h3");
+    title.textContent = tableData.title || `Tabela ${index + 1}`;
+    const scroll = document.createElement("div");
+    scroll.className = "table-scroll";
+    const table = document.createElement("table");
+    table.className = "rules-table";
+    const columns = Array.isArray(tableData.columns) ? tableData.columns : [];
+    const rows = Array.isArray(tableData.rows) ? tableData.rows : [];
+    if (columns.length) {
+      const thead = document.createElement("thead");
+      const tr = document.createElement("tr");
+      columns.forEach((column) => {
+        const th = document.createElement("th");
+        th.textContent = column;
+        tr.append(th);
+      });
+      thead.append(tr);
+      table.append(thead);
+    }
+    const tbody = document.createElement("tbody");
+    rows.forEach((row) => {
+      const tr = document.createElement("tr");
+      const values = Array.isArray(row) ? row : columns.map((column) => row?.[column] ?? "");
+      values.forEach((value) => {
+        const td = document.createElement("td");
+        td.textContent = value ?? "";
+        tr.append(td);
+      });
+      tbody.append(tr);
+    });
+    table.append(tbody);
+    scroll.append(table);
+    wrapper.append(title, scroll);
+    container.append(wrapper);
+  });
+}
+
 function renderTags(container, tags) {
   const visibleTags = [...new Set(tags.filter(Boolean))].slice(0, 16);
   container.replaceChildren(
@@ -475,6 +691,102 @@ function compactText(value, maxLength) {
   return `${text.slice(0, maxLength - 1).trim()}…`;
 }
 
+function checkboxOptions(container, options, selected, emptyText) {
+  container.replaceChildren();
+  if (!options.length) {
+    const empty = document.createElement("span");
+    empty.className = "filter-empty";
+    empty.textContent = emptyText;
+    container.append(empty);
+    return;
+  }
+  options.forEach((option) => {
+    const label = document.createElement("label");
+    label.className = "filter-check";
+    const input = document.createElement("input");
+    input.type = "checkbox";
+    input.value = option.id;
+    input.checked = selected.has(option.id);
+    const text = document.createElement("span");
+    text.textContent = `${option.label || option.title || option.id} (${option.count})`;
+    label.append(input, text);
+    container.append(label);
+  });
+}
+
+function selectedOptions(container) {
+  return new Set([...container.querySelectorAll("input:checked")].map((input) => input.value));
+}
+
+function pruneSelected(set, allowed) {
+  const allowedIds = new Set(allowed.map((item) => item.id));
+  for (const value of [...set]) {
+    if (!allowedIds.has(value)) set.delete(value);
+  }
+}
+
+function renderAdminFilters() {
+  if (!state.areaData) return;
+  const filters = state.areaData.filters || {};
+  const families = filters.sourceFamilies || [];
+  const sources = filters.sources || [];
+  const kinds = (filters.subtypes || []).map((item) => ({
+    ...item,
+    label: contentKindLabels[item.id] || subtypeLabels[item.id] || item.id,
+  }));
+  pruneSelected(state.selectedFamilies, families);
+  pruneSelected(state.selectedSources, sources);
+  pruneSelected(state.selectedKinds, kinds);
+  nodes.qualityMode.value = state.qualityMode;
+  nodes.sourceMode.value = state.sourceMode;
+  nodes.notesToggle.setAttribute("aria-pressed", state.showEditorialNotes ? "true" : "false");
+  nodes.notesToggle.textContent = state.showEditorialNotes ? "Ocultar avisos" : "Mostrar avisos";
+  checkboxOptions(nodes.familyFilter, families, state.selectedFamilies, "Nenhuma família disponível.");
+  checkboxOptions(nodes.sourceFilter, sources, state.selectedSources, "Nenhuma fonte disponível.");
+  checkboxOptions(nodes.kindFilter, kinds, state.selectedKinds, "Nenhum tipo disponível.");
+  renderFilterSummary();
+}
+
+function renderFilterSummary() {
+  const modeLabels = {
+    catalog: "Catálogo normal",
+    review: "Revisar",
+    quarantine: "Quarentena",
+  };
+  const chips = [modeLabels[state.qualityMode] || state.qualityMode];
+  if (state.sourceMode === "official") chips.push("Oficiais");
+  if (state.sourceMode === "supplement") chips.push("Suplementos");
+  if (state.selectedFamilies.size) chips.push(`${state.selectedFamilies.size} família(s)`);
+  if (state.selectedSources.size) chips.push(`${state.selectedSources.size} fonte(s)`);
+  if (state.selectedKinds.size) chips.push(`${state.selectedKinds.size} tipo(s)`);
+  if (state.showEditorialNotes) chips.push("avisos visíveis");
+  nodes.activeFilters.replaceChildren(
+    ...chips.map((chip) => {
+      const element = document.createElement("span");
+      element.className = "filter-chip";
+      element.textContent = chip;
+      return element;
+    }),
+  );
+}
+
+function applyAdminFilters() {
+  saveSet(STORAGE.selectedFamilies, state.selectedFamilies);
+  saveSet(STORAGE.selectedSources, state.selectedSources);
+  saveSet(STORAGE.selectedKinds, state.selectedKinds);
+  localStorage.setItem(STORAGE.sourceMode, state.sourceMode);
+  localStorage.setItem(STORAGE.qualityMode, state.qualityMode);
+  localStorage.setItem(STORAGE.showEditorialNotes, state.showEditorialNotes ? "true" : "false");
+  renderFilterSummary();
+  renderResults();
+  renderDetail();
+}
+
+function setAdminOpen(open) {
+  nodes.adminPanel.hidden = !open;
+  nodes.adminToggle.setAttribute("aria-expanded", open ? "true" : "false");
+}
+
 async function selectArea(areaId, options = {}) {
   state.area = areaId;
   state.areaData = await fetchJson(`assets/data/areas/${areaId}.json`);
@@ -482,6 +794,7 @@ async function selectArea(areaId, options = {}) {
   state.selectedId = options.itemId ?? null;
   renderAreaList();
   renderOverview();
+  renderAdminFilters();
   renderResults();
   renderDetail();
   if (!options.skipHash) {
@@ -521,6 +834,56 @@ nodes.searchInput.addEventListener("input", (event) => {
     renderResults();
     renderDetail();
   }, 180);
+});
+
+nodes.adminToggle.addEventListener("click", () => {
+  setAdminOpen(nodes.adminPanel.hidden);
+});
+
+nodes.adminClose.addEventListener("click", () => {
+  setAdminOpen(false);
+});
+
+nodes.qualityMode.addEventListener("change", (event) => {
+  state.qualityMode = event.target.value;
+  applyAdminFilters();
+});
+
+nodes.sourceMode.addEventListener("change", (event) => {
+  state.sourceMode = event.target.value;
+  applyAdminFilters();
+});
+
+nodes.familyFilter.addEventListener("change", () => {
+  state.selectedFamilies = selectedOptions(nodes.familyFilter);
+  applyAdminFilters();
+});
+
+nodes.sourceFilter.addEventListener("change", () => {
+  state.selectedSources = selectedOptions(nodes.sourceFilter);
+  applyAdminFilters();
+});
+
+nodes.kindFilter.addEventListener("change", () => {
+  state.selectedKinds = selectedOptions(nodes.kindFilter);
+  applyAdminFilters();
+});
+
+nodes.notesToggle.addEventListener("click", () => {
+  state.showEditorialNotes = !state.showEditorialNotes;
+  renderAdminFilters();
+  applyAdminFilters();
+});
+
+nodes.clearFilters.addEventListener("click", () => {
+  state.sourceMode = "all";
+  state.qualityMode = "catalog";
+  state.selectedSources = new Set();
+  state.selectedFamilies = new Set();
+  state.selectedKinds = new Set();
+  state.showEditorialNotes = false;
+  renderAdminFilters();
+  applyAdminFilters();
 });
 
 nodes.refreshButton.addEventListener("click", () => {

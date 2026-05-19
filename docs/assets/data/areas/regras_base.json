@@ -6,6 +6,378 @@
   "entityCount": 4,
   "sourcePartCount": 41,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "daemon-medieval",
+        "title": "Daemon Medieval",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 4
+      },
+      {
+        "id": "abismo",
+        "title": "Abismo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "alianca-daemon-01",
+        "title": "Aliança Daemon 01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "avatar-volume-1",
+        "title": "avatar volume 1",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "avatars-vol-2",
+        "title": "avatars vol 2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "biohazard",
+        "title": "biohazard",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "cdd",
+        "title": "Cdd",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "ceifadores",
+        "title": "ceifadores",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "conan",
+        "title": "conan",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "daemon-revisado-playtest-alfa-3-6",
+        "title": "Daemon Revisado playtest alfa 3.6",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "daemon-sem-nivel",
+        "title": "Daemon-Sem-Nivel",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "dbz-rpg",
+        "title": "Dbz Rpg",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "deform",
+        "title": "deform",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "demon-cthulhu",
+        "title": "Demon Cthulhu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "evolucao-alternativa",
+        "title": "Evolução Alternativa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "heroismo",
+        "title": "Heroísmo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "livrodomal",
+        "title": "livrodomal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+        "title": "Lobisomem-a-maldicao-v2-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "lobisomem02",
+        "title": "lobisomem02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "mago-sistema-daemon",
+        "title": "Mago Sistema Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "mecha",
+        "title": "mecha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "mortal-kombat",
+        "title": "Mortal Kombat",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
+        "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "title": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "onmyodo",
+        "title": "Onmyodo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "ray",
+        "title": "ray",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "rocknrt",
+        "title": "rocknrt",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "universo-daemon-01",
+        "title": "Universo Daemon #01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "yuyu-hakusho-rpg-para-daemon",
+        "title": "yuyu hakusho RPG para Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": "core_rule",
+        "count": 45
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "adventure_scene",
+        "count": 1
+      },
+      {
+        "id": "creature_npc",
+        "count": 2
+      },
+      {
+        "id": "front_matter",
+        "count": 4
+      },
+      {
+        "id": "item_equipment",
+        "count": 2
+      },
+      {
+        "id": "lore_world",
+        "count": 1
+      },
+      {
+        "id": "ocr_noise",
+        "count": 1
+      },
+      {
+        "id": "organization_faction",
+        "count": 1
+      },
+      {
+        "id": "raw_chapter_block",
+        "count": 17
+      },
+      {
+        "id": "rule_mechanic",
+        "count": 6
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 10
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 4
+      },
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 41
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 4
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 37
+      }
+    ],
+    "areas": [
+      {
+        "id": "regras_base",
+        "count": 45
+      }
+    ]
+  },
   "entities": [
     {
       "id": "geracao-aleatoria-de-atributos",
@@ -27,7 +399,18 @@
         "regras_base"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "loucura-abissal",
@@ -48,7 +431,18 @@
         "regras_base"
       ],
       "confidence": 0.84,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "progressao-de-atributos-daemon",
@@ -70,7 +464,18 @@
         "sistema-daemon"
       ],
       "confidence": 0.86,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "terror-abissal",
@@ -92,7 +497,18 @@
         "terror"
       ],
       "confidence": 0.82,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     }
   ],
   "sourceParts": [
@@ -117,27 +533,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "dbz-rpg--dbz-rpg-editorial-2",
-      "name": "Editorial",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "dbz-rpg",
-      "sourceTitle": "DBZ_RPG",
-      "pages": [
-        2
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "page": 2,
-      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-1",
@@ -160,7 +578,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-47",
@@ -180,7 +620,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-51",
@@ -200,7 +662,31 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-53",
@@ -220,7 +706,117 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-daemon-revisado-1",
+      "name": "Daemon Revisado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon Revisado playtest alfa 3.6",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Daemon Revisado Playteste Alpha v. 3.6 Texto e desenvolvimento: Victor Gaigaia 1",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-introducao-2",
+      "name": "INTRODUÇÃO",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-revisado-playtest-alfa-3-6",
+      "sourceTitle": "Daemon Revisado playtest alfa 3.6",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "INTRODUÇÃO Este é apenas um jogo. A realidade é muito pior. Boas vindas ao playteste do Sistema Daemon revisado. Este documento tem foco em jogadores que já conhecem o sistema Daemon em suas versões anteriores, então as regras descritas aqui já pressupõem familiaridade do leitor. Nosso objetivo é analisar as bases da nova versão e, conforme avançar o playtes...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-sem-nivel--daemon-sem-nivel-sistema-daemon-sem-nivel-1",
@@ -240,47 +836,70 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
-      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-daemon-revisado-1",
-      "name": "Daemon Revisado",
+      "id": "dbz-rpg--dbz-rpg-editorial-2",
+      "name": "Editorial",
       "area": "regras_base",
       "category": "core_rule",
-      "source": "daemon-revisado-playtest-alfa-3-6",
-      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Daemon Revisado Playteste Alpha v. 3.6 Texto e desenvolvimento: Victor Gaigaia 1",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-introducao-2",
-      "name": "INTRODUÇÃO",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "daemon-revisado-playtest-alfa-3-6",
-      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "source": "dbz-rpg",
+      "sourceTitle": "Dbz Rpg",
       "pages": [
         2
       ],
       "page": 2,
-      "summary": "INTRODUÇÃO Este é apenas um jogo. A realidade é muito pior. Boas vindas ao playteste do Sistema Daemon revisado. Este documento tem foco em jogadores que já conhecem o sistema Daemon em suas versões anteriores, então as regras descritas aqui já pressupõem familiaridade do leitor. Nosso objetivo é analisar as bases da nova versão e, conforme avançar o playtes...",
+      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Marcelo de Matos, mas conhecido como “Guaxinim”, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe...",
       "entityRefs": [],
       "tags": [
         "core_rule",
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-1",
@@ -303,7 +922,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-1",
@@ -326,7 +967,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "evolucao-alternativa--evolucao-alternativa-treino-7",
@@ -346,7 +1009,25 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "heroismo--heroismo-heroismo-1",
@@ -369,7 +1050,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "lobisomem-a-maldicao-v2-biblioteca-elfica--lobisomem-a-maldicao-v2-biblioteca-elfica-lobisomem-a-maldicao-2-1",
@@ -392,30 +1095,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "mortal-kombat--mortal-kombat-mortal-kombat-2",
-      "name": "MORTAL KOMBAT",
-      "area": "regras_base",
-      "category": "core_rule",
-      "source": "mortal-kombat",
-      "sourceTitle": "MORTAL KOMBAT",
-      "pages": [
-        [
-          2,
-          8
-        ]
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "page": null,
-      "summary": "2 MORTAL KOMBAT “Há milênios, numa batalha com um deus decadente conhecido como Shinnok, fui responsável pela morte de uma civilização inteira. Para livrar todos os reinos da ameaça de Shinnok, entrei numa guerra que deixou a Terra por séculos sob uma terrível escuridão, mesmo após o banimento o deus sombrio. Com a ajuda dos Deuses Antigos, Shinnok amarga se...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base"
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "mago-sistema-daemon--mago-sistema-daemon-iniciativa-1",
@@ -435,7 +1137,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "mago-sistema-daemon--mago-sistema-daemon-sistema-daemon-2",
@@ -455,7 +1179,75 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "mortal-kombat--mortal-kombat-mortal-kombat-2",
+      "name": "MORTAL KOMBAT",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "mortal-kombat",
+      "sourceTitle": "Mortal Kombat",
+      "pages": [
+        [
+          2,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "2 MORTAL KOMBAT “Há milênios, numa batalha com um deus decadente conhecido como Shinnok, fui responsável pela morte de uma civilização inteira. Para livrar todos os reinos da ameaça de Shinnok, entrei numa guerra que deixou a Terra por séculos sob uma terrível escuridão, mesmo após o banimento o deus sombrio. Com a ajuda dos Deuses Antigos, Shinnok amarga se...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-criacao-bernard-maihelkash-coutinho-2",
@@ -478,7 +1270,30 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-will-92",
@@ -498,7 +1313,25 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "onmyodo--onmyodo-agradecimentos-3",
@@ -518,7 +1351,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "onmyodo--onmyodo-as-primeiras-licoes-4",
@@ -538,7 +1393,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "universo-daemon-01--universo-daemon-01-eoltorial-2",
@@ -561,7 +1436,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "universo-daemon-01--universo-daemon-01-at-ar-8",
@@ -581,7 +1476,28 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "avatar-volume-1--avatar-volume-1-pagina-inicial-1",
@@ -589,7 +1505,7 @@
       "area": "regras_base",
       "category": "core_rule",
       "source": "avatar-volume-1",
-      "sourceTitle": "avatar_volume_1",
+      "sourceTitle": "avatar volume 1",
       "pages": [
         [
           1,
@@ -604,7 +1520,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "avatars-vol-2--avatars-vol-2-pagina-inicial-1",
@@ -612,7 +1550,7 @@
       "area": "regras_base",
       "category": "core_rule",
       "source": "avatars-vol-2",
-      "sourceTitle": "avatars_vol_2",
+      "sourceTitle": "avatars vol 2",
       "pages": [
         [
           1,
@@ -627,7 +1565,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "avatars-vol-2--avatars-vol-2-indice-do-volume-dois-3",
@@ -635,7 +1595,7 @@
       "area": "regras_base",
       "category": "core_rule",
       "source": "avatars-vol-2",
-      "sourceTitle": "avatars_vol_2",
+      "sourceTitle": "avatars vol 2",
       "pages": [
         3
       ],
@@ -647,7 +1607,31 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "front_matter_or_index_block",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "biohazard--biohazard-atencao-2",
@@ -670,7 +1654,30 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "biohazard--biohazard-criacao-de-personagens-17",
@@ -693,7 +1700,30 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "biohazard--biohazard-bio-hazard-1",
@@ -713,7 +1743,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "ceifadores--ceifadores-a-ordem-das-foices-cruzadas-2",
@@ -733,7 +1783,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "ceifadores--ceifadores-todos-6",
@@ -753,7 +1823,28 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "conan--conan-conan-2",
@@ -773,7 +1864,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "deform--deform-spiritum-12",
@@ -793,7 +1906,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "livrodomal--livrodomal-o-livr-1",
@@ -813,7 +1946,28 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "lobisomem02--lobisomem02-personagens-lobisomens-o-tipo-de-lobisomem-1",
@@ -833,7 +1987,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "mecha--mecha-fabricio-death-botelho-1",
@@ -856,7 +2030,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "ray--ray-editorial-2",
@@ -879,7 +2075,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "rocknrt--rocknrt-musico-famoso-10",
@@ -902,7 +2120,27 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "rocknrt--rocknrt-soma-dos-status-12",
@@ -925,7 +2163,28 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "rocknrt--rocknrt-3-pontos-7-instrumentos-7",
@@ -945,7 +2204,28 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-hakusho-1",
@@ -953,7 +2233,7 @@
       "area": "regras_base",
       "category": "core_rule",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         1
       ],
@@ -965,7 +2245,29 @@
         "regras_base"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     }
   ]
 }

@@ -6,6 +6,77 @@
   "entityCount": 12,
   "sourcePartCount": 0,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "abismo-infinito-quick-start",
+        "title": "Abismo-Infinito-Quick-Start",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 10
+      },
+      {
+        "id": "fadas-3-edicao",
+        "title": "Fadas 3 edição",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "monges-daemon",
+        "title": "Monges Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": "character_class",
+        "count": 12
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "character_option",
+        "count": 12
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 12
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
+        "count": 10
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 2
+      }
+    ],
+    "areas": [
+      {
+        "id": "classes",
+        "count": 12
+      }
+    ]
+  },
   "entities": [
     {
       "id": "classe-fadas-3-edicao-a-lendaria-fada-da-morte",
@@ -27,6 +98,13 @@
       ],
       "confidence": 0.78,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         18,
@@ -39,7 +117,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:fadas-3-edicao:a-lendaria-fada-da-morte",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "text-class-term"
+      "classContext": "text-class-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-astrogeologo",
@@ -61,6 +146,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         24,
@@ -73,7 +165,15 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:astrogeologo",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-cosmologo",
@@ -95,6 +195,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         25
@@ -106,7 +213,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:cosmologo",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-criptologo",
@@ -128,6 +242,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         25,
@@ -140,7 +261,15 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:criptologo",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-engenheiro",
@@ -162,6 +291,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         25
@@ -173,7 +309,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:engenheiro",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-exobiologo",
@@ -195,6 +338,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         26
@@ -206,7 +356,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:exobiologo",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-medico",
@@ -228,6 +385,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         26,
@@ -240,7 +404,15 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:medico",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-monges-daemon-monge",
@@ -262,6 +434,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         1
@@ -273,7 +452,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:monges-daemon:monge",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "manual-extractor"
+      "classContext": "manual-extractor",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-navegador",
@@ -295,6 +481,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         26
@@ -306,7 +499,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:navegador",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-psicologo",
@@ -328,6 +528,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         27
@@ -339,7 +546,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:psicologo",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-seguranca",
@@ -361,6 +575,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         27
@@ -372,7 +593,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:seguranca",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "classe-abismo-infinito-quick-start-videomaker",
@@ -394,6 +622,13 @@
       ],
       "confidence": 0.84,
       "extractionMethod": "auto-class-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "class",
       "pages": [
         27
@@ -405,7 +640,14 @@
       "lockedArea": "classes",
       "certificationId": "class-lock:abismo-infinito-quick-start:videomaker",
       "certificationMethod": "class-explicit-context-mechanical-pass-1",
-      "classContext": "book-part,cargo-section"
+      "classContext": "book-part,cargo-section",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     }
   ],
   "sourceParts": []

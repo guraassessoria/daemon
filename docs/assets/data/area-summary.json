@@ -2,13 +2,13 @@
   "version": 1,
   "readySourceCount": 190,
   "areaCount": 17,
-  "entityCount": 1425,
+  "entityCount": 1615,
   "sourcePartCount": 1544,
   "areas": [
     {
       "id": "fontes",
       "name": "Fontes",
-      "entityCount": 0,
+      "entityCount": 190,
       "sourcePartCount": 28
     },
     {
@@ -299,5 +299,2168 @@
     "youkais",
     "yuyu-hakusho-rpg-para-daemon",
     "zoologico"
-  ]
+  ],
+  "filters": {
+    "sources": [
+      {
+        "id": "daemon-medieval",
+        "title": "Daemon Medieval",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 69
+      },
+      {
+        "id": "demonios-a-divina-comedia",
+        "title": "Demônios - A Divina Comédia",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 75
+      },
+      {
+        "id": "guia-de-monstros-de-arkanum",
+        "title": "Guia de Monstros de Arkanum",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 2
+      },
+      {
+        "id": "4killers",
+        "title": "4killers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 10
+      },
+      {
+        "id": "a-assassina",
+        "title": "A Assassina",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 10
+      },
+      {
+        "id": "abismo",
+        "title": "Abismo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 25
+      },
+      {
+        "id": "abismo-infinito-quick-start",
+        "title": "Abismo-Infinito-Quick-Start",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 35
+      },
+      {
+        "id": "alastores-a-justica-infernal",
+        "title": "Alastores - A Justiça Infernal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 36
+      },
+      {
+        "id": "alianca-daemon-01",
+        "title": "Aliança Daemon 01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 13
+      },
+      {
+        "id": "animalidade",
+        "title": "animalidade",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 42
+      },
+      {
+        "id": "anime-rpg-supers-monstros-e-viloes",
+        "title": "Anime RPG - Supers - Monstros e Vilões",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 20
+      },
+      {
+        "id": "anjos-cacadores-alados",
+        "title": "Anjos cacadores-alados",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "anjos-jyhad-faces-da-fe",
+        "title": "Anjos Jyhad - Faces da Fé",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 33
+      },
+      {
+        "id": "anjos-requiem-de-fe",
+        "title": "Anjos - Réquiem de Fé",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 82
+      },
+      {
+        "id": "anjossombras01",
+        "title": "anjossombras01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "anjossombras02",
+        "title": "anjossombras02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "anjossombras03",
+        "title": "anjossombras03",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "anjossombras04",
+        "title": "anjossombras04",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "anjossombras05",
+        "title": "anjossombras05",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "anoes",
+        "title": "anoes",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "aprimoramentos-1",
+        "title": "Aprimoramentos 1",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 152
+      },
+      {
+        "id": "aprimoramentos-2",
+        "title": "Aprimoramentos 2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 72
+      },
+      {
+        "id": "aprimoramentos-3",
+        "title": "Aprimoramentos 3",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 115
+      },
+      {
+        "id": "aprimoramentos-4",
+        "title": "Aprimoramentos 4",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 71
+      },
+      {
+        "id": "aprimoramentostormenta",
+        "title": "aprimoramentostormenta",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 31
+      },
+      {
+        "id": "arcanis",
+        "title": "arcanis",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "archonan",
+        "title": "archonan",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "ark-a-nun-arquivos-de-bel-kalaa",
+        "title": "Ark-a-nun - Arquivos de Bel-Kalaa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 21
+      },
+      {
+        "id": "armadura-magica-de-ataque",
+        "title": "Armadura Mágica de Ataque",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 2
+      },
+      {
+        "id": "armamedieval",
+        "title": "armamedieval",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 6
+      },
+      {
+        "id": "armas-da-segunda-guerra",
+        "title": "Armas da Segunda Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 6
+      },
+      {
+        "id": "armas-da-segunda-guerra-mundial",
+        "title": "Armas da Segunda Guerra Mundial",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 30
+      },
+      {
+        "id": "armas-de-fogo",
+        "title": "Armas de Fogo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 30
+      },
+      {
+        "id": "armasbrancas",
+        "title": "armasbrancas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 2
+      },
+      {
+        "id": "armasmagicas",
+        "title": "armasmagicas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 2
+      },
+      {
+        "id": "arte-da-guerra",
+        "title": "Arte da Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 17
+      },
+      {
+        "id": "artes-marciais",
+        "title": "Artes Marciais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "atributos",
+        "title": "Atributos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 15
+      },
+      {
+        "id": "auras",
+        "title": "Auras",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "avatar-volume-1",
+        "title": "avatar volume 1",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "avatars-vol-2",
+        "title": "avatars vol 2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 16
+      },
+      {
+        "id": "batalhas",
+        "title": "batalhas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "biohazard",
+        "title": "biohazard",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 7
+      },
+      {
+        "id": "blade-marvel",
+        "title": "Blade Marvel",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "bruxaria",
+        "title": "bruxaria",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "cabala-2",
+        "title": "Cabala",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 20
+      },
+      {
+        "id": "caminhos2",
+        "title": "Caminhos2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 28
+      },
+      {
+        "id": "canislux",
+        "title": "Canislux",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "capitao-planeta",
+        "title": "Capitao planeta",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "cdd",
+        "title": "Cdd",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "ceifadores",
+        "title": "ceifadores",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "charadas",
+        "title": "Charadas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "ciganos",
+        "title": "ciganos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "clube-de-caca-guia-do-jogador",
+        "title": "Clube de Caça - Guia do Jogador",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 10
+      },
+      {
+        "id": "cobaias15",
+        "title": "cobaias15",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "conan",
+        "title": "conan",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "cura",
+        "title": "cura",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 13
+      },
+      {
+        "id": "cyfell",
+        "title": "Cyfell",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 3
+      },
+      {
+        "id": "daemon-revisado-playtest-alfa-3-6",
+        "title": "Daemon Revisado playtest alfa 3.6",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 14
+      },
+      {
+        "id": "daemon-sem-nivel",
+        "title": "Daemon-Sem-Nivel",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "daemonium",
+        "title": "daemonium",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 11
+      },
+      {
+        "id": "dbz-rpg",
+        "title": "Dbz Rpg",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 22
+      },
+      {
+        "id": "deform",
+        "title": "deform",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 14
+      },
+      {
+        "id": "demon-cthulhu",
+        "title": "Demon Cthulhu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "desentsu",
+        "title": "desentsu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "devilmaycry",
+        "title": "Devilmaycry",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "diferencas",
+        "title": "Diferencas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 3
+      },
+      {
+        "id": "domini-urbs-biblioteca-elfica",
+        "title": "Domini-urbs-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 19
+      },
+      {
+        "id": "dragao",
+        "title": "dragao",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "dragoes-reis-caidos-sistema-daemon",
+        "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 56
+      },
+      {
+        "id": "dragoes2",
+        "title": "dragoes2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "elf",
+        "title": "elf",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 10
+      },
+      {
+        "id": "enciclopedia-a10",
+        "title": "Enciclopedia A10",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "energia-mistica",
+        "title": "Energia Mistica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "equip",
+        "title": "equip",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "era-dos-herois",
+        "title": "Era dos Heróis",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "escudos02",
+        "title": "escudos02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "etruscos",
+        "title": "Etruscos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 29
+      },
+      {
+        "id": "evolucao-alternativa",
+        "title": "Evolução Alternativa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "fadadaluz",
+        "title": "fadadaluz",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 26
+      },
+      {
+        "id": "fadas",
+        "title": "fadas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 11
+      },
+      {
+        "id": "fadas-2",
+        "title": "Fadas 2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 53
+      },
+      {
+        "id": "fadas-3-edicao",
+        "title": "Fadas 3 edição",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 28
+      },
+      {
+        "id": "ficha-mago-trevas",
+        "title": "ficha mago trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 2
+      },
+      {
+        "id": "frankenstein",
+        "title": "Frankenstein",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "fusd-r6",
+        "title": "Fusd-r6",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "gaki",
+        "title": "gaki",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 19
+      },
+      {
+        "id": "gdac-light",
+        "title": "GdAC - Light",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "gerador-de-criaturas",
+        "title": "Gerador de criaturas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "creatures_bestiary",
+        "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+        "count": 24
+      },
+      {
+        "id": "geradoritem02",
+        "title": "geradoritem02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 9
+      },
+      {
+        "id": "gigantes-mitologicos",
+        "title": "Gigantes Mitologicos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 28
+      },
+      {
+        "id": "grimark201",
+        "title": "grimark201",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 74
+      },
+      {
+        "id": "grimorio101",
+        "title": "Grimorio101",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 17
+      },
+      {
+        "id": "guerra-de-monstros",
+        "title": "Guerra de Monstros",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "creatures_bestiary",
+        "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+        "count": 3
+      },
+      {
+        "id": "guerreiros-orientais",
+        "title": "Guerreiros Orientais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 12
+      },
+      {
+        "id": "guia-de-racas-de-arton-tormentarpg",
+        "title": "guia de raças de arton tormentarpg",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 63
+      },
+      {
+        "id": "guia-do-aventureiro-de-arton",
+        "title": "Guia do Aventureiro de Arton",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 27
+      },
+      {
+        "id": "guia-dos-dragoes-1-biblioteca-elfica",
+        "title": "Guia-dos-dragoes-1-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 22
+      },
+      {
+        "id": "guia-dragoes-vol-ii",
+        "title": "guia-dragoes vol-II",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 28
+      },
+      {
+        "id": "guia-guerreiro",
+        "title": "guia guerreiro",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "guia-pericias",
+        "title": "guia pericias",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 7
+      },
+      {
+        "id": "guiademagias",
+        "title": "guiademagias",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 46
+      },
+      {
+        "id": "harrypotter",
+        "title": "harrypotter",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "heroismo",
+        "title": "Heroísmo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "hydora",
+        "title": "hydora",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 7
+      },
+      {
+        "id": "imortal",
+        "title": "Imortal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 70
+      },
+      {
+        "id": "imortal-a-centelha",
+        "title": "Imortal - A Centelha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 42
+      },
+      {
+        "id": "imortal-a-centelha-2",
+        "title": "Imortal-a centelha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 36
+      },
+      {
+        "id": "inquisicao-celestial",
+        "title": "Inquisição Celestial",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "ismails-anjos-islamicos",
+        "title": "Ismails - Anjos Islâmicos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "jiraya",
+        "title": "Jiraya",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "judaismo",
+        "title": "Judaismo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "juppongatana",
+        "title": "juppongatana",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "kidous-arte-das-trevas",
+        "title": "Kidous - Arte das Trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 11
+      },
+      {
+        "id": "kits",
+        "title": "Kits",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 29
+      },
+      {
+        "id": "kits-militares",
+        "title": "Kits Militares",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 7
+      },
+      {
+        "id": "kitsat",
+        "title": "kitsat",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 77
+      },
+      {
+        "id": "kitsdaemon",
+        "title": "kitsdaemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 7
+      },
+      {
+        "id": "livrodomal",
+        "title": "livrodomal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 18
+      },
+      {
+        "id": "lobisomem-a-maldicao-v2-biblioteca-elfica",
+        "title": "Lobisomem-a-maldicao-v2-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 16
+      },
+      {
+        "id": "lobisomem02",
+        "title": "lobisomem02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 7
+      },
+      {
+        "id": "lobisomemv3",
+        "title": "LobisomemV3",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "lobisomens",
+        "title": "lobisomens",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "magia-negra",
+        "title": "Magia Negra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 20
+      },
+      {
+        "id": "magic-para-daemon",
+        "title": "Magic para Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "mago-sistema-daemon",
+        "title": "Mago Sistema Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 18
+      },
+      {
+        "id": "manobras-de-combate",
+        "title": "Manobras de Combate",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 7
+      },
+      {
+        "id": "manual-de-converscao",
+        "title": "Manual de Conversção",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 19
+      },
+      {
+        "id": "mecha",
+        "title": "mecha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "mitologia-assirio-babilonica",
+        "title": "Mitologia Assírio-babilônica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "mitologia-celta",
+        "title": "Mitologia Celta",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "mitologia-egipcia",
+        "title": "Mitologia Egípcia",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 3
+      },
+      {
+        "id": "mitologia-nordica",
+        "title": "Mitologia Nórdica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "mitraismo",
+        "title": "Mitraísmo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "modulo-combate",
+        "title": "Módulo Combate",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 20
+      },
+      {
+        "id": "monges-daemon",
+        "title": "Monges Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "mortal-kombat",
+        "title": "Mortal Kombat",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 17
+      },
+      {
+        "id": "mortos-vivos",
+        "title": "Mortos Vivos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "title": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 53
+      },
+      {
+        "id": "ninjutsu",
+        "title": "ninjutsu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "novas-armas-de-fogo",
+        "title": "Novas Armas de Fogo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 4
+      },
+      {
+        "id": "novos-poderes-para-fadas-e-fadas-da-luz",
+        "title": "Novos poderes para fadas e fadas da Luz",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 19
+      },
+      {
+        "id": "o-segredo-das-artes-negras",
+        "title": "O Segredo das Artes Negras",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 2
+      },
+      {
+        "id": "onmyodo",
+        "title": "Onmyodo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "ordens-de-ark-a-nun",
+        "title": "Ordens de Ark-a-nun",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 5
+      },
+      {
+        "id": "oriente-cronologia",
+        "title": "Oriente Cronologia",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "os-caminhos-secundarios",
+        "title": "Os Caminhos Secundarios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 12
+      },
+      {
+        "id": "os-invocadores-de-demencia",
+        "title": "Os Invocadores de demência",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "para-preservar-o-equilibrio-entre-o-ceu-eo-inferno",
+        "title": "Para preservar o equilíbrio entre o Céu eo Inferno",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 2
+      },
+      {
+        "id": "pets",
+        "title": "pets",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "phage",
+        "title": "Phage",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "poder",
+        "title": "poder",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 2
+      },
+      {
+        "id": "poderes-cabalisticos",
+        "title": "Poderes Cabalisticos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 126
+      },
+      {
+        "id": "poderes-de-fe-02",
+        "title": "poderes de fe 02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 27
+      },
+      {
+        "id": "poderes-mentais",
+        "title": "Poderes Mentais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 21
+      },
+      {
+        "id": "pontos-heroicos",
+        "title": "Pontos Heróicos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "principais-deuses-da-mitologia-n-u00d3rdica",
+        "title": "Principais Deuses da Mitologia N U00d3rdica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "racas",
+        "title": "racas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 30
+      },
+      {
+        "id": "ray",
+        "title": "ray",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 16
+      },
+      {
+        "id": "redentor",
+        "title": "Redentor",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "revolucao-francesa",
+        "title": "Revolução Francesa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 5
+      },
+      {
+        "id": "rituais",
+        "title": "rituais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 16
+      },
+      {
+        "id": "rocknrt",
+        "title": "rocknrt",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 15
+      },
+      {
+        "id": "samurai-shodown-v-move-list",
+        "title": "Samurai Shodown V Move List",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 3
+      },
+      {
+        "id": "samurai-x",
+        "title": "Samurai X",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
+        "id": "samurais",
+        "title": "Samurais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "se-eu-pudesse-voar",
+        "title": "Se Eu Pudesse Voar",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "secundarios",
+        "title": "secundarios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 19
+      },
+      {
+        "id": "seitas",
+        "title": "seitas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 2
+      },
+      {
+        "id": "spawn",
+        "title": "Spawn",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 8
+      },
+      {
+        "id": "steampunk",
+        "title": "steampunk",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 13
+      },
+      {
+        "id": "talentos",
+        "title": "talentos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 47
+      },
+      {
+        "id": "tartarugasninja",
+        "title": "tartarugasninja",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 4
+      },
+      {
+        "id": "trappers",
+        "title": "Trappers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "trevas-campanha-epica",
+        "title": "Trevas - Campanha Épica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 41
+      },
+      {
+        "id": "trevas-de-marte",
+        "title": "Trevas de Marte",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 16
+      },
+      {
+        "id": "trevas-do-oriente-28-palacios",
+        "title": "Trevas do oriente - 28 Palácios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 11
+      },
+      {
+        "id": "uma-sucubo-em-extase",
+        "title": "Uma sucúbo em êxtase",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "umbral-e-seus-vales",
+        "title": "Umbral e seus vales",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 8
+      },
+      {
+        "id": "universo-daemon-01",
+        "title": "Universo Daemon #01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 8
+      },
+      {
+        "id": "utupia-d10",
+        "title": "Utupia d10",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 6
+      },
+      {
+        "id": "vantagens-regionais-ii",
+        "title": "Vantagens Regionais II",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "races_options",
+        "sourceFamilyLabel": "Raças, kits e opções de personagem",
+        "count": 4
+      },
+      {
+        "id": "vaticano",
+        "title": "Vaticano",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 11
+      },
+      {
+        "id": "venenos",
+        "title": "venenos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 3
+      },
+      {
+        "id": "vikings",
+        "title": "vikings",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
+        "id": "watchmen",
+        "title": "Watchmen",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 9
+      },
+      {
+        "id": "youkai-kyuukai",
+        "title": "Youkai Kyuukai",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 61
+      },
+      {
+        "id": "youkais",
+        "title": "Youkais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "yuyu-hakusho-rpg-para-daemon",
+        "title": "yuyu hakusho RPG para Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 19
+      },
+      {
+        "id": "zoologico",
+        "title": "Zoologico",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "creatures_bestiary",
+        "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+        "count": 2
+      }
+    ],
+    "categories": [
+      {
+        "id": "adventure",
+        "count": 8
+      },
+      {
+        "id": "attribute_skill",
+        "count": 186
+      },
+      {
+        "id": "character_class",
+        "count": 12
+      },
+      {
+        "id": "character_option",
+        "count": 485
+      },
+      {
+        "id": "combat",
+        "count": 292
+      },
+      {
+        "id": "core_rule",
+        "count": 243
+      },
+      {
+        "id": "creature_npc",
+        "count": 244
+      },
+      {
+        "id": "item_equipment",
+        "count": 68
+      },
+      {
+        "id": "kit_class",
+        "count": 240
+      },
+      {
+        "id": "power_magic",
+        "count": 895
+      },
+      {
+        "id": "race_lineage",
+        "count": 171
+      },
+      {
+        "id": "ritual_spell",
+        "count": 40
+      },
+      {
+        "id": "setting_lore",
+        "count": 42
+      },
+      {
+        "id": "source",
+        "count": 233
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "adventure_scene",
+        "count": 46
+      },
+      {
+        "id": "character_option",
+        "count": 823
+      },
+      {
+        "id": "combat_maneuver",
+        "count": 24
+      },
+      {
+        "id": "creature_npc",
+        "count": 88
+      },
+      {
+        "id": "front_matter",
+        "count": 31
+      },
+      {
+        "id": "item_equipment",
+        "count": 154
+      },
+      {
+        "id": "lore_world",
+        "count": 169
+      },
+      {
+        "id": "ocr_noise",
+        "count": 23
+      },
+      {
+        "id": "organization_faction",
+        "count": 98
+      },
+      {
+        "id": "power_spell",
+        "count": 699
+      },
+      {
+        "id": "raw_chapter_block",
+        "count": 381
+      },
+      {
+        "id": "rule_mechanic",
+        "count": 8
+      },
+      {
+        "id": "source_catalog",
+        "count": 190
+      },
+      {
+        "id": "table_reference",
+        "count": 6
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 419
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 146
+      },
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 3013
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 89
+      },
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
+        "count": 78
+      },
+      {
+        "id": "setting_lore",
+        "label": "Cenários, lore e organizações",
+        "count": 161
+      },
+      {
+        "id": "creatures_bestiary",
+        "label": "Criaturas, monstros e NPCs",
+        "count": 29
+      },
+      {
+        "id": "equipment_items",
+        "label": "Equipamentos, armas e itens",
+        "count": 94
+      },
+      {
+        "id": "myth_history",
+        "label": "Mitologia, história e religião",
+        "count": 20
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 146
+      },
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 453
+      },
+      {
+        "id": "races_options",
+        "label": "Raças, kits e opções de personagem",
+        "count": 698
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 123
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 1268
+      }
+    ],
+    "areas": [
+      {
+        "id": "aprimoramentos",
+        "count": 631
+      },
+      {
+        "id": "atributos_pericias",
+        "count": 76
+      },
+      {
+        "id": "aventuras",
+        "count": 56
+      },
+      {
+        "id": "cenarios_lore",
+        "count": 22
+      },
+      {
+        "id": "classes",
+        "count": 27
+      },
+      {
+        "id": "combate",
+        "count": 125
+      },
+      {
+        "id": "criaturas_npcs",
+        "count": 185
+      },
+      {
+        "id": "fontes",
+        "count": 218
+      },
+      {
+        "id": "itens_equipamentos",
+        "count": 83
+      },
+      {
+        "id": "kits",
+        "count": 256
+      },
+      {
+        "id": "linhagens",
+        "count": 189
+      },
+      {
+        "id": "magias",
+        "count": 277
+      },
+      {
+        "id": "poderes",
+        "count": 540
+      },
+      {
+        "id": "racas",
+        "count": 339
+      },
+      {
+        "id": "regras_base",
+        "count": 45
+      },
+      {
+        "id": "rituais",
+        "count": 88
+      },
+      {
+        "id": "tabelas",
+        "count": 2
+      }
+    ]
+  }
 }

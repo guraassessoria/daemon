@@ -1,0 +1,80 @@
+--- page 1 ---
+(1) 1d3 Ratos: Peso: 100 a 300g, PV 1, IP 0
+#at: 1 (Mordida 10% cada, dano 1d2)
+CON 1 FR 1 DEX 0 AGI 12 INT 0 WILL 0 PER 15 CAR 0
+(1) Gato: Peso: 400g a 2kg, PV 2, IP 0
+#at: 1 (Mordida 15%, dano 1d3)
+CON 3 FR 2 DEX 2 AGI 16 INT 1 WILL 1 PER 18 CAR 3
+(1) Cachorro: Peso: 2kg a 50kg, PV 2-20, IP 0
+#at: 1 (Mordida 15%, dano 1d3 a 1d10)
+CON 3 FR 2 DEX 2 AGI 16 INT 1 WILL 1 PER 18 CAR 3
+(1) Coruja: Peso: 200kg a 350g, PV 2-4, IP 0
+#at: 1 (Mordida 25%, dano 1d3 a 1d10)
+CON 3 FR 1 DEX 1 AGI 10 INT 2 WILL 3 PER 18 CAR 4
+(2) Raposa: Peso 20 a 30kg; PV 25; IP 0
+#At: 1 (Mordida 40% dano 1d6)
+CON 12 FR 10 DEX 5 AGI 20 INT 4 WILL 4 PER 25 CAR 3
+(3) Leopardo: Peso 60 a 80kg; PV 25; IP 0
+#At: 2 (Mordida 60% dano 1d6, Garras 50% dano 1d6+4)
+CON 22 FR 22 DEX 5 AGI 18 INT 3 WILL 3 PER 25 CAR 3
+(3) Lobo: Peso 50 a 70kg; PV 28; IP 0
+#At: 2 (Mordida 60% dano 1d6, Garras 50% dano 1d6+4)
+CON 22 FR 25 DEX 5 AGI 20 INT 3 WILL 5 PER 25 CAR 3
+(3) Javali: Peso 75 a 90kg; PV 28; IP 1
+#At: 2 (Cabeçada 40% dano 2d6+4, Mordida 35% dano 1d6+2)
+CON 20 FR 20 DEX 3 AGI 15 INT 3 WILL 5 PER 15 CAR 2
+(3) Burro ou Asno: Peso 275 a 400kg; PV 28; IP 1
+#At: 1 (Mordida 30% dano 1d6+4 ou coice 40% dano 2d6)
+CON 25 FR 25 DEX 0 AGI 10 INT 4 WILL 5 PER 15 CAR 2
+(5) Leão: Peso 180 a 220kg; PV 30; IP 1
+#At: 3 (Mordida 50% dano 1d10, Garras 70% dano 1d6+6)
+CON 25 FR 25 DEX 5 AGI 20 INT 3 WILL 5 PER 25 CAR 1
+(5) Tigre: Peso 250 a 270kg; PV 34; IP 1
+#At: 3 (Mordida 60% dano 1d10, 2x Garras 70% 1d6+7, 1d6+7)
+CON 28 FR 28 DEX 5 AGI 21 INT 3 WILL 3 PER 26 CAR 1
+(5) Gorila: Peso 190 a 250kg; PV 34; IP 2
+#At: 2 (Patatas 50/50 dano 1d6+8)
+CON 25 FR 32 DEX 10 AGI 15 INT 5 WILL 5 PER 20 CAR 5
+ZOOLÓGICO no SISTEMA DAEMON
+(5) Cavalo/ Zebra: Peso 350 a 500kg; PV 32; IP 1
+#At: 1 (Mordida 25% dano 1d6+4 ou Coice 40% dano 2d6+5)
+CON 30 FR 32 DEX 5 AGI 15 INT 5 WILL 5 PER 20 CAR 5
+(5) Antílope: Peso 350 a 500kg; PV 30; IP 1
+#At: 1 Chifre 35% dano 1d6+3 ou Coice 30% dano 2d6+5)
+CON 30 FR 22 DEX 2 AGI 12 INT 4 WILL 5 PER 20 CAR 5
+(6) Camelo: Peso 450 a 690kg; PV 35; IP 1
+#At: 1 (Mordida 45% dano 1d6+2)
+CON 30 FR 35 DEX 5 AGI 10 INT 4 WILL 4 PER 20 CAR 3
+(6) Urso branco: Peso 450 a 600kg; PV 40; IP 2
+#At: 3 (Mordida 50% dano 1d10, Garras 45% 1d6+10)
+CON 35 FR 35 DEX 10 AGI 10 INT 3 WILL 4 PER 25 CAR 3
+(7) Boi/Touro/Búfalo: Peso 700 a 690kg; PV 45; IP 1
+#At: 1 (Chifres 10 a 45% dano 1d6+5)
+CON 30 FR 35 DEX 5 AGI 10 INT 4 WILL 4 PER 20 CAR 3
+(7) Urso Kodiak: Peso 800 a 900kg; PV 45; IP 2
+#At: 3 (Mordida 50% dano 1d10, Garras 45% 1d6+13)
+CON 35 FR 40 DEX 10 AGI 10 INT 3 WILL 4 PER 25 CAR 2
+(7) Girafa: Peso 900 Kg a 1,2 ton; PV 35; IP 1
+#At: 1 (Mordida 25% dano 1d6)
+CON 30 FR 25 DEX 5 AGI 10 INT 3 WILL 4 PER 22 CAR 3
+(7) Crocodilo do Nilo: Peso 1 ton; PV 35; IP 5
+#At: 2 (Mordida 40% dano 2d10, Rabo 45% 1d6+8)
+CON 30 FR 32 DEX 10 AGI 10 INT 2 WILL 4 PER 15 CAR 0
+(8) Rinoceronte: Peso 2 ton; PV 35; IP 6
+#At: 1+ (Corrida+Chifre 50% dano 3d6+15)
+CON 35 FR 40 DEX 3 AGI 10 INT 3 WILL 3 PER 10 CAR 0
+(9) Elefante Africano: Peso 7 ton; PV 50; IP 4; V. máx. 40km/h
+#At: 2 (Presas 45% dano 1d10+5, Patadas 50% 2d6+16)
+CON 40 FR 46 DEX 10 AGI 5 INT 4 WILL 4 PER 15 CAR 3
+(11) Tubarão: Peso 14 a 17 ton; PV 45; IP 2; V. máx. 40km/h
+#At: 1 (Mordida 65% dano 4d6 ou Pancada 2d6+10)
+CON 40 FR 42 DEX 0 AGI 15 INT 2 WILL 4 PER 15 CAR 0
+(14) Baleia Azul: Peso 150 ton; PV 100; IP 4; V. máx. 32km/h
+#At: 1(área) (Pancada 65% dano 6d6+30)
+CON 70 FR 72 DEX 0 AGI 5 INT 5 WILL 4 PER 10 CAR 3
+Alguns exemplos de animais:
+(*) O valor entre parênteses indica o mínimo de Focus necessário para conjurar (chamar) e/ou controlar o animal descrito, desde que
+existam espécies na área próxima. O ritual será Criar Animal X onde X é o Focus.
+Para animais criados a partir do nada (conjurados a partir da Forma Astral), acrescente +1 no valor de Focus.
+Note que estes valores são para animais de tamanho médio. Sinta-se à vontade para aumentar ou diminuir os Atributos, Ataques e danos,
+se você utilizar animais menores ou maiores de uma determinada espécie.

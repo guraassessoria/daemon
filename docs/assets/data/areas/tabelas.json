@@ -6,6 +6,71 @@
   "entityCount": 0,
   "sourcePartCount": 2,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "diferencas",
+        "title": "Diferencas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "mecha",
+        "title": "mecha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": "attribute_skill",
+        "count": 1
+      },
+      {
+        "id": "combat",
+        "count": 1
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "table_reference",
+        "count": 2
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 2
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 1
+      }
+    ],
+    "areas": [
+      {
+        "id": "tabelas",
+        "count": 2
+      }
+    ]
+  },
   "entities": [],
   "sourceParts": [
     {
@@ -26,7 +91,26 @@
         "tabelas"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "table_reference",
+      "contentKindLabel": "Tabela ou referência",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "mecha--mecha-regras-extras-11",
@@ -49,7 +133,26 @@
         "tabelas"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "table_reference",
+      "contentKindLabel": "Tabela ou referência",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     }
   ]
 }

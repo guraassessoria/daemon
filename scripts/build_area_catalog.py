@@ -6,6 +6,9 @@ from pathlib import Path
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from audit_entity_highlights import quality_flags
+from presentation_quality import is_quarantined, presentation_status, CRITICAL_PRESENTATION_FLAGS
+from editorial_classifier import classify_source_part, content_kind_for_entity
 
 
 BOOKS_DATA_DIR = DATA_DIR / "books"
@@ -98,6 +101,102 @@ def duplicate_map() -> dict[str, str]:
 def current_source_lookup() -> dict[str, dict[str, Any]]:
     payload = read_json(INDEX_DIR / "sources.json", {"sources": []})
     return {source["id"]: source for source in payload.get("sources", [])}
+
+
+def source_classification_lookup() -> dict[str, dict[str, Any]]:
+    payload = read_json(INDEX_DIR / "source-classification.json", {"sources": {}})
+    sources = payload.get("sources", {}) if isinstance(payload, dict) else {}
+    return sources if isinstance(sources, dict) else {}
+
+
+SOURCE_FAMILY_LABELS = {
+    "official_core": "Oficiais / linha principal",
+    "rules_system": "Regras e sistema",
+    "equipment_items": "Equipamentos, armas e itens",
+    "creatures_bestiary": "Criaturas, monstros e NPCs",
+    "powers_magic": "Poderes, magia e rituais",
+    "races_options": "Raças, kits e opções de personagem",
+    "campaign_adventure": "Campanhas e aventuras",
+    "setting_lore": "Cenários, lore e organizações",
+    "myth_history": "Mitologia, história e religião",
+    "adaptation_pop": "Adaptações, anime, supers e cultura pop",
+    "supplement_misc": "Suplementos gerais",
+}
+
+
+def infer_source_family(source_id: str, title: str, kind: str) -> dict[str, str]:
+    text = normalize_for_search(f"{source_id} {title}")
+    if kind == "official":
+        return {"id": "official_core", "label": SOURCE_FAMILY_LABELS["official_core"]}
+    rules_words = ("sistema", "modulo", "regras", "combate", "pericia", "atributo", "daemon 2", "daemon 3")
+    equipment_words = ("arma", "armas", "item", "itens", "equipamento", "veiculo", "veneno")
+    creature_words = ("monstro", "monstros", "inimigo", "inimigos", "criatura", "npc", "bestiario", "zoologico")
+    power_words = ("grimorio", "magia", "magias", "ritual", "rituais", "poder", "poderes", "psi", "cabalistico", "fe", "vodu")
+    option_words = ("raca", "racas", "linhagem", "vantagem", "vantagens", "aprimoramento", "talento", "kit", "classe")
+    campaign_words = ("campanha", "aventura", "quick start", "quick-start", "cenario pronto", "segredo", "sussurro")
+    lore_words = ("ark", "nun", "trevas", "vaticano", "ordem", "ordens", "seita", "seitas", "umbral", "metropolis")
+    myth_words = ("mitologia", "egipcia", "celta", "nordica", "assirio", "babilonica", "viking", "vikings", "templario", "templarios", "revolucao francesa", "mitraismo")
+    pop_words = ("anime", "naruto", "dragon ball", "yuyu", "yu yu", "samurai x", "samurai shodown", "mortal kombat", "watchmen", "spawn", "one punch", "tartarugas", "supers", "sda", "tagmar")
+    checks = [
+        ("adaptation_pop", pop_words),
+        ("equipment_items", equipment_words),
+        ("creatures_bestiary", creature_words),
+        ("powers_magic", power_words),
+        ("races_options", option_words),
+        ("campaign_adventure", campaign_words),
+        ("myth_history", myth_words),
+        ("rules_system", rules_words),
+        ("setting_lore", lore_words),
+    ]
+    for family_id, words in checks:
+        if any(word in text for word in words):
+            return {"id": family_id, "label": SOURCE_FAMILY_LABELS[family_id]}
+    return {"id": "supplement_misc", "label": SOURCE_FAMILY_LABELS["supplement_misc"]}
+
+
+def source_classification_for(source_id: str, classifications: dict[str, dict[str, Any]], title: str | None = None) -> dict[str, Any]:
+    default_kind = "supplement"
+    data = classifications.get(source_id) or {}
+    kind = data.get("kind") or default_kind
+    label = data.get("label") or ("Livro oficial" if kind == "official" else "Suplemento de jogo/campanha")
+    family = data.get("family") if isinstance(data.get("family"), dict) else None
+    if not family:
+        family = infer_source_family(source_id, title or data.get("officialName") or source_id, kind)
+    return {
+        "kind": kind,
+        "label": label,
+        "officialName": data.get("officialName"),
+        "classificationNote": data.get("note"),
+        "family": family,
+    }
+
+
+def display_source_title(source_id: str, source_lookup: dict[str, dict[str, Any]], book: dict[str, Any] | None = None) -> str:
+    raw = (book or {}).get("title") or source_lookup.get(source_id, {}).get("title") or source_id
+    return normalize_uppercase_name(str(raw).replace("_", " "))
+
+
+def all_entity_ids() -> set[str]:
+    ids: set[str] = set()
+    for path in sorted(ENTITIES_DIR.glob("*.json")):
+        payload = read_json(path, [])
+        if not isinstance(payload, list):
+            continue
+        for entity in payload:
+            if isinstance(entity, dict) and entity.get("id"):
+                ids.add(str(entity["id"]))
+    return ids
+
+
+def valid_entity_refs(refs: list[Any], known_entity_ids: set[str]) -> list[str]:
+    seen: set[str] = set()
+    result: list[str] = []
+    for ref in refs or []:
+        ref_id = str(ref)
+        if ref_id in known_entity_ids and ref_id not in seen:
+            seen.add(ref_id)
+            result.append(ref_id)
+    return result
 
 
 def ready_source_ids() -> list[str]:
@@ -471,16 +570,22 @@ def page_value(part: dict[str, Any]) -> int | None:
     return page if isinstance(page, int) else None
 
 
-def build_source_part_items(source_ids: list[str], source_lookup: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+def build_source_part_items(
+    source_ids: list[str],
+    source_lookup: dict[str, dict[str, Any]],
+    known_entity_ids: set[str],
+    classifications: dict[str, dict[str, Any]],
+) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for source_id in source_ids:
         book = read_json(BOOKS_DATA_DIR / f"{source_id}.json", {})
-        source_title = book.get("title") or source_lookup[source_id].get("title") or source_id
+        source_title = display_source_title(source_id, source_lookup, book)
         for part in book.get("parts", []):
             name = part.get("name") or part.get("id") or source_title
             category = part.get("category") or "source"
             summary = part.get("summary") or ""
             area, confidence, matched_areas = infer_area(category, name, summary, source_title)
+            classification = source_classification_for(source_id, classifications, source_title)
             item = {
                 "id": f"{source_id}--{slugify(part.get('id') or name)}",
                 "name": name,
@@ -491,16 +596,26 @@ def build_source_part_items(source_ids: list[str], source_lookup: dict[str, dict
                 "pages": part.get("pages", []),
                 "page": page_value(part),
                 "summary": summary,
-                "entityRefs": part.get("entityRefs", []),
+                "entityRefs": valid_entity_refs(part.get("entityRefs", []), known_entity_ids),
                 "tags": sorted(set([area, category, *matched_areas])),
                 "confidence": round(confidence, 2),
                 "extractionMethod": "book-part-area-pass-1",
+                "sourceKind": classification["kind"],
+                "sourceKindLabel": classification["label"],
+                "officialSource": classification["kind"] == "official",
+                "sourceFamily": classification["family"]["id"],
+                "sourceFamilyLabel": classification["family"]["label"],
             }
+            item.update(classify_source_part(item, source_title))
             items.append(item)
     return items
 
 
-def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+def build_entity_items(
+    source_ids: set[str],
+    source_lookup: dict[str, dict[str, Any]],
+    classifications: dict[str, dict[str, Any]],
+) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     lock_by_id, lock_by_source_name = aprimoramento_locks()
     kit_lock_by_id, kit_lock_by_source_name = kit_locks()
@@ -547,6 +662,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
             is_certified_power = entity_id in power_lock_by_id
             is_certified_magic = entity_id in magic_lock_by_id
             is_certified_ritual = entity_id in ritual_lock_by_id
+            is_structured_docx = entity.get("extractionMethod") == "docx-structured-import-v1"
             if source_name_key in lock_by_source_name and not is_certified_aprimoramento:
                 duplicate_aprimoramentos.append(
                     {
@@ -651,7 +767,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_aprimoramentos.append(
                     {
                         "id": entity_id,
@@ -664,7 +780,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_kits.append(
                     {
                         "id": entity_id,
@@ -677,7 +793,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_classes.append(
                     {
                         "id": entity_id,
@@ -690,7 +806,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_lineages.append(
                     {
                         "id": entity_id,
@@ -703,7 +819,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
                 quarantined_races.append(
                     {
                         "id": entity_id,
@@ -716,7 +832,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
+            if not is_structured_docx and is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
                 quarantined_powers.append(
                     {
                         "id": entity_id,
@@ -729,7 +845,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     }
                 )
                 continue
-            if is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
+            if not is_structured_docx and is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
                 quarantined_magics.append(
                     {
                         "id": entity_id,
@@ -762,6 +878,8 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
             display_name = normalize_uppercase_name(str(name))
             display_entries = normalize_display_entries(entries)
             summary = " ".join(entry for entry in entries if isinstance(entry, str))
+            source_title = display_source_title(source_id, source_lookup)
+            classification = source_classification_for(source_id, classifications, source_title)
             if is_certified_aprimoramento:
                 area, confidence, matched_areas = "aprimoramentos", 1.0, ["aprimoramentos", "certificado"]
             elif is_certified_kit:
@@ -784,8 +902,15 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                     category,
                     str(name),
                     summary,
-                    source_lookup.get(source_id, {}).get("title", source_id),
+                    source_title,
                 )
+            # Entidades criadas por importação DOCX já vêm com uma área editorial
+            # deliberada (ex.: tabelas, combate, magias). A etapa automática não
+            # deve reclassificá-las apenas porque uma tabela cita "aprimoramento"
+            # ou outro termo secundário.
+            if entity.get("extractionMethod") == "docx-structured-import-v1" and entity.get("area") in AREA_LABELS:
+                area = str(entity["area"])
+                confidence = max(confidence, float(entity.get("confidence", confidence)))
             subgroup: str | None = None
             subgroup_label: str | None = None
             subgroup_tag: str | None = None
@@ -798,16 +923,22 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 "area": area,
                 "category": category,
                 "source": source_id,
-                "sourceTitle": source_lookup.get(source_id, {}).get("title", source_id),
+                "sourceTitle": source_title,
                 "page": entity.get("page"),
                 "entries": display_entries,
                 "tags": sorted(set([area, category, *entity.get("tags", []), *matched_areas])),
                 "confidence": round(float(entity.get("confidence", confidence)), 2),
                 "extractionMethod": entity.get("extractionMethod", "entity-area-pass-1"),
+                "sourceKind": classification["kind"],
+                "sourceKindLabel": classification["label"],
+                "officialSource": classification["kind"] == "official",
+                "sourceFamily": classification["family"]["id"],
+                "sourceFamilyLabel": classification["family"]["label"],
             }
             if subgroup and subgroup_label:
                 item["subgroup"] = subgroup
                 item["subgroupLabel"] = subgroup_label
+            item.update(content_kind_for_entity(item))
             for optional_field in [
                 "subtype",
                 "pages",
@@ -838,6 +969,7 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
                 "advantagesText",
                 "disadvantagesText",
                 "weaknessesText",
+                "tables",
             ]:
                 if optional_field in entity:
                     item[optional_field] = entity[optional_field]
@@ -861,6 +993,135 @@ def build_entity_items(source_ids: set[str], source_lookup: dict[str, dict[str, 
     return items
 
 
+def build_source_entities(source_ids: list[str], source_lookup: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
+    classifications = source_classification_lookup()
+    source_entities_payload = read_json(ENTITIES_DIR / "source.json", [])
+    source_entities_by_source = {
+        str(entity.get("source")): entity
+        for entity in source_entities_payload
+        if isinstance(entity, dict) and entity.get("source")
+    }
+    items: list[dict[str, Any]] = []
+    for source_id in source_ids:
+        book = read_json(BOOKS_DATA_DIR / f"{source_id}.json", {})
+        source_title = display_source_title(source_id, source_lookup, book)
+        source_entity = source_entities_by_source.get(source_id, {})
+        classification = source_classification_for(source_id, classifications, source_title)
+        entries = source_entity.get("entries") or [
+            f"Fonte processada para consulta digital: {source_title}.",
+        ]
+        tags = set(source_entity.get("tags", []))
+        tags.update(["fontes", "source", classification["kind"]])
+        item = {
+            "id": f"source-{source_id}",
+            "name": source_title,
+            "area": "fontes",
+            "category": "source",
+            "source": source_id,
+            "sourceTitle": source_title,
+            "page": source_entity.get("page") or 1,
+            "entries": normalize_display_entries(entries),
+            "tags": sorted(tags),
+            "confidence": round(float(source_entity.get("confidence", 1 if classification["kind"] == "official" else 0.8)), 2),
+            "extractionMethod": "source-catalog-pass-1",
+            "sourceKind": classification["kind"],
+            "sourceKindLabel": classification["label"],
+            "officialSource": classification["kind"] == "official",
+            "sourceFamily": classification["family"]["id"],
+            "sourceFamilyLabel": classification["family"]["label"],
+        }
+        if classification.get("officialName"):
+            item["officialName"] = classification["officialName"]
+        if classification.get("classificationNote"):
+            item["classificationNote"] = classification["classificationNote"]
+        item.update(content_kind_for_entity(item))
+        items.append(item)
+    return items
+
+
+
+def enrich_display_quality(item: dict[str, Any], item_type: str) -> dict[str, Any]:
+    if item_type == "entity" and (item.get("area") == "fontes" or item.get("category") == "source"):
+        item.setdefault("qualityStatus", "ok")
+        item.setdefault("qualityFlags", [])
+        item.setdefault("qualitySeverity", "ok")
+        item.setdefault("presentationStatus", "public")
+        return item
+    flags = quality_flags({**item, "itemType": item_type})
+    flags = sorted(set([*flags, *item.get("editorialFlags", [])]))
+    item["qualityFlags"] = flags
+    item["qualitySeverity"] = "critical" if set(flags) & CRITICAL_PRESENTATION_FLAGS else ("warning" if flags else "ok")
+    status_hint = item.get("presentationStatusHint")
+    if item_type == "sourcePart" and flags:
+        item["presentationStatus"] = "quarantine"
+    else:
+        item["presentationStatus"] = "quarantine" if status_hint == "quarantine" else presentation_status({**item, "itemType": item_type}, flags)
+    item["qualityStatus"] = "quarentena" if item["presentationStatus"] == "quarantine" else ("revisar" if flags else "ok")
+    return item
+
+
+def facet_records(items: list[dict[str, Any]]) -> dict[str, Any]:
+    sources: dict[str, dict[str, Any]] = {}
+    categories: dict[str, int] = {}
+    subtypes: dict[str, int] = {}
+    source_kinds: dict[str, dict[str, Any]] = {}
+    source_families: dict[str, dict[str, Any]] = {}
+    areas: dict[str, int] = {}
+    for item in items:
+        source_id = str(item.get("source") or "")
+        if source_id:
+            source = sources.setdefault(
+                source_id,
+                {
+                    "id": source_id,
+                    "title": item.get("sourceTitle") or source_id,
+                    "sourceKind": item.get("sourceKind") or "supplement",
+                    "sourceKindLabel": item.get("sourceKindLabel") or "Suplemento de jogo/campanha",
+                    "officialSource": bool(item.get("officialSource")),
+                    "sourceFamily": item.get("sourceFamily") or "supplement_misc",
+                    "sourceFamilyLabel": item.get("sourceFamilyLabel") or SOURCE_FAMILY_LABELS["supplement_misc"],
+                    "count": 0,
+                },
+            )
+            source["count"] += 1
+        category = item.get("category")
+        if category:
+            categories[str(category)] = categories.get(str(category), 0) + 1
+        subtype = item.get("contentKind") or item.get("subtype") or item.get("itemType")
+        if subtype:
+            subtypes[str(subtype)] = subtypes.get(str(subtype), 0) + 1
+        kind = item.get("sourceKind") or "supplement"
+        kind_record = source_kinds.setdefault(
+            str(kind),
+            {
+                "id": str(kind),
+                "label": item.get("sourceKindLabel") or ("Livro oficial" if kind == "official" else "Suplemento de jogo/campanha"),
+                "count": 0,
+            },
+        )
+        kind_record["count"] += 1
+        family = item.get("sourceFamily") or "supplement_misc"
+        family_record = source_families.setdefault(
+            str(family),
+            {
+                "id": str(family),
+                "label": item.get("sourceFamilyLabel") or SOURCE_FAMILY_LABELS.get(str(family), str(family)),
+                "count": 0,
+            },
+        )
+        family_record["count"] += 1
+        area = item.get("area")
+        if area:
+            areas[str(area)] = areas.get(str(area), 0) + 1
+    return {
+        "sources": sorted(sources.values(), key=lambda row: (not row.get("officialSource"), slugify(str(row.get("title") or "")))),
+        "categories": [{"id": key, "count": value} for key, value in sorted(categories.items())],
+        "subtypes": [{"id": key, "count": value} for key, value in sorted(subtypes.items())],
+        "sourceKinds": sorted(source_kinds.values(), key=lambda row: row["id"]),
+        "sourceFamilies": sorted(source_families.values(), key=lambda row: row["label"]),
+        "areas": [{"id": key, "count": value} for key, value in sorted(areas.items())],
+    }
+
 def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], entity_items: list[dict[str, Any]]) -> dict[str, Any]:
     AREAS_DIR.mkdir(parents=True, exist_ok=True)
     by_area: dict[str, dict[str, list[dict[str, Any]]]] = {
@@ -869,9 +1130,9 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
     for item in part_items:
         if item["area"] in {"aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias"}:
             continue
-        by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["sourceParts"].append(item)
+        by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["sourceParts"].append(enrich_display_quality(item, "sourcePart"))
     for item in entity_items:
-        by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["entities"].append(item)
+        by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["entities"].append(enrich_display_quality(item, "entity"))
 
     area_summaries: list[dict[str, Any]] = []
     for area in AREA_LABELS:
@@ -885,6 +1146,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
                 {"id": subgroup, "name": item.get("subgroupLabel", subgroup), "entityCount": 0},
             )
             current["entityCount"] += 1
+        all_area_items = [*by_area[area]["entities"], *by_area[area]["sourceParts"]]
         payload = {
             "version": 1,
             "id": area,
@@ -893,6 +1155,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
             "entityCount": len(by_area[area]["entities"]),
             "sourcePartCount": len(by_area[area]["sourceParts"]),
             "subgroups": sorted(subgroup_counts.values(), key=lambda item: item["name"]),
+            "filters": facet_records(all_area_items),
             "entities": sorted(by_area[area]["entities"], key=catalog_sort_key),
             "sourceParts": sorted(by_area[area]["sourceParts"], key=lambda item: (item.get("sourceTitle") or "", item.get("page") or 0, item.get("name") or "")),
         }
@@ -914,6 +1177,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
         "sourcePartCount": len(part_items),
         "areas": area_summaries,
         "readySources": source_ids,
+        "filters": facet_records([*entity_items, *part_items]),
     }
     write_json(INDEX_DIR / "area-summary.json", summary)
     return summary
@@ -957,8 +1221,10 @@ def write_report(summary: dict[str, Any]) -> None:
 def main() -> None:
     source_lookup = current_source_lookup()
     source_ids = ready_source_ids()
-    part_items = build_source_part_items(source_ids, source_lookup)
-    entity_items = build_entity_items(set(source_ids), source_lookup)
+    known_entity_ids = all_entity_ids()
+    classifications = source_classification_lookup()
+    part_items = build_source_part_items(source_ids, source_lookup, known_entity_ids, classifications)
+    entity_items = [*build_entity_items(set(source_ids), source_lookup, classifications), *build_source_entities(source_ids, source_lookup)]
     summary = write_area_files(source_ids, part_items, entity_items)
     write_report(summary)
     print(

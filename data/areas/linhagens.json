@@ -6,6 +6,92 @@
   "entityCount": 70,
   "sourcePartCount": 0,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "alianca-daemon-01",
+        "title": "Aliança Daemon 01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "animalidade",
+        "title": "animalidade",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 12
+      },
+      {
+        "id": "gaki",
+        "title": "gaki",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "imortal-a-centelha",
+        "title": "Imortal - A Centelha",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 9
+      },
+      {
+        "id": "youkai-kyuukai",
+        "title": "Youkai Kyuukai",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 47
+      }
+    ],
+    "categories": [
+      {
+        "id": "race_lineage",
+        "count": 70
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "character_option",
+        "count": 70
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 70
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 70
+      }
+    ],
+    "areas": [
+      {
+        "id": "linhagens",
+        "count": 70
+      }
+    ]
+  },
   "entities": [
     {
       "id": "raca-youkai-kyuukai-abareuma",
@@ -13,7 +99,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 8,
       "entries": [
         "Repletas de rancor e ressentimento das\nnovas\nreligiões\n(Budismo,\nXintoísmo,\nConfucionismo, Jainismo e Taoísmo), as entidades\ndas antigas religiões xamânicas acabaram\ncondenadas ao abandono, esquecimento ou pior, o\nJigoku, pela Forma-Pensamento gerada com estas\nnovas crenças. Principalmente os antigos deuses\npolinésios, ainu, cambojanos e tibetanos, todos eles\nperderam seus fiéis e o alimento de suas almas, a\nFé mortal.\nRelegadas às sombras e pontos remotos da\nÁsia, os “Renegados” (significado de Abareuma)\nforam se corrompendo com o tempo, aliando-se e\nrealizando pactos com os monstros dos planos\ninferiores, que, assim como eles, desejam a\ndestruição das novas religiões para voltarem à\nantiga glória do passado. Muitos Reis Yama\ncompõem esta raça demoníaca, como Emma-o,\nRangda e a Sacerdotisa de Koorime."
@@ -28,6 +114,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         8
@@ -38,7 +131,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:abareuma",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-akuma",
@@ -46,7 +145,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 7,
       "entries": [
         "Nas eternas batalhas territoriais do Jigoku,\nsoldados bem treinados são muito importantes. Os\nReis Yama recrutam os melhores guerreiros e\nassassinos dos planos físicos, cujas almas\nnormalmente rumam ao Jigoku devido a uma vida\ndesregrada e pecaminosa. Ao chegarem no Jigoku,\nsuas almas são disputadas pelos Reis Yama, que\nplanejam negociar com a própria alma.\nQuando um espírito condenado aceita\nnegociar sua existência com um Rei Yama, seu\ncastigo e sua renovação cármica são anulados,\nentretanto, garantindo à alma grandes poderes no\nJigoku. Estes guerreiros demoníacos que servem\nos Reis Yama em missões especiais são os chamados"
@@ -62,6 +161,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         7
@@ -72,7 +178,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:akuma",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-amanohara",
@@ -80,7 +192,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Considerada a espécie mais antiga, os\nAmanohara são os poderosos espíritos do Céu e\ndas terras do Paraíso. Sua pele costuma ser muito\nescura (às vezes, atingem o preto absoluto\nmetálico), com olhos normalmente brancos, cinzas\nou prateados. Eles são muito bondosos, mas ainda\nassim podem ser extremamente vingativos, com um\nfator extra: têm a tendência de odiar a raça humana\ne desprezá-la, apesar de agir sempre a seu favor.\nSeu poder sobre a força vital do céu, das estrelas e\ndo próprio Sol os tornam os mais difíceis de se\ncontrolar e vencer dos Kouseitan."
@@ -95,6 +207,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -105,7 +224,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:amanohara",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-arahitogami",
@@ -113,7 +238,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 17,
       "entries": [
         "Desde que Humanidade ainda vivia nas\nlendárias Atlântida e Lemúria, paixões antes\ndesconhecidas pelos habitantes de Ningenkai os\nencorajavam a descer de sua morada celestial e\nenamorarem-se com as mulheres mortais. Desta\nunião nasceram filhos híbridos, que foram batizados\nde Nephalins (pelos Anjos da Cidade de Prata),\nNeflheim (pelos nórdicos), Faraós (pelos Egípcios),\nChezas (pelos Keepers) e Arahitogami (pelos\nMitsukai de Shang-Qing e Amaterasu).\nA gestação da criança é tão normal quanto\na de qualquer ser humano, a única diferença é que\nela dura 10 meses. Como resultado, o Arahitogami\nnasce com algumas características diferentes,\nherdadas de seu lado paterno. Sua aparência é\nidêntica à de uma criança comum, sendo que mesmo\nquando adulto ele poderá se passar por humano sem\nqualquer problema.\nAlguns Mitsukai desprezam os humanos,\nachando-os repugnantes. Um filho de Mitsukai é\nconsiderado por eles uma blasfêmia e um perigo.\nTer um filho com uma mulher mortal é para eles\nalgo como um insulto à raça celestial, embora nem\ntodos pensem assim. Também é importante frisar\nque estes filhos também podem ser de um Mitsukai\ncorrompido (Kagegokai).\nEntre as vantagens por ser um Arahitogami,\nhá a longevidade. Como herança paterna, os\nArahitogami possuem habilidades místicas latentes\ndos seres de Tengoku, variando conforme o quanto\nele herdou do pai seu poder.\nOs Arahitogami possuem uma habilidade\nconhecida como Vontade do Cosmo, em que\nconvencem absolutamente qualquer mortal não-\nmístico a cumprir uma ordem, mesmo com um\nsimples olhar. Por este motivo, os Arahitogami são\nmuito raros e vigiados com cautela pela Sociedade\ndo Oceano Escuro e pela Sociedade do Lótus\nBranco. Já os Condutores da Roda da Vida pensam\ndiferente, e tentam eliminar todo híbrido que\nencontrarem."
@@ -129,6 +254,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         17
@@ -139,7 +271,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:arahitogami",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-bastet",
@@ -163,6 +302,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -174,7 +320,14 @@
       "certificationId": "linhagem-lock:animalidade:bastet",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Espinheiro, decapitação, Reação a Estímulos e Pânico (água)"
+      "weaknessesText": "Espinheiro, decapitação, Reação a Estímulos e Pânico (água)",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-bikou",
@@ -182,7 +335,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 12,
       "entries": [
         "Cada vez mais raros de se encontrar, os\nBikou são os espíritos das Trevas, com uma\naparência muito mais humana que os outros\nKouseitan. Possuem uma aura sombria à volta que\ncausa grande mal-estar em todos que se aproximam\ndeles, ainda possuindo olhos brancos muito\nsinistros."
@@ -197,6 +350,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -207,7 +367,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:bikou",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-bogatyr",
@@ -234,6 +400,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         8,
@@ -245,7 +418,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:bogatyr",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-bouji-tenma",
@@ -253,7 +433,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 8,
       "entries": [
         "Os Demônios do Sexo são entidades que se\nalimentam da sensação de medo que os pesadelos\ngeram. Sua forma verdadeira é grotesca, com quatro\nmembros que se dobram ao contrário nas\narticulações, uma língua comprida que usa para se\nalimentar do medo da vítima, e uma única garra\nem cada pé.\nPara se aproximarem, normalmente\nassumem a forma de animais inofensivos, mas que\nmesmo nesta forma ainda exalam uma energia\nsedutora a qualquer criatura consciente. Por isso,\nhavia acusações de zoofilia em vários pontos da\nÁsia, principalmente do Vietnã. Enquanto\npraticavam o coito, o Bouji Tenma também\nalimenta-se da vítima, exaurindo-a aos poucos.\nImportante ressaltar que o filho de um Bouji Tenma\ncom um humano sempre cria um novo Bouji Tenma,\nquando chegam a nascer (caso raro)."
@@ -268,6 +448,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         8
@@ -278,7 +465,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:bouji-tenma",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-chaneque",
@@ -304,6 +497,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10,
@@ -315,7 +515,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:chaneque",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-chi-mei",
@@ -323,7 +529,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Há lendas sobre um grupo de humanos muito\nespeciais chamados Siang, Daiphiri criados com\num erro nas energias do P’o do escolhido que se\ntornaria um Kiang-shi. Um Chi-mei é criado quando\num erro muito grande acontece. Chi-mei são formas\nrepletas de energias Yang, assemelhando-se a\nzumbis em todos os aspectos, exceto as presas\nsalientes em suas bocas. Chi-mei nunca ficam\nsatisfeitos, continuando a devorar até seus\nestômagos apodrecidos se rasgarem e a carne\nrecém-devorada escorrer entre suas tripas,\npreencher seus troncos e por fim, rasgar suas peles\npodres. Há rituais necromânticos que “forçam” um\ncadáver a se comportar como um Chi-Mei,\nadquirindo todas as suas características."
@@ -339,6 +545,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -349,7 +562,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:chi-mei",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-chu-ih-yu",
@@ -357,7 +576,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Os Chu-ih-yu são os bélicos espíritos do\nMetal. Seu comportamento frio e desprovido de\nsentimentos é compensado por sua noção estrita\nde justiça. São especialistas em detectar mentiras,\ne usados como oráculos para resolver julgamentos\ndifíceis. Sua pele é prateada e seus olhos de um\nbranco luminoso."
@@ -372,6 +591,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -382,7 +608,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:chu-ih-yu",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-croatan",
@@ -407,6 +639,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -418,7 +657,14 @@
       "certificationId": "linhagem-lock:animalidade:croatan",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Época de Transformação, Vulnerável (fogo),"
+      "weaknessesText": "Época de Transformação, Vulnerável (fogo),",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-daiphir",
@@ -426,7 +672,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 17,
       "entries": [
         "Daiphires são os filhos bastardos de\nRakshasas e humanas, nascidos de estupros ou\nabusos, e abandonados pela mãe (se ela sobreviveu\nao parto). Eles são adotados pelos caçadores de\nKyuuketsuki e treinados, pois a essência vampírica\nneles contida tornar-se-á uma forte aliada dos\ncaçadores. Possuem poderes ligados aos seus pais\nRakshasas a partir da puberdade.\nEles vivem cerca de cinco vezes mais do\nque humanos: envelhecem normalmente até a\npuberdade, quando diminuem seu envelhecimento\ne desenvolvem seus poderes. Geralmente tornam-\nse caçadores solitários, reunindo-se com os romani\n(ciganos) para missões mais perigosas."
@@ -443,6 +689,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         17
@@ -453,7 +706,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:daiphir",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-defensores-do-ragnarok",
@@ -477,6 +737,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -488,7 +755,14 @@
       "certificationId": "linhagem-lock:animalidade:defensores-do-ragnarok",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Reação a Estímulos, Instintividade, Vulnerá- vel (prata), Espinheiro"
+      "weaknessesText": "Reação a Estímulos, Instintividade, Vulnerá- vel (prata), Espinheiro",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-dendou",
@@ -496,7 +770,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Não tão antigos quanto os espíritos do Fogo,\nÁgua, Ar e Terra, os espíritos das tempestades e do\nRaio chamados Dendou são um dos tipos mais\nfáceis de se encontrar. Suas cores de pele costumam\nser variadas, passando por amarelo, branco,\nbronzeado, e às vezes azul. Seu temperamento\nirritadiço e ansioso é uma marca registrada, assim\ncomo sua preferência pelo isolamento."
@@ -511,6 +785,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -521,7 +802,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:dendou",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-feras",
@@ -548,6 +835,13 @@
       ],
       "confidence": 0.86,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         2,
@@ -560,7 +854,15 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:animalidade:feras",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-filhos-de-aracne",
@@ -585,6 +887,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -596,7 +905,14 @@
       "certificationId": "linhagem-lock:animalidade:filhos-de-aracne",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Fome (carne), Transformação Trocada, Rea"
+      "weaknessesText": "Fome (carne), Transformação Trocada, Rea",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-gaki-gaki",
@@ -622,6 +938,13 @@
       ],
       "confidence": 0.88,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         4,
@@ -634,7 +957,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:gaki:gaki",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-gaki",
@@ -642,7 +972,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "Outra derivação dos Kiang-Shi, os Gaki são\nos “Fantasmas Famintos” do Japão, que tornam-se\nimortais quando realizam grandes pecados\nenquanto vivos, condenados à existência de\nsombras sempre com fome, precisando se alimentar\ndas emoções das pessoas à volta. Estes seres são\nos Ikiryo, ou Obsessores. Uma minúscula parcela\ndestes condenados à fome espiritual voltam a seus\npróprios corpos, tornando-se finalmente os Gaki.\nTodo o corpo do Gaki volta a ser como era\nantes da morte, mesmo se o corpo foi reduzido a\ncinzas. Como possuem relação a condições\nespirituais e com a própria Roda dos Mundos, os\nGaki tornaram-se seres de grandes poderes\nespirituais, um incrível meio-termo entre Vampiro\ne Espectro. Em vez de alimentarem-se somente da\nenergia vital alheia, eles também podem se\nalimentar das emoções e sentimentos das pessoas\npara manterem-se “vivos”."
@@ -658,6 +988,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9
@@ -668,7 +1005,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:gaki",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-garras-de-sharikan",
@@ -693,6 +1036,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12,
@@ -705,7 +1055,14 @@
       "certificationId": "linhagem-lock:animalidade:garras-de-sharikan",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": ": Espinheiro, decapitação, Pânico (fogo) e Li"
+      "weaknessesText": ": Espinheiro, decapitação, Pânico (fogo) e Li",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-alianca-daemon-01-ghuls",
@@ -732,6 +1089,13 @@
       ],
       "confidence": 0.88,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         18,
@@ -752,7 +1116,16 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:alianca-daemon-01:ghuls",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-hanyu",
@@ -760,7 +1133,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 17,
       "entries": [
         "Uma situação muito diferente do Ocidente,\nos híbridos de mortais com Youma são\nextremamente comuns, sendo que quase toda\ngrande família teve pelo menos um Hanyu em sua\nexistência. Mesmo assim, eles não costumam ser\nconhecidos por todas as pessoas, encarando a si\npróprias como um meio caminho para a\ntransformação completa em Youma, ou a chance\nde abrirem mão de sua existência dupla e tornarem-\nse de vez humanos comuns.\nApesar de nascer sob a aparência de um\nhumano, um Hanyu pode apresentar traços físicos\ndemoníacos, o que pode exigir que eles se\nescondam sob algum disfarce para não serem\nreconhecidos. Os humanos rejeitam um Hanyu,\ntratando-o como um leproso, doente ou como um\npróprio Youma. Por conseqüência, a maioria tende\na ser solitária quando adulta. A idade que estes Shih\npodem atingir varia entre 200 e 250 anos.\nO Mestre deve enfatizar que para um\ndemônio decidir ter um filho com uma mortal, ele\ndeve ter razões fortes para isso. Senão, ele não\nestaria disposto a conceder seus dons para vis\nhumanos. Existem, realmente, muito demônios que\nencontram nos ambientes modernos dos subúrbios\nmundanos um clima perfeito para sua estada em\nNingenkai. Drogas e pornografia são fontes infinitas\na serem exploradas a todos aqueles que estiverem\ndispostos a depararem-se com os prazeres\nmonstruosos dos habitantes do Makai.\nOs Youma que podem gerar filhos Hanyu\nsão Bouji Tenma, Kuei, Onis e Ponaturi. Os outros\nYouma não possuem capacidade reprodutiva, ou\nentão geram filhos diferentes (como os Arahitogami\nfilhos dos Kagegokai, humanos comuns filhos dos\nAkuma, ou os Itako filhos de Shiryou, Mononokes\ne Abareuma).\nQuando são filhos de Bouji Tenma e Kuei,\nos Hanyu são chamados de Hanma. Já os filhos de\num Oni são chamados de Hanki. Ainda há outra\nclassificação, referente aos descendentes de\ngerações muito posteriores ao Youma. Em certos\ncasos, séculos se passam sem nenhum descendente\nobter características demoníacas; quando esta\nsituação ocorre, o Hanyu é chamado de Senzo-\nGaeri.\nItako\nItako é o nome dado às xamãs cegas do norte\ndo Japão, mas passou a englobar todo tipo de pessoa\ncom capacidade de interagir com o mundo dos\nmortos e com os seres espirituais, adquirindo o\nmesmo significado de Médium. Normalmente\ndevido a terem sido gerados quando o pai ou a mãe\nforam possuídos por um Shiryou, Mononoke,\nIkiryou ou Yuurei, os Itakos adquirem uma ligação\nmuito forte com o Plano Astral.\nEnxergar e escutar seres espirituais,\nconsultar os ancestrais, projetar o espírito para\nlocais longínquos, todas estas habilidades são\nexemplos do que um Itako é capaz, entre muitas\noutras capacidades. A situação mais comuns aos\nItako é a absorção deles como sacerdotes de alguma\nreligião, principalmente o Xintoísmo e o\nConfucionismo."
@@ -776,6 +1149,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         17,
@@ -787,7 +1167,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:hanyu",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-hengeyokai",
@@ -795,7 +1182,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 14,
       "entries": [
         "Diferente da cultura eurocentrista, o Oriente\npossui uma grande quantidade de seres humanos\nque podem se transformar em animais, ou mesmo\nanimais que podem se tornar humanos. Muitos\ndeles, porém são na verdade demônios Kuei ou\nBouji Tenma. Há somente cinco criaturas que\npodem ser consideradas verdadeiros Teriantropos\n(Hengeyokai) orientais, assim como os Lobisomens\nsão os Teriantropos no Ocidente: os Kitsune,\nTanuki, Tengu, Wang-wa e os Reflictys."
@@ -811,6 +1198,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         14,
@@ -822,7 +1216,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:hengeyokai",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-herats",
@@ -846,6 +1246,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         11
@@ -857,7 +1264,14 @@
       "certificationId": "linhagem-lock:animalidade:herats",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Transmissor, Vulnerável (luz do sol), Instintividade"
+      "weaknessesText": "Transmissor, Vulnerável (luz do sol), Instintividade",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-heruka",
@@ -865,7 +1279,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 10,
       "entries": [
         "Chamados de Ekimmu no Ocidente, estes\nVampiros não são originários da Ásia, surgindo\nnesta região por volta do século XXX a.C. O\nEkimmu Khetamon teria fugido do Egito e se\nrefugiado na região do Tibet, onde teve dois grandes\nmestres na arte da Magie  dos reinos espirituais.\nComo retribuição, Khetamon concedeu o Dom das\nTrevas a seus dois mestres, que tornaram-se os\nprogenitores dos Vempiros Herukas, quase\ninexistentes no resto da Ásia.\nO Dalou’laoshi os veneram como enviados\ndos grandes deuses, ou mesmo como eles próprios\nos deuses, chamados de “Divindades Furiosas” e\n“Bebedores de Sangue”. Sua aparência cadavérica\ne dureza que faz sua pele parecer com o mármore\nos tornam seres de grande temor e admiração por\nquem os observa."
@@ -881,6 +1295,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10
@@ -891,7 +1312,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:heruka",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-hinote",
@@ -899,7 +1326,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 12,
       "entries": [
         "Os Hinote são os espíritos do Fogo, também\nchamados de Tngri pelos mongóis, combativos e\nfuriosos. São considerados um dos primeiros\nKouseitan que surgiram em Ningenkai. Um Hinote\nmuito poderoso guardava o tesouro Kamidogu no\nTibet, e agora está solto em busca de quem roubou\no tesouro dos planos espirituais. Um poderoso xamã\nchamado Hao possui como Guia Espiritual um\nHinote de séculos de idade (que alguns acreditam\nser o mesmo ser que guardava o Kamidogu)."
@@ -915,6 +1342,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -925,7 +1359,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:hinote",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-hou-chi",
@@ -933,7 +1373,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Os espíritos da Madeira chamados Hou-chi\nsão amantes da paz, do silêncio e da natureza. São\nespecialistas em aliviar a dor dos outros, embora\nsejam adversos a locais urbanizados. Suas peles\nvariam do verde esmeralda ao marrom puro, com\nos olhos emitindo um fraco brilho esverdeado. São\ntambém chamados pelos povos do Oriente de\nEspíritos dos Bambus."
@@ -948,6 +1388,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -958,7 +1405,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:hou-chi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-hsien",
@@ -982,6 +1435,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12,
@@ -994,7 +1454,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:hsien",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-hsien",
@@ -1002,7 +1468,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 18,
       "entries": [
         "A cultura oriental é muito voltada ao\ndesenvolvimento mental e espiritual, e vê com\nmuita admiração os homens santos e os sábios de\ntodas as épocas. Há diversos caminhos a trilhar em\nbusca da evolução nestes dois sentidos, e poucos\nlevam a um final insatisfatório, embora cada um\nindique somente uma fração do que levará ao\nestágio máximo.\nAlguns poucos iniciam esta jornada deste\nmuito jovens, e percorrem o mundo em busca de\nrespostas e pistas para tal meta. Após décadas e\nmais décadas de procura, uma mínima parcela\ncomeça a entender o funcionamento das leis\ncósmicas, e um sinal deste entendimento é\nexatamente o fato de que estes velhos sábios cessam\nde envelhecer. Talvez um prêmio dos deuses pela\ndeterminação, talvez um efeito decorrente desta\nligação mais aprofundada com a própria eternidade\ndo Universo.\nSeja qual for a razão desta paralisação no\nprocesso de envelhecimento, estes Imortais tornam-\nse muito respeitados pelas maiores tradições\nreligiosas orientais (Confucionismo, Taoísmo,\nXintoísmo e Budismo), recebendo o nome de Hsien\nna Ásia continental e Sennin no arquipélago\njaponês. Sua busca pelos segredos universais os\ntorna mais sintonizados com os acontecimentos,\ngarantindo-lhes quase compreensão total do curso\ndas coisas, praticamente adivinhando o futuro e o\npensamento das pessoas."
@@ -1017,6 +1483,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         18,
@@ -1028,7 +1501,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:hsien",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kappa",
@@ -1036,7 +1516,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "A perfeita fusão entre os demoníacos\nPonaturi e os Vampiros Kiang-Shi, os Kappa são\nentidades muito raras e com funções além da\ncapacidade de compreensão de muitos seres\nsobrenaturais da Ásia: eles possuem as energias\ndecadentes derivadas de Dagon, a corrupção da\nalma dos Kiang-Shi, e mesmo assim por vezes agem\nsob as ordens de grandes deuses de Amaterasu e\nShang-Qing. Eles são considerados demônios\ntorturadores, que assassinam suas vítimas por\nafogamento, levando-as ao fundo de rios e lagos\njaponeses.\nDizem que os novos Kappa surgem de\npessoas que foram mortas por afogamento,\nnormalmente ao cometerem suicídio. Suas\ncaracterísticas físicas são animalescas, tornando\nsuas peles escamosas e esverdeadas, suas faces\nadquirem traços característicos de peixes, e suas\nbocas e presas passam a se assemelhar a piranhas,\ncom grandes dentes afiados e protuberantes."
@@ -1052,6 +1532,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9
@@ -1062,7 +1549,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kappa",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kaze",
@@ -1070,7 +1563,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Outra espécie muito antiga, os espíritos dos\nventos e do Ar são chamados de Kaze. São formas\nembaçadas de ventos de uma tonalidade específica,\nembora muitos deles consigam se manifestar como\nseres humanos de cabelos negros e olhos de cores\nmuito exóticas. Eles preferem a liberdade de\nmovimento e têm preferência em se manifestarem\nem locais cujos espectadores possam admirá-los\nem suas demonstrações de poder."
@@ -1085,6 +1578,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -1095,7 +1595,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kaze",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kei",
@@ -1103,7 +1609,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 13,
       "entries": [
         "Também muito antigos e razoavelmente\ncomuns, os Kei são os espíritos da Luz, muito\nligados a Tsukiokoku (chamada no Oriente de Terra\ndos 8 Milhões de Sonhos, ou Mundo Lunar). Suas\npeles são sempre muito pálidas, e seus olhos\npossuem tons escuros de azul, púrpura, rosa ou\namarelo. Seu comportamento agitado os aproxima\ndos Dendou, mas uma marca de personalidade é a\ninocência com que realizam suas tarefas,\nindependente do que estejam fazendo. O que eles\ndizem às vezes torna-se incompreensível, pois\nsempre falam de maneira críptica e através de\ncharadas."
@@ -1118,6 +1624,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         13
@@ -1128,7 +1641,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kei",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kiang-shi",
@@ -1136,7 +1655,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "Os Portadores da Segunda Alma são muito\npoderosos na Ásia, mantendo grandes posições nas\nSociedades Secretas e também mantendo forte\npoder político sobre o mundo mortal. Dividem a\nsupremacia de modo pacífico com os Rakshasas,\ncom raros conflitos entre ambos. Seus dons arcanos\nsão extremamente altos, o que atrai os místicos para\na razão que teria esta “segunda alma” na\nmanipulação das energias mágicas.\nConcentram-se na China, controlando a\nTríade e a influenciando por toda Ningenkai, com\ndiversas alianças da Liga das Sombras espalhadas\npelo globo. Acredita-se que um Kiang-Shi sempre\né predestinado, através de estudos astrológicos que\nlocalizam estes potenciais Vampiros e os forçam a\ncometer suicídio ou a morrer de maneiras muito\ncruéis através de procedimentos ritualísticos."
@@ -1153,6 +1672,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9
@@ -1163,7 +1689,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kiang-shi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kitsune",
@@ -1171,7 +1703,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 15,
       "entries": [
         "Os Kitsune são os trapaceiros homens-\nraposa do Japão. Normalmente são raposas que se\ntornaram humanos, e são ótimos metamorfos,\nassumindo a aparência de qualquer pessoa. Alguns\ndeles tornam-se sedentários e se casam com\nhumanos, assumindo sua forma verdadeira somente\nà noite, enquanto outros vivem permanentemente\nem ambientes selvagens, só interagindo com\npessoas ocasionalmente. Os Kitsune estão\nconectados ao deus Inari e podem ser considerados\n“mensageiros celestiais” deste deus. Podem viver\npor mais de mil anos (embora a maioria morra muito\nantes disto) e os mais antigos possuem tanto poder\nmágico\nque\nsão\npraticamente\ndeuses,\nprincipalmente na manipulação do fogo mágico (o\n“Fogo da Raposa”, ou Kitsune-bi).\nEstes Hengeyokai podem apresentar\nmúltiplas caudas de acordo com a idade, e podem\nreter pelo menos uma cauda na forma humana.\nAlém disso, a sombra deles pode ter a forma de\numa raposa, e um espelho pode refletir a raposa\nem vez de humano. Os Kitsune também são\nconhecidos por um efeito chamado Kitsune-tsuki,\nquando conseguem transferir sua alma ao corpo de\numa vítima, normalmente para transmitir um\ncomunicado dos deuses, ou então para\nsimplesmente causar problemas no mundo dos\nmortais."
@@ -1187,6 +1719,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         15
@@ -1197,7 +1736,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kitsune",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kotan-nukur",
@@ -1205,7 +1751,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 18,
       "entries": [
         "Alguns séculos antes de Christos, um grupo\nde entidades de origens diversas utilizava as regiões\ndos Buryat (na Mongólia) e dos Ainu (norte do\nJapão) para obscuros rituais, mesmo antes do\nsurgimento destes povos. Quando os Humanos\ntiveram contato com estes espíritos, os\nconsideraram deuses e passaram a venerá-los,\nchamando-os de Tengri (na Mongólia) ou Kamui\n(no Japão). Alguns espíritos exigiam sacrifícios,\nenquanto outros prezavam pela evolução espiritual\nde seus seguidores. Com o tempo, estes espíritos\ndecidiram criar representantes diretos no Plano\nFísico, e criaram um ritual em que possuiriam o\ncorpo de um “Invólucro” para engravidarem uma\nvirgem.\nOs filhos destes espíritos e Mitsukai\ntornaram-se os Gigantes Kotan-Nukur. Já nas\nculturas do sul do Japão, os próprios Mitsukai de\nAmaterasu é que engravidavam os Humanos, sem\nhaver a presença destes espíritos misteriosos. Os\nKyoshinhei (“Guerreiros-Deuses Gigantes”) eram\nconsiderados como uma classe de deuses menores,\nque intermediavam os maiores deuses entre os\nmortais."
@@ -1220,6 +1766,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         18
@@ -1230,7 +1783,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kotan-nukur",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kuei",
@@ -1238,7 +1797,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 8,
       "entries": [
         "Os Kuei são conhecidos como “demônios\ncom sangue de tigre”, por causa de alguns deles\nque apresentavam características de tigres como\nlistras, orelhas e olhos felinos, ou caudas. A verdade\né que os Kuei são uma das raças habitantes do\nMakai, que assumem características de animais\ndiversos, agrupados em tribos. Embora sejam tão\nunidos de acordo com o animal a que se\nassemelham, eles não se isolam das outras tribos\nde maneira alguma.\nEntre as principais tribos, há os Inu\n(cachorro), Tora (tigre), Neko (gato), Kurohyou\n(pantera), Ookami (lobo), Arauma (cavalo), Youko\n(raposa), Komori (morcego), Tori (pássaro), Eki\n(lagarto), Hebi (serpente), Raion (leão), Kumo\n(aranha) e Gama (sapo). A maioria deles prefere\nhabitar a própria Ningenkai, mas alguns têm\npreferências diferentes: os Tora costumam viajar\npor Tsukiokoku, os Gama tendem a se aliar a\ngrandes Lordes Trevosos do Bardo e os Youko\ninfestam o Jigoku."
@@ -1254,6 +1813,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         8
@@ -1264,7 +1830,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kuei",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-kyuuketsuki",
@@ -1272,7 +1844,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "Tão incomuns na Ásia quanto são no\nOcidente, os Vampiros são alvo de grande\ncuriosidade pelos místicos, que buscam entender\ncomo ocorrem as transformações no corpo e na\nalma de um humano que se torna um Vampiro.\nEmbora seus corpos pareçam mortos em certos\ncasos, a alma não o abandona. Sua força vital é\ninexistente, forçando-os a retirar o sustento da\nenergia vital alheia, e com o tempo, da energia vital\ndos próprios Vampiros.\nInfiltrados perfeitamente nas comunidades\nhumanas e sobrenaturais, eles conseguem até\nmesmo manter uma vida secreta no mundo mortal,\nconhecendo perfeitamente ambos os cenários.\nAlgumas raças que existem no Ocidente são\nextremamente raras no Oriente, como os Strigoi,\nSábios e Brujas. Outras, tornam-se mais comuns\ndo que se imagina, como os Rakshasas e os Kiang-\nShi."
@@ -1288,6 +1860,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9
@@ -1298,7 +1877,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:kyuuketsuki",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-lagsuyar-e-pontianak",
@@ -1306,7 +1891,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 10,
       "entries": [
         "Langsuyares e Pontianaks são descendentes\ndos Lamiai gregos, criados com a maldição de Hera\nsobre a rainha Lamia. Concentram-se no Sudeste\nAsiático, relacionando-se principalmente com o Zi\nGuang. Os Langsuyares e Pontianaks costumam\nusar roupas nobres verdes com grandes caudas de\ntecido sobrando de acordo com a crença tradicional\n(que na verdade são suas caudas de serpente).\nMuitos ainda gostam de deixar suas unhas com\ngrandes comprimentos. Os Langsuyares e\nPontianaks, além de parasitarem o sangue humano,\ntambém sugam a saúde das pessoas, através de seus\nservos Pelesits e Polongs, que entram no corpo\nhumano e retiram a saúde para depois transferi-la\nao mestre Vampiro.\nPara eles, o sangue humano tem grande teor\nalcóolico, como o álcool nos humanos, podendo\nficar bêbados com grandes ingestões de sangue\nhumano. Como são grandes inimigos dos povos do\nSudeste Asiático, não se preocupam com outras\npartes do mundo nem com outras raças vampíricas,\ncom exceção dos Pennangalan, que competem pelo\nmesmo território, e com os poucos Strigoi e Brujas\nque ocuparam várias cidades chinesas (como Hong\nKong), e que tentam expandir seus territórios\nvampíricos para os territórios dos Langsuyares e\nPontianaks. São contratados por outros vampiros\ncomo assassinos silenciosos, pois matam usando\nos poderes dos Pelesits e Polongs, e como espiões,\npor suas formas Bajang e pelos servos Pelesits e\nPolongs, seres perfeitos para a espionagem. A\ndiferença entre um Langsuyar e um Pontianak é\npuramente territorial: os Langsuyares habitam a\nMalásia, enquanto os Pontianaks concentram-se na\nIndonésia."
@@ -1322,6 +1907,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10
@@ -1332,7 +1924,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:lagsuyar-e-pontianak",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-licantropos",
@@ -1358,6 +1956,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         11
@@ -1369,7 +1974,14 @@
       "certificationId": "linhagem-lock:animalidade:licantropos",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Ligação à Terra, Espinhos, Vulnerável (prata ) e Fala Limitada"
+      "weaknessesText": "Ligação à Terra, Espinhos, Vulnerável (prata ) e Fala Limitada",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-lung-ti-chuan-ren",
@@ -1377,7 +1989,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 18,
       "entries": [
         "Se os Tatsu são seres extremamente raros\nde se encontrar, mais raros ainda são seus híbridos\ncom os humanos. Os Lung-Ti Chuan Ren eram\ncomuns quando os Dragões Orientais dominavam\nas dinastias chinesas, normalmente colocando filhos\nde humanos como descendentes do Imperador\n(como ocorrido na dinastia Qing, por exemplo).\nGeralmente integrando os Wu Lung ou a Tríade,\nos Lung-Ti Chuan Ren são os Shih mais poderosos,\nsuperando até mesmo os Arahitogami e os Hanyu.\nUm Lung-Ti Chuan Ren conhecido foi Hsi-\nFang, o filho do imperador Kintaro, que enfrentou\no colapso da China antes do período dos Senhores\nda Guerra. As raças de Tatsu com maior\nprobabilidade de gerar Lung-Ti Chuan Ren são os\nDragões Amarelos e os Dragões da Terra. Os T’ien\nLung geram Arahitomagi como híbridos, e os\nDragões Subterrâneos geram como descendentes\nos Hanyu. Há boatos de que os Dragões Espiralados\nseriam capazes de gerar Lung-Ti Chuan Ren, mas\naté o momento nunca se soube de um único Shi\ndescendente de um mortal com Dragão Espiralado."
@@ -1393,6 +2005,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         18
@@ -1403,7 +2022,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:lung-ti-chuan-ren",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-makrobioi",
@@ -1428,6 +2053,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         15,
@@ -1440,7 +2072,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:makrobioi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-minotauros",
@@ -1464,6 +2103,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         11
@@ -1475,7 +2121,14 @@
       "certificationId": "linhagem-lock:animalidade:minotauros",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Forma Perpétua, Fome (carne)"
+      "weaknessesText": "Forma Perpétua, Fome (carne)",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-mizu",
@@ -1483,7 +2136,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 12,
       "entries": [
         "Outra espécie tão antiga quanto os Hinote,\nos Mizu são os espíritos da Água, muito comuns\nnas profundezas do mar, mas extremamente raros\nfora deste ambiente. Grandes aliados dos bárbaros\nAinu do norte do Japão, possuem relações\namistosas com as Yukionnas, as damas da neve que\nvivem no Reino de Koorime, no Jigoku."
@@ -1498,6 +2151,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -1508,7 +2168,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:mizu",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-nagas",
@@ -1532,6 +2198,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10,
@@ -1544,7 +2217,14 @@
       "certificationId": "linhagem-lock:animalidade:nagas",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Reação a Estímulos e Fala Limitada"
+      "weaknessesText": "Reação a Estímulos e Fala Limitada",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-neperari",
@@ -1569,6 +2249,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         18,
@@ -1580,7 +2267,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:neperari",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-oni",
@@ -1588,7 +2282,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 8,
       "entries": [
         "Outra raça proveniente do Makai, os Oni\nsão muito semelhantes aos Ogros europeus:\ngrandes, selvagens e comedores de carne humana.\nCostumam possuir chifres, utilizar grandes clavas\ne vestir trapos de pele de animais. Seus traços\nfaciais os fazem parecer com os Orcs europeus,\nembora não sejam raros os Oni que possuem cabeça\nde boi ou de cavalo.\nUma das raças mais afetadas pela\ndecadência do Makai, consideram-se em extinção\ne buscam a todo custo manterem sua cultura ainda\nviva, pois são também Espíritos Iluminados como\nseus parentes Daemons. Diferente do que acontece\nno Ocidente, não é tão raro encontrar Oni\nconvertidos às religiões dos planos superiores e\naliados a entidades de Amaterasu, Katmaran e\nprincipalmente Shang-Qing."
@@ -1604,6 +2298,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         8
@@ -1614,7 +2315,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:oni",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-pantros",
@@ -1638,6 +2345,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         11,
@@ -1650,7 +2364,14 @@
       "certificationId": "linhagem-lock:animalidade:pantros",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Ligação à Terra, Pânico (água), Instintividade"
+      "weaknessesText": "Ligação à Terra, Pânico (água), Instintividade",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-pennangalan",
@@ -1658,7 +2379,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 10,
       "entries": [
         "Considerados bizarros pelos outros\nVampiros, os Pennangalan são perfeitamente\nhumanos de dia, mas à noite são obrigados a assumir\numa das duas formas de caça da raça: o Wak-Wak,\nmonstro-pássaro horrível; ou o Tianak, a cabeça\ndo vampiro desprendida do corpo, junta ao sistema\ndigestivo, flutuando como se houvesse o resto do\ncorpo. O Pennangalan se alimenta do sangue\nhumano, através de uma comprida língua com um\nferrão para a forma Wak-Wak, ou envolvendo a\nvítima com seu sistema digestivo para a forma\nTianak.\nQuando na forma Tianak, caso o resto do\ncorpo do Pennangalan seja atingido por grandes\nquantidades de sal, a cabeça e as entranhas não\npoderão voltar ao resto do corpo; quando na forma\nWak-Wak, o vampiro perde sua capacidade de vôo\nquando for atingido por grandes quantidades de sal;\nem qualquer forma, quando ingere mais sal que o\nnormal para o alimento, começa a passar muito mal\n(isso é usado para se identificar um Pennangalan\ndisfarçado).\nAssim como os Langsuyares, os\nPennangalan ocupam o Sudeste Asiático, com\ngrandes concentrações na Malásia e nas Filipinas,\nonde vive o líder dos irmãos, Aswang. Existe um\npequeno grupo de Pennangalan sob o comando de\nKrappa no Japão, e alguns na Tailândia sob o\nreinado rígido de Krasue. Os Pennangalan vivem\nem constantes guerras contra os Rakshasas e os\nKiang-Shi, por territórios fronteiriços."
@@ -1675,6 +2396,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10,
@@ -1686,7 +2414,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:pennangalan",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-peri",
@@ -1694,7 +2428,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 16,
       "entries": [
         "Vindos do imaginário persa, os Peris são\ndescendentes dos Anjos Caídos que cujo Paraíso\nlhes foi negado enquanto cumprissem penitência.\nPara alguns estudiosos, eles são agentes de Angra\nMainyu, o Mal; para outros, eles são seres\nbenevolentes, embora sejam arrogantes. São muito\nbelos e alados, posicionados em um estado entre\nAnjos e Demônios que às vezes visitam o mundo\ndos mortais.\nOs Peris foram alvo de uma classe inferior\nde criaturas chamadas Divs, que os perseguiam e\nos prendiam em jaulas de ferro. Esta perseguição\niniciou-se porque, como os Divs notaram, os Peris\nnão possuíam ódio e vontade suficiente para se\njuntarem às guerras contra as forças do Bem. Os\nPeris que se salvaram da perseguição acabaram se\nrefugiando em Tsukiokoku, Manda ou em Wai-Shi.\nMesmo com sangue de paradisianos, os\nPeris são considerados habitantes de Tsukiokoku,\ndevido às dezenas de séculos que passaram lá.\nMesmo assim, os Peris desejam fortemente voltar\num dia a habitarem o paraíso persa dos seguidores\nde Mazda."
@@ -1709,6 +2443,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         16
@@ -1719,7 +2460,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:peri",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-ponaturi",
@@ -1727,7 +2474,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "Conhecidos como Profundos no Ocidente,\nos Ponaturi são os representantes de Dagon na\nregião da Polinésia, híbridos dos humanos com\nantigas entidades servas do próprio Senhor das\nProfundezas. Costumam habitar as profundezas\noceânicas, indo à superfície para capturar oferendas\nhumanas, ou mesmo para reinar sobre os humanos\n(como no antigo Império de Java).\nNormalmente, um Ponaturi nasce como um\nhumano comum, e vai adquirindo características\nde anfíbios e peixes após a adolescência, tornando-\nse um perfeito Ponaturi na idade adulta. Os Ponaturi\nsão temidos pelos representantes das outras\nreligiões, pois sabe-se que eles se alimentam da\ncarne dos deuses, tendo havido grandes problemas\nno passado com deuses como Haha no Fumaki,\nHema e Urotonga."
@@ -1742,6 +2489,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9
@@ -1752,7 +2506,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:ponaturi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-rakshasa",
@@ -1760,7 +2521,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 9,
       "entries": [
         "Outra das raças mais numerosas de\nVampiros no Oriente, são na verdade um tipo de\nVampiro-Demônio. Podem assumir características\nde tigres ou babuínos, e preferem se alimentar de\ncarne humana em vez de somente sugar-lhes o\nsangue. Foram uma das primeiras raças vampíricas\na existir, descendentes da própria deusa da morte\nKali, de Katmaran.\nMuitos ainda estão em Ningenkai, mas\noutros habitam permanentemente o bolsão\ndimensional chamado Lanka, anexado ao Jigoku.\nO milenar demônio Ravana lidera Lanka, tornando-\nse assim um dos Reis Yama. Possuem grandes\nterritórios fora da Ásia, como na Suécia e na\nHolanda."
@@ -1777,6 +2538,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         9,
@@ -1788,7 +2556,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:rakshasa",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-reflictys",
@@ -1796,7 +2571,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 15,
       "entries": [
         "Vindos provavelmente dos mares negros do\nMakai, estas criaturas são uma combinação bizarra\nde homens e peixes demoníacos. Não chegam a\nmedir 1 metro e meio de altura, e assemelham-se a\nanões corcundas e grotescos. Seu corpo é revestido\npor uma espécie de escama de vidro e de sua\nespinha dorsal alongam se cartilagens pontiagudas\nque chegam a medir até meio metro. No lugar de\nmãos possuem estilhaços largos de vidro, muito\nafiados, que lembram garras. À primeira vista, seu\naspecto pode parecer um tanto reptiliano, pois ainda\npossui uma longa cauda escura, que termina em uma\nbarbatana fina e transparente.\nA maioria destes Hengeyokai vive sempre\nem rios ou lagos de água doce, ou então em suas\nproximidades, pois necessitam estarem sempre em\ncontato com a maior quantidade possível de\numidade, tanto que só conseguem se transformar\nquando está chovendo ou quando estão\ncompletamente molhados. São encontrados\nfacilmente na norte da África e no sul da Ásia (costa\ndo Sudeste Asiático).\nSão criaturas muito ariscas, que não gostam\nde serem provocadas. Geralmente, temem\nconfrontos diretos, preferindo refugiarem-se no\ninterior do ambiente aquático para agirem\nsorrateiramente mais tarde."
@@ -1812,6 +2587,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         15
@@ -1822,7 +2604,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:reflictys",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-animalidade-rocs",
@@ -1845,6 +2633,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         12
@@ -1856,7 +2651,14 @@
       "certificationId": "linhagem-lock:animalidade:rocs",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
       "raceContext": "source-specific-race-lineage",
-      "weaknessesText": "Fala Limitada, Instintividade, Reação a estí- mulos e transmissor"
+      "weaknessesText": "Fala Limitada, Instintividade, Reação a estí- mulos e transmissor",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-shinma",
@@ -1864,7 +2666,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 16,
       "entries": [
         "Os seres dos sonhos e devaneios, os Shinma\npodem ser traduzidos como “Fadas”. Vivem ou são\noriginados em Tsukiokoku. Outros nomes para\nTsukiokoku são “Terra dos 8 Milhões de Sonhos”\ne “Mundo Lunar”, pois os orientais consideram que\na lua (o semiplano chamado Luna) seja uma\npassagem para Tsukiokoku, e também acreditam\nque o Manda esteja estreitamente ligado a\nTsukiokoku.\nAssim como nos povos do Ocidente, os\nShinma são vários e imprevisíveis, mas há 3 raças\ndeles que possuem forte atuação em Ningenkai: os\nhomens-macaco Vanaras, os meio-anjos Peris, e os\ngnômicos Kobakama."
@@ -1881,6 +2683,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         16
@@ -1891,7 +2700,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:shinma",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-shiryou-mononoke",
@@ -1899,7 +2714,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 7,
       "entries": [
         "Quando uma pessoa morre de maneiras\nviolentas demais ou com um sentimento muito forte\natrelado a ela no momento da morte, tal alma\ncorrompe-se e assume as características do\nMononoke, ou Shiryou. A diferença entre ambos é\nque o Shiryou é a alma que corrompe-se após a\nmorte, quando entra de algum modo em contato com\na essência do tenebrita Vampyr. Já o Mononoke, é\numa alma corrompida devido a condições no\nmomento da morte, sem ligação com Vampyr.\nMuitas vezes, os Mononoke e Shiryou são\nchamados de “Espíritos da Fúria”, por causarem\nmal no mundo dos vivos para assim assassinarem\ncada vez mais pessoas e corromper suas almas."
@@ -1914,6 +2729,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         7
@@ -1924,7 +2746,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:shiryou-mononoke",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-shishio",
@@ -1932,7 +2760,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 14,
       "entries": [
         "O Shishio é uma criatura lendária, uma\nestátua com chifres na cabeça de leonina, escamas\nsobre o corpo de um grande cão, e uma cauda\ncoberta por pêlos encaracolados. O Shishio, sendo\num guardião de pedra, devora criaturas ruins e\ninvasores do terreno ao qual protege. Normalmente\nposicionado na porta frontal, com a boca virada\npara a porta, o Shishio é o sentinela que neutraliza\nqualquer elemento prejudicial que entre na casa.\nEle tem também uma função espiritual à casa: se a\nposição da casa, pelos estudos do Feng Shui, estiver\nruim, o Shishio será capaz de diluir quaisquer\nenergias adversas que circularem pela casa.\nDiferente dos Gárgulas europeus, os\nShishios são animados com energias vitais\nbenignas, sem serem necessários rituais demoníacos\ne pactos com a alma. Um bom Mago do Feng Shui\nserá capaz de acumular energia mística suficiente\nem um terreno, de modo que a própria natureza\nserá capaz de animar o Shishio. Óbvio que os\nMagos de má índole usarão seus conhecimentos\nde controle de espíritos e demônios para animar os\nShishios com almas condenadas, mas estes Shishios\nsão muito raros.\nOs Shishios dedicam-se pela eternidade a\ndefenderem um terreno ou construção, e nunca\nsairão de lá enquanto existirem, não havendo ordem\nnenhuma do Mago que o criou para mudar sua\nfunção de sentinela do local onde ele foi animado."
@@ -1947,6 +2775,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         14
@@ -1957,7 +2792,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:shishio",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-shuudouin",
@@ -1965,7 +2806,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 7,
       "entries": [
         "Conhecidos pelo nome de Cenobitas no\nOcidente, os Shuudouin são habitantes da cidade\ncorrompida de Metrópolis, em Tengoku (chamada\nno Oriente de Dadushi). Mestres dos enigmas e da\ntortura, invadem os sonhos e são muito atuantes no\nBardo. Buscam ao máximo não se envolverem com\nos Mitsukai das outras cidades paradisianas.\nSurgem em Ningenkai para capturar novas\nalmas e transformar qualquer criatura disposta a\num novo Shuudouin. Suas características incluem\npróteses bizarras e peculiaridades sadomasoquistas,\ncomo cabelos feitos de arame afiado, pele quase\ntransparente de tão branca ou mesmo pregos e\nlâminas cravados em seus corpos."
@@ -1981,6 +2822,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         7
@@ -1991,7 +2839,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:shuudouin",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-siang",
@@ -1999,7 +2853,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 17,
       "entries": [
         "Siang são o resultado da transformação\nerrônea de um Kiang-shi. Eles acreditam que este\ntipo de acontecimento é escolha do destino para\nque aquele não tenha lugar entre os mandarins\nvampíricos, mas sim abaixo deles, como uma casta\ninferior, servindo-os e protegendo-os. Por esse\nmotivo, todos os Siang são guerreiros, guarda-\ncostas e assassinos.\nDizem que os antigos espíritos dos samurais\nmortos em nome dos Kiang-Shi vivem em cada\nSiang, e por isso, estes Shih são respeitados e\ntratados como samurais por aqueles que conhecem\nsua lenda. Diferente de outros Meio-Vampiros, eles\nnão são uma família e não se reproduzem; de fato,\num Siang teria uma chance ínfima de gerar outro\nSiang. Por esta falta de “parentescos”, eles não se\norganizam em clãs, sendo solitários por\npraticamente todas as suas vidas, vivendo para seus\nmestres. Em alguns raros casos, um Siang vive\ncompletamente solitário, e esses são conhecidos\ntambém como Ronin."
@@ -2015,6 +2869,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         17
@@ -2025,7 +2886,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:siang",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-sidhichean",
@@ -2050,6 +2918,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         20,
@@ -2061,7 +2936,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:sidhichean",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-tatsu",
@@ -2069,7 +2951,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 11,
       "entries": [
         "Uma das criaturas mais temidas e admiradas\ndo mundo, o Dragão tem sua existência narrada\ndesde muito antes do surgimento da Humanidade.\nConsiderados no Oriente como os senhores de todas\nas criaturas escamadas, acredita-se que eles vivem\nem castelos submersos no oceano, decorados com\nouro e prata. Inclusive, a ligação deles com o\nelemento Água é muito forte, relegando a estes seres\no controle das chuvas, dos movimentos do mar e\nàs riquezas submersas, como as pérolas.\nTodos os Dragões Orientais possuem uma\ngema mística chamada Ch’iu Muh, normalmente\nsituada em suas testas, presente do poderoso\nKotoamatsumikami Pan-gu, para que todos eles\npudessem enxergar as vontades de Pan-gu e Tao-\nte. Dizem que, quando um humano engole o Ch’iu\nMuh, ele mesmo acaba tornando-se um novo\nDragão.\nOs Dragões são divididos em muitas classes:\nhá os poderosos Dragões Amarelos, que agem mais\nativamente junto à Humanidade, inclusive por vezes\ntornando-se a família real de várias dinastias\nchinesas. São os mais heróicos e aventureiros dos\nDragões Orientais. Os Dragões Celestiais, ou T’ien\nLung, são os mais antigos de todos, adquirindo esta\naparência de seres semelhantes a serpentes como\ncastigo pelo modo como agiram durante a Primeira\nGuerra dos Mundos. Eles protegem seus territórios\nem Ningenkai, agem como soldados de Shang-Qing\ne ainda levam as almas dos mortos para o Mundo\nEspiritual. Os Dragões Espirituais controlam as\nchuvas, os ventos, os trovões e as enchentes,\ncostumando se disfarçar de ratos e esconderem-se\nentre os mortais. Os Dragões da Terra são os\nmestres dos rios e são os verdadeiros habitantes\ndos palácios do fundo do mar, considerados pelos\npolinésios como “Deuses-Tubarão” – há teorias de\nque eles guardam os locais onde poderosos\ntenebritas e seres abissais se encontram\nadormecidos sob as águas oceânicas, mantendo-os\nneste estado enquanto puderem. Os Dragões\nSubterrâneos são os mestres dos cristais e das\nriquezas do subsolo – alguns Magos consideram\nque os Dragões Subterrâneos sejam na verdade\nDragões do Makai que vivem em Ningenkai\nforagidos. Por fim, há os poderosos Dragões\nEspiralados, com centenas de metros de\ncomprimento, que preenchem os céus e os mares\nquando se manifestam, como grandes forças\ncataclísmicas que punem quem desobedece a ordem\nnatural.\nOs estudiosos de Dragões afirmam que estes\nseres possuem temor do ferro, de cera de abelhas,\ncentopéias, tigres, sedas de 5 cores folhas das\nplantas chamadas Wang e Lien. Curiosamente,\nacredita-se que todos os Dragões possuem\nexatamente 117 escamas, sendo 81 delas ligadas\nàs forças Yin e 36 ligadas às forças Yang. Dizem\nque todos os Dragões são surdos, mas nunca houve\ncomprovação. Alguns Dragões conhecidos na Ásia\nsão Ahzi Dahaka, Seliah Mahtuk, Ryumyo, Sin-\nFang, Rapuslzî-Nupur-Kur, Osano-Wo e Xiao\nSheng.\nOs Tatsu não são imortais (com exceção dos\nT’ien Lung e dos Dragões Espiralados), mas podem\nviver por muitos séculos, tendo um ciclo de vida\nextenso. O ovo de um Tatsu choca somente quando\ncompleta 1000 anos de existência, saindo do ovo\numa pequeno Dragão que mais se parece com uma\ncobra d’água. Após 500 anos, a cobra d’água se\nmetamorfoseia em Kiao, com corpo e face muito\nsemelhantes aos de carpas, e adquirem membros,\nescamas de carpa e barba. Depois de 1000 anos no\nestado Kiao, ele torna-se Kiao-Lung, adquirindo\nchifres. De Kiao-Lung, o Tatsu se torna um Ying-\nLung, um Dragão Venerável, adquirindo asas, e\nvivendo por mais até 2000 anos. Alguns raros\nDragões de outras espécies tornam-se Dragões\nEspiralados, recebendo o dom da imortalidade."
@@ -2088,6 +2970,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         11,
@@ -2099,7 +2988,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:tatsu",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-tengu",
@@ -2107,7 +3003,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 15,
       "entries": [
         "Os Tengu, ou homens-corvo não são\ntraiçoeiros ou fanáticos como seus conterrâneos\nKitsune e Tanuki. Embora alguns trapaceiros sejam\nencontrados entre eles, são geralmente vistos como\nmestres sábios e respeitados. Homens em busca de\nevolução escalavam montanhas procurando pelos\nTengu, esperando aprender a Magia ou artes\nmarciais avançadas. A origem e local dos Tengu é\nainda muito misteriosa: às vezes são humanos que\nse tornam Tengu, enquanto outras vezes são\nsemideuses ou uma raça de monstros totalmente\nseparada dos humanos. Sua ligação com os\nYamabushi e com os Ninjas ainda é uma incógnita,\nembora seja praticamente uma convenção\nconsiderar que Yamabushi são humanos que\nadquiriram segredos dos Tengu e atingiram tal\nestado de imortalidade, e os Ninjas provavelmente\nsurgiram através dos ensinamentos dos Yamabushi.\nOs Tengu são ótimos ilusionistas, e ainda podem\nassumir uma forma de combate chamada Karasu-\nTengu, que mistura um homem com corvo e com\num grande símio."
@@ -2123,6 +3019,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         15
@@ -2133,7 +3036,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:tengu",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-teyirang",
@@ -2141,7 +3050,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 10,
       "entries": [
         "Surgidos logo que Genghis Khan chegou ao\npoder, dizem que a deusa Itugën concedeu o Dom\ndas Trevas aos melhores cavaleiros mongóis, para\nque eles auxiliassem no domínio completo de\nGenghis sobre todo o mundo conhecido. A verdade\né que o principal general de Gens=ghis Khan,\nDobrul, era um descendente do próprio rei heleno\nLycaon, e portanto vítima da maldição de Zeus que\ngerou os Vrykolakas. Quando os xamãs mongóis\ntentaram realizar um ritual sobre Dobrul, a essência\namaldiçoada de sua linhagem despertou e o tornou\no primeiro Vrykolakas surgido no Oriente. A partir\nde então, Dobrul buscou todos os seus familiares\nque pudessem também se tornar Teyirang (nome\npelo qual os Vrykolakas são conhecidos na Ásia).\nEstes Vampiros são sempre nômades,\npercorrendo grandes distâncias ao longo dos anos,\nsem quase nunca permanecerem em um mesmo\nlugar por mais de uma década. Adquirem com o\ntempo algumas características bestiais ligadas aos\nlobos, como pêlos, garras, presas e a habilidade de\nse transformarem neste animal ou controlá-los."
@@ -2157,6 +3066,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         10
@@ -2167,7 +3083,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:teyirang",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-unwaba-tulo",
@@ -2192,6 +3114,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         23,
@@ -2203,7 +3132,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:unwaba-tulo",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-urlug",
@@ -2228,6 +3163,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         26,
@@ -2239,7 +3181,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:urlug",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-vanara",
@@ -2247,7 +3196,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 16,
       "entries": [
         "Os homens-macaco são os principais\ntrapaceiros de todos os Youkais. Eles são\nconsiderados irritantes pelos outros seres do mundo\nsobrenatural, e também prezam por status e títulos\nda nobreza, sendo este o motivo de tantas lendas\nsobre reis-macacos. Eles também possuem a\nhabilidade de acalmar e pacificar as criaturas (um\ntalento muito útil para seres travessos como eles).\nMesmo com a busca pela nobreza, eles pouco se\nimportam com etiqueta ou boas maneiras, com\ngrandes problemas sociais provindos deste\ncomportamento. Os Vanaras são criaturas do\nequilíbrio, aliadas ao elemento Terra.\nOs Vanaras são grandes trapaceiros, mas\nalguns são conhecidos como os maiores lutadores\ndo mundo sobrenatural, devido a uma capacidade\nespecial de se recuperarem de ferimentos letais em\nmeio a um combate, voltando com muito mais força\ne fúria. Vanaras são portadores de grande poder\nmarcial rivalizado somente pelos Punhos\nHarmoniosos, o Kirrin de Ouro e Jade e os\nMagistrados Imperiais, e não gostam de\ncomparação com as lendas dos Mi-Go (os\nAbomináveis Homens das Neves)"
@@ -2263,6 +3212,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         16
@@ -2273,7 +3229,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:vanara",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-wang-wa",
@@ -2281,7 +3243,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 15,
       "entries": [
         "O território chinês sempre foi disputado\natravés dos milênios por várias famílias, clãs e até\nmesmo por criaturas sobrenaturais. Os principais\nseres que já dominaram a China em algum período\nda História são os Tatsu e os Kiang-Shi. Porém,\nestes seres são inumanos em sua totalidade,\nimortais, místicos e muitas vezes macabros. Ainda\nhouve uma criatura que viveu infiltrada na\nsociedade humana com mais facilidade: os homens-\nsapo, ou Wang-wa. Algumas dinastias chinesas\ntiveram como imperador um Wang-wa, com\ndiversas estórias de príncipes-sapos, passadas da\nChina para o resto do mundo.\nGrandes aliados dos Kuei Gama, os Wang-\nwa podem se transformar em grandes homens-sapo\nquando precisarem realizar grandes feitos físicos,\nembora não gostem desta forma. Preferem viver\ncomo perfeitos humanos em meio à sociedade, mais\ncomo líderes escolhidos pelo povo que como\nditadores sobrenaturais que dominam nas sombras."
@@ -2297,6 +3259,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         15,
@@ -2308,7 +3277,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:wang-wa",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-watashimori",
@@ -2316,7 +3292,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 7,
       "entries": [
         "Os chamados “Barqueiros” utilizam grandes\nbarcas ancoradas na beira de cemitérios, onde\nrecolhem os espíritos dos recém-mortos para levá-\nlos ao tribunal de Emma-o, uma das regiões do\nJigoku. Muitas vezes agem como mensageiros dos\ndeuses para os vivos (quando utilizam somente o\nremo como transporte para voar, como uma bruxa\nusa uma vassoura). Seus poderes incluem detecção\nde vidas passadas, transgressões contra a fé,\nmanipulação de energia espiritual, etc. São como\nos Recíperes da Cidade Prateada. Como trabalham\ntanto para Amaterasu como para o Rei Emma-o, os\nWatashimori às vezes são tratados com grande\ndesconfiança pelos Mitsukai orientais, pois nunca\nse sabe quando irão mudar de lado. Devido a esta\nligação com Amaterasu e Jigoku, os Watashimori\npodem possuir certos Poderes Demoníacos e\nEspectrais sem serem considerados Demônios ou\nseres do Reikai.\nHá uma divisão especial de Watashimori\ncujos membros são chamados de Shinigami (Deuses\nda Morte), que vêm a Ningenkai especificamente\npara capturar toda e qualquer criatura que tenha\nagido contra a harmonia do Mundo Espiritual, ou\nque tenha fugido de seu destino pós-morte."
@@ -2332,6 +3308,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         7
@@ -2342,7 +3325,14 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:watashimori",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-imortal-a-centelha-yamabushi",
@@ -2368,6 +3358,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         28,
@@ -2379,7 +3376,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:imortal-a-centelha:yamabushi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-yamabushi",
@@ -2387,7 +3390,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 19,
       "entries": [
         "As lendas japonesas contam a existência de\numa criatura chamada Tengu, temíveis e poderosos\nseres com características de corvos, os legendários\ncriadores dos Ninjas. São conhecidos não como\ntrapaceiros e aziagos da maneira como outros\nYoukais muitas vezes são vistos, e sim como sábios\nmestres e professores. Pessoas determinadas\nprocuram pelas montanhas mais inacessíveis por\nseus ensinamentos, que variam desde conhecimento\nmágico, marcial ou puro conhecimento sobre o\nsentido da vida.\nA origem exata de um Yamabushi ainda é\nobscura, com algumas teorias levantadas por seres\nde meio século de idade. Muitos dos humanos que\naventuram-se em busca do ensinamento dos Tengu\nnão voltam mais, sendo esta uma das alternativas:\neles não encontram Tengu algum, mas tornam-se\nYamabushi ao atingirem o pico de uma montanha\napós tal jornada catártica; ou então, realmente um\nTengu pode dar a imortalidade a um humano que a\ndeseje."
@@ -2404,6 +3407,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         19
@@ -2414,7 +3424,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:yamabushi",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "raca-youkai-kyuukai-youma",
@@ -2422,7 +3438,7 @@
       "area": "linhagens",
       "category": "race_lineage",
       "source": "youkai-kyuukai",
-      "sourceTitle": "Youkai_Kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
       "page": 7,
       "entries": [
         "Da mesma forma que os Demônios do\nOcidente, os Demônios Orientais possuem diversas\norigens. Outro ponto semelhante é a presença de\nvárias Fraquezas relativas às religiões\n(principalmente o Budismo, o Xintoísmo e o\nXamanismo Cambojano). Todos eles habitam o\nJigoku.\nDiferente do Inferno do Triunvirato\n(Shaitan, Lúcifer e Bhaalzebub), o Jigoku é repleto\nde pequenos territórios liderados por grandes\nLordes Infernais chamados Reis Yama. Alguns dos\nReis Yama mais poderosos e temidos incluem Yan-\nLo, Rangda, Ravana, Emma-o, Lai-Zen, Debiruh,\no Suserano Errante e Izanami. Ainda há muitos\noutros nesta região do Reikai que também é\nchamada de “1000 Infernos”."
@@ -2437,6 +3453,13 @@
       ],
       "confidence": 0.8,
       "extractionMethod": "source-specific-race-lineage-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "character_option",
+      "contentKindLabel": "Opção de personagem",
       "subtype": "linhagem",
       "pages": [
         7
@@ -2447,7 +3470,13 @@
       "lockedArea": "linhagens",
       "certificationId": "linhagem-lock:youkai-kyuukai:youma",
       "certificationMethod": "race-lineage-explicit-context-pass-1",
-      "raceContext": "source-specific-race-lineage"
+      "raceContext": "source-specific-race-lineage",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     }
   ],
   "sourceParts": []

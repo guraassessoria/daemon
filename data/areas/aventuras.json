@@ -6,6 +6,398 @@
   "entityCount": 12,
   "sourcePartCount": 44,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "daemon-medieval",
+        "title": "Daemon Medieval",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
+      },
+      {
+        "id": "demonios-a-divina-comedia",
+        "title": "Demônios - A Divina Comédia",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 3
+      },
+      {
+        "id": "a-assassina",
+        "title": "A Assassina",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 5
+      },
+      {
+        "id": "abismo",
+        "title": "Abismo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "abismo-infinito-quick-start",
+        "title": "Abismo-Infinito-Quick-Start",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 19
+      },
+      {
+        "id": "alastores-a-justica-infernal",
+        "title": "Alastores - A Justica Infernal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "atributos",
+        "title": "Atributos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
+      },
+      {
+        "id": "cabala-2",
+        "title": "Cabala",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "charadas",
+        "title": "Charadas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "conan",
+        "title": "conan",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "daemon-revisado-playtest-alfa-3-6",
+        "title": "Daemon Revisado playtest alfa 3.6",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "energia-mistica",
+        "title": "Energia Mistica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "evolucao-alternativa",
+        "title": "Evolução Alternativa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "livrodomal",
+        "title": "livrodomal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "lobisomemv3",
+        "title": "LobisomemV3",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "modulo-combate",
+        "title": "Módulo Combate",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
+      },
+      {
+        "id": "onmyodo",
+        "title": "Onmyodo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "oriente-cronologia",
+        "title": "Oriente Cronologia",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "trevas-campanha-epica",
+        "title": "Trevas - Campanha Épica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 6
+      },
+      {
+        "id": "trevas-de-marte",
+        "title": "Trevas de Marte",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 2
+      },
+      {
+        "id": "trevas-do-oriente-28-palacios",
+        "title": "Trevas do oriente - 28 Palácios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 1
+      },
+      {
+        "id": "universo-daemon-01",
+        "title": "Universo Daemon #01",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "venenos",
+        "title": "venenos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "equipment_items",
+        "sourceFamilyLabel": "Equipamentos, armas e itens",
+        "count": 1
+      },
+      {
+        "id": "yuyu-hakusho-rpg-para-daemon",
+        "title": "yuyu hakusho RPG para Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": "adventure",
+        "count": 7
+      },
+      {
+        "id": "attribute_skill",
+        "count": 4
+      },
+      {
+        "id": "character_option",
+        "count": 2
+      },
+      {
+        "id": "combat",
+        "count": 5
+      },
+      {
+        "id": "core_rule",
+        "count": 10
+      },
+      {
+        "id": "creature_npc",
+        "count": 12
+      },
+      {
+        "id": "item_equipment",
+        "count": 3
+      },
+      {
+        "id": "kit_class",
+        "count": 2
+      },
+      {
+        "id": "power_magic",
+        "count": 5
+      },
+      {
+        "id": "race_lineage",
+        "count": 1
+      },
+      {
+        "id": "setting_lore",
+        "count": 3
+      },
+      {
+        "id": "source",
+        "count": 2
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "adventure_scene",
+        "count": 17
+      },
+      {
+        "id": "combat_maneuver",
+        "count": 2
+      },
+      {
+        "id": "creature_npc",
+        "count": 1
+      },
+      {
+        "id": "front_matter",
+        "count": 2
+      },
+      {
+        "id": "item_equipment",
+        "count": 5
+      },
+      {
+        "id": "lore_world",
+        "count": 3
+      },
+      {
+        "id": "organization_faction",
+        "count": 3
+      },
+      {
+        "id": "raw_chapter_block",
+        "count": 12
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 11
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 4
+      },
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 52
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
+        "count": 25
+      },
+      {
+        "id": "setting_lore",
+        "label": "Cenários, lore e organizações",
+        "count": 3
+      },
+      {
+        "id": "equipment_items",
+        "label": "Equipamentos, armas e itens",
+        "count": 1
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 4
+      },
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 19
+      }
+    ],
+    "areas": [
+      {
+        "id": "aventuras",
+        "count": 56
+      }
+    ]
+  },
   "entities": [
     {
       "id": "a-assassina",
@@ -28,7 +420,18 @@
         "urbano"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "argos",
@@ -50,7 +453,20 @@
         "nave"
       ],
       "confidence": 0.72,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "abismo-cenas",
@@ -72,7 +488,18 @@
         "resolucao"
       ],
       "confidence": 0.84,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "despertar",
@@ -93,7 +520,18 @@
         "horror-espacial"
       ],
       "confidence": 0.86,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "redencao",
@@ -115,7 +553,18 @@
         "redencao"
       ],
       "confidence": 0.86,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "ferimentos",
@@ -137,7 +586,18 @@
         "ferimentos"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "combat_maneuver",
+      "contentKindLabel": "Combate ou manobra",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "funny-club",
@@ -158,7 +618,18 @@
         "urbano"
       ],
       "confidence": 0.8,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "hiperions",
@@ -180,7 +651,20 @@
         "nave"
       ],
       "confidence": 0.72,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "males-do-espaco",
@@ -203,7 +687,18 @@
         "perigo"
       ],
       "confidence": 0.88,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "combat_maneuver",
+      "contentKindLabel": "Combate ou manobra",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "manifestacoes-dos-medos",
@@ -227,7 +722,18 @@
         "sonho"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "mestre-do-espaco",
@@ -248,7 +754,18 @@
         "regras-basicas"
       ],
       "confidence": 0.9,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
     },
     {
       "id": "prometeus",
@@ -269,7 +786,20 @@
         "nave"
       ],
       "confidence": 0.72,
-      "extractionMethod": "manual-pass-1"
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     }
   ],
   "sourceParts": [
@@ -289,17 +819,33 @@
       ],
       "page": 2,
       "summary": "Sequencia de crimes com cenas, vitimas, bilhetes, ligacoes, possiveis evidencias e calendario de eventos.",
-      "entityRefs": [
-        "augusta-hell",
-        "christine-valkien",
-        "kelly-hopkins"
-      ],
+      "entityRefs": [],
       "tags": [
         "adventure",
         "aventuras"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "a-assassina--a-assassina-adventure",
@@ -325,7 +871,27 @@
         "aventuras"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "a-assassina--a-assassina-experience",
@@ -345,7 +911,28 @@
         "core_rule"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo--abismo-filhos-renegados",
@@ -362,20 +949,35 @@
       ],
       "page": null,
       "summary": "Descricao de Infernun, sete fortalezas, panteoes sobreviventes e o Inferno, incluindo Dilmun, Ilhuicatliltic, Hanan Pacha e orientacoes de uso em campanha.",
-      "entityRefs": [
-        "sete-fortalezas",
-        "panteoes-sobreviventes",
-        "dilmun",
-        "ilhuicatliltic",
-        "hanan-pacha",
-        "inferno"
-      ],
+      "entityRefs": [],
       "tags": [
         "aventuras",
         "setting_lore"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-front-matter",
@@ -397,7 +999,29 @@
         "source"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-introduction",
@@ -420,7 +1044,27 @@
         "core_rule"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-rules-scenes",
@@ -445,7 +1089,27 @@
         "core_rule"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-protagonist-genesis",
@@ -471,7 +1135,27 @@
         "character_option"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-roles",
@@ -488,24 +1172,33 @@
       ],
       "page": 24,
       "summary": "Cargos de astronauta/protagonista como astrogeologo, engenheiro, cosmologo, criptologo, navegador, exobiologo, medico, psicologo, seguranca e videomaker.",
-      "entityRefs": [
-        "astrogeologo",
-        "engenheiro",
-        "cosmologo",
-        "criptologo",
-        "navegador",
-        "exobiologo",
-        "medico",
-        "psicologo",
-        "seguranca",
-        "videomaker"
-      ],
+      "entityRefs": [],
       "tags": [
         "aventuras",
         "kit_class"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-trauma-stress",
@@ -526,17 +1219,34 @@
       "summary": "Regras psicologicas de trauma, estresse, medo particular, loucura do espaco, sonolencia, olvidamento, camadas de sonhos, controle do sonho e perda de ancoras.",
       "entityRefs": [
         "trauma",
-        "estresse",
-        "olvidamento",
-        "camadas-de-sonhos",
-        "controle-do-sonho"
+        "estresse"
       ],
       "tags": [
         "aventuras",
         "character_option"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-fear-manifestations",
@@ -560,7 +1270,27 @@
         "creature_npc"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-story-structure",
@@ -585,7 +1315,28 @@
         "aventuras"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "abismo-infinito-quick-start--abismo-character-sheet",
@@ -605,7 +1356,27 @@
         "source"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "alastores-a-justica-infernal--alastores-cacada",
@@ -622,19 +1393,33 @@
       ],
       "page": null,
       "summary": "Procedimentos de Cacada, Vigiluns, Agmens, Coenobium, Cacada Perigosa e Veniam Peto.",
-      "entityRefs": [
-        "cacada-alastor",
-        "vigiluns",
-        "agmens",
-        "coenobium",
-        "veniam-peto"
-      ],
+      "entityRefs": [],
       "tags": [
         "adventure",
         "aventuras"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "atributos--atributos-atributos-3",
@@ -655,7 +1440,29 @@
         "aventuras"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "cabala-2--cabala-2-apresentando-1",
@@ -675,7 +1482,27 @@
         "core_rule"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "charadas--charadas-charadas-1-0-2",
@@ -695,7 +1522,29 @@
         "core_rule"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-21",
@@ -715,7 +1564,29 @@
         "aventuras"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-criacao-de-personagens-4",
@@ -723,7 +1594,7 @@
       "area": "aventuras",
       "category": "attribute_skill",
       "source": "daemon-revisado-playtest-alfa-3-6",
-      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "sourceTitle": "Daemon Revisado playtest alfa 3.6",
       "pages": [
         4
       ],
@@ -736,7 +1607,30 @@
         "aventuras"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-antuerpia-78",
@@ -760,7 +1654,25 @@
         "criaturas_npcs"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-o-clube-legerdemans-82",
@@ -784,7 +1696,27 @@
         "criaturas_npcs"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106",
@@ -805,7 +1737,28 @@
         "criaturas_npcs"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "energia-mistica--energia-mistica-suplemento-para-rpg-daemon-2",
@@ -828,7 +1781,27 @@
         "power_magic"
       ],
       "confidence": 0.88,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3",
@@ -851,7 +1824,31 @@
         "core_rule"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "lobisomemv3--lobisomemv3-a-origem-4",
@@ -874,7 +1871,27 @@
         "creature_npc"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "modulo-combate--modulo-combate-editorial-2",
@@ -882,7 +1899,7 @@
       "area": "aventuras",
       "category": "combat",
       "source": "modulo-combate",
-      "sourceTitle": "MÓDULO COMBATE",
+      "sourceTitle": "Módulo Combate",
       "pages": [
         2
       ],
@@ -895,7 +1912,29 @@
         "combate"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "onmyodo--onmyodo-consideracoes-2",
@@ -915,7 +1954,27 @@
         "race_lineage"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "oriente-cronologia--oriente-cronologia-consideracoes-2",
@@ -923,7 +1982,7 @@
       "area": "aventuras",
       "category": "setting_lore",
       "source": "oriente-cronologia",
-      "sourceTitle": "Oriente_Cronologia",
+      "sourceTitle": "Oriente Cronologia",
       "pages": [
         2
       ],
@@ -935,7 +1994,27 @@
         "setting_lore"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-agradecimentos-7",
@@ -958,7 +2037,30 @@
         "power_magic"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-1",
@@ -981,7 +2083,30 @@
         "combat"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-1",
@@ -1004,7 +2129,29 @@
         "creature_npc"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-3",
@@ -1028,7 +2175,29 @@
         "criaturas_npcs"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-matei-16-4",
@@ -1051,7 +2220,29 @@
         "creature_npc"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-veneravel-druida-senta-se-ao-66",
@@ -1074,7 +2265,104 @@
         "combat"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-conduzindo-uma-campanha-de-horror-espacial-40",
+      "name": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas de Marte",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL Ao conduzir uma campanha que envolva viagens espaciais ou, no caso do cenário de Arkanun-Trevas, extraorbitais ou transaethéricas, é fundamental saber utilizar os principais elementos que induzirão às sensações de horror sem esquecer que ainda deve haver detalhes de ficção científica para os personagens lidarem. Ent...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-de-marte--trevas-de-marte-aventuras-envolvendo-marte-41",
+      "name": "AVENTURAS ENVOLVENDO MARTE",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "trevas-de-marte",
+      "sourceTitle": "Trevas de Marte",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "AVENTURAS ENVOLVENDO MARTE Caçada aos Homenzinhos Verdes Em qualquer época, pequenos seres verdes são relatados como vultos que aparecem em locais isolados, geralmente se escondendo com o mesmo medo que as pessoas demonstram por eles. Sejam caçadores de monstros, inquisidores da Igreja ou até investigadores de agências governamentais, quando uma dessas criat...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-consideracoes-2",
@@ -1094,48 +2382,27 @@
         "power_magic"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-de-marte--trevas-de-marte-conduzindo-uma-campanha-de-horror-espacial-40",
-      "name": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-de-marte",
-      "sourceTitle": "Trevas_de_Marte",
-      "pages": [
-        40
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "page": 40,
-      "summary": "CONDUZINDO UMA CAMPANHA DE HORROR ESPACIAL Ao conduzir uma campanha que envolva viagens espaciais ou, no caso do cenário de Arkanun-Trevas, extraorbitais ou transaethéricas, é fundamental saber utilizar os principais elementos que induzirão às sensações de horror sem esquecer que ainda deve haver detalhes de ficção científica para os personagens lidarem. Ent...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc"
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
-    },
-    {
-      "id": "trevas-de-marte--trevas-de-marte-aventuras-envolvendo-marte-41",
-      "name": "AVENTURAS ENVOLVENDO MARTE",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "trevas-de-marte",
-      "sourceTitle": "Trevas_de_Marte",
-      "pages": [
-        41
-      ],
-      "page": 41,
-      "summary": "AVENTURAS ENVOLVENDO MARTE Caçada aos Homenzinhos Verdes Em qualquer época, pequenos seres verdes são relatados como vultos que aparecem em locais isolados, geralmente se escondendo com o mesmo medo que as pessoas demonstram por eles. Sejam caçadores de monstros, inquisidores da Igreja ou até investigadores de agências governamentais, quando uma dessas criat...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "universo-daemon-01--universo-daemon-01-no-h-9",
@@ -1155,7 +2422,27 @@
         "core_rule"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "conan--conan-capitulo-i-14",
@@ -1178,7 +2465,30 @@
         "power_magic"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "conan--conan-passado-4",
@@ -1201,7 +2511,27 @@
         "creature_npc"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "livrodomal--livrodomal-janos-audren-24",
@@ -1224,7 +2554,27 @@
         "kit_class"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "livrodomal--livrodomal-nota-dos-autores-26",
@@ -1244,7 +2594,27 @@
         "core_rule"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "venenos--venenos-guia-de-venenos-medievais-para-daemon-1",
@@ -1265,7 +2635,27 @@
         "aventuras"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "equipment_items",
+      "sourceFamilyLabel": "Equipamentos, armas e itens",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-historico-do-anime-3",
@@ -1273,7 +2663,7 @@
       "area": "aventuras",
       "category": "power_magic",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         [
           3,
@@ -1288,7 +2678,27 @@
         "power_magic"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     }
   ]
 }

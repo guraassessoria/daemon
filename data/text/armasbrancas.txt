@@ -1,0 +1,151 @@
+--- page 1 ---
+Armas Brancas:
+Manual de Instruções
+A perícia de Armas Brancas deve ser tratada da
+seguinte maneira: ataque/defesa.
+Armas Brancas
+1. Espadas (DEX/DEX)
+2. Facas (DEX/DEX)
+3. Adagas (DEX/DEX)
+4. Punhais (DEX/DEX)
+5. Manguais (DEX/DEX)
+6. Martelos (DEX/DEX)
+7. Machados (DEX/DEX)
+8. Maças (DEX/DEX)
+9. Lanças (DEX/DEX)
+PRA’s
+O que vem a ser PRA?
+PRA (Pontos de Resistência da Arma) é uma espesse
+de PV’s das armas, escudos ou armaduras. O PRA vai diminuido
+de acordo com dano excedente ao dano da espada.
+Ex: Erik, um guerriro Viking, ataca com toda a sua
+fúria Mark, um corsário inglês. Portando um machado bárbaro
+(1d10) Erik acerta o golpe crítico causando 23
+(2d10+FOR+PH) pontos de dano mas Mark usa sua perícia
+de defesa e defende o golpe com seu sabre (1d6) cusando
+apenas 1 de dano, com isso o sabre de Mark é totalmente
+destruído por Erik.
+Como o sabre foi destruído?
+Consultando a tabela veremos que o sabre de Mark
+possui 21 PRA’s (1d6), e levou 24 pontos de dano na espada
+(Ataque/25 - 1/defesa) zerando suas PRA’s.
+Quando a arma é danificada?
+Toda vez em que há um ataque. Se o dano de ataque  for
+maior que o dano de defesa o defensor perde as PRA’s, se o
+dano de defesa for maior que o de ataque, quem perde é o atacante.
+1
+Dano
+Destruído
+1d3
+1d4
+1d4+1
+1d6
+1d6+1
+1d8
+1d8+1
+1d10
+1d10+1
+2d6
+2d6+1
+PRA
+0
+6
+10
+15
+21
+28
+36
+45
+55
+66
+78
+91
+Utilizando a Tabela
+Sempre que se atacar um escudo ou armadura e o
+dano for inferior ao IP do escudo ou armadura. O IP excedente
+ao golpe é considerado dano de defesa.
+Sempre que houver erro crítico em ataque. Rola-se o
+dano, soma-se os bônus e esse dano total é dado direto nas
+PRA’s.
+Ex: Se Mark tivesse conseguido 6 de dano de defesa
+ao invés de 1, o que aconteceria? O dano do sabre passaria a
+ser 1d3. Por quê? Porque consultando a tabela veremos que
+o sabre de Mark possui 21 PRA’s (1d6), e levaria 19 pontos
+de dano na espada (Ataque/25 - 6/defesa) ficando com 2
+PRA’s  e consultando a tabela veremos que o dano do sabre
+agora passou a ser 1d3.
+Manobras de Combate
+Arremesso de Armas (30)
+Esta manobra permite que arremesse uma arma que
+não é feita normalmente para arremessar, como espadas e
+martelos, quando numa atitude desesperada o personagem quer
+acerta um oponente lançando sua arma, neste caso ele faz um
+teste de ataque normal sem penalidades, em caso de falha ele
+joga sua arma longe do alvo, (Esta manobra não concede bônus
+em armas feitas exclusivamente para  arremesso como
+shurikens e facas de arremesso, mas pode funcionar em facas
+e machados por exemplo).
+Ataque Carregado (80)
+Seu personagem perde o turno, mas realiza um ataque
+com um penalidade de –30% e causa dano dobrado (como se
+tivesse alcançado um índice critico), mas ao fazer este ataque
+recebe um dano de impacto 1 mais o equivalente ao seu bônus
+de dano.
+Ataque de Cólera (60)
+Seu personagem faz um ataque com sua força contra
+um oponente, essa perícia só pode ser usada quando o
+personagem estiver nervoso ele sofre uma penalidade em
+–10% em defesa e ataque e recebe +4 nos danos.
+Ataque Giratório com Arma (60)
+Seu personagem faz um ataque com o bônus de +10%
+para cada oponente e causa –1 ponto de dano para cada
+oponente, a parte boa é que com o ataque giratório sua defesa
+não precisa ser divida para vários oponentes, isto se dá por
+causa que é difícil atacar enquanto está manobra é usada.
+Ataque Montado (40)
+Seu personagem quando atacar com sua arma ganha
++4 nos seus ataques enquanto estiver montado.
+Corte Duplo (40)
+Seu personagem pode realizar 2 ataques no seu turno,
+mas faz um só teste com o redutor de 40%, se tiver a manobra
+com duas armas, o redutor será de 30%, (se tiver o
+aprimoramento ambidestro a penalidade baixa para 20%).
+
+
+--- page 2 ---
+2
+Junior_Jr
+junior_jr_rj@hotmail.com
+Estocada (70)
+Seu personagem faz um ataque direto num ponto
+fatal do oponente, ele realiza um teste de ataque com a metade
+do valor, mas dobra o dano de sua arma e em caso de índice
+critico o dano será de 3x o dano normal.
+Foco (10+)
+Seu personagem possui uma afinidade especial com
+um típico específico de arma (ex.: espada curta), isso pode
+ser por que ele mesmo construi a arma ou é de família ou
+específica de um clã ou raça, e por isso conhece seu fio e a
+melhor forma de manusea-la, causando 1ponto de dano a
+mais do que a arma causa normalmente a cada 10% nesta
+manobra, até o máximo de 100%.
+Garrote (30)
+Seu personagem consegue prender seu oponente com
+sua arma, ele deve fazer um teste
+do valor de ataque com a arma para conseguir manter o
+personagem preso, e a cada turno a vítima
+leva 1d6 de dano por sufocamento por turno.
+Lutar com Duas Armas (50)
+O personagem é capaz de lutar com duas armas,
+desde que sejam do mesmo tipo e uma delas seja menor que a
+outra. Para usar cada arma é feito o Teste individualmente.
+Saque Rápido (30)
+Caso ganhe a iniciativa pode sacar a arma e atacar
+no mesmo turno.
+Agradecimentos:
+Ao meu Pai e a minha Mãe que me botaram no mundo.
+Aos meus amigos do grupo de RPG (Fernando, Jeffersson,
+Jonathan, Thadeu, Gabriel, Gabriel e ao meu irmão Jainor)
+Ao Del Debbio que desenvolveu o Sistema Daemon.
+Por favor me mandem e-mail’s dizendo o que vocês
+acharam desse Net-Book.

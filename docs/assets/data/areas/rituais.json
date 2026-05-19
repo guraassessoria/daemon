@@ -6,6 +6,498 @@
   "entityCount": 28,
   "sourcePartCount": 60,
   "subgroups": [],
+  "filters": {
+    "sources": [
+      {
+        "id": "daemon-medieval",
+        "title": "Daemon Medieval",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
+      },
+      {
+        "id": "demonios-a-divina-comedia",
+        "title": "Demônios - A Divina Comédia",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 4
+      },
+      {
+        "id": "alastores-a-justica-infernal",
+        "title": "Alastores - A Justiça Infernal",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 7
+      },
+      {
+        "id": "anjos-jyhad-faces-da-fe",
+        "title": "Anjos Jyhad - Faces da Fé",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "anjos-requiem-de-fe",
+        "title": "Anjos - Réquiem de Fé",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "arte-da-guerra",
+        "title": "Arte da Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "avatar-volume-1",
+        "title": "avatar volume 1",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "cabala-2",
+        "title": "Cabala",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "caminhos2",
+        "title": "Caminhos2",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "ceifadores",
+        "title": "ceifadores",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "charadas",
+        "title": "Charadas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "cura",
+        "title": "cura",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "daemon-revisado-playtest-alfa-3-6",
+        "title": "Daemon Revisado playtest alfa 3.6",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "deform",
+        "title": "deform",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "demon-cthulhu",
+        "title": "Demon Cthulhu",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "dragoes-reis-caidos-sistema-daemon",
+        "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
+      },
+      {
+        "id": "energia-mistica",
+        "title": "Energia Mistica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "etruscos",
+        "title": "Etruscos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "fadadaluz",
+        "title": "fadadaluz",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "gigantes-mitologicos",
+        "title": "Gigantes Mitologicos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "grimark201",
+        "title": "grimark201",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 10
+      },
+      {
+        "id": "grimorio101",
+        "title": "Grimorio101",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 3
+      },
+      {
+        "id": "guiademagias",
+        "title": "guiademagias",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "lobisomens",
+        "title": "lobisomens",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "magia-negra",
+        "title": "Magia Negra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 4
+      },
+      {
+        "id": "manual-de-converscao",
+        "title": "Manual de Conversção",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "mitraismo",
+        "title": "Mitraísmo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 1
+      },
+      {
+        "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "title": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "novos-poderes-para-fadas-e-fadas-da-luz",
+        "title": "Novos poderes para fadas e fadas da Luz",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "os-caminhos-secundarios",
+        "title": "Os Caminhos Secundarios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
+      },
+      {
+        "id": "poderes-de-fe-02",
+        "title": "poderes de fe 02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "rituais",
+        "title": "rituais",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 12
+      },
+      {
+        "id": "secundarios",
+        "title": "secundarios",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
+      },
+      {
+        "id": "trevas-campanha-epica",
+        "title": "Trevas - Campanha Épica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 2
+      },
+      {
+        "id": "umbral-e-seus-vales",
+        "title": "Umbral e seus vales",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 1
+      },
+      {
+        "id": "yuyu-hakusho-rpg-para-daemon",
+        "title": "yuyu hakusho RPG para Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 4
+      }
+    ],
+    "categories": [
+      {
+        "id": "attribute_skill",
+        "count": 8
+      },
+      {
+        "id": "character_option",
+        "count": 2
+      },
+      {
+        "id": "combat",
+        "count": 6
+      },
+      {
+        "id": "core_rule",
+        "count": 8
+      },
+      {
+        "id": "creature_npc",
+        "count": 12
+      },
+      {
+        "id": "kit_class",
+        "count": 1
+      },
+      {
+        "id": "power_magic",
+        "count": 18
+      },
+      {
+        "id": "ritual_spell",
+        "count": 31
+      },
+      {
+        "id": "setting_lore",
+        "count": 2
+      }
+    ],
+    "subtypes": [
+      {
+        "id": "creature_npc",
+        "count": 2
+      },
+      {
+        "id": "item_equipment",
+        "count": 2
+      },
+      {
+        "id": "lore_world",
+        "count": 3
+      },
+      {
+        "id": "organization_faction",
+        "count": 8
+      },
+      {
+        "id": "power_spell",
+        "count": 42
+      },
+      {
+        "id": "raw_chapter_block",
+        "count": 10
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 21
+      }
+    ],
+    "sourceKinds": [
+      {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 5
+      },
+      {
+        "id": "supplement",
+        "label": "Suplemento de jogo/campanha",
+        "count": 83
+      }
+    ],
+    "sourceFamilies": [
+      {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 4
+      },
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
+        "count": 2
+      },
+      {
+        "id": "setting_lore",
+        "label": "Cenários, lore e organizações",
+        "count": 11
+      },
+      {
+        "id": "myth_history",
+        "label": "Mitologia, história e religião",
+        "count": 1
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 5
+      },
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 31
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 1
+      },
+      {
+        "id": "supplement_misc",
+        "label": "Suplementos gerais",
+        "count": 33
+      }
+    ],
+    "areas": [
+      {
+        "id": "rituais",
+        "count": 88
+      }
+    ]
+  },
   "entities": [
     {
       "id": "ritual-rituais-absorcao-de-energia",
@@ -29,6 +521,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         1
@@ -39,7 +538,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:absorcao-de-energia",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-absorcao-de-energia-avancada",
@@ -63,6 +568,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         1
@@ -73,7 +585,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:absorcao-de-energia-avancada",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-absorcao-de-magia",
@@ -98,6 +617,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         2
@@ -108,7 +634,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:absorcao-de-magia",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-cabala-2-banimento-sombrio",
@@ -133,6 +666,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         19
@@ -143,7 +683,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:cabala-2:banimento-sombrio",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-cauda-aos-mortos",
@@ -167,6 +713,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         10
@@ -177,7 +730,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:cauda-aos-mortos",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-contactar-arkanun",
@@ -200,6 +759,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         7
@@ -210,7 +776,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:contactar-arkanun",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-contactar-madelein-anjo-dos-sonhos",
@@ -233,6 +807,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         7
@@ -243,7 +824,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:contactar-madelein-anjo-dos-sonhos",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-alastores-a-justica-infernal-convocar-duinum",
@@ -266,6 +855,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         36
@@ -276,7 +872,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-duinum",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-book-part,ritual-term"
+      "ritualContext": "ritual-book-part,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-alastores-a-justica-infernal-convocar-lukhavim",
@@ -299,6 +902,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         36
@@ -309,7 +919,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:convocar-lukhavim",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-book-part,ritual-term"
+      "ritualContext": "ritual-book-part,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-criar-metamagia-3",
@@ -333,6 +950,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         19,
@@ -344,7 +968,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:criar-metamagia-3",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-alastores-a-justica-infernal-dammant-indicium",
@@ -367,6 +998,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         36
@@ -377,7 +1015,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:dammant-indicium",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-book-part,ritual-term"
+      "ritualContext": "ritual-book-part,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-envelhecimento",
@@ -400,6 +1045,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         6,
@@ -411,7 +1063,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:envelhecimento",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-enxame-de-cranios",
@@ -435,6 +1093,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         7,
@@ -446,7 +1111,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:enxame-de-cranios",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-garras-aos-mortos",
@@ -470,6 +1141,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         11
@@ -480,7 +1158,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:garras-aos-mortos",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-guiademagias-humanos-animais-metamagia-1",
@@ -503,6 +1187,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         35,
@@ -514,7 +1205,16 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:guiademagias:humanos-animais-metamagia-1",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak",
+        "page_number_inside_text"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-insanidade",
@@ -537,6 +1237,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         12
@@ -547,7 +1254,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:insanidade",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-alastores-a-justica-infernal-ipsa-nomina",
@@ -570,6 +1285,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         37
@@ -580,7 +1302,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:ipsa-nomina",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-book-part,ritual-term"
+      "ritualContext": "ritual-book-part,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-magia-aos-mortos",
@@ -604,6 +1333,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         11
@@ -614,7 +1350,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:magia-aos-mortos",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-lobisomens-maldicao-de-licantropia",
@@ -636,6 +1379,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         3
@@ -646,7 +1396,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:lobisomens:maldicao-de-licantropia",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-lobisomens-oferenda-do-poder-negro",
@@ -669,6 +1426,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         3
@@ -679,7 +1443,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:lobisomens:oferenda-do-poder-negro",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-peste",
@@ -702,6 +1473,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         16
@@ -712,7 +1490,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:peste",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-portal-para-metropolis",
@@ -735,6 +1520,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         16,
@@ -746,7 +1538,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:portal-para-metropolis",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-regeneracao",
@@ -770,6 +1569,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         17
@@ -780,7 +1586,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:regeneracao",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-alastores-a-justica-infernal-sellas-locum",
@@ -803,6 +1617,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         37
@@ -813,7 +1634,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:sellas-locum",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-book-part,ritual-term"
+      "ritualContext": "ritual-book-part,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-transformacao-em-lich",
@@ -837,6 +1665,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         11,
@@ -848,7 +1683,14 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:transformacao-em-lich",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-troca-de-vida",
@@ -871,6 +1713,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         19
@@ -881,7 +1730,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:troca-de-vida",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-rituais-vida-em-morte",
@@ -903,6 +1760,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         13
@@ -913,7 +1777,13 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:vida-em-morte",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "dedicated-ritual-source,ritual-term"
+      "ritualContext": "dedicated-ritual-source,ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     },
     {
       "id": "ritual-grimark201-visoes-do-passado",
@@ -936,6 +1806,13 @@
       ],
       "confidence": 0.82,
       "extractionMethod": "auto-ritual-heading-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "subtype": "ritual",
       "pages": [
         20
@@ -946,7 +1823,15 @@
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:grimark201:visoes-do-passado",
       "certificationMethod": "ritual-explicit-context-mechanical-pass-1",
-      "ritualContext": "ritual-term"
+      "ritualContext": "ritual-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
     }
   ],
   "sourceParts": [
@@ -965,16 +1850,33 @@
       ],
       "page": null,
       "summary": "Origem da Ordem Cacadora dos Alastores, Alastor original, divisao do Inferno em circulos e credo Alastor.",
-      "entityRefs": [
-        "ordem-cacadora-dos-alastores",
-        "credo-alastor"
-      ],
+      "entityRefs": [],
       "tags": [
         "rituais",
         "setting_lore"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "alastores-a-justica-infernal--alastores-rituais",
@@ -1001,7 +1903,30 @@
         "ritual_spell"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "anjos-requiem-de-fe--anjos-requiem-de-fe-capitulo-dois-o-31",
@@ -1024,7 +1949,30 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-nipulacao-complexa-que-afeta-as-29",
@@ -1044,7 +1992,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "arte-da-guerra--arte-da-guerra-regras-chi-20",
@@ -1064,7 +2033,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "cabala-2--cabala-2-rituais-necromanticos-19",
@@ -1087,7 +2076,26 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "caminhos2--caminhos2-segundo-circulo-2",
@@ -1107,7 +2115,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "caminhos2--caminhos2-segundo-circulo-6",
@@ -1127,7 +2155,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "caminhos2--caminhos2-terceiro-circulo-12",
@@ -1148,7 +2196,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "caminhos2--caminhos2-quarto-circulo-15",
@@ -1168,7 +2236,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "charadas--charadas-tem-raizes-que-ninguem-ve-3",
@@ -1188,7 +2277,28 @@
         "ritual_spell"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-63",
@@ -1212,7 +2322,30 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-culturais-car-32",
@@ -1220,7 +2353,7 @@
       "area": "rituais",
       "category": "character_option",
       "source": "daemon-revisado-playtest-alfa-3-6",
-      "sourceTitle": "Daemon_Revisado_playtest_alfa_3.6",
+      "sourceTitle": "Daemon Revisado playtest alfa 3.6",
       "pages": [
         [
           32,
@@ -1235,7 +2368,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demon-cthulhu--demon-cthulhu-pagina-inicial-1-5",
@@ -1258,7 +2411,30 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-anjos-caidos-42",
@@ -1281,7 +2457,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-efeitos-magicos-127",
@@ -1304,7 +2500,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-death-knights-45",
@@ -1324,7 +2540,25 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-zumbis-103",
@@ -1344,7 +2578,25 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-62",
@@ -1367,7 +2619,29 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "energia-mistica--energia-mistica-forum-da-daemon-13",
@@ -1387,7 +2661,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "etruscos--etruscos-pode-se-perceber-a-situacao-pluriestratografica-33",
@@ -1410,7 +2705,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "gigantes-mitologicos--gigantes-mitologicos-protegida-41",
@@ -1433,7 +2749,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "grimorio101--grimorio101-grimorio-1-1",
@@ -1456,7 +2792,29 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "grimorio101--grimorio101-grimorio-1-2",
@@ -1479,7 +2837,31 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "grimorio101--grimorio101-grimorio-1-3",
@@ -1502,7 +2884,30 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "magia-negra--magia-negra-irmandade-de-tenebras-5",
@@ -1522,7 +2927,27 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "magia-negra--magia-negra-graus-6",
@@ -1542,7 +2967,27 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "magia-negra--magia-negra-graus-8",
@@ -1562,7 +3007,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "magia-negra--magia-negra-graus-10",
@@ -1582,7 +3048,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "manual-de-converscao--manual-de-converscao-invocacao-do-dragao-15",
@@ -1602,7 +3088,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "mitraismo--mitraismo-religioes-1",
@@ -1625,7 +3131,28 @@
         "setting_lore"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-controlar-humanos-1-spiritum-2-132",
@@ -1648,7 +3175,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-atravessassem-as-defesas-que-eles-98",
@@ -1672,7 +3220,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-chamada-de-terra-negra-coordenando-12",
@@ -1692,7 +3260,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "novos-poderes-para-fadas-e-fadas-da-luz--novos-poderes-para-fadas-e-fadas-da-luz-bencao-da-luz-5",
@@ -1712,7 +3300,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-2",
@@ -1720,7 +3328,7 @@
       "area": "rituais",
       "category": "core_rule",
       "source": "os-caminhos-secundarios",
-      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "sourceTitle": "Os Caminhos Secundarios",
       "pages": [
         2
       ],
@@ -1732,7 +3340,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "os-caminhos-secundarios--os-caminhos-secundarios-segundo-circulo-6",
@@ -1740,7 +3368,7 @@
       "area": "rituais",
       "category": "attribute_skill",
       "source": "os-caminhos-secundarios",
-      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "sourceTitle": "Os Caminhos Secundarios",
       "pages": [
         6
       ],
@@ -1752,7 +3380,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "os-caminhos-secundarios--os-caminhos-secundarios-terceiro-circulo-12",
@@ -1760,7 +3408,7 @@
       "area": "rituais",
       "category": "combat",
       "source": "os-caminhos-secundarios",
-      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "sourceTitle": "Os Caminhos Secundarios",
       "pages": [
         12
       ],
@@ -1773,7 +3421,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "os-caminhos-secundarios--os-caminhos-secundarios-quarto-circulo-15",
@@ -1781,7 +3449,7 @@
       "area": "rituais",
       "category": "power_magic",
       "source": "os-caminhos-secundarios",
-      "sourceTitle": "OS CAMINHOS SECUNDARIOS",
+      "sourceTitle": "Os Caminhos Secundarios",
       "pages": [
         15
       ],
@@ -1793,7 +3461,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-3",
@@ -1816,7 +3505,29 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "trevas-campanha-epica--trevas-campanha-epica-a-partir-de-spiritum-atingir-as-partes-129-4",
@@ -1839,7 +3550,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "umbral-e-seus-vales--umbral-e-seus-vales-as-localidades-umbralinas-5",
@@ -1862,7 +3594,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "avatar-volume-1--avatar-volume-1-como-usar-este-netbook-7",
@@ -1870,7 +3622,7 @@
       "area": "rituais",
       "category": "core_rule",
       "source": "avatar-volume-1",
-      "sourceTitle": "avatar_volume_1",
+      "sourceTitle": "avatar volume 1",
       "pages": [
         [
           7,
@@ -1885,7 +3637,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "ceifadores--ceifadores-khael-yorkaih-lider-espiritual-13",
@@ -1905,7 +3678,27 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "cura--cura-uivo-de-dor-8",
@@ -1928,7 +3721,27 @@
         "ritual_spell"
       ],
       "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "deform--deform-deformacoes-2",
@@ -1951,7 +3764,26 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "fadadaluz--fadadaluz-poderes-arcadianos-2",
@@ -1974,7 +3806,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "fadadaluz--fadadaluz-fada-da-luz-sistema-daemon-1",
@@ -1994,7 +3846,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "grimark201--grimark201-grimorio-1",
@@ -2017,7 +3889,28 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "lobisomens--lobisomens-lobisomem-verdadeiro-3",
@@ -2037,7 +3930,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "poderes-de-fe-02--poderes-de-fe-02-muito-20",
@@ -2057,7 +3971,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "rituais--rituais-asas-e-rabo-2pvs-9",
@@ -2080,7 +4014,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "rituais--rituais-garras-aos-mortos-11",
@@ -2103,7 +4058,27 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "secundarios--secundarios-encantando-cobras-na-verdade-um-antigo-20",
@@ -2126,7 +4101,28 @@
         "rituais"
       ],
       "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "secundarios--secundarios-caminhos-1",
@@ -2146,7 +4142,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "secundarios--secundarios-rituais-2",
@@ -2167,7 +4183,29 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-espiritualistas-9",
@@ -2175,7 +4213,7 @@
       "area": "rituais",
       "category": "core_rule",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         [
           9,
@@ -2190,7 +4228,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-novas-regras-26",
@@ -2198,7 +4257,7 @@
       "area": "rituais",
       "category": "core_rule",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         [
           26,
@@ -2213,7 +4272,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-guaxinim-2",
@@ -2221,7 +4300,7 @@
       "area": "rituais",
       "category": "core_rule",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         2
       ],
@@ -2233,7 +4312,28 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     },
     {
       "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-humanos-doutrinados-7",
@@ -2241,7 +4341,7 @@
       "area": "rituais",
       "category": "character_option",
       "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu_hakusho_RPG_para_Daemon",
+      "sourceTitle": "yuyu hakusho RPG para Daemon",
       "pages": [
         7
       ],
@@ -2253,7 +4353,27 @@
         "rituais"
       ],
       "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1"
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
     }
   ]
 }

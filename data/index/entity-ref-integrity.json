@@ -1,0 +1,730 @@
+{
+  "version": 1,
+  "summary": {
+    "entityIdCount": 1727,
+    "duplicateGlobalIdCount": 1,
+    "publishedRefCount": 36,
+    "brokenPublishedRefCount": 0,
+    "bookRefCount": 260,
+    "brokenBookRefCount": 178,
+    "duplicateRefInSameBlockCount": 0
+  },
+  "duplicateGlobalIds": {
+    "a-assassina": [
+      "data\\entities\\adventure.json#0",
+      "data\\entities\\source.json#1"
+    ]
+  },
+  "brokenPublishedRefs": [],
+  "brokenBookRefsTop": [
+    {
+      "ref": "poderes-animais",
+      "count": 2
+    },
+    {
+      "ref": "augusta-hell",
+      "count": 1
+    },
+    {
+      "ref": "christine-valkien",
+      "count": 1
+    },
+    {
+      "ref": "kelly-hopkins",
+      "count": 1
+    },
+    {
+      "ref": "astrogeologo",
+      "count": 1
+    },
+    {
+      "ref": "engenheiro",
+      "count": 1
+    },
+    {
+      "ref": "cosmologo",
+      "count": 1
+    },
+    {
+      "ref": "criptologo",
+      "count": 1
+    },
+    {
+      "ref": "navegador",
+      "count": 1
+    },
+    {
+      "ref": "exobiologo",
+      "count": 1
+    },
+    {
+      "ref": "medico",
+      "count": 1
+    },
+    {
+      "ref": "psicologo",
+      "count": 1
+    },
+    {
+      "ref": "seguranca",
+      "count": 1
+    },
+    {
+      "ref": "videomaker",
+      "count": 1
+    },
+    {
+      "ref": "olvidamento",
+      "count": 1
+    },
+    {
+      "ref": "camadas-de-sonhos",
+      "count": 1
+    },
+    {
+      "ref": "controle-do-sonho",
+      "count": 1
+    },
+    {
+      "ref": "abismo-livro",
+      "count": 1
+    },
+    {
+      "ref": "shaitan",
+      "count": 1
+    },
+    {
+      "ref": "ark-a-nun",
+      "count": 1
+    },
+    {
+      "ref": "terra-no-abismo",
+      "count": 1
+    },
+    {
+      "ref": "morada-de-demonios",
+      "count": 1
+    },
+    {
+      "ref": "alura",
+      "count": 1
+    },
+    {
+      "ref": "datringush",
+      "count": 1
+    },
+    {
+      "ref": "dekel-basemath",
+      "count": 1
+    },
+    {
+      "ref": "hrgash",
+      "count": 1
+    },
+    {
+      "ref": "kriene-lavi",
+      "count": 1
+    },
+    {
+      "ref": "llyanmakchi",
+      "count": 1
+    },
+    {
+      "ref": "mikoyel",
+      "count": 1
+    },
+    {
+      "ref": "parshallas",
+      "count": 1
+    },
+    {
+      "ref": "qua-trshr",
+      "count": 1
+    },
+    {
+      "ref": "shaemallast",
+      "count": 1
+    },
+    {
+      "ref": "tesf-kras-dul",
+      "count": 1
+    },
+    {
+      "ref": "malfas",
+      "count": 1
+    },
+    {
+      "ref": "mitzenli",
+      "count": 1
+    },
+    {
+      "ref": "pyros",
+      "count": 1
+    },
+    {
+      "ref": "tangaroa",
+      "count": 1
+    },
+    {
+      "ref": "zarich",
+      "count": 1
+    },
+    {
+      "ref": "kits-aprimorados-abismo",
+      "count": 1
+    },
+    {
+      "ref": "sacerdote-terreno",
+      "count": 1
+    },
+    {
+      "ref": "pacto-da-alma",
+      "count": 1
+    },
+    {
+      "ref": "culto-da-serpente-mae",
+      "count": 1
+    },
+    {
+      "ref": "circulo-dos-invocadores",
+      "count": 1
+    },
+    {
+      "ref": "escravos-do-alem-trevas",
+      "count": 1
+    },
+    {
+      "ref": "igreja-da-libertacao-das-almas",
+      "count": 1
+    },
+    {
+      "ref": "igreja-da-virgem-salvadora",
+      "count": 1
+    },
+    {
+      "ref": "o-lar",
+      "count": 1
+    },
+    {
+      "ref": "quinquagesimo-terceiro-culto",
+      "count": 1
+    },
+    {
+      "ref": "sete-fortalezas",
+      "count": 1
+    },
+    {
+      "ref": "panteoes-sobreviventes",
+      "count": 1
+    },
+    {
+      "ref": "dilmun",
+      "count": 1
+    },
+    {
+      "ref": "ilhuicatliltic",
+      "count": 1
+    },
+    {
+      "ref": "hanan-pacha",
+      "count": 1
+    },
+    {
+      "ref": "inferno",
+      "count": 1
+    },
+    {
+      "ref": "deterioracao-fisica",
+      "count": 1
+    },
+    {
+      "ref": "decadencia-espiritual",
+      "count": 1
+    },
+    {
+      "ref": "ahuizotl",
+      "count": 1
+    },
+    {
+      "ref": "balaf",
+      "count": 1
+    },
+    {
+      "ref": "devorador-disforme",
+      "count": 1
+    },
+    {
+      "ref": "djien",
+      "count": 1
+    },
+    {
+      "ref": "elnint",
+      "count": 1
+    },
+    {
+      "ref": "hamit",
+      "count": 1
+    },
+    {
+      "ref": "kenah-tzar-el",
+      "count": 1
+    },
+    {
+      "ref": "lupaprak",
+      "count": 1
+    },
+    {
+      "ref": "meo-zatu",
+      "count": 1
+    },
+    {
+      "ref": "parasita-de-alura",
+      "count": 1
+    },
+    {
+      "ref": "profundo",
+      "count": 1
+    },
+    {
+      "ref": "ren-alum",
+      "count": 1
+    },
+    {
+      "ref": "shaeraid",
+      "count": 1
+    },
+    {
+      "ref": "terror-dactilo",
+      "count": 1
+    },
+    {
+      "ref": "tufao-da-morte",
+      "count": 1
+    },
+    {
+      "ref": "tatzlwurm",
+      "count": 1
+    },
+    {
+      "ref": "verme-krizi",
+      "count": 1
+    },
+    {
+      "ref": "yara-ma-yha-who",
+      "count": 1
+    },
+    {
+      "ref": "auxiliares",
+      "count": 1
+    },
+    {
+      "ref": "templo-de-set",
+      "count": 1
+    },
+    {
+      "ref": "ordem-cacadora-dos-alastores",
+      "count": 1
+    },
+    {
+      "ref": "credo-alastor",
+      "count": 1
+    },
+    {
+      "ref": "cacada-alastor",
+      "count": 1
+    },
+    {
+      "ref": "vigiluns",
+      "count": 1
+    },
+    {
+      "ref": "agmens",
+      "count": 1
+    },
+    {
+      "ref": "coenobium",
+      "count": 1
+    },
+    {
+      "ref": "veniam-peto",
+      "count": 1
+    },
+    {
+      "ref": "jurisprudencia-infernal",
+      "count": 1
+    },
+    {
+      "ref": "templarios-caidos",
+      "count": 1
+    },
+    {
+      "ref": "cainismo-infernal",
+      "count": 1
+    },
+    {
+      "ref": "poderes-demoniacos-alastores",
+      "count": 1
+    },
+    {
+      "ref": "veredictum",
+      "count": 1
+    },
+    {
+      "ref": "forma-alastor",
+      "count": 1
+    },
+    {
+      "ref": "arrebate",
+      "count": 1
+    },
+    {
+      "ref": "alastor-majora",
+      "count": 1
+    },
+    {
+      "ref": "gathering",
+      "count": 1
+    },
+    {
+      "ref": "seddim",
+      "count": 1
+    },
+    {
+      "ref": "desvendando-o-sistema-daemon",
+      "count": 1
+    },
+    {
+      "ref": "strigoi",
+      "count": 1
+    },
+    {
+      "ref": "brujas",
+      "count": 1
+    },
+    {
+      "ref": "sabios",
+      "count": 1
+    },
+    {
+      "ref": "lamiai",
+      "count": 1
+    },
+    {
+      "ref": "ekimmus",
+      "count": 1
+    },
+    {
+      "ref": "vrikolakas",
+      "count": 1
+    },
+    {
+      "ref": "eretiks",
+      "count": 1
+    },
+    {
+      "ref": "arcadios",
+      "count": 1
+    },
+    {
+      "ref": "kamazots",
+      "count": 1
+    },
+    {
+      "ref": "kiang-shi",
+      "count": 1
+    },
+    {
+      "ref": "rakshasas",
+      "count": 1
+    },
+    {
+      "ref": "ghuls",
+      "count": 1
+    },
+    {
+      "ref": "controle-mental-ghul",
+      "count": 1
+    },
+    {
+      "ref": "transformacao-em-areia",
+      "count": 1
+    },
+    {
+      "ref": "transformacao-em-animais-ghul",
+      "count": 1
+    },
+    {
+      "ref": "transformacao-em-humanos-ghul",
+      "count": 1
+    },
+    {
+      "ref": "sentir-criaturas-ghul",
+      "count": 1
+    },
+    {
+      "ref": "olhar-da-morte",
+      "count": 1
+    },
+    {
+      "ref": "ras-al-ghul",
+      "count": 1
+    },
+    {
+      "ref": "feras",
+      "count": 1
+    },
+    {
+      "ref": "leis-dos-feras",
+      "count": 1
+    },
+    {
+      "ref": "furia-de-gaea",
+      "count": 1
+    },
+    {
+      "ref": "ciganos-dos-feras",
+      "count": 1
+    },
+    {
+      "ref": "despertar-da-fera",
+      "count": 1
+    },
+    {
+      "ref": "nagas",
+      "count": 1
+    },
+    {
+      "ref": "minotauros",
+      "count": 1
+    },
+    {
+      "ref": "licantropos",
+      "count": 1
+    },
+    {
+      "ref": "garudas",
+      "count": 1
+    },
+    {
+      "ref": "bastet",
+      "count": 1
+    },
+    {
+      "ref": "croatan",
+      "count": 1
+    },
+    {
+      "ref": "harpias",
+      "count": 1
+    },
+    {
+      "ref": "daemon-powers",
+      "count": 1
+    },
+    {
+      "ref": "natureza-dos-superpoderes",
+      "count": 1
+    },
+    {
+      "ref": "ideias-de-aventuras-supers",
+      "count": 1
+    },
+    {
+      "ref": "deflexao",
+      "count": 1
+    },
+    {
+      "ref": "forma-alternativa",
+      "count": 1
+    },
+    {
+      "ref": "jumper",
+      "count": 1
+    },
+    {
+      "ref": "heroi-hightech",
+      "count": 1
+    },
+    {
+      "ref": "velocista",
+      "count": 1
+    },
+    {
+      "ref": "mimico",
+      "count": 1
+    },
+    {
+      "ref": "hipercientista",
+      "count": 1
+    },
+    {
+      "ref": "mago-supers",
+      "count": 1
+    },
+    {
+      "ref": "necromante-supers",
+      "count": 1
+    },
+    {
+      "ref": "aprimoramentos-raciais-supers",
+      "count": 1
+    },
+    {
+      "ref": "supers-com-sobrenatural",
+      "count": 1
+    },
+    {
+      "ref": "magia-em-supers",
+      "count": 1
+    },
+    {
+      "ref": "mjolnir",
+      "count": 1
+    },
+    {
+      "ref": "espada-de-nuada",
+      "count": 1
+    },
+    {
+      "ref": "dyrnwyn",
+      "count": 1
+    },
+    {
+      "ref": "anel-de-eluned",
+      "count": 1
+    },
+    {
+      "ref": "tomo-negro-de-demogorge",
+      "count": 1
+    },
+    {
+      "ref": "regeneracao-vampirica",
+      "count": 1
+    },
+    {
+      "ref": "robotica-supers",
+      "count": 1
+    },
+    {
+      "ref": "psitecnologia",
+      "count": 1
+    },
+    {
+      "ref": "monstros-e-viloes-supers",
+      "count": 1
+    },
+    {
+      "ref": "agente-federal",
+      "count": 1
+    },
+    {
+      "ref": "agente-secreto",
+      "count": 1
+    },
+    {
+      "ref": "assaltante",
+      "count": 1
+    },
+    {
+      "ref": "assassino",
+      "count": 1
+    },
+    {
+      "ref": "cientista-maluco",
+      "count": 1
+    },
+    {
+      "ref": "cultista-supers",
+      "count": 1
+    },
+    {
+      "ref": "ninja-supers",
+      "count": 1
+    },
+    {
+      "ref": "terrorista-supers",
+      "count": 1
+    },
+    {
+      "ref": "aranha-gigante",
+      "count": 1
+    },
+    {
+      "ref": "cobra-venenosa",
+      "count": 1
+    },
+    {
+      "ref": "crocodilo-marinho",
+      "count": 1
+    },
+    {
+      "ref": "gorila-gigante",
+      "count": 1
+    },
+    {
+      "ref": "tubarao",
+      "count": 1
+    },
+    {
+      "ref": "urso",
+      "count": 1
+    },
+    {
+      "ref": "tiranossauro-rex",
+      "count": 1
+    },
+    {
+      "ref": "velociraptor",
+      "count": 1
+    },
+    {
+      "ref": "dragao-supers",
+      "count": 1
+    },
+    {
+      "ref": "elementais-supers",
+      "count": 1
+    },
+    {
+      "ref": "golem-supers",
+      "count": 1
+    },
+    {
+      "ref": "kraken",
+      "count": 1
+    },
+    {
+      "ref": "vampiro-supers",
+      "count": 1
+    },
+    {
+      "ref": "zumbi-supers",
+      "count": 1
+    },
+    {
+      "ref": "demonio-general",
+      "count": 1
+    },
+    {
+      "ref": "demonio-guerreiro",
+      "count": 1
+    },
+    {
+      "ref": "demonio-imp",
+      "count": 1
+    },
+    {
+      "ref": "demonio-succubus",
+      "count": 1
+    },
+    {
+      "ref": "robo-auxiliar",
+      "count": 1
+    },
+    {
+      "ref": "robo-de-combate",
+      "count": 1
+    }
+  ],
+  "duplicateRefsInSameBlock": []
+}
