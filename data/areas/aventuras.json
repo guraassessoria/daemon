@@ -2,12 +2,22 @@
   "version": 1,
   "id": "aventuras",
   "name": "Aventuras",
-  "readySourceCount": 190,
-  "entityCount": 12,
-  "sourcePartCount": 44,
+  "readySourceCount": 275,
+  "entityCount": 13,
+  "sourcePartCount": 76,
   "subgroups": [],
   "filters": {
     "sources": [
+      {
+        "id": "arkanun",
+        "title": "Arkanun",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 3
+      },
       {
         "id": "daemon-medieval",
         "title": "Daemon Medieval",
@@ -27,6 +37,26 @@
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
         "count": 3
+      },
+      {
+        "id": "guia-de-itens-magicos",
+        "title": "Guia de Itens Mágicos",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
+      },
+      {
+        "id": "spiritum",
+        "title": "Spiritum",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 5
       },
       {
         "id": "a-assassina",
@@ -66,6 +96,26 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "anime-rpg-powers",
+        "title": "Anime RPG - Powers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
+        "id": "arkanun-1e-ultra-raro",
+        "title": "Arkanun-1e-ultra-raro",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
         "count": 1
       },
       {
@@ -119,6 +169,16 @@
         "count": 1
       },
       {
+        "id": "daemon-tormenta",
+        "title": "Daemon Tormenta",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
         "id": "energia-mistica",
         "title": "Energia Mistica",
         "sourceKind": "supplement",
@@ -137,6 +197,26 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
+      },
+      {
+        "id": "hi-brazil-biblioteca-elfica",
+        "title": "Hi-brazil-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "inquisicao-biblioteca-elfica",
+        "title": "Inquisicao-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 4
       },
       {
         "id": "livrodomal",
@@ -159,6 +239,26 @@
         "count": 1
       },
       {
+        "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+        "title": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
+      },
+      {
+        "id": "marvel-rpg-7o-edicao",
+        "title": "MARVEL RPG 7º Edição",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
         "id": "modulo-combate",
         "title": "Módulo Combate",
         "sourceKind": "supplement",
@@ -167,6 +267,26 @@
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
         "count": 1
+      },
+      {
+        "id": "o-corvo",
+        "title": "O Corvo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "one-punch-man-rpg",
+        "title": "One Punch Man RPG",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
       },
       {
         "id": "onmyodo",
@@ -187,6 +307,36 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
+      },
+      {
+        "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+        "title": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "tagmar-daemon",
+        "title": "Tagmar Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
+        "id": "templarios-biblioteca-elfica",
+        "title": "Templarios-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 2
       },
       {
         "id": "trevas-campanha-epica",
@@ -217,6 +367,16 @@
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
         "count": 1
+      },
+      {
+        "id": "um-sussurro-nas-trevas",
+        "title": "Um Sussurro nas Trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 5
       },
       {
         "id": "universo-daemon-01",
@@ -252,11 +412,11 @@
     "categories": [
       {
         "id": "adventure",
-        "count": 7
+        "count": 10
       },
       {
         "id": "attribute_skill",
-        "count": 4
+        "count": 8
       },
       {
         "id": "character_option",
@@ -264,19 +424,19 @@
       },
       {
         "id": "combat",
-        "count": 5
+        "count": 7
       },
       {
         "id": "core_rule",
-        "count": 10
+        "count": 13
       },
       {
         "id": "creature_npc",
-        "count": 12
+        "count": 24
       },
       {
         "id": "item_equipment",
-        "count": 3
+        "count": 6
       },
       {
         "id": "kit_class",
@@ -284,15 +444,19 @@
       },
       {
         "id": "power_magic",
-        "count": 5
+        "count": 7
       },
       {
         "id": "race_lineage",
         "count": 1
       },
       {
+        "id": "ritual_spell",
+        "count": 2
+      },
+      {
         "id": "setting_lore",
-        "count": 3
+        "count": 5
       },
       {
         "id": "source",
@@ -302,7 +466,7 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 17
+        "count": 38
       },
       {
         "id": "combat_maneuver",
@@ -322,48 +486,56 @@
       },
       {
         "id": "lore_world",
-        "count": 3
+        "count": 5
+      },
+      {
+        "id": "ocr_noise",
+        "count": 1
       },
       {
         "id": "organization_faction",
-        "count": 3
+        "count": 6
       },
       {
         "id": "raw_chapter_block",
-        "count": 12
+        "count": 14
+      },
+      {
+        "id": "rule_mechanic",
+        "count": 1
       },
       {
         "id": "uncertain_fragment",
-        "count": 11
+        "count": 14
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 4
+        "count": 13
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 52
+        "count": 76
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 6
       },
       {
         "id": "campaign_adventure",
         "label": "Campanhas e aventuras",
-        "count": 25
+        "count": 30
       },
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 3
+        "count": 4
       },
       {
         "id": "equipment_items",
@@ -371,9 +543,14 @@
         "count": 1
       },
       {
+        "id": "myth_history",
+        "label": "Mitologia, história e religião",
+        "count": 2
+      },
+      {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 4
+        "count": 13
       },
       {
         "id": "powers_magic",
@@ -383,18 +560,18 @@
       {
         "id": "rules_system",
         "label": "Regras e sistema",
-        "count": 2
+        "count": 5
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 19
+        "count": 27
       }
     ],
     "areas": [
       {
         "id": "aventuras",
-        "count": 56
+        "count": 89
       }
     ]
   },
@@ -428,6 +605,38 @@
       "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "adventure_scene",
       "contentKindLabel": "Aventura, cena ou campanha",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "academias-de-super-herois",
+      "name": "Academias de super-herois",
+      "area": "aventuras",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 40,
+      "entries": [
+        "Estrutura para campanhas em academias de super-herois, com aulas, materias, grupos sociais, professores, punicoes e relacionamentos."
+      ],
+      "tags": [
+        "aventuras",
+        "campanha",
+        "escola",
+        "setting_lore",
+        "supers"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
       "qualityFlags": [],
       "qualitySeverity": "ok",
       "presentationStatus": "public",
@@ -1422,6 +1631,219 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "anime-rpg-powers--powers-eras-heroicas",
+      "name": "Eras Heroicas",
+      "area": "aventuras",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Discute eras de super-herois e tons de campanha como Era de Ouro, Prata, Bronze e Ferro.",
+      "entityRefs": [
+        "eras-heroicas"
+      ],
+      "tags": [
+        "aventuras",
+        "setting_lore"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-efempfarios-169",
+      "name": "êfempfários",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          169,
+          170
+        ]
+      ],
+      "page": null,
+      "summary": "êfempfários A presença de Templários é virtualmente nula nes­ ta região gelada. O máximo que as Ordens de Cavalaria chegaram no Norte foi na Alemanha, com a Ordem dos Cavaleiros Teu tônicos, e mesmo assim eles não chega­ ram nem próximo da região. Os únicos Cavaleiros que se aventuram pelas frias regiões são os Paladinos do Graal, que viajam o mundo levando...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-lnmoducc-o-132",
+      "name": "'lnmoduçc\\o",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        132
+      ],
+      "page": 132,
+      "summary": "'lnmoduçc\\o A ambientação é um dos maiores fatores de influência em uma boa Campanha de RPG. Quan­ to mais detalhado e vívido um cenário for, mai­ or a capacidade do Mestre de criçir e desenvol­ ver suas aventuras dentro deste cenário, Jazen­ do com que os Personàgens de seu grupo interajam com os NPcs de maneira mais realis­ ta e coerente. Descrever as prin...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-uuvs-pubucvcoes-237",
+      "name": "()uuvs pubücvçôes",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        237
+      ],
+      "page": 237,
+      "summary": "()uuvs pubücvçôes Anjos: Â Cidade de 9?rata Este RPG explica detalhadamente as cinco castas que habitam a Cidade de Prata, possibilitando a utilização dos Anjos tanto como Personagens quanto corno NPC's em sua Campanha: Corpore, os Anjos da Guarda; Protetore, os Anjos Cabalísticos; Captare, os Caçadores de Demônios; Recípere, os Negoci- - antes de Almas e Ni...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-como-49",
+      "name": "Como) )",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "arkanun-1e-ultra-raro",
+      "sourceTitle": "Arkanun-1e-ultra-raro",
+      "pages": [
+        [
+          49,
+          50
+        ]
+      ],
+      "page": null,
+      "summary": "Como) ) EXPERIÊNCIA E APRENDIZADO g $4| seu personagem foi o único sobrevivente de uma aventura. Dos outros quatro personagens, 2 [ || morreram, um ficou louco, e O último acabou aprisionado em Arkanun para sempre. Em um RPG Q A) de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os [ST A) jogadores que resistiram br...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "atributos--atributos-atributos-3",
       "name": "Atributos",
       "area": "aventuras",
@@ -1627,6 +2049,48 @@
         "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-2",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (11-20)",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "daemon-tormenta",
+      "sourceTitle": "Daemon Tormenta",
+      "pages": [
+        [
+          11,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Passo 2: Passado Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Números não são importantes, o importante é criar um Personagem coerente. Escolha um nome, idad...",
+      "entityRefs": [],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -1851,6 +2315,264 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "guia-de-itens-magicos--guia-de-itens-magicos-a-temperanl-248",
+      "name": "A Temperanl'\"",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "guia-de-itens-magicos",
+      "sourceTitle": "Guia de Itens Mágicos",
+      "pages": [
+        [
+          248,
+          249
+        ]
+      ],
+      "page": null,
+      "summary": "A Temperanl'\" Arcano Quatorze (Samekh) Significa acordos ou comprometimentos. Este Arcana indica quea soluc;ao para a Aventura reside em urn acardo, e dificilmente 0 problema sent solucionado de Qutra maneira. o Diabo Arcana Quinz. (Ayin) o Diabo representa 0 Inferno, atas (nao necessaria- mente maus) cometidos ou influenciados pelos dem6nios de Inferno ou A...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica--hi-brazil-biblioteca-elfica-c-lm-ndo-cj-iferente-2",
+      "name": "C(lm ~ndo Cj)iferente",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "hi-brazil-biblioteca-elfica",
+      "sourceTitle": "Hi-brazil-biblioteca-elfica",
+      "pages": [
+        [
+          2,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "C(lm ~ndo Cj)iferente O continente áe <.Hi-CfiraEiC Hi-Brazil é um mundo de campanha medieval fantástico, porém utiliz.ando quase que exclusivamente personagens do floclore e da mitologia brasileira e sul-americana. A ilha de Hi-Brazil fica localizada em Arcádia, nas regiões mais afastadas, e é considerada uma terra abençoada e santifica- da, para onde os es...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-2-verifique-detalhes-da-historia-11",
+      "name": "2. Verifique detalhes da história.",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "2. Verifique detalhes da história. Faça esta parte em conjunto com o Mestre, pois muito do que for escolhido aqui será utilizado por ele como fundo para sua Aventura posterior. Tente localizar a his- . tória do seu Personagem com a dos ou tros Personagens da Campanha, com a trama e com outros IPCs. Se a história de TODOS os Personagens do grupo não forem com...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-marranos-25",
+      "name": "Marranos",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        25
+      ],
+      "page": 25,
+      "summary": "Marranos Os Matranos não fazem parte da Inquisição. Pelo 'con,trário\" fora'm uma de suas principais vítimas na Espanha. Adicionamos estes Kils para que o Mestre pos- 'sa ter a liberdade de utilizar todos os pontos de vista em sua Campanha. Os Marranos podem ser perigosos ad- versários da Inquisição ou valorosos aliados dos Ma- gósdo Arkanun ATcanorum. Durant...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-equipamentos-30",
+      "name": "Equipamentos",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        30
+      ],
+      "page": 30,
+      "summary": "Equipamentos Tanto os Jogadores quanto o Mestre devem ter em mente que este é um jogo ambientado na Idade Média. Todos os equipamentos devem ser compatíveis com a época éscolhida.pelo Mestre para começar a campanha. Cabe ao Mestre estabelecer os critérios monetários. Até mesmo porque o sistema financeiro da Idade Média era uma bagunça de f;tzer inveja aos ec...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-ideias-para-aventuras-43",
+      "name": "Idéias. para ;Aventuras .",
+      "area": "aventuras",
+      "category": "ritual_spell",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        43
+      ],
+      "page": 43,
+      "summary": "Idéias. para ;Aventuras . • • ' \" . '-o . ' , : . ~ ' -Ii: '<. . Em INQUISIÇÃO, as possibilidades de Aventuras são muito grandes, po;s este livro acrescenta uma nova vjsãe ao l,miverso de ArkanunjTrevas, composto por aqueles qúe seguem a Lu.zVerdadeira. A seguir fornecemos algumas idéias básicas que ,podem serdeserivolvidai; pelo Mestre para suas Càm- pimhas...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "ritual_spell"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "lobisomemv3--lobisomemv3-a-origem-4",
       "name": "A Origem",
       "area": "aventuras",
@@ -1894,6 +2616,93 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideracoes-125",
+      "name": "Considerações",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        [
+          125,
+          126
+        ]
+      ],
+      "page": null,
+      "summary": "Considerações Finais Agradecimentos João Agradeço a meu irmão Luiz por ter me ajudado nesse projeto, sem ele isso aqui não “rolava”. Agradeço a Moema, meu amor, por ter suportado todas as sessões de jogo e “alabardas” e “bolas de rubi”. Também mando um abraço para todos aqueles que jogaram – e jogam – “Olhos de Fogo”, a campanha que eu fiz que acabou dando o...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "marvel-rpg-7o-edicao--marvel-rpg-7o-edicao-combate-nao-mortal-63",
+      "name": "COMBATE NÃO MORTAL",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "marvel-rpg-7o-edicao",
+      "sourceTitle": "MARVEL RPG 7º Edição",
+      "pages": [
+        [
+          63,
+          69
+        ]
+      ],
+      "page": null,
+      "summary": "63 COMBATE NÃO MORTAL Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da Campanha que se desentenderam por algum problema da Aventura e acabam perdendo a paciência um com o outro. As lutas como Briga de Rua, Boxe e Artes Marciais também se encaixam nesta categoria. Nenhum dos Personagens pretende matar o outro: venc...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat",
+        "combate"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "modulo-combate--modulo-combate-editorial-2",
       "name": "EDITORIAL",
       "area": "aventuras",
@@ -1931,6 +2740,127 @@
         "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "o-corvo--o-corvo-experiyncia-38",
+      "name": "ExperiŸncia",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "o-corvo",
+      "sourceTitle": "O Corvo",
+      "pages": [
+        38
+      ],
+      "page": 38,
+      "summary": "ExperiŸncia Dos outros quatro Personagens da Campanha, dois fo- ram destruídos pela Inquisição, um ficou louco e o último aça- bou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demôni...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "one-punch-man-rpg--one-punch-man-rpg-experiencia-32",
+      "name": "Experiência",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "one-punch-man-rpg",
+      "sourceTitle": "One Punch Man RPG",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos por monstros, um ficou louco e o último acabou aprisionado na Presídio do Mau Cheiro para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outro...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "one-punch-man-rpg--one-punch-man-rpg-regras-de-um-soco-34",
+      "name": "REGRAS DE UM SOCO",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "one-punch-man-rpg",
+      "sourceTitle": "One Punch Man RPG",
+      "pages": [
+        34
+      ],
+      "page": 34,
+      "summary": "REGRAS DE UM SOCO Bem, já criamos nosso Personagem e vamos viver as aventuras com nosso grupo, mas antes do mestre começar a Campanha, ele precisa saber que os Personagens em One Punch-Man RPG evoluem acima dos limites humanos. Por exemplo, o próprio Genus. Ele começa a saga de One Punch-Man como um ciborgue que, apesar de forte, era facilmente derrotado e n...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -2000,6 +2930,434 @@
       "officialSource": false,
       "sourceFamily": "supplement_misc",
       "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-experiencia-23",
+      "name": "EXPERIÊNCIA",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "pages": [
+        [
+          23,
+          24
+        ]
+      ],
+      "page": null,
+      "summary": "EXPERIÊNCIA Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisi- onado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demônios...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-conheca-o-3",
+      "name": "ConHEÇA O",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "ConHEÇA O SIStEMA DAEMON A Para quem gosta de fantasia medieval, o sistema D20 é quase imbatível, porém, existem no mercado outros ótimos sistemas que O) são mais adequados para outros tipos de campanha. Hoje, falaremos sobre um dos melhores sistemas de RPG para tratar de campanhas realistas, de Investigação, mistério e sobrenatural, voltadas mais para o Rol...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-experiencia-77",
+      "name": "Experiência",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        [
+          77,
+          78
+        ]
+      ],
+      "page": null,
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisio- nado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura mui- tas vezes já é um prêmio em si, mas para recompensar os Perso- nagens que resistiram bravamente aos anjos, templários, Inquisição e outros demô...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-perguntas-19",
+      "name": "Perguntas",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        [
+          19,
+          20
+        ]
+      ],
+      "page": null,
+      "summary": "Perguntas Válido para esta encarnação, mas recomendamos que Jo- gadores e Mestres resolvem pequenas pontas em encarnações passadas, que serão resolvidas durante a campanha. Irmãos, amigos e colegas nunca estão com seu Personagem por acaso. Invista algum tempo neles, pois no futuro estas ligações vão render ótimas aventuras. Família 1. Onde seu Personagem nas...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-10-toques-finais-21",
+      "name": "10. Toques Finais",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        21
+      ],
+      "page": 21,
+      "summary": "10. Toques Finais Está tudo praticamente acabado! Seu Personagem já deve estar pronto para jogar. Falta ape- nas um único ponto a ser resolvido: COMO ele encontrou os outros Personagens do grupo? Isso vai depender do tipo de campanha que os Jogadores desejam. Um grupo especial do FBI pode eventualmente recru- tar cientistas civis para missões específicas, ma...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-criando-um-personagem-nephalin-38",
+      "name": "Criando um Personagem Nephalin",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        38
+      ],
+      "page": 38,
+      "summary": "Criando um Personagem Nephalin A primeira coisa a ser determinada na campanha é a PRI- MEIRA encarnação do nephalin. Onde, quando e como são as perguntas que o Mestre deve determinar. O Mestre pode esco- lher quantas encarnações o nephalin possui ou sortear em 2d10+2 e “voltar no tempo” o número de encarnações sorteadas para encontrar a primeira encarnação (...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-viajantes-espirituais-41",
+      "name": "Viajantes Espirituais",
+      "area": "aventuras",
+      "category": "ritual_spell",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "Viajantes Espirituais Viajantes espirituais, também conhecidos como viajantes astrais, são aventureiros que escolheram os vales de Spiritum para suas campanhas. Podem ser aventureiros isolados ou per- tencerem a grandes grupos organizados (como os Estudiosos do Umbral) mas geralmente organizam-se em pequenos grupos de estudo da Cabala e de viagens astrais. O...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "rituais",
+        "ritual_spell"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-inimigo-43",
+      "name": "Inimigo",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        [
+          43,
+          44
+        ]
+      ],
+      "page": null,
+      "summary": "Inimigo -1 ponto cada: o personagem representa perigo para alguém, ou alguém o quer morto por algum motivo. Seu inimigo sempre será bem mais forte que você, e caso o vença, ele será substituído por outro ainda mais forte. O Mestre deve criar os inimigos e utilizá-los como PdMs durante as aventuras. Intolerância -1 ponto: existe algo que você não tolera, seja...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "templarios-biblioteca-elfica--templarios-biblioteca-elfica-ideias-para-aventuras-43",
+      "name": "Idéias para Aventuras",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "templarios-biblioteca-elfica",
+      "sourceTitle": "Templarios-biblioteca-elfica",
+      "pages": [
+        [
+          43,
+          46
+        ]
+      ],
+      "page": null,
+      "summary": "Idéias para Aventuras Em TEMPLÁRIOS, as possibilidades de Aventuras são muito grandes, pois este livro acrescenta uma nova visão ao universo de Arkanun/Trevas composta por aqueles que caçam as criaturas sobrenaturais em diversas formas. A seguir fornecemos algumas idéias que podem ser desenvolvidas pelo Mestre para suas Campanhas. Note que muitas destas suge...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "templarios-biblioteca-elfica--templarios-biblioteca-elfica-cquipamentos-40",
+      "name": "Cquipamentos",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "templarios-biblioteca-elfica",
+      "sourceTitle": "Templarios-biblioteca-elfica",
+      "pages": [
+        40
+      ],
+      "page": 40,
+      "summary": "Cquipamentos Tanto os Jogadores quanto o Mestre devem ter ent mente que este é um jogo ambientado na Idade Média. Todos os equipamentos devem ser compatíveis com a época escolhida pelo Mestre para começar a campanha. Cabe ao Mestre estabelecer os critérios monetários. Até mesmo porque o sistema financeiro da Idade Média era uma bagunça de fazer inveja aos ec...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
       "contentKind": "adventure_scene",
       "contentKindLabel": "Aventura, cena ou campanha",
       "editorialFlags": [
@@ -2397,6 +3755,227 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-cenarios-35",
+      "name": "Cenários",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        [
+          35,
+          40
+        ]
+      ],
+      "page": null,
+      "summary": "Cenários Não esqueça que os anos 20 estão repletos de cenários que não estão relacionados com o gangsterismo e as melindrosas. Em Nova York, o Harlem tinha a melhor vida noturna do mundo conhecido para negros e brancos ricos, e circulava rumores sobre locais onde acontecia absolutamente de tudo. As Chinatowns ainda eram locais misteriosos para as pessoas que...",
+      "entityRefs": [],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-experiencia-32",
+      "name": "Experiência",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        [
+          32,
+          33
+        ]
+      ],
+      "page": null,
+      "summary": "Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demônios e...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc",
+        "criaturas_npcs"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-historico-112",
+      "name": "Histórico",
+      "area": "aventuras",
+      "category": "adventure",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        [
+          112,
+          113
+        ]
+      ],
+      "page": null,
+      "summary": "Histórico ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ___________________________________________________________________________________...",
+      "entityRefs": [],
+      "tags": [
+        "adventure",
+        "aventuras"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-tomos-malditos-67",
+      "name": "Tomos Malditos",
+      "area": "aventuras",
+      "category": "power_magic",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        [
+          67,
+          69
+        ]
+      ],
+      "page": null,
+      "summary": "Tomos Malditos “Através dos portões assombrados do sono para além do noturno abismo, tenebroso, tenho vivido minhas vidas incontáveis e sondado com a vista a multidão das coisas; e me debato e grito antes do amanhecer, enlouquecido pelo medo”. Nêmeses - H. P. Lovecraft Sempre presentes nas melhores aventuras de Call of Cthulhu, livros e textos arcanos adicio...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "power_magic"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-introducao-4",
+      "name": "Introdução",
+      "area": "aventuras",
+      "category": "creature_npc",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Introdução Um dos grandes estilos de aventuras de RPG são, sem sombra de dúvida, as tramas que envolvem horror e mistério, sejam estes de caráter policial, sobrenatural ou histórico. Ainda, um extenso e famoso nicho deste tipo de aventura é onde temos a inclusão dos famosos Mythos de Cthulhu na trama. Mas afinal de contas, quem é esse tal de Cthulhu? O Grand...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "creature_npc"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],

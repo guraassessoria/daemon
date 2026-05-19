@@ -1,0 +1,936 @@
+{
+  "version": 1,
+  "baseReadySourceCount": 190,
+  "candidateCount": 91,
+  "publishableCount": 85,
+  "excludedCount": 6,
+  "policy": "Publish extra sources from the zip only when they have book data and are not marked critical by manual review or text coherence audit.",
+  "sources": [
+    {
+      "id": "anime-rpg-powers",
+      "title": "Anime RPG - Powers",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "anime-rpg-supers-powers",
+      "title": "Anime RPG - Supers - Powers",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "anjos-a-cidade-de-prata-angelicos-sicarios",
+      "title": "Anjos - A Cidade de Prata - Angélicos Sicários",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "anjos-involucro-e-barreira",
+      "title": "Anjos - Involucro e Barreira",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "text-coherence-report:critical",
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "title": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica",
+      "title": "Anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "anjos-a-cidade-de-prata",
+      "title": "Anjos_-_A_Cidade_de_Prata",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "arcadia-nova-arcadia",
+      "title": "Arcádia - Nova Arcádia",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "arkanun",
+      "title": "Arkanun",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "arkanun-1e-ultra-raro",
+      "title": "Arkanun-1e-ultra-raro",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "arquimago2",
+      "title": "arquimago2",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "assassinos-orientais",
+      "title": "Assassinos Orientais",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "battlemage",
+      "title": "BattleMage",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "cabala",
+      "title": "cabala",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "cimeria",
+      "title": "Ciméria",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "clube-de-caca",
+      "title": "Clube de Caça",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "cobaias",
+      "title": "cobaias",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "text-coherence-report:critical",
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "compendio-de-regras-daemon-trevas",
+      "title": "Compendio de regras DAEMON Trevas",
+      "publish": true,
+      "extractionStatus": "structured_only",
+      "sourceTextStatus": "docx_structured",
+      "hasTextFile": false,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "corondor",
+      "title": "Corondor",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "caes-de-guerra",
+      "title": "Cães de Guerra",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "daemon-anime-rpg",
+      "title": "Daemon - Anime RPG",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "daemon-tormenta",
+      "title": "Daemon Tormenta",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "daiphir-legado-de-sangue",
+      "title": "Daiphir - Legado de Sangue",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "daiphir-legado-de-sangue-biblioteca-elfica",
+      "title": "Daiphir-legado-de-sangue-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "dem-nio-o-pre-o-do-poder",
+      "title": "Dem_nio_-_O_Pre_o_do_Poder",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "dragao-brasil-especial-06-trevas",
+      "title": "Dragão Brasil especial 06 - Trevas",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "existe-uma-cidade-nos-distritos-cujo-unico-objetivo-e-a-satisfac-u00e3o",
+      "title": "Existe uma cidade nos distritos cujo único objetivo é a satisfaç_U00E3o",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "ficha-de-personagem-daemon",
+      "title": "Ficha de Personagem-Daemon",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "text-coherence-report:critical",
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "grimorio",
+      "title": "Grimorio",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "guia-de-armas-de-fogo-3a-edicao",
+      "title": "Guia de Armas de Fogo - 3a Edição",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "guia-de-armas-medievais-3a-edicao",
+      "title": "Guia de Armas Medievais - 3ª Edição",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "guia-de-itens-magicos",
+      "title": "Guia de Itens Mágicos",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "guia-de-monstros-de-arton",
+      "title": "Guia de Monstros de Arton",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "guia-de-classes-de-prestigio-biblioteca-elfica",
+      "title": "Guia-de-classes-de-prestigio-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "hi-brazil-biblioteca-elfica",
+      "title": "Hi-brazil-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica",
+      "title": "Inquisicao-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "jedi",
+      "title": "jedi",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "jutsu-e-um-termo-japones-para-tecnica",
+      "title": "Jutsu é um termo japonês para técnica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "kits-arton",
+      "title": "Kits Arton",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "kits-orientais",
+      "title": "Kits Orientais",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "loucura",
+      "title": "Loucura",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "title": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "marvel",
+      "title": "marvel",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "marvel-rpg-7o-edicao",
+      "title": "MARVEL RPG 7º Edição",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "masmorra-goblin",
+      "title": "Masmorra  Goblin",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "masmorras",
+      "title": "Masmorras",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "metropolis",
+      "title": "metropolis",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "metropolis-2",
+      "title": "Metropolis (2)",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "mortos-vivos-2",
+      "title": "Mortos vivos 2",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_in_light_zip",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "mutacao",
+      "title": "Mutação",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado",
+      "title": "Módulo Básico - Expandido e Modificado",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "naruto",
+      "title": "naruto",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao",
+      "title": "Naruto RPG Daemon - 2ª Edição",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "naruto-daemon-2a-ed",
+      "title": "Naruto-daemon-2ª-Ed",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "neokosmos-biblioteca-elfica",
+      "title": "Neokosmos-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "novo-aeon-guia-basico",
+      "title": "Novo Aeon - Guia Básico",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "o-corvo",
+      "title": "O Corvo",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "one-punch-man-rpg",
+      "title": "One Punch Man RPG",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "origem-e-descendencia-racial-v-teste",
+      "title": "Origem e Descendência Racial (v. teste)",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "pactos",
+      "title": "pactos",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "psi",
+      "title": "psi",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "regra-opcional-ataques-a-objetos",
+      "title": "Regra Opcional Ataques a Objetos",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "regras-de-boa-convivencia",
+      "title": "Regras de boa convivência",
+      "publish": true,
+      "extractionStatus": "structured_only",
+      "sourceTextStatus": "docx_structured",
+      "hasTextFile": false,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "rpg-dragon-ball-oficial-l-by-fractius",
+      "title": "RPG Dragon Ball Oficial l By Fractius",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "samurai-shodown",
+      "title": "Samurai Shodown",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica",
+      "title": "Santa-cruz-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "title": "Santa-cruz-inferno-verde-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "sda-rpg",
+      "title": "sda_rpg",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "sistema-daemon-2-x",
+      "title": "Sistema-Daemon-2-X",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "sistema-daemon-3-0",
+      "title": "Sistema-Daemon-3-0",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "title": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "sobrenatural",
+      "title": "Sobrenatural",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "spiritum",
+      "title": "Spiritum",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "supers",
+      "title": "Supers",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "supers01",
+      "title": "supers01",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "tabela-de-fadiga-dos-jogadores-e-npc",
+      "title": "Tabela de Fadiga dos Jogadores e NPC",
+      "publish": true,
+      "extractionStatus": "structured_only",
+      "sourceTextStatus": "docx_structured",
+      "hasTextFile": false,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "tabela-e-regras-para-magos",
+      "title": "Tabela e Regras para magos",
+      "publish": true,
+      "extractionStatus": "structured_only",
+      "sourceTextStatus": "docx_structured",
+      "hasTextFile": false,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "tagmar-daemon",
+      "title": "Tagmar Daemon",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "tagmar-daemon-versao-completa",
+      "title": "Tagmar-Daemon-Versao-Completa",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "templarios-biblioteca-elfica",
+      "title": "Templarios-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "terras-natais",
+      "title": "Terras Natais",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "tradicoes-magicas-vodu",
+      "title": "Tradições Mágicas - Vodu",
+      "publish": false,
+      "extractionStatus": "critical",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": [
+        "text-coherence-report:critical",
+        "manual-review:critical"
+      ]
+    },
+    {
+      "id": "trev3-fi",
+      "title": "Trev3-fi",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "trevas-3-0",
+      "title": "Trevas 3.0",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "trevas-diego",
+      "title": "trevas_DIEGO",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "um-sussurro-nas-trevas",
+      "title": "Um Sussurro nas Trevas",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "vampiros-mitologicos",
+      "title": "Vampiros Mitológicos",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "vantagens",
+      "title": "Vantagens",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "varna-chamado-da-guerra",
+      "title": "Varna - Chamado da Guerra",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "veiculos",
+      "title": "Veiculos",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    },
+    {
+      "id": "vikings-biblioteca-elfica",
+      "title": "Vikings-biblioteca-elfica",
+      "publish": true,
+      "extractionStatus": "ok",
+      "sourceTextStatus": "not_extracted",
+      "hasTextFile": true,
+      "hasBookData": true,
+      "reasons": []
+    }
+  ]
+}

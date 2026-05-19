@@ -4,9 +4,9 @@ Este relatório separa o que está publicado nas áreas do site do que ainda exi
 
 ## Resumo
 
-- IDs de entidade: 1727
+- IDs de entidade: 1731
 - IDs globais duplicados: 1
-- Referências publicadas: 36
+- Referências publicadas: 40
 - Referências publicadas quebradas: 0
 - Referências brutas nos livros: 260
 - Referências brutas quebradas nos livros: 178

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "count": 277,
+  "count": 281,
   "sources": [
     {
       "id": "4killers",
@@ -35,22 +35,6 @@
       "pageCount": 6
     },
     {
-      "id": "abismo-infinito-quick-start",
-      "title": "Abismo-Infinito-Quick-Start",
-      "path": "Livros/Abismo-Infinito-Quick-Start.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 3303886,
-      "sha256": "e02216052872fcc30187a10a3837e90a07351dc53e4bd1e075ffb4c7bedfc7da",
-      "categoryHints": [
-        "core_rule",
-        "item_equipment",
-        "attribute_skill",
-        "combat"
-      ],
-      "textStatus": "ok",
-      "pageCount": 40
-    },
-    {
       "id": "abismo",
       "title": "Abismo",
       "path": "Livros/Abismo.pdf",
@@ -65,6 +49,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 200
+    },
+    {
+      "id": "abismo-infinito-quick-start",
+      "title": "Abismo-Infinito-Quick-Start",
+      "path": "Livros/Abismo-Infinito-Quick-Start.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 3303886,
+      "sha256": "e02216052872fcc30187a10a3837e90a07351dc53e4bd1e075ffb4c7bedfc7da",
+      "categoryHints": [
+        "core_rule",
+        "item_equipment",
+        "attribute_skill",
+        "combat"
+      ],
+      "textStatus": "ok",
+      "pageCount": 40
     },
     {
       "id": "alastores-a-justica-infernal",
@@ -528,22 +528,6 @@
       "pageCount": 160
     },
     {
-      "id": "arkanun-1e-ultra-raro",
-      "title": "Arkanun-1e-ultra-raro",
-      "path": "Livros/Arkanun-1e-ultra-raro.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 25010488,
-      "sha256": "a6236b5b5466794d2b7e15f686696b0e1eda4e9a7d232f04d9d876ad9e816c6c",
-      "categoryHints": [
-        "creature_npc",
-        "power_magic",
-        "core_rule",
-        "attribute_skill"
-      ],
-      "textStatus": "ok",
-      "pageCount": 80
-    },
-    {
       "id": "arkanun",
       "title": "Arkanun",
       "path": "Livros/Arkanun.pdf",
@@ -558,6 +542,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 240
+    },
+    {
+      "id": "arkanun-1e-ultra-raro",
+      "title": "Arkanun-1e-ultra-raro",
+      "path": "Livros/Arkanun-1e-ultra-raro.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 25010488,
+      "sha256": "a6236b5b5466794d2b7e15f686696b0e1eda4e9a7d232f04d9d876ad9e816c6c",
+      "categoryHints": [
+        "creature_npc",
+        "power_magic",
+        "core_rule",
+        "attribute_skill"
+      ],
+      "textStatus": "ok",
+      "pageCount": 80
     },
     {
       "id": "armadura-magica-de-ataque",
@@ -592,22 +592,6 @@
       "pageCount": 10
     },
     {
-      "id": "armas-da-segunda-guerra-mundial",
-      "title": "Armas da Segunda Guerra Mundial",
-      "path": "Livros/Armas da Segunda Guerra Mundial.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 4701591,
-      "sha256": "b561ba77b95601f30a9674b1848970ddfc2470da954a947323e9ea4615421543",
-      "categoryHints": [
-        "combat",
-        "core_rule",
-        "item_equipment",
-        "attribute_skill"
-      ],
-      "textStatus": "ok",
-      "pageCount": 42
-    },
-    {
       "id": "armas-da-segunda-guerra",
       "title": "Armas da Segunda Guerra",
       "path": "Livros/Armas da Segunda Guerra.PDF",
@@ -622,6 +606,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 7
+    },
+    {
+      "id": "armas-da-segunda-guerra-mundial",
+      "title": "Armas da Segunda Guerra Mundial",
+      "path": "Livros/Armas da Segunda Guerra Mundial.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 4701591,
+      "sha256": "b561ba77b95601f30a9674b1848970ddfc2470da954a947323e9ea4615421543",
+      "categoryHints": [
+        "combat",
+        "core_rule",
+        "item_equipment",
+        "attribute_skill"
+      ],
+      "textStatus": "ok",
+      "pageCount": 42
     },
     {
       "id": "armas-de-fogo",
@@ -1039,6 +1039,20 @@
       "pageCount": 10
     },
     {
+      "id": "clube-de-caca",
+      "title": "Clube de Caça",
+      "path": "Livros/Clube de Caça.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 12746341,
+      "sha256": "caee6f01e76fa8732a6249ce0c7612d45cc526cc7d3857a75d5891bb07fedf21",
+      "categoryHints": [
+        "power_magic",
+        "creature_npc"
+      ],
+      "textStatus": "ok",
+      "pageCount": 92
+    },
+    {
       "id": "clube-de-caca-guia-do-jogador",
       "title": "Clube de Caça - Guia do Jogador",
       "path": "Livros/Clube de Caça - Guia do Jogador.pdf",
@@ -1053,20 +1067,6 @@
       ],
       "textStatus": "ok",
       "pageCount": 65
-    },
-    {
-      "id": "clube-de-caca",
-      "title": "Clube de Caça",
-      "path": "Livros/Clube de Caça.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 12746341,
-      "sha256": "caee6f01e76fa8732a6249ce0c7612d45cc526cc7d3857a75d5891bb07fedf21",
-      "categoryHints": [
-        "power_magic",
-        "creature_npc"
-      ],
-      "textStatus": "ok",
-      "pageCount": 92
     },
     {
       "id": "cobaias",
@@ -1096,6 +1096,24 @@
       ],
       "textStatus": "ok",
       "pageCount": 22
+    },
+    {
+      "id": "compendio-de-regras-daemon-trevas",
+      "title": "Compendio de regras DAEMON Trevas",
+      "path": "Livros/Compendio de regras DAEMON Trevas.docx",
+      "extension": ".docx",
+      "sizeBytes": 84084,
+      "sha256": "4416d819eacbd4190ae1b8a3a8e816a5aaf1f74a4266e98740865bdc503aa8e2",
+      "categoryHints": [
+        "attribute_skill",
+        "character_option",
+        "combat",
+        "core_rule",
+        "item_equipment",
+        "power_magic"
+      ],
+      "textStatus": "docx_structured",
+      "pageCount": 45
     },
     {
       "id": "conan",
@@ -1673,6 +1691,22 @@
       "pageCount": 11
     },
     {
+      "id": "fadas",
+      "title": "fadas",
+      "path": "Livros/fadas.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 22345,
+      "sha256": "53cddcb7b76d85fb61262faf92430069a492d0faa2617de2b1b2cbcdfa3c6b07",
+      "categoryHints": [
+        "attribute_skill",
+        "item_equipment",
+        "core_rule",
+        "race_lineage"
+      ],
+      "textStatus": "ok",
+      "pageCount": 4
+    },
+    {
       "id": "fadas-2",
       "title": "Fadas 2",
       "path": "Livros/Fadas 2.pdf",
@@ -1703,22 +1737,6 @@
       ],
       "textStatus": "ok",
       "pageCount": 24
-    },
-    {
-      "id": "fadas",
-      "title": "fadas",
-      "path": "Livros/fadas.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 22345,
-      "sha256": "53cddcb7b76d85fb61262faf92430069a492d0faa2617de2b1b2cbcdfa3c6b07",
-      "categoryHints": [
-        "attribute_skill",
-        "item_equipment",
-        "core_rule",
-        "race_lineage"
-      ],
-      "textStatus": "ok",
-      "pageCount": 4
     },
     {
       "id": "ficha-de-personagem-daemon",
@@ -2214,6 +2232,22 @@
       "pageCount": 6
     },
     {
+      "id": "imortal",
+      "title": "Imortal",
+      "path": "Livros/Imortal.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 58332447,
+      "sha256": "c62c7131d47359de5b551aea935bac3a39190a10194fde5b823928d08e41c854",
+      "categoryHints": [
+        "attribute_skill",
+        "core_rule",
+        "combat",
+        "item_equipment"
+      ],
+      "textStatus": "ok",
+      "pageCount": 130
+    },
+    {
       "id": "imortal-a-centelha",
       "title": "Imortal - A Centelha",
       "path": "Livros/Imortal - A Centelha.pdf",
@@ -2244,22 +2278,6 @@
       ],
       "textStatus": "ok",
       "pageCount": 44
-    },
-    {
-      "id": "imortal",
-      "title": "Imortal",
-      "path": "Livros/Imortal.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 58332447,
-      "sha256": "c62c7131d47359de5b551aea935bac3a39190a10194fde5b823928d08e41c854",
-      "categoryHints": [
-        "attribute_skill",
-        "core_rule",
-        "combat",
-        "item_equipment"
-      ],
-      "textStatus": "ok",
-      "pageCount": 130
     },
     {
       "id": "inquisicao-biblioteca-elfica",
@@ -2406,6 +2424,22 @@
       "pageCount": 34
     },
     {
+      "id": "kits",
+      "title": "KITS",
+      "path": "Livros/KITS.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 333890,
+      "sha256": "22e30dc62d23ba48722e6cf83396cf849ce82ea17a0ef069fdf3e775e27d818f",
+      "categoryHints": [
+        "item_equipment",
+        "attribute_skill",
+        "combat",
+        "adventure"
+      ],
+      "textStatus": "ok",
+      "pageCount": 11
+    },
+    {
       "id": "kits-arton",
       "title": "Kits Arton",
       "path": "Livros/Kits Arton.pdf",
@@ -2452,22 +2486,6 @@
       ],
       "textStatus": "ok",
       "pageCount": 123
-    },
-    {
-      "id": "kits",
-      "title": "KITS",
-      "path": "Livros/KITS.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 333890,
-      "sha256": "22e30dc62d23ba48722e6cf83396cf849ce82ea17a0ef069fdf3e775e27d818f",
-      "categoryHints": [
-        "item_equipment",
-        "attribute_skill",
-        "combat",
-        "adventure"
-      ],
-      "textStatus": "ok",
-      "pageCount": 11
     },
     {
       "id": "kitsat",
@@ -2694,22 +2712,6 @@
       "pageCount": 34
     },
     {
-      "id": "marvel-rpg-7o-edicao",
-      "title": "MARVEL RPG 7º Edição",
-      "path": "Livros/MARVEL RPG 7º Edição.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 3025595,
-      "sha256": "3a78d8bf2329ca7b49467efcbbdb417c302d62a0f5f02b5ee77a42608baf6ea0",
-      "categoryHints": [
-        "core_rule",
-        "creature_npc",
-        "combat",
-        "power_magic"
-      ],
-      "textStatus": "ok",
-      "pageCount": 178
-    },
-    {
       "id": "marvel",
       "title": "marvel",
       "path": "Livros/marvel.PDF",
@@ -2724,6 +2726,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 158
+    },
+    {
+      "id": "marvel-rpg-7o-edicao",
+      "title": "MARVEL RPG 7º Edição",
+      "path": "Livros/MARVEL RPG 7º Edição.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 3025595,
+      "sha256": "3a78d8bf2329ca7b49467efcbbdb417c302d62a0f5f02b5ee77a42608baf6ea0",
+      "categoryHints": [
+        "core_rule",
+        "creature_npc",
+        "combat",
+        "power_magic"
+      ],
+      "textStatus": "ok",
+      "pageCount": 178
     },
     {
       "id": "masmorra-goblin",
@@ -2772,22 +2790,6 @@
       "pageCount": 15
     },
     {
-      "id": "metropolis-2",
-      "title": "Metropolis (2)",
-      "path": "Livros/Metropolis (2).pdf",
-      "extension": ".pdf",
-      "sizeBytes": 13682444,
-      "sha256": "096e781cd27d42289a185496432fa74ca2253a0d0fa5532239f39e2e0d008a70",
-      "categoryHints": [
-        "creature_npc",
-        "kit_class",
-        "power_magic",
-        "ritual_spell"
-      ],
-      "textStatus": "ok",
-      "pageCount": 92
-    },
-    {
       "id": "metropolis",
       "title": "metropolis",
       "path": "Livros/metropolis.pdf",
@@ -2802,6 +2804,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 8
+    },
+    {
+      "id": "metropolis-2",
+      "title": "Metropolis (2)",
+      "path": "Livros/Metropolis (2).pdf",
+      "extension": ".pdf",
+      "sizeBytes": 13682444,
+      "sha256": "096e781cd27d42289a185496432fa74ca2253a0d0fa5532239f39e2e0d008a70",
+      "categoryHints": [
+        "creature_npc",
+        "kit_class",
+        "power_magic",
+        "ritual_spell"
+      ],
+      "textStatus": "ok",
+      "pageCount": 92
     },
     {
       "id": "mitologia-assirio-babilonica",
@@ -2916,22 +2934,6 @@
       "pageCount": 20
     },
     {
-      "id": "mortos-vivos-2",
-      "title": "Mortos vivos 2",
-      "path": "Livros/Mortos vivos 2.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 279840,
-      "sha256": "e2bbe3360e5e01cceb1322516735f43f8aad093987866857841e8ebf00c407a8",
-      "categoryHints": [
-        "creature_npc",
-        "attribute_skill",
-        "power_magic",
-        "character_option"
-      ],
-      "textStatus": "ok",
-      "pageCount": 27
-    },
-    {
       "id": "mortos-vivos",
       "title": "Mortos Vivos",
       "path": "Livros/Mortos Vivos.pdf",
@@ -2946,6 +2948,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 58
+    },
+    {
+      "id": "mortos-vivos-2",
+      "title": "Mortos vivos 2",
+      "path": "Livros/Mortos vivos 2.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 279840,
+      "sha256": "e2bbe3360e5e01cceb1322516735f43f8aad093987866857841e8ebf00c407a8",
+      "categoryHints": [
+        "creature_npc",
+        "attribute_skill",
+        "power_magic",
+        "character_option"
+      ],
+      "textStatus": "ok",
+      "pageCount": 27
     },
     {
       "id": "mutacao",
@@ -2996,6 +3014,22 @@
       "pageCount": 25
     },
     {
+      "id": "naruto",
+      "title": "naruto",
+      "path": "Livros/naruto.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 745049,
+      "sha256": "9f575ac99ca4468388292637b72a32a32bd4b64c19b3ad054d88c398eb5211f1",
+      "categoryHints": [
+        "core_rule",
+        "combat",
+        "character_option",
+        "attribute_skill"
+      ],
+      "textStatus": "ok",
+      "pageCount": 24
+    },
+    {
       "id": "naruto-rpg-daemon-2a-edicao",
       "title": "Naruto RPG Daemon - 2ª Edição",
       "path": "Livros/Naruto RPG Daemon - 2ª Edição.pdf",
@@ -3026,22 +3060,6 @@
       ],
       "textStatus": "ok",
       "pageCount": 93
-    },
-    {
-      "id": "naruto",
-      "title": "naruto",
-      "path": "Livros/naruto.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 745049,
-      "sha256": "9f575ac99ca4468388292637b72a32a32bd4b64c19b3ad054d88c398eb5211f1",
-      "categoryHints": [
-        "core_rule",
-        "combat",
-        "character_option",
-        "attribute_skill"
-      ],
-      "textStatus": "ok",
-      "pageCount": 24
     },
     {
       "id": "neokosmos-biblioteca-elfica",
@@ -3523,6 +3541,21 @@
       "textStatus": "ok"
     },
     {
+      "id": "regras-de-boa-convivencia",
+      "title": "Regras de boa convivência",
+      "path": "Livros/Regras de boa convivência.docx",
+      "extension": ".docx",
+      "sizeBytes": 19335,
+      "sha256": "3fedb73e28829507fcdf188e8da102f6eff691c65ac6b5f8b78925c1c28fac91",
+      "categoryHints": [
+        "combat",
+        "power_magic",
+        "table_generator"
+      ],
+      "textStatus": "docx_structured",
+      "pageCount": 5
+    },
+    {
       "id": "revolucao-francesa",
       "title": "Revolução Francesa",
       "path": "Livros/Revolução Francesa.pdf",
@@ -3587,21 +3620,6 @@
       "pageCount": 39
     },
     {
-      "id": "samurai-shodown-v-move-list",
-      "title": "Samurai Shodown V Move List",
-      "path": "Livros/Samurai Shodown V Move List.docx",
-      "extension": ".docx",
-      "sizeBytes": 72137,
-      "sha256": "947a53eb71cd41d02ddd4df3a53b010094d29a4cd4042217809ecc155dbcb9ca",
-      "categoryHints": [
-        "kit_class",
-        "race_lineage",
-        "power_magic"
-      ],
-      "textStatus": "ok",
-      "pageCount": 41
-    },
-    {
       "id": "samurai-shodown",
       "title": "Samurai Shodown",
       "path": "Livros/Samurai Shodown.docx",
@@ -3616,6 +3634,21 @@
       ],
       "textStatus": "ok",
       "pageCount": 77
+    },
+    {
+      "id": "samurai-shodown-v-move-list",
+      "title": "Samurai Shodown V Move List",
+      "path": "Livros/Samurai Shodown V Move List.docx",
+      "extension": ".docx",
+      "sizeBytes": 72137,
+      "sha256": "947a53eb71cd41d02ddd4df3a53b010094d29a4cd4042217809ecc155dbcb9ca",
+      "categoryHints": [
+        "kit_class",
+        "race_lineage",
+        "power_magic"
+      ],
+      "textStatus": "ok",
+      "pageCount": 41
     },
     {
       "id": "samurai-x",
@@ -3888,6 +3921,33 @@
       ],
       "textStatus": "ok",
       "pageCount": 6
+    },
+    {
+      "id": "tabela-de-fadiga-dos-jogadores-e-npc",
+      "title": "Tabela de Fadiga dos Jogadores e NPC",
+      "path": "Livros/Tabela de Fadiga dos Jogadores e NPC.docx",
+      "extension": ".docx",
+      "sizeBytes": 18589,
+      "sha256": "301a3c6ba71632251d05dc18491e012a4103de616056375de73e9b9626522210",
+      "categoryHints": [
+        "table_generator"
+      ],
+      "textStatus": "docx_structured",
+      "pageCount": 11
+    },
+    {
+      "id": "tabela-e-regras-para-magos",
+      "title": "Tabela e Regras para magos",
+      "path": "Livros/Tabela e Regras para magos.docx",
+      "extension": ".docx",
+      "sizeBytes": 493253,
+      "sha256": "5278734e170d40fbe839fff16c5e827d91f8ac9aa025b9b9aebe9a5d6f0e7f36",
+      "categoryHints": [
+        "power_magic",
+        "table_generator"
+      ],
+      "textStatus": "docx_structured",
+      "pageCount": 11
     },
     {
       "id": "tagmar-daemon",
@@ -4206,22 +4266,6 @@
       "pageCount": 137
     },
     {
-      "id": "vantagens-regionais-ii",
-      "title": "Vantagens Regionais II",
-      "path": "Livros/Vantagens Regionais II.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 6515057,
-      "sha256": "665a756db90d80e26eceb05f498098bd0e2109dfe73da70d35488150b041869f",
-      "categoryHints": [
-        "combat",
-        "power_magic",
-        "attribute_skill",
-        "core_rule"
-      ],
-      "textStatus": "ok",
-      "pageCount": 6
-    },
-    {
       "id": "vantagens",
       "title": "Vantagens",
       "path": "Livros/Vantagens.docx",
@@ -4236,6 +4280,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 21
+    },
+    {
+      "id": "vantagens-regionais-ii",
+      "title": "Vantagens Regionais II",
+      "path": "Livros/Vantagens Regionais II.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 6515057,
+      "sha256": "665a756db90d80e26eceb05f498098bd0e2109dfe73da70d35488150b041869f",
+      "categoryHints": [
+        "combat",
+        "power_magic",
+        "attribute_skill",
+        "core_rule"
+      ],
+      "textStatus": "ok",
+      "pageCount": 6
     },
     {
       "id": "varna-chamado-da-guerra",
@@ -4302,22 +4362,6 @@
       "pageCount": 3
     },
     {
-      "id": "vikings-biblioteca-elfica",
-      "title": "Vikings-biblioteca-elfica",
-      "path": "Livros/Vikings-biblioteca-elfica.pdf",
-      "extension": ".pdf",
-      "sizeBytes": 30461366,
-      "sha256": "a411759e4a832ef5ca8010c28339478f525fd3319c1b495712473563c160e2bb",
-      "categoryHints": [
-        "combat",
-        "power_magic",
-        "item_equipment",
-        "race_lineage"
-      ],
-      "textStatus": "ok",
-      "pageCount": 138
-    },
-    {
       "id": "vikings",
       "title": "vikings",
       "path": "Livros/vikings.pdf",
@@ -4332,6 +4376,22 @@
       ],
       "textStatus": "ok",
       "pageCount": 13
+    },
+    {
+      "id": "vikings-biblioteca-elfica",
+      "title": "Vikings-biblioteca-elfica",
+      "path": "Livros/Vikings-biblioteca-elfica.pdf",
+      "extension": ".pdf",
+      "sizeBytes": 30461366,
+      "sha256": "a411759e4a832ef5ca8010c28339478f525fd3319c1b495712473563c160e2bb",
+      "categoryHints": [
+        "combat",
+        "power_magic",
+        "item_equipment",
+        "race_lineage"
+      ],
+      "textStatus": "ok",
+      "pageCount": 138
     },
     {
       "id": "watchmen",

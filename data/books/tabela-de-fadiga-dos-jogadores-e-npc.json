@@ -1,0 +1,20 @@
+{
+  "id": "tabela-de-fadiga-dos-jogadores-e-npc",
+  "title": "Tabela de Fadiga dos Jogadores e NPC",
+  "pages": 11,
+  "parts": [
+    {
+      "id": "docx-structured-source",
+      "name": "Documento DOCX estruturado",
+      "category": "core_rule",
+      "pages": [
+        [
+          1,
+          11
+        ]
+      ],
+      "summary": "Fonte DOCX estruturada: Tabela de Fadiga dos Jogadores e NPC.",
+      "entityRefs": []
+    }
+  ]
+}

@@ -2,12 +2,32 @@
   "version": 1,
   "id": "cenarios_lore",
   "name": "Cenarios e Lore",
-  "readySourceCount": 190,
-  "entityCount": 11,
-  "sourcePartCount": 11,
+  "readySourceCount": 275,
+  "entityCount": 12,
+  "sourcePartCount": 76,
   "subgroups": [],
   "filters": {
     "sources": [
+      {
+        "id": "arkanun",
+        "title": "Arkanun",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 3
+      },
+      {
+        "id": "trevas-3-0",
+        "title": "Trevas 3.0",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 52
+      },
       {
         "id": "4killers",
         "title": "4killers",
@@ -69,6 +89,26 @@
         "count": 1
       },
       {
+        "id": "anime-rpg-powers",
+        "title": "Anime RPG - Powers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
+        "id": "arkanun-1e-ultra-raro",
+        "title": "Arkanun-1e-ultra-raro",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 4
+      },
+      {
         "id": "ceifadores",
         "title": "ceifadores",
         "sourceKind": "supplement",
@@ -87,6 +127,16 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
+      },
+      {
+        "id": "inquisicao-biblioteca-elfica",
+        "title": "Inquisicao-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
       },
       {
         "id": "oriente-cronologia",
@@ -119,6 +169,16 @@
         "count": 1
       },
       {
+        "id": "um-sussurro-nas-trevas",
+        "title": "Um Sussurro nas Trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 2
+      },
+      {
         "id": "umbral-e-seus-vales",
         "title": "Umbral e seus vales",
         "sourceKind": "supplement",
@@ -142,7 +202,7 @@
     "categories": [
       {
         "id": "setting_lore",
-        "count": 22
+        "count": 88
       }
     ],
     "subtypes": [
@@ -156,34 +216,57 @@
       },
       {
         "id": "lore_world",
-        "count": 12
+        "count": 15
       },
       {
-        "id": "raw_chapter_block",
+        "id": "ocr_noise",
+        "count": 53
+      },
+      {
+        "id": "organization_faction",
         "count": 1
       },
       {
+        "id": "raw_chapter_block",
+        "count": 7
+      },
+      {
         "id": "uncertain_fragment",
-        "count": 6
+        "count": 9
       }
     ],
     "sourceKinds": [
       {
+        "id": "official",
+        "label": "Livro oficial",
+        "count": 55
+      },
+      {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 22
+        "count": 33
       }
     ],
     "sourceFamilies": [
       {
+        "id": "adaptation_pop",
+        "label": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
         "id": "campaign_adventure",
         "label": "Campanhas e aventuras",
-        "count": 1
+        "count": 3
       },
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 4
+        "count": 8
+      },
+      {
+        "id": "official_core",
+        "label": "Oficiais / linha principal",
+        "count": 55
       },
       {
         "id": "powers_magic",
@@ -193,13 +276,13 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 13
+        "count": 16
       }
     ],
     "areas": [
       {
         "id": "cenarios_lore",
-        "count": 22
+        "count": 88
       }
     ]
   },
@@ -297,6 +380,39 @@
       "officialSource": false,
       "sourceFamily": "supplement_misc",
       "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "eras-heroicas",
+      "name": "Eras Heroicas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 6,
+      "entries": [
+        "Tons e periodos de inspiracao para campanhas de super-herois, como Era de Ouro, Prata, Bronze e Ferro."
+      ],
+      "tags": [
+        "campanha",
+        "cenarios_lore",
+        "quadrinhos",
+        "racas",
+        "setting_lore",
+        "supers"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
       "contentKind": "lore_world",
       "contentKindLabel": "História, mundo ou cenário",
       "qualityFlags": [],
@@ -735,6 +851,360 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "anime-rpg-powers--powers-academias",
+      "name": "Academias de super-herois",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "pages": [
+        [
+          40,
+          41
+        ]
+      ],
+      "page": null,
+      "summary": "Regras e elementos para academias de super-herois, aulas, materias, grupos sociais, professores, punicoes, paqueras e atividades escolares.",
+      "entityRefs": [
+        "academias-de-super-herois"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-europw-135",
+      "name": "euRopw",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          135,
+          136
+        ]
+      ],
+      "page": null,
+      "summary": "euRopw Sécu(o 7\\.lV {,ímít<:s do lmpt:l{ío u li Díd5' de: \\li119on d (dVdlo '· '\\-.::, \"6iȍolȎr Ʊ'-\"Ʋ, ',-:_Reel<jcv1k ISLÂI A .̸;:,. Skolholt S .......-..r ...r\"'-.r",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "encoding_or_ocr_artifact",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-londres-155",
+      "name": "londRes",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          155,
+          156
+        ]
+      ],
+      "page": null,
+      "summary": "londRes ƀndres Localização: Sudeste das Ilhas Britânicas População: 20.000 habitantes Língua: Inglês Economia: Comércio com outras c;idades inglesas, em especial Oxford, Cambridge, Norwich e Bristol. Quem manda: Edward Longshanks. Quem realmente manda: O Consellzo. Longshanks comanda todas as decisões envolvendo o mundo mortal, mas não tem conhecimento sobre...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-tdiario-e-e-ampanha-222",
+      "name": "tDiário %e e ampanha",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        222
+      ],
+      "page": 222,
+      "summary": "tDiário %e e ampanha fData lvento Jmportante I I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- __ / __ / __ ------- / I -- -- -- ------- __ / __ / __ ------- __ / __ / __ ------- / I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- / I -- -- -- ------- / I -- -- -- ------- __ / __ / __ ------- / I -- -- -- ------- __ / __ / __ -------...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun-1e-ultra-raro",
+      "sourceTitle": "Arkanun-1e-ultra-raro",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "pa o e e q [ê) (99) E [e] (6) E fo) fa) (o) o) o N o) = = jm)",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-arranun-2",
+      "name": "ARRANUN",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun-1e-ultra-raro",
+      "sourceTitle": "Arkanun-1e-ultra-raro",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "ARRANUN Marcelo Del Debbio Digitalizado com CamScanner",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-arkanun-41",
+      "name": "Arkanun",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun-1e-ultra-raro",
+      "sourceTitle": "Arkanun-1e-ultra-raro",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "Arkanun Digitalizado com CamScanner",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-nha-eta-51",
+      "name": "Nha Eta",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun-1e-ultra-raro",
+      "sourceTitle": "Arkanun-1e-ultra-raro",
+      "pages": [
+        51
+      ],
+      "page": 51,
+      "summary": "Nha Eta DO MESTRE RAN N",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "etruscos--etruscos-resumo-historico-6",
       "name": "RESUMO HISTORICO",
       "area": "cenarios_lore",
@@ -770,6 +1240,137 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-as-bases-da-fe-39",
+      "name": "As Bases da Fé",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        [
+          39,
+          40
+        ]
+      ],
+      "page": null,
+      "summary": "As Bases da Fé A Europa noséculo XIV encontrava-se dividida em o. Arcebispo era .nomeá~o para cuidar de Ifegjões duas grandes regiões, pelo ponto de vista da Igreja Católi- maiores (províncias, g~ralmente) é sob. seu çomaná,? éS'- ca. A região dominada pelos religiosos franceses (cujo maior tavam dez,,: vinte bispos, de acordo çom o tamanho da centro polític...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-brancos-ocid-ntais-7",
+      "name": "Brancos, Ocid~ntais",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        [
+          7,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Brancos, Ocid~ntais e ... Cristãos No dia 08 de março dos 2000 anos do nascimen- : Jllillldo J)ão erà cOrreto. A própria Igréj~ recorheceu em to de Nosso Sénhor Jesus Cristo, o Papa João Paulo JI . seus docUmentos, cQm muito bom se!lSO aliás, que as anunciou para um mundo completamente atônito ·e tortUras a qué ·ésmár\\ires crístli<Ós)oram ~ubmetidos surpreso...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-bibliografia-46",
+      "name": "Bibliografia",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        46
+      ],
+      "page": 46,
+      "summary": "Bibliografia Livros' · Alighleri, Dante; A Divida Comédia, várias edições. Barber, MalcoIm; Tlle Trial oflhe Templars, Cambridge; 1CJ;l3. '. . . Ciprian'o; Antigo e Verdadeiro Livro de Sonhos, Carto~ancia eReceita~, . Ed. Pallas, RJ 1996. çípriano; O TradiCional Liv~o Negr-ode São Cipriano, ed. Palias, Rp996. Cipriano; Tesoro dei Hechicào, Libro de San Cipri...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -814,6 +1415,2418 @@
         "front_matter_or_index_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-j-i-i-i-104",
+      "name": "'j\" .. ·.I\"\"\"\"''''''''''''·I\"\"\"\"\"\"\"\"·,,,, ,,, ,I,,,.,,,,\",,,,",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          104,
+          106
+        ]
+      ],
+      "page": null,
+      "summary": "'j\" .. ·.I\"\"\"\"''''''''''''·I\"\"\"\"\"\"\"\"·,,,, ,,, ,I,,,.,,,,\",,,, 01,,, \"\"',:'\" <I, \"\"k '\" I. m\" ,., ',\",,,, .. n c<,nh\"\"n .. n\", ,I.,...,c' \" .. , .. \", -, .. \\1,\"h'~,'l''''I'·''' oh <o',,,, , ... I\",·.k\" \"1\"\"\"\"·\"'\" I'\" ,1o-\"\"\"j,.,I<-o,,,,,,..b,~ .. ,.I .. ,',,,'I\"·lI.,,, ~\"\"\"\" .... ,., .. ,,,,,l·.,,'''' (.<1\",,, dó' 'o\"\" ,\",). 110\" , (, ,I\"\" , <I\" 1~.\"\",,,:.IJ...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-o-mundo-de-trevas-171",
+      "name": "'o Mundo de Trevas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          171,
+          172
+        ]
+      ],
+      "page": null,
+      "summary": "'o Mundo de Trevas A,4;/1 r\"'-.l'\" \"\" .. \"t ,,\" U'di) ... f\"l: ~,.Id .... \",.i\"\" ,10'/ ,,1 \"\",. \"\" \"'~t1 ' •. \",N 1.4,ho_)'-\".., ... ,k \"J, Ir\"\", .• ,,;d\" . .,.N J.f\" m e <c,n,,, d, ,<><I ... , ,,.1'1'''''' c n., ,.,\", 'çO<\" ,I< . . to~\", .. , \"I\"\"\" ,-.\",., \\1.)';' •.. \\ \\1.\". '-\"'<lr.> no\"\" mund~ <\"\"'\" \"m '01 '\"N. , c ... onJo , t.~m,·\"d.d< 1'''''- <m \"''''...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-1-hso-d-telllpelude-52",
+      "name": "1\\.hso. d, Telllpelude",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          52,
+          53
+        ]
+      ],
+      "page": null,
+      "summary": "1\\.hso. d, Telllpelude c:\"\"\", \\ l\"~ de \"- I \"\"\"CI'~\"\"-\"\")' 271)1'1> de I'a\";, P.ric;u ,\\lartcl,,40I/4< I, .\\,L,.o,' 2Il/2H. ~-';'~I\" (Ibb>I\",\"(, 1<1'·~. Tcd<~>,-, \\\",..··.).(:,:-'w\", 1'\"~I.:J,,(.\\kI',,~,u25·,..,,,-o ,wIo.~}i> l'!'-\". 0\",11\" :10\"--'. RI.\"\"o \"10'.-•. 'I\"\"\", .I, ~!>g;' -:'.5%). U\"t\"'b\"nl ~ ,,~. 30\":;'. ~1\"\"l~\"lIÇ.o (1\"\",,,,,1.,,,,, !ly..~). N''...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-a-po-litic1-sobrcnatural-206",
+      "name": "A Po lítiC1 Sobrcnatural",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          206,
+          208
+        ]
+      ],
+      "page": null,
+      "summary": "A Po lítiC1 Sobrcnatural \\\" ,\",,';.<l. I'lep\"\" . ,,~ . h ... \"uu 1\"00\" ~'\" I~\", ,h',dr.:,<l'nlo,n,h\" .Ir.\"'\" do. pnnnl\"\" '1'(.. \"\"dr\" ,.,\",c\"I.,k, d.X<C'-C< '\"'' 1\"',,,,, .. ' .. <I1<;.;.-.,I,,,,,,,,,U,,, ,,,<,,I.d, <k·l.ónd .... , 1)0,,, \"\"\"\"\"'.\" _\\10\"'0 1\"\"1,·,, ,\"\"\" ,,,.~'mp,~h. ,h ,,,tn,, ,.,,\"\"\" <1\"\"'1\". ,I\"\"lo<'\"ü\", \"\" 1'0' _'yrm 'I'''' S\"\"\" \"\" .. c .,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-a-tdade-178",
+      "name": "A Tdade",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          178,
+          184
+        ]
+      ],
+      "page": null,
+      "summary": "A Tdade D<,,, \"J. <k m,lh 'f<\" .1< \"\"'\" \",,,,,, 10m' \"\"\",ou...., .. ,, 'c Clm duro .... \" '1 \"\"I,. f,,, funJ\",h \"\" \",,,,I ,~, ><'<:olo ~~ 11 O ,lo,.\"\" Tn\"k I\"'''''''' J. I~',çl<> ,~, ,-<,~\" I,,~,,<m < t<.\"\".N,,,,,,,,,,,,ru'h po<n\"\"'f\"\"'''I'''''«t<,f,,,,,,,,,<meo'''''''' .... 11;,..>, '16 ,u~n\"t\"'\" ~ bd ... r \"'''f.U< hunun<' \"ou '\"\"\" di, IA\",. ,lo RinuL E\" ....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-adios-caidos-186",
+      "name": "ADios Caídos",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          186,
+          189
+        ]
+      ],
+      "page": null,
+      "summary": "ADios Caídos ~.\" '\" m,u' \"\"tJ~o, 1,,1\"'.u11<' d ... J\"lún\" D. wn. \"''''' f, \"\"\". o.') <\"\"' ~;O .. m m''''p\"l,m < <'''''''''- ,Lo\". rt\"\"\"\" «.Io:-,~.I <\"m ,..,,, 'm>\"'\" d. 1:.1,,1< d. 1'\"\". \\',,...,,, i\",l3d\"\"<onp.\",><l~,,,\"\"'\"\"\"\"\"\"\"\">n'''''\\'><',,,'' ,i\" . .,J,., 1 m.,. b\"xo, do :r.r<mQ F.\" no\",,\" qur ... .I; I\"'\" \"~I,,. \",. M'fo.!,,. ,I. , :,_b,k PIlOU, '\" t...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-as-cruzadas-e-os-templarios-20",
+      "name": "As Cruzadas e os Templários",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          20,
+          21
+        ]
+      ],
+      "page": null,
+      "summary": "As Cruzadas e os Templários \"'tn,,~\"'cd. ~\"\"'\"\"'\" \"\"':>'''.1 Jooe,,..k<,,,..do 'onpk, o .\\\" ,..,,,rum ..1,.,..\",-, ,1\\\"<,\\, ,,,,, < •• \",;.\" ,n,\"\"\"~·\" 1''''' ,I\",,,,, ,'x_ I\"''''''''lú; \"\".\"oI,~\" '\" ,'\" ,,,,,ron,,,-,·, \"\" \"\"\"\"W \"''''1'''. P!O '4,'<'! '\" p<<<~j,,,,,. <tn >ou, c·,,,,,,h,,. d< 1(,\"\"\" \"'·jc,u .. l;-m P'T. <S'~ \"fi.hl,-1<. (~u,\" \",,,I .... Cw .....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-a-i-i-86",
+      "name": "A~i \" .. i, '",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          86,
+          89
+        ]
+      ],
+      "page": null,
+      "summary": "A~i \" .. i, ' A,m .. d. Fogo' (DEX) \\\"\"\"\",,,,,,,01, /,\",],r\",.,,,,,I. V\", ''''JJ\",.~,\" .. 4J.m,,)'' lO, h.bilid.J,'..k u,., 1\"\"0 .... \"n,·,. \"\"\"\"II\",~,\",, co\"l\"-c~r,,-,,'<>, \", ... ' \"·OU,,,'. ,,1\"0',',., ,,, m, ,,< 'cu' \",11\"ul~\" \"1.-\"\",, '''\",\", ,\"-,\"h\"\". l 'm \",\"'\"\" \"', 'I~,t<' ,!c.\" 1'<\",,, ,,,,Iio.> \"\"I,~,..I\" .. ,m\"\"I,,,,,,,<,,,,, .. w\".\" Tr<iD.m<n'o d...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-explondo-44",
+      "name": "Explondo.",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          44,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "Explondo. c\"\"',,, 51~' de .\\p,,'n\"· ' \"'<~'\" _\"'Xl!,', do I'<,k\" PC\"r; .. ' 1{<\"\"i\\'<,,,:~~,n,lk lH'\".I'w., .='-',-'1_!', ~m\",ll l h\" ,lW<, _\"I\" iJ'<>\",!,.uh. -\\\"''-';. ('011<1''',-\", _1..,. •. ('--'<\"ci.!, (llot\"iíuu 10\",. i Ic~\"h ,~n 1(1'1., 'K,k,!-\" lO' ,),ConJ,.,,,,, :l<Y .. F,.-,,,,, :N\"\" F\"'l\"\"\".' ('\\~'\"U'mo ~r-,' •. A\\'T'IIH) 20\"'\" ''''I';nZ(~,.;,. Fm...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-illtcrpoj-174",
+      "name": "IlltcrpoJ",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          174,
+          177
+        ]
+      ],
+      "page": null,
+      "summary": "IlltcrpoJ O'g2<uzaçi<.> 10'1 ... \",...,,,,,,,1 ,h' I' .. I~ u C,\",un,,J (OI!\" \"ml'kF,ncok l\"'IF.RI'OL.,' u\"'. \",~\"\",.\",,, ;'''<1):0'''''''' \"\" .. ul ~\"\" c-\"'~«'j,\" '\" ... ,\\<\" 1 7ü 1\"'\"\"\",1<1'0<0<''' ,,1< .. (\"'l., \" I\"\"''''\"' I'oh .. ,,, \",';ol\"\"\"u l'<:de, .. , P'\" \"'\".' J< F. ... ,\"o...\" ·-:\"\"\"...u~~t:C'\" É wo'l \"\"'.uu,,..., .\"<rn,<\"\",,1 \",-\"\"h .. ..IDl'd....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ilum-inados-60",
+      "name": "Ilum inados",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          60,
+          63
+        ]
+      ],
+      "page": null,
+      "summary": "Ilum inados 1'\"\" J,,,l<, I~n.]q' .. \"\"'\"'' Pc .. \"\". h<l ><lr •. 11><..h,,,, L,nn,I\", 1,1\"\" \\\\c.I.,'''r' . . \\b,n,k, 1,,,,.1 •. \\,~I:< U,,,, .. ,, , ,)., (, ..... 11,,'. ,c, c: ·.,;;\"'.~\"\"\",l-'l<-n,:n\"\"k ,,,,\"'.U/~ 1:,;;',.I\"h\",C\", .. \" DoIk 1I.\";\"r,,n I'r .. ,kh\".lIuu,.k> fl,:~ (,,~II'. CI. .. \" ~.[ok. n,,'~ ('''''~.\". (''-'fi!;bn Rí>,'>O\\d'.l;\"\"'l!<' \\\\'.J...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-introducao-8",
+      "name": "Introdução",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          8,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "Introdução J (jj Rl'(; la<~t.í\"\" f\\~,~l hi nu:> ,k 12-\"\"\",, );' se I\",\"\"U \"\"\" .\\,-en .. \", u,n \"I\",\" oU • \"m. 1'<<;' UO tc .. ,,\\ onde '\" mImo \"'''P<' d .. de .I 1'0\"\";'\" ,..,. .. \" do lil'RI'$ l\"~.d,,, .. f:l>~\"'o p.pd do. 1t~, .... n ~b,,< r» o p.p<l ,.-'\",>.LpeltIXvu \"\"o.,dllmo.Ln<;>m\",,'''',...:ic>- d,w.\". Como um 1Ior. o Jo>R,dor pod< '<p«.cntuum pC! \",...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-jesus-18",
+      "name": "Jesus",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          18,
+          19
+        ]
+      ],
+      "page": null,
+      "summary": "Jesus ~\"li'\" I.~.C .\"CM,.I~~,Im<\",,\\,,< '\"\"b\",,,,,·,' \"\"\"..1, '\" \"\" 1\"\"\" .. ,,,,,, '1 ,.\",.<, 0, h\"\"\"\"\" <\",,-.m om um «\"do l'U.;[\".ul<. _)'O,,~, del\"'''d .. l\"\" ,\\< \\I,.\".\",.\" \"h<P,\", > \" l.l\"''' '\" \"\"A\"\"'. d, 'I\" .. oi' \",,,,,,1<-<1,, 0.''''''','''' '\" \"oed,( \"L\",· .!<,PN· '~\"''''.(hn'' '.\"ulT><,i .. \", .. h\"IT'''''.jW!!o>ou < \",,,,,,i,,,,, d<.' (;,,,,,<11...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-moises-16",
+      "name": "Moisés",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          16,
+          17
+        ]
+      ],
+      "page": null,
+      "summary": "Moisés .1,.: .\". rolÍ9<lo ,I:, I Io\",'\"ú. , CiJ,do do hm \",,\"v, o\" %1\",:I.<om 'c,\" I'~\"I\"\"\" 1'\",l>lc'\"\" ''' tú,~''< \"lo..,m'~ l fo; ,,,\" \"' 'I\",,,, d \", 1',,:10 \",,\" O'I~,\";dK\"O d. \"\"jos \"\",jl\"'\",~C!\"b'; >,\\dM\" ou ~<p~\",,\\o,«, m\" o Co\",clh\" d. Cid.uo do P ... \" '«\"\" P,roc\"I'''~' ,'\"\", ~ p<><lor 'l'''' \",ocU:J,\\J\" 1«\"''''''-''''''''' \"'\"''''I';U'ndo \",... ......",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ncphjjins-194",
+      "name": "NcphJJins",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          194,
+          196
+        ]
+      ],
+      "page": null,
+      "summary": "NcphJJins rcv:-; flDI, HI.I·\\[ )I.I,!'}.: lI! 'I .. I(;! lI! )1. I~\"I ~'I) '(·1. WlTJ·I'·Il' r.!,Llf' POj.I';Cl\\ IIDI \".-\\\"'l\"'\" 11].IP».I'\\·' 101·, .~I \\m\"\"~'!~f ,IJ,,\"'I'\" >In ... 1\\,,\"\"\"\"\".,J....,. I ·mJ.\",~\" .. \"m' .. ''' ... '.- \"\",., ..... .\\lo\"J.,r\",n'1'Iuho\",\"\"\"\",cu<k\"\"\",[, «ou<,Lo.Io, ~\"\"'\" • 1\"''''' ,I\" .. ,ui\" xm. I'nn<'r-,Im ... ~ '\"'' \"\"I<uoo ''...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-os-nazistas-t-l-thlllcgcsscllschah-26",
+      "name": "Os Nazistas t l Thlllcgcsscllschah",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          26,
+          31
+        ]
+      ],
+      "page": null,
+      "summary": "Os Nazistas t l Thlllcgcsscllschah lkJ'<\",.le 1'12\\, ,ld,Ml l\"k, nU,-, ,e\"\"\"d\"!~,,k, 'I> .. \\!e,,,.,,h\"I\"\" \"I,·,,,,,, n. ~ ' '''><\" ,(;,,,,,. \\1o\"\"h.I'I'''''· rl\" eneM\"\"\" 1J<l'''~ ;0'1.\". U'n nept\"\"\" \"'~\"\" 1,Q<i.\"\"\". \"\"'111),'\" d. 'j\"M' _:. ,i\"'II ... \". S,~'c,l.d< 1«.>\" h. lI. n •• n..,úd li h\"\" \". \".u •. \"\" .. \" I\", .. , d.-. n,,,,,\"\" L' <h,m,cl, p,,,,,,w...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          1,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-rosist-nci-i-lhgi-80",
+      "name": "Rosist':nci. i /lhgi,",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          80,
+          81
+        ]
+      ],
+      "page": null,
+      "summary": "Rosist':nci. i /lhgi, ~\"'p,\"\"k \"\"\"\"\"'1'\"\"\" I .... P\"\".\"'~\"'I'>< \"\"'''' 'lI 'S\" 11'''\"10; \"\"\" I';-T~\"I.\"~'\" p<\",·.ticon ..... \"\"'m·\" \"\"I>,U'\" ,,,,lil~I.>;,,, ,0.1:0,., \\b~,,, I\"\",,,,,,,,, ,);.- ,,\"«h<,\" ·.,m \",In· 'ordo II}.\",,,,,,,, \".\"c ... \"\" 31\"\"\" \"'\" ~I<,,\",) \"\":IUIU. ,,,,, ,,~I ... , \\Loi'l-'.' r\"'\",\"\"\"[1\" d\" \"-xcbe\",,,,\",,,,ru, .. ,,,k n)\"\"'~\".\"K\"'k-\"\"...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ruuba-e-p-fo-157",
+      "name": "Ruuba\" E'P;';fO",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          157,
+          158
+        ]
+      ],
+      "page": null,
+      "summary": "Ruuba\" E'P;';fO (' .. \".\"'. \\~\"'n',,,,, b,.. pod\"\", \":(-,,, ,11><n\"; .... , '~'I;\" (ou Cf\"\"\"\" \"~,, .. \",\"u\".: \"I'h' ''''''Q '''p'o'o de \"n,. p<,\"'''. 1',,, ,....\" i n\",\",~\" \"\" q\"\" oe'\"l,,,-i',-,,,,' .. ,!notr ,~, \"\"1'\" ('1'''' ,\"' ...... '.h· ... ,I,-..... 'r d .. b. ,Im\",oodo ou mo\".: O ;e!l, li. I\"~ \"\"\" ~,~ .. I ,. \"'li f<\"'\" de c,;,,'\" <#p<\"'. ,.].l~\" .....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-sociedades-secretas-218",
+      "name": "Sociedades Secretas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          218,
+          219
+        ]
+      ],
+      "page": null,
+      "summary": "Sociedades Secretas l\"kmóni..,. \",ui,,, I,\"l,'m,,,' ~,.,.I,~<n,,· OI\" em,.,~I;'hk\"·.\"\"\",p;>J.\",·,<\".;J.\",-.,I .. ,,,,,).I .. ,,\",,, p,opuo, d\"n,ú,i\",_ (,.\"\" \"\" I\"t,,,,n \"j\" <·~\"tt\", ,\"' .... , 'umo \"Jcm<x,><.i.J\" ,,'\" \",\\\"\",,,, 1\",,,,\",,,,\",<,\"\" I\\fUJ.\"'m\"\"num''''.''''.,·,·'''\" ... ,,·.l«1« , ...... ' \"\"\",,,,\",,,,,,r\"'<,\"!'''·A.,,,,,,lq ~ Nimhus vs. Obscuri...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-lmh-h-209",
+      "name": "lmH~h",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          209,
+          211
+        ]
+      ],
+      "page": null,
+      "summary": "lmH~h - ~ n:~ ~~H!n ft~~ ~~ .. l~'ª ~~~ ~ ~~.a~. ~~ !I!lll 8 Jt:~ ~ 2); ~ ~~ . ~t~ ! R ~\" o. g \" e 'irt~~i'; §l; WH!! ~H s5 ~~~~ ~l~ 8 i ~ltR .,.~5 r ~~,\"'~ ~~­ ~~ ~ ~r~ - \". '/, '\" n ~ s- I \"\"', =[~·~~1 ~ ~~q ·~!i:n ti ~~~;~:~ i; ~a;~~ l ~i? ~ !] ~ I 11/11 r H;': um ! ~ ~- .. ~. A1f~betos Mágicos IIJ .. 'c<>l\"tulo.d<'''''''' .. ''''''''\"''\"pa><' ....... w.:...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "encoding_or_ocr_artifact",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-cri-i-do-j-jd-eb-o-5",
+      "name": "Cri'I\"'\" \\ ,,,<do\"J:Jd eb:o",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Cri'I\"'\" \\ ,,,<do\"J:Jd eb:o n\"\"\"v\"I\";m,~,,u '\\lo\",do 1 ')01 Debbl~, ~'''''''' U~ Rev;';;o ,In. FI,,,. !'1I,J,lü\"h',,\"\" c.'1'\"r,,,,,,,,,'II,w ~VA8 ?U '~ E,'.oo\", G,,,,.,,, .. , Cri\"i,,,,, Ruclngo. ~\",'io Con'l\"f,;>,,,ni \"(\\< lJ,!.I, \"\"'r'''''!'''''''' do .. nhos. , ; ,,\\I ~ ,II,.\"gcjr.co.) 1'0'0' d. ~(:\",:.t\" 0.1 P.l.J.,:\" ç oci.\", H\",ó l\"uJl'\"m.ç:;o \\ i.uaL...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-as-rci-coes-eolre-os-concilios-32",
+      "name": "As RcI~ções eolre os Concílios",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        32
+      ],
+      "page": 32,
+      "summary": "As RcI~ções eolre os Concílios D\"',r\"\"\",\"o<il\"\"d,-n\"\".Ic\"\"\"\"l~.I\"I\"\"I\",, <,\",'''' ,·\",d .. , I\"\" um. \"·m,,,\" \"\",.-n. No .. '- \"\"', '.'\" \"1\"<\"'\" \"1\"11< ,I, cod., ,,,,,,1'0 (r.c\"I\"\"\"\"\" .I,;,,,,,,, '\"1''''''''' 'lO'. l~,d\" ,., ou\",,, d\", .!,imn\", I~\" de .,«,,, .In) , ;\"J\" .do) p\"\" '''p .. ,eo'\" ><I, ~\"'P\" d.\"\",. do ~'\"'' ,Ion ,i f~'\" < d,'\" \",\",n i~\"\"\", I~ .. I...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-advog-do-41",
+      "name": "Advog~do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        41
+      ],
+      "page": 41,
+      "summary": "Advog~do F..ú«m ~\">'-' ... d< ,.I\"~\" n,,. ~u'\" \"'\" aJ\",I' ,J\" poJ, ''''''. \"\", \"\" I~,\"\"h , ,j\" ·II~T'\\·_\\S. 8\" '\"\"'''''' ,,, Ih\",,,,!;,,\", 'io ~,lvog.\"I\". <\"\",\"\",;,;\" .. , \"\" ~.1l\" «: \"-\"\",oJ,,, <lo .1r.UI:O' (o\",,-,e,-,,,\" pt\"hl.\" ... ,I. ,,' .. ,k '~'n,I,. nu ,I\",,,,~ el,,1 <\"\"01 ,'e\"-\"\",,,,= •• 'n.r.ho.o\"o\"\"\"\"'\",,,,, '-!\"\"., I'c\",,\" \"'''''1'' uh\"\" d.-\",o....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-artista-marcial-42",
+      "name": "Artista Marcial",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Artista Marcial !;m\",i\"\"m.\" ... ld\",·\", .. \"..\",.;\".\"\"d.·,,,,nl .. ,c· Da:! !em \"i'~f>\" ,.,,,,l>\\l<bJ,, .I. ,onp ,n,,,,\",,,, .. m\";. \"\",I,,~ id\" ,i<> \"''''''.]o><h '1 \", \"\"\"n·l\"lo, Ai \",.Do, la'J\"'\" < 1(,,,'1\\ Fu_ \"\", ~at\",r<>. ~.\"I<\", ,kU,,,. do \"u,,,, \",,><J,bd><lç. \\1>'\" d<~ fQl,.-. .. ,,, \"-\"'<-w>.lo \"]UnJo Indo; co\"\",l!e (I G' : IA OI;: .\\RTF$ ~HRU.\\IS...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-l-rof-cu-50",
+      "name": "l'rof cu~",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        50
+      ],
+      "page": 50,
+      "summary": "l'rof cu~ c\"\",,: II\"~ ,k \\I'~\"'''f;\"n''n,,,, ,,11)1'\" <le 1'<\",,,, Perícj., .,\\\"\"([), .. ,,nl..,c 1\"0\"\".,. lI ~'<';.C';'.~ \"\" (1 1, ,h.I,,· mo t:(;, I h·,i,~ •. 1.,..· •. '1\"\"1\",,. '10.:',.:. ,:.:,,, '\" r,,~IY ... h< \\lq,W'''''.).l'.· .. _'h\"ok>\". :lJ';' . J. r~ .. ·\"mCn'...,. :~~ \".' ~'\"I ,,,m,,.j<)e •. R,,,,,,, ~J'.' •. 1-',,,, ~O!' •• ·I ... ,ru,!. H .~ i...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-c-0-hh-lo-55",
+      "name": "'C\" 0,. Hh lO\"'",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        55
+      ],
+      "page": 55,
+      "summary": "'C\" 0,. Hh lO\"' P ' ::.~~~ Oi:\" ,;:'l'~ I:i''illt .. \"'\".~ ~;; '>~a.J ,,·~c;o ~.~~ ~ ,,~ .. õ ~ ,,' r:.. li\" ~ ~,S' ~ .. ~ '';: ~ \" ~ ~::! S ~. ~ r. 2 ::r'g '3 ~ íi', ~ >:c \". li, ~, \" a ~ Q = ~ 10- g 3 Ê ,\", } ~ ~ ~ f ~ ~, F ~ t ? r r ~ 1 ~ ~ ~ 1~ [ ~ i E ~,;'~ ,,'[ ª \" ~ . ~ f ~ $ ~ i ~ ~ ~ 9 %- ~ ., ;; :;; ;.. ~ 2 ; = ~ ã ~ i \" f ~ .11 • ~ 9 ~ ~.:: t ;.....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-mp-t-ulm-do-1-59",
+      "name": "'-,,, (,,<mp't\" \"''''ulm,,,«do ,\\\"\"\",,,,,\",,,,,,.,,,,,1,, :,,,,",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        59
+      ],
+      "page": 59,
+      "summary": "'-,,, (,,<mp't\" \"''''ulm,,,«do ,\\\"\"\",,,,,\",,,,,,.,,,,,1,, :,,,, .1\"\"\"\" '''' ,·\",\"\"tc' \",,\" .1,,«,.., d, <>\",1>,. o><go<u\",I\" \"nu P\"'''''''' I\"'~ti.;. den\"\" J\" \\;r\"\"de h \",m\"I,,1<, Sl~ f:1,nJ<o \"\".- do. do. ~I,p\" !'.1I0' , qu< : .. ,'07\", (0\"\"'«'\" .,.\".\" J< '.,(.\" ;\",. ,LLi'''''''.x C\".clCTlsti\". O rurb\",,\" n,-~TO • • ..J'r .. <'\\IrI\", Tultr ... \"\";:<,. <um ,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-gr-us-66",
+      "name": "Gr ~ us",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        66
+      ],
+      "page": 66,
+      "summary": "Gr ~ us o. ,d,,, m\" p\"\" ,,'o W\"\", \",,,,,dIJ J:,'i.dMlos <1n \\prrn ,!,,\"' < .\\1<.,«\" ~u.o. <:\"\". di,.,d\"\" $O 'p<n,,, d\",. .. ,,· '\" R\"L_ .\" d,.li.h. {w'\"m ,i,o.,.\" !'''''''''~' l .. :do. {'·.\"'m \"\"I , \"\";.,~k, .:-\" '''f!l \"ClJ<:),j~\"~\"<1\">' :, .. , .. , .... ,,,,, ,,,\" .. ,,,,': ,''''''<.l' \\''''''''''''''O'''»,l) \"\",,'. \"\"''''1(11''''' .\" •• ,':.J..,.\" ,n, h...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-brujas-67",
+      "name": "Brujas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        67
+      ],
+      "page": 67,
+      "summary": "Brujas h\"d~ ~lo' I,VI~\\,U . \"\".\"'''''«''0 oI \" ~ ,';,ul\" 1\".I'\" !\" ,,,h. U .. \" ~\"\" lh •. T\"I\"\\,,. \\t\"h;d (E.,p,~h ,1 An»ç • ..., \"'''1''' 1t~'<K'< \\,,,cn,,, d .. ~\" l l'<c.m,~I,d,dco .\\'i'''·;' 1\",,,,,.\"0.1,, (d,',~,,,,,,,,,~. ,,1>h,'; c \" \"'< I,,,,;, O\" \"\"'\\\"'''''''''1\". Im uh!A.lml.l.\\IA\".I:·r<\"''''A. lLom\";\",,,,\"\"'\" \",,\" .... .-\\1,· .. ,.1,.,1,(:.,,0.1,,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-hcllfirc-club-satanims-70",
+      "name": "Hcllfirc Club (Satanims)",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        70
+      ],
+      "page": 70,
+      "summary": "Hcllfirc Club (Satanims) ~ \" n,I >fl'\" .<,<:>,10 XVII (I k~ fo..,CI1,h;, I~~;( h\"\",h Q' S,..,n) ll .... EUo\\,lupl\"<ru, 1 1\"1.\"\"1>, .. \\:':',,..,;',, At\"., .. \" \"'n\" ..... ,1<o ,,,,..., h''''r' pnnq\"lrncnk P\"\",,><,a];d .. t .. · 1\\'1'10\"\",.\" A\"\" ... ~h\"'.n. R,.ni\"'';\" Funk\"\", Guilo.. d~ llu. (I .... ,'\" .~\",O<, I .. Ve •. ~t .. ~ ... ~Iu.,,, R.~kg,<>,,,,d ~d<...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ihd8rn-d-74",
+      "name": "Ihd8rn\"~d",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        74
+      ],
+      "page": 74,
+      "summary": "Ihd8rn\"~d \"j\"\"J.u.:.;, Q ,\"\"'\" 1><1> ~wd.j\" (.h.mo.J\"''''I\\''~o, d. ~k 'N<J\"\"''' dWlc.~ ,J... M>g\". l>o\"\",~, e\",..l\\h,,, l~.d ...... , ~ÚPJCo\" nio .d,u;io\",d<>. I. ['o\"\".,~ C.\",i,J\"\"d. ~.b.J\" mo' A <:nl>ll*\"'\" e hi..:\"to.ltim .. , nn<,,\"'u. Ii;o \",ui,,, 'emkk\" pe~'. \" ... \"<,, m\"t\"', p'.o ,,'o .. \",I .. quuc <»do oobre\"\"\" \",.\" J>Od<u,. O\" \"''''n<:'~''' . Al(...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-c-p-de-enxergh-auul-77",
+      "name": "C,p\" de EnxergH Auul",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        77
+      ],
+      "page": 77,
+      "summary": "C,p\" de EnxergH Auul I I\"\"\"\" «\"\" \"I.e'\"'\" \"\"H\"\"'''''>'''' «.,H '1<,,, fi,,1 J, 1'C<\"'l9\") \"l'<'''''''V<m 1\"~1o ..\",-, ,'\"'' de em. I\"\"'Q', 1,;'< d..,«\" \"'\" .. \"do J, \",,,i,,,,, ''''''('C\",~k.o '\" 'o',,\", d. \",. \"'\". C,da\",' cOIIT'l\"'t_d,- • tlmo \"\",\"\",,'0 JJk\"\"\" \" ,,1'«'Oi\"r,':nf ... h<:\" ~\"\" \"'gn\" ..... ,--.. h c\"' he'\" \",mo '»b,l,d,do n .. uul, N.\"O 1~J<k...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-f-mi-lj-u-78",
+      "name": "F ~mi lj .. u",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        78
+      ],
+      "page": 78,
+      "summary": "F ~mi lj .. u Seu p<\"o,\"~c'\" P'\" '\" '''~ 'm\"\"\". ~·.\"~b,,,<> ,J\" \"\" \"\"j, 'lU\" .<<>mp\",b\"\" \" rc'\",o\".~.no n,,, ~,,< 1\"'''''''''' I\"~I( ... ,',!·\"'\"l\"rlr'<\"'I\"\"\"\" .... ,\"'~,, .. \"\"'ú'<n'n.'\" I ,~)\"'O' w\", \",mui ,çutinm\"N(· ,unl'l .. ,<\",,,,u,,, I\"\" um \"\"):0 Ir.\"'\" \"1\"\\ \"\"\"'l'o ('n~c'. ,..\"horn; ~\" • 2 pooto' I'm ,\";m.1 ,\".;,~\"'\"\",, 'R' ,,,.,,,, :I~bo. bocl~. I\"...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-le-f-o-83",
+      "name": "!le\"\" F,;o",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        83
+      ],
+      "page": 83,
+      "summary": "!le\"\" F,;o _2 1\"\"\"'\" o f \"\" fru ,\"' \"I' \"\" \"-\"\"\"\"\"i!,~.,, '\"\"u P\",~, \"'p.cm, .\"'-Ul\"\"'\" \\·,.h\",m-,·I '\" ''''I\"' ,In lá\", In\" \"I'\" '\" de\" I,·,,\"\" 'i'\" 11. I, ' .. n , \"!\"\" r\",' qol( 1.0,,, \"cn,,,,_ I!>,doou\",,, ','I ,..., ,·,n '''r<I, bl'\"'\\.''I'~·ln\"phC''J''' 1.,11\"\"\"\"\",,,Jv1,.,, •. ,' n, \"<\"n\"' n,_,ili><r~,\" <\",,, 1'\",1,.\"\" \"\"\" .1\"\"mocAd. ,0I'e< ~, <m\" \",.J...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "starts_mid_sentence_possible_left_cut",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-uhh-90",
+      "name": "UHH",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        90
+      ],
+      "page": 90,
+      "summary": "\"7 'ª § ~ UHH iHj§ ,; jHW~ .:o -=\"3 :- ;: E nu ; ~ ~ i ~ ~ i i r!g , .\" ~ t 3 o ,.., H rf ~ ê ao ~,Ii o ~-i q -2 ~ ;'I g ir e>1 ~ e ~ ~ X ê 2 : ~ - jt;~ ., , i r~f~ ~ l' ~ l ~? ~ ~ ~~'f ~ f;' \" )..< ~ ~ ... ;::.; :r.;t:t ~~,~~* !~;.~ .J§ ~B r~ ~ '.- = , \" r Q ..... ~ ;; ~ \"\" ., ; , .~ , '1'! ' 1~~ !Itlf m\" ~j:t iii! ~ai ,H q I f ~,g J \"l ~ _ ~ {ê·~~r ~~ á~~...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-f-1-ul-i-n-91",
+      "name": "F\"\" 1\\\",ul~\"\"\"\" \",I\"'N\"",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        91
+      ],
+      "page": 91,
+      "summary": "F\"\" 1\\\",ul~\"\"\"\" \",I\"'N\" ,., ... 11.,,,\",, .. , .... ,,,<\">' .. \"\"\"\"\"'1'''','' ,·.I ••• I.I\"\"·\"'.,,~ ,,,,,,,k .. ,.·, .• \", ......... 1· .• ,,,1\"\" '.l.~ I •. ,,\" ,. ,I, .. ,,, ... ,.1'1\"''' At •. ,., I:\", 'I< 'c I ... \" ''''T<I.k,,~. 1'.I'ln\"I.<' ... , •. \".'\"'' '1\"-\" 1', rv\"~'·\"\";II\" .. '\"'' J<'''''','~m)(. nu, l\"'k, \"\".,,, ,,\",' 'I\"\" '''I''' ,I \"\",.,p, .......",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-loso-92",
+      "name": "loso,'",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        92
+      ],
+      "page": 92,
+      "summary": "loso,' () 1'<1>,,,. .,.e,,,,·,_,I .. ,,< n', \"\",!,,.,,·,,,,,.d,·un,, dmn'\" \" .. d,«:q;\"'\" ,U,~'i\",\",,:i<l«: '1'1\"\", \"i\"''''''' I'''' \"~'. u •. , «\" ,,,.,;.,,, ,I\" h,I''''''<> ,·o\"C,:~ \".Jd\"'). I',,, '1<\",· k\", ,·\" cJo<I\" <1000 I'.,i .. \" I\"\"h\"\"\" opICo,h ,', \"\" ',r.. ,J., ,,,,, 1<1'\" J'í\"\"' ,1< u'~' ,,~\"I> <\".pIK,ç'\" \"\" \"'\" I~ ''''o do nh\"n..ç.(u. L:,,, '1 .....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-pontos-heroi-os3-94",
+      "name": "Pontos Herói~os3",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        94
+      ],
+      "page": 94,
+      "summary": "Pontos Herói~os3 [i ,\",\"\"'l ...... , ... fuo .. \"\"\"'n'romo\"\"'.'''''·J .. ',, \"\"'\" de bem .. \"\"., d., t';;', ,.o'''' .. n ..... '~ .. ,.\", ... <1 .. \\ ,I\" ,\",1m,nu,,,,...,...,.,.,,,,,\",,,,'\" IÁ.\" .... \"., .. ,,,.,\"'J, • \"., 1><:,';\";,' OU··\", ..... ~U<'l'n,tcgt\" \"''1\"' fi.\"\" .~, \"',\"~\" .. , \",.Ir do\"\", q\" .\",10 cI< .-,«ruta .\"', IIO!!.._ i\" .. \"\"w,. (. '\" ,,,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-sei-hlrothllc-ys-l-r-ml-i-f-ten-divine-names-102",
+      "name": "SEI'HlROTHllC ~;YS'l'r:Ml;i~~:})F TEN DIVINE NAMES",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        102
+      ],
+      "page": 102,
+      "summary": "SEI'HlROTHllC ~;YS'l'r:Ml;i~~:})F TEN DIVINE NAMES SALO.'10NlS (C ITATIOl '.0 .. '.' .... · .•. ·_·, _Y\\\\UIJlII,YAr.IL\\l\\t:C HKr.vAY .Y~ )lI.AR.IL~I'.J.HI1F. V.1.(IIIIM.,\\ .... Cltlm:rrWmIR IITTIIM.F .. ('lllli\\llClTAY.l.t:I' IIA~\"{.\\\"V.\\mIA.lLM!'YEySJIA",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "does_not_end_like_complete_sentence",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-llllllu-122",
+      "name": "llllllu",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        122
+      ],
+      "page": 122,
+      "summary": "llllllu \"HHH : Ii\"! ;; i-!i~~ ~s~~~ ~ § !l-;: C ~ ~ mil' mttt HíHi t}lW lf~{t HW ~ ~ f g ~ HlU ~. ~ ~ • , .., ('J } ~~ ,... • l Pt-~ ~ ::; iI '\" ~ ~ o ? &. v , , ,q ,\"1 [1 8 r- ~ ~S * ~ g ~ ,; [ ~ ~ f ~ ! i ~ ; ~ e r , li 1 ~ ~ i:' ~ k 5 I ª ~ 11 ;'1 ~ t t:; ~ 1: &-ª \" g ,3' ã 9 , • ! :f- , ~ ~ ~ ~ \" ;: 1 ~. ~ ::. C li! Ui :: ii ,.., ...... ~ n ~ - , \" ~ ~ o...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ci-s-i-cih-147",
+      "name": "Ci.\"s i. Cih,.,",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        147
+      ],
+      "page": 147,
+      "summary": "Ci.\"s i. Cih,., C\"\",!L'~!\",.i,,1 N\", .. Ih\" ... ,P \"'_\"\"'. \"\")lHe. ,\"~\" \"\"\"'\" \". \"\"'\", ,I< \"m do<um«l'o 0\" !-,,'lf,HlWJ><> <\" de\"\" uJ<.:.\" 1<>1 .. , .\",. \"' •••• \"'~u,,\" ['\"'' \"m_, \"\"1\",11.,,.. I ••. \"\"\" I\"hn\"c;\". ,m'1\"'\" pede ... do ..1.,,'''''''-'''''' \"\"~,,,.1. ..1,,,.1,,\" .1)('\"\" '''\"',''\"., Clid ....,.\"·r .. ,,., E,o< ~ .\", J\". 1\";\"'<1\"\" R\" .... \" ~'''-...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-e-i-f-n-a-ri-c-1-1-c-m-150",
+      "name": "E,,,,i·\"f'n,,,á,,,Ri,c.!~ .... \"''' ''''<>''''1'\",.1<. ~!c,m,,'\"",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        150
+      ],
+      "page": 150,
+      "summary": "E,,,,i·\"f'n,,,á,,,Ri,c.!~ .... \"''' ''''<>''''1'\",.1<. ~!c,m,,'\" é\",,,,, \",,,!i.-,'.!. ~, ... \"I,,~, \"\"I'''' uMI. \"\"\" \",n~\"\" '''''''' C\",\" ,\"\", ,\\ktam>)l'«>, o.\" Rio.ull ..... <or.h<ad<>. .peN,do> \"\",><.I., \"\"n\",,.hom\"nl.W ld.f\"\"c\"\"\",,.., .~.I ....... <I> V\"\"\"\"!,, .• f\"\"H' ,kfu\"J., '-'~n !'''' , ..... 'I\"''''' ,~, ... u~, X\\\" \"h ... »d\" \"\" ,k um 1\"\"1'''\"''''...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "starts_mid_sentence_possible_left_cut",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-ht-j-m-h-i-io-o-151",
+      "name": "ht\"j(\"\",;,,~,; \"m\"h;.I\",~,Io\",,,\"',,,',,\\O\"'''''''",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        151
+      ],
+      "page": 151,
+      "summary": "ht\"j(\"\",;,,~,; \"m\"h;.I\",~,Io\",,,\"',,,',,\\O\"''''''' I,lo< c<h\",,, .. ,,, \"uH,.\".,..\",. ~~\"OO\"\",.,\" ... w' ... \"'m ....... \"\"1(\" \"\"'\"\" ''''' I , \", .-,m~. no\"\" I .. \",,, •• ~, RU,' .... \" '\".oRo''' '~l\"',k .\",plnt. 'oH; :.o, \",.~\"H\" 1(\"; ...... \"l.,,dw\". o <:01<1 .. \",,j(, \"\" ... 1 ... \"\"\". '1\";' com \"m .... pt'<' \",,,,,,'o -nho<i\", \"<I> <...., ,d.,.,., (,\"\" b...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-c-iicr-152",
+      "name": "C.iicr",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        152
+      ],
+      "page": 152,
+      "summary": "C.iicr ' __ -1\"\".;<> ü n~ pt«=d< tom P\"\" 1\"'\" ..-.h., •. ,,,,ru,,utR<a<.ll.do ,,. ,.,.,\"\", '''''''.''''''''1''''' ,lo ~:>,h'O~\" Ft:ld{ .• (.Jó'.,I\"f\"\"\"~,,LI jaw. oolmoU!lUJ>C_rom 1'<0\" ... , ......... 0< l\"c,Jrrrulo.i. \\.tounl<:' '''0 \"\"\"1,1,,.; lo n. /\", ... 1\"_ () n .. i<'p'\"'''''' .... , .. «, \"\" <O<.l.I <On<'<'1.' \"»;i<>\" .. 'l., .. ,,,,,\"\"' ...... \"\", ....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-lc-tut-de-mcnlc-153",
+      "name": "lc;tut~ de Mcnlc~",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        153
+      ],
+      "page": 153,
+      "summary": "lc;tut~ de Mcnlc~ C.';~I'\" H\"\",. ('~)h·.\",d\" \" \" ... \"\" \"\"I,,\" , , .,1,.-,;, ,k um. \"'\"\"\"',<> \"'-'I<\" I\"\"i<' \".\" .. ,\" ,'''.'''' ... \" 'N\"n~.-; .... ,d< .',. \"'\"\" •. O I'\"\",,c .. oc d,~om'\", Jm,..\",J\" ,vi:\"\". r\"\"'''' \"\" \",.\"\".Lo i\"\",I\"'\"\"J. J\",.,,, .. ,, !,~K.,·'''' ..-.do;, () n·.,,,,, [\"\"I. '\"~Ul .lIU\",., 'm\" ,~,-\"tm· .co, \".\". ~I(, ,\">0'\"'' \\~'IU. d.t ,.;...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-p-cvisio-156",
+      "name": "P.cviSio",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        156
+      ],
+      "page": 156,
+      "summary": "P.cviSio C'!J.~iJ, ,',!~,'.,.,,(,/> ~' F,,~ Ih'\",1 ~u \",'.u'o \"\"'!\"\"!.' I\"\" '\"\",.,,,,, ','n'l\"' d< P\"P'W ~< \"\"\"\", !t.,,,\",,, \\!\"\"ÓC ~ ,I,.,,,, •. C\",) ;.1.: 1'<-\"\"\"'-' bt\"\" dI,.., ,;\"L\"\"<\"'OO h\"T.n<, 1\"\",';.,0 p\"\" \"\"', \"\"', J,. ...;;<>. d.Jde q'\"- \"ÁOK<>«, ... · .. ,..\".u J< .... \"'or.l .. ,·,\"', ,. \"np\"\"~\"d '1''' \"\"\"\"plo .• I .. \",. \\xxl ... 1>.\" U,\"\"\"C\"h-...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-a-lei-173",
+      "name": "A Lei",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        173
+      ],
+      "page": 173,
+      "summary": "A Lei ','\" d. '\"'' u,J .. I~d, l\"n<b\".l.I\"'~-u\" .I. <.,dj '-e,,,. r,c\"-'''' P.roc'I><\"\"\"n'\" nn,·o. Rt,u:U.,lou_ ,,,, f\"\"f,>d\".<k.J;,,,,,,,. ,n,\",u><;\"\"l'''~''''''''-'.\" \"'''no. ,I, .Iu~,,<l_ 1\"\"\"\"u<>' ,\"'\" 4.IX~) mo. ,Jc ,d,<k. «0\"\"\" '1\"< ,,,,,1< nl':'\"\"\"\" ,1\"cobrIam \",\" ,1,,,,i.\",,, di, r •• ç.do no' lu~\" .10 <Im do. 00\"\"\"\"0;> • .10 pr«,dnll' ... \"O;, do, <...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-dem-onios-185",
+      "name": "Dem.ônios",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        185
+      ],
+      "page": 185,
+      "summary": "Dem.ônios I\"\" \"\" ,;\".ci\"\",i\"'~\".<'~!l\" ... ,I, ,' ...... \"'\"., ,n,,,.,m'·!lIC bf;.oJ •• \"\"'0 ... .10. \"\"~,,, Di< nn>lu ,1\",,..~ .,t.c:.,li '.1,\"\"''''' ..,,,,,,,,,,,,,,,HtÓmfo<f'\"i< \"':: _\" .. \".J.io. ~, '''' \"·I~lo., pri\"\" Ir>. ,,,'>d>Jc 'l\"\" lU'!'.''' \" .. 0.1\", T .. _ '\"m< 'PÓ'\" <h'·r .• ,I • .In !kn\".,r~,· < ,In \\,,., .. , ,I(> '(-mpoi' I' \".di,., i,\" ,i,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-mu-cu-flat-in-ico-197",
+      "name": "() Mu.cu flát ín ico",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        197
+      ],
+      "page": 197,
+      "summary": "() Mu.cu flát ín ico Eu ~ .. io<e m ... '''''So 0\"\"\"\",(' Inr,lm\", 1'\" •. \", 'U,,\" coleo\"\" de .. \"\" ... ,'\" ,. '..!*-IU'\" in.\"I\"'~\"'''''' o,n \"~I\",, \"\"\"\"lu (a\"\"\"\" \"',.., ru. <'1~\"\" <11';·\" <>ngi\"'''' ''''r,\"''~~ Jc '\\\"\"\"\"\"'\";'''''~ .16\" de ><b\".j.\" ogiJ\"\"'.., \"\"\"\"~\"\"r.r<~ .... ;,,,.,,,,< ,~, \",;,,,,, \",&1,,, i'. \",\" ,10\" I''''''''l''''' \"\"\"to. dcpl\"\"I'\"\"I\"\" ....",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-derek-204",
+      "name": "Derek",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        204
+      ],
+      "page": 204,
+      "summary": "Derek i )\".1.- ; ,,, \"'<o )'d\" '1\\\");' \"\"uh\"\"\"),, \" ;\"\",,1 \"\",,'oh,,) .I\" (:I,,1w <I~ 1\"1,,,,,,, \"m. w,),h~ , . (1)1''. \"\"OI')\"'''''''' o.'' \",,'\" de id.Jc. O\"eJ, \" \"\"\",;,u_'\" i\"V<tH ~\"Ç\"'\" u,,, p'\"'''' ~'\" ,o,li,,,,, \"m:~ M.\",,,,ú,,t<nu l<eli,) J),,,,,k '''''''''Il\",i\",d\"\" 1100''''.(1,,h,,,,,, S\"'''<k <<>mf''' \"\",i,\" m\"i,,,, .lirm,utt 'I\"\" )~*,,,,, 'i,, ,,,...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-vcrooiea-mealistcr-205",
+      "name": "Vcrooiea MeAlistcr",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        205
+      ],
+      "page": 205,
+      "summary": "Vcrooiea MeAlistcr Um. do< m,,, .nn~ .. h .... \"\",,,, ,I .. IIh ... S,u tu\"óno d,. 'I\"\" no'H\"\"\" I~IH. \" .. \"\" ... 11lt),I ... d .... 1',,,.,.,, 0'!\"\" lU> .. ou '\" urn .... \"\"'\" \",I\",,,,,. I'M\",,,,,~, 'C\" \"\"'I~' c.\"\", '1\",1> ,I~ .I!I''''' \",,,., ,1< .\\, ..... ,h., \", •• \"\",\"\" J\"\"'....,.<\"~\" M\".\",,,,,,I.,. no< .k • ..b d,':O f'I,,,,,<m.I<,,,,,<\",,,,,,,,,,. f\",...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -900,6 +3913,93 @@
         "front_matter_or_index_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-um-sussurro-2",
+      "name": "Um Sussurro",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Um Sussurro nas Trevas Alexander “El Brujo” Siqueira",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",

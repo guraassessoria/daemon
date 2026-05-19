@@ -1291,6 +1291,22 @@
     "extractionMethod": "full-read-auto-pass-1"
   },
   {
+    "id": "compendio-de-regras-daemon-trevas",
+    "name": "Compendio de regras DAEMON Trevas",
+    "category": "source",
+    "source": "compendio-de-regras-daemon-trevas",
+    "page": 1,
+    "entries": [
+      "Fonte processada com cobertura total: 45 paginas, 1 partes.",
+      "Categorias encontradas: core_rule"
+    ],
+    "tags": [
+      "core_rule"
+    ],
+    "confidence": 1,
+    "extractionMethod": "unknown"
+  },
+  {
     "id": "conan",
     "name": "conan",
     "category": "source",
@@ -4117,6 +4133,22 @@
     "extractionMethod": "full-read-auto-pass-1"
   },
   {
+    "id": "regras-de-boa-convivencia",
+    "name": "Regras de boa convivência",
+    "category": "source",
+    "source": "regras-de-boa-convivencia",
+    "page": 1,
+    "entries": [
+      "Fonte processada com cobertura total: 5 paginas, 1 partes.",
+      "Categorias encontradas: core_rule"
+    ],
+    "tags": [
+      "core_rule"
+    ],
+    "confidence": 1,
+    "extractionMethod": "unknown"
+  },
+  {
     "id": "revolucao-francesa",
     "name": "Revolução Francesa",
     "category": "source",
@@ -4547,6 +4579,38 @@
     ],
     "confidence": 1,
     "extractionMethod": "full-read-auto-pass-1"
+  },
+  {
+    "id": "tabela-de-fadiga-dos-jogadores-e-npc",
+    "name": "Tabela de Fadiga dos Jogadores e NPC",
+    "category": "source",
+    "source": "tabela-de-fadiga-dos-jogadores-e-npc",
+    "page": 1,
+    "entries": [
+      "Fonte processada com cobertura total: 11 paginas, 1 partes.",
+      "Categorias encontradas: core_rule"
+    ],
+    "tags": [
+      "core_rule"
+    ],
+    "confidence": 1,
+    "extractionMethod": "unknown"
+  },
+  {
+    "id": "tabela-e-regras-para-magos",
+    "name": "Tabela e Regras para magos",
+    "category": "source",
+    "source": "tabela-e-regras-para-magos",
+    "page": 1,
+    "entries": [
+      "Fonte processada com cobertura total: 11 paginas, 1 partes.",
+      "Categorias encontradas: core_rule"
+    ],
+    "tags": [
+      "core_rule"
+    ],
+    "confidence": 1,
+    "extractionMethod": "unknown"
   },
   {
     "id": "tagmar-daemon",

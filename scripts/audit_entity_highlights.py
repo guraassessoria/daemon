@@ -175,7 +175,7 @@ def write_markdown(payload: dict[str, Any]) -> None:
             "",
         ])
     REPORT_MD.parent.mkdir(parents=True, exist_ok=True)
-    REPORT_MD.write_text("\n".join(lines), encoding="utf-8")
+    REPORT_MD.write_text("\n".join(line.rstrip() for line in lines), encoding="utf-8")
 
 
 def main() -> None:

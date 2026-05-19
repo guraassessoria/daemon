@@ -215,6 +215,11 @@ def ready_source_ids() -> list[str]:
         if source.get("status") == "ok":
             selected.add(source["id"])
 
+    extra = read_json(INDEX_DIR / "publishable-extra-sources.json", {"sources": []})
+    for source in extra.get("sources", []):
+        if source.get("publish") and source.get("extractionStatus") != "critical":
+            selected.add(source["id"])
+
     resolved = {duplicate_to_canonical.get(source_id, source_id) for source_id in selected}
     return sorted(source_id for source_id in resolved if source_id in sources and source_id in books)
 

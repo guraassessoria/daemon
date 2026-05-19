@@ -5,47 +5,47 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 
 ## Resumo
 
-- Registros sinalizados: 1387
+- Registros sinalizados: 2209
 
 ### Flags
 
 - `aprimoramento_without_cost_marker`: 26
-- `critical_ocr_gibberish`: 12
-- `does_not_end_like_complete_sentence`: 984
-- `encoding_or_ocr_artifact`: 45
-- `ends_with_connector_possible_cut`: 103
-- `front_matter_or_index_block`: 5
-- `hyphenated_word_split`: 524
-- `invalid_title_or_ocr_header`: 4
+- `critical_ocr_gibberish`: 152
+- `does_not_end_like_complete_sentence`: 1017
+- `encoding_or_ocr_artifact`: 178
+- `ends_with_connector_possible_cut`: 284
+- `front_matter_or_index_block`: 12
+- `hyphenated_word_split`: 860
+- `invalid_title_or_ocr_header`: 23
 - `lowercase_sentence_after_section_possible_leak`: 313
 - `many_cost_markers_possible_merged_aprimoramentos`: 9
 - `page_number_inside_text`: 160
 - `repeated_fragment_possible_duplication`: 29
-- `starts_mid_sentence_possible_left_cut`: 8
-- `symbol_noise_ocr`: 4
+- `starts_mid_sentence_possible_left_cut`: 34
+- `symbol_noise_ocr`: 110
 - `too_long_possible_merged_blocks`: 21
-- `too_short_possible_cut`: 56
-- `unbalanced_brackets`: 1
-- `unbalanced_parentheses`: 81
+- `too_short_possible_cut`: 85
+- `unbalanced_brackets`: 73
+- `unbalanced_parentheses`: 353
 
 ### Por área
 
 - `aprimoramentos`: 211
-- `atributos_pericias`: 46
-- `aventuras`: 12
-- `cenarios_lore`: 1
+- `atributos_pericias`: 112
+- `aventuras`: 35
+- `cenarios_lore`: 63
 - `classes`: 12
-- `combate`: 50
-- `criaturas_npcs`: 71
-- `itens_equipamentos`: 31
+- `combate`: 207
+- `criaturas_npcs`: 220
+- `itens_equipamentos`: 258
 - `kits`: 186
 - `linhagens`: 70
 - `magias`: 217
 - `poderes`: 358
 - `racas`: 47
-- `regras_base`: 20
-- `rituais`: 53
-- `tabelas`: 2
+- `regras_base`: 79
+- `rituais`: 127
+- `tabelas`: 7
 
 ## Primeiros itens para revisão
 
@@ -233,6 +233,46 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Tipo de cruzador/nave descrito no quick start de Abismo Infinito.
 
+### ARRANUN
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-arranun-2`
+- Área: `cenarios_lore`
+- Fonte: `arkanun-1e-ultra-raro` p. 2
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: ARRANUN Marcelo Del Debbio Digitalizado com CamScanner
+
+### Arkanun
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-arkanun-41`
+- Área: `cenarios_lore`
+- Fonte: `arkanun-1e-ultra-raro` p. 41
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Arkanun Digitalizado com CamScanner
+
+### Nha Eta
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-nha-eta-51`
+- Área: `cenarios_lore`
+- Fonte: `arkanun-1e-ultra-raro` p. 51
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Nha Eta DO MESTRE RAN N
+
+### Pagina inicial
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-pagina-inicial-1`
+- Área: `cenarios_lore`
+- Fonte: `arkanun-1e-ultra-raro` p. 1
+- Flags: `too_short_possible_cut`, `unbalanced_brackets`, `unbalanced_parentheses`
+- Amostra: pa o e e q [ê) (99) E [e] (6) E fo) fa) (o) o) o N o) = = jm)
+
+### Pagina inicial
+
+- ID: `trevas-3-0--trevas-3-0-pagina-inicial-1`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
 ### Pagina inicial
 
 - ID: `trevas-de-marte--trevas-de-marte-pagina-inicial-1`
@@ -240,6 +280,22 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `trevas-de-marte` p. 1
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: T
+
+### Pagina inicial
+
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-pagina-inicial-1`
+- Área: `cenarios_lore`
+- Fonte: `um-sussurro-nas-trevas` p. 1
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### Um Sussurro
+
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-um-sussurro-2`
+- Área: `cenarios_lore`
+- Fonte: `um-sussurro-nas-trevas` p. 2
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Um Sussurro nas Trevas Alexander “El Brujo” Siqueira
 
 ### Capítulo 8 – Armas e Equipamentos
 
@@ -265,6 +321,38 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Pagina sem texto extraido relevante.
 
+### (2) DRAGÃO ESPECIAL
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-2-dragao-especial-32`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun-1e-ultra-raro` p. 32
+- Flags: `does_not_end_like_complete_sentence`, `encoding_or_ocr_artifact`, `too_short_possible_cut`
+- Amostra: (2) DRAGÃO ESPECIAL Digitalizado com CamScanner
+
+### ...E ESSA É À
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-e-essa-e-a-6`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 6
+- Flags: `starts_mid_sentence_possible_left_cut`, `too_short_possible_cut`
+- Amostra: ...E ESSA É À HISTÓRIA. O RESTO VOCÊ JA SABE.
+
+### ; NA à.
+
+- ID: `anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-na-a-50`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-guerra-santa-biblioteca-elfica` p. 50
+- Flags: `does_not_end_like_complete_sentence`, `starts_mid_sentence_possible_left_cut`, `too_short_possible_cut`
+- Amostra: ; NA à. PA »,
+
+### ANY
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-any-12`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. -
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: ANY A \\ ies \ \ é XN “ NY Wort ONDE ESTA ELE? — ANA a gd AA | VORA
+
 ### Capítulo 1 - História dos Dragões
 
 - ID: `dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-capitulo-1-historia-dos-dragoes-11`
@@ -288,6 +376,14 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `alastores-a-justica-infernal` p. 41
 - Flags: `too_short_possible_cut`
 - Amostra: Ficha de criatura/inimigo apresentada no suplemento Alastores.
+
+### Documento DOCX estruturado
+
+- ID: `tabela-de-fadiga-dos-jogadores-e-npc--docx-structured-source`
+- Área: `criaturas_npcs`
+- Fonte: `tabela-de-fadiga-dos-jogadores-e-npc` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Fonte DOCX estruturada: Tabela de Fadiga dos Jogadores e NPC.
 
 ### DragõeS
 
@@ -329,6 +425,22 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Guerreiros e figuras notaveis dos Alastores, incluindo Gathering e Seddim.
 
+### Marcela Del Debato
+
+- ID: `anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-marcela-del-debato-1`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-a-cidade-de-prata` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: M Marcela Del Debato
+
+### Marcelo Del Debbio
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-marcelo-del-debbio-1`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Marcelo Del Debbio O Evandro Gregori
+
 ### Mortos Vivos
 
 - ID: `mortos-vivos--mortos-vivos-mortos-vivos-2`
@@ -337,11 +449,35 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Mortos Vivos 2ª edição
 
+### PARADOS!
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-parados-17`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 17
+- Flags: `too_short_possible_cut`
+- Amostra: PARADOS! POLÍCIA! VEM COMIGO SE QUISER | VIVER! SOU \ AMIGA!
+
+### Pagina inicial
+
+- ID: `anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-pagina-inicial-1`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-guerra-santa-biblioteca-elfica` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `starts_mid_sentence_possible_left_cut`, `too_short_possible_cut`
+- Amostra: E! Ê E q 5 rf : g E q
+
 ### Pagina inicial
 
 - ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-pagina-inicial-1`
 - Área: `criaturas_npcs`
 - Fonte: `demonios-a-divina-comedia` p. 1
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### Pagina inicial
+
+- ID: `guia-de-monstros-de-arton--guia-de-monstros-de-arton-pagina-inicial-1`
+- Área: `criaturas_npcs`
+- Fonte: `guia-de-monstros-de-arton` p. 1
 - Flags: `too_short_possible_cut`
 - Amostra: Pagina sem texto extraido relevante.
 
@@ -449,6 +585,22 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Pagina sem texto extraido relevante.
 
+### Pagina inicial
+
+- ID: `guia-de-armas-de-fogo-3a-edicao--guia-de-armas-de-fogo-3a-edicao-pagina-inicial-1`
+- Área: `itens_equipamentos`
+- Fonte: `guia-de-armas-de-fogo-3a-edicao` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### A Contenda Eterna
+
+- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-contenda-eterna-1`
+- Área: `regras_base`
+- Fonte: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: A Contenda Eterna A Contenda Eterna João Fernando Rech Wachelke
+
 ### Daemon Medieval
 
 - ID: `daemon-medieval--daemon-medieval-daemon-medieval-51`
@@ -464,6 +616,30 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `daemon-medieval` p. 53
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Daemon Medieval 53
+
+### Documento DOCX estruturado
+
+- ID: `compendio-de-regras-daemon-trevas--docx-structured-source`
+- Área: `regras_base`
+- Fonte: `compendio-de-regras-daemon-trevas` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Fonte DOCX estruturada: Compendio de regras DAEMON Trevas.
+
+### Documento DOCX estruturado
+
+- ID: `regras-de-boa-convivencia--docx-structured-source`
+- Área: `regras_base`
+- Fonte: `regras-de-boa-convivencia` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Fonte DOCX estruturada: Regras de boa convivência.
+
+### E X P A N D I D O E M O D I F I C A D O
+
+- ID: `modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-e-x-p-a-n-d-i-d-o-e-m-o-d-i-f-i-c-a-d-o-1`
+- Área: `regras_base`
+- Fonte: `modulo-basico-expandido-e-modificado` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `starts_mid_sentence_possible_left_cut`, `too_short_possible_cut`
+- Amostra: E X P A N D I D O E M O D I F I C A D O M Ó D U L O B Á S I C O
 
 ### Hakusho
 
@@ -481,6 +657,30 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Iniciativa DAEMON Hatalíbio Almeida Sistema Daemon
 
+### Pagina inicial
+
+- ID: `daemon-anime-rpg--daemon-anime-rpg-pagina-inicial-1`
+- Área: `regras_base`
+- Fonte: `daemon-anime-rpg` p. 1
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### Pagina inicial
+
+- ID: `sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-pagina-inicial-1`
+- Área: `regras_base`
+- Fonte: `sistema-daemon-modulo-basico-dragonslayer-01-e-02` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### Pagina inicial
+
+- ID: `tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-pagina-inicial-1`
+- Área: `regras_base`
+- Fonte: `tagmar-daemon-versao-completa` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
 ### Sistema Daemon
 
 - ID: `mago-sistema-daemon--mago-sistema-daemon-sistema-daemon-2`
@@ -489,6 +689,30 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Sistema Daemon 1ª edição
 
+### TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)
+
+- ID: `daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19`
+- Área: `regras_base`
+- Fonte: `daemon-tormenta` p. 181
+- Flags: `does_not_end_like_complete_sentence`, `encoding_or_ocr_artifact`, `too_short_possible_cut`
+- Amostra: TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 181
+
+### www.daemon.com.br
+
+- ID: `varna-chamado-da-guerra--varna-chamado-da-guerra-www-daemon-com-br-2`
+- Área: `regras_base`
+- Fonte: `varna-chamado-da-guerra` p. 2
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: www.daemon.com.br fone/fax: (11) 5539-1122 São Paulo - SP
+
+### ADEQUADO
+
+- ID: `grimorio--grimorio-adequado-1`
+- Área: `rituais`
+- Fonte: `grimorio` p. -
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: ADEQUADO Pak 16 E Marcelo Del Debbio system Sistema Daemon
+
 ### Rituais
 
 - ID: `alastores-a-justica-infernal--alastores-rituais`
@@ -496,6 +720,14 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `alastores-a-justica-infernal` p. -
 - Flags: `too_short_possible_cut`
 - Amostra: Rituais como Convocar Lukhavim, Sellas locum e Ipsa Nomina.
+
+### Documento DOCX estruturado
+
+- ID: `tabela-e-regras-para-magos--docx-structured-source`
+- Área: `tabelas`
+- Fonte: `tabela-e-regras-para-magos` p. -
+- Flags: `too_short_possible_cut`
+- Amostra: Fonte DOCX estruturada: Tabela e Regras para magos.
 
 ### Afinidade com Magia
 
@@ -591,7 +823,7 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Área: `aprimoramentos`
 - Fonte: `aprimoramentos-2` p. 6
 - Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 1 PONTO: O personagem adquiriu um árduo treinamento em grupo. Quando ele entra em combate junto com um ou mais colegas (personagens que devem obrigatoriamente possuir este Aprimoramento) eles atuam como se fosse uma só criatura - combinando as características 
+- Amostra: 1 PONTO: O personagem adquiriu um árduo treinamento em grupo. Quando ele entra em combate junto com um ou mais colegas (personagens que devem obrigatoriamente possuir este Aprimoramento) eles atuam como se fosse uma só criatura - combinando as características
 
 ### Sortudo
 
@@ -599,7 +831,7 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Área: `aprimoramentos`
 - Fonte: `aprimoramentos-3` p. 14
 - Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 2 pontos: este Personagem é portador de uma sorte incrível. Uma vez por sessão de jogo, o Jogador pode Rolar novamente um dado caso tenha falhado em um Teste (qualquer tipo de rolagem de dados). Ele deve anunciar essa decisão ANTES de rolar os dados (ou seja, 
+- Amostra: 2 pontos: este Personagem é portador de uma sorte incrível. Uma vez por sessão de jogo, o Jogador pode Rolar novamente um dado caso tenha falhado em um Teste (qualquer tipo de rolagem de dados). Ele deve anunciar essa decisão ANTES de rolar os dados (ou seja,
 
 ### Tutor
 
@@ -607,7 +839,31 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Área: `aprimoramentos`
 - Fonte: `aprimoramentos-3` p. 9
 - Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `page_number_inside_text`
-- Amostra: Todo o Personagem Mago teve, em algum momento de sua aprendizado, um Tutor que lhe ensinou sobre a Magia. Se você desejar que este Tutor ainda esteja com o seu personagem por alguma razão, então gaste seu pontos neste Aprimoramento. O Mestre deve criar toda a 
+- Amostra: Todo o Personagem Mago teve, em algum momento de sua aprendizado, um Tutor que lhe ensinou sobre a Magia. Se você desejar que este Tutor ainda esteja com o seu personagem por alguma razão, então gaste seu pontos neste Aprimoramento. O Mestre deve criar toda a
+
+### )IfJM
+
+- ID: `arkanun--arkanun-ifjm-227`
+- Área: `atributos_pericias`
+- Fonte: `arkanun` p. 227
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`, `unbalanced_parentheses`
+- Amostra: )IfJM .7;;__,_ - - .• . w/.....,_"'< ' ,, ' ,' ' ͠ -çÕ' ֽ _ ,,_ . .. ". ·"' :-\ j r)J_,-.r,·1 z,, ... ·Ƥ( -e _ _ , .. ּ ׄ,- : _,"--· '-y ' i f'• \\ \ ... . \ " "< • .,-· ' .Р- l • 'il l, \ .... » ··.,:...;::- Nome _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ '·•_ . _v.
+
+### 1'''''''M·'/" .iI,,,,''''O.
+
+- ID: `trevas-3-0--trevas-3-0-1-m-ii-o-37`
+- Área: `atributos_pericias`
+- Fonte: `trevas-3-0` p. -
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `invalid_title_or_ocr_header`, `symbol_noise_ocr`, `unbalanced_brackets`, `unbalanced_parentheses`
+- Amostra: 1'''''''M·'/" .iI,,,,''''O. 1'"",,,,, Heróico,,' I,"''' n" ,/ Passo 5: Aprimoramcntos ",e""" ",i",,1 r. d<1"'"dondo do """"k , ,I". C""l""h", ",,; OTIc,m O e",' <~ 'K ,'j ,,) l'",:k "'"' ,,[u "1',,,,d,, O, F"""" ,1" ["'';'''" ,,,,, ""k"hdo, J" '<~U J1l [C ,nA"
+
+### AST6~T~
+
+- ID: `neokosmos-biblioteca-elfica--neokosmos-biblioteca-elfica-ast6-t-92`
+- Área: `atributos_pericias`
+- Fonte: `neokosmos-biblioteca-elfica` p. 92
+- Flags: `ends_with_connector_possible_cut`, `unbalanced_brackets`
+- Amostra: AST6~T~ mST~H "D11ra11te todo o período da Tita11omoq11i11 mmc11 foi esquecida a grandeza da civilização grega que foi deixada para trás. Mesmo naquelas terras que lhes eram estranhas os homens traziam incrmtada em set1s corações a herança de seus ancestrais.
 
 ### ATRIBUTO BASE
 
@@ -615,7 +871,15 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Área: `atributos_pericias`
 - Fonte: `evolucao-alternativa` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50 
+- Amostra: Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50
+
+### Armadura Magica
+
+- ID: `guia-de-itens-magicos--guia-de-itens-magicos-armadura-magica-52`
+- Área: `atributos_pericias`
+- Fonte: `guia-de-itens-magicos` p. 52
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Armadura Magica Assim como as armas magicas, as armaduras podem, em principia, serem feitas de qualquer tipo de armadura basica (para mais informa<;oes, consulte GUIA DE ARMAS MEDlEV AIS). Deve-se lembrar que a armadura cleve ser fei- ta com extrema cuidado e
 
 ### Atenção!
 
@@ -625,13 +889,29 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois ele foi feito para livre download. Tudo relatado aqui é ficcional, trate isto como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um
 
+### Atributos Básicos
+
+- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-atributos-basicos-75`
+- Área: `atributos_pericias`
+- Fonte: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Atributos Básicos Atributos Básicos A determinação das estátisticas (valores numéricos) que definem os pontos fortes e fracos de um personagem é estabelecida através de Pontos de Personagem. Ao criar um personagem iniciante você dispõe de 100 Pontos de Persona
+
+### Camut'lagem {PER}
+
+- ID: `daemon-anime-rpg--daemon-anime-rpg-camut-lagem-per-51`
+- Área: `atributos_pericias`
+- Fonte: `daemon-anime-rpg` p. -
+- Flags: `ends_with_connector_possible_cut`, `unbalanced_brackets`
+- Amostra: Camut'lagem {PER} Permite ao Personagem esconder-se ou esconder pessoas em falsos compartimentos, esconderijos ou coberturas especiais. Um Teste de perícia bem-sucedido esconde o Personagem de alguém que não o esteja procurando. Se ele estiver sendo procurado,
+
 ### Capítulo 7 – Perícias
 
 - ID: `daemon-medieval--daemon-medieval-capitulo-7-pericias-36`
 - Área: `atributos_pericias`
 - Fonte: `daemon-medieval` p. 36
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso 
+- Amostra: Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso
 
 ### Capítulo 7 – Perícias
 
@@ -649,6 +929,14 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: Características Táuricas Todos os tauros compartilham de algumas características em comum, que também são comparti0lhadas pelos centauros. Tauros recebem +2 de FR para qualquer tarefa envolvendo sua metade inferior do corpo, incluindo ataque com as patas. Taur
 
+### Ciências Proibidas*
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-ciencias-proibidas-24`
+- Área: `atributos_pericias`
+- Fonte: `arkanun-1e-ultra-raro` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Ciências Proibidas* Valor inicial: O A perícia sobre conhecimentos ocultos abrange uma diver- sidade de assuntos que devem ser escolhidos pelo jogador. Incluem conhecimentos sobre Arkanun, Infernun, Paradisia, Éden e Spiritun, bem como reconhecimento de posses
+
 ### Daemon Medieval
 
 - ID: `daemon-medieval--daemon-medieval-daemon-medieval-37`
@@ -657,13 +945,21 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: Daemon Medieval 37 Um Teste de Conhecimento deve ser realizado toda vez que o Personagem deseja obter alguma informação sobre o conhecimento em questão. Geralmente o Teste será Normal, mas para lembrar-se de uma informação mais profunda e obscura o Mestre pode
 
+### Determine o passado do
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-determine-o-passado-do-17`
+- Área: `atributos_pericias`
+- Fonte: `arkanun-1e-ultra-raro` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Determine o passado do personagem Imagine onde seu personagem nasceu, como era sua famí- lia, em que condições ele foi criado e educado, quais o fatos marcantes em sua vida, e como ele chegou onde está. Max Le Plik nasceu em um condado pobre ao norte da Escóci
+
 ### ELEMENTOS SECUNDÁRIOS
 
 - ID: `gerador-de-criaturas--gerador-de-criaturas-elementos-secundarios-72`
 - Área: `atributos_pericias`
 - Fonte: `gerador-de-criaturas` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: 72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o 
+- Amostra: 72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o
 
 ### ESPORTES*
 
@@ -671,7 +967,7 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Área: `atributos_pericias`
 - Fonte: `guia-pericias` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: ESPORTES* Existem vários tipos de Esportes que podem ser selecionados pelo Personagem. A seguir existem alguns exemplos. Acrobacia (AGI): Dá ao Personagem a habilidade de equilibrar-se em pequenas superfícies, andar sobre cordas, fazer malabarismo e coisas do 
+- Amostra: ESPORTES* Existem vários tipos de Esportes que podem ser selecionados pelo Personagem. A seguir existem alguns exemplos. Acrobacia (AGI): Dá ao Personagem a habilidade de equilibrar-se em pequenas superfícies, andar sobre cordas, fazer malabarismo e coisas do
 
 ### FACILIDADE, LAMIA (279-288)
 
@@ -689,6 +985,14 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa re
 
+### Júlio César da Silva (11-20)
+
+- ID: `sda-rpg--sda-rpg-julio-cesar-da-silva-1-2`
+- Área: `atributos_pericias`
+- Fonte: `sda-rpg` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: 1 1 Na maioria dos RPGs, os Jogadores são os únicos respon- sáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Persona- gens sejam construídos apenas pelo Mestre ou com grande participação deste, para ha
+
 ### MATEMÁTICA DE JOGO
 
 - ID: `kidous-arte-das-trevas--kidous-arte-das-trevas-matematica-de-jogo-21`
@@ -697,314 +1001,10 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: 21 MATEMÁTICA DE JOGO Recitação e iniciativa Em termos de regras, a recitação invocadora de um kidou implica um redutor de 10 pontos na iniciativa do artífice, caso opte por pular a recitação da técnica, o artífice não terá redutor algum na iniciativa, porem f
 
-### Passo 3: Atributos
+### Origem Anã [Nível 2]
 
-- ID: `dbz-rpg--dbz-rpg-passo-3-atributos-7`
+- ID: `origem-e-descendencia-racial-v-teste--origem-e-descendencia-racial-v-teste-origem-ana-nivel-2-7`
 - Área: `atributos_pericias`
-- Fonte: `dbz-rpg` p. 7
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Passo 3: Atributos Como estamos trabalhando com DBZ, os Personagens pos- suirão 150 pontos para distribuir em seus oito Atributos. Os Atributos devem ser distribuídos de acordo com a sua concepção do Personagem. Como você imagina que ele é? For- te como um tou
-
-### QUINAMETZIN HUETLACAME
-
-- ID: `gigantes-mitologicos--gigantes-mitologicos-quinametzin-huetlacame-19`
-- Área: `atributos_pericias`
-- Fonte: `gigantes-mitologicos` p. -
+- Fonte: `origem-e-descendencia-racial-v-teste` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: QUINAMETZIN HUETLACAME “Homens Grandes e Deformados” História Os Quinametzin são Gigantes que viviam na América central no período do Terceiro Sol, e vieram de Arkanun em grande número. Arrogantes, eram muito odiados pelos povos Nahuals(quase todos os povos da
-
-### Valor Médio
-
-- ID: `atributos--atributos-valor-medio-4`
-- Área: `atributos_pericias`
-- Fonte: `atributos` p. 4
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Valor Médio Devido às leis da probabilidade, ao rolar dois valores aleatórios como os dados e somá-los, alguns valores passam a ter mais chances de saírem que outros. Rolando um 3D, o valor 10 e 11 tem 12,15% de chances de sair cada, enquanto 3 e 18 possuem 0,
-
-### arremessar
-
-- ID: `poderes-de-fe-02--poderes-de-fe-02-arremessar-6`
-- Área: `atributos_pericias`
-- Fonte: `poderes-de-fe-02` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: arremessar uma arma que esteja empunhando a até 5 metros de distância e fazer ela retornar às suas mãos, ao gasto de 1 Ponto de Fé. Distâncias maiores podem ser alcançadas mediante o gasto de mais Pontos de Fé. Para acertar seu alvo, o personagem deve fazer um
-
-### CAMPANHA
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106`
-- Área: `aventuras`
-- Fonte: `demonios-a-divina-comedia` p. 106
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas ve
-
-### EVOLUÇÃO ALTERNATIVA
-
-- ID: `evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3`
-- Área: `aventuras`
-- Fonte: `evolucao-alternativa` p. -
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: EVOLUÇÃO ALTERNATIVA Originalmente no sistema Daemon, o tipo de campanha é o fator que determina o potencial inicial de um personagem. Em campanhas épicas um personagem inicial equivale a um personagem de alto nível de uma campanha mais realista. Porém essa di
-
-### PASSADO
-
-- ID: `conan--conan-passado-4`
-- Área: `aventuras`
-- Fonte: `conan` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: 4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rent
-
-### ATIVAÇÃO DE ITENS MÁGICOS
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-ativacao-de-itens-magicos-121`
-- Área: `combate`
-- Fonte: `demonios-a-divina-comedia` p. 121
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `unbalanced_parentheses`
-- Amostra: ATIVAÇÃO DE ITENS MÁGICOS Alguns itens mágicos (em especial aqueles criados pelos seres da Cidade de Prata) requerem Pontos de Fé para serem ativados ou utilizados. Somente pessoas com Fé podem utilizar tais artefatos. BÊNÇÃO O Inquisidor pode abençoar um grup
-
-### Capítulo 03- Cabalas dos Arcanis
-
-- ID: `arcanis--arcanis-capitulo-03-cabalas-dos-arcanis-8`
-- Área: `combate`
-- Fonte: `arcanis` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 8 Kansarianos que usem a lágrima do sangue do ódio, recebem sendo Arcanis um bônus de +15% em todos os testes seguintes seja ataque/defesa/evasiva além de uma ação extra convencional (pois se locomove mais rápido que os outros), além de um bônus temporário de 
-
-### Capítulo 10
-
-- ID: `daemon-medieval--daemon-medieval-capitulo-10-60`
-- Área: `combate`
-- Fonte: `daemon-medieval` p. 60
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é 
-
-### Capítulo 2
-
-- ID: `anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-2-9`
-- Área: `combate`
-- Fonte: `anjos-jyhad-faces-da-fe` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Capítulo 2 Seitas, Sociedades e Ordens Angelicais A H o s t e de Miguel As falanges do anjo Miguel sempre foram a principal divisão do exército celestial. São tropas de choque e de defesa ao mesmo tempo. Anjos treinados por pelo menos cem anos são selecionados
-
-### Daemon Medieval
-
-- ID: `daemon-medieval--daemon-medieval-daemon-medieval-69`
-- Área: `combate`
-- Fonte: `daemon-medieval` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Daemon Medieval 69 Quedas Existem duas maneiras de um Personagem sofrer uma queda: intencional ou acidental. Em casos de queda acidental, o Personagem não espera sofrer a queda e seus músculos não estavam preparados para absorver o impacto. O dano é 1d6 a cada
-
-### Daemon Medieval
-
-- ID: `daemon-medieval--daemon-medieval-daemon-medieval-29`
-- Área: `combate`
-- Fonte: `daemon-medieval` p. 29
-- Flags: `ends_with_connector_possible_cut`, `unbalanced_parentheses`
-- Amostra: Daemon Medieval 29 subordinados relutem quando não concordarem com a ordem (como atacar um exército visivelmente superior ou cometer qualquer ato que pareça suicídio). Um personagem com Voz de Comando faz um Teste de Liderança (sem precisar disputar contra a W
-
-### GANESHAMAN
-
-- ID: `avatar-volume-1--avatar-volume-1-ganeshaman-26`
-- Área: `combate`
-- Fonte: `avatar-volume-1` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 26 GANESHAMAN Arte: Nitro GANESHAMAN CON 16(80), FR 20(100), DEX 13(30), AGI 11 (30), INT 10, WILL 25, CAR 10 (8), PER 14 Guerreiro do 12° Nível #ataques [3], IP 1, PVs 18 (90) + 30 Ataques: Briga 80/80, dano 1d6+3 na forma humana e 3d6+45 na forma de Avatar. 
-
-### GLAAKS (SOLDADO MÉDIO)
-
-- ID: `avatars-vol-2--avatars-vol-2-glaaks-soldado-medio-20`
-- Área: `combate`
-- Fonte: `avatars-vol-2` p. -
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: 20 GLAAKS (SOLDADO MÉDIO) CON 35 (8), FR 35 (10), DEX 20 (16), AGI 25 (14), INT 16, WILL 14, CAR 9, PER 30 (18) Guerreiro do 7° Nível #ataques [1], IP 10 PVs 50 (9) * O que estiver entre parêntesis refere-se ao Glaak fora do mecha que ele usa. GLAAKS (CAPITÃO)
-
-### HECATOMBE
-
-- ID: `avatars-vol-2--avatars-vol-2-hecatombe-15`
-- Área: `combate`
-- Fonte: `avatars-vol-2` p. -
-- Flags: `ends_with_connector_possible_cut`, `unbalanced_parentheses`
-- Amostra: 15 HECATOMBE Arte: Nitro HECATOMBE CON 11(90), FR 12 (95), DEX 10(20), AGI 11 (25), INT 10, WILL 20, CAR 8, PER 10 Guerreiro do 8° Nível #ataques [2], IP 40 PVs 185 + 30 PHs. Ataques: Briga: 75/75, dano 3d6 +38 Explosão Atômica: 15d6 (Hecatombe pode explodir o
-
-### Introdução
-
-- ID: `ceifadores--ceifadores-introducao-3`
-- Área: `combate`
-- Fonte: `ceifadores` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Introdução Em Arton, existem diversas ordens religiosas conhecidas. A maioria delas é fundada em nome de deuses com boa índole e com ideais louváveis (justiça, amor, vida, nobreza etc). O mais cultuado destes é Khalmyr, o deus da justiça e da maioria dos palad
-
-### Investigador
-
-- ID: `anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-investigador-39`
-- Área: `combate`
-- Fonte: `anjos-jyhad-faces-da-fe` p. 39
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Investigador CON 14, FR 12, DEX 16, AGI 13, INT 20, WILL 22, CAR 13, PER 26 Lança 40 dano 1d6 Espada 40/60 dano 1d10 # Ataques [1], IP 2, PVs 20 Perícias: Barganha 40%, Briga 30%, Esquiva 50%, Furtividade 40%, Impressionar 40%, Inter- rogatório 50%, Intimidaçã
-
-### JIRAYA O INCRIVEL NINJA
-
-- ID: `jiraya--jiraya-jiraya-o-incrivel-ninja-1`
-- Área: `combate`
-- Fonte: `jiraya` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: JIRAYA O INCRIVEL NINJA 1 SUCESSOR DOS TOGAKURI JIRAYA Capitulo ± Introdução Na era do Japão Medieval uma fabulosa cápsula miraculosa de nome Pako foi enviada a Terra por uma civilização alienígena muito mais avançada tecnológica e cientificamente Junto com el
-
-### MANOBRAS DE COMBATE
-
-- ID: `manobras-de-combate--manobras-de-combate-manobras-de-combate-1`
-- Área: `combate`
-- Fonte: `manobras-de-combate` p. 1
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: MANOBRAS DE COMBATE Esta categoria de perícia é um caso excepcional. São apresentadas aqui algumas manobras de combate. Elas não são utilizadas como perícias, na medida em que NÃO existe um teste de manobras de combate. O Personagem simplesmente sabe realizá-l
-
-### Personalidades: Vandana, Mahatma Ghandi,
-
-- ID: `trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-personalidades-vandana-mahatma-ghandi-16`
-- Área: `combate`
-- Fonte: `trevas-do-oriente-28-palacios` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Personalidades: Vandana, Mahatma Ghandi, Dr. Rajenda Prasad, Narasimha Rao. Background: Uma Sociedade Secreta relativamente recente, a ordem das Grandes Espadas é formada pelos principais pensadores e sábios orientais, todos eles desejosos por uma Terra pacífi
-
-### Primeiro Círculo
-
-- ID: `caminhos2--caminhos2-primeiro-circulo-13`
-- Área: `combate`
-- Fonte: `caminhos2` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Primeiro Círculo Entender-Os olhos do mago não se incomodam com a lama.O mago pode andar na lama sem sujar os pés ou deixar pegadas.Pode sentir propriedades da lama apenas tocando-a. Criar-Enche um pequeno balde de lama,que pode ter uma temperatura baixa ou al
-
-### Primeiro Círculo
-
-- ID: `os-caminhos-secundarios--os-caminhos-secundarios-primeiro-circulo-13`
-- Área: `combate`
-- Fonte: `os-caminhos-secundarios` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Primeiro Círculo Entender-Os olhos do mago não se incomodam com a lama.O mago pode andar na lama sem sujar os pés ou deixar pegadas.Pode sentir propriedades da lama apenas tocando-a. Criar-Enche um pequeno balde de lama,que pode ter uma temperatura baixa ou al
-
-### REGRAS : DANO
-
-- ID: `arte-da-guerra--arte-da-guerra-regras-dano-17`
-- Área: `combate`
-- Fonte: `arte-da-guerra` p. 17
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `unbalanced_parentheses`
-- Amostra: REGRAS : DANO Dano Simples Em caso de acerto critico o personagem obriga o oponente a fazer um teste de constituição fácil, se passa ele leva o dano correspondente a acerto critico, mas em caso de falha além do dano critico o oponente é penalizado dependendo d
-
-### REGRAS E TESTES
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-regras-e-testes-110`
-- Área: `combate`
-- Fonte: `demonios-a-divina-comedia` p. 110
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, e necessário definir com bastante cuidado as regras para Combates e 
-
-### Super Ataques Especiais
-
-- ID: `modulo-combate--modulo-combate-super-ataques-especiais-16`
-- Área: `combate`
-- Fonte: `modulo-combate` p. 16
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Super Ataques Especiais Como regra opcional, você pode customizar os Ataques Especiais também, conferindo efeitos extras. Um Ataque Especial comum, funciona da seguinte maneira: você gasta 2 Pontos de Magia e seu Personagem recebe +2d de bônus para o dano do s
-
-### -kkkkkkkkkkkkkkkk.
-
-- ID: `anjossombras04--anjossombras04-kkkkkkkkkkkkkkkk-6`
-- Área: `criaturas_npcs`
-- Fonte: `anjossombras04` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: -kkkkkkkkkkkkkkkk. -Tu ri né peste? Tu ri porque não era você que tinha que passar a noite todinha acordado ouvindo as besteiras que vocês falam dormindo. -rsrsrsrsrsrsrs. -Agora que a gente ta aqui me diz uma coisa. -Que é Biel? -Alguém sabe como a Lilith foi
-
-### ALGUNS DIALETOS ROMANIS
-
-- ID: `ciganos--ciganos-alguns-dialetos-romanis-3`
-- Área: `criaturas_npcs`
-- Fonte: `ciganos` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: 3 ALGUNS DIALETOS ROMANIS A língua dos ciganos é conhecida como romani, bastante pró- xima dos idiomas indo-arianos. Tanto o sistema fonológico como a morfologia podem ter sua evolução facilmente reconstruída a partir do sânscrito. O sistema numeral também ref
-
-### ATIVAÇÃO DE CARACTERÍSTICAS
-
-- ID: `gerador-de-criaturas--gerador-de-criaturas-ativacao-de-caracteristicas-22`
-- Área: `criaturas_npcs`
-- Fonte: `gerador-de-criaturas` p. -
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: 22 ATIVAÇÃO DE CARACTERÍSTICAS Algumas das características apresentadas nesse netbook, não tem seus efeitos ativos durante todo o tempo, sendo necessário que elas sejam ativadas para que a criatura possa utilizá-las. Essa ativação é feita inicialmente através 
-
-### Agilidade (AGI)
-
-- ID: `guerreiros-orientais--guerreiros-orientais-agilidade-agi-29`
-- Área: `criaturas_npcs`
-- Fonte: `guerreiros-orientais` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Agilidade (AGI) Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. A contrário da Destreza, a Agilidade é válida para o corpo todo. Com 
-
-### CAPÍTULO 3: DRAGÕES CROMÁTICOS
-
-- ID: `guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-capitulo-3-dragoes-cromaticos-15`
-- Área: `criaturas_npcs`
-- Fonte: `guia-dos-dragoes-1-biblioteca-elfica` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: CAPÍTULO 3: DRAGÕES CROMÁTICOS Todos os dragões estão divididos em diferentes classificações. Os dragões cromáticos são os mais numerosos de todos, e dividem-se em 5 espécies principais: vermelho, verde, azul, negro e branco. Em geral, todos os dragões cromáti
-
-### CON[6D+26],FR[6D+30],DEX[0],AGI[3],INT[2],WILL[4],PER[1D+1],CAR[0]. (11-20)
-
-- ID: `ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-con-6d-26-fr-6d-30-dex-0-agi-3-int-2-will-4-per-1d-1-car-0-11-1`
-- Área: `criaturas_npcs`
-- Fonte: `ark-a-nun-arquivos-de-bel-kalaa` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 11 dentes e sim,um bico córneo, usado para triturar as duras raízes das quais alimenta-se.Colocam em média de 6 a 9 ovos de 1,50m de comprimento,enterrados em covas profundas.A postura ocorre nas épocas em que o sol brilha mais intensamente nos céus de Ark-a-n
-
-### CRIAÇÃO DE PERSONAGEM
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-criacao-de-personagem-36`
-- Área: `criaturas_npcs`
-- Fonte: `demonios-a-divina-comedia` p. -
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: CRIAÇÃO DE PERSONAGEM Em DEMONIOS, a criação de um personagem e algo bastante simples de se fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobrevivência do personagem no futuro. Existem também fatores relacionados com o backgrou
-
-### Capítulo 4
-
-- ID: `anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-4-28`
-- Área: `criaturas_npcs`
-- Fonte: `anjos-jyhad-faces-da-fe` p. 28
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Capítulo 4 Antagonistas As religiões possuem grandes pro- blemas com a fragmentação e as próprias divergências internas, que quase sempre acabam em brigas e disputas violentas. Para piorar a situação, ainda existem grupos que batalham para deturpar os va- lore
-
-### Capítulo Sete: Os Filhos de Deus
-
-- ID: `domini-urbs-biblioteca-elfica--domini-urbs-biblioteca-elfica-capitulo-sete-os-filhos-de-deus-143`
-- Área: `criaturas_npcs`
-- Fonte: `domini-urbs-biblioteca-elfica` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 142 Capítulo Sete: Os Filhos de Deus Os anjos não conhecem Pai a não ser aquele a quem chamam de Deus, Senhor e Mestre. Suas vidas consistem em servir e conviver com a fé que devem propagar e o desespero que sentem ecoar dos mundos inferiores. Vivendo em uma c
-
-### Desentsu Senshi (1-10)
-
-- ID: `desentsu--desentsu-desentsu-senshi-1-1`
-- Área: `criaturas_npcs`
-- Fonte: `desentsu` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Desentsu Senshi Desentsu Senshi - Guerreiros do Oriente Autor: Victor”Ramuel”Martins Desentsu Senshi Introdução A editora Daemon lançou o livro Anime RPG (na época que escrevi esse netbook ele acaba de ser lançado e por motivos pessoas não pude lança-lo,sendo 
-
-### E md
-
-- ID: `universo-daemon-01--universo-daemon-01-e-md-5`
-- Área: `criaturas_npcs`
-- Fonte: `universo-daemon-01` p. -
-- Flags: `ends_with_connector_possible_cut`, `starts_mid_sentence_possible_left_cut`
-- Amostra: E md Ade ay od ae og edi as in e E, nm pan rat > tm, x iB de = Va =" uu ve uu a E yy "iad P P k A \ O que eu faço quando os jogadores não estão afim de "encarnarem" nos seus personagens de Trevas/Arkanun, e, mesmo sabendo que só com um piscar de olhos, aquele 
-
-### Introdução
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-introducao-5`
-- Área: `criaturas_npcs`
-- Fonte: `demonios-a-divina-comedia` p. 5
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Introdução Embora tenha passado boa parte de minha vida estudando o ocultismo, o tema Demônios me fascinou desde a primeira vez que li “A Divina Comedia”. O texto original da Divina Comédia foi escrito no século XIII, mas de lá para cá, muitos novos pecados su
-
-### Ismails
-
-- ID: `ismails-anjos-islamicos--ismails-anjos-islamicos-ismails-1`
-- Área: `criaturas_npcs`
-- Fonte: `ismails-anjos-islamicos` p. 1
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Ismails Os anjos Islâmicos. Durante os últimos tempos, Al-Dyniha permaneceu em Ark-a-nun como o Venerável Mestre da Ordem do Mármore depois que Magnus Petraak decidiu se estabelecer na Terra definitivamente. A sua jurisdição perdurou até 209 AC (data mundana),
+- Amostra: Origem Anã [Nível 2] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno até Médio Imatura Entre 4 até 40 anos Adulto Médio Racional Entre 41 até 120 anos Ancião Médio Racional Entre 121 até 160 anos Ajuste de Atributos:

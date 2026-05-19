@@ -2,12 +2,22 @@
   "version": 1,
   "id": "regras_base",
   "name": "Regras Base",
-  "readySourceCount": 190,
+  "readySourceCount": 275,
   "entityCount": 4,
-  "sourcePartCount": 41,
+  "sourcePartCount": 134,
   "subgroups": [],
   "filters": {
     "sources": [
+      {
+        "id": "arkanun",
+        "title": "Arkanun",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 3
+      },
       {
         "id": "daemon-medieval",
         "title": "Daemon Medieval",
@@ -17,6 +27,16 @@
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
         "count": 4
+      },
+      {
+        "id": "trevas-3-0",
+        "title": "Trevas 3.0",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
       },
       {
         "id": "abismo",
@@ -37,6 +57,16 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 2
+      },
+      {
+        "id": "anime-rpg-supers-powers",
+        "title": "Anime RPG - Supers - Powers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
       },
       {
         "id": "avatar-volume-1",
@@ -89,6 +119,16 @@
         "count": 2
       },
       {
+        "id": "compendio-de-regras-daemon-trevas",
+        "title": "Compendio de regras DAEMON Trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento / regra de mesa",
+        "officialSource": false,
+        "sourceFamily": "custom_rules",
+        "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
+        "count": 1
+      },
+      {
         "id": "conan",
         "title": "conan",
         "sourceKind": "supplement",
@@ -97,6 +137,16 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
+      },
+      {
+        "id": "daemon-anime-rpg",
+        "title": "Daemon - Anime RPG",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 12
       },
       {
         "id": "daemon-revisado-playtest-alfa-3-6",
@@ -117,6 +167,16 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
+      },
+      {
+        "id": "daemon-tormenta",
+        "title": "Daemon Tormenta",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
       },
       {
         "id": "dbz-rpg",
@@ -169,6 +229,16 @@
         "count": 1
       },
       {
+        "id": "inquisicao-biblioteca-elfica",
+        "title": "Inquisicao-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
         "id": "livrodomal",
         "title": "livrodomal",
         "sourceKind": "supplement",
@@ -199,6 +269,26 @@
         "count": 1
       },
       {
+        "id": "loucura",
+        "title": "Loucura",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+        "title": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 10
+      },
+      {
         "id": "mago-sistema-daemon",
         "title": "Mago Sistema Daemon",
         "sourceKind": "supplement",
@@ -207,6 +297,16 @@
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
         "count": 2
+      },
+      {
+        "id": "marvel-rpg-7o-edicao",
+        "title": "MARVEL RPG 7º Edição",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
       },
       {
         "id": "mecha",
@@ -219,6 +319,16 @@
         "count": 1
       },
       {
+        "id": "modulo-basico-expandido-e-modificado",
+        "title": "Módulo Básico - Expandido e Modificado",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 3
+      },
+      {
         "id": "mortal-kombat",
         "title": "Mortal Kombat",
         "sourceKind": "supplement",
@@ -229,6 +339,36 @@
         "count": 1
       },
       {
+        "id": "naruto",
+        "title": "naruto",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
+        "id": "naruto-rpg-daemon-2a-edicao",
+        "title": "Naruto RPG Daemon - 2ª Edição",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 7
+      },
+      {
+        "id": "neokosmos-biblioteca-elfica",
+        "title": "Neokosmos-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
         "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
         "title": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
         "sourceKind": "supplement",
@@ -236,6 +376,26 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "o-corvo",
+        "title": "O Corvo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "one-punch-man-rpg",
+        "title": "One Punch Man RPG",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
         "count": 2
       },
       {
@@ -259,6 +419,16 @@
         "count": 1
       },
       {
+        "id": "regras-de-boa-convivencia",
+        "title": "Regras de boa convivência",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento / regra de mesa",
+        "officialSource": false,
+        "sourceFamily": "custom_rules",
+        "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
+        "count": 1
+      },
+      {
         "id": "rocknrt",
         "title": "rocknrt",
         "sourceKind": "supplement",
@@ -269,6 +439,116 @@
         "count": 3
       },
       {
+        "id": "rpg-dragon-ball-oficial-l-by-fractius",
+        "title": "RPG Dragon Ball Oficial l By Fractius",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 3
+      },
+      {
+        "id": "santa-cruz-biblioteca-elfica",
+        "title": "Santa-cruz-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "santa-cruz-inferno-verde-biblioteca-elfica",
+        "title": "Santa-cruz-inferno-verde-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "sda-rpg",
+        "title": "sda rpg",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
+        "id": "sistema-daemon-2-x",
+        "title": "Sistema-Daemon-2-X",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 2
+      },
+      {
+        "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+        "title": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 3
+      },
+      {
+        "id": "supers",
+        "title": "Supers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 14
+      },
+      {
+        "id": "tagmar-daemon",
+        "title": "Tagmar Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 3
+      },
+      {
+        "id": "tagmar-daemon-versao-completa",
+        "title": "Tagmar-Daemon-Versao-Completa",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 4
+      },
+      {
+        "id": "templarios-biblioteca-elfica",
+        "title": "Templarios-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 1
+      },
+      {
+        "id": "um-sussurro-nas-trevas",
+        "title": "Um Sussurro nas Trevas",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "campaign_adventure",
+        "sourceFamilyLabel": "Campanhas e aventuras",
+        "count": 2
+      },
+      {
         "id": "universo-daemon-01",
         "title": "Universo Daemon #01",
         "sourceKind": "supplement",
@@ -277,6 +557,26 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 2
+      },
+      {
+        "id": "varna-chamado-da-guerra",
+        "title": "Varna - Chamado da Guerra",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "vikings-biblioteca-elfica",
+        "title": "Vikings-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 4
       },
       {
         "id": "yuyu-hakusho-rpg-para-daemon",
@@ -292,7 +592,7 @@
     "categories": [
       {
         "id": "core_rule",
-        "count": 45
+        "count": 138
       }
     ],
     "subtypes": [
@@ -302,79 +602,99 @@
       },
       {
         "id": "creature_npc",
-        "count": 2
+        "count": 5
       },
       {
         "id": "front_matter",
-        "count": 4
+        "count": 8
       },
       {
         "id": "item_equipment",
-        "count": 2
+        "count": 3
       },
       {
         "id": "lore_world",
-        "count": 1
+        "count": 10
       },
       {
         "id": "ocr_noise",
-        "count": 1
+        "count": 22
       },
       {
         "id": "organization_faction",
-        "count": 1
-      },
-      {
-        "id": "raw_chapter_block",
-        "count": 17
-      },
-      {
-        "id": "rule_mechanic",
         "count": 6
       },
       {
-        "id": "uncertain_fragment",
+        "id": "raw_chapter_block",
+        "count": 30
+      },
+      {
+        "id": "rule_mechanic",
         "count": 10
+      },
+      {
+        "id": "uncertain_fragment",
+        "count": 43
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 4
+        "count": 8
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 41
+        "count": 130
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
+        "count": 51
+      },
+      {
+        "id": "campaign_adventure",
+        "label": "Campanhas e aventuras",
         "count": 2
+      },
+      {
+        "id": "myth_history",
+        "label": "Mitologia, história e religião",
+        "count": 5
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 4
+        "count": 8
+      },
+      {
+        "id": "powers_magic",
+        "label": "Poderes, magia e rituais",
+        "count": 1
+      },
+      {
+        "id": "custom_rules",
+        "label": "Regras caseiras e compêndios do mestre",
+        "count": 2
       },
       {
         "id": "rules_system",
         "label": "Regras e sistema",
-        "count": 2
+        "count": 20
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 37
+        "count": 49
       }
     ],
     "areas": [
       {
         "id": "regras_base",
-        "count": 45
+        "count": 138
       }
     ]
   },
@@ -513,6 +833,177 @@
   ],
   "sourceParts": [
     {
+      "id": "anime-rpg-supers-powers--anime-rpg-supers-powers-powers-1",
+      "name": "POWERS",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "anime-rpg-supers-powers",
+      "sourceTitle": "Anime RPG - Supers - Powers",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "2 POWERS 2a edição 3 Criação: Hatalíbio Almeida Capa: Hatalíbio Almeida Arte Interna: Chris ladouceur, Randy Kintz, Bleedman, Hatalíbio Almeida, Lobo Lancaster Diagramação: Hatalíbio Almeida Agradecimentos: Desaconselhável para menores de 14 anos. Se tiver qualquer dúvida ou sugestão, enviar email para: hatalibioalmeida@hotmail.com Índice Introdução 03 Avant...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-cric-c-o-de-personc-gem-17",
+      "name": "CRic\\ç&o de peRsonc\\gem",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "CRic\\ç&o de peRsonc\\gem Em ARKANUN, a Criação de um Personagem é algo bastante fácil de se fazer. Normalmente existem muitas coisas a se decidir, que serão vitais para a sobre­ vivência no futuro. Existem também fatores relaciona­ dos com o Backgróund do Personagem, seus anseios e temores, sua história e sua caracterização. Em ARKANUN, a história de um Perso...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-o-fogo-caminha-comigo-81",
+      "name": "O Fogo caminha comigo.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        81
+      ],
+      "page": 81,
+      "summary": "O Fogo caminha comigo. Laura Palmer, Twin Peaks 1° Círcu(o CEntender êf ogo O Mago pode sentir a temperatura exata de um cor­ po ou objeto apenas ao toque. Pode sentir uma proprie­ dade física do fogo (temperatura, tipo de combustível, quanto tempo ainda deverá durar etc.). Pode sentir lo­ cais onde fogueiras estiveram acesas recentemente. Ou­ tro efeito pos...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-europc-ojedievc-130",
+      "name": "euRopc\\ OJedievc\\(",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        130
+      ],
+      "page": 130,
+      "summary": "euRopc\\ OJedievc\\( +arce[o g)e( g)e&&io CNgrson <notre( g)acmon e.Editora Â_v. Cflorácio 'le-Jer, 160 safa 3 qtaim CJ3i&i - São c;PauCo, Sc;P êf aX; ( 011) 3675-1860 emaií: daemon@daemon.com.&r ftttp:/ /www.daemon.com.&r",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "cdd--cdd-editorial-2",
       "name": "EDITORIAL",
       "area": "regras_base",
@@ -550,6 +1041,553 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "compendio-de-regras-daemon-trevas--docx-structured-source",
+      "name": "Documento DOCX estruturado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "compendio-de-regras-daemon-trevas",
+      "sourceTitle": "Compendio de regras DAEMON Trevas",
+      "pages": [
+        [
+          1,
+          45
+        ]
+      ],
+      "page": null,
+      "summary": "Fonte DOCX estruturada: Compendio de regras DAEMON Trevas.",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento / regra de mesa",
+      "officialSource": false,
+      "sourceFamily": "custom_rules",
+      "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-nror111atica-dj-57",
+      "name": "/nror111ática* (DJ",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        [
+          57,
+          58
+        ]
+      ],
+      "page": null,
+      "summary": "/nror111ática* (DJ Computação: é a habilidade de operar um computador. Acessar bancos de dados e lidar com programas é uma tarefa fácil, programar algo simples é uma tarefa Normal e trabalhar com programas gráficos avançados é uma tarefa Difícil. Internet (O): a arte de se pesquisar algo que preste dentro da net. Cada ação leva 1d6x10 minutos para ser comple...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-criacao-de-10",
+      "name": "Criação de",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        [
+          10,
+          11
+        ]
+      ],
+      "page": null,
+      "summary": "Criação de Per•anagen1 D Co1neço Antes de mais nada, um aviso que talvez vá deixá-lo chocado: seu Personagem não existe. Ele é fictício, irreal, inexistente. Tão destituído de substância quanto Indiana Jones, o Homem-Aranha ou o capitão Kirk. Mesmo que seja baseado em uma pessoa real, ele não passa de uma cópia imaginária. E já que o Personagem não existe, v...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-cu-tto-i-70",
+      "name": "Cu!tto I",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        [
+          70,
+          72
+        ]
+      ],
+      "page": null,
+      "summary": "Cu!tto I Amplificador Auditivo 201: [*] Aumenta todos os Testes de Percepção baseados na audição em +6 (+24%). Amplificador Olfativo 201: [*] Aumenta todos os Testes de Percepção baseados no olfato em +6 (+24%). Amplificador Táctil 201: [*] Aumenta Testes de Percepção usando o sentido do tato em +6 (+24%). Analisador Químico Waynetech: [*] Funciona até 5m. E...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-dae111on-editora-2",
+      "name": "Dae111on Editora",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        [
+          2,
+          4
+        ]
+      ],
+      "page": null,
+      "summary": "Dae111on Editora www.dae111on.co111.br Luciana Baccl Marcelo Dei Debbla e111ail: dae111on@dae111on.co111.br Criação: Luciana l3acci, Marcelo Del Debbio Desenvolvimento: Luciana Bacci, Marcelo Del Debbio Revisão: Fabrício GiZmo Capa: Yes Cabrita Programação Visual: Marcelo Del Debbio, Luka-chan Diagramação: Daemon Editora Impressão: Quebecor World Distribuída...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-ma1-le-i-307-ad-6",
+      "name": "Ma1 le, i!307 AD",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Ma1 le, i!307 AD O ano de 2307 não foi um bom ano para os Representantes do Governo T emstre.Além das crescentes rewltas que exi;jam a resolução definitim do centenário problema da superpopulaçlW do planeta, soldados tiveram de ser enviados às pressas para tentar conter as crescentes rebeliões em PhoÚJ (Phobos Colof!Y). Como todos sabem, Phobos é a maior das...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-artita-18",
+      "name": "Arti§ta",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        18
+      ],
+      "page": 18,
+      "summary": "Arti§ta Um artista pode ser um ator, desenhista, escultor, dançarino ou especialista em arte performática. O termo \"artista\" possui uma gama muito variada de possibilidades que podem ser exploradas pelos Jogadores. Personagens artistas viajam o mundo com suas apresentações ou exposições e conhecem muita gente diferente, mantendo vários contatos. Ator Custo:...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-l111unidade-a-veneno-f-35",
+      "name": "l111unidade a Veneno!f",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        35
+      ],
+      "page": 35,
+      "summary": "l111unidade a Veneno!f 2 pontos: seu Personagem nasceu imune a venenos naturais e recebe um bônus de 1D contra venenos mágicos ou artificiais. 3 pontos: além dos naturais, seu Personagem também possui imunidade a venenos artificiais, criados através de poções e alquimia. Também possui 2D de proteção contra venenos mágicos. Deve ser explicado no Background. I...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-iabio-39",
+      "name": "!iábio",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        39
+      ],
+      "page": 39,
+      "summary": "!iábio Recursos e Dinheiro É quanto de dinheiro, jóias e posses seu Personagem conseguiu reunir ao longo de s eus anos de vida. Inclui propriedades e outras fontes de renda que levam tempo até serem conver tidas em dinheiro. Os valores a seguir são fornecidos em dólares (época moderna), devendo ser ajustados relativamente de acordo com a época e local da· Ca...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "starts_mid_sentence_possible_left_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-assombrado-42",
+      "name": "Assombrado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Assombrado -1 ponto: por algum motivo, pessoas mortas que o Personagem conheceu em vida retornam como espíritos para assombrá-lo. Podem ficar por perto e, em alguns casos, conversar com ele. Alguns espíritos apresentam formas assustadoras, decompondo-se lentamente, noite após noite, em sua presença. Muitos fazem perguntas do tipo \"por que você me matou?\" ou...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-venenos-114",
+      "name": "Venenos",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        114
+      ],
+      "page": 114,
+      "summary": "Venenos Existem uma infinidade de venenos co­ nhecidos. Eles podem ser paralisantes, debilitantes, soníferos ou mortais. Eles po­ dem ser ingeridos, inalados, injetados ou ape­ nas tocados para serem efetivos. Indepen­ dentemente de qual efeito e método de apli­ cação, os venenos SEMPRE dão direito a um Teste de Resistência para evitar o pior. Exemplos de ve...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-forum-118",
+      "name": "Fórum",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        118
+      ],
+      "page": 118,
+      "summary": "Fórum Um fórum é um espaço na internet para discutir, conversar e fazer amigos que tenham a mesma paixão que vocês. Em nosso site, existe um fórum com uma área exclusiva e dedicada para ANIMES. Cadastre-se (gratuitamente) e participe! !iuplementos em Banca Não perca nossos próximos livros de RPG em banca. Todo mês você vai encontrar um novo suplemento de RPG...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -819,6 +1857,91 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-16",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (151-160)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-tormenta",
+      "sourceTitle": "Daemon Tormenta",
+      "pages": [
+        [
+          151,
+          160
+        ]
+      ],
+      "page": null,
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 151 Nome Peso(kg) 10 2 80 3,5 300 3 30 2 100 4 50 1 1 1 750 5 2000 7,5 50 3 10 2,5 50 3 Indumentária Preço T$ Descrição Traje de artesão Camisa com botões, saia ou calça e sapatos possivelmente um chapéu ou gorro. Traje de clima frio Casaco de lã, camisa, calça, luvas,capa,gorro e meias...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19",
+      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "daemon-tormenta",
+      "sourceTitle": "Daemon Tormenta",
+      "pages": [
+        181
+      ],
+      "page": 181,
+      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 181",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "daemon-sem-nivel--daemon-sem-nivel-sistema-daemon-sem-nivel-1",
       "name": "Sistema Daemon sem nível",
       "area": "regras_base",
@@ -1075,6 +2198,95 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-isicao-2",
+      "name": "ISIÇAO",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "IV ISIÇAO I' Edição ' abri l:J1aemclll Editora 160 sala 3 , \"!~'H. ª~)êiJi();~@!daemon.com.hr ·;-I. INotJISIÇÃO ,;:;: 6iaçâo: Marcelo Dei Debbio Desenvolvimento:Marcelo Dei Debbio, Norson Borre! Revisão: Ana Flora Schlindwein . ! Á ' Arte: House of Arts, Aávio Correia .. Capa: Evandro gregório i . r Fotolitos: Daemon Editora e Paper Express. ' ;]Of.,ar.J'!'...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-criacao-de-pets-pagem-9",
+      "name": "Criação de Pets,~pagem",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "inquisicao-biblioteca-elfica",
+      "sourceTitle": "Inquisicao-biblioteca-elfica",
+      "pages": [
+        9
+      ],
+      "page": 9,
+      "summary": "Criação de Pets,~pagem , .. .- ,. . ' .- .' \\, História Em INQUISIÇÃO, a criação de um Personagem é alga bastante fácil de se fazer, p rincipalmente se você já conhece o sistema de ArkanunjTrevas, pois as regras '1. Qual é onom~ dele? 'perm.al1ecem rigorosamente as mesmas. A seguir, dare- ' , 2. Em que ano elenasce\\)? Qualltos anos ê1e tem? mos um resumo de...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "lobisomem-a-maldicao-v2-biblioteca-elfica--lobisomem-a-maldicao-v2-biblioteca-elfica-lobisomem-a-maldicao-2-1",
       "name": "Lobisomem: a Maldição (2-11)",
       "area": "regras_base",
@@ -1112,6 +2324,538 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "loucura--loucura-rxfxud-2",
+      "name": "/RXFXUD\u0003",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "loucura",
+      "sourceTitle": "Loucura",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "/RXFXUD\u0003 “Loucura é necessária para alcançar os deuses. Sim, esta é a verdade. Poucos mortais a possuem...a chance de se afastar da sanidade. Caminhar nas selvas da insanidade...” — Neil Gaiman, Entes Queridos É surpreendente que até hoje o Sistema Daemon não tenha nenhuma regra que determine o enlouquecimento que um personagem possa vir a sofrer, por isso,...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "loucura--loucura-6lwxd-hv-gh-rxfxud-4",
+      "name": "6LWXD¸ÆHV\u0003GH\u0003/RXFXUD\u0003",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "loucura",
+      "sourceTitle": "Loucura",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "6LWXD¸ÆHV\u0003GH\u0003/RXFXUD\u0003 Existem várias situações que quando confrontadas podem exigir um Teste de Loucura. Cada situação tem uma dificuldade determinada pelo Mestre, podendo ser fácil (dobro do valor de teste), normal (o valor de teste) ou Difícil (metade do valor de teste), e algumas vezes até Crítico (um quarto do valor de Teste). ([HPSORV\u0003GH\u00036LWXD¸ÆHV \u0003 Vio...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luiz-antonio-rech-wachelke-2",
+      "name": "Luiz Antonio Rech Wachelke",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        [
+          2,
+          3
+        ]
+      ],
+      "page": null,
+      "summary": "Luiz Antonio Rech Wachelke Luz e Sombra RPG Luz e Sombra é um sistema de RPG completo, contendo ambientação e regras. Passa-se num cenário de fantasia medieval próprio, o Chayriah. Não foi feito com o intuito de introduzir o leitor no mundo do RPG; para isso recomendamos o acesso a alguns sites especializados na Internet que fornecem essas informações de uma...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-nota-37",
+      "name": "Nota",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        [
+          37,
+          39
+        ]
+      ],
+      "page": null,
+      "summary": "Nota dos autores: Informações detalhadas e regras envolvendo os Mestres Elementais serão encontradas em Ethilion, um suplemento gratuito para Luz e Sombra RPG, que estará disponível no site oficial do sistema. Faces do Chayriah Faces do Chayriah Na presente seção serão fornecidos dados sobre personalidades importantes do Chayriah, referentes ao Segundo Perío...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-contenda-eterna-1",
+      "name": "A Contenda Eterna",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "A Contenda Eterna A Contenda Eterna João Fernando Rech Wachelke",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-reino-governada-pelo-prefeito-harlon-11",
+      "name": "Reino, governada pelo prefeito Harlon",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        11
+      ],
+      "page": 11,
+      "summary": "Reino, governada pelo prefeito Harlon Carligium, apesar de uma cidade menor, Gahar, também servir de porto ao norte. Thorgadryth Thorgadryth A leste de Larth, há o litorâneo reino de Thorgadryth, de forma alongada. Desde sua fundação governado por reis ambiciosos, Thorgadryth vive em guerra com Argus desde sua origem. Atualmente é aliado comercial do Novo En...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-por-yvalius-mestre-elemental-do-12",
+      "name": "por Yvalius, Mestre Elemental do",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "por Yvalius, Mestre Elemental do Relâmpago. Num desfiladeiro ao norte do reino, entre as montanhas, há a Torre de Geldor, onde reside Geldor, mago que já pertenceu à Ordem da Luz mas desligou-se dela já há algum tempo. A oeste de Acradhil, oculto entre as Montanhas de Acrad, existe o Vale Ethil. Ali, uma vez a cada cinco anos, no Conselho, os Mestres Element...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-aos-13",
+      "name": "Aos",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        13
+      ],
+      "page": 13,
+      "summary": "Aos poucos Acayr foi se alinhando com Argus, tornando-se quase que uma \"grande província\". Geralmente os reis de Acayr são primos dos de Argus, e apóiam as decisões tomadas pelos governantes dos reinos mais ricos, razões pelas quais são por vezes bastante criticados. Não é segredo que os acayrianos tem uma certa inveja do status dos argusianos. Apenas uma ve...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-nao-exatamente-um-reino-mas-14",
+      "name": "Não exatamente um reino, mas",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        14
+      ],
+      "page": 14,
+      "summary": "Não exatamente um reino, mas um grande território composto por feudos e essencialmente descentralizado, Thurgad é um lugar \"selvagem\", onde predomina a lei do mais forte. No passado uma potência agrícola com porte semelhante ao de Larth, foi dividido entre os nove filhos de um rei, o que gerou disputas mútuas por territórios, e mais tarde, guerras sangrentas...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-treinado-47",
+      "name": "Treinado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        47
+      ],
+      "page": 47,
+      "summary": "Treinado para isso desde o nascimento, Iniram tornou-se o Mestre Elemental das Cinzas com vinte e sete anos, mantendo o Conjunto nas mãos da Ordem Negra, como vinha acontecendo há gerações. É um dos mais confiáveis servos de Sooth, ocupando o posto de Discípulo da Noite dentro da Ordem. Está no comando da Torre de Vigia, responsável por detectar possíveis in...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-criando-o-71",
+      "name": "Criando o",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        71
+      ],
+      "page": 71,
+      "summary": "Criando o Personagem este capítulo você aprenderá a criar e dar vida a seu herói, seu personagem. O personagem será seu alter ego que interagirá no mundo fantástico do Chayriah. Nas páginas a seguir você receberá instruções e obterá valores numéricos que refletem o quão bom seu personagem é em variados campos. Você também determinará o nome, idade, tipo de p...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-cavaleiros-dagann-foi-um-aluno-93",
+      "name": "cavaleiros, Dagann foi um aluno",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
+      "pages": [
+        93
+      ],
+      "page": 93,
+      "summary": "cavaleiros, Dagann foi um aluno destaque. Com vinte anos foi sagrado cavaleiro. Age principalmente nas missões diplomáticas do rei pelo Chayriah, atuando como parte da escolta, e no treinamento de novos cavaleiros para a corte de Wusuf. Dagann é um homem alto, forte, de feições decididas. Possui longos cabelos dourados, e barba espessa, mas bem cortada, da m...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "marvel-rpg-7o-edicao--marvel-rpg-7o-edicao-consideracoes-3",
+      "name": "Considerações",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "marvel-rpg-7o-edicao",
+      "sourceTitle": "MARVEL RPG 7º Edição",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Considerações Este Net-book é uma nova opção par os jogadores que queiram jogar com heróis de verdade, (quem nunca quando criança sonho em ser um super–herói !?), ele tem regras do sistema de RPG que não deu certo da MARVEL e que tentei então adapta-lo para daemon, tomará que tenha conseguido... Mas o mestre pode alterar o que quiser no livro para fazer a su...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -1250,6 +2994,511 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-dupla-personalidade-33",
+      "name": "Dupla Personalidade",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "modulo-basico-expandido-e-modificado",
+      "sourceTitle": "Módulo Básico - Expandido e Modificado",
+      "pages": [
+        [
+          33,
+          36
+        ]
+      ],
+      "page": null,
+      "summary": "Dupla Personalidade -3 pontos: o Personagem possui duas ou mais personalidades diferentes habitando o mesmo corpo. Podem ser pessoas violentas, calmas, covardes, mentirosas, com afinidade ou ódio a alguma coisa. São personalidades totalmente diferentes, com suas próprias lembranças e consciência. A mudança de uma personalidade para outra não é controlada pel...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "rule_mechanic",
+      "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-e-x-p-a-n-d-i-d-o-e-m-o-d-i-f-i-c-a-d-o-1",
+      "name": "E X P A N D I D O E M O D I F I C A D O",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "modulo-basico-expandido-e-modificado",
+      "sourceTitle": "Módulo Básico - Expandido e Modificado",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "E X P A N D I D O E M O D I F I C A D O M Ó D U L O B Á S I C O",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "starts_mid_sentence_possible_left_cut",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-introduo-2",
+      "name": "Introdu÷‘o",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "modulo-basico-expandido-e-modificado",
+      "sourceTitle": "Módulo Básico - Expandido e Modificado",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Introdu÷‘o Comecei a jogar RPG em 2000 com um colega do meu colégio numa cidade do interior, e o primeiro cenário foi Trevas 1ª Edição e o primeiro sistema foi o Daemon, que ainda não conhecia por esse nome. Quando me mudei para a capital em 2003, decidi procurar se ainda existia o Trevas e por felicidade encontrei o site da Editora Daemon, me cadastrei no F...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-naruto-rpg-1",
+      "name": "Naruto RPG",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Naruto RPG 2ª Edição 1 Thiago Luiz \"Guerrad\" S. Gomes Equipe RPG Anime Brasil www.rpganimebrasil.blogspot.com Pergaminho do Ninja: Porquê esta nova Edição?! Conhecido como o \"sucessor de DBZ\", o anime Naruto já é febre entre os Otakus brasileiros mesmo antes de estrear na TV aberta (fato que ainda não ocorreu quando estou escrevendo isto) com uma história qu...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-naruto-rpg-2a-edicao-3",
+      "name": "Naruto RPG - 2ª Edição!",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Naruto RPG - 2ª Edição! Olá pessoal de bom gosto! A partir de agora você vai conferir mais um trabalho promovido pela Equipe RPG Anime Brasil, uma associação de RPG que trabalha APENAS com RPGs de animes e mangás (quadrinhos e desenhos animados japoneses) utilizando também os Sistemas de RPG BRASILEIROS. Com o objetivo maior de divulgar o RPG Nacional, que é...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-hirearquia-ninja-5",
+      "name": "HIREARQUIA NINJA",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "HIREARQUIA NINJA Todos os Personagens em NARUTO RPG 2ªE vão pertencer a Hierarquia Ninja (como na página anterior). Eles vão receber Pontos de Experiência utilizando as mesmas mecânicas do ANIME RPG e seus Níveis são determinados pela sua Graduação na Hierarquia: por exemplo, um Genin NUNCA vai alcançar o 5° Nível se ele não passar no teste para Chuunin. Cas...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-kirigakure-no-jutsu-17",
+      "name": "[Kirigakure no Jutsu]",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "[Kirigakure no Jutsu] (Névoa Oculta) Categoria: Ninjutsu. Usuários: Zabuza. Descrição: Técnica usada para criar névoa que dificulta a visão do inimigo. CHAKRA UTILIZADO: 10 pontos +1 para cada vez diminuir a visão dos inimigos na névoa. Esta névoa dura rodadas iguais ao seu Nível de Personagem + pontos na Hierarquia Ninja (a partir deste momento, o ninja dev...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-desta-vez-o-personagem-se-18",
+      "name": "desta vez o Personagem se",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        18
+      ],
+      "page": 18,
+      "summary": "desta vez o Personagem se transforma em uma linda mulher nua...) [Shuriken Kage Bunshin no Jutsu] ( Clones de Shurikens das Sombras) Categoria: Ninjutsu. Usuários: Sasuke. Descrição: O ninja pode criar muitas cópias transformando apenas uma Shuriken em dezenas. CHAKRA UTILIZADO: apenas 1 ponto de Chakra para cada duas shurikens ilusórias que vão aparecer. [S...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-bibliografia-do-netbook-21",
+      "name": "Bibliografia do Netbook.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        21
+      ],
+      "page": 21,
+      "summary": "Bibliografia do Netbook. Criar um RPG como este (tanto na invenção das regras como sua confecção e textos) não foi uma tarefa fácil, e por isso recorremos um bom material que achamos que era bom demais para ficar apenas por lá - e trazemos ao nosso netbook. Abaixo, vamos listar os autores dos textos que utilizamos para a criação do Módulo Básico de NARUTO RP...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-agradecimentos-especiais-22",
+      "name": "Agradecimentos Especiais.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        22
+      ],
+      "page": 22,
+      "summary": "Agradecimentos Especiais. Gostaríamos de agradecer a todos os jogadores, leitores, otakus e RPGistas que acompanham (de perto, ou de longe) nosso trabalho. Este é apenas o primeiro passo para adaptar Naruto corretamente para RPG, e, sem sombra de dúvida, o primeiro de muitos. -Agradeço primeiramente a Deus, pela Equipe RPG Anime Brasil, pela minha vida, pelo...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "neokosmos-biblioteca-elfica--neokosmos-biblioteca-elfica-jt-ha-173",
+      "name": "Jt~~!HA~!~",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "neokosmos-biblioteca-elfica",
+      "sourceTitle": "Neokosmos-biblioteca-elfica",
+      "pages": [
+        [
+          173,
+          175
+        ]
+      ],
+      "page": null,
+      "summary": "Jt~~!HA~!~ 2 pontos. Seu Personagem é conhecido na região._ Aonde quer que ele vá, as pessoas já ouviram alguma lenda, rumor ou história sobre ele. Isso pode ajudá-lo, pois será reconhecido em tavernas, hospedarias e templos mas, por outro lado, se acontecer alguma coisa e seu Personagem precisar se esconder, será muito difícil não ser reconhecido na multidã...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "neokosmos-biblioteca-elfica--neokosmos-biblioteca-elfica-v-sty-64",
+      "name": "V~STY~;!;;~",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "neokosmos-biblioteca-elfica",
+      "sourceTitle": "Neokosmos-biblioteca-elfica",
+      "pages": [
+        64
+      ],
+      "page": 64,
+      "summary": "Em NcoKosmos existem três tipos moedas que são cunhadas pelas polei para facilitar o comércio e o pagamento por serviços prestados. A moeda Je cobre:: (cb) é a moeda de menor valor, utilizada para pequenas compras, o óbolo (ob) equivale a dez moedas de cobre e é utilizada para compras em geral e o dracma(dc) que equ.ivaJe a dez óbolos, são utilizados para co...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-criacao-bernard-maihelkash-coutinho-2",
       "name": "Criação: Bernard “Maihelkash” Coutinho",
       "area": "regras_base",
@@ -1328,6 +3577,134 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "o-corvo--o-corvo-o-corvo-4",
+      "name": "O CORVO",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "o-corvo",
+      "sourceTitle": "O Corvo",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "O CORVO AGRADECIMENTOS - Em primeiro lugar a James O’Barr por este personagem fantástico e a todos aqueles que ilustraram as imagens presen- tes neste livro. - A Marcelo Del Debbio pelo fabuloso cenário de Trevas, pelo Sistema Daemon e principalmente por Spiritum, que além de um excelente livro, foi a base das atualizações desse netbook. - Ao meu irmão, pela...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "one-punch-man-rpg--one-punch-man-rpg-editorial-2",
+      "name": "Editorial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "one-punch-man-rpg",
+      "sourceTitle": "One Punch Man RPG",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "Editorial Este livro virtual (ou E-BOOK) foi escrito por Enrike Saint Silver, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. Este livro utiliza o sistema de RPG aberto da Daemon, que pode ser encontrado no endereço http://www.daemon.com.br Se você quer criar seu próprio RPG de Anime, não deixe de visitar esta página! Agra...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "one-punch-man-rpg--one-punch-man-rpg-criacao-de-personagens-6",
+      "name": "Criação de Personagens",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "one-punch-man-rpg",
+      "sourceTitle": "One Punch Man RPG",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policiais, agen...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -1416,6 +3793,1633 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "rpg-dragon-ball-oficial-l-by-fractius--rpg-dragon-ball-oficial-l-by-fractius-insano-hipossonia-2-pontos-15",
+      "name": "ø Insano Hipossônia [-2 pontos]",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rpg-dragon-ball-oficial-l-by-fractius",
+      "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
+      "pages": [
+        [
+          15,
+          33
+        ]
+      ],
+      "page": null,
+      "summary": "ø Insano Hipossônia [-2 pontos] ø Insano Histérico[-2 pontos] ø Insano Homicida [-2 pontos] ø Insano Megalomaníaco[-1 ponto] ø Insano Mentiroso [-1 ponto] ø Insano Múltipla Personalidade [0 pontos] ø Insano Obsessivo [-2 pontos] ø Insano Paranóico[-1 ponto] ø Insano Piromaníaco [-1 ponto] ø Insano Sonâmbulo [-1 ponto] ø Insano Suicida [0 pontos] x=x=x=x=x=x=...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "rpg-dragon-ball-oficial-l-by-fractius--rpg-dragon-ball-oficial-l-by-fractius-jogo-criado-para-o-sistema-3d-t-1",
+      "name": "Jogo Criado Para o Sistema 3D&T!!!",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rpg-dragon-ball-oficial-l-by-fractius",
+      "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Jogo Criado Para o Sistema 3D&T!!! By Created: Eduardo Aguiar Sampaio “Fractius”",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "rpg-dragon-ball-oficial-l-by-fractius--rpg-dragon-ball-oficial-l-by-fractius-regras-34",
+      "name": "Regras",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "rpg-dragon-ball-oficial-l-by-fractius",
+      "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
+      "pages": [
+        34
+      ],
+      "page": 34,
+      "summary": "Regras x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x= << Sistema >> O sistema e 3det mas modificado e atualizado a baixo tem todas as explicações.... x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x= << Regra de Ouro >> Eu como narrador eu gosto de narrar de uma maneira... e...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "regras-de-boa-convivencia--docx-structured-source",
+      "name": "Documento DOCX estruturado",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "regras-de-boa-convivencia",
+      "sourceTitle": "Regras de boa convivência",
+      "pages": [
+        [
+          1,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Fonte DOCX estruturada: Regras de boa convivência.",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento / regra de mesa",
+      "officialSource": false,
+      "sourceFamily": "custom_rules",
+      "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "santa-cruz-biblioteca-elfica--santa-cruz-biblioteca-elfica-indice-6-11",
+      "name": "ÍNDICE (106-115)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "santa-cruz-biblioteca-elfica",
+      "sourceTitle": "Santa-cruz-biblioteca-elfica",
+      "pages": [
+        [
+          106,
+          115
+        ]
+      ],
+      "page": null,
+      "summary": "105 ** Golpes que não precisam ser comprados. Huka-Huka A Huka-Huka é praticada em festivais comemorativos das tribos indígenas que realizam, além das competições de Huka-Huka, competições de corrida, natação, e arco e flecha. Segue princípios de imobilizações, chaves e estrangulamentos específicos, que são mortais se bem aplicados. Uma chave e estrangulamen...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "santa-cruz-inferno-verde-biblioteca-elfica--santa-cruz-inferno-verde-biblioteca-elfica-a-colonizacao-era-inevitavel-4",
+      "name": "A colonização era inevitável ...",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "sourceTitle": "Santa-cruz-inferno-verde-biblioteca-elfica",
+      "pages": [
+        [
+          4,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "A colonização era inevitável ... a busca por territórios, a cobiça por novas colônias, fortuna, etc. De uma forma ou de outras os europeus teriam a América para si, mas quando chegaram ela já era habitada. Os povos ameríndios, os nativos americanos, estavam em formação, de certo eram uma sociedade primitiva, mas avanços como os dos Incas e Maias eram constan...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-2-x--sistema-daemon-2-x-pagina-inicial-1-4",
+      "name": "Pagina inicial (31-40)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sistema-daemon-2-x",
+      "sourceTitle": "Sistema-Daemon-2-X",
+      "pages": [
+        [
+          31,
+          40
+        ]
+      ],
+      "page": null,
+      "summary": "31 esse objetivo, e to-dos seus atos são guiados por ele. Toda a vida dele é regida por esta causa e nada o fará desistir dela, pois ele acredita que valha qualquer sacrifício em seu nome. Pode ser fanatismo religioso, nacionalismo fervoroso, a busca incansável por um artefato lendário, uma vingança pessoal. Fanfarronice -1 Ponto: O personagem é um trovador....",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-2-x--sistema-daemon-2-x-pagina-inicial-1-10",
+      "name": "Pagina inicial (91-98)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sistema-daemon-2-x",
+      "sourceTitle": "Sistema-Daemon-2-X",
+      "pages": [
+        [
+          91,
+          98
+        ]
+      ],
+      "page": null,
+      "summary": "91 cavalo, cobra, aranha e etc. Controla simultaneamente ate 2 pessoas ou divide seus pensamentos de forma a realizar simultaneamente duas tarefas (como ler dois livros ou lutar e resolver um problema de matemática ao mesmo tempo). Permite ao místico saber a localização exata de todo um tipo de madeira ou planta próxima a ele (e isso inclui flechas e outros...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-conducao-pilotagem-agt-15",
+      "name": "Condução /Pilotagem* (AGT)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "pages": [
+        [
+          15,
+          16
+        ]
+      ],
+      "page": null,
+      "summary": "Condução /Pilotagem* (AGT) Alguns subgrupos de Condução: Automóvel, Ônibus, Caminhão, Empilhadeira, Guindaste, Carruagem, Motocicleta. Alguns subgrupos de Pilotagem: Carro de Corrida, Motocicleta de Corrida, Helicóptero, Avião Comercial, Avião Militar, Ônibus Espacial, Lancha, late, Veleiro, Navio Cargueiro, Ultraleve e Asa Delta. Disfarce (INT) Eletrônica (...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-pelo-telefone-35",
+      "name": "PELO TELEFONE",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
+      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
+      "pages": [
+        35
+      ],
+      "page": 35,
+      "summary": "PELO TELEFONE OU INTERNET FRETE GRÁTIS! PREÇOS ESPECIAIS PARA LOJISTAS Informe-se: editoraêmanticora.com.br ou (11) 3257-5103",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-culnunlc-c-cuin-ci-rn-t-lco-83",
+      "name": "CUlnunlc.ç~ CUIn CI\"rn~t:lco.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          83,
+          84
+        ]
+      ],
+      "page": null,
+      "summary": "CUlnunlc.ç~ CUIn CI\"rn~t:lco. Canct~ lÍIItica \"' :-.IP, ,\\Ic= (~ <;(In,I. Qu2t .. \"bol< o hc:rOo wnoeguc O< ,,\"\"\"'ruGor com~. computo.. dor<. '\"' <.><g>n\"\"'''' \"I\"\"\"\"\"\",,,,,. !r.m,nulII><lo·llid <>«km c obttn.Io on'<J<moçin um.\",ru • .IL Toml\"\"\" P'~1o; ....- us.dol\"\"'- éUolW>da.r mioqu1n>' c oqwpamrn«H mcc:lnic\"\" ~ di>uoci .. N I \\'~I de POO\"\" \"\".>do, =ntn :...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-crf-o-de-arrn-nhlna-64",
+      "name": "Crf~.o de Arrn.nHlna..",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          64,
+          65
+        ]
+      ],
+      "page": null,
+      "summary": "Crf~.o de Arrn.nHlna.. Guac,uúnica.' \"I', Dono, IW<, (,2m). ( ) ~e\"'\"\",,,,,m <' c ..... de m>tcri1liz.o.l qu'\\q\",,' \"1\"\" <I. 1m,. ou =mcmo '{U\" ,m\"glrw- \"'\" , .... mõoo ,)1..(,{1 ,\\,..\"., bt.nn~ 61 911 Ar\"..,;,)\" f'>g<l- ')141 QuaIqu<r tipo de arm •. ~ ~'''''''~runlunrq><mJ\"\"\"\"\" 1 ...... \"\" <00'10 apaoa., m><hado<, w..;:.<, .... \" \"\",\">ln. A ....,. O< \"\"\"\" ....",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-c-rlucic-l-p-rn-m-h-l-1m-32",
+      "name": "C~,rlÚcic\", l\"P, rn,M~ ,\\h_l' 1m).",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          32,
+          35
+        ]
+      ],
+      "page": null,
+      "summary": "C~,rlÚcic\", l\"P, rn,M~ ,\\h_l' 1m). O herói <- ~ de .oclc=, <litnUJuJ' \"\" c.)m,,~.,\", <d- çilc, ~ • 'UI ,ui ... Ele pock .w: .. máqwn .. 'I\"\" 1\"\"\"0 o\", l .. t\"\",,,, neut.,(\" .... k.\"', \",\",''''' 'I\"\" S\"~ \"'\" CO<1JÇ>, po<k c<><<o<' ntrutoru otiluoodo fcrrug<m (\"\"\"mo.Jo\" <raç''''' 'fUj\"\",,~, Jt\", mctlU> de: ,o.trn\"'~), \"'\" :OC:OKn. \" pro«.\"\" do ,I«:om~ Jc: uni...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "hyphenated_word_split",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-precollnl-i-o-85",
+      "name": "Precollnl'i.o",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          85,
+          89
+        ]
+      ],
+      "page": null,
+      "summary": "Precollnl'i.o C..,..~~t<:ri .. ic ... , t>. P. P1J\\. [)urooçj<, 1< I dio· OBS. \"'t. p<><!«< um pc\"\"-.,.,-io. !ln'. I<'r .~toril.oo mm mwU c,uI<lo pck> Mnac. tbd Wi ..-iuJo! L. c. pocxb<kdrrnxaprdctdnc. de um fututt> ,b,mnt- () P<f\"\"\"l>\"''' \"\"\"''''8'''' \"liuml=< ., . .\"~,, e f\"\"\" qu< ..00. oio \"\"\"\",.,,,.,,, <m \"'\" «mpo. _\\Iw ... '\"\"'<>\" pr.\"\"\" .lo full> ro.~...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-r-o-ien-ljll-51",
+      "name": "R./o \"'_\"IEn.lJll.",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          51,
+          52
+        ]
+      ],
+      "page": null,
+      "summary": "R./o \"'_\"IEn.lJll. Car..c'cri.tlcu: NP. D><I01. D\"\",,2..\\lc2nc< 11 <;m). fi .• apocKbd< \"\",'..,'e do: gcnr raIOII 1ucr> doo \"-'''\"1''' <lo Pcr>ooogem. Algulu o;obaw <k><n,w\"l1Im km ... cmtobnao ro<l,,\"CflO\"\" <k <nagu oohr cm ......-gt-o. IUlrunl».>. \",~\"\"\"\" .... I>., cumumcnte dwnMh. <k la~ Outtoo ronocgu<m dwn<C<f o npoço \",,>tido lente< cm ~ •• OfQ> p\"\"'''...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-uponl-de-lo-36",
+      "name": "Uponl' de «lO'!'?",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        [
+          36,
+          37
+        ]
+      ],
+      "page": null,
+      "summary": "Uponl' de «lO'!'? 0.\",,,.,,,00... Abso<çl\" (D\",''')' det=run. o <hno mi.imo'I'\" \" Pot· OOD>gcm \" -capu <i< .1....,..\" \"\" ,k 'I\"\"\"\"\",\" npo do rncrgi>. O qu< P\"-u \"'''c , .. lo< nio \" .f..· .. oo pdn p\"'k,. 'U\"II\"'u\" o !'<TIO- o>g<t>, \"\"\"\",.]\"\"'\",\"- O p~ com er\"\" rliuJpo.< • ''''''8>' ,b.<>n\"ld.> de orordo com ... 1\",1 . .... ,~o: Ol_'il I 1'<\"'''-' por ~ 2 po...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "hyphenated_word_split",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-v-ando-super-22",
+      "name": "V.ando Super",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        22
+      ],
+      "page": 22,
+      "summary": "V.ando Super A m<DO!I 'I\"\" U 1\" ...... ~ \"\" ..... cc,... . ...oo. \". her<M' uuhum \" .. FOfÇldr \\'ootad< (\\\\>'IU.) !'IOt ... ,vu _ pnd<~ ( ... 10 \"\"\" Jr um dcttmunod<. 1\"\"1.. 81\"'\" 1 pont<> do IfIU. ltfI1J><'rin> EM< 1>\"\"\"''''''' ~.i rum.Jr 11'<\"',,,, • .,..,10 lO \"\"\"\" ..... ou rodo< M p<><Il<>I cuu·, 1''''\"''''\"(1;<''' <:nMII':I do_ .....,. do 'fi\" .... tto...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-ui-u-56",
+      "name": "UI-ü';",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        56
+      ],
+      "page": 56,
+      "summary": "UI-ü'; 'J:.r>t ..... , ü!<p<·\"'\" ~\" ,\\Ioog>mroln C.orp6«o \"\" .'\\rmaJun Corpóre. 21-25 G.briw \\'\"\" .. \"'~ Ü''1'\" F-\",,~o _lI_.1S Du'Uctdc( ',m, 1cio ,.., I hhWdode> \"\",m ... , 41 --45 H\"htlkl><!t.Ilot\",- ~~ H.liIh<bdc. Quúru<: .. 51-S\" Irm\"\"\"\", \"\"\" 1\"\" \";;ibiloJ ... lo 61.(,'; I\", wholi.lli!c ~'O Mmipulaçiio de M ..... ~1-~5 I>k':unorn,>< '6--Sll .\\Iu.lonç. ,...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-c-ia-vi-57",
+      "name": "C __ Ia.VI ......",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        57
+      ],
+      "page": 57,
+      "summary": "C __ Ia.VI ...... <:.ra<;,en.ue ... \"I', FR. P\\' .. Ralo (~I m). o. ~Ios li<> I'<:~ po<loom ,,1, • .1«<>\" \"\"'~, a>- rrw>doo como x nm\"nKm...-oo. I'nd.rn> 'l>Ur, ~. 2t. me\"\",,, canwr <><>t<n\" pon \" l'cr'O'la!I..:lII. AI .. ;\",,, p<><l<=< m...doo ~ ~apo.c<O de <n:>o:c:. \"' ..... ttIJ<'am<nk .k mwIDS ID<'trt>f' do: mmprunrn\"'\" FR (A,';h\",,,/ Mn ... de O • ...,)...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ends_with_connector_possible_cut",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-de-coii-bat-e-63",
+      "name": "de COII.bat:e",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        63
+      ],
+      "page": 63,
+      "summary": "de COII.bat:e UI 25 26-\"'l 51-<\",1) 61 115 .. \"\" 91-<\",1) rum.. K,tw2U. \"'\"'\"\"-. c.\"'~ <.:~ d< Am=r.roro<_ II.bobdadodc 0nomo. \\lul\"I,),\" \\I\"\",bro.. c,,,,,,,,.mtic .. , KP, D.\",~ 1UIo, i' 1m), .\\,..,...,.. rum.. mtIU2I> lO<b:m _ (I, 2..J, \"\"'\" por JnI<>.LI n ..... ). \"\"'..., ........ '\" (,,\"\"\" O> J< \\.OJl , __ ,de lUbar:io. croro dilo, pK'>< d< f2In <\"'-_)....",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-prd-dr-70",
+      "name": "PrD\"\"Dr~\"",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        70
+      ],
+      "page": 70,
+      "summary": "PrD\"\"Dr~\" (:ON IO. IR S.IlL'I: W •. \\(;1_1 I\",.W. \\\\ 1 LJ..4~.C'\\R W. PLR 45 Td<I\"\"'do IS\" nl,d \"'uqun 111. 11' o. 1'\\', 211-+ ,lH Á\"\"I\"\"'\" l'O .... \"In ..., n.\"Oo ... Ii ... \". Pode .. \", F-,,'f\"'tio [4~1. 1'drpo\". (4\\, 6H. 41. T.Ido~. Iiuçic 14~. lII. 6111. Tdrun<.ia 1'4\\ lU. ln, ,U]. \\'\"\"\"\"\" de F<rm 1~5, (1), 3011, s...n.:!;, _\\Io:m'\" 145. 321 . ..... poj...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-n-ji-71",
+      "name": "n.\"\"'--JI",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        71
+      ],
+      "page": 71,
+      "summary": "n.\"\"'--JI lO:\"o! H, H\\ 111. DF\\ 12. ,\\(\";, 14 I\" T 18. \\\\11.1 .. JS, C'\\R 111. PER ·111 Te\"P\"'\" do 1.1\" ru..-cl ... t2<JI>C' [II. I ~ t. PY, 10..-2(, \"''\"'l'\"'''' ,\\,,\"' nurcio.i, (,(I/(~I. d:mo 1d6 \"\" ,. ... \"e- d< .~ .... mro'ill/psióoicoo 1'OOt:..,., limpo\"\" [1'1, ·1'*, ..... ll,. '>1.41. TcIcIoc:aIi.lOÇÓ<' PS. 38,~. Tt:lo::ar.e<i>. r-\\ 12S •. 121. Yoo......",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "hyphenated_word_split",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-r-nc-cotpu-81",
+      "name": "R\"'.~nc\" COTpu,..'",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        81
+      ],
+      "page": 81,
+      "summary": "R\"'.~nc\" COTpu,..' Carac'cn.ti<: .. : :\"'1', MulbJ>lood<>I'. o 1'<\"\"\"\"11\"\"' f\"\"\"\" w ... \"\"\"'~ n.runl mwro m.K>too'l\"\"wn\",,,h= .\"ocootcinod. ~<p.><\" ,~ tm.di .... \" muito nws dioc .. , IVii\":\"\"\" C-;-Ol.r ... \"\"!.,,, \\ rorpo 00 Puwnog<m, 1<>1\"t\"dt>dn-o rru.i. «DUro'\" • doem.,. , . .,~ \"ouuoo roou.«tIIf\"'S- Nivd de p~ ~ te .. ..!\" \"'''''''' p<><lo=$ .... narupu...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "supers--supers-t-dy-t-i-105",
+      "name": "t..dy t.._I",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "supers",
+      "sourceTitle": "Supers",
+      "pages": [
+        105
+      ],
+      "page": 105,
+      "summary": "t..dy t.._I (:0' 16. FR 16. nrx 24.\\GI IH I~ 12, \\nLL 16.'..AR 16. I'ER 16 (i>l<'U<in do 15' rú\",,1 ; ..... , ... PJ. IP 3. P\\'. 31 160 AIOq\"\"\", G.m, 120/95. dM>r> (por prn':' 3<16+5 I'o<k\",.: AlI ... :-.:.tur>l ~ 2 \\24. 18. 12. U] L.<h' J.,,,,,,J poo>UI •• \"oh .. do: odun.,.,';om, ., mc<mt> n..,eno.! du W ...... ,I< W,~ .. ......,. Jtes-fOÇl<:. (24. 14). S<...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr",
+        "unbalanced_brackets",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-tagmar-daemon-1",
+      "name": "Tagmar Daemon",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Tagmar Daemon Adaptação de Tagmar para o Sistema Daemon: Bruno “Siamo Onurb” Omais, Brunno “Lobo” Silva, Daniel “Talude” Paes, Luiz Leandro “Gandalfo” Gomes; Revisão e Organização: Luiz Leandro “Gandalfo” Gomes; Autores Originais de Tagmar: Marcelo Rodrigues, Ygor Moraes Esteves da Silva, Julio Augusto Cezar Junior e Leonardo Nahoum Pache de Faria; Autores d...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "front_matter",
+      "contentKindLabel": "Créditos, índice ou metadado",
+      "editorialFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "front_matter_or_index_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-regras-especiais-59",
+      "name": "Regras Especiais",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        59
+      ],
+      "page": 59,
+      "summary": "Regras Especiais Paralisia Um Personagem pode estar paralisado devido a um efeito mágico, um veneno ou qualquer motivo que seja. O Personagem pode estar ciente dos fatos a sua volta, mas não pode, de modo algum, mover-se ou defender-se de nada. Caso um outro Personagem decida matá-lo, ele não tem como se defender. Sufocar Um Personagem é capaz de ficar CON/2...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-doencas-60",
+      "name": "Doenças",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        60
+      ],
+      "page": 60,
+      "summary": "Doenças Moléstias estranhas podem afetar o aventureiro em terras distantes. A invenção de doenças é uma oportunidade excelente para o Mestre exercitar uma forma mórbida de criatividade! Qualquer um em uma área infectada, ou encontrando um portador de doença, está em perigo. A maioria das doenças permite um teste de resistência por CON para resistir, feita em...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-9oooooo-3-1",
+      "name": "9oooooo (3-12)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon-versao-completa",
+      "sourceTitle": "Tagmar-Daemon-Versao-Completa",
+      "pages": [
+        [
+          3,
+          12
+        ]
+      ],
+      "page": null,
+      "summary": "9oooooo o ( oo ooo''oooooooooooo 3 9ooooooo ( ooo''''''oooooooooo Tagmar-Daemon Créditos Créditos Créditos Créditos Adaptação de Tagmar para o Sistema Daemon: Bruno “Siamo Onurb” Omais, Brunno “Lobo” Silva, Daniel “Talude” Paes, Luiz Leandro “Gandalfo” Gomes; Revisão e Organização: Luiz Leandro “Gandalfo” Gomes; Autores Originais de Tagmar: Marcelo Rodrigues...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-9oooooo-3-7",
+      "name": "9oooooo (63-72)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon-versao-completa",
+      "sourceTitle": "Tagmar-Daemon-Versao-Completa",
+      "pages": [
+        [
+          63,
+          72
+        ]
+      ],
+      "page": null,
+      "summary": "9oooooo o ( oo ooo''oooooooooooo 63 9ooooooo ( ooo''''''oooooooooo Tagmar-Daemon O Comér O Comér O Comér O Comércio em Tagmar cio em Tagmar cio em Tagmar cio em Tagmar O comércio em Tagmar é feito basicamente de duas formas: Em centros comerciais (cidades) e através de mercadores ambulantes. O comércio nas cidades é normalmente mais variado e com um preço ma...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-9oooooo-3-8",
+      "name": "9oooooo (73-82)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon-versao-completa",
+      "sourceTitle": "Tagmar-Daemon-Versao-Completa",
+      "pages": [
+        [
+          73,
+          82
+        ]
+      ],
+      "page": null,
+      "summary": "9oooooo o ( oo ooo''oooooooooooo 73 9ooooooo ( ooo''''''oooooooooo Tagmar-Daemon Viagem Viagem Viagem Viagem A distância percorrida em um dia, tanto a pé quanto a cavalo, é uma função direta da sua carga. Sob condições ideais de viagem, um grupo em boa forma pode planejar percorrer as seguintes distâncias em um dia de marcha: sem carga: 36 quilômetros; redut...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "invalid_title_or_ocr_header",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-pagina-inicial-1",
+      "name": "Pagina inicial",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "tagmar-daemon-versao-completa",
+      "sourceTitle": "Tagmar-Daemon-Versao-Completa",
+      "pages": [
+        [
+          1,
+          2
+        ]
+      ],
+      "page": null,
+      "summary": "Pagina sem texto extraido relevante.",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "templarios-biblioteca-elfica--templarios-biblioteca-elfica-crasl-17",
+      "name": "Crasl",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "templarios-biblioteca-elfica",
+      "sourceTitle": "Templarios-biblioteca-elfica",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "Crasl HICLACETSEPULTUS INCLITUS REX ARTURUS ININSULA AVALONIA A lenda do rei Arthur e dos Cavaleiros da Távola Redonda é uma das mais famosas do ocidente. O uni- verso místico de Arthur e seus Cavaleiros engloba muito mais do que apenas Camelot, as florestas da Brocelândia e Excalibur, mas é uma fonte de incontáveis lendas, nar- rativas e textos (antigos e m...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-3-0--trevas-3-0-regras-e-testes-159",
+      "name": "Regras e Testes",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "trevas-3-0",
+      "sourceTitle": "Trevas 3.0",
+      "pages": [
+        [
+          159,
+          165
+        ]
+      ],
+      "page": null,
+      "summary": "Regras e Testes \", , , , u\"\"\"\",-,~\"\" .... r~'''''''.~'><1-''''I''~'''''' \"\",.! d''''1\",\"~h'n'I~''''><m.I\"\",,_~ ~\",~ ... ,..<h 1«\"'oI\"~;aJ ..... \",,rf<'n, •• ~,,~ '. < ,><Cft .... ,,<> .Jch\"\" c,..\" I\", ,~,< cc'xI.&>~, p\"-,Comh\"~.<·I<>,, • • \\, fo,:> •• ~\" \"\"\"1'''''- f'''''''' \"\"\"',,., <.;.:..\"\" ... , ...... \"\"\"'< : ;\"\"'\\1',11.;., rt\"\";\"\";..,<I< \" ... ~\"., \"\",...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "symbol_noise_ocr"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-loucura-75",
+      "name": "Loucura",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        [
+          75,
+          77
+        ]
+      ],
+      "page": null,
+      "summary": "Loucura “Loucura é necessária para alcançar os deuses. Sim, esta é a verdade. Poucos mortais a possuem...a chance de se afastar da sanidade. Caminhar nas selvas da insanidade...” Neil Gaiman-Entes Queridos É surpreendente que até hoje o Sistema Daemon não tenha nenhuma regra que determine o enlouquecimento que um personagem possa vir a sofrer, por isso, esta...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-um-sussurro-nas-trevas-3",
+      "name": "Um Sussurro nas Trevas",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "um-sussurro-nas-trevas",
+      "sourceTitle": "Um Sussurro nas Trevas",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Um Sussurro nas Trevas Agradecimentos: Ao Howard Phillips Lovecraft por desenvolver todo um sistema mitológico insandecedor para sua literatura de Horror. Ao Sand Petersen por criar o primeiro RPG de Horror investigativo Call of Cthulhu. Ao Marcelo Del Debbio por criar o Sistema Daemon. A Minha Amada Esposa Fabiana por aturar minhas loucuras e sempre me ince...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "universo-daemon-01--universo-daemon-01-eoltorial-2",
       "name": "EoltORIAL",
       "area": "regras_base",
@@ -1494,6 +5498,217 @@
         "does_not_end_like_complete_sentence",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "varna-chamado-da-guerra--varna-chamado-da-guerra-www-daemon-com-br-2",
+      "name": "www.daemon.com.br",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "varna-chamado-da-guerra",
+      "sourceTitle": "Varna - Chamado da Guerra",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "www.daemon.com.br fone/fax: (11) 5539-1122 São Paulo - SP",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "vikings-biblioteca-elfica--vikings-biblioteca-elfica-pre-pina-arampn-prrpixm-ar-ama-58",
+      "name": "PRE PINA ARAMPN PRRPIXM AR AMA",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "vikings-biblioteca-elfica",
+      "sourceTitle": "Vikings-biblioteca-elfica",
+      "pages": [
+        [
+          58,
+          61
+        ]
+      ],
+      "page": null,
+      "summary": "PRE PINA ARAMPN PRRPIXM AR AMA Mato + WMIbaS MIS MID NI MID E NI Sd WRIDSIS MIMAS WMA ss = BRR MMA ARAMPM PREMIA ARAMPN 2 RES MINA ASP RER MINA ARPNEM RERMINM ASP so MINS WRIDEI Mali 5 WRIVE de Njordr, Noatun, c os tijolos dos muros é tão grande que talvez seja o único lugar em que não seja possível ensergá-ha. Não se sabe onde acabam as fronteiras do Repous...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "vikings-biblioteca-elfica--vikings-biblioteca-elfica-sbrmxm-arpmbx-rermixm-arame-retina-arame-27",
+      "name": "SBRMXM ARPMBX RERMIXM ARAME RETINA ARAME",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "vikings-biblioteca-elfica",
+      "sourceTitle": "Vikings-biblioteca-elfica",
+      "pages": [
+        [
+          27,
+          28
+        ]
+      ],
+      "page": null,
+      "summary": "SBRMXM ARPMBX RERMIXM ARAME RETINA ARAME BRR PIXM + AMEX BRR PIXM +RAMAN A ERA VIKING A Exa Viking compreendeu um espaço de tempo entre os sécu- los 1X e XT, nos quais ocorreram invasões cas relações políticas com a Europa foram se formando e se fixando, até os povos nórdicos se voltarem à organização de seus próprios reinos, AViDA NÓRDICA Um homem era consi...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "vikings-biblioteca-elfica--vikings-biblioteca-elfica-pre-mina-arampn-premia-arampnz-2",
+      "name": "PRE MINA ARAMPN PREMIA ARAMPNZ",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "vikings-biblioteca-elfica",
+      "sourceTitle": "Vikings-biblioteca-elfica",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "PRE MINA ARAMPN PREMIA ARAMPNZ SE e = VIKINGS ANTÔNIO AUGUSTO SHAFTIEI DAEMON EDITORA FAX (011) 5539-112 DAEMONG) DAEMON, COM BR NI UU MIS NLUSA UML MNALUSAL |) HTT WW DAEMON. COM. B USA TA Mai Sd WMV PRA MNA ERAMPR PRE PINA ER AMIR",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "vikings-biblioteca-elfica--vikings-biblioteca-elfica-br-mmm-arampn-prrpixa-arame-33",
+      "name": "= BR&MMM ARAMPN PRRPIXA ARAME",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "vikings-biblioteca-elfica",
+      "sourceTitle": "Vikings-biblioteca-elfica",
+      "pages": [
+        33
+      ],
+      "page": 33,
+      "summary": "= BR&MMM ARAMPN PRRPIXA ARAME FRRMMM ARAME RR&MIXM ARAME BR$PIXM ARA se MINS RIDE RI WRIDE RELIGIÃO A réligião nórdica trata do ciclo do mando. Ela é uma continui- dade em que a morte e a vida são processos interligados e dependen- tes Tudo se trata de um processo de coação, morte e renovação. O culto aos Acsir É chamado inn fomi sidr ou a prática antiga. Já...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -2055,6 +6270,95 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "naruto--naruto-introducao-3-2",
+      "name": "Introdução............................................................3",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto",
+      "sourceTitle": "naruto",
+      "pages": [
+        [
+          2,
+          5
+        ]
+      ],
+      "page": null,
+      "summary": "Introdução............................................................3 Chakra..................................................................4 Exceções: chakras duplos..................................4 Selos.....................................................................5 Jutsus...................................................................6 Cat...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "ocr_noise",
+      "contentKindLabel": "OCR/lixo de extração",
+      "editorialFlags": [
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "critical_ocr_gibberish",
+        "ocr_corrupted_title_or_body",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto--naruto-chamada-de-jutsu-na-maior-parte-dos-6",
+      "name": "chamada de JUTSU. Na maior parte dos",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "naruto",
+      "sourceTitle": "naruto",
+      "pages": [
+        [
+          6,
+          13
+        ]
+      ],
+      "page": null,
+      "summary": "oda a técnica utilizada por um shinobi é chamada de JUTSU. Na maior parte dos casos existe aplicação de chakra, o que o torna mais forte e preciso. O jutsu, em Naruto, é combinado a os animais do horóscopo Japonês e a elementos da natureza. Existem seis espécies de jutsus divididos em duas categorias distintas: Ninjutsu: É a arte de realizar um jutsus atravé...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "ray--ray-editorial-2",
       "name": "Editorial",
       "area": "regras_base",
@@ -2220,6 +6524,51 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "sda-rpg--sda-rpg-julio-cesar-da-silva-1-1",
+      "name": "Júlio César da Silva (1-10)",
+      "area": "regras_base",
+      "category": "core_rule",
+      "source": "sda-rpg",
+      "sourceTitle": "sda rpg",
+      "pages": [
+        [
+          1,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "Júlio César da Silva 2a Edição O Senhor dos Anéis RPG 2 Editorial Este livro virtual (ou E-BOOK) foi escrito originalmente por Júlio César “Gandalf” da Silva para a Equipe Valinor e foi adapta- do para o RPG por Fabrício Botelho, que não está lucrando com nada aqui presente, pois a distribuição deste é gratuita. As informações deste livro foram retiradas do...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
