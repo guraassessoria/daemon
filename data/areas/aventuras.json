@@ -3,8 +3,8 @@
   "id": "aventuras",
   "name": "Aventuras",
   "readySourceCount": 275,
-  "entityCount": 13,
-  "sourcePartCount": 76,
+  "entityCount": 14,
+  "sourcePartCount": 75,
   "subgroups": [],
   "filters": {
     "sources": [
@@ -26,7 +26,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 1
+        "count": 2
       },
       {
         "id": "demonios-a-divina-comedia",
@@ -56,7 +56,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 5
+        "count": 7
       },
       {
         "id": "a-assassina",
@@ -86,7 +86,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 19
+        "count": 17
       },
       {
         "id": "alastores-a-justica-infernal",
@@ -106,7 +106,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 3
       },
       {
         "id": "arkanun-1e-ultra-raro",
@@ -159,28 +159,18 @@
         "count": 2
       },
       {
+        "id": "daemon-anime-rpg",
+        "title": "Daemon - Anime RPG",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 2
+      },
+      {
         "id": "daemon-revisado-playtest-alfa-3-6",
         "title": "Daemon Revisado playtest alfa 3.6",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "daemon-tormenta",
-        "title": "Daemon Tormenta",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "energia-mistica",
-        "title": "Energia Mistica",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
@@ -216,7 +206,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "livrodomal",
@@ -227,16 +217,6 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 2
-      },
-      {
-        "id": "lobisomemv3",
-        "title": "LobisomemV3",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
       },
       {
         "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
@@ -256,6 +236,16 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
+        "count": 2
+      },
+      {
+        "id": "modulo-basico-expandido-e-modificado",
+        "title": "Módulo Básico - Expandido e Modificado",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
         "count": 1
       },
       {
@@ -276,7 +266,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 2
       },
       {
         "id": "one-punch-man-rpg",
@@ -286,27 +276,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
-      },
-      {
-        "id": "onmyodo",
-        "title": "Onmyodo",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "oriente-cronologia",
-        "title": "Oriente Cronologia",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 3
       },
       {
         "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
@@ -316,7 +286,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 2
+        "count": 1
       },
       {
         "id": "tagmar-daemon",
@@ -326,7 +296,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 3
       },
       {
         "id": "templarios-biblioteca-elfica",
@@ -336,7 +306,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "trevas-campanha-epica",
@@ -357,16 +327,6 @@
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
         "count": 2
-      },
-      {
-        "id": "trevas-do-oriente-28-palacios",
-        "title": "Trevas do oriente - 28 Palácios",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "setting_lore",
-        "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 1
       },
       {
         "id": "um-sussurro-nas-trevas",
@@ -397,46 +357,36 @@
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
         "count": 1
-      },
-      {
-        "id": "yuyu-hakusho-rpg-para-daemon",
-        "title": "yuyu hakusho RPG para Daemon",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "adaptation_pop",
-        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
       }
     ],
     "categories": [
       {
         "id": "adventure",
-        "count": 10
+        "count": 9
       },
       {
         "id": "attribute_skill",
-        "count": 8
+        "count": 16
       },
       {
         "id": "character_option",
-        "count": 2
+        "count": 1
       },
       {
         "id": "combat",
-        "count": 7
+        "count": 8
       },
       {
         "id": "core_rule",
-        "count": 13
+        "count": 16
       },
       {
         "id": "creature_npc",
-        "count": 24
+        "count": 20
       },
       {
         "id": "item_equipment",
-        "count": 6
+        "count": 5
       },
       {
         "id": "kit_class",
@@ -444,11 +394,7 @@
       },
       {
         "id": "power_magic",
-        "count": 7
-      },
-      {
-        "id": "race_lineage",
-        "count": 1
+        "count": 4
       },
       {
         "id": "ritual_spell",
@@ -456,7 +402,7 @@
       },
       {
         "id": "setting_lore",
-        "count": 5
+        "count": 4
       },
       {
         "id": "source",
@@ -466,7 +412,7 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 38
+        "count": 40
       },
       {
         "id": "combat_maneuver",
@@ -482,11 +428,11 @@
       },
       {
         "id": "item_equipment",
-        "count": 5
+        "count": 7
       },
       {
         "id": "lore_world",
-        "count": 5
+        "count": 4
       },
       {
         "id": "ocr_noise",
@@ -494,11 +440,11 @@
       },
       {
         "id": "organization_faction",
-        "count": 6
+        "count": 5
       },
       {
         "id": "raw_chapter_block",
-        "count": 14
+        "count": 15
       },
       {
         "id": "rule_mechanic",
@@ -506,36 +452,36 @@
       },
       {
         "id": "uncertain_fragment",
-        "count": 14
+        "count": 11
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 13
+        "count": 16
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 76
+        "count": 73
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 6
+        "count": 11
       },
       {
         "id": "campaign_adventure",
         "label": "Campanhas e aventuras",
-        "count": 30
+        "count": 28
       },
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 4
+        "count": 3
       },
       {
         "id": "equipment_items",
@@ -545,12 +491,12 @@
       {
         "id": "myth_history",
         "label": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 13
+        "count": 16
       },
       {
         "id": "powers_magic",
@@ -565,7 +511,7 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 27
+        "count": 23
       }
     ],
     "areas": [
@@ -711,6 +657,39 @@
       "qualityStatus": "ok"
     },
     {
+      "id": "equipamentos-futuristas",
+      "name": "Equipamentos Futuristas",
+      "area": "aventuras",
+      "category": "item_equipment",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 35,
+      "entries": [
+        "Equipamentos, armas, granadas, armaduras e veiculos futuristas para campanhas SUPERS sci-fi."
+      ],
+      "tags": [
+        "aventuras",
+        "equipamento",
+        "item_equipment",
+        "itens_equipamentos",
+        "sci-fi",
+        "supers"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
       "id": "despertar",
       "name": "Fase 1: Despertar",
       "area": "aventuras",
@@ -792,7 +771,8 @@
         "combat",
         "combate",
         "dano",
-        "ferimentos"
+        "ferimentos",
+        "regras_base"
       ],
       "confidence": 0.9,
       "extractionMethod": "manual-pass-1",
@@ -891,9 +871,9 @@
         "ambiente",
         "aventuras",
         "combat",
-        "combate",
         "espaco",
-        "perigo"
+        "perigo",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "manual-pass-1",
@@ -960,7 +940,8 @@
         "aventuras",
         "core_rule",
         "narrador",
-        "regras-basicas"
+        "regras-basicas",
+        "regras_base"
       ],
       "confidence": 0.9,
       "extractionMethod": "manual-pass-1",
@@ -1295,7 +1276,8 @@
       ],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -1385,98 +1367,6 @@
       "tags": [
         "aventuras",
         "kit_class"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "campaign_adventure",
-      "sourceFamilyLabel": "Campanhas e aventuras",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "abismo-infinito-quick-start--abismo-trauma-stress",
-      "name": "Trauma e Estresse",
-      "area": "aventuras",
-      "category": "character_option",
-      "source": "abismo-infinito-quick-start",
-      "sourceTitle": "Abismo-Infinito-Quick-Start",
-      "pages": [
-        28,
-        29,
-        30,
-        31,
-        32,
-        33
-      ],
-      "page": 28,
-      "summary": "Regras psicologicas de trauma, estresse, medo particular, loucura do espaco, sonolencia, olvidamento, camadas de sonhos, controle do sonho e perda de ancoras.",
-      "entityRefs": [
-        "trauma",
-        "estresse"
-      ],
-      "tags": [
-        "aventuras",
-        "character_option"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "campaign_adventure",
-      "sourceFamilyLabel": "Campanhas e aventuras",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "abismo-infinito-quick-start--abismo-fear-manifestations",
-      "name": "Manifestacoes dos medos",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "abismo-infinito-quick-start",
-      "sourceTitle": "Abismo-Infinito-Quick-Start",
-      "pages": [
-        35,
-        36,
-        37
-      ],
-      "page": 35,
-      "summary": "Regras e orientacoes narrativas para manifestacoes dos medos dos protagonistas, tratadas como antagonistas ligados ao medo particular.",
-      "entityRefs": [
-        "manifestacoes-dos-medos"
-      ],
-      "tags": [
-        "aventuras",
-        "creature_npc"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -1857,9 +1747,9 @@
       "summary": "Atributos Definição Os atributos são elementos importantes quando chega o momento de colocar em números as noções mais básicas do personagem. Seja qualquer que seja o tipo de campanha, eles podem ser uma boa ferramenta para os mestres. Uma crônica de horror pode se valer dos atributos como uma forma de medir a dificuldade de um inimigo para melhor inserí-lo...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "aventuras"
+        "aventuras",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -1969,6 +1859,90 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-pericia-v-i-pericia-104",
+      "name": "Perícia V!i. Perícia",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        104
+      ],
+      "page": 104,
+      "summary": "Perícia V!i. Perícia Existem situações durante uma aventura nas quais dois Perso­ nagens estão se enfrentando utilÜando-se de suas perícias. Podem ser a mesma perícia ou perícias opostas. A resolução também é bastante simples. Escolha um dos lados da disputa como Fonte Ativa e o outro lado será a Fonte Passiva. A chance básica de sucesso é 50%. A esse valor,...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "daemon-anime-rpg--daemon-anime-rpg-combate-nao-mortal-113",
+      "name": "Combate não Mortal",
+      "area": "aventuras",
+      "category": "core_rule",
+      "source": "daemon-anime-rpg",
+      "sourceTitle": "Daemon - Anime RPG",
+      "pages": [
+        113
+      ],
+      "page": 113,
+      "summary": "Combate não Mortal Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da campanha que se desentenderam por algum problema da aventura e acabam perdendo a paciência um com o outro. As lutas de Boxe e Artes Marciais também se encaixam nesta categoria. Nenhum dos Personagens pretende matar o outro: vencer é suficiente. No...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "core_rule",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "daemon-medieval--daemon-medieval-daemon-medieval-21",
       "name": "Daemon Medieval",
       "area": "aventuras",
@@ -1983,7 +1957,8 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
-        "aventuras"
+        "aventuras",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -2011,6 +1986,50 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "daemon-medieval--daemon-medieval-capitulo-10-60",
+      "name": "Capítulo 10",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "daemon-medieval",
+      "sourceTitle": "Daemon Medieval",
+      "pages": [
+        60
+      ],
+      "page": 60,
+      "summary": "Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, por...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-criacao-de-personagens-4",
       "name": "CRIAÇÃO DE PERSONAGENS",
       "area": "aventuras",
@@ -2024,9 +2043,9 @@
       "summary": "CRIAÇÃO DE PERSONAGENS Passo 1: Campanha e Cenário O grupo decide qual tipo de jogo pretende jogar, o que determina quantos pontos os personagens terão em sua criação. Campanhas realistas: . Personagens começam no nível 0 . Atributos: Distribua os seguintes valores - 16/14/14/12/12/12/10/10. . Perícias: Escolha 3 grupos de perícias. Em cada um deles, distrib...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "aventuras"
+        "aventuras",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -2049,48 +2068,6 @@
         "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-2",
-      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (11-20)",
-      "area": "aventuras",
-      "category": "adventure",
-      "source": "daemon-tormenta",
-      "sourceTitle": "Daemon Tormenta",
-      "pages": [
-        [
-          11,
-          20
-        ]
-      ],
-      "page": null,
-      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Passo 2: Passado Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Números não são importantes, o importante é criar um Personagem coerente. Escolha um nome, idad...",
-      "entityRefs": [],
-      "tags": [
-        "adventure",
-        "aventuras"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -2225,49 +2202,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "energia-mistica--energia-mistica-suplemento-para-rpg-daemon-2",
-      "name": "Suplemento para RPG Daemon",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "energia-mistica",
-      "sourceTitle": "Energia Mistica",
-      "pages": [
-        [
-          2,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "Suplemento para RPG Daemon Energia Mistica Internas Suplemento que visa dar novas opções para Mestres e Jogadores. Ao utilizarem magos em suas campanhas e aventuras de RPG. A Ordem da Lua - Role Playing Game Guarulhos - Sp Criação Desnvolvimento Revisão Capa Artes : Salátiel : Salátiel e Lokken (Stefano Paranho de Lima) : Vânia (Minha Mãe) e Lokken : Google...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
-      ],
-      "confidence": 0.88,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3",
       "name": "EVOLUÇÃO ALTERNATIVA",
       "area": "aventuras",
@@ -2285,7 +2219,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -2488,49 +2423,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-equipamentos-30",
-      "name": "Equipamentos",
-      "area": "aventuras",
-      "category": "item_equipment",
-      "source": "inquisicao-biblioteca-elfica",
-      "sourceTitle": "Inquisicao-biblioteca-elfica",
-      "pages": [
-        30
-      ],
-      "page": 30,
-      "summary": "Equipamentos Tanto os Jogadores quanto o Mestre devem ter em mente que este é um jogo ambientado na Idade Média. Todos os equipamentos devem ser compatíveis com a época éscolhida.pelo Mestre para começar a campanha. Cabe ao Mestre estabelecer os critérios monetários. Até mesmo porque o sistema financeiro da Idade Média era uma bagunça de f;tzer inveja aos ec...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-ideias-para-aventuras-43",
       "name": "Idéias. para ;Aventuras .",
       "area": "aventuras",
@@ -2573,49 +2465,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "lobisomemv3--lobisomemv3-a-origem-4",
-      "name": "A Origem",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "lobisomemv3",
-      "sourceTitle": "LobisomemV3",
-      "pages": [
-        [
-          4,
-          22
-        ]
-      ],
-      "page": null,
-      "summary": "A Origem Ironicamente, aqui não explicaremos a origem dos lobisomens. O netbook Lobisomem: a Maldição foi criado para dar as regras aos jogadores de como utilizar lobisomens em suas campanhas, sejam elas baseando-se no universo de Trevas, Arkanun, Invasão, Daemon Cyberpunk ou em outro da criação do narrador. Por isso, é extremamente necessário que o jogador/...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideracoes-125",
       "name": "Considerações",
       "area": "aventuras",
@@ -2633,7 +2482,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -2678,7 +2528,7 @@
       "tags": [
         "aventuras",
         "combat",
-        "combate"
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -2703,6 +2553,95 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "marvel-rpg-7o-edicao--marvel-rpg-7o-edicao-regras-e-testes-75",
+      "name": "REGRAS E TESTES",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "marvel-rpg-7o-edicao",
+      "sourceTitle": "MARVEL RPG 7º Edição",
+      "pages": [
+        [
+          75,
+          83
+        ]
+      ],
+      "page": null,
+      "summary": "75 REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-regras-e-testes-61",
+      "name": "Regras e Testes",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "modulo-basico-expandido-e-modificado",
+      "sourceTitle": "Módulo Básico - Expandido e Modificado",
+      "pages": [
+        [
+          61,
+          65
+        ]
+      ],
+      "page": null,
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momen- to da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuida- do as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resoluçã...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "modulo-combate--modulo-combate-editorial-2",
       "name": "EDITORIAL",
       "area": "aventuras",
@@ -2718,7 +2657,7 @@
       "tags": [
         "aventuras",
         "combat",
-        "combate"
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -2738,6 +2677,51 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "o-corvo--o-corvo-regras-e-testes-28",
+      "name": "REGRAS E TESTES",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "o-corvo",
+      "sourceTitle": "O Corvo",
+      "pages": [
+        [
+          28,
+          36
+        ]
+      ],
+      "page": null,
+      "summary": "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Pa- ra isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo È privilegiada a resolução...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -2780,6 +2764,48 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "one-punch-man-rpg--one-punch-man-rpg-regras-e-testes-22",
+      "name": "Regras e Testes",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "one-punch-man-rpg",
+      "sourceTitle": "One Punch Man RPG",
+      "pages": [
+        22
+      ],
+      "page": 22,
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -2843,7 +2869,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
@@ -2867,107 +2894,27 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "onmyodo--onmyodo-consideracoes-2",
-      "name": "CONSIDERACOES",
+      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-regras-e-tesies-25",
+      "name": "REGRAS E TESÍES",
       "area": "aventuras",
-      "category": "race_lineage",
-      "source": "onmyodo",
-      "sourceTitle": "Onmyodo",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "race_lineage"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "oriente-cronologia--oriente-cronologia-consideracoes-2",
-      "name": "CONSIDERACOES",
-      "area": "aventuras",
-      "category": "setting_lore",
-      "source": "oriente-cronologia",
-      "sourceTitle": "Oriente Cronologia",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "CONSIDERACOES Este Netbook (aliás, o meu primeiro) trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estuda...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "setting_lore"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-experiencia-23",
-      "name": "EXPERIÊNCIA",
-      "area": "aventuras",
-      "category": "creature_npc",
+      "category": "core_rule",
       "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
       "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
       "pages": [
         [
-          23,
-          24
+          25,
+          26
         ]
       ],
       "page": null,
-      "summary": "EXPERIÊNCIA Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisi- onado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas vezes já é um prêmio em si, mas para recompensar os Personagens que resistiram bravamente aos anjos, templários, Inquisição e outros demônios...",
+      "summary": "REGRAS E TESÍES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obnigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "creature_npc",
-        "criaturas_npcs"
+        "core_rule",
+        "regras_base"
       ],
-      "confidence": 0.8,
+      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -2977,56 +2924,13 @@
       "contentKind": "adventure_scene",
       "contentKindLabel": "Aventura, cena ou campanha",
       "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
+        "raw_source_part_requires_review"
       ],
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-conheca-o-3",
-      "name": "ConHEÇA O",
-      "area": "aventuras",
-      "category": "creature_npc",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "ConHEÇA O SIStEMA DAEMON A Para quem gosta de fantasia medieval, o sistema D20 é quase imbatível, porém, existem no mercado outros ótimos sistemas que O) são mais adequados para outros tipos de campanha. Hoje, falaremos sobre um dos melhores sistemas de RPG para tratar de campanhas realistas, de Investigação, mistério e sobrenatural, voltadas mais para o Rol...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "creature_npc"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -3247,6 +3151,137 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "spiritum--spiritum-pontos-heroicos-45",
+      "name": "Pontos Heróicos",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        45
+      ],
+      "page": 45,
+      "summary": "Pontos Heróicos São Pontos de Vida “extras” que petimitériiaos Persona- gens em campanhas mais aventureiras iverem por mais tempo. Pontos Heróicos são utilizados como se fossem PVs mas na verdade funcionam como uma “sorte” que protege o Personagem de receber um dano maior. Cada nível de Pontos Heróicos fomece 1 PV extra (marcado separadamente na ficha de Per...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "spiritum--spiritum-regras-e-testes-67",
+      "name": "Regras e Testes",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "spiritum",
+      "sourceTitle": "Spiritum",
+      "pages": [
+        67
+      ],
+      "page": 67,
+      "summary": "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-capitulo-9-50",
+      "name": "Capítulo 9",
+      "area": "aventuras",
+      "category": "attribute_skill",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        [
+          50,
+          51
+        ]
+      ],
+      "page": null,
+      "summary": "Capítulo 9: Regras de Testes e Combate Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é priv...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "aventuras",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "tagmar-daemon--tagmar-daemon-inimigo-43",
       "name": "Inimigo",
       "area": "aventuras",
@@ -3264,7 +3299,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -3275,6 +3311,50 @@
       "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
       "contentKind": "rule_mechanic",
       "contentKindLabel": "Regra ou mecânica",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "tagmar-daemon--tagmar-daemon-pericia-vs-pericia-52",
+      "name": "Perícia vs. Perícia",
+      "area": "aventuras",
+      "category": "combat",
+      "source": "tagmar-daemon",
+      "sourceTitle": "Tagmar Daemon",
+      "pages": [
+        [
+          52,
+          55
+        ]
+      ],
+      "page": null,
+      "summary": "Perícia vs. Perícia Existem situações durante uma Aventura nas quais dois Personagens estão se enfrentando utilizando-se de suas Perícias. Podem ser a mesma Perícia ou Perícias opostas. A resolução também é bastante simples. Escolha um dos lados da disputa como Fonte Ativa e o outro lado será a Fonte Passiva. A chance básica de sucesso é 50%. A esse valor, s...",
+      "entityRefs": [],
+      "tags": [
+        "aventuras",
+        "combat",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -3319,47 +3399,6 @@
       "sourceFamilyLabel": "Mitologia, história e religião",
       "contentKind": "uncertain_fragment",
       "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "templarios-biblioteca-elfica--templarios-biblioteca-elfica-cquipamentos-40",
-      "name": "Cquipamentos",
-      "area": "aventuras",
-      "category": "item_equipment",
-      "source": "templarios-biblioteca-elfica",
-      "sourceTitle": "Templarios-biblioteca-elfica",
-      "pages": [
-        40
-      ],
-      "page": 40,
-      "summary": "Cquipamentos Tanto os Jogadores quanto o Mestre devem ter ent mente que este é um jogo ambientado na Idade Média. Todos os equipamentos devem ser compatíveis com a época escolhida pelo Mestre para começar a campanha. Cabe ao Mestre estabelecer os critérios monetários. Até mesmo porque o sistema financeiro da Idade Média era uma bagunça de fazer inveja aos ec...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "item_equipment",
-        "itens_equipamentos"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "myth_history",
-      "sourceFamilyLabel": "Mitologia, história e religião",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -3723,46 +3762,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-consideracoes-2",
-      "name": "CONSIDERACOES",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "trevas-do-oriente-28-palacios",
-      "sourceTitle": "Trevas do oriente - 28 Palácios",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "CONSIDERACOES Este Netbook trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estudar as diferentes culturas...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "setting_lore",
-      "sourceFamilyLabel": "Cenários, lore e organizações",
-      "contentKind": "adventure_scene",
-      "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-cenarios-35",
       "name": "Cenários",
       "area": "aventuras",
@@ -3998,7 +3997,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -4170,7 +4170,8 @@
       "entityRefs": [],
       "tags": [
         "aventuras",
-        "core_rule"
+        "core_rule",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -4209,9 +4210,9 @@
       "summary": "Guia de venenos medievais para daemon * Feito por Metamorph Sephiroth também conhecido como o 100 muié “Não leve a vida tão a serio, pois a vida é uma aventura que não sairemos vivos”. Os tipos de venenos Existem milhares de tipos diferentes de venenos, cada um com seu efeito particular. Em termos de jogo, os venenos possuem três atributos que o definem: Mét...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "aventuras"
+        "aventuras",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -4222,49 +4223,6 @@
       "sourceFamilyLabel": "Equipamentos, armas e itens",
       "contentKind": "adventure_scene",
       "contentKindLabel": "Aventura, cena ou campanha",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-historico-do-anime-3",
-      "name": "Histórico do Anime",
-      "area": "aventuras",
-      "category": "power_magic",
-      "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu hakusho RPG para Daemon",
-      "pages": [
-        [
-          3,
-          6
-        ]
-      ],
-      "page": null,
-      "summary": "Histórico do Anime A série de TV tem 112 episódios, e estreou na Fuji Television em Novembro de 1992, essa série de Yoshihiro Togashi foi um sucesso no Japão, que se repetiu no Brasil pela falecida Rede Manchete. O nome Yu Yu Hakusho significa : “As aventuras do fantasma brincalhão” ou “A história do fantasma brincalhão”. No primeiro capítulo Yusuke Urameshi...",
-      "entityRefs": [],
-      "tags": [
-        "aventuras",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"

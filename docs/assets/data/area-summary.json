@@ -1,33 +1,15 @@
 {
   "version": 1,
   "readySourceCount": 275,
-  "areaCount": 17,
-  "entityCount": 1707,
+  "areaCount": 14,
+  "entityCount": 1432,
   "sourcePartCount": 4023,
   "areas": [
     {
-      "id": "fontes",
-      "name": "Fontes",
-      "entityCount": 275,
-      "sourcePartCount": 65
-    },
-    {
       "id": "regras_base",
       "name": "Regras Base",
-      "entityCount": 4,
-      "sourcePartCount": 134
-    },
-    {
-      "id": "atributos_pericias",
-      "name": "Atributos e Pericias",
-      "entityCount": 3,
-      "sourcePartCount": 200
-    },
-    {
-      "id": "combate",
-      "name": "Combate",
-      "entityCount": 6,
-      "sourcePartCount": 386
+      "entityCount": 15,
+      "sourcePartCount": 940
     },
     {
       "id": "aprimoramentos",
@@ -75,37 +57,37 @@
       "id": "rituais",
       "name": "Rituais",
       "entityCount": 28,
-      "sourcePartCount": 171
+      "sourcePartCount": 162
     },
     {
       "id": "itens_equipamentos",
       "name": "Itens e Equipamentos",
       "entityCount": 5,
-      "sourcePartCount": 415
+      "sourcePartCount": 475
     },
     {
       "id": "criaturas_npcs",
       "name": "Criaturas e NPCs",
-      "entityCount": 16,
-      "sourcePartCount": 384
+      "entityCount": 14,
+      "sourcePartCount": 366
     },
     {
       "id": "cenarios_lore",
       "name": "Cenarios e Lore",
-      "entityCount": 12,
-      "sourcePartCount": 76
+      "entityCount": 11,
+      "sourcePartCount": 74
     },
     {
       "id": "aventuras",
       "name": "Aventuras",
-      "entityCount": 13,
-      "sourcePartCount": 76
+      "entityCount": 14,
+      "sourcePartCount": 75
     },
     {
       "id": "tabelas",
       "name": "Tabelas e Geradores",
       "entityCount": 0,
-      "sourcePartCount": 11
+      "sourcePartCount": 17
     }
   ],
   "readySources": [
@@ -395,7 +377,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 32
+        "count": 31
       },
       {
         "id": "arkanun",
@@ -405,7 +387,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 155
+        "count": 154
       },
       {
         "id": "daemon-medieval",
@@ -415,7 +397,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 69
+        "count": 68
       },
       {
         "id": "demonios-a-divina-comedia",
@@ -425,7 +407,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 75
+        "count": 74
       },
       {
         "id": "dragao-brasil-especial-06-trevas",
@@ -435,7 +417,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 20
+        "count": 19
       },
       {
         "id": "grimorio",
@@ -445,7 +427,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 104
+        "count": 103
       },
       {
         "id": "guia-de-armas-de-fogo-3a-edicao",
@@ -455,7 +437,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 105
+        "count": 104
       },
       {
         "id": "guia-de-armas-medievais-3a-edicao",
@@ -465,7 +447,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 70
+        "count": 69
       },
       {
         "id": "guia-de-itens-magicos",
@@ -475,7 +457,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 235
+        "count": 234
       },
       {
         "id": "guia-de-monstros-de-arkanum",
@@ -485,7 +467,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 2
+        "count": 1
       },
       {
         "id": "sistema-daemon-3-0",
@@ -495,7 +477,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 10
+        "count": 9
       },
       {
         "id": "spiritum",
@@ -505,7 +487,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 77
+        "count": 76
       },
       {
         "id": "trevas-3-0",
@@ -515,7 +497,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 124
+        "count": 123
       },
       {
         "id": "vampiros-mitologicos",
@@ -525,7 +507,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 71
+        "count": 70
       },
       {
         "id": "4killers",
@@ -535,7 +517,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 9
       },
       {
         "id": "a-assassina",
@@ -545,7 +527,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 9
       },
       {
         "id": "abismo",
@@ -555,7 +537,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 25
+        "count": 24
       },
       {
         "id": "abismo-infinito-quick-start",
@@ -565,7 +547,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 35
+        "count": 34
       },
       {
         "id": "alastores-a-justica-infernal",
@@ -575,7 +557,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 36
+        "count": 35
       },
       {
         "id": "alianca-daemon-01",
@@ -585,7 +567,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "animalidade",
@@ -595,7 +577,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 42
+        "count": 41
       },
       {
         "id": "anime-rpg-powers",
@@ -605,7 +587,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 21
+        "count": 20
       },
       {
         "id": "anime-rpg-supers-monstros-e-viloes",
@@ -615,7 +597,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 20
+        "count": 19
       },
       {
         "id": "anime-rpg-supers-powers",
@@ -625,7 +607,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 1
       },
       {
         "id": "anjos-a-cidade-de-prata-angelicos-sicarios",
@@ -635,7 +617,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 17
+        "count": 16
       },
       {
         "id": "anjos-cacadores-alados",
@@ -645,7 +627,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica",
@@ -655,7 +637,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 22
+        "count": 21
       },
       {
         "id": "anjos-jyhad-faces-da-fe",
@@ -665,7 +647,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 33
+        "count": 32
       },
       {
         "id": "anjos-jyhad-guerra-santa-biblioteca-elfica",
@@ -675,7 +657,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 52
+        "count": 51
       },
       {
         "id": "anjos-requiem-de-fe",
@@ -685,7 +667,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 82
+        "count": 81
       },
       {
         "id": "anjossombras01",
@@ -695,7 +677,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "anjossombras02",
@@ -705,7 +687,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "anjossombras03",
@@ -715,7 +697,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "anjossombras04",
@@ -725,7 +707,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "anjossombras05",
@@ -735,7 +717,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "anoes",
@@ -745,7 +727,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "aprimoramentos-1",
@@ -755,7 +737,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 152
+        "count": 151
       },
       {
         "id": "aprimoramentos-2",
@@ -765,7 +747,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 72
+        "count": 71
       },
       {
         "id": "aprimoramentos-3",
@@ -775,7 +757,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 115
+        "count": 114
       },
       {
         "id": "aprimoramentos-4",
@@ -785,7 +767,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 71
+        "count": 70
       },
       {
         "id": "aprimoramentostormenta",
@@ -795,7 +777,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 31
+        "count": 30
       },
       {
         "id": "arcadia-nova-arcadia",
@@ -805,7 +787,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 9
       },
       {
         "id": "arcanis",
@@ -815,7 +797,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "archonan",
@@ -825,7 +807,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "ark-a-nun-arquivos-de-bel-kalaa",
@@ -835,7 +817,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 21
+        "count": 20
       },
       {
         "id": "arkanun-1e-ultra-raro",
@@ -845,7 +827,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 38
+        "count": 37
       },
       {
         "id": "armadura-magica-de-ataque",
@@ -855,7 +837,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 2
+        "count": 1
       },
       {
         "id": "armamedieval",
@@ -865,7 +847,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 6
+        "count": 5
       },
       {
         "id": "armas-da-segunda-guerra",
@@ -875,7 +857,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 6
+        "count": 5
       },
       {
         "id": "armas-da-segunda-guerra-mundial",
@@ -885,7 +867,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 30
+        "count": 29
       },
       {
         "id": "armas-de-fogo",
@@ -895,7 +877,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 30
+        "count": 29
       },
       {
         "id": "armasbrancas",
@@ -905,7 +887,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 2
+        "count": 1
       },
       {
         "id": "armasmagicas",
@@ -915,7 +897,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 2
+        "count": 1
       },
       {
         "id": "arquimago2",
@@ -925,7 +907,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "arte-da-guerra",
@@ -935,7 +917,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 17
+        "count": 16
       },
       {
         "id": "artes-marciais",
@@ -945,7 +927,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "assassinos-orientais",
@@ -955,7 +937,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "atributos",
@@ -965,7 +947,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 15
+        "count": 14
       },
       {
         "id": "auras",
@@ -975,7 +957,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "avatar-volume-1",
@@ -985,7 +967,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "avatars-vol-2",
@@ -995,7 +977,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 16
+        "count": 15
       },
       {
         "id": "batalhas",
@@ -1005,7 +987,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "battlemage",
@@ -1015,7 +997,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "biohazard",
@@ -1025,7 +1007,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 7
+        "count": 6
       },
       {
         "id": "blade-marvel",
@@ -1035,7 +1017,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "bruxaria",
@@ -1045,7 +1027,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "cabala-2",
@@ -1055,7 +1037,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 20
+        "count": 19
       },
       {
         "id": "cabala",
@@ -1065,7 +1047,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "caminhos2",
@@ -1075,7 +1057,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 28
+        "count": 27
       },
       {
         "id": "canislux",
@@ -1085,7 +1067,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "capitao-planeta",
@@ -1095,7 +1077,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "cdd",
@@ -1105,7 +1087,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 8
       },
       {
         "id": "ceifadores",
@@ -1115,7 +1097,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 8
       },
       {
         "id": "charadas",
@@ -1125,7 +1107,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "ciganos",
@@ -1135,7 +1117,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "cimeria",
@@ -1145,7 +1127,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "clube-de-caca-guia-do-jogador",
@@ -1155,7 +1137,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 9
       },
       {
         "id": "cobaias15",
@@ -1165,7 +1147,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "compendio-de-regras-daemon-trevas",
@@ -1175,7 +1157,7 @@
         "officialSource": false,
         "sourceFamily": "custom_rules",
         "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-        "count": 2
+        "count": 1
       },
       {
         "id": "conan",
@@ -1185,7 +1167,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "corondor",
@@ -1195,7 +1177,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "cura",
@@ -1205,7 +1187,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "cyfell",
@@ -1215,7 +1197,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "daemon-anime-rpg",
@@ -1225,7 +1207,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 100
+        "count": 99
       },
       {
         "id": "daemon-revisado-playtest-alfa-3-6",
@@ -1235,7 +1217,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 14
+        "count": 13
       },
       {
         "id": "daemon-sem-nivel",
@@ -1245,7 +1227,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "daemon-tormenta",
@@ -1255,7 +1237,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 20
+        "count": 19
       },
       {
         "id": "daemonium",
@@ -1265,7 +1247,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 11
+        "count": 10
       },
       {
         "id": "daiphir-legado-de-sangue",
@@ -1275,7 +1257,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "daiphir-legado-de-sangue-biblioteca-elfica",
@@ -1285,7 +1267,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "dbz-rpg",
@@ -1295,7 +1277,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 22
+        "count": 21
       },
       {
         "id": "deform",
@@ -1305,7 +1287,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 14
+        "count": 13
       },
       {
         "id": "dem-nio-o-pre-o-do-poder",
@@ -1315,7 +1297,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 95
+        "count": 94
       },
       {
         "id": "demon-cthulhu",
@@ -1325,7 +1307,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "desentsu",
@@ -1335,7 +1317,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "devilmaycry",
@@ -1345,7 +1327,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "diferencas",
@@ -1355,7 +1337,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "domini-urbs-biblioteca-elfica",
@@ -1365,7 +1347,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 19
+        "count": 18
       },
       {
         "id": "dragao",
@@ -1375,7 +1357,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "dragoes-reis-caidos-sistema-daemon",
@@ -1385,7 +1367,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 56
+        "count": 55
       },
       {
         "id": "dragoes2",
@@ -1395,7 +1377,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 8
       },
       {
         "id": "elf",
@@ -1405,7 +1387,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 9
       },
       {
         "id": "enciclopedia-a10",
@@ -1415,7 +1397,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "energia-mistica",
@@ -1425,7 +1407,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "equip",
@@ -1435,7 +1417,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "era-dos-herois",
@@ -1445,7 +1427,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "escudos02",
@@ -1455,7 +1437,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "etruscos",
@@ -1465,7 +1447,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 29
+        "count": 28
       },
       {
         "id": "evolucao-alternativa",
@@ -1475,7 +1457,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 8
       },
       {
         "id": "existe-uma-cidade-nos-distritos-cujo-unico-objetivo-e-a-satisfac-u00e3o",
@@ -1485,7 +1467,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "fadadaluz",
@@ -1495,7 +1477,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 26
+        "count": 25
       },
       {
         "id": "fadas",
@@ -1505,7 +1487,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 11
+        "count": 10
       },
       {
         "id": "fadas-2",
@@ -1515,7 +1497,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 53
+        "count": 52
       },
       {
         "id": "fadas-3-edicao",
@@ -1525,7 +1507,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 28
+        "count": 27
       },
       {
         "id": "ficha-mago-trevas",
@@ -1535,7 +1517,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 2
+        "count": 1
       },
       {
         "id": "frankenstein",
@@ -1545,7 +1527,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "fusd-r6",
@@ -1555,7 +1537,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "gaki",
@@ -1565,7 +1547,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 19
+        "count": 18
       },
       {
         "id": "gdac-light",
@@ -1575,7 +1557,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "gerador-de-criaturas",
@@ -1585,7 +1567,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 24
+        "count": 23
       },
       {
         "id": "geradoritem02",
@@ -1595,7 +1577,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 9
+        "count": 8
       },
       {
         "id": "gigantes-mitologicos",
@@ -1605,7 +1587,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 28
+        "count": 27
       },
       {
         "id": "grimark201",
@@ -1615,7 +1597,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 74
+        "count": 73
       },
       {
         "id": "grimorio101",
@@ -1625,7 +1607,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 17
+        "count": 16
       },
       {
         "id": "guerra-de-monstros",
@@ -1635,7 +1617,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 3
+        "count": 2
       },
       {
         "id": "guerreiros-orientais",
@@ -1645,7 +1627,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 12
+        "count": 11
       },
       {
         "id": "guia-de-classes-de-prestigio-biblioteca-elfica",
@@ -1655,7 +1637,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 116
+        "count": 115
       },
       {
         "id": "guia-de-monstros-de-arton",
@@ -1665,7 +1647,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 49
+        "count": 48
       },
       {
         "id": "guia-de-racas-de-arton-tormentarpg",
@@ -1675,7 +1657,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 63
+        "count": 62
       },
       {
         "id": "guia-do-aventureiro-de-arton",
@@ -1685,7 +1667,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 27
+        "count": 26
       },
       {
         "id": "guia-dos-dragoes-1-biblioteca-elfica",
@@ -1695,7 +1677,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 22
+        "count": 21
       },
       {
         "id": "guia-dragoes-vol-ii",
@@ -1705,7 +1687,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 28
+        "count": 27
       },
       {
         "id": "guia-guerreiro",
@@ -1715,7 +1697,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "guia-pericias",
@@ -1725,7 +1707,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 7
+        "count": 6
       },
       {
         "id": "guiademagias",
@@ -1735,7 +1717,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 46
+        "count": 45
       },
       {
         "id": "harrypotter",
@@ -1745,7 +1727,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "heroismo",
@@ -1755,7 +1737,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "hi-brazil-biblioteca-elfica",
@@ -1765,7 +1747,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 62
+        "count": 61
       },
       {
         "id": "hydora",
@@ -1775,7 +1757,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 7
+        "count": 6
       },
       {
         "id": "imortal",
@@ -1785,7 +1767,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 70
+        "count": 69
       },
       {
         "id": "imortal-a-centelha",
@@ -1795,7 +1777,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 42
+        "count": 41
       },
       {
         "id": "imortal-a-centelha-2",
@@ -1805,7 +1787,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 36
+        "count": 35
       },
       {
         "id": "inquisicao-biblioteca-elfica",
@@ -1815,7 +1797,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 35
+        "count": 34
       },
       {
         "id": "inquisicao-celestial",
@@ -1825,7 +1807,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "ismails-anjos-islamicos",
@@ -1835,7 +1817,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "jedi",
@@ -1845,7 +1827,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "jiraya",
@@ -1855,7 +1837,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "judaismo",
@@ -1865,7 +1847,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "juppongatana",
@@ -1875,7 +1857,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "jutsu-e-um-termo-japones-para-tecnica",
@@ -1885,7 +1867,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "kidous-arte-das-trevas",
@@ -1895,7 +1877,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 11
+        "count": 10
       },
       {
         "id": "kits",
@@ -1905,7 +1887,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 29
+        "count": 28
       },
       {
         "id": "kits-arton",
@@ -1915,7 +1897,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 6
+        "count": 5
       },
       {
         "id": "kits-militares",
@@ -1925,7 +1907,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 7
+        "count": 6
       },
       {
         "id": "kits-orientais",
@@ -1935,7 +1917,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 11
+        "count": 10
       },
       {
         "id": "kitsat",
@@ -1945,7 +1927,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 77
+        "count": 76
       },
       {
         "id": "kitsdaemon",
@@ -1955,7 +1937,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 7
+        "count": 6
       },
       {
         "id": "livrodomal",
@@ -1965,7 +1947,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 18
+        "count": 17
       },
       {
         "id": "lobisomem-a-maldicao-v2-biblioteca-elfica",
@@ -1975,7 +1957,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 16
+        "count": 15
       },
       {
         "id": "lobisomem02",
@@ -1985,7 +1967,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 7
+        "count": 6
       },
       {
         "id": "lobisomemv3",
@@ -1995,7 +1977,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "lobisomens",
@@ -2005,7 +1987,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "loucura",
@@ -2015,7 +1997,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
@@ -2025,7 +2007,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 68
+        "count": 67
       },
       {
         "id": "magia-negra",
@@ -2035,7 +2017,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 20
+        "count": 19
       },
       {
         "id": "magic-para-daemon",
@@ -2045,7 +2027,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "mago-sistema-daemon",
@@ -2055,7 +2037,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 18
+        "count": 17
       },
       {
         "id": "manobras-de-combate",
@@ -2065,7 +2047,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 7
+        "count": 6
       },
       {
         "id": "manual-de-converscao",
@@ -2075,7 +2057,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 19
+        "count": 18
       },
       {
         "id": "marvel",
@@ -2085,7 +2067,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 24
+        "count": 23
       },
       {
         "id": "marvel-rpg-7o-edicao",
@@ -2095,7 +2077,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 38
+        "count": 37
       },
       {
         "id": "masmorra-goblin",
@@ -2105,7 +2087,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "masmorras",
@@ -2115,7 +2097,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "mecha",
@@ -2125,7 +2107,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "metropolis",
@@ -2135,7 +2117,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 7
+        "count": 6
       },
       {
         "id": "metropolis-2",
@@ -2145,7 +2127,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 42
+        "count": 41
       },
       {
         "id": "mitologia-assirio-babilonica",
@@ -2155,7 +2137,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "mitologia-celta",
@@ -2165,7 +2147,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "mitologia-egipcia",
@@ -2175,7 +2157,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 3
+        "count": 2
       },
       {
         "id": "mitologia-nordica",
@@ -2185,7 +2167,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "mitraismo",
@@ -2195,7 +2177,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "modulo-basico-expandido-e-modificado",
@@ -2205,7 +2187,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 49
+        "count": 48
       },
       {
         "id": "modulo-combate",
@@ -2215,7 +2197,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 20
+        "count": 19
       },
       {
         "id": "monges-daemon",
@@ -2225,7 +2207,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "mortal-kombat",
@@ -2235,7 +2217,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 17
+        "count": 16
       },
       {
         "id": "mortos-vivos",
@@ -2245,7 +2227,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "mortos-vivos-2",
@@ -2255,7 +2237,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "mutacao",
@@ -2265,7 +2247,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 20
+        "count": 19
       },
       {
         "id": "naruto",
@@ -2275,7 +2257,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 6
+        "count": 5
       },
       {
         "id": "naruto-daemon-2a-ed",
@@ -2285,7 +2267,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 20
+        "count": 19
       },
       {
         "id": "naruto-rpg-daemon-2a-edicao",
@@ -2295,7 +2277,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 15
+        "count": 14
       },
       {
         "id": "neokosmos-biblioteca-elfica",
@@ -2305,7 +2287,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 51
+        "count": 50
       },
       {
         "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
@@ -2315,7 +2297,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 53
+        "count": 52
       },
       {
         "id": "ninjutsu",
@@ -2325,7 +2307,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "novas-armas-de-fogo",
@@ -2335,7 +2317,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 4
+        "count": 3
       },
       {
         "id": "novo-aeon-guia-basico",
@@ -2345,7 +2327,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 22
+        "count": 21
       },
       {
         "id": "novos-poderes-para-fadas-e-fadas-da-luz",
@@ -2355,7 +2337,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 19
+        "count": 18
       },
       {
         "id": "o-corvo",
@@ -2365,7 +2347,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 24
+        "count": 23
       },
       {
         "id": "o-segredo-das-artes-negras",
@@ -2375,7 +2357,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 2
+        "count": 1
       },
       {
         "id": "one-punch-man-rpg",
@@ -2385,7 +2367,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 31
+        "count": 30
       },
       {
         "id": "onmyodo",
@@ -2395,7 +2377,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 8
       },
       {
         "id": "ordens-de-ark-a-nun",
@@ -2405,7 +2387,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 5
+        "count": 4
       },
       {
         "id": "oriente-cronologia",
@@ -2415,7 +2397,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "origem-e-descendencia-racial-v-teste",
@@ -2425,7 +2407,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "os-caminhos-secundarios",
@@ -2435,7 +2417,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 12
+        "count": 11
       },
       {
         "id": "os-invocadores-de-demencia",
@@ -2445,7 +2427,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "pactos",
@@ -2455,7 +2437,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "para-preservar-o-equilibrio-entre-o-ceu-eo-inferno",
@@ -2465,7 +2447,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "pets",
@@ -2475,7 +2457,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "phage",
@@ -2485,7 +2467,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "poder",
@@ -2495,7 +2477,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "poderes-cabalisticos",
@@ -2505,7 +2487,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 126
+        "count": 125
       },
       {
         "id": "poderes-de-fe-02",
@@ -2515,7 +2497,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 27
+        "count": 26
       },
       {
         "id": "poderes-mentais",
@@ -2525,7 +2507,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 21
+        "count": 20
       },
       {
         "id": "pontos-heroicos",
@@ -2535,7 +2517,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "principais-deuses-da-mitologia-n-u00d3rdica",
@@ -2545,7 +2527,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "psi",
@@ -2555,7 +2537,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "racas",
@@ -2565,7 +2547,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 30
+        "count": 29
       },
       {
         "id": "ray",
@@ -2575,7 +2557,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 16
+        "count": 15
       },
       {
         "id": "redentor",
@@ -2585,7 +2567,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "regra-opcional-ataques-a-objetos",
@@ -2595,7 +2577,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "regras-de-boa-convivencia",
@@ -2605,7 +2587,7 @@
         "officialSource": false,
         "sourceFamily": "custom_rules",
         "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-        "count": 2
+        "count": 1
       },
       {
         "id": "revolucao-francesa",
@@ -2615,7 +2597,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 5
+        "count": 4
       },
       {
         "id": "rituais",
@@ -2625,7 +2607,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 16
+        "count": 15
       },
       {
         "id": "rocknrt",
@@ -2635,7 +2617,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 15
+        "count": 14
       },
       {
         "id": "rpg-dragon-ball-oficial-l-by-fractius",
@@ -2645,7 +2627,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 9
+        "count": 8
       },
       {
         "id": "samurai-shodown",
@@ -2655,7 +2637,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 8
+        "count": 7
       },
       {
         "id": "samurai-shodown-v-move-list",
@@ -2665,7 +2647,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 3
+        "count": 2
       },
       {
         "id": "samurai-x",
@@ -2675,7 +2657,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 1
       },
       {
         "id": "samurais",
@@ -2685,7 +2667,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 4
+        "count": 3
       },
       {
         "id": "santa-cruz-biblioteca-elfica",
@@ -2695,7 +2677,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 24
+        "count": 23
       },
       {
         "id": "santa-cruz-inferno-verde-biblioteca-elfica",
@@ -2705,7 +2687,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 17
+        "count": 16
       },
       {
         "id": "sda-rpg",
@@ -2715,7 +2697,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 7
+        "count": 6
       },
       {
         "id": "se-eu-pudesse-voar",
@@ -2725,7 +2707,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "secundarios",
@@ -2735,7 +2717,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 19
+        "count": 18
       },
       {
         "id": "seitas",
@@ -2745,7 +2727,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 2
+        "count": 1
       },
       {
         "id": "sistema-daemon-2-x",
@@ -2755,7 +2737,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 11
+        "count": 10
       },
       {
         "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
@@ -2765,7 +2747,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 20
+        "count": 19
       },
       {
         "id": "sobrenatural",
@@ -2775,7 +2757,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "spawn",
@@ -2785,7 +2767,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 8
+        "count": 7
       },
       {
         "id": "steampunk",
@@ -2795,7 +2777,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "supers",
@@ -2805,7 +2787,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 59
+        "count": 58
       },
       {
         "id": "supers01",
@@ -2815,7 +2797,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 3
+        "count": 2
       },
       {
         "id": "tabela-de-fadiga-dos-jogadores-e-npc",
@@ -2825,7 +2807,7 @@
         "officialSource": false,
         "sourceFamily": "custom_rules",
         "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-        "count": 2
+        "count": 1
       },
       {
         "id": "tabela-e-regras-para-magos",
@@ -2835,7 +2817,7 @@
         "officialSource": false,
         "sourceFamily": "custom_rules",
         "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-        "count": 2
+        "count": 1
       },
       {
         "id": "tagmar-daemon",
@@ -2845,7 +2827,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 41
+        "count": 40
       },
       {
         "id": "tagmar-daemon-versao-completa",
@@ -2855,7 +2837,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 13
+        "count": 12
       },
       {
         "id": "talentos",
@@ -2865,7 +2847,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 47
+        "count": 46
       },
       {
         "id": "tartarugasninja",
@@ -2875,7 +2857,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 4
+        "count": 3
       },
       {
         "id": "templarios-biblioteca-elfica",
@@ -2885,7 +2867,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 32
+        "count": 31
       },
       {
         "id": "terras-natais",
@@ -2895,7 +2877,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "trappers",
@@ -2905,7 +2887,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "trev3-fi",
@@ -2915,7 +2897,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "trevas-campanha-epica",
@@ -2925,7 +2907,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 41
+        "count": 40
       },
       {
         "id": "trevas-de-marte",
@@ -2935,7 +2917,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 16
+        "count": 15
       },
       {
         "id": "trevas-diego",
@@ -2945,7 +2927,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 10
+        "count": 9
       },
       {
         "id": "trevas-do-oriente-28-palacios",
@@ -2955,7 +2937,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 11
+        "count": 10
       },
       {
         "id": "um-sussurro-nas-trevas",
@@ -2965,7 +2947,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 47
+        "count": 46
       },
       {
         "id": "uma-sucubo-em-extase",
@@ -2975,7 +2957,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "umbral-e-seus-vales",
@@ -2985,7 +2967,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 8
+        "count": 7
       },
       {
         "id": "universo-daemon-01",
@@ -2995,7 +2977,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 8
+        "count": 7
       },
       {
         "id": "utupia-d10",
@@ -3005,7 +2987,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 5
       },
       {
         "id": "vantagens",
@@ -3015,7 +2997,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 2
+        "count": 1
       },
       {
         "id": "vantagens-regionais-ii",
@@ -3025,7 +3007,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 4
+        "count": 3
       },
       {
         "id": "varna-chamado-da-guerra",
@@ -3035,7 +3017,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 13
+        "count": 12
       },
       {
         "id": "vaticano",
@@ -3045,7 +3027,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 11
+        "count": 10
       },
       {
         "id": "veiculos",
@@ -3055,7 +3037,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 5
+        "count": 4
       },
       {
         "id": "venenos",
@@ -3065,7 +3047,7 @@
         "officialSource": false,
         "sourceFamily": "equipment_items",
         "sourceFamilyLabel": "Equipamentos, armas e itens",
-        "count": 3
+        "count": 2
       },
       {
         "id": "vikings",
@@ -3075,7 +3057,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 2
+        "count": 1
       },
       {
         "id": "vikings-biblioteca-elfica",
@@ -3085,7 +3067,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 80
+        "count": 79
       },
       {
         "id": "watchmen",
@@ -3095,7 +3077,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 9
+        "count": 8
       },
       {
         "id": "youkai-kyuukai",
@@ -3105,7 +3087,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 61
+        "count": 60
       },
       {
         "id": "youkais",
@@ -3115,7 +3097,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "yuyu-hakusho-rpg-para-daemon",
@@ -3125,7 +3107,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 19
+        "count": 18
       },
       {
         "id": "zoologico",
@@ -3135,7 +3117,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 2
+        "count": 1
       }
     ],
     "categories": [
@@ -3193,7 +3175,7 @@
       },
       {
         "id": "source",
-        "count": 356
+        "count": 81
       },
       {
         "id": "table_generator",
@@ -3203,19 +3185,19 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 111
+        "count": 112
       },
       {
         "id": "character_option",
-        "count": 860
+        "count": 853
       },
       {
         "id": "combat_maneuver",
-        "count": 49
+        "count": 44
       },
       {
         "id": "creature_npc",
-        "count": 166
+        "count": 168
       },
       {
         "id": "front_matter",
@@ -3223,11 +3205,11 @@
       },
       {
         "id": "item_equipment",
-        "count": 502
+        "count": 503
       },
       {
         "id": "lore_world",
-        "count": 454
+        "count": 455
       },
       {
         "id": "ocr_noise",
@@ -3239,7 +3221,7 @@
       },
       {
         "id": "power_spell",
-        "count": 830
+        "count": 827
       },
       {
         "id": "raw_chapter_block",
@@ -3247,103 +3229,95 @@
       },
       {
         "id": "rule_mechanic",
-        "count": 21
-      },
-      {
-        "id": "source_catalog",
-        "count": 275
+        "count": 29
       },
       {
         "id": "table_reference",
-        "count": 27
+        "count": 31
       },
       {
         "id": "uncertain_fragment",
-        "count": 1176
+        "count": 1174
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 1149
+        "count": 1135
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 4581
+        "count": 4320
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 424
+        "count": 401
       },
       {
         "id": "campaign_adventure",
         "label": "Campanhas e aventuras",
-        "count": 125
+        "count": 121
       },
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 258
+        "count": 244
       },
       {
         "id": "creatures_bestiary",
         "label": "Criaturas, monstros e NPCs",
-        "count": 78
+        "count": 74
       },
       {
         "id": "equipment_items",
         "label": "Equipamentos, armas e itens",
-        "count": 99
+        "count": 88
       },
       {
         "id": "myth_history",
         "label": "Mitologia, história e religião",
-        "count": 132
+        "count": 122
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 1149
+        "count": 1135
       },
       {
         "id": "powers_magic",
         "label": "Poderes, magia e rituais",
-        "count": 568
+        "count": 550
       },
       {
         "id": "races_options",
         "label": "Raças, kits e opções de personagem",
-        "count": 833
+        "count": 817
       },
       {
         "id": "custom_rules",
         "label": "Regras caseiras e compêndios do mestre",
-        "count": 8
+        "count": 4
       },
       {
         "id": "rules_system",
         "label": "Regras e sistema",
-        "count": 271
+        "count": 261
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 1785
+        "count": 1638
       }
     ],
     "areas": [
       {
         "id": "aprimoramentos",
-        "count": 737
-      },
-      {
-        "id": "atributos_pericias",
-        "count": 203
+        "count": 668
       },
       {
         "id": "aventuras",
@@ -3351,59 +3325,51 @@
       },
       {
         "id": "cenarios_lore",
-        "count": 88
+        "count": 85
       },
       {
         "id": "classes",
-        "count": 179
-      },
-      {
-        "id": "combate",
-        "count": 392
+        "count": 166
       },
       {
         "id": "criaturas_npcs",
-        "count": 400
-      },
-      {
-        "id": "fontes",
-        "count": 340
+        "count": 380
       },
       {
         "id": "itens_equipamentos",
-        "count": 420
+        "count": 480
       },
       {
         "id": "kits",
-        "count": 295
+        "count": 285
       },
       {
         "id": "linhagens",
-        "count": 304
+        "count": 292
       },
       {
         "id": "magias",
-        "count": 350
+        "count": 344
       },
       {
         "id": "poderes",
-        "count": 853
+        "count": 856
       },
       {
         "id": "racas",
-        "count": 732
+        "count": 648
       },
       {
         "id": "regras_base",
-        "count": 138
+        "count": 955
       },
       {
         "id": "rituais",
-        "count": 199
+        "count": 190
       },
       {
         "id": "tabelas",
-        "count": 11
+        "count": 17
       }
     ]
   }

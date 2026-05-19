@@ -45,10 +45,7 @@ O resumo geral fica em `data/index/area-summary.json`.
 
 Areas atuais:
 
-- `fontes`
 - `regras_base`
-- `atributos_pericias`
-- `combate`
 - `aprimoramentos`
 - `kits`
 - `classes`

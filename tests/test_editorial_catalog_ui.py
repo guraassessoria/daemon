@@ -21,6 +21,16 @@ def test_source_family_facets_are_published() -> None:
     assert len(families) >= 5
 
 
+def test_navigation_areas_are_user_facing_groups() -> None:
+    summary = read_json(ROOT / "data" / "index" / "area-summary.json")
+    area_ids = [area["id"] for area in summary["areas"]]
+
+    assert "regras_base" in area_ids
+    assert "fontes" not in area_ids
+    assert "atributos_pericias" not in area_ids
+    assert "combate" not in area_ids
+
+
 def test_docs_data_matches_built_catalog() -> None:
     source_summary = read_json(ROOT / "data" / "index" / "area-summary.json")
     docs_summary = read_json(ROOT / "docs" / "assets" / "data" / "area-summary.json")

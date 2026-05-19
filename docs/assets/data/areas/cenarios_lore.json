@@ -3,8 +3,8 @@
   "id": "cenarios_lore",
   "name": "Cenarios e Lore",
   "readySourceCount": 275,
-  "entityCount": 12,
-  "sourcePartCount": 76,
+  "entityCount": 11,
+  "sourcePartCount": 74,
   "subgroups": [],
   "filters": {
     "sources": [
@@ -29,16 +29,6 @@
         "count": 52
       },
       {
-        "id": "4killers",
-        "title": "4killers",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
         "id": "a-assassina",
         "title": "A Assassina",
         "sourceKind": "supplement",
@@ -46,7 +36,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "abismo",
@@ -96,7 +86,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 1
       },
       {
         "id": "arkanun-1e-ultra-raro",
@@ -202,7 +192,7 @@
     "categories": [
       {
         "id": "setting_lore",
-        "count": 88
+        "count": 85
       }
     ],
     "subtypes": [
@@ -216,7 +206,7 @@
       },
       {
         "id": "lore_world",
-        "count": 15
+        "count": 14
       },
       {
         "id": "ocr_noise",
@@ -232,7 +222,7 @@
       },
       {
         "id": "uncertain_fragment",
-        "count": 9
+        "count": 7
       }
     ],
     "sourceKinds": [
@@ -244,14 +234,14 @@
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 33
+        "count": 30
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 1
       },
       {
         "id": "campaign_adventure",
@@ -276,13 +266,13 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 16
+        "count": 14
       }
     ],
     "areas": [
       {
         "id": "cenarios_lore",
-        "count": 88
+        "count": 85
       }
     ]
   },
@@ -583,38 +573,6 @@
       "qualityStatus": "ok"
     },
     {
-      "id": "shells-papers",
-      "name": "Shell's Paper's",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "a-assassina",
-      "sourceTitle": "A Assassina",
-      "page": 2,
-      "entries": [
-        "Rede de papelarias com enderecos e sistema de filmagem, usada como local de investigacao."
-      ],
-      "tags": [
-        "cenarios_lore",
-        "investigacao",
-        "local",
-        "setting_lore",
-        "urbano"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "manual-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
-      "qualityFlags": [],
-      "qualitySeverity": "ok",
-      "presentationStatus": "public",
-      "qualityStatus": "ok"
-    },
-    {
       "id": "tenebras",
       "name": "Tenebras",
       "area": "cenarios_lore",
@@ -682,46 +640,6 @@
     }
   ],
   "sourceParts": [
-    {
-      "id": "4killers--4killers-introduction",
-      "name": "Saidos do Inferno",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "4killers",
-      "sourceTitle": "4killers",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Introducao para uso de quatro antagonistas famosos do cinema de terror no sistema Daemon, tratados como assassinos de 15 nivel.",
-      "entityRefs": [],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
     {
       "id": "a-assassina--a-assassina-locations",
       "name": "Locais importantes",
@@ -834,51 +752,6 @@
       "officialSource": false,
       "sourceFamily": "powers_magic",
       "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "anime-rpg-powers--powers-academias",
-      "name": "Academias de super-herois",
-      "area": "cenarios_lore",
-      "category": "setting_lore",
-      "source": "anime-rpg-powers",
-      "sourceTitle": "Anime RPG - Powers",
-      "pages": [
-        [
-          40,
-          41
-        ]
-      ],
-      "page": null,
-      "summary": "Regras e elementos para academias de super-herois, aulas, materias, grupos sociais, professores, punicoes, paqueras e atividades escolares.",
-      "entityRefs": [
-        "academias-de-super-herois"
-      ],
-      "tags": [
-        "cenarios_lore",
-        "setting_lore"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
       "contentKind": "uncertain_fragment",
       "contentKindLabel": "Fragmento incerto",
       "editorialFlags": [

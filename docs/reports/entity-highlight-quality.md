@@ -5,47 +5,45 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 
 ## Resumo
 
-- Registros sinalizados: 2209
+- Registros sinalizados: 2301
 
 ### Flags
 
 - `aprimoramento_without_cost_marker`: 26
-- `critical_ocr_gibberish`: 152
-- `does_not_end_like_complete_sentence`: 1017
-- `encoding_or_ocr_artifact`: 178
-- `ends_with_connector_possible_cut`: 284
-- `front_matter_or_index_block`: 12
-- `hyphenated_word_split`: 860
-- `invalid_title_or_ocr_header`: 23
+- `critical_ocr_gibberish`: 158
+- `does_not_end_like_complete_sentence`: 1019
+- `encoding_or_ocr_artifact`: 194
+- `ends_with_connector_possible_cut`: 318
+- `front_matter_or_index_block`: 14
+- `hyphenated_word_split`: 893
+- `invalid_title_or_ocr_header`: 29
 - `lowercase_sentence_after_section_possible_leak`: 313
 - `many_cost_markers_possible_merged_aprimoramentos`: 9
 - `page_number_inside_text`: 160
 - `repeated_fragment_possible_duplication`: 29
-- `starts_mid_sentence_possible_left_cut`: 34
-- `symbol_noise_ocr`: 110
+- `starts_mid_sentence_possible_left_cut`: 35
+- `symbol_noise_ocr`: 111
 - `too_long_possible_merged_blocks`: 21
 - `too_short_possible_cut`: 85
-- `unbalanced_brackets`: 73
-- `unbalanced_parentheses`: 353
+- `unbalanced_brackets`: 76
+- `unbalanced_parentheses`: 374
 
 ### Por área
 
 - `aprimoramentos`: 211
-- `atributos_pericias`: 112
-- `aventuras`: 35
+- `aventuras`: 41
 - `cenarios_lore`: 63
 - `classes`: 12
-- `combate`: 207
-- `criaturas_npcs`: 220
-- `itens_equipamentos`: 258
+- `criaturas_npcs`: 214
+- `itens_equipamentos`: 288
 - `kits`: 186
 - `linhagens`: 70
 - `magias`: 217
 - `poderes`: 358
 - `racas`: 47
-- `regras_base`: 79
-- `rituais`: 127
-- `tabelas`: 7
+- `regras_base`: 462
+- `rituais`: 122
+- `tabelas`: 10
 
 ## Primeiros itens para revisão
 
@@ -185,14 +183,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: 1 ponto: o personagem ganha um ponto extra em WILL a cada dois níveis.
 
-### Atributos
-
-- ID: `atributos--atributos-atributos-1`
-- Área: `atributos_pericias`
-- Fonte: `atributos` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Atributos Por Lobo
-
 ### A historia
 
 - ID: `abismo-infinito-quick-start--abismo-story-structure`
@@ -296,30 +286,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `um-sussurro-nas-trevas` p. 2
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Um Sussurro nas Trevas Alexander “El Brujo” Siqueira
-
-### Capítulo 8 – Armas e Equipamentos
-
-- ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-52`
-- Área: `combate`
-- Fonte: `daemon-medieval` p. 52
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Capítulo 8 – Armas e Equipamentos 52
-
-### Capítulo 8 – Armas e Equipamentos
-
-- ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-54`
-- Área: `combate`
-- Fonte: `daemon-medieval` p. 54
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Capítulo 8 – Armas e Equipamentos 54
-
-### Pagina inicial
-
-- ID: `modulo-combate--modulo-combate-pagina-inicial-1`
-- Área: `combate`
-- Fonte: `modulo-combate` p. 1
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
 
 ### (2) DRAGÃO ESPECIAL
 
@@ -601,6 +567,30 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: A Contenda Eterna A Contenda Eterna João Fernando Rech Wachelke
 
+### Atributos
+
+- ID: `atributos--atributos-atributos-1`
+- Área: `regras_base`
+- Fonte: `atributos` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Atributos Por Lobo
+
+### Capítulo 8 – Armas e Equipamentos
+
+- ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-52`
+- Área: `regras_base`
+- Fonte: `daemon-medieval` p. 52
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Capítulo 8 – Armas e Equipamentos 52
+
+### Capítulo 8 – Armas e Equipamentos
+
+- ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-54`
+- Área: `regras_base`
+- Fonte: `daemon-medieval` p. 54
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Capítulo 8 – Armas e Equipamentos 54
+
 ### Daemon Medieval
 
 - ID: `daemon-medieval--daemon-medieval-daemon-medieval-51`
@@ -662,6 +652,14 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - ID: `daemon-anime-rpg--daemon-anime-rpg-pagina-inicial-1`
 - Área: `regras_base`
 - Fonte: `daemon-anime-rpg` p. 1
+- Flags: `too_short_possible_cut`
+- Amostra: Pagina sem texto extraido relevante.
+
+### Pagina inicial
+
+- ID: `modulo-combate--modulo-combate-pagina-inicial-1`
+- Área: `regras_base`
+- Fonte: `modulo-combate` p. 1
 - Flags: `too_short_possible_cut`
 - Amostra: Pagina sem texto extraido relevante.
 
@@ -841,170 +839,170 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `page_number_inside_text`
 - Amostra: Todo o Personagem Mago teve, em algum momento de sua aprendizado, um Tutor que lhe ensinou sobre a Magia. Se você desejar que este Tutor ainda esteja com o seu personagem por alguma razão, então gaste seu pontos neste Aprimoramento. O Mestre deve criar toda a
 
-### )IfJM
+### 2. Verifique detalhes da história.
 
-- ID: `arkanun--arkanun-ifjm-227`
-- Área: `atributos_pericias`
-- Fonte: `arkanun` p. 227
-- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`, `unbalanced_parentheses`
-- Amostra: )IfJM .7;;__,_ - - .• . w/.....,_"'< ' ,, ' ,' ' ͠ -çÕ' ֽ _ ,,_ . .. ". ·"' :-\ j r)J_,-.r,·1 z,, ... ·Ƥ( -e _ _ , .. ּ ׄ,- : _,"--· '-y ' i f'• \\ \ ... . \ " "< • .,-· ' .Р- l • 'il l, \ .... » ··.,:...;::- Nome _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ '·•_ . _v.
-
-### 1'''''''M·'/" .iI,,,,''''O.
-
-- ID: `trevas-3-0--trevas-3-0-1-m-ii-o-37`
-- Área: `atributos_pericias`
-- Fonte: `trevas-3-0` p. -
-- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `invalid_title_or_ocr_header`, `symbol_noise_ocr`, `unbalanced_brackets`, `unbalanced_parentheses`
-- Amostra: 1'''''''M·'/" .iI,,,,''''O. 1'"",,,,, Heróico,,' I,"''' n" ,/ Passo 5: Aprimoramcntos ",e""" ",i",,1 r. d<1"'"dondo do """"k , ,I". C""l""h", ",,; OTIc,m O e",' <~ 'K ,'j ,,) l'",:k "'"' ,,[u "1',,,,d,, O, F"""" ,1" ["'';'''" ,,,,, ""k"hdo, J" '<~U J1l [C ,nA"
-
-### AST6~T~
-
-- ID: `neokosmos-biblioteca-elfica--neokosmos-biblioteca-elfica-ast6-t-92`
-- Área: `atributos_pericias`
-- Fonte: `neokosmos-biblioteca-elfica` p. 92
-- Flags: `ends_with_connector_possible_cut`, `unbalanced_brackets`
-- Amostra: AST6~T~ mST~H "D11ra11te todo o período da Tita11omoq11i11 mmc11 foi esquecida a grandeza da civilização grega que foi deixada para trás. Mesmo naquelas terras que lhes eram estranhas os homens traziam incrmtada em set1s corações a herança de seus ancestrais.
-
-### ATRIBUTO BASE
-
-- ID: `evolucao-alternativa--evolucao-alternativa-atributo-base-11`
-- Área: `atributos_pericias`
-- Fonte: `evolucao-alternativa` p. -
+- ID: `inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-2-verifique-detalhes-da-historia-11`
+- Área: `aventuras`
+- Fonte: `inquisicao-biblioteca-elfica` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50
+- Amostra: 2. Verifique detalhes da história. Faça esta parte em conjunto com o Mestre, pois muito do que for escolhido aqui será utilizado por ele como fundo para sua Aventura posterior. Tente localizar a his- . tória do seu Personagem com a dos ou tros Personagens da C
 
-### Armadura Magica
+### A Temperanl'"
 
-- ID: `guia-de-itens-magicos--guia-de-itens-magicos-armadura-magica-52`
-- Área: `atributos_pericias`
-- Fonte: `guia-de-itens-magicos` p. 52
+- ID: `guia-de-itens-magicos--guia-de-itens-magicos-a-temperanl-248`
+- Área: `aventuras`
+- Fonte: `guia-de-itens-magicos` p. -
 - Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Armadura Magica Assim como as armas magicas, as armaduras podem, em principia, serem feitas de qualquer tipo de armadura basica (para mais informa<;oes, consulte GUIA DE ARMAS MEDlEV AIS). Deve-se lembrar que a armadura cleve ser fei- ta com extrema cuidado e
+- Amostra: A Temperanl'" Arcano Quatorze (Samekh) Significa acordos ou comprometimentos. Este Arcana indica quea soluc;ao para a Aventura reside em urn acardo, e dificilmente 0 problema sent solucionado de Qutra maneira. o Diabo Arcana Quinz. (Ayin) o Diabo representa 0
 
-### Atenção!
+### CAMPANHA
 
-- ID: `atributos--atributos-atencao-2`
-- Área: `atributos_pericias`
-- Fonte: `atributos` p. 2
+- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106`
+- Área: `aventuras`
+- Fonte: `demonios-a-divina-comedia` p. 106
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Atenção! Esse net-book é gratuito, a venda do mesmo é proibida, pois ele foi feito para livre download. Tudo relatado aqui é ficcional, trate isto como objeto de entretenimento. Importante! Procurei me concentrar naquilo que auxilia mestres e jogadores para um
+- Amostra: CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas ve
 
-### Atributos Básicos
+### Capítulo 10
 
-- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-atributos-basicos-75`
-- Área: `atributos_pericias`
+- ID: `daemon-medieval--daemon-medieval-capitulo-10-60`
+- Área: `aventuras`
+- Fonte: `daemon-medieval` p. 60
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é
+
+### Cenários
+
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-cenarios-35`
+- Área: `aventuras`
+- Fonte: `um-sussurro-nas-trevas` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Cenários Não esqueça que os anos 20 estão repletos de cenários que não estão relacionados com o gangsterismo e as melindrosas. Em Nova York, o Harlem tinha a melhor vida noturna do mundo conhecido para negros e brancos ricos, e circulava rumores sobre locais o
+
+### Combate não Mortal
+
+- ID: `daemon-anime-rpg--daemon-anime-rpg-combate-nao-mortal-113`
+- Área: `aventuras`
+- Fonte: `daemon-anime-rpg` p. 113
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Combate não Mortal Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da campanha que se desentenderam por algum problema da aventura e acabam perdendo a paciência um com o outro. As lutas de Boxe e Artes Marciais também
+
+### Considerações
+
+- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideracoes-125`
+- Área: `aventuras`
 - Fonte: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Atributos Básicos Atributos Básicos A determinação das estátisticas (valores numéricos) que definem os pontos fortes e fracos de um personagem é estabelecida através de Pontos de Personagem. Ao criar um personagem iniciante você dispõe de 100 Pontos de Persona
+- Amostra: Considerações Finais Agradecimentos João Agradeço a meu irmão Luiz por ter me ajudado nesse projeto, sem ele isso aqui não “rolava”. Agradeço a Moema, meu amor, por ter suportado todas as sessões de jogo e “alabardas” e “bolas de rubi”. Também mando um abraço
 
-### Camut'lagem {PER}
+### EVOLUÇÃO ALTERNATIVA
 
-- ID: `daemon-anime-rpg--daemon-anime-rpg-camut-lagem-per-51`
-- Área: `atributos_pericias`
-- Fonte: `daemon-anime-rpg` p. -
-- Flags: `ends_with_connector_possible_cut`, `unbalanced_brackets`
-- Amostra: Camut'lagem {PER} Permite ao Personagem esconder-se ou esconder pessoas em falsos compartimentos, esconderijos ou coberturas especiais. Um Teste de perícia bem-sucedido esconde o Personagem de alguém que não o esteja procurando. Se ele estiver sendo procurado,
+- ID: `evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3`
+- Área: `aventuras`
+- Fonte: `evolucao-alternativa` p. -
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
+- Amostra: EVOLUÇÃO ALTERNATIVA Originalmente no sistema Daemon, o tipo de campanha é o fator que determina o potencial inicial de um personagem. Em campanhas épicas um personagem inicial equivale a um personagem de alto nível de uma campanha mais realista. Porém essa di
 
-### Capítulo 7 – Perícias
+### Experiência
 
-- ID: `daemon-medieval--daemon-medieval-capitulo-7-pericias-36`
-- Área: `atributos_pericias`
-- Fonte: `daemon-medieval` p. 36
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-experiencia-32`
+- Área: `aventuras`
+- Fonte: `um-sussurro-nas-trevas` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso
+- Amostra: Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recomp
 
-### Capítulo 7 – Perícias
+### PASSADO
 
-- ID: `daemon-medieval--daemon-medieval-capitulo-7-pericias-40`
-- Área: `atributos_pericias`
-- Fonte: `daemon-medieval` p. 40
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Capítulo 7 – Perícias 40 Este grupo de Perícias permite ao Personagem sair-se bem no mundo das finanças e evita que faça maus negócios – seja no momento de pechinchar um preço melhor quando compra uma mercadoria, seja para evitar que seu negócio vá à falência.
-
-### Características Táuricas
-
-- ID: `guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-caracteristicas-tauricas-43`
-- Área: `atributos_pericias`
-- Fonte: `guia-dos-dragoes-1-biblioteca-elfica` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Características Táuricas Todos os tauros compartilham de algumas características em comum, que também são comparti0lhadas pelos centauros. Tauros recebem +2 de FR para qualquer tarefa envolvendo sua metade inferior do corpo, incluindo ataque com as patas. Taur
-
-### Ciências Proibidas*
-
-- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-ciencias-proibidas-24`
-- Área: `atributos_pericias`
-- Fonte: `arkanun-1e-ultra-raro` p. -
+- ID: `conan--conan-passado-4`
+- Área: `aventuras`
+- Fonte: `conan` p. -
 - Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Ciências Proibidas* Valor inicial: O A perícia sobre conhecimentos ocultos abrange uma diver- sidade de assuntos que devem ser escolhidos pelo jogador. Incluem conhecimentos sobre Arkanun, Infernun, Paradisia, Éden e Spiritun, bem como reconhecimento de posses
+- Amostra: 4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rent
 
-### Daemon Medieval
+### Perguntas
 
-- ID: `daemon-medieval--daemon-medieval-daemon-medieval-37`
-- Área: `atributos_pericias`
-- Fonte: `daemon-medieval` p. 37
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Daemon Medieval 37 Um Teste de Conhecimento deve ser realizado toda vez que o Personagem deseja obter alguma informação sobre o conhecimento em questão. Geralmente o Teste será Normal, mas para lembrar-se de uma informação mais profunda e obscura o Mestre pode
-
-### Determine o passado do
-
-- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-determine-o-passado-do-17`
-- Área: `atributos_pericias`
-- Fonte: `arkanun-1e-ultra-raro` p. -
+- ID: `spiritum--spiritum-perguntas-19`
+- Área: `aventuras`
+- Fonte: `spiritum` p. -
 - Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Determine o passado do personagem Imagine onde seu personagem nasceu, como era sua famí- lia, em que condições ele foi criado e educado, quais o fatos marcantes em sua vida, e como ele chegou onde está. Max Le Plik nasceu em um condado pobre ao norte da Escóci
+- Amostra: Perguntas Válido para esta encarnação, mas recomendamos que Jo- gadores e Mestres resolvem pequenas pontas em encarnações passadas, que serão resolvidas durante a campanha. Irmãos, amigos e colegas nunca estão com seu Personagem por acaso. Invista algum tempo
 
-### ELEMENTOS SECUNDÁRIOS
+### REGRAS E TESÍES
 
-- ID: `gerador-de-criaturas--gerador-de-criaturas-elementos-secundarios-72`
-- Área: `atributos_pericias`
-- Fonte: `gerador-de-criaturas` p. -
+- ID: `sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-regras-e-tesies-25`
+- Área: `aventuras`
+- Fonte: `sistema-daemon-modulo-basico-dragonslayer-01-e-02` p. -
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: 72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o
+- Amostra: REGRAS E TESÍES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obnigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
 
-### ESPORTES*
+### Regras e Testes
 
-- ID: `guia-pericias--guia-pericias-esportes-11`
-- Área: `atributos_pericias`
-- Fonte: `guia-pericias` p. -
+- ID: `one-punch-man-rpg--one-punch-man-rpg-regras-e-testes-22`
+- Área: `aventuras`
+- Fonte: `one-punch-man-rpg` p. 22
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: ESPORTES* Existem vários tipos de Esportes que podem ser selecionados pelo Personagem. A seguir existem alguns exemplos. Acrobacia (AGI): Dá ao Personagem a habilidade de equilibrar-se em pequenas superfícies, andar sobre cordas, fazer malabarismo e coisas do
+- Amostra: Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
 
-### FACILIDADE, LAMIA (279-288)
+### Regras e Testes
 
-- ID: `trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-6`
-- Área: `atributos_pericias`
-- Fonte: `trevas-campanha-epica` p. -
+- ID: `spiritum--spiritum-regras-e-testes-67`
+- Área: `aventuras`
+- Fonte: `spiritum` p. 67
 - Flags: `ends_with_connector_possible_cut`
-- Amostra: - 273 - teste de CON Difícil. Caso tenha sucesso, o personagem não adquire a doença sobrenatural. Caso falhe, a criatura perderá 1 ponto de atributo físico por mês. Após o primeiro teste, o personagem pode ainda fazer testes de CON Difícil à cada mês subsequen
+- Amostra: Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
 
-### Idade
+### Viajantes Espirituais
 
-- ID: `atributos--atributos-idade-13`
-- Área: `atributos_pericias`
-- Fonte: `atributos` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa re
-
-### Júlio César da Silva (11-20)
-
-- ID: `sda-rpg--sda-rpg-julio-cesar-da-silva-1-2`
-- Área: `atributos_pericias`
-- Fonte: `sda-rpg` p. -
+- ID: `spiritum--spiritum-viajantes-espirituais-41`
+- Área: `aventuras`
+- Fonte: `spiritum` p. 41
 - Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: 1 1 Na maioria dos RPGs, os Jogadores são os únicos respon- sáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Persona- gens sejam construídos apenas pelo Mestre ou com grande participação deste, para ha
+- Amostra: Viajantes Espirituais Viajantes espirituais, também conhecidos como viajantes astrais, são aventureiros que escolheram os vales de Spiritum para suas campanhas. Podem ser aventureiros isolados ou per- tencerem a grandes grupos organizados (como os Estudiosos d
 
-### MATEMÁTICA DE JOGO
+### '-,,, (,,<mp't" "''''ulm,,,«do ,\""",,,,,",,,,,,.,,,,,1,, :,,,,
 
-- ID: `kidous-arte-das-trevas--kidous-arte-das-trevas-matematica-de-jogo-21`
-- Área: `atributos_pericias`
-- Fonte: `kidous-arte-das-trevas` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 21 MATEMÁTICA DE JOGO Recitação e iniciativa Em termos de regras, a recitação invocadora de um kidou implica um redutor de 10 pontos na iniciativa do artífice, caso opte por pular a recitação da técnica, o artífice não terá redutor algum na iniciativa, porem f
+- ID: `trevas-3-0--trevas-3-0-mp-t-ulm-do-1-59`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. 59
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `invalid_title_or_ocr_header`, `symbol_noise_ocr`, `unbalanced_parentheses`
+- Amostra: '-,,, (,,<mp't" "''''ulm,,,«do ,\""",,,,,",,,,,,.,,,,,1,, :,,,, .1"""" '''' ,·",""tc' ",," .1,,«,.., d, <>",1>,. o><go<u",I" "nu P"'''''''' I"'~ti.;. den"" J" \;r""de h ",m"I,,1<, Sl~ f:1,nJ<o "".- do. do. ~I,p" !'.1I0' , qu< : .. ,'07", (0""'«'" .,."." J< '.,
 
-### Origem Anã [Nível 2]
+### A Lei
 
-- ID: `origem-e-descendencia-racial-v-teste--origem-e-descendencia-racial-v-teste-origem-ana-nivel-2-7`
-- Área: `atributos_pericias`
-- Fonte: `origem-e-descendencia-racial-v-teste` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Origem Anã [Nível 2] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno até Médio Imatura Entre 4 até 40 anos Adulto Médio Racional Entre 41 até 120 anos Ancião Médio Racional Entre 121 até 160 anos Ajuste de Atributos:
+- ID: `trevas-3-0--trevas-3-0-a-lei-173`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. 173
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`, `unbalanced_parentheses`
+- Amostra: A Lei ','" d. '"'' u,J .. I~d, l"n<b".l.I"'~-u" .I. <.,dj '-e,,,. r,c"-'''' P.roc'I><"""n'" nn,·o. Rt,u:U.,lou_ ,,,, f""f,>d".<k.J;,,,,,,,. ,n,",u><;""l'''~''''''''-'." "'''no. ,I, .Iu~,,<l_ 1""""u<>' ,"'" 4.IX~) mo. ,Jc ,d,<k. «0""" '1"< ,,,,,1< nl':'"""" ,1"
+
+### A Tdade
+
+- ID: `trevas-3-0--trevas-3-0-a-tdade-178`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. -
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`
+- Amostra: A Tdade D<,,, "J. <k m,lh 'f<" .1< ""'" ",,,,,, 10m' """,ou...., .. ,, 'c Clm duro .... " '1 ""I,. f,,, funJ",h "" ",,,,I ,~, ><'<:olo ~~ 11 O ,lo,."" Tn"k I"'''''''' J. I~',çl<> ,~, ,-<,~" I,,~,,<m < t<."".N,,,,,,,,,,,,ru'h po<n""'f""'''I'''''«t<,f,,,,,,,,,<m
+
+### Advog~do
+
+- ID: `trevas-3-0--trevas-3-0-advog-do-41`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. 41
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`, `unbalanced_parentheses`
+- Amostra: Advog~do F..ú«m ~">'-' ... d< ,.I"~" n,,. ~u'" "'" aJ",I' ,J" poJ, ''''''. "", "" I~,""h , ,j" ·II~T'\·_\S. 8" '""'''''' ,,, Ih",,,,!;,,", 'io ~,lvog."I". <"","",;,;" .. , "" ~.1l" «: "-"",oJ,,, <lo .1r.UI:O' (o",,-,e,-,,," pt"hl." ... ,I. ,,' .. ,k '~'n,I,. n
+
+### llllllu
+
+- ID: `trevas-3-0--trevas-3-0-llllllu-122`
+- Área: `cenarios_lore`
+- Fonte: `trevas-3-0` p. 122
+- Flags: `critical_ocr_gibberish`, `ends_with_connector_possible_cut`, `symbol_noise_ocr`, `unbalanced_brackets`, `unbalanced_parentheses`
+- Amostra: llllllu "HHH : Ii"! ;; i-!i~~ ~s~~~ ~ § !l-;: C ~ ~ mil' mttt HíHi t}lW lf~{t HW ~ ~ f g ~ HlU ~. ~ ~ • , .., ('J } ~~ ,... • l Pt-~ ~ ::; iI '" ~ ~ o ? &. v , , ,q ,"1 [1 8 r- ~ ~S * ~ g ~ ,; [ ~ ~ f ~ ! i ~ ; ~ e r , li 1 ~ ~ i:' ~ k 5 I ª ~ 11 ;'1 ~ t t:; ~
+
+### & jJuDaísme
+
+- ID: `anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-jjudaisme-11`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-guerra-santa-biblioteca-elfica` p. 11
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: & jJuDaísme INTREDUÇÃO O nome judaísmo vem do chamado reino de Judá, antigo reino do Oriente Médio e, durante muito tempo, a palavra ju- deu foi usada para designar os habitantes deste reino. Com o passar os séculos, o termo passou a abranger os seguidores der

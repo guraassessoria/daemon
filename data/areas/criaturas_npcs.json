@@ -3,8 +3,8 @@
   "id": "criaturas_npcs",
   "name": "Criaturas e NPCs",
   "readySourceCount": 275,
-  "entityCount": 16,
-  "sourcePartCount": 384,
+  "entityCount": 14,
+  "sourcePartCount": 366,
   "subgroups": [],
   "filters": {
     "sources": [
@@ -16,7 +16,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 16
+        "count": 18
       },
       {
         "id": "arkanun",
@@ -36,7 +36,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 24
+        "count": 26
       },
       {
         "id": "dragao-brasil-especial-06-trevas",
@@ -46,7 +46,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 5
+        "count": 6
       },
       {
         "id": "guia-de-itens-magicos",
@@ -56,21 +56,11 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 1
+        "count": 2
       },
       {
         "id": "guia-de-monstros-de-arkanum",
         "title": "Guia de Monstros de Arkanum",
-        "sourceKind": "official",
-        "sourceKindLabel": "Livro oficial",
-        "officialSource": true,
-        "sourceFamily": "official_core",
-        "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 1
-      },
-      {
-        "id": "sistema-daemon-3-0",
-        "title": "Sistema-Daemon-3-0",
         "sourceKind": "official",
         "sourceKindLabel": "Livro oficial",
         "officialSource": true,
@@ -86,7 +76,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 12
+        "count": 10
       },
       {
         "id": "trevas-3-0",
@@ -97,16 +87,6 @@
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
         "count": 3
-      },
-      {
-        "id": "4killers",
-        "title": "4killers",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
       },
       {
         "id": "a-assassina",
@@ -196,7 +176,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 16
+        "count": 13
       },
       {
         "id": "anjos-jyhad-guerra-santa-biblioteca-elfica",
@@ -206,7 +186,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 28
+        "count": 30
       },
       {
         "id": "anjos-requiem-de-fe",
@@ -266,7 +246,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 3
+        "count": 2
       },
       {
         "id": "arkanun-1e-ultra-raro",
@@ -276,7 +256,17 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 3
+        "count": 2
+      },
+      {
+        "id": "atributos",
+        "title": "Atributos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
       },
       {
         "id": "auras",
@@ -339,16 +329,6 @@
         "count": 1
       },
       {
-        "id": "ciganos",
-        "title": "ciganos",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
         "id": "cyfell",
         "title": "Cyfell",
         "sourceKind": "supplement",
@@ -366,7 +346,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 7
+        "count": 5
       },
       {
         "id": "daemon-revisado-playtest-alfa-3-6",
@@ -381,16 +361,6 @@
       {
         "id": "demon-cthulhu",
         "title": "Demon Cthulhu",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "desentsu",
-        "title": "desentsu",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
@@ -426,7 +396,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 13
+        "count": 4
       },
       {
         "id": "dragoes2",
@@ -496,7 +466,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 6
+        "count": 7
       },
       {
         "id": "gigantes-mitologicos",
@@ -526,7 +496,7 @@
         "officialSource": false,
         "sourceFamily": "creatures_bestiary",
         "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-        "count": 15
+        "count": 13
       },
       {
         "id": "guia-dos-dragoes-1-biblioteca-elfica",
@@ -536,7 +506,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 9
+        "count": 10
       },
       {
         "id": "guia-dragoes-vol-ii",
@@ -547,6 +517,16 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 9
+      },
+      {
+        "id": "guia-pericias",
+        "title": "guia pericias",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
       },
       {
         "id": "hi-brazil-biblioteca-elfica",
@@ -609,16 +589,6 @@
         "count": 1
       },
       {
-        "id": "lobisomens",
-        "title": "lobisomens",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
         "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
         "title": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
         "sourceKind": "supplement",
@@ -626,7 +596,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 3
+        "count": 1
       },
       {
         "id": "marvel-rpg-7o-edicao",
@@ -696,7 +666,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 6
+        "count": 4
       },
       {
         "id": "monges-daemon",
@@ -749,6 +719,16 @@
         "count": 1
       },
       {
+        "id": "naruto-daemon-2a-ed",
+        "title": "Naruto-daemon-2ª-Ed",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
+      },
+      {
         "id": "naruto-rpg-daemon-2a-edicao",
         "title": "Naruto RPG Daemon - 2ª Edição",
         "sourceKind": "supplement",
@@ -756,7 +736,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 2
       },
       {
         "id": "neokosmos-biblioteca-elfica",
@@ -766,7 +746,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 5
+        "count": 4
       },
       {
         "id": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
@@ -781,16 +761,6 @@
       {
         "id": "novo-aeon-guia-basico",
         "title": "Novo Aeon - Guia Básico",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "o-corvo",
-        "title": "O Corvo",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
@@ -859,6 +829,16 @@
         "count": 1
       },
       {
+        "id": "ray",
+        "title": "ray",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
         "id": "redentor",
         "title": "Redentor",
         "sourceKind": "supplement",
@@ -886,7 +866,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 3
       },
       {
         "id": "santa-cruz-inferno-verde-biblioteca-elfica",
@@ -909,16 +889,6 @@
         "count": 1
       },
       {
-        "id": "sistema-daemon-2-x",
-        "title": "Sistema-Daemon-2-X",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "rules_system",
-        "sourceFamilyLabel": "Regras e sistema",
-        "count": 1
-      },
-      {
         "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
         "title": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
         "sourceKind": "supplement",
@@ -926,16 +896,6 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 2
-      },
-      {
-        "id": "sobrenatural",
-        "title": "Sobrenatural",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
         "count": 1
       },
       {
@@ -986,7 +946,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 1
+        "count": 2
       },
       {
         "id": "trevas-de-marte",
@@ -1026,17 +986,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 7
-      },
-      {
-        "id": "umbral-e-seus-vales",
-        "title": "Umbral e seus vales",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "setting_lore",
-        "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 1
+        "count": 6
       },
       {
         "id": "universo-daemon-01",
@@ -1046,7 +996,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 2
       },
       {
         "id": "vaticano",
@@ -1066,13 +1016,13 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 6
+        "count": 5
       }
     ],
     "categories": [
       {
         "id": "attribute_skill",
-        "count": 30
+        "count": 37
       },
       {
         "id": "character_option",
@@ -1080,19 +1030,19 @@
       },
       {
         "id": "combat",
-        "count": 42
+        "count": 46
       },
       {
         "id": "core_rule",
-        "count": 29
+        "count": 40
       },
       {
         "id": "creature_npc",
-        "count": 221
+        "count": 191
       },
       {
         "id": "item_equipment",
-        "count": 9
+        "count": 8
       },
       {
         "id": "kit_class",
@@ -1100,19 +1050,15 @@
       },
       {
         "id": "power_magic",
-        "count": 42
+        "count": 34
       },
       {
         "id": "race_lineage",
-        "count": 10
-      },
-      {
-        "id": "ritual_spell",
-        "count": 1
+        "count": 9
       },
       {
         "id": "setting_lore",
-        "count": 7
+        "count": 6
       },
       {
         "id": "source",
@@ -1122,7 +1068,7 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 9
+        "count": 12
       },
       {
         "id": "combat_maneuver",
@@ -1130,19 +1076,19 @@
       },
       {
         "id": "creature_npc",
-        "count": 25
+        "count": 26
       },
       {
         "id": "front_matter",
-        "count": 10
+        "count": 7
       },
       {
         "id": "item_equipment",
-        "count": 11
+        "count": 14
       },
       {
         "id": "lore_world",
-        "count": 79
+        "count": 78
       },
       {
         "id": "ocr_noise",
@@ -1150,15 +1096,11 @@
       },
       {
         "id": "organization_faction",
-        "count": 38
-      },
-      {
-        "id": "power_spell",
-        "count": 1
+        "count": 33
       },
       {
         "id": "raw_chapter_block",
-        "count": 90
+        "count": 75
       },
       {
         "id": "rule_mechanic",
@@ -1166,19 +1108,19 @@
       },
       {
         "id": "uncertain_fragment",
-        "count": 124
+        "count": 122
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 84
+        "count": 87
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 316
+        "count": 293
       }
     ],
     "sourceFamilies": [
@@ -1195,27 +1137,27 @@
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 27
+        "count": 24
       },
       {
         "id": "creatures_bestiary",
         "label": "Criaturas, monstros e NPCs",
-        "count": 21
+        "count": 20
       },
       {
         "id": "myth_history",
         "label": "Mitologia, história e religião",
-        "count": 15
+        "count": 14
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 84
+        "count": 87
       },
       {
         "id": "powers_magic",
         "label": "Poderes, magia e rituais",
-        "count": 23
+        "count": 20
       },
       {
         "id": "custom_rules",
@@ -1225,18 +1167,18 @@
       {
         "id": "rules_system",
         "label": "Regras e sistema",
-        "count": 25
+        "count": 12
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 170
+        "count": 168
       }
     ],
     "areas": [
       {
         "id": "criaturas_npcs",
-        "count": 400
+        "count": 380
       }
     ]
   },
@@ -1670,39 +1612,6 @@
       "qualityStatus": "ok"
     },
     {
-      "id": "michael-myers",
-      "name": "Michael Myers",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "4killers",
-      "sourceTitle": "4killers",
-      "page": 6,
-      "entries": [
-        "Assassino de 15 nivel adaptado para o sistema Daemon.",
-        "Antagonista silencioso, persistente e resistente, estruturado como ameaca de horror recorrente."
-      ],
-      "tags": [
-        "antagonista",
-        "assassino",
-        "creature_npc",
-        "criaturas_npcs",
-        "terror"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "manual-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "creature_npc",
-      "contentKindLabel": "Criatura, inimigo ou NPC",
-      "qualityFlags": [],
-      "qualitySeverity": "ok",
-      "presentationStatus": "public",
-      "qualityStatus": "ok"
-    },
-    {
       "id": "monstros-abissais",
       "name": "Monstros Abissais",
       "area": "criaturas_npcs",
@@ -1721,40 +1630,6 @@
         "monstros"
       ],
       "confidence": 0.88,
-      "extractionMethod": "manual-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "creature_npc",
-      "contentKindLabel": "Criatura, inimigo ou NPC",
-      "qualityFlags": [],
-      "qualitySeverity": "ok",
-      "presentationStatus": "public",
-      "qualityStatus": "ok"
-    },
-    {
-      "id": "thomas-hewitt-leatherface",
-      "name": "Thomas Hewitt (Leatherface)",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "4killers",
-      "sourceTitle": "4killers",
-      "page": 7,
-      "entries": [
-        "Assassino de 15 nivel adaptado para o sistema Daemon.",
-        "Antagonista brutal associado a motosserra, violencia fisica e horror rural."
-      ],
-      "tags": [
-        "antagonista",
-        "assassino",
-        "creature_npc",
-        "criaturas_npcs",
-        "motosserra",
-        "terror"
-      ],
-      "confidence": 0.82,
       "extractionMethod": "manual-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -2153,6 +2028,7 @@
       "entityRefs": [],
       "tags": [
         "criaturas_npcs",
+        "regras_base",
         "source"
       ],
       "confidence": 0.8,
@@ -2401,9 +2277,9 @@
       "summary": "ATRIBUTOS BÁsices Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. Os Atributos apresentados aqui são compatíveis com ARKANUN, INVASÃO, SÓ AVENTURAS e TREVAS, bem como com todos os RPGs lançados pela Editora TRAMA. São oito Atributos,...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
@@ -2491,9 +2367,9 @@
       "summary": "HIERARQUIA 2 l s^ - ATRIBUTeS Os Atributos são explicados detalhadamente nas pági- nas 40 e 41, mas a parte de Criação de Personagens (páginas 22 a 27) mostrará os limites a serem seguidos. CABECALH® São as características básicas do Personagem. Procure responder às perguntas nas páginas 23 a 24 para completar esta parte da ficha. PERÍCIAS cem ARHIAS As regr...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -2609,6 +2485,51 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-regras-e-testes-65",
+      "name": "REGRAS e TESTES",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "anjos-a-cidade-de-prata",
+      "sourceTitle": "Anjos - A Cidade de Prata",
+      "pages": [
+        [
+          65,
+          66
+        ]
+      ],
+      "page": null,
+      "summary": "REGRAS e TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-rfitiperfis-37",
       "name": "RfitíPÊRfiS",
       "area": "criaturas_npcs",
@@ -2647,6 +2568,49 @@
         "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-teste-de-resistencia-67",
+      "name": "TESTE DE RESISTÊNCIA",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "anjos-a-cidade-de-prata",
+      "sourceTitle": "Anjos - A Cidade de Prata",
+      "pages": [
+        [
+          67,
+          69
+        ]
+      ],
+      "page": null,
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a pro- vações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Consti- tuição (CON), quando o ataque é físico, por venen...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -2831,7 +2795,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -3377,136 +3342,6 @@
       ],
       "page": null,
       "summary": "Grupos secretos se tornaram opo- nentes formidáveis das instituições religiosas como é o caso de muitas seitas que surgiram da fragmenta- ção da Ordem dos Templários ou da fi losofi a de homens como Niet- zsche. Os Portadores da Verdade, também chamados de Senhores da Razão ou simplesmente de o Culto ao Homem, cresceram ainda no século XIX, na Alemanha, na I...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "anjos-jyhad-faces-da-fe",
-      "sourceTitle": "Anjos Jyhad - Faces da Fé",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "Autor: Antônio Augusto Shaftiel Obras do Autor Entre Anjos e Demônios Assassino de Almas Busca por Sangue Editora Daemon www.daemon.com.br Comunidade no Orkut h t t p : / / w w w . o r k u t . c o m / Community.aspx?cmm=1407353 Atenção: Jyhad: Guerra Santa e Faces da Fé são livros que usam como base as religiões do mundo real, mas com histórias e transformaç...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-1-3",
-      "name": "Capítulo 1",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "anjos-jyhad-faces-da-fe",
-      "sourceTitle": "Anjos Jyhad - Faces da Fé",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "Capítulo 1 Seitas, Sociedades e Ordens Mundanas Catolicismo A Igreja Católica possui inúmeras ordens cujas missões são as mais variadas possíveis. Elas possuem suas próprias regras, mas as seguintes são comuns: celiba- to, obediência aos superiores da ordem e votos de pobreza. Dois exemplos são os franciscanos e as irmãs carmelitas que trabalham com caridade...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-jesuitas-4",
-      "name": "Jesuítas",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "anjos-jyhad-faces-da-fe",
-      "sourceTitle": "Anjos Jyhad - Faces da Fé",
-      "pages": [
-        4
-      ],
-      "page": 4,
-      "summary": "Jesuítas A Companhia de Jesus foi fundada por Inácio de Loyola, um ex-ofi cial espanhol do século XVI. É conhecida por ser uma ordem religiosa baseada na disciplina e, alguns dizem, ter relações com o modo de vida militar. Sua obediên- cia às regras é uma das exigências máximas e o compromisso com o conhecimento e a catequização são importantíssimos aos olho...",
       "entityRefs": [],
       "tags": [
         "creature_npc",
@@ -4143,9 +3978,9 @@
       "summary": "ATRIBUTOS BÁSICOS Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. Os Atributos apresentados aqui são compatíveis com ARKANUN, INVASÃO, SÓ AVENTURAS e TREVAS, bem como com todos os RPGs lançados pela Editora TRAMA. São oito Atributos,...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
@@ -4302,6 +4137,94 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-protecao-77",
+      "name": "PROTECÃO",
+      "area": "criaturas_npcs",
+      "category": "combat",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        [
+          77,
+          78
+        ]
+      ],
+      "page": null,
+      "summary": "ca ou eletrônica. Caso o anjo desconheça a máquina (não tem a perícia adequada para utilizá-la manualmente), ou esta tenha von- tade própria, Teste sua INT para obter sucesso no controle da máquina desconhecida e INT vs. INT nos outros casos. PROTECÃO (somente Hafasa) Nível 1: Sentir o Protegido. O anjo pode sentir a locali- zação e o estado de saúde de seu...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "ends_with_connector_possible_cut",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-teste-de-resistencia-88",
+      "name": "TESTE DE RESISTÊNCIA",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        [
+          88,
+          89
+        ]
+      ],
+      "page": null,
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a pro- vações de ordem fisica ou mental, São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Consti- tuição (CON), quando o ataque é físico, por venen...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-brdens-e-seitas-angelicais-82",
       "name": "€BRDENS E SEITAS ANGELICAIS",
       "area": "criaturas_npcs",
@@ -4424,46 +4347,6 @@
         "does_not_end_like_complete_sentence",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-had-santa-3",
-      "name": "HAD santa",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
-      "pages": [
-        3
-      ],
-      "page": 3,
-      "summary": "HAD santa Criação: Antônio Augusto Shaftiel Desenvolvimento: Marcelo Del Debbio, Norson Botrel e Antônio Augusto Shaftiel Revisão: Fabrício GiZmo Capa: Victor Ishimura e Diogo Pereira Arte: Ronaldo Barata, Eduardo Ferrara, ls, Mauro Delias Programação Visual: Norson Botrel e Marcelo Del Debbio Diagramação e Fotolitos: Daemon Editora Impresso por : Gráfica Sc...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "front_matter",
-      "contentKindLabel": "Créditos, índice ou metadado",
-      "editorialFlags": [
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -4688,9 +4571,9 @@
       "summary": "ATRIBUTOS CABECALHO Os Atributos são explicados detalhadamente nas pá- São as características básicas do Personagem. ginas 56 e 57, mas a parte de Criação de Personagens Procure responder às perguntas nas páginas (páginas 33 a 37) mostrará os limites a serem seguidos. 3334 para completar esta parte da ficha. VALORES A Criação de Personagem (pági- nas 33 a 37...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -5095,8 +4978,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -5115,6 +4998,47 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-regras-e-testes-86",
+      "name": "REGRAS E TESTES",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        86
+      ],
+      "page": 86,
+      "summary": "REGRAS E TESTES Quanto mais regras você tem, mais problemas você tem Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham. em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. «Às regras são simples, porém muito efi...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -5986,51 +5910,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-pagina-inicial-1",
-      "name": "Pagina inicial",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "ark-a-nun-arquivos-de-bel-kalaa",
-      "sourceTitle": "Ark-a-nun - Arquivos de Bel-Kalaa",
-      "pages": [
-        [
-          1,
-          6
-        ]
-      ],
-      "page": null,
-      "summary": "1 2 Por Lord Maihelkash Agradecimentos: -Ao Marcelo Del Debbio, por criar o sistema Daemon. -Ao Leishmaniose,que me aturou e me ajudou durante grande parte do desenvolvimento deste net. -Ao Lammazus, que apesar de não estar presente no fórum, colaborou com grande parte deste projeto. -Ao Lobo por ler o bestiário criatura por criatura e encontrar erros que pa...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "setting_lore",
-      "sourceFamilyLabel": "Cenários, lore e organizações",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "ark-a-nun-arquivos-de-bel-kalaa--ark-a-nun-arquivos-de-bel-kalaa-determinadas-partes-de-seus-corpos-certas-monstruosidades-encontram-80-7",
       "name": "determinadas partes de seus corpos.Certas monstruosidades encontram (140-149)",
       "area": "criaturas_npcs",
@@ -6492,9 +6371,9 @@
       "summary": "A.mibucos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses nú­ meros dizem como o Personagem é se comparado a ou­ tros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com TREVAS bem corno com todos os RPGs lançados pela Daernon Editora. São oito Atributos, dividid...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -7014,50 +6893,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-introducao-4",
-      "name": "INTRODUÇÃO",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "arkanun-1e-ultra-raro",
-      "sourceTitle": "Arkanun-1e-ultra-raro",
-      "pages": [
-        4
-      ],
-      "page": 4,
-      "summary": "INTRODUÇÃO Olá, RPGista. Depois de Defensores de Tóquio, a DRAGÃO BRASIL tem o prazer de anunciar ARKA- NUN, mais uma edição es- pecial da revista, com um novo sistema de RPG me- * dieval para você. Até aí tudo bem, existem muitos ..; RPGs medievais no merca- do. O que faz de ARKA- NUN algo tão especial? Seu conceito, em primei- ro lugar. Alguns de vocês já...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "setting_lore",
-      "sourceFamilyLabel": "Cenários, lore e organizações",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-2-dragao-especial-32",
       "name": "(2) DRAGÃO ESPECIAL",
       "area": "criaturas_npcs",
@@ -7095,6 +6930,51 @@
         "raw_source_part_requires_review",
         "source_part_without_specific_subject",
         "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "atributos--atributos-idade-13",
+      "name": "Idade",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "atributos",
+      "sourceTitle": "Atributos",
+      "pages": [
+        [
+          13,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa regra se aplica à maioria das espécies conhecidas pela humanidade. Há nessa mesma orbe criaturas tão a...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -7378,7 +7258,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -7422,7 +7303,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -7448,47 +7330,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-trevas-123",
-      "name": "TREVAS",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "pages": [
-        [
-          123,
-          124
-        ]
-      ],
-      "page": null,
-      "summary": "\\ TREVAS Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno, usando os humanos como peças em seu jogo de xadrez celestial. Neste RPG, você está convidado a fazer parte dos mortais que sabem a verdade. Após quase dez anos desde sua primeira versão em Fanzine, a Daemon Editora tem o prazer em anu...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "daemon-anime-rpg--daemon-anime-rpg-alma-pura-30",
       "name": "Alma Pura",
       "area": "criaturas_npcs",
@@ -7503,7 +7344,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -7543,7 +7385,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -7583,8 +7426,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
@@ -7625,8 +7468,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -7654,46 +7497,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-arkanun-3a-edicao-122",
-      "name": "Arkanun 3ª Edição",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "pages": [
-        122
-      ],
-      "page": 122,
-      "summary": "Arkanun 3ª Edição Um dos mais antigos, conhecidos e conceituados RPGs do Brasil, Arkanun é ambientado em uma Idade Média sorri'.bria e ameaçadora, enquanto a Peste Negra assolava a Europa, onde a Inquisição perseguia e condenava à fogueira qualquer manifestação de atos demoníacos como bruxas, magos ou filhos do demônio. Onde feudos imundos e abadias escondid...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-von-2-17",
       "name": "+ VON]/2).",
       "area": "criaturas_npcs",
@@ -7711,7 +7514,8 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -7841,9 +7645,9 @@
       "summary": "ATRIBUTOS BÁSICOS Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem e, se comparado a outros personagens e criaturas. Os Atributos apresentados aqui são compatíveis com ARKANUN, INVASÃO, TREVAS e ANJOS, bem como com todos os RPGs lançados pela Daemon Editora. São oito Atributos, divid...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
@@ -7862,49 +7666,6 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "encoding_or_ocr_artifact",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-controle-mental-69",
-      "name": "CONTROLE MENTAL",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "demonios-a-divina-comedia",
-      "sourceTitle": "Demônios - A Divina Comédia",
-      "pages": [
-        [
-          69,
-          70
-        ]
-      ],
-      "page": null,
-      "summary": "CONTROLE MENTAL (Anjos Caídos, Daemons, Succubi/Incubi, Espectros) Podem ser utilizados tanto na forma humana quanto na forma demoníaca. Nível 1: Hipnoses. Permite ao demônio (mediante o contato olho-a-olho) hipnotizar uma vitima e colocá-la sob seu controle mental. O demônio pode emitir comandos exatos como “siga-me\", \"Entre nesta taverna\" e outros. A vítim...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -8266,8 +8027,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -8331,6 +8092,48 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-teste-de-resistencia-112",
+      "name": "TESTE DE RESISTÊNCIA",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        [
+          112,
+          113
+        ]
+      ],
+      "page": null,
+      "summary": "TESTE DE RESISTÊNCIA Em alguns casos, os Personagens são submetidos a privações de ordem física ou mental. São situações inesperadas nas quais é preciso resistir ao efeito que a situação impõe. Um Teste de Resistência nada mais é do que um Teste de Atributo. Os Testes de Resistência mais comuns são: Constituição (CON), quando o ataque é físico, por venenos,...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -8704,6 +8507,47 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-como-as-hordas-funcionam-57",
+      "name": "COMO AS HORDAS FUNCIONAM",
+      "area": "criaturas_npcs",
+      "category": "combat",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        57
+      ],
+      "page": 57,
+      "summary": "COMO AS HORDAS FUNCIONAM As Hordas são personagens diferentes. Ao invés de apenas UM personagem, o jogador que escolher jogar com as Hordas controlara um pequeno grupo de demônios menores (2+1 d2), que aumentarão conforme o personagem for desenvolvendo. Cada demônio das Hordas começa o jogo com 50 pontos de Atributos (mínimo 3 e Maximo 12 em cada) e 50 ponto...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-npc-importantes-81",
       "name": "NPC IMPORTANTES",
       "area": "criaturas_npcs",
@@ -8742,6 +8586,48 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-regras-e-testes-110",
+      "name": "REGRAS E TESTES",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "demonios-a-divina-comedia",
+      "sourceTitle": "Demônios - A Divina Comédia",
+      "pages": [
+        110
+      ],
+      "page": 110,
+      "summary": "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, e necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porem muito eficientes, pois neste jogo e privilegiada a resolução de...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "demonios-a-divina-comedia--demonios-a-divina-comedia-atributo-vs-atributo-111",
       "name": "ATRIBUTO VS ATRIBUTO",
       "area": "criaturas_npcs",
@@ -8755,9 +8641,9 @@
       "summary": "ATRIBUTO VS ATRIBUTO Existem situações onde ha o confronto de dois Atributos. Já foi citado o caso de um Personagem tentando levantar um peso. Há diversos outros exemplos: dois Personagens tirando um braço de ferro para saber quem e mais forte (FR), ou uma competição para testar qual Personagem consegue ficar mais tempo embaixo d‟água sem respirar (CON). Ver...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -9007,232 +8893,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-6",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          6,
-          7
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos elementais. Os Dragões Vermelhos ficaram com vulcões e grandes formações rochosas, como canyons e montanhas, às vezes encontrando Dragões Azuis, que preferiam os cumes das montanhas mais altas, mas também o próprio céu e nuvens. As áreas pantanosas e lamacentas ficaram para os subestimados Dragões Marrons, embora Dragões Negros também ti...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-14",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          14,
-          15
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos Adversários subiu quatro posições, deixando-o no 19º lugar. Em Paradísia, uma grande quantidade de fortalezas de Dragões Brancos foi atacada por grupos de expansão de Jotunheimr. Na chamada Batalha das Geleiras Eternas, uma coligação de Dragões Brancos e Ljosálfar, apoiada por Dragões de Prata aliados a Aasgard, enfrentou o general Jotun...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-26",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          26,
-          27
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos Dragões Brancos A Origem A orgulhosa história dos dragões brancos iniciou- se por uma restrita cabala de dragões primordiais que se autointitulavam Syv Forskere, Os Sete Grandiosos. O objetivo da cabala era nada menos que encontrar uma forma de alcançar outras dimensões sem desvencilhar-se de seus corpos de carne. Os estudos dos Syv Fors...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-28",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          28,
-          29
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos Dragões Corrompidos A Origem Quando a Terra dos dragões elementais e dos pássaros celestiais estava em seu auge, os diversos impérios dracônicos dominavam os outros povos do mundo, o que sempre os levava a guerras e alianças que se faziam e desfaziam constantemente. Alguns desses impérios veneravam criaturas titânicas do plano altíssimo...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-54",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          54,
-          55
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos se torna capaz de atravessar grandes distâncias atravez da água. O dragão pode entrar em qualquer fonte de água grande o bastante para cobri-lo por completo (muitos dragões aquamarine assumem a sua forma humana para se transportar através de rios mais estreitos) e se deslocar para qualquer outro ponto aquático que esteja conectado ao pon...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-1",
       "name": "DragõeS",
       "area": "criaturas_npcs",
@@ -9247,7 +8907,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -9277,48 +8938,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-criacao-e-desenvolvimento-hatalibio-almeida-2",
-      "name": "Criação e Desenvolvimento: Hatalíbio Almeida,",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        2
-      ],
-      "page": 2,
-      "summary": "Criação e Desenvolvimento: Hatalíbio Almeida, Henrique Santos, Leonardo Bocaletti, Alex Tadeu e demais membros do fórum da editora Daemon. Revisão: Hatalíbio Almeida Capa: Blizard Arte Interna: Paizo,Wizard of The Coast Programação Visual: Lobo Lancaster Diagramação: Lobo Lancaster Esta é uma obra de ficção sem fins lucrativos. Apesar dos fatos citados neste...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "front_matter",
-      "contentKindLabel": "Créditos, índice ou metadado",
-      "editorialFlags": [
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-capitulo-1-historia-dos-dragoes-11",
       "name": "Capítulo 1 - História dos Dragões",
       "area": "criaturas_npcs",
@@ -9333,7 +8952,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -9377,7 +8997,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -9407,48 +9028,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-22",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        22
-      ],
-      "page": 22,
-      "summary": "Dragões: Reis Caídos Dragões Aquamarine A Origem Durante o segundo Éon do plano terrestre, os novos dragões surgidos após o giro se dividiam em diversos reinos, sempre tendo os dragões primordiais como líderes. Em meio a essa divisão de territórios e reinados, existia um Dragão que encontrou nos mares um refúgio para sí e para todos aqueles que o seguiam. Sj...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-arkanun-trevas-23",
       "name": "Arkanun/Trevas",
       "area": "criaturas_npcs",
@@ -9463,7 +9042,8 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
@@ -9481,88 +9061,6 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-caracteristicas-35",
-      "name": "Características",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        35
-      ],
-      "page": 35,
-      "summary": "Características Os Dragões Negros possuem escamas pretas e nebulosas, de forma que de longe se assemelham a uma grande massa de sombras em formato dracônico. Estes costumam possuir hábitos noturnos e habitam grandes cavernas de forma a evitar o sol do dia. Sua alimentação, assim como a da maioria dos dragões se consiste basicamente de carne e carniça, porém...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-38",
-      "name": "Dragões: Reis Caídos",
-      "area": "criaturas_npcs",
-      "category": "setting_lore",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        38
-      ],
-      "page": 38,
-      "summary": "Dragões: Reis Caídos Dragões Verdes Origem Nascidos antes do último giro da Roda dos Mundos, os Dragões Verdes trazem consigo o sangue da Dragonesa Primordial chamada Beira. Durante o giro que destruiu o mundo dos Primordiais e o reanimou como a terra dos dragões elementais, esta Primordial teve sua essência espalhada em uma pequena região coberta por uma es...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "setting_lore"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -9725,9 +9223,9 @@
       "summary": "T - • , . PERICIAS , \\ Perícias são as habilidades do seu personagem. Dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento cm que o personagem é criado, calcula-se quantos pontos de pcrkias de terá para gastar. Isso vai depender de sua idade e Inteligência, como explicado a seguir. Esses pontos de perícias podem ser gastos com quaisqu...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -9747,6 +9245,50 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "dragao-brasil-especial-06-trevas--dragao-brasil-especial-06-trevas-testes-e-combate-50",
+      "name": "TESTES E COMBATE",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "dragao-brasil-especial-06-trevas",
+      "sourceTitle": "Dragão Brasil especial 06 - Trevas",
+      "pages": [
+        [
+          50,
+          52
+        ]
+      ],
+      "page": null,
+      "summary": "~ -- -t -- TESTES E COMBATE \"Ninguém viu você entrar, ninguém precisa ver você sair ... \" - Sanchez, Licence to Kill Quando você decide que seu personagem vai dar um tiro com sua Magnun 44 na cabeça de um servo de Thot-Amon, isso não· significa necessariamente que ele vá acertar. Há duas maneiras de determinar sucesso ou falha em uma ação; por determinação d...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -10077,8 +9619,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10118,9 +9660,9 @@
       "summary": "27 CARACTERÍSTICAS GERAIS Porte Essa característica se baseia na relação de tamanho que existe entre os seres vivos, inicialmente essa característica define a quantidade de pontos de atributos da criatura e seus pontos de perícias iniciais. Como a contagem de tempo de vida das criaturas é diferente que para os humanos, cada nível de porte apresenta um valor...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10163,7 +9705,8 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
@@ -10205,9 +9748,9 @@
       "summary": "90 CUSTOS PARA CRIATURAS DE PEQUENO PORTE Custo em pontos de Treino de 1 Ponto de Vida. Atributo Base 24 18 12 6 1 1 2 3 4 3 2 3 4 5 5 3 4 5 6 7 4 5 6 7 9 5 6 7 8 11 6 7 8 9 13 7 8 9 10 15 8 9 10 11 16 9 10 11 12 17 10 11 12 13 Pontos de Criação 18 11 12 13 14 Custo em pontos de Treino de 1 Ponto de Perícia. Atributo Base 24 18 12 6 1 3 6 9 12 3 6 9 12 15 5...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10249,9 +9792,9 @@
       "summary": "95 CUSTOS PARA CRIATURAS DE PORTE GIGANTESCO Custo em pontos de Treino de 1 Ponto de Vida. Atributo Base 72 66 60 54 48 42 36 30 24 18 12 6 5 1 2 3 4 5 6 7 8 9 10 11 12 7 2 3 4 5 6 7 8 9 10 11 12 13 9 3 4 5 6 7 8 9 10 11 12 13 14 11 4 5 6 7 8 9 10 11 12 13 14 15 13 5 6 7 8 9 10 11 12 13 14 15 16 15 6 7 8 9 10 11 12 13 14 15 16 17 16 7 8 9 10 11 12 13 14 15 1...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10269,6 +9812,51 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "gerador-de-criaturas--gerador-de-criaturas-elementos-secundarios-72",
+      "name": "ELEMENTOS SECUNDÁRIOS",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "gerador-de-criaturas",
+      "sourceTitle": "Gerador de criaturas",
+      "pages": [
+        [
+          72,
+          78
+        ]
+      ],
+      "page": null,
+      "summary": "72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o manto de sombras tem área igual ao atributo base x5 em metros, os alvos dentro dessa área recebem um...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "creatures_bestiary",
+      "sourceFamilyLabel": "Criaturas, monstros e NPCs",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -10370,8 +9958,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10414,9 +10002,9 @@
       "summary": "Agilidade (AGI) Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. A contrário da Destreza, a Agilidade é válida para o corpo todo. Com um alto valor em Agilidade, um personagem pode correr mais rápido, equilibrar-se melhor, esquivar-se...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10486,6 +10074,47 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "guia-de-itens-magicos--guia-de-itens-magicos-zarabatanas-magicas-271",
+      "name": "Zarabatanas Magicas",
+      "area": "criaturas_npcs",
+      "category": "item_equipment",
+      "source": "guia-de-itens-magicos",
+      "sourceTitle": "Guia de Itens Mágicos",
+      "pages": [
+        271
+      ],
+      "page": 271,
+      "summary": "Zarabatanas Magicas Ver Armas Magicas. Zarabatana Tellers Estas zarabatanas fcram fOrjadas por Demonios caxas para Adrienne, uma das mais antigas prostitutas da Babil6nia, quando Sodoma e Gomorra fcram destruidas pelos Anjos. Adrienne tomou-se rapidamente consorte de Lilith e Bittrettir em seus remos de luxuria. A Succubus AdrieIUle veio a Terra no ana de 13...",
+      "entityRefs": [],
+      "tags": [
+        "criaturas_npcs",
+        "item_equipment",
+        "itens_equipamentos"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "guia-de-monstros-de-arkanum--guia-de-monstros-de-arkanum-guia-de-monstros-1",
       "name": "Guia de Monstros",
       "area": "criaturas_npcs",
@@ -10532,46 +10161,46 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "guia-de-monstros-de-arton--guia-de-monstros-de-arton-guia-de-2",
-      "name": "(Guia de",
+      "id": "guia-de-monstros-de-arton--guia-de-monstros-de-arton-criaturas-7",
+      "name": "Criaturas",
       "area": "criaturas_npcs",
-      "category": "creature_npc",
+      "category": "core_rule",
       "source": "guia-de-monstros-de-arton",
       "sourceTitle": "Guia de Monstros de Arton",
       "pages": [
         [
-          2,
-          4
+          7,
+          10
         ]
       ],
       "page": null,
-      "summary": "(Guia de Monstros de Arton Marcelo Cassaro Marcelo Del Debbio 1º Edição - Jul/2001 2º Edição - Set/2004 3º Edição - Fev/2006 Daemon Editora fax (11) 5539-1122 email; daemon GQ daemon.com.br http://www.daemon.com.br (Guia de Monstros de Arton Criação: Marcelo Cassaro Desenvolvimento: Marcelo Del Debbio Revisão: Ana Flora Schlindwein Capa: André Vazzios Arte:...",
+      "summary": "Criaturas Abelha-Gigante “Dois galões de mel?! Para sen bichinho?! Você tem tem URSO, por acaso?” — Dilgro Daggans, comerciante halfling CON 20-25, FR 15-25, DEX 5-10, AGI 15-25, INT 3 WILL3, CARS, PER 15 HF Ataques [1], IP 3 (Pele), PVs 20-25 Mordida 40/0 dano 1d6 ou (ataque único) Ferrão 80/0 dano 1d3+ veneno (4d6) Pode voar com velocidade de 12m/s F2-3, H...",
       "entityRefs": [],
       "tags": [
-        "creature_npc",
-        "criaturas_npcs"
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
       ],
-      "confidence": 0.78,
+      "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
       "sourceFamily": "creatures_bestiary",
       "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-      "contentKind": "front_matter",
-      "contentKindLabel": "Créditos, índice ou metadado",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
       "editorialFlags": [
-        "front_matter_or_index_block",
+        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "front_matter_or_index_block",
+        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
+        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -10595,8 +10224,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
@@ -10640,7 +10269,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10665,50 +10295,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "guia-de-monstros-de-arton--guia-de-monstros-de-arton-outras-publicacoes-125",
-      "name": "Outras Publicações",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "guia-de-monstros-de-arton",
-      "sourceTitle": "Guia de Monstros de Arton",
-      "pages": [
-        [
-          125,
-          126
-        ]
-      ],
-      "page": null,
-      "summary": "Outras Publicações Estes livros podem ser encontrados na www.lojaderpg.com.br Orevas (Módulo Básico) Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu go de xadrez celestial. Neste RPG, você está convidado a eo Inferno, usando os humanos como peças em seu jog fazer parte dos mortais que sabem a verdade. A...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "creatures_bestiary",
-      "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "guia-de-monstros-de-arton--guia-de-monstros-de-arton-t-rex-113",
       "name": "T-Rex",
       "area": "criaturas_npcs",
@@ -10726,8 +10312,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10855,8 +10441,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10937,8 +10523,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -10980,8 +10566,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -11060,8 +10646,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -11130,46 +10716,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "guia-de-monstros-de-arton--guia-de-monstros-de-arton-ccemplarios-127",
-      "name": "cCemplários",
-      "area": "criaturas_npcs",
-      "category": "item_equipment",
-      "source": "guia-de-monstros-de-arton",
-      "sourceTitle": "Guia de Monstros de Arton",
-      "pages": [
-        127
-      ],
-      "page": 127,
-      "summary": "cCemplários A primeira Ordem do Templo surgiu com os discípulos do grande mago Salomão, em Jerusalém, um milênio antes da vinda de Cristo. Desta Ordem de sacerdotes guerreiros surgiram as bases do que mais tarde se chamariam cavaleiros templários. TEMPLÁRIOS traz regras criar os caçadores de demônios mais temidos de todos os tempos, desde sua origem até os d...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "item_equipment"
-      ],
-      "confidence": 0.84,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "creatures_bestiary",
-      "sourceFamilyLabel": "Criaturas, monstros e NPCs",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-capitulo-1-informacoes-gerais-7",
       "name": "CAPÍTULO 1: INFORMAÇÕES GERAIS",
       "area": "criaturas_npcs",
@@ -11207,6 +10753,53 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-capitulo-2-regras-para-dragoes-11",
+      "name": "CAPÍTULO 2: REGRAS PARA DRAGÕES",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "guia-dos-dragoes-1-biblioteca-elfica",
+      "sourceTitle": "Guia-dos-dragoes-1-biblioteca-elfica",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "CAPÍTULO 2: REGRAS PARA DRAGÕES Dragões podem atacar com sua mordida e duas garras ao mesmo tempo, realizando assim três ataques por rodada. Criaturas que estejam em seu flanco normalmente são ataca- das com as asas, mas alguns dragões maiores também podem atacar com a cauda. Eles também podem chutar com uma das garras traseiras, mas sempre precisarão de dua...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -12303,49 +11896,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-vilas-15",
-      "name": "vilas",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
-      "pages": [
-        [
-          15,
-          16
-        ]
-      ],
-      "page": null,
-      "summary": "vilas descentralizadas, mas que se comunicam entre si. Bondolak Bondolak Dirigindo-se para o norte, além da floresta, passamos pelas terras selvagens, pradarias habitadas por bárbaros Tergar de organização patriarcal. Seguindo então para o leste dessas terras, além das montanhas, temos Bondolak, o “Reino de Fora”, território habitado pelos B'dolaki. Bondolak...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-grandes-31",
       "name": "Grandes",
       "area": "criaturas_npcs",
@@ -12360,47 +11910,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-convocado-por-kalisis-o-dragao-40",
-      "name": "Convocado por Kalisis, o Dragão",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
-      "pages": [
-        40
-      ],
-      "page": 40,
-      "summary": "Convocado por Kalisis, o Dragão Neutro veio ao Chayriah e fundou a Irmandade Draconiana, principal organização a serviço da doutrina do equilíbrio e manutenção da Contenda Eterna. Vive em uma câmara dentro da Montanha do Dragão, e ocasionalmente sobrevoa as terras ao seu redor. Daltalagar é um dragão gigantesco. Suas escamas índigo ostentam um brilho impress...",
-      "entityRefs": [],
-      "tags": [
         "criaturas_npcs",
-        "power_magic"
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -12442,9 +11953,9 @@
       "summary": "20 ATRIBUTOS Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses números dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com todos os RPGs lançados pela Daemon Editora. São oito Atributos, divididos entre Físicos e Ment...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -13011,7 +12522,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -13234,7 +12746,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -13276,8 +12789,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -13317,9 +12830,9 @@
       "summary": "Atributos Atributos são números que transportam para o jogo as características básicas de um Personagem. Esses nú- meros dizem como o Personagem é se comparado a outros Personagens, criaturas e até alguns objetos. Os Atributos apresentados aqui são compatíveis com ARKANUN, TREVAS, ANJOS, DEMÔNIOS e VAM- PIROS bem como com todos os RPGs lançados pela Daemon E...",
       "entityRefs": [],
       "tags": [
-        "atributos_pericias",
         "attribute_skill",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
@@ -13349,34 +12862,35 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-criao-de-personagens-8",
-      "name": "Cria÷‘o de Personagens",
+      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-camuflagem-per-45",
+      "name": "Camuflagem (PER)",
       "area": "criaturas_npcs",
-      "category": "creature_npc",
+      "category": "core_rule",
       "source": "modulo-basico-expandido-e-modificado",
       "sourceTitle": "Módulo Básico - Expandido e Modificado",
       "pages": [
         [
-          8,
-          13
+          45,
+          49
         ]
       ],
       "page": null,
-      "summary": "Cria÷‘o de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, poli- ciais, ag...",
+      "summary": "Camuflagem (PER) Com esta Perícia um Personagem é capaz de esconder-se ou esconder uma outra criatura ou objeto em ambi- entes naturais, como florestas e campos. A Camuflagem geralmente é usada em um Teste Resistido contra a PER ou a Perícia Escutar de um outro Personagem. Utilize esta situação sempre que ele estiver sendo procurado. Geralmente a Perícia Cam...",
       "entityRefs": [],
       "tags": [
-        "creature_npc",
-        "criaturas_npcs"
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
       ],
-      "confidence": 0.78,
+      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
       "sourceFamily": "rules_system",
       "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -13410,7 +12924,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -13454,8 +12969,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -13482,92 +12997,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-sistema-daemon-3",
-      "name": "Sistema Daemon",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
-      "pages": [
-        [
-          3,
-          4
-        ]
-      ],
-      "page": null,
-      "summary": "Sistema Daemon A grande maioria dos leitores mais antigos da DRAGÃO BRASIL já conhece o Sistema Daemon de longa da- ta, pois ele é o mais antigo sistema de RPG desenvolvido por brasileiros que ainda está em pleno vapor no mercado de jogos, com mais de 30 suplementos publicados e algumas dezenas de adaptações de filmes, revistas e livros publicadas em netbook...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-arkanun-103",
-      "name": "Arkanun",
-      "area": "criaturas_npcs",
-      "category": "ritual_spell",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
-      "pages": [
-        103
-      ],
-      "page": 103,
-      "summary": "Arkanun 1ç Circulo Entender Demônios O místico sente um \"arrepio\" na presença de um demônio, ou é capaz de sentir sua presença a ate 10m de raio. Caso o místico consiga olhar um demônio profundamente em seus olhos (mesmo que este esteja disfarçado), o místico será capaz de sentir que a \"algo errado\" com aquela pessoa. Criar Demônios O místico consegue conjur...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-fichas-de-npcs-e-personagens-19",
       "name": "Fichas de NPCs e Personagens",
       "area": "criaturas_npcs",
@@ -13585,7 +13014,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -13605,6 +13035,93 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-esteticamente-o-personagem-16",
+      "name": "esteticamente... o Personagem",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "pages": [
+        16
+      ],
+      "page": 16,
+      "summary": "esteticamente... o Personagem não vai ganhar os mesmos atributos e habilidades de uma criatura alvo transformada..) CHAKRA UTILIZADO: seu Nível de Personagem +1 ponto por turno ativado; ou seja, um Personagem de 3° Nível gasta 3 pontos +1 para cada turno quando estiver sob a transformação. [Kage Bushin no Jutsu] (Habilidade do Clone das Sombras) Categoria: N...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "naruto-daemon-2a-ed--naruto-daemon-2a-ed-katon-gouryuuka-no-jutsu-libertacao-69",
+      "name": "Katon: Gouryuuka no Jutsu (Libertação",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "naruto-daemon-2a-ed",
+      "sourceTitle": "Naruto-daemon-2ª-Ed",
+      "pages": [
+        [
+          69,
+          72
+        ]
+      ],
+      "page": null,
+      "summary": "Katon: Gouryuuka no Jutsu (Libertação do Fogo: Técnica do Grande Dragão de Fogo) Quem usa: Uchiha Sasuke Rank: - Chakra: 5pts Dano: 4d6 Distancia mínima: 6m do inimigo Descrição: Após fazer os selos, Sasuke expele pela boca um enorme dragão de fogo que queima tudo o que encontra pela frente. Katon: Housenka no Jutsu (Libertação do Fogo: Técnica do Fogo Místi...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -13639,49 +13156,6 @@
       "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "lore_world",
       "contentKindLabel": "História, mundo ou cenário",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "neokosmos-biblioteca-elfica--neokosmos-biblioteca-elfica-in-y-sua-i-188",
-      "name": "IN~Y:!:SUã'i?",
-      "area": "criaturas_npcs",
-      "category": "item_equipment",
-      "source": "neokosmos-biblioteca-elfica",
-      "sourceTitle": "Neokosmos-biblioteca-elfica",
-      "pages": [
-        [
-          188,
-          191
-        ]
-      ],
-      "page": null,
-      "summary": "IN~Y:!:SUã'i? T~Ml>L~;!;'i?S A primeira Ordem do Templo surgiu com os discípulos do grande mago Salomão, em Jerusalém, um milênio antes da vinda de Cristo. Desta Ordem de sacerdotes guerreiros surgiram as bases do que mais tarde se chamariam cavaleiros templários. TEMPLÁRIOS traz regras criar os caçadores de demônios mais temidos de todos os tempos, desde su...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "item_equipment"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -13803,8 +13277,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -14121,47 +13595,6 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "front_matter_or_index_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "o-corvo--o-corvo-criaao-de-personagens-10",
-      "name": "CRIAÀˇO DE PERSONAGENS",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "o-corvo",
-      "sourceTitle": "O Corvo",
-      "pages": [
-        10
-      ],
-      "page": 10,
-      "summary": "CRIAÀˇO DE PERSONAGENS Na maioria dos RPGs, os Jogadores são os únicos res- ponsáveis pela criação de seus Personagens. No Sistema Dae- mon isto também é permitido, mas recomendamos que os Per- sonagens sejam construídos apenas pelo Mestre ou com gran- de participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policia...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
         "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -14489,7 +13922,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -14560,6 +13994,52 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "santa-cruz-biblioteca-elfica--santa-cruz-biblioteca-elfica-indice-6-5",
+      "name": "ÍNDICE (46-55)",
+      "area": "criaturas_npcs",
+      "category": "combat",
+      "source": "santa-cruz-biblioteca-elfica",
+      "sourceTitle": "Santa-cruz-biblioteca-elfica",
+      "pages": [
+        [
+          46,
+          55
+        ]
+      ],
+      "page": null,
+      "summary": "45 naturais, ela geralmente não serve para monstros e criaturas demoníacas. Lidar com o Gado (0): O Personagem sabe controlar o gado, conduzir boiadas, criar cabras, etc. O teste desta perícia apenas se faz necessário em situações anormais, como conduzir o gado por terrenos acidentados, atravessando rios, durante um estouro, etc. Para possuir essa perícia fa...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.88,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "santa-cruz-biblioteca-elfica--santa-cruz-biblioteca-elfica-indice-6-10",
       "name": "ÍNDICE (96-105)",
       "area": "criaturas_npcs",
@@ -14577,8 +14057,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -14648,138 +14128,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "sistema-daemon-2-x--sistema-daemon-2-x-pagina-inicial-1-1",
-      "name": "Pagina inicial (1-10)",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "sistema-daemon-2-x",
-      "sourceTitle": "Sistema-Daemon-2-X",
-      "pages": [
-        [
-          1,
-          10
-        ]
-      ],
-      "page": null,
-      "summary": "1 2 Introdução Já há muito tempo eu tenho uma idéia. A idéia de que qualquer um de nós pode criar um cenário excelente de jogo. Quando o primeiro jogo de horror pessoal chegou ao Brasil, eu vi ali uma fantástico RPG. Infelizmente, a editora do lobo branco foi demasiadamente gananciosa, jogando dezenas de suplementos no mercado, e cada um de seus livros preza...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sistema-daemon-3-0--sistema-daemon-3-0-pagina-inicial-1-1",
-      "name": "Pagina inicial (1-10)",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "sistema-daemon-3-0",
-      "sourceTitle": "Sistema-Daemon-3-0",
-      "pages": [
-        [
-          1,
-          10
-        ]
-      ],
-      "page": null,
-      "summary": "1 2 Introdução Já há muito tempo eu tenho uma idéia. A idéia de que qualquer um de nós pode criar um cenário excelente de jogo. Quando o primeiro jogo de horror pessoal chegou ao Brasil, eu vi ali uma fantástico RPG. Infelizmente, a editora do lobo branco foi demasiadamente gananciosa, jogando dezenas de suplementos no mercado, e cada um de seus livros preza...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-alguts-livros-da-linha-daemon-4",
-      "name": "ALGUTS LIVROS dA LINHA DAEMON",
-      "area": "criaturas_npcs",
-      "category": "power_magic",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-      "pages": [
-        [
-          4,
-          8
-        ]
-      ],
-      "page": null,
-      "summary": "ALGUTS LIVROS dA LINHA DAEMON TREVAS «MóduLo Básico) Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno, usando os humanos como peças em seu jogo de xadrez celestial. Neste RPG, você está convidado a fazer parte dos mortais que sabem a verdade. Após quase dez anos desde sua primeira versão em F...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "power_magic"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-modulo-busco-if-36",
       "name": "MODULO BUSCO If",
       "area": "criaturas_npcs",
@@ -14794,7 +14142,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
@@ -14813,50 +14162,6 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sobrenatural--sobrenatural-rederpg-1",
-      "name": "REDERPG",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "sobrenatural",
-      "sourceTitle": "Sobrenatural",
-      "pages": [
-        [
-          1,
-          11
-        ]
-      ],
-      "page": null,
-      "summary": "1 REDERPG Adaptação: Sobrenatural Sobrenatural Adaptação para Daemon e Storytelling Sam: Quando eu disse para o meu pai que eu tinha medo do bicho-papão, ele me deu uma pistola 45. Dean: Bem, e o que ele deveria ter feito? Sam: Eu tinha ape­ nas nove anos. Ele deveria ter dito “não tenha medo do escuro”. Dean: Não tenha medo do escuro? Você está brincando! É...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -15071,49 +14376,6 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "spiritum--spiritum-introducao-4",
-      "name": "Introdução",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "spiritum",
-      "sourceTitle": "Spiritum",
-      "pages": [
-        4
-      ],
-      "page": 4,
-      "summary": "Introdução Spiritum é o primeiro RPG da linha Daemon que eu escre- vo tendo em mente Jogadores e Mestres experientes, portanto, se este é o primeiro livro de RPG que você colocou as mãos, pode devolvê-lo para a prateleira e escolher um livro mais simples como TREVAS ou ARKANUN. Às pessoas para as quais este livro foi escrito já devem conhecer a mecânica do u...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
         "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -15372,50 +14634,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "spiritum--spiritum-spiritum-114",
-      "name": "* SPIRITUM",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "spiritum",
-      "sourceTitle": "Spiritum",
-      "pages": [
-        114
-      ],
-      "page": 114,
-      "summary": "* SPIRITUM , O Reino 008 Mortos SPIRITUM: O REINO DOS MORTOS traz a explicação detalhada dos planos Espiri- tuais, Umbrais, Etéreos e Astrais; suas regras, suas criaturas, seus. anjos e demônios. Totalmente baseado no ocultismo, teosofia ec mitologias antigas, SPIRITUM traz regras para criação de Personagens Fantasmas (Os habitantes de Spiritum), Aparições (...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "tabela-de-fadiga-dos-jogadores-e-npc--docx-structured-source",
       "name": "Documento DOCX estruturado",
       "area": "criaturas_npcs",
@@ -15460,43 +14678,39 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "tagmar-daemon--tagmar-daemon-capitulo-12-78",
-      "name": "Capítulo 12",
+      "id": "tagmar-daemon--tagmar-daemon-animais-27",
+      "name": "Animais*",
       "area": "criaturas_npcs",
-      "category": "creature_npc",
+      "category": "core_rule",
       "source": "tagmar-daemon",
       "sourceTitle": "Tagmar Daemon",
       "pages": [
-        [
-          78,
-          85
-        ]
+        27
       ],
-      "page": null,
-      "summary": "Capítulo 12: Introdução à Ambientação O texto que se segue tem como objetivo servir de \"primeira porta\", ser como um arauto para você, leitor, nessa viagem por um mundo novo e diferente, um universo que irá respeitar leis diferentes das que você conhece em seu próprio mundo real. Por isso, leia as próximas páginas com atenção, e saiba desde já que isso não s...",
+      "page": 27,
+      "summary": "Animais* Este grupo de Perícias reflete o tratamento e conhecimento que um Personagem tem com relação a animais. Em mundos de Fantasia, esta Perícia pode ser usada apenas para animais e criaturas naturais, ela geralmente não serve para monstros, apenas com algumas exceções. Tratamento de Animais (Primeiros Socorros): O Personagem tem bons conhecimentos de ve...",
       "entityRefs": [],
       "tags": [
-        "creature_npc",
-        "criaturas_npcs"
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
       ],
-      "confidence": 0.78,
+      "confidence": 0.88,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
       "sourceFamily": "adaptation_pop",
       "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
       "editorialFlags": [
-        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -15562,7 +14776,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -15753,6 +14968,53 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "trevas-campanha-epica--trevas-campanha-epica-facilidade-lamia-229-6",
+      "name": "FACILIDADE, LAMIA (279-288)",
+      "area": "criaturas_npcs",
+      "category": "core_rule",
+      "source": "trevas-campanha-epica",
+      "sourceTitle": "Trevas - Campanha Épica",
+      "pages": [
+        [
+          279,
+          288
+        ]
+      ],
+      "page": null,
+      "summary": "- 273 - teste de CON Difícil. Caso tenha sucesso, o personagem não adquire a doença sobrenatural. Caso falhe, a criatura perderá 1 ponto de atributo físico por mês. Após o primeiro teste, o personagem pode ainda fazer testes de CON Difícil à cada mês subsequente para não perder um ponto de atributo. O teste ainda deve ser feito no mês seguinte. Conta-se que...",
+      "entityRefs": [],
+      "tags": [
+        "core_rule",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "ends_with_connector_possible_cut",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "trevas-campanha-epica--trevas-campanha-epica-introducao-5",
       "name": "INTRODUÇÃO",
       "area": "criaturas_npcs",
@@ -15770,7 +15032,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -16084,8 +15347,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -16103,51 +15366,6 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "um-sussurro-nas-trevas--um-sussurro-nas-trevas-criacao-de-personagens-5",
-      "name": "Criação de Personagens",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "um-sussurro-nas-trevas",
-      "sourceTitle": "Um Sussurro nas Trevas",
-      "pages": [
-        [
-          5,
-          10
-        ]
-      ],
-      "page": null,
-      "summary": "Criação de Personagens Na maioria dos RPGs, os Jogadores são os únicos responsáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Personagens sejam construídos apenas pelo Mestre ou com grande participação deste. Isso ajuda a conseguir um grupo lógico e coeso: jornalistas, universitários, policiais, agen...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "campaign_adventure",
-      "sourceFamilyLabel": "Campanhas e aventuras",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -16367,46 +15585,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "umbral-e-seus-vales--umbral-e-seus-vales-grupo-neodaemon-apresenta-1",
-      "name": "Grupo Neodaemon apresenta",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "umbral-e-seus-vales",
-      "sourceTitle": "Umbral e seus vales",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Grupo Neodaemon apresenta: Agradecimentos: • Ao melhor grupo de rpg que existe. • Aos nossos pais. • Ao Leandro Marlon (ele sabe porque...) • Ao Shaftiel pela paciência... • As nossas namoradas pela compreensão e dedicação constante. Introduzindo... Não precisa usar sempre o Inferno para aterrorizar seus jogadores, agora uma nova saída, O Umbral. Desejamos c...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "setting_lore",
-      "sourceFamilyLabel": "Cenários, lore e organizações",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "universo-daemon-01--universo-daemon-01-e-md-5",
       "name": "E md",
       "area": "criaturas_npcs",
@@ -16424,7 +15602,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -16446,6 +15625,50 @@
         "raw_source_part_requires_review",
         "source_part_without_specific_subject",
         "starts_mid_sentence_possible_left_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "universo-daemon-01--universo-daemon-01-monstros-de-pandora-11",
+      "name": "Monstros de Pandora",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "universo-daemon-01",
+      "sourceTitle": "Universo Daemon #01",
+      "pages": [
+        [
+          11,
+          14
+        ]
+      ],
+      "page": null,
+      "summary": "Monstros de Pandora Diga ‘a F AN Banshee (Ikran) Ea ico a E tu ar N CON 24-30, FR 20-30, DEX12, AGI 12-20, INT 12-24, mA WILL 12-24, CAR 2-8, PER 12-20 E 4 hy eZ #Ataques [1] Pvs 26-36 e, Ê Mordida x2 40/0 dano 1d6+3 “ih r Voo 20m/s Res ie a a São animais alados nativos de Pandora. Eles |: representam um rito de passagem na vida dos a Ma a! aspirantes a guer...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -16616,47 +15839,6 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "vikings-biblioteca-elfica--vikings-biblioteca-elfica-raro-grbao-126",
-      "name": "RARO = GRBAO",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "vikings-biblioteca-elfica",
-      "sourceTitle": "Vikings-biblioteca-elfica",
-      "pages": [
-        [
-          126,
-          133
-        ]
-      ],
-      "page": null,
-      "summary": "RARO = GRBAO RS PIN PLANA BEN TIRA XANA NRXTINTI TXANNAK SA UNID DSL UM NIVA UNIDAS A WUXIA MIDI so BRR MIND AR AMP BRR PIN RAM BRA PINDA TRAP as NI UM DA SA WXIVEI enterro, sem frequentar com ardor as cerimônias. Esses ritos são muito importantes na cultura norueguesa, fazendo parte dos desejos e anseios das pessoas. O SOBRENATURAL A Noruega tem uma regra b...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "myth_history",
-      "sourceFamilyLabel": "Mitologia, história e religião",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
         "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
@@ -17126,97 +16308,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "ciganos--ciganos-alguns-dialetos-romanis-3",
-      "name": "ALGUNS DIALETOS ROMANIS",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "ciganos",
-      "sourceTitle": "ciganos",
-      "pages": [
-        [
-          3,
-          5
-        ]
-      ],
-      "page": null,
-      "summary": "3 ALGUNS DIALETOS ROMANIS A língua dos ciganos é conhecida como romani, bastante pró- xima dos idiomas indo-arianos. Tanto o sistema fonológico como a morfologia podem ter sua evolução facilmente reconstruída a partir do sânscrito. O sistema numeral também reflete parcialmen- te os respectivos vocabulários sânscritos. Com as migrações, os ciganos levaram sua...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "desentsu--desentsu-desentsu-senshi-1-1",
-      "name": "Desentsu Senshi (1-10)",
-      "area": "criaturas_npcs",
-      "category": "creature_npc",
-      "source": "desentsu",
-      "sourceTitle": "desentsu",
-      "pages": [
-        [
-          1,
-          10
-        ]
-      ],
-      "page": null,
-      "summary": "Desentsu Senshi Desentsu Senshi - Guerreiros do Oriente Autor: Victor”Ramuel”Martins Desentsu Senshi Introdução A editora Daemon lançou o livro Anime RPG (na época que escrevi esse netbook ele acaba de ser lançado e por motivos pessoas não pude lança-lo,sendo assim achei que deveria lançar agora q voltei a jogar Daemon), lá podem ser encontradas regras para...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "criaturas_npcs"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "dragao--dragao-eduardo-ed-cardoso-1",
       "name": "Eduardo “Ed” Cardoso",
       "area": "criaturas_npcs",
@@ -17322,7 +16413,8 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
@@ -17426,6 +16518,48 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "guia-pericias--guia-pericias-camuflagem-per-8",
+      "name": "CAMUFLAGEM (PER)",
+      "area": "criaturas_npcs",
+      "category": "combat",
+      "source": "guia-pericias",
+      "sourceTitle": "guia pericias",
+      "pages": [
+        [
+          8,
+          10
+        ]
+      ],
+      "page": null,
+      "summary": "CAMUFLAGEM (PER) Com esta Perícia um Personagem é capaz de esconder-se ou esconder uma outra criatura ou objeto em ambientes naturais, como florestas e campos. A Camuflagem geralmente é usada em um Teste Resistido contra a PER ou a Perícia Escutar de um outro Personagem. Utilize esta situação sempre que ele estiver sendo procurado. Geralmente a Perícia Camuf...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -17674,8 +16808,8 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
-        "criaturas_npcs"
+        "criaturas_npcs",
+        "regras_base"
       ],
       "confidence": 0.8,
       "extractionMethod": "book-part-area-pass-1",
@@ -17908,55 +17042,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "lobisomens--lobisomens-lobisomens-1",
-      "name": "Lobisomens",
-      "area": "criaturas_npcs",
-      "category": "race_lineage",
-      "source": "lobisomens",
-      "sourceTitle": "lobisomens",
-      "pages": [
-        [
-          1,
-          2
-        ]
-      ],
-      "page": null,
-      "summary": "Lobisomens Para uso em Arkanun/Trevas Publicado originalmente na revista DRAGÃO BRASIL n. 65 por J.M.Trevisan e Marcelo Del Debbio Depois de muitos pedidos e promessas, finalmen- te publicamos regras para uso de Personagens Lobi- somens no universo de Arkanun/Trevas. Aqui você vai encontrar uma adaptação do lobi- somem das lendas e dos filmes (com direito a...",
-      "entityRefs": [],
-      "tags": [
-        "criaturas_npcs",
-        "race_lineage"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "ends_with_connector_possible_cut",
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "metropolis--metropolis-construindo-personagens-7",
       "name": "CONSTRUÍNDO PERSONAGENS",
       "area": "criaturas_npcs",
@@ -18155,6 +17240,48 @@
       "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "uncertain_fragment",
       "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "ray--ray-fenris-8",
+      "name": "Fenris",
+      "area": "criaturas_npcs",
+      "category": "attribute_skill",
+      "source": "ray",
+      "sourceTitle": "ray",
+      "pages": [
+        8
+      ],
+      "page": 8,
+      "summary": "Fenris Custo: 2 pontos Idade Inicial: 6+1d6 Atributos: PER e FR +3; CAR -5 Vantagens: Garras e Chifres (é necessário comprar perícias adequadas para atacar com estes artifícios). Fenris são criaturas parecidas com grandes lobos, do tama- nho aproximado de um leão (na verdade são um pouco maio- res). Eles têm dentes semelhantes aos de um tubarão (2d6 de dano)...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "criaturas_npcs",
+        "regras_base"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"

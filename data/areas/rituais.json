@@ -4,7 +4,7 @@
   "name": "Rituais",
   "readySourceCount": 275,
   "entityCount": 28,
-  "sourcePartCount": 171,
+  "sourcePartCount": 162,
   "subgroups": [],
   "filters": {
     "sources": [
@@ -26,7 +26,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 12
+        "count": 17
       },
       {
         "id": "daemon-medieval",
@@ -66,7 +66,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 21
+        "count": 20
       },
       {
         "id": "guia-de-armas-medievais-3a-edicao",
@@ -106,7 +106,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 11
+        "count": 10
       },
       {
         "id": "trevas-3-0",
@@ -186,7 +186,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 2
       },
       {
         "id": "cabala-2",
@@ -249,36 +249,6 @@
         "count": 1
       },
       {
-        "id": "daemon-revisado-playtest-alfa-3-6",
-        "title": "Daemon Revisado playtest alfa 3.6",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "daemon-tormenta",
-        "title": "Daemon Tormenta",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "deform",
-        "title": "deform",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
         "id": "dem-nio-o-pre-o-do-poder",
         "title": "Dem nio - O Pre o do Poder",
         "sourceKind": "supplement",
@@ -291,26 +261,6 @@
       {
         "id": "demon-cthulhu",
         "title": "Demon Cthulhu",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "dragoes-reis-caidos-sistema-daemon",
-        "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "rules_system",
-        "sourceFamilyLabel": "Regras e sistema",
-        "count": 1
-      },
-      {
-        "id": "energia-mistica",
-        "title": "Energia Mistica",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
@@ -336,7 +286,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "gigantes-mitologicos",
@@ -356,7 +306,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 10
+        "count": 9
       },
       {
         "id": "grimorio101",
@@ -366,7 +316,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "guiademagias",
@@ -406,7 +356,7 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 2
+        "count": 1
       },
       {
         "id": "magia-negra",
@@ -436,7 +386,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 2
+        "count": 3
       },
       {
         "id": "mitraismo",
@@ -456,7 +406,17 @@
         "officialSource": false,
         "sourceFamily": "rules_system",
         "sourceFamilyLabel": "Regras e sistema",
-        "count": 8
+        "count": 4
+      },
+      {
+        "id": "naruto-daemon-2a-ed",
+        "title": "Naruto-daemon-2ª-Ed",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "adaptation_pop",
+        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+        "count": 1
       },
       {
         "id": "naruto-rpg-daemon-2a-edicao",
@@ -526,7 +486,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 12
+        "count": 13
       },
       {
         "id": "santa-cruz-biblioteca-elfica",
@@ -536,7 +496,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 2
+        "count": 1
       },
       {
         "id": "secundarios",
@@ -546,7 +506,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 4
       },
       {
         "id": "tagmar-daemon",
@@ -556,17 +516,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 5
-      },
-      {
-        "id": "tagmar-daemon-versao-completa",
-        "title": "Tagmar-Daemon-Versao-Completa",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "adaptation_pop",
-        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 4
       },
       {
         "id": "templarios-biblioteca-elfica",
@@ -616,29 +566,25 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 4
+        "count": 3
       }
     ],
     "categories": [
       {
         "id": "attribute_skill",
-        "count": 16
-      },
-      {
-        "id": "character_option",
-        "count": 2
-      },
-      {
-        "id": "combat",
-        "count": 14
-      },
-      {
-        "id": "core_rule",
         "count": 23
       },
       {
+        "id": "combat",
+        "count": 17
+      },
+      {
+        "id": "core_rule",
+        "count": 25
+      },
+      {
         "id": "creature_npc",
-        "count": 29
+        "count": 26
       },
       {
         "id": "item_equipment",
@@ -650,7 +596,7 @@
       },
       {
         "id": "power_magic",
-        "count": 57
+        "count": 45
       },
       {
         "id": "race_lineage",
@@ -658,7 +604,7 @@
       },
       {
         "id": "ritual_spell",
-        "count": 49
+        "count": 45
       },
       {
         "id": "setting_lore",
@@ -668,7 +614,7 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 4
+        "count": 5
       },
       {
         "id": "creature_npc",
@@ -676,19 +622,19 @@
       },
       {
         "id": "front_matter",
-        "count": 2
+        "count": 1
       },
       {
         "id": "item_equipment",
-        "count": 7
+        "count": 9
       },
       {
         "id": "lore_world",
-        "count": 17
+        "count": 14
       },
       {
         "id": "ocr_noise",
-        "count": 13
+        "count": 12
       },
       {
         "id": "organization_faction",
@@ -696,34 +642,34 @@
       },
       {
         "id": "power_spell",
-        "count": 60
+        "count": 57
       },
       {
         "id": "raw_chapter_block",
-        "count": 20
+        "count": 17
       },
       {
         "id": "uncertain_fragment",
-        "count": 56
+        "count": 55
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 79
+        "count": 82
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 120
+        "count": 108
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 12
+        "count": 10
       },
       {
         "id": "campaign_adventure",
@@ -743,7 +689,7 @@
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 79
+        "count": 82
       },
       {
         "id": "powers_magic",
@@ -753,18 +699,18 @@
       {
         "id": "rules_system",
         "label": "Regras e sistema",
-        "count": 11
+        "count": 5
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 39
+        "count": 35
       }
     ],
     "areas": [
       {
         "id": "rituais",
-        "count": 199
+        "count": 190
       }
     ]
   },
@@ -2375,6 +2321,52 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "arkanun--arkanun-lfteris-s-aff-ik-177",
+      "name": "&lfteris S'\\_aff ik",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          177,
+          178
+        ]
+      ],
+      "page": null,
+      "summary": "&lfteris S'\\_aff ik Diácono Superior CON 15, FR 15, DEX 12, AGI 13, INT 19, WILL 21, CAR 11, PER 19 Necromante (Tenebras) do 18° nível #Ataques [2], IP 6 (Rituais), PVs 33+18 Possui 3D de proteção contra Magias Perícias Principais: Necromancia 70%, Cabala 60%, Astrologia 50%, Herbalismo 60%, Heráldica 40%, Lín­ guas (Italiano 60%,Inglês 50%, Francês 40%, Lat...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "arkanun--arkanun-cesco-a-de-cfenefwas-42",
       "name": ".CEsco(a de Cfenefwas",
       "area": "rituais",
@@ -2453,6 +2445,49 @@
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
         "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-ce-cna-cinov-203",
+      "name": "CE(cna Ćinov",
+      "area": "rituais",
+      "category": "combat",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          203,
+          204
+        ]
+      ],
+      "page": null,
+      "summary": "CE(cna Ćinov Diácono Superior CON 12, FR 12, DEX 11, AGI 15, INT 13, WILL 15, CAR 16, PER 20 Grã Mestre da Rosa dos Ventos Feiticeira do 14º nível #Ataques [1], IP 4 (Rituais), PVs 26+14 Possui 2D de proteção contra Magias de Fogo Perícias Principais: Cabala 70%, Astrologia 80%, Herbalismo 80%, Heráldica 70%, Línguas (Alemão 60%, Dinamarquês 50%, Élfico40%,...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
         "raw_source_part_requires_review",
         "unbalanced_parentheses"
       ],
@@ -2594,6 +2629,97 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "arkanun--arkanun-sean-u-ffan-165",
+      "name": "Sean ü}ffan",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          165,
+          166
+        ]
+      ],
+      "page": null,
+      "summary": "Sean ü}ffan Diácono Superior de Edinburgo CON 11, FR 11, DEX 12, AGI 10, INT 23, WILL 19, CAR 14, PER 15 Mago do 15° nível #Ataques [1], IP 5 (Rituais), PVs 26+30 Possui 3D de proteção contra Magias de fogo Perídas Principais: Astrologia 60%, Herbalismo 60%, História 50%, Espíritos 60%, Liderança 70%, Lín­ guas (Inglês 60%, Francês 60%, Élfico 40% ), Lábia 6...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "creature_npc",
+      "contentKindLabel": "Criatura, inimigo ou NPC",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-xrs-ysfd-de-171",
+      "name": "Xrs Ysfd[de",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          171,
+          172
+        ]
+      ],
+      "page": null,
+      "summary": "Xrs Ysfd[de Diácono Superior da Ordem Luft CON 15, FR 11, DEX 9, AGI 11, lNT 19, WILL 21, CAR 15, PER 20 Arquimago do 21 º nível #Ataques [1], IP 5 (Rituais), PVs 34+21 Possui 3D de proteção contra Magias de Frio Perícias Principais: Astrologia 70%, Herbalismo 55%, História 50%, Espíritos 55%, Liderança 70%, Lín­ guas ( Inglês 60%, Élfico 40%), Cajado 60/60,...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "arkanun--arkanun-humc-nos-97",
       "name": "humc\\nos",
       "area": "rituais",
@@ -2632,6 +2758,52 @@
         "encoding_or_ocr_artifact",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-ama-tas-189",
+      "name": "[ama tas",
+      "area": "rituais",
+      "category": "combat",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          189,
+          190
+        ]
+      ],
+      "page": null,
+      "summary": "[ama tas Diácono Superior CON 15 (35), FR 15 (40), DEX 12, AGI 15 (25), INT 21, WILL 25, CAR 10, PER 20 Híbrido Demônio-humano #Ataques [2], IP 4 (Rituais/ pele), PVs 45+25 Espada Longa (x2) 90/70 dano 1d10+13 Possui 2D de proteção contra Magias do fogo Perícias Principais: Arkanun 70%, Cabala 60%, Matemática 60%, Astrologia 50%, Herbalismo 40%, He­ ráldica...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_brackets"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -2994,6 +3166,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -3156,7 +3329,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -3282,7 +3455,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -3327,7 +3500,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -3351,91 +3524,6 @@
         "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-revisado-playtest-alfa-3-6--daemon-revisado-playtest-alfa-3-6-culturais-car-32",
-      "name": "Culturais (CAR)",
-      "area": "rituais",
-      "category": "character_option",
-      "source": "daemon-revisado-playtest-alfa-3-6",
-      "sourceTitle": "Daemon Revisado playtest alfa 3.6",
-      "pages": [
-        [
-          32,
-          34
-        ]
-      ],
-      "page": null,
-      "summary": "Culturais (CAR) Artesanato (DES) Empatia Diplomacia Intimidação Lábia Sedução Música (INT) Ocultas (INT) Teoria da magia Rituais Divinação Ocultismo Sociedades Secretas Criaturas sobrenaturais Conhecimentos alienígenas Planos Astrais Paramilitares (PER) Armadilhas Agricultura (INT) Arrombamento (DES) Criminologia (INT) Escapismo (AGI) Furtividade (AGI) Furto...",
-      "entityRefs": [],
-      "tags": [
-        "character_option",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "creature_npc",
-      "contentKindLabel": "Criatura, inimigo ou NPC",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-12",
-      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (111-120)",
-      "area": "rituais",
-      "category": "ritual_spell",
-      "source": "daemon-tormenta",
-      "sourceTitle": "Daemon Tormenta",
-      "pages": [
-        [
-          111,
-          120
-        ]
-      ],
-      "page": null,
-      "summary": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES consomem pouco tempo, como tarefas básicas de agricultura ou coisas como reconhecer o brasão de uma família são testes Fáceis; tarefas que exigem um tempo médio ou rápido como prever o clima ou lembrar-se de uma teoria científica são testes Normais, já fazer tarefas complicadas como sab...",
-      "entityRefs": [],
-      "tags": [
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -3898,51 +3986,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-62",
-      "name": "Dragões: Reis Caídos",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "dragoes-reis-caidos-sistema-daemon",
-      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
-      "pages": [
-        [
-          62,
-          63
-        ]
-      ],
-      "page": null,
-      "summary": "Dragões: Reis Caídos Dragões Notáveis Apalala, o Traidor Apalala, dragão com o corpo de forma serpentina e quatro patas, é um dos mais poderosos e conhecidos entre dragões dourados que já existiu, sendo um dos membros do grupo que realizou ritual para transmutarem seus corpos antes do Grande Giro. Por desobedecer algumas regras, estabelecidas antes do Ritual...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "dragao-brasil-especial-06-trevas--dragao-brasil-especial-06-trevas-rituais-46",
       "name": "RITUAIS",
       "area": "rituais",
@@ -3983,47 +4026,6 @@
         "raw_source_part_requires_review",
         "source_part_without_specific_subject",
         "starts_mid_sentence_possible_left_cut"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "energia-mistica--energia-mistica-forum-da-daemon-13",
-      "name": "Forum da Daemon;",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "energia-mistica",
-      "sourceTitle": "Energia Mistica",
-      "pages": [
-        13
-      ],
-      "page": 13,
-      "summary": "Forum da Daemon; Trevas 3.5; Grimorio; Anjos; Demônios; Spiritum; Google; E diversos livros de espiritismo que nem me lembro o nome. Bibliográfia 16 Energia Místicas Internas",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -4134,7 +4136,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.8,
@@ -4176,6 +4178,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -4292,52 +4295,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "grimorio--grimorio-grimorio-5",
-      "name": "Grimório",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "pages": [
-        [
-          5,
-          8
-        ]
-      ],
-      "page": null,
-      "summary": "Grimório Criação: Marcelo Del Debbio Desenvolvimento: Marcelo Del Debbio, Norson Botrel ' Revisão: Fabrício “GiZmo” nl | Capa: Evandro Gregório Arte: Joe Prado, Yes Cabrita, Cuistiano Rodrigo, Alexandre Xavier, Alex Sunders. Diagramação: Daemon Editora Fotolitos: Daemon Editora e Paper Express Impressão: Quebecor World - À Luciana Bacci, por me ajudar com os...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "front_matter",
-      "contentKindLabel": "Créditos, índice ou metadado",
-      "editorialFlags": [
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "front_matter_or_index_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "grimorio--grimorio-teste-de-resistencia-nenhum-79",
       "name": "Teste de Resistência: nenhum",
       "area": "rituais",
@@ -4396,6 +4353,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -4749,6 +4707,46 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "grimorio--grimorio-guia-de-itens-magicos-173",
+      "name": "Guia de Itens Mágicos",
+      "area": "rituais",
+      "category": "creature_npc",
+      "source": "grimorio",
+      "sourceTitle": "Grimorio",
+      "pages": [
+        173
+      ],
+      "page": 173,
+      "summary": "Guia de Itens Mágicos O aguardado livro sobre itens mágicos, artefatos e relíquias finalmente saiul Este Guia traz para você cerca de 1.000 novos itens, entre anéis, poções, óleos, elixires, varinhas, cajados, varas, gemas, pedras, amuletos, correntes, braceletes, bolsas, oupas, botas, capas, armaduras, escudos, espadas, machados, Ss. lanças e uma infinidade...",
+      "entityRefs": [],
+      "tags": [
+        "creature_npc",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "grimorio--grimorio-anjos-a-cidade-de-prata-174",
       "name": "Anjos: A Cidade de Prata",
       "area": "rituais",
@@ -4783,44 +4781,6 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "grimorio--grimorio-trevas-175",
-      "name": "TREVAS",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "pages": [
-        175
-      ],
-      "page": 175,
-      "summary": "TREVAS Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno, usando os humanos como peças em seu jogo de xadrez celestial, Neste RPG, você está convidado a fazer parte dos mortais que sabem a verdade. Após quase dez anos desde sua primcira versão em Fanzine, a Daemon Editora tem o prazer em anunc...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -4993,51 +4953,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "grimorio101--grimorio101-grimorio-1-1",
-      "name": "Grimório (1-10)",
-      "area": "rituais",
-      "category": "creature_npc",
-      "source": "grimorio101",
-      "sourceTitle": "Grimorio101",
-      "pages": [
-        [
-          1,
-          10
-        ]
-      ],
-      "page": null,
-      "summary": "1 Grimório de Arton Versão 1.01 2 Saudações Este é um grande projeto iniciado pela Daemon Editora, com o objetivo de reunir todas as Magias e Rituais conhecidos, criados ou pesquisados pelos Mestres e Jogadores de TOR- MENTA, como um grande Grimório Virtual. A origem do Grimório Virtual ocorreu devido a um erro deste que vos escreve. Quando estávamos prepara...",
-      "entityRefs": [],
-      "tags": [
-        "creature_npc",
-        "rituais"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "grimorio101--grimorio101-grimorio-1-2",
       "name": "Grimório (11-20)",
       "area": "rituais",
@@ -5145,7 +5060,6 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
         "rituais"
       ],
       "confidence": 0.76,
@@ -5214,52 +5128,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-magia-13",
-      "name": "Magia",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        [
-          13,
-          14
-        ]
-      ],
-      "page": null,
-      "summary": "Magia Outro ponto interessante deconversao deste Iivro para outros sistemas eshl no formato das regras de magia. A Magin no Sistema Arkanun/Tl'evas e haseada na verdadeira Cabala, mae de todos as sistemas de rituais ja desenvolvidos. Par esta maneira, torna-se extremamente simples converter as Rituais de Arkanun/Trevas para qual- quer outro sistema. De acord...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "guia-de-itens-magicos--guia-de-itens-magicos-objetos-inteligentes-187",
       "name": "Objetos Inteligentes",
       "area": "rituais",
@@ -5288,6 +5156,50 @@
       "sourceFamilyLabel": "Oficiais / linha principal",
       "contentKind": "adventure_scene",
       "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "guia-de-itens-magicos--guia-de-itens-magicos-reliquias-de-zuppani-226",
+      "name": "Reliquias de Zuppani",
+      "area": "rituais",
+      "category": "item_equipment",
+      "source": "guia-de-itens-magicos",
+      "sourceTitle": "Guia de Itens Mágicos",
+      "pages": [
+        [
+          226,
+          227
+        ]
+      ],
+      "page": null,
+      "summary": "Reliquias de Zuppani Estas armas foram criadas por 4 antigos e poderosos Magosda Casa de Chronos, para urn grupo de 20 Aventurei- ros prontos para enfrentar 0 maior dos desafios: descer ate 0 selima Circulo do Inferno, destruir todos as Demonios do Castelo de Chax e resgatar urn Contra to Magico. Ekllik, 0 mais jovem dos Magos, cricll 8 lam;:as para as poder...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -5421,6 +5333,47 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "guia-de-itens-magicos--guia-de-itens-magicos-espada-inteligente-113",
+      "name": "Espada Inteligente",
+      "area": "rituais",
+      "category": "item_equipment",
+      "source": "guia-de-itens-magicos",
+      "sourceTitle": "Guia de Itens Mágicos",
+      "pages": [
+        113
+      ],
+      "page": 113,
+      "summary": "Espada Inteligente Itens MagiC05 lnteligentes sao extremamente raros, e devem seT colocados em uma Campanha somente com au- toriza~ao do Mestre, que deve supervisionar todo 0 processo de criac;ao do item. Armas inteligentes sao fabricadas peios alquimistas e artifices atrav€s de complexos Rituais e Magias de constru- c;ao, bern como Rituais de captura e apri...",
+      "entityRefs": [],
+      "tags": [
+        "item_equipment",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -5633,48 +5586,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-tarot-246",
-      "name": "Tarot",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        246
-      ],
-      "page": 246,
-      "summary": "Tarot Nao se sa be exatamente quando 0 Tarot apareceu pela primeira vez na historia, mas esta poderosa ferra- menta tern sido utilizada por Magos e feiticeiras em todo 0 munda por seculos, e esta intimamente ligado a Magia e aos Rituais no universo de Arkanun/Trevas, pais descende diretamente da Arvore da Cabala, fonte de todo o sistema de Magia deste RPG. A...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "guia-de-itens-magicos--guia-de-itens-magicos-the-book-of-eibon-280",
       "name": "The Book of Eibon",
       "area": "rituais",
@@ -5776,6 +5687,7 @@
       "entityRefs": [],
       "tags": [
         "attribute_skill",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -5787,46 +5699,6 @@
       "sourceFamilyLabel": "Regras e sistema",
       "contentKind": "item_equipment",
       "contentKindLabel": "Item, equipamento ou material",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-entwan-e-novo-entwan-10",
-      "name": "Entwan e Novo Entwan",
-      "area": "rituais",
-      "category": "ritual_spell",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "sourceTitle": "Luz e Sombra RPG - Livro de Regras (Português do Brasil)(BR)",
-      "pages": [
-        10
-      ],
-      "page": 10,
-      "summary": "Entwan e Novo Entwan Entwan e Novo Entwan Partindo do sudoeste do continente, defrontamo-nos com Entwan, reino próspero com atividade agrícola e comercial. A capital também tem o nome de Entwan, e é uma cidade modelo. Há trinta anos (contando a partir de 1805, ano atual) Dulkar, primo distante do Rei Badhellor IV, foi exilado do reino após tentar tomar o pod...",
-      "entityRefs": [],
-      "tags": [
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -6133,6 +6005,50 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "metropolis-2--metropolis-2-capitulo-7-criaturas-87",
+      "name": "Capítulo 7 - Criaturas",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "metropolis-2",
+      "sourceTitle": "Metropolis (2)",
+      "pages": [
+        87
+      ],
+      "page": 87,
+      "summary": "Capítulo 7 - Criaturas 87 Mordida 4d6 +19 Cauda 4d6 +19 Perícias: Armas Brancas (Adaga 70/60, Espada 80/80, Lança 40/70), Briga 100%, Ciências (História 100%), Conhecimentos Proibidos (Alquimia 70%, Anjos 70%, Edhen 40%, Metrópolis 90%, Rituais 100%), Escutar 100%, Esquiva 70%, Furtividade 130%, Manipulação (Empatia 30%, Lábia 90%, Liderança 70%, Tortura 80%...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "mitraismo--mitraismo-religioes-1",
       "name": "Religiões",
       "area": "rituais",
@@ -6177,96 +6093,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-caminho-animais-97",
-      "name": "Caminho Animais",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
-      "pages": [
-        [
-          97,
-          98
-        ]
-      ],
-      "page": null,
-      "summary": "Caminho Animais 1ç Circulo Entender Animais Deixa a pessoa mais susceptível aos animais (afasta um pouco o medo deles). Permite ao místico sentir o es- tado de espírito de um animal qualquer (se está cansado, com fome, alegre, triste). O místico consegue obter uma imagem mental de um animal se segurar um pedaço dele (uma pata, um pelo, uma pena). O místico e...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-nimais-metamagia-80",
-      "name": "nimais + Metamagia.",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
-      "pages": [
-        [
-          80,
-          82
-        ]
-      ],
-      "page": null,
-      "summary": "nimais + Metamagia. Humanos: Este Caminho lida diretamente com seres Humanos. Encantamentos, mutações e leitura de men- tes também entram nos reinos deste Caminho. Espíritos: Este Caminho lida com espíritos, fantasmas, aparições, mortos-vivos, o reino dos mortos e alguns planos de existência próximos. Arkanun: Lida com criaturas do plano de Ark-a-nun e dos o...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-caminho-das-plantas-95",
       "name": "Caminho das Plantas",
       "area": "rituais",
@@ -6281,6 +6107,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6322,6 +6149,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6361,6 +6189,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.84,
@@ -6387,45 +6216,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-4c-circulo-102",
-      "name": "4ç Circulo",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
-      "pages": [
-        102
-      ],
-      "page": 102,
-      "summary": "4ç Circulo Entender Espíritos Mediunidade. Perguntas mais complexas, com qualquer tipo de resposta, podem ser feitas a um espírito de uma pessoa falecida a ate uma estação e um dia (ainda permanecem 3 perguntas). O místico pode encher o cami- nho de um espírito no mundo dos mortos, e seguir o espírito por ele. Permite ao místico saber as impressões espiri- t...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-entender-demonios-104",
       "name": "Entender Demônios",
       "area": "rituais",
@@ -6440,6 +6230,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6467,20 +6258,21 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-4c-circulo-106",
-      "name": "4ç Circulo",
+      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-construcao-de-personagens-4",
+      "name": "Construção de Personagens.",
       "area": "rituais",
-      "category": "power_magic",
-      "source": "modulo-basico-expandido-e-modificado",
-      "sourceTitle": "Módulo Básico - Expandido e Modificado",
+      "category": "core_rule",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
       "pages": [
-        106
+        4
       ],
-      "page": 106,
-      "summary": "4ç Circulo Entender Metamagia O místico detecta naturalmente a magia em ate 50m de raio. O místico pode ficar completamente invisível a métodos místicos de detecção. Consegue rastrear efeitos mágicos ate sua origem. O místico carrega objetos com pontos de magia seus, pelo espaço de tempo de ate 24 horas. Entender metamagia neste focus é a base para a cria- ç...",
+      "page": 4,
+      "summary": "Construção de Personagens. Todos os Personagens em NARUTO RPG 2ª Edição utilizam TODAS as regras de Criação de Personagens de ANIME RPG (isso mesmo, pode chorar!), com a exceção de que todos os Ninjas (Personagens Jogadores) possuem um Atributo Chamado Chakra (a \"energia espiritual\" dos Ninjas e equivalente a Cosmo em CDZ, Ki em DB e Poder Jurai em TM) e pod...",
       "entityRefs": [],
       "tags": [
-        "power_magic",
+        "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6488,52 +6280,54 @@
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
       "editorialFlags": [
-        "raw_source_part_requires_review"
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review"
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
       "qualityStatus": "quarentena"
     },
     {
-      "id": "naruto-rpg-daemon-2a-edicao--naruto-rpg-daemon-2a-edicao-chakra-a-energia-dos-ninjas-9",
-      "name": "Chakra, a Energia dos Ninjas",
+      "id": "naruto-daemon-2a-ed--naruto-daemon-2a-ed-distancia-minima-10m-do-inimigo-62",
+      "name": "Distancia mínima: 10m do inimigo",
       "area": "rituais",
-      "category": "ritual_spell",
-      "source": "naruto-rpg-daemon-2a-edicao",
-      "sourceTitle": "Naruto RPG Daemon - 2ª Edição",
+      "category": "core_rule",
+      "source": "naruto-daemon-2a-ed",
+      "sourceTitle": "Naruto-daemon-2ª-Ed",
       "pages": [
         [
-          9,
-          10
+          62,
+          64
         ]
       ],
       "page": null,
-      "summary": "Chakra, a Energia dos Ninjas Em NARUTO RPG (e também na \"Mitologia Ninja\") todas as pessoas possuem o que chamamos de Chakra, que é dividida em duas partes: a energia do corpo pertencente em cada célula do seu organismo e a energia espiritual, do espírito, que só pode ser adquirida mediante a treinamento. O Chakra é usado unicamente pelos Ninjas em Naruto pa...",
+      "summary": "Distancia mínima: 10m do inimigo Descrição: Criando uma armadura espiritual o ninja fica envolvido por ela e não sofre danos por qualquer forma de ataque. A armadura espiritual adquire poderes formidáveis com o passar do tempo. Magen • Kyouten Chiten (Ilusão Demoníaca • Mudança do Espelho do Céu e da Terra) Quem usa: Uchiha Itachi Rank: B Chakra: 4pts Dano:...",
       "entityRefs": [],
       "tags": [
-        "rituais",
-        "ritual_spell"
+        "core_rule",
+        "regras_base",
+        "rituais"
       ],
-      "confidence": 0.78,
+      "confidence": 0.76,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
       "sourceFamily": "adaptation_pop",
       "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "lore_world",
-      "contentKindLabel": "História, mundo ou cenário",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -6653,7 +6447,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6854,7 +6648,7 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -6922,51 +6716,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "santa-cruz-biblioteca-elfica--santa-cruz-biblioteca-elfica-indice-6-7",
-      "name": "ÍNDICE (66-75)",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "santa-cruz-biblioteca-elfica",
-      "sourceTitle": "Santa-cruz-biblioteca-elfica",
-      "pages": [
-        [
-          66,
-          75
-        ]
-      ],
-      "page": null,
-      "summary": "65 Formas e Caminhos A Magia no Sistema Daemon está dividida em Formas e Caminhos. Existem três Formas de Magia: Entender, Criar e Controlar. As formas dizem respeito ao COMO você faz a magia ou a intenção do Mago quando está criando um ritual. Os principais Caminhos da Magia são os seis Caminhos Elementáis: Fogo, Terra, Água, Ar, Luz e Trevas. Além destes,...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "raw_chapter_block",
-      "contentKindLabel": "Capítulo/página bruto",
-      "editorialFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "generic_chapter_or_page_block",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "santa-cruz-biblioteca-elfica--santa-cruz-biblioteca-elfica-indice-6-8",
       "name": "ÍNDICE (76-85)",
       "area": "rituais",
@@ -7012,23 +6761,24 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "sistema-daemon-3-0--sistema-daemon-3-0-pagina-inicial-1-3",
-      "name": "Pagina inicial (21-30)",
+      "id": "sistema-daemon-3-0--sistema-daemon-3-0-pagina-inicial-1-9",
+      "name": "Pagina inicial (81-82)",
       "area": "rituais",
-      "category": "item_equipment",
+      "category": "attribute_skill",
       "source": "sistema-daemon-3-0",
       "sourceTitle": "Sistema-Daemon-3-0",
       "pages": [
         [
-          21,
-          30
+          81,
+          82
         ]
       ],
       "page": null,
-      "summary": "21 ver se o improviso deu certo. Qualquer coisa que seja única ou específica (fora do conhecimento da maioria das pessoas), realmente não suportando nenhum tipo de improviso (como o fetiche para um ritual) resultará em falha automática. Imunidade a Venenos 2 pontos: por algum motivo, seu Personagem nasceu imune a venenos naturais e recebe um bônus de 1D cont...",
+      "summary": "81 Pontos de Magia 7/Focus 9 Magia: Trevas 4, Humanos 4 Duque Infernal CON 40, FR 35, DEX 30, AGI 30, INT 27, WILL 30, CAR 17, PER 18 #Ataques [2], IP 15 (rituais), 60 PVs Regenera 2 PVs/Rodada Possui todos os Poderes Demoníacos Garras 90/90 dano 1d10+13 Pontos de Magia 22/Focus 24 Magia: Criar 3, Controlar 4, Trevas 1, Fogo 2, Humanos 3, Arkanun 3, Spiritum...",
       "entityRefs": [],
       "tags": [
-        "item_equipment",
+        "attribute_skill",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -7409,47 +7159,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "spiritum--spiritum-graus-32",
-      "name": "Graus",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "spiritum",
-      "sourceTitle": "Spiritum",
-      "pages": [
-        32
-      ],
-      "page": 32,
-      "summary": "Graus Existem três graus no sistema Rosa-Cruz: Terceiro Grau (Querubim); Segundo Grau (Seraphim ou Eulis) e Primeiro Grau (Teraphim ou Ministro para os homens). Os membros do Pri- meiro Círculo são os Conselheiros da Ordem e transmitem os ensinamentos através dos templos. Os membros mais graduados, quando desencarnam, tor- nam-se membros do Colégio Invisível...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "organization_faction",
-      "contentKindLabel": "Organização, facção ou culto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "spiritum--spiritum-plano-astral-81",
       "name": "Plano Astral",
       "area": "rituais",
@@ -7549,6 +7258,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -7590,6 +7300,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -7615,49 +7326,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "tagmar-daemon--tagmar-daemon-terra-68",
-      "name": "Terra",
-      "area": "rituais",
-      "category": "item_equipment",
-      "source": "tagmar-daemon",
-      "sourceTitle": "Tagmar Daemon",
-      "pages": [
-        [
-          68,
-          69
-        ]
-      ],
-      "page": null,
-      "summary": "Terra 1º Círculo Entender Terra: Pode saber que tipo de pedra ou metal está segurando (se já conhecer aquele material anteriormente). O invocador pode sentir a presença de determinado tipo de pedra, minério, metal (não ouro) ou pó a até 10m de distância. Criar Terra: Pode Criar /Destruir terra, pedras, barro ou metal suficiente para encher um balde, na forma...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "tagmar-daemon--tagmar-daemon-equipamentos-misticos-47",
       "name": "Equipamentos Místicos",
       "area": "rituais",
@@ -7672,6 +7340,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -7712,6 +7381,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -7732,54 +7402,6 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-9oooooo-3-9",
-      "name": "9oooooo (83-92)",
-      "area": "rituais",
-      "category": "ritual_spell",
-      "source": "tagmar-daemon-versao-completa",
-      "sourceTitle": "Tagmar-Daemon-Versao-Completa",
-      "pages": [
-        [
-          83,
-          92
-        ]
-      ],
-      "page": null,
-      "summary": "9oooooo o ( oo ooo''oooooooooooo 83 9ooooooo ( ooo''''''oooooooooo Tagmar-Daemon Fogo Fogo Fogo Fogo 1º Cí Cí Cí Círculo rculo rculo rculo Entender Fogo: O personagem pode sentir a temperatura exata de um corpo ou objeto apenas ao toque. Pode sentir uma propriedade física do fogo (temperatura, tipo de combustível, quanto tempo ainda deverá durar etc.). Pode...",
-      "entityRefs": [],
-      "tags": [
-        "rituais",
-        "ritual_spell"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "ocr_noise",
-      "contentKindLabel": "OCR/lixo de extração",
-      "editorialFlags": [
-        "ocr_corrupted_title_or_body",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "invalid_title_or_ocr_header",
-        "ocr_corrupted_title_or_body",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -8645,6 +8267,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -8666,6 +8289,48 @@
         "raw_source_part_requires_review",
         "source_part_without_specific_subject",
         "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "avatar-volume-1--avatar-volume-1-krishnaman-22",
+      "name": "KRISHNAMAN",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "avatar-volume-1",
+      "sourceTitle": "avatar volume 1",
+      "pages": [
+        [
+          22,
+          25
+        ]
+      ],
+      "page": null,
+      "summary": "22 KRISHNAMAN CON 13(60), FR 10(80), DEX 11(24), AGI 12 (30), INT 16, WILL 30, CAR 12 (20), PER 10 (20) Guerreiro do 12° Nível #ataques [3], IP 1, PVs 13 (70) + 30 Ataques: Briga 70/60, dano 1d6 na forma humana e 3d6+33 na forma de Avatar. Raio Chakram: Krishnaman dispara um disco de enegia espiritual dourada capaz de dar 13d6+1 de dano em até 250m de distân...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",
@@ -8755,48 +8420,6 @@
       "qualityStatus": "quarentena"
     },
     {
-      "id": "deform--deform-deformacoes-2",
-      "name": "DEFORMAÇÕES",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "deform",
-      "sourceTitle": "deform",
-      "pages": [
-        [
-          2,
-          3
-        ]
-      ],
-      "page": null,
-      "summary": "2 DEFORMAÇÕES (com contribuições indispensáveis de Marcelo del Debbio, José Paulo “LennonZ” e João “Azrael”) By Lamazuus No GRIMÓRIO 1ª Edição existia uma regra muito interessante para personagens Magos: o uso dos poderes mágicos começava a cobrar um preço a ponto de gerar mutações no próprio corpo do Mago, tornan- do-o cada mais parecido com os habitantes d...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "item_equipment",
-      "contentKindLabel": "Item, equipamento ou material",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "fadadaluz--fadadaluz-poderes-arcadianos-2",
       "name": "Poderes Arcadianos",
       "area": "rituais",
@@ -8832,90 +8455,6 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "fadadaluz--fadadaluz-fada-da-luz-sistema-daemon-1",
-      "name": "Fada da Luz ( Sistema Daemon)",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "fadadaluz",
-      "sourceTitle": "fadadaluz",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "Fada da Luz ( Sistema Daemon) Fadas da Luz são fadinhas criadas atraves de rituais para auxilar e adquirir poderes... Elas são exelentes companheiras e auxiliam em diversas coisas possuem muito poder e como genios estão destinadas a seguir uma mestre para todo sempre... Conhecidas por sua Luz propria que ilumina qualquer tipo de escuridão foram extintas ou s...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "grimark201--grimark201-grimorio-1",
-      "name": "Grimório",
-      "area": "rituais",
-      "category": "power_magic",
-      "source": "grimark201",
-      "sourceTitle": "grimark201",
-      "pages": [
-        [
-          1,
-          20
-        ]
-      ],
-      "page": null,
-      "summary": "1 Grimório de Arkanun Versão 2.01 2 O Guia de Magias de Arkanun Saudações Este é um grande projeto iniciado pela Daemon Edito- ra, com o objetivo de reunir todas as Magias e Rituais co- nhecidos, criados ou pesquisados pelos Mestres e Jogado- res de ARKANUN e TREVAS, como um grande Grimório. Com a Idéia do Grimório de Arton, muitos Mestres de Arkanun escreve...",
-      "entityRefs": [],
-      "tags": [
-        "power_magic",
-        "rituais"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "setting_lore",
-      "sourceFamilyLabel": "Cenários, lore e organizações",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -9049,6 +8588,50 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "rituais--rituais-car-6",
+      "name": "Car",
+      "area": "rituais",
+      "category": "attribute_skill",
+      "source": "rituais",
+      "sourceTitle": "rituais",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Car -- -- + 1 + 2 + 3 + 4 Ip + 1 + 2 + 3 + 4 + 6 + 8 Pvs + 1 + 2 + 3 + 4 + 6 + 8 nº Ataques 1 1 1 2 2 3 Perícias (%) + 25 % + 30 % + 60 % + 65 % + 115 % + 150 % Perícias Possíveis: Máximo permitido pelo focus (O valor entre parênteses significa o número máximo de subgrupos permitidos) Perícia - Inicial / Focus 2 4 6 8 10 12 Armas Brancas - Dex / Dex 20 / 20...",
+      "entityRefs": [],
+      "tags": [
+        "attribute_skill",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "rituais--rituais-garras-aos-mortos-11",
       "name": "Garras aos Mortos",
       "area": "rituais",
@@ -9136,6 +8719,50 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "secundarios--secundarios-sobrenaturais-deve-adicionar-no-ritual-13",
+      "name": "sobrenaturais,deve adicionar no ritual",
+      "area": "rituais",
+      "category": "combat",
+      "source": "secundarios",
+      "sourceTitle": "secundarios",
+      "pages": [
+        [
+          13,
+          15
+        ]
+      ],
+      "page": null,
+      "summary": "sobrenaturais,deve adicionar no ritual materiais específicos(se quiser,tiros com balas de prata,terá que colocar prata em pó junto com a pólvora;se quiser tiros com balas de hadjar,deve colocar hadjar em pó,e assim em diante...).O ritual dura 3d6 rodadas,ou até a “munição”acabar.O mago deve possuir a perícia da arma simulada,e irá testar seus tiros com a per...",
+      "entityRefs": [],
+      "tags": [
+        "combat",
+        "regras_base",
+        "rituais"
+      ],
+      "confidence": 0.76,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "item_equipment",
+      "contentKindLabel": "Item, equipamento ou material",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "secundarios--secundarios-caminhos-1",
       "name": "Caminhos",
       "area": "rituais",
@@ -9190,7 +8817,6 @@
       "entityRefs": [],
       "tags": [
         "combat",
-        "combate",
         "rituais"
       ],
       "confidence": 0.76,
@@ -9236,6 +8862,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -9280,6 +8907,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -9320,6 +8948,7 @@
       "entityRefs": [],
       "tags": [
         "core_rule",
+        "regras_base",
         "rituais"
       ],
       "confidence": 0.76,
@@ -9341,46 +8970,6 @@
         "raw_source_part_requires_review",
         "source_part_without_specific_subject",
         "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-humanos-doutrinados-7",
-      "name": "Humanos Doutrinados",
-      "area": "rituais",
-      "category": "character_option",
-      "source": "yuyu-hakusho-rpg-para-daemon",
-      "sourceTitle": "yuyu hakusho RPG para Daemon",
-      "pages": [
-        7
-      ],
-      "page": 7,
-      "summary": "Humanos Doutrinados Os Doutrinados são pessoas com uma grande quantidade de energia espiritual, chamada Rei Ki, e treinados por tempos no uso de esquecidas artes místicas. São lutadores ou quase isso, sempre andando por aí, procurando novos desafios ou um jeito de deixar essa vida de lutas. Os grandes mestres jamais podem deixar essa vida, pois sempre serão...",
-      "entityRefs": [],
-      "tags": [
-        "character_option",
-        "rituais"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "uncertain_fragment",
-      "contentKindLabel": "Fragmento incerto",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",

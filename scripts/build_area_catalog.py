@@ -28,10 +28,7 @@ APRIMORAMENTO_COST_MARKER_RE = re.compile(
 
 
 AREA_LABELS = {
-    "fontes": "Fontes",
     "regras_base": "Regras Base",
-    "atributos_pericias": "Atributos e Pericias",
-    "combate": "Combate",
     "aprimoramentos": "Aprimoramentos",
     "kits": "Kits",
     "classes": "Classes",
@@ -49,10 +46,10 @@ AREA_LABELS = {
 
 
 CATEGORY_TO_AREA = {
-    "source": "fontes",
+    "source": "regras_base",
     "core_rule": "regras_base",
-    "attribute_skill": "atributos_pericias",
-    "combat": "combate",
+    "attribute_skill": "regras_base",
+    "combat": "regras_base",
     "character_option": "aprimoramentos",
     "character_class": "classes",
     "kit_class": "kits",
@@ -68,13 +65,12 @@ CATEGORY_TO_AREA = {
 
 
 AREA_KEYWORDS = [
+    ("regras_base", ("regra", "regras", "sistema", "modulo", "daemon", "atributo", "atributos", "pericia", "pericias", "especializacao", "especializacoes", "combate", "manobra", "manobras", "ataque", "defesa", "dano")),
     ("aprimoramentos", ("aprimoramento", "aprimoramentos", "vantagem", "desvantagem", "talento", "talentos")),
     ("classes", ("classe", "classes", "classe de prestigio", "profissao", "profissoes", "ocupacao", "ocupacoes")),
     ("kits", ("kit", "kits", "arquetipo", "arquetipos")),
     ("racas", ("raca", "racas", "elfo", "elfos", "anao", "anoes", "sprite", "sereia", "orc", "goblin", "ogre")),
     ("linhagens", ("linhagem", "linhagens", "vampiro", "vampiros", "youkai", "youkais", "imortal", "imortais", "fera", "feras")),
-    ("atributos_pericias", ("atributo", "atributos", "pericia", "pericias", "especializacao", "especializacoes")),
-    ("combate", ("combate", "manobra", "manobras", "ataque", "defesa", "dano", "armas", "armaduras")),
     ("rituais", ("ritual", "rituais", "grimorio", "invocacao", "encantamento", "circulo", "circulos")),
     ("poderes", ("poder", "poderes", "superpoder", "superpoderes", "psiquismo", "psionico", "milagre", "reiatsu")),
     ("magias", ("magia", "magias", "caminho", "caminhos", "kidou", "kidous", "focus", "feitico", "feiticos")),
@@ -1129,6 +1125,10 @@ def facet_records(items: list[dict[str, Any]]) -> dict[str, Any]:
 
 def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], entity_items: list[dict[str, Any]]) -> dict[str, Any]:
     AREAS_DIR.mkdir(parents=True, exist_ok=True)
+    expected_area_files = {f"{area}.json" for area in AREA_LABELS}
+    for stale_path in AREAS_DIR.glob("*.json"):
+        if stale_path.name not in expected_area_files:
+            stale_path.unlink()
     by_area: dict[str, dict[str, list[dict[str, Any]]]] = {
         area: {"entities": [], "sourceParts": []} for area in AREA_LABELS
     }
@@ -1229,7 +1229,7 @@ def main() -> None:
     known_entity_ids = all_entity_ids()
     classifications = source_classification_lookup()
     part_items = build_source_part_items(source_ids, source_lookup, known_entity_ids, classifications)
-    entity_items = [*build_entity_items(set(source_ids), source_lookup, classifications), *build_source_entities(source_ids, source_lookup)]
+    entity_items = build_entity_items(set(source_ids), source_lookup, classifications)
     summary = write_area_files(source_ids, part_items, entity_items)
     write_report(summary)
     print(
