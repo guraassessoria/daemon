@@ -1,26 +1,26 @@
 {
   "version": 1,
   "summary": {
-    "flaggedRecordCount": 2301,
+    "flaggedRecordCount": 2310,
     "flagCounts": {
       "aprimoramento_without_cost_marker": 26,
-      "critical_ocr_gibberish": 158,
-      "does_not_end_like_complete_sentence": 1019,
+      "critical_ocr_gibberish": 159,
+      "does_not_end_like_complete_sentence": 1028,
       "encoding_or_ocr_artifact": 194,
       "ends_with_connector_possible_cut": 318,
       "front_matter_or_index_block": 14,
-      "hyphenated_word_split": 893,
+      "hyphenated_word_split": 899,
       "invalid_title_or_ocr_header": 29,
-      "lowercase_sentence_after_section_possible_leak": 313,
+      "lowercase_sentence_after_section_possible_leak": 314,
       "many_cost_markers_possible_merged_aprimoramentos": 9,
-      "page_number_inside_text": 160,
-      "repeated_fragment_possible_duplication": 29,
+      "page_number_inside_text": 166,
+      "repeated_fragment_possible_duplication": 30,
       "starts_mid_sentence_possible_left_cut": 35,
       "symbol_noise_ocr": 111,
-      "too_long_possible_merged_blocks": 21,
+      "too_long_possible_merged_blocks": 23,
       "too_short_possible_cut": 85,
-      "unbalanced_brackets": 76,
-      "unbalanced_parentheses": 374
+      "unbalanced_brackets": 77,
+      "unbalanced_parentheses": 376
     },
     "areaFlaggedCounts": {
       "aprimoramentos": 211,
@@ -33,7 +33,7 @@
       "linhagens": 70,
       "magias": 217,
       "poderes": 358,
-      "racas": 47,
+      "racas": 56,
       "regras_base": 462,
       "rituais": 122,
       "tabelas": 10
@@ -16310,6 +16310,20 @@
     {
       "area": "racas",
       "kind": "entitie",
+      "id": "raca-daemon-tormenta-centauros",
+      "name": "Centauros",
+      "source": "daemon-tormenta",
+      "page": 31,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text"
+      ],
+      "sample": "Custo: 0 pontos Idade Inicial: 20 + 1d6 Atributos: +4 CON, -2 AGI, -2 CAR Vantagens: como uma raça de corpo equino os centauros possuem cascos que podem usar para o ataque, eles podem fazer um ataque com cada casco que causa 1d6+bônus de FOR pontos de dano, po"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
       "id": "raca-guia-de-racas-de-arton-tormentarpg-ceratops",
       "name": "Ceratops",
       "source": "guia-de-racas-de-arton-tormentarpg",
@@ -16387,6 +16401,64 @@
         "hyphenated_word_split"
       ],
       "sample": "Custo: 1 pontos Idade Inicial: 16+2d6 Atributos: -2 em FR e CON; e +2 em INT e CAR Vantagens: Teletransporte Elfos são criaturas humanóides de orelhas grandes e pon- tudas. As cores da pele, cabelo e olhos seguem os padrões en- contrados na espécie humana, com"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-tagmar-daemon-versao-completa-elfos",
+      "name": "Elfos",
+      "source": "tagmar-daemon-versao-completa",
+      "page": 23,
+      "flags": [
+        "critical_ocr_gibberish",
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "lowercase_sentence_after_section_possible_leak",
+        "page_number_inside_text",
+        "repeated_fragment_possible_duplication",
+        "too_long_possible_merged_blocks",
+        "unbalanced_parentheses"
+      ],
+      "sample": "Custo: 1 Idade Inicial: 20+8d10 Atributos: +1 CAR Meio-Elfos são o produto da união de Elfos e Humanos. É surpreendente que duas raças assim diferentes possam gerar progenitores, e ainda mais que estes sejam férteis, mas esta miscigenação é um fenômeno muito o"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-daemon-tormenta-elfos-negros",
+      "name": "Elfos Negros",
+      "source": "daemon-tormenta",
+      "page": 37,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 15 + 3d6 Atributos: +2 INT, -2 CAR Vantagens: elfos negros recebem gratuitamente o aprimoramento Infravisão. Elfos negros recebem 20% em Falar Valkar, Falar Élfico e Falar Subterrâneo. Desvantagens: nenhuma Idiomas: Élfico, Subter"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-daemon-tormenta-elfos-do-ceu",
+      "name": "Elfos do Céu",
+      "source": "daemon-tormenta",
+      "page": 34,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 15+3d6 Atributos: -2 CON, +2 PER Vantagens: elfos do céu fadas possuem asas que permitem a elas voar com o dobro da velocidade de corrida e portanto perfazendo o dobro da distância a pé, porém, o tempo de vôo é limitado, sendo a m"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-daemon-tormenta-elfos-do-mar",
+      "name": "Elfos do Mar",
+      "source": "daemon-tormenta",
+      "page": 33,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 15 + 3d6 Atributos: +2 AGI, -2 INT Vantagens: elfos do mar possuem um sonar embaixo d ´água que os permite detectar movimentos num raio de 120m, além disso podem uma vez ao dia lançar a magia Transformação para se transformarem nu"
     },
     {
       "area": "racas",
@@ -16651,6 +16723,19 @@
     {
       "area": "racas",
       "kind": "entitie",
+      "id": "raca-daemon-tormenta-meio-dragao",
+      "name": "Meio-Dragão",
+      "source": "daemon-tormenta",
+      "page": 36,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split"
+      ],
+      "sample": "Custo: 2 pontos Idade Inicial: 15+1d6 Atributos: +2 FOR, -2 CAR Vantagens: meio-dragões possuem asas que permitem a elas voar com o dobro da velocidade de corrida e portanto perfazendo o dobro da distância a pé, porém, o tempo de vôo é limitado, sendo a metade"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
       "id": "raca-guia-de-racas-de-arton-tormentarpg-meio-dragap",
       "name": "Meio-Dragãp",
       "source": "guia-de-racas-de-arton-tormentarpg",
@@ -16712,6 +16797,19 @@
         "hyphenated_word_split"
       ],
       "sample": "Custo: 1 pontos Idade Inicial: 16+1d6 Atributos: -1 em FR e CON; e +1 em INT e CAR Vantagens: Teletransporte Embora isto não seja comum, os elfos podem ter filhos com seres humanos, chamados meio-elfos. Esses mestiços possuem a força e resistência dos humanos,"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-daemon-tormenta-minotauro",
+      "name": "Minotauro",
+      "source": "daemon-tormenta",
+      "page": 32,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 20 + 2d6 Atributos: +2 CON, +4 FOR, -2 DES, -2 WILL, -2 CAR Vantagens: os minotauros podem atacar com seus chifres, o ataque causa 1d6+bônus de FOR pontos de dano, porém precisarão comprar a perícia chifres como se fosse uma arma."
     },
     {
       "area": "racas",
@@ -16820,6 +16918,20 @@
     {
       "area": "racas",
       "kind": "entitie",
+      "id": "raca-daemon-tormenta-sprites",
+      "name": "Sprites",
+      "source": "daemon-tormenta",
+      "page": 35,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "page_number_inside_text",
+        "unbalanced_brackets"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 12 + 1d6 Atributos: +2 INT, +2 CAR, -2 FOR, -2 CON Vantagens: fadas possuem asas que permitem a elas voar com o dobro da velocidade de corrida e portanto perfazendo o dobro da distância a pé, porém, o tempo de vôo é limitado, send"
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
       "id": "raca-guia-de-racas-de-arton-tormentarpg-satiro",
       "name": "Sátiro",
       "source": "guia-de-racas-de-arton-tormentarpg",
@@ -16829,6 +16941,22 @@
         "hyphenated_word_split"
       ],
       "sample": "Custo: 2 pontos. Idade Inicial: 14+1d6. Atributos: Normais. Vantagens: Recebem +10% nas Perícias Artes e Espor- tes, e +10/+10 em Testes de Arco e Flecha. Podem usar O Canto da Sereia e Fascinação. Chifres. Desvantagens: Jamais pode atacar ou ferir uma fêmea. "
+    },
+    {
+      "area": "racas",
+      "kind": "entitie",
+      "id": "raca-daemon-tormenta-troglodita",
+      "name": "Troglodita",
+      "source": "daemon-tormenta",
+      "page": 38,
+      "flags": [
+        "does_not_end_like_complete_sentence",
+        "hyphenated_word_split",
+        "page_number_inside_text",
+        "too_long_possible_merged_blocks",
+        "unbalanced_parentheses"
+      ],
+      "sample": "Custo: 1 ponto Idade Inicial: 20 + 1d6 Atributos: +2 CON, -2 INT Vantagens: trogloditas recebem o aprimoramento Infravisão gratuitamente, além disso, uma vez ao dia o troglodita pode secretar um óleo fedorento, todos numa área de 5m devem passar num teste de C"
     },
     {
       "area": "racas",

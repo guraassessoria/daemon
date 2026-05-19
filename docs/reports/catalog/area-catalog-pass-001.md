@@ -4,7 +4,7 @@ Initial navigation/population layer for the sources marked as ready to proceed.
 
 - Ready sources: 275
 - Areas: 14
-- Curated entities included: 1432
+- Curated entities included: 1441
 - Book parts indexed: 4023
 
 ## Areas
@@ -15,7 +15,7 @@ Initial navigation/population layer for the sources marked as ready to proceed.
 | Aprimoramentos (`aprimoramentos`) | 450 | 0 |
 | Kits (`kits`) | 191 | 0 |
 | Classes (`classes`) | 12 | 0 |
-| Racas (`racas`) | 47 | 0 |
+| Racas (`racas`) | 56 | 0 |
 | Linhagens (`linhagens`) | 70 | 0 |
 | Poderes (`poderes`) | 358 | 0 |
 | Magias (`magias`) | 217 | 0 |

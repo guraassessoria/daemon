@@ -5,28 +5,28 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 
 ## Resumo
 
-- Registros sinalizados: 2301
+- Registros sinalizados: 2310
 
 ### Flags
 
 - `aprimoramento_without_cost_marker`: 26
-- `critical_ocr_gibberish`: 158
-- `does_not_end_like_complete_sentence`: 1019
+- `critical_ocr_gibberish`: 159
+- `does_not_end_like_complete_sentence`: 1028
 - `encoding_or_ocr_artifact`: 194
 - `ends_with_connector_possible_cut`: 318
 - `front_matter_or_index_block`: 14
-- `hyphenated_word_split`: 893
+- `hyphenated_word_split`: 899
 - `invalid_title_or_ocr_header`: 29
-- `lowercase_sentence_after_section_possible_leak`: 313
+- `lowercase_sentence_after_section_possible_leak`: 314
 - `many_cost_markers_possible_merged_aprimoramentos`: 9
-- `page_number_inside_text`: 160
-- `repeated_fragment_possible_duplication`: 29
+- `page_number_inside_text`: 166
+- `repeated_fragment_possible_duplication`: 30
 - `starts_mid_sentence_possible_left_cut`: 35
 - `symbol_noise_ocr`: 111
-- `too_long_possible_merged_blocks`: 21
+- `too_long_possible_merged_blocks`: 23
 - `too_short_possible_cut`: 85
-- `unbalanced_brackets`: 76
-- `unbalanced_parentheses`: 374
+- `unbalanced_brackets`: 77
+- `unbalanced_parentheses`: 376
 
 ### Por área
 
@@ -40,7 +40,7 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - `linhagens`: 70
 - `magias`: 217
 - `poderes`: 358
-- `racas`: 47
+- `racas`: 56
 - `regras_base`: 462
 - `rituais`: 122
 - `tabelas`: 10

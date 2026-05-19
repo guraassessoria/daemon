@@ -2,10 +2,10 @@
 
 Varredura das fontes prontas com travas separadas para racas mecanicas e linhagens narrativas.
 
-- Certified items: 117
-- Certified racas: 47
+- Certified items: 126
+- Certified racas: 56
 - Certified linhagens: 70
-- Rejected candidates: 810
+- Rejected candidates: 1329
 
 ## Policy
 
@@ -23,20 +23,22 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 | `guia-de-racas-de-arton-tormentarpg` | 42 |
 | `animalidade` | 12 |
 | `imortal-a-centelha` | 9 |
+| `daemon-tormenta` | 8 |
 | `ray` | 3 |
 | `guia-dos-dragoes-1-biblioteca-elfica` | 2 |
 | `alianca-daemon-01` | 1 |
 | `gaki` | 1 |
+| `tagmar-daemon-versao-completa` | 1 |
 
 ## Rejection reasons
 
 | Reason | Count |
 | --- | ---: |
-| `no_mechanical_race_signal` | 668 |
-| `no_lineage_signal` | 67 |
+| `no_mechanical_race_signal` | 1107 |
+| `no_lineage_signal` | 112 |
+| `looks_like_kit_or_class` | 57 |
 | `duplicate_certification_content` | 42 |
-| `looks_like_kit_or_class` | 24 |
-| `name_is_section_or_empty` | 6 |
+| `name_is_section_or_empty` | 8 |
 | `locked_as_kit` | 3 |
 
 ## Rejected sample
@@ -74,70 +76,70 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `animalidade` / `Elo duplo`: no_mechanical_race_signal
 - `animalidade` / `Poder Elevado`: no_mechanical_race_signal
 - `animalidade` / `Alguns Feras Prontos`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Policial Galáctico`: no_mechanical_race_signal
+- `anime-rpg-powers` / `aprimoramentos Raciais`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Aesir`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Anjo`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Tuatha Dé Danann`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Vampiro`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Atributo`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Imortal`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Lobisomem`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Elfo`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Leshy`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Sprite`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Namoano`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Vikronita`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Celereano`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Hermerita`: no_mechanical_race_signal
+- `anime-rpg-powers` / `História Sobrenatural`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Mundos Místicos`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Supers com`: no_lineage_signal
+- `anime-rpg-powers` / `Terrir`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Comunicação com Animais`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Controle hipnótico`: no_mechanical_race_signal
+- `anime-rpg-powers` / `LOBO`: no_mechanical_race_signal
+- `anime-rpg-powers` / `MORCEGO`: no_mechanical_race_signal
+- `anime-rpg-powers` / `Regeneração Vampírica`: no_lineage_signal
+- `anjos-a-cidade-de-prata-angelicos-sicarios` / `Thuatas`: no_lineage_signal
+- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Viviane Assis`: no_mechanical_race_signal
+- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Mundo das Trevas`: no_lineage_signal
+- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Humanos 1`: no_mechanical_race_signal
+- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `suplemento GURPS Magia.)`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `CenceitTes BÁSICOS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `EcUMENISTO`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `Tlaisês`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `CHRISTOS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `ANjes JUDEUS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `A Igreja Ortodoxa`: no_lineage_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `XIITAS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PHANIM`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `AFINIDADE CEM FADAS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `TUTOR`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `GLIFO`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `AFASTAR MERTES-vIVES`: no_mechanical_race_signal
 - `anoes` / `Guerreiro`: looks_like_kit_or_class
+- `arcadia-nova-arcadia` / `Entretanto`: no_lineage_signal
+- `arcadia-nova-arcadia` / `Oberon,`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Azania`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Muitos`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Lammazzus`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Leonira`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `no Mundo Belo`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Antiga,`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Goblin`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Pixie`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Pixies`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Suas`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Centauro`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Kentauros,`: no_lineage_signal
+- `arcadia-nova-arcadia` / `Elfo`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Seus`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Elfos`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Gnomo`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Gnomos`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Racas Arcadianas`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `DESVANTAGENS RACIAIS`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Essa`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `MALDIO,`: no_mechanical_race_signal
 - `ark-a-nun-arquivos-de-bel-kalaa` / `Venenoso`: no_lineage_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Refúgios Humanos`: no_mechanical_race_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Vullea`: no_mechanical_race_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Tribos das Estepes`: no_mechanical_race_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Tier`: no_mechanical_race_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Kwaku Ananse`: no_lineage_signal
-- `clube-de-caca-guia-do-jogador` / `VAMPIROS`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Assassino Serial`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Incrédulo`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Linhagem Vrykolaka`: no_lineage_signal
-- `clube-de-caca-guia-do-jogador` / `Clube de Caça`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Força nos Números`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Corrupção`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Cruzando a Linha`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `As Foices`: looks_like_kit_or_class
-- `clube-de-caca-guia-do-jogador` / `Personagens`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Arrombamento`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Caçador de Vampiros`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Habilidades como Aprimoramento`: looks_like_kit_or_class
-- `clube-de-caca-guia-do-jogador` / `o Caçador`: looks_like_kit_or_class
-- `clube-de-caca-guia-do-jogador` / `Detetive do Sobrenatural`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Detectar`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Detetive`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Mentor Ritualista`: looks_like_kit_or_class
-- `clube-de-caca-guia-do-jogador` / `Ritualista`: looks_like_kit_or_class
-- `clube-de-caca-guia-do-jogador` / `Paranormal`: no_lineage_signal
-- `clube-de-caca-guia-do-jogador` / `Fogo,`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Complexos, ESP, Sonhos), Telecinésia 3, Bafo`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Fala Anímica, Barganha Anímica), Red Cap`: no_lineage_signal
-- `clube-de-caca-guia-do-jogador` / `Forçada, Fúria, Decapitação, Dependência`: no_mechanical_race_signal
-- `clube-de-caca-guia-do-jogador` / `Frio,`: no_mechanical_race_signal
-- `daemon-medieval` / `Daemon Medieval`: name_is_section_or_empty
-- `daemon-medieval` / `Geralmente`: name_is_section_or_empty
-- `deform` / `5-6 Percepção`: no_mechanical_race_signal
-- `deform` / `1-2 Cabeça`: no_mechanical_race_signal
-- `demonios-a-divina-comedia` / `A SEGUNDA GUERRA MUNDIAL`: no_mechanical_race_signal
-- `demonios-a-divina-comedia` / `Mestres`: no_mechanical_race_signal
-- `demonios-a-divina-comedia` / `A AMÉRICA DO SUL E CENTRAL`: no_mechanical_race_signal
-- `demonios-a-divina-comedia` / `CONTATOS E ALIADOS`: no_mechanical_race_signal
-- `demonios-a-divina-comedia` / `FAMILIARES`: no_lineage_signal
-- `domini-urbs-biblioteca-elfica` / `Durante`: no_lineage_signal
-- `domini-urbs-biblioteca-elfica` / `Resistência de Eremita`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragões Notáveis`: no_lineage_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Henrique Santos, Leonardo Bocaletti, Alex Tadeu e`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Raças Dracônicas`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `História dos Dragões`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Infância entre Estranhos`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Após`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragões Elementais, Aves Celestiais, Artródiros e`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragão-Rei Negro Sarkhoul, Vulpaxyn, criando`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragões`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Maturidade com Novos Estranhos`: no_lineage_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dourada, Katmaran, Amaterasu, Shang-Qing,`: no_lineage_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Éons`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Semideuses,`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Blavatsky,`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Venerável Dragão dos Éons`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Estatíticas Clássicas`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragões Aquamarine`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Arkanun/Trevas`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dentes e Boca, Garras, Metamorfose, Pele Resistente,`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Especiais, Dentes e Boca, Garras, Metamorfose, Pele`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Sensibilidade`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Benta, Símbolos Religiosos, Apresenta o Reflexo`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Dragões Dourados`: no_mechanical_race_signal
-- `dragoes-reis-caidos-sistema-daemon` / `Pele Resistente, Regeneração, Tamanho, Telecinésia`: no_mechanical_race_signal

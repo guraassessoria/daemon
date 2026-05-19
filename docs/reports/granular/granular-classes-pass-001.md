@@ -1,7 +1,7 @@
 # Granular classes pass 001
 
 - Published extracted classes: 12
-- Profession/archetype/path candidates for review: 505
+- Profession/archetype/path candidates for review: 901
 
 | Source | Extracted |
 | --- | ---: |

@@ -7,9 +7,89 @@
     "uncertified_race_claims_do_not_enter_racas": true,
     "certified_aprimoramentos_kits_and_classes_are_not_reclassified_as_racas": true
   },
-  "certifiedCount": 47,
-  "rejectedCount": 810,
+  "certifiedCount": 56,
+  "rejectedCount": 1329,
   "records": [
+    {
+      "id": "raca-daemon-tormenta-centauros",
+      "source": "daemon-tormenta",
+      "name": "Centauros",
+      "nameKey": "centauros",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:centauros"
+    },
+    {
+      "id": "raca-daemon-tormenta-minotauro",
+      "source": "daemon-tormenta",
+      "name": "Minotauro",
+      "nameKey": "minotauro",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:minotauro"
+    },
+    {
+      "id": "raca-daemon-tormenta-elfos-do-mar",
+      "source": "daemon-tormenta",
+      "name": "Elfos do Mar",
+      "nameKey": "elfos-do-mar",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:elfos-do-mar"
+    },
+    {
+      "id": "raca-daemon-tormenta-elfos-do-ceu",
+      "source": "daemon-tormenta",
+      "name": "Elfos do Céu",
+      "nameKey": "elfos-do-ceu",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:elfos-do-ceu"
+    },
+    {
+      "id": "raca-daemon-tormenta-sprites",
+      "source": "daemon-tormenta",
+      "name": "Sprites",
+      "nameKey": "sprites",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:sprites"
+    },
+    {
+      "id": "raca-daemon-tormenta-meio-dragao",
+      "source": "daemon-tormenta",
+      "name": "Meio-Dragão",
+      "nameKey": "meio-dragao",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:meio-dragao"
+    },
+    {
+      "id": "raca-daemon-tormenta-elfos-negros",
+      "source": "daemon-tormenta",
+      "name": "Elfos Negros",
+      "nameKey": "elfos-negros",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:elfos-negros"
+    },
+    {
+      "id": "raca-daemon-tormenta-troglodita",
+      "source": "daemon-tormenta",
+      "name": "Troglodita",
+      "nameKey": "troglodita",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:daemon-tormenta:troglodita"
+    },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-brokk-femea",
       "source": "guia-de-racas-de-arton-tormentarpg",
@@ -479,6 +559,16 @@
       "subtype": "raca",
       "lockedArea": "racas",
       "certificationId": "raca-lock:ray:meio-elfos"
+    },
+    {
+      "id": "raca-tagmar-daemon-versao-completa-elfos",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Elfos",
+      "nameKey": "elfos",
+      "category": "race_lineage",
+      "subtype": "raca",
+      "lockedArea": "racas",
+      "certificationId": "raca-lock:tagmar-daemon-versao-completa:elfos"
     }
   ]
 }

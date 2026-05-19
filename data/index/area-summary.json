@@ -2,7 +2,7 @@
   "version": 1,
   "readySourceCount": 275,
   "areaCount": 14,
-  "entityCount": 1432,
+  "entityCount": 1441,
   "sourcePartCount": 4023,
   "areas": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "racas",
       "name": "Racas",
-      "entityCount": 47,
+      "entityCount": 56,
       "sourcePartCount": 0
     },
     {
@@ -1237,7 +1237,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 19
+        "count": 27
       },
       {
         "id": "daemonium",
@@ -2837,7 +2837,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 12
+        "count": 13
       },
       {
         "id": "talentos",
@@ -3163,7 +3163,7 @@
       },
       {
         "id": "race_lineage",
-        "count": 320
+        "count": 329
       },
       {
         "id": "ritual_spell",
@@ -3189,7 +3189,7 @@
       },
       {
         "id": "character_option",
-        "count": 853
+        "count": 862
       },
       {
         "id": "combat_maneuver",
@@ -3249,14 +3249,14 @@
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 4320
+        "count": 4329
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 401
+        "count": 402
       },
       {
         "id": "campaign_adventure",
@@ -3311,7 +3311,7 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 1638
+        "count": 1646
       }
     ],
     "areas": [
@@ -3357,7 +3357,7 @@
       },
       {
         "id": "racas",
-        "count": 648
+        "count": 657
       },
       {
         "id": "regras_base",
