@@ -1102,8 +1102,8 @@
       "title": "Compendio de regras DAEMON Trevas",
       "path": "Livros/Compendio de regras DAEMON Trevas.docx",
       "extension": ".docx",
-      "sizeBytes": 84084,
-      "sha256": "4416d819eacbd4190ae1b8a3a8e816a5aaf1f74a4266e98740865bdc503aa8e2",
+      "sizeBytes": 1308,
+      "sha256": "72474a9dae84abb524ef0d633314637578b19e7f0c2345184aed250f42918242",
       "categoryHints": [
         "attribute_skill",
         "character_option",
@@ -1112,8 +1112,10 @@
         "item_equipment",
         "power_magic"
       ],
-      "textStatus": "docx_structured",
-      "pageCount": 45
+      "textStatus": "docx_placeholder",
+      "pageCount": 45,
+      "sourceFileStatus": "generated_placeholder",
+      "sourceFileNote": "Arquivo DOCX de reposi??o criado porque o original n?o estava presente em Livros; dados catalogados preservados de data/books."
     },
     {
       "id": "conan",
@@ -3545,15 +3547,17 @@
       "title": "Regras de boa convivência",
       "path": "Livros/Regras de boa convivência.docx",
       "extension": ".docx",
-      "sizeBytes": 19335,
-      "sha256": "3fedb73e28829507fcdf188e8da102f6eff691c65ac6b5f8b78925c1c28fac91",
+      "sizeBytes": 1298,
+      "sha256": "1ca1e1b1009d5773088506955f4ce5aaf54971d73efc7a10472ea0e0ecddeab7",
       "categoryHints": [
         "combat",
         "power_magic",
         "table_generator"
       ],
-      "textStatus": "docx_structured",
-      "pageCount": 5
+      "textStatus": "docx_placeholder",
+      "pageCount": 5,
+      "sourceFileStatus": "generated_placeholder",
+      "sourceFileNote": "Arquivo DOCX de reposi??o criado porque o original n?o estava presente em Livros; dados catalogados preservados de data/books."
     },
     {
       "id": "revolucao-francesa",
@@ -3927,27 +3931,31 @@
       "title": "Tabela de Fadiga dos Jogadores e NPC",
       "path": "Livros/Tabela de Fadiga dos Jogadores e NPC.docx",
       "extension": ".docx",
-      "sizeBytes": 18589,
-      "sha256": "301a3c6ba71632251d05dc18491e012a4103de616056375de73e9b9626522210",
+      "sizeBytes": 1314,
+      "sha256": "09f1917569420afb9b3edcdb6791a375650d68f10aea7b067b655e3204c85091",
       "categoryHints": [
         "table_generator"
       ],
-      "textStatus": "docx_structured",
-      "pageCount": 11
+      "textStatus": "docx_placeholder",
+      "pageCount": 11,
+      "sourceFileStatus": "generated_placeholder",
+      "sourceFileNote": "Arquivo DOCX de reposi??o criado porque o original n?o estava presente em Livros; dados catalogados preservados de data/books."
     },
     {
       "id": "tabela-e-regras-para-magos",
       "title": "Tabela e Regras para magos",
       "path": "Livros/Tabela e Regras para magos.docx",
       "extension": ".docx",
-      "sizeBytes": 493253,
-      "sha256": "5278734e170d40fbe839fff16c5e827d91f8ac9aa025b9b9aebe9a5d6f0e7f36",
+      "sizeBytes": 1297,
+      "sha256": "97871de7bea4244a9429cc934f19547245192c8d53c6373945981376691511cb",
       "categoryHints": [
         "power_magic",
         "table_generator"
       ],
-      "textStatus": "docx_structured",
-      "pageCount": 11
+      "textStatus": "docx_placeholder",
+      "pageCount": 11,
+      "sourceFileStatus": "generated_placeholder",
+      "sourceFileNote": "Arquivo DOCX de reposi??o criado porque o original n?o estava presente em Livros; dados catalogados preservados de data/books."
     },
     {
       "id": "tagmar-daemon",
