@@ -4,22 +4,22 @@ Initial navigation/population layer for the sources marked as ready to proceed.
 
 - Ready sources: 275
 - Areas: 14
-- Curated entities included: 1442
+- Curated entities included: 2584
 - Book parts indexed: 4023
 
 ## Areas
 
 | Area | Entities | Source parts |
 | --- | ---: | ---: |
-| Regras Base (`regras_base`) | 10 | 0 |
+| Regras Base (`regras_base`) | 794 | 0 |
 | Aprimoramentos (`aprimoramentos`) | 450 | 0 |
 | Kits (`kits`) | 191 | 0 |
 | Classes (`classes`) | 12 | 0 |
 | Racas (`racas`) | 56 | 0 |
 | Linhagens (`linhagens`) | 70 | 0 |
-| Poderes (`poderes`) | 358 | 0 |
-| Magias (`magias`) | 217 | 0 |
-| Rituais (`rituais`) | 28 | 96 |
+| Poderes (`poderes`) | 480 | 0 |
+| Magias (`magias`) | 405 | 0 |
+| Rituais (`rituais`) | 76 | 0 |
 | Itens e Equipamentos (`itens_equipamentos`) | 9 | 214 |
 | Criaturas e NPCs (`criaturas_npcs`) | 20 | 564 |
 | Cenarios e Lore (`cenarios_lore`) | 15 | 104 |

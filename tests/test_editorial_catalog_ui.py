@@ -43,6 +43,7 @@ def test_docs_data_matches_built_catalog() -> None:
 def test_regras_base_is_certified_and_not_raw_source_parts() -> None:
     area = read_json(ROOT / "data" / "areas" / "regras_base.json")
 
+    assert area["entityCount"] >= 100
     assert area["sourcePartCount"] == 0
     assert {entity["lockedArea"] for entity in area["entities"]} == {"regras_base"}
     assert {entity["category"] for entity in area["entities"]} <= {"core_rule", "attribute_skill", "combat"}

@@ -5,11 +5,12 @@
     "certified_items_are_locked_to_area": true,
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_ritual_claims_do_not_enter_rituais": true,
+    "certified_regras_base_items_are_not_reclassified_as_rituais": true,
     "certified_poderes_and_magias_are_not_reclassified_as_rituais": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_rituais": true
   },
-  "certifiedCount": 28,
-  "rejectedCount": 264,
+  "certifiedCount": 76,
+  "rejectedCount": 460,
   "records": [
     {
       "id": "ritual-alastores-a-justica-infernal-convocar-duinum",
@@ -62,6 +63,126 @@
       "certificationId": "ritual-lock:alastores-a-justica-infernal:sellas-locum"
     },
     {
+      "id": "ritual-anjos-a-cidade-de-prata-nvas-pericias",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "N®VAS PERÍCIAS",
+      "nameKey": "nvas-pericias",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:anjos-a-cidade-de-prata:nvas-pericias"
+    },
+    {
+      "id": "ritual-anjos-jyhad-guerra-santa-biblioteca-elfica-novas-pericias",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "Novas PERÍCIAS",
+      "nameKey": "novas-pericias",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:novas-pericias"
+    },
+    {
+      "id": "ritual-arkanun-pericias-principais-astrologia-60-herbalismo",
+      "source": "arkanun",
+      "name": "Perícias Principais: Astrologia 60%, Herbalismo",
+      "nameKey": "pericias-principais-astrologia-60-herbalismo",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:pericias-principais-astrologia-60-herbalismo"
+    },
+    {
+      "id": "ritual-arkanun-pericias-principais-astrologia-90-herbalismo",
+      "source": "arkanun",
+      "name": "Perícias Principais: Astrologia 90%, Herbalismo",
+      "nameKey": "pericias-principais-astrologia-90-herbalismo",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:pericias-principais-astrologia-90-herbalismo"
+    },
+    {
+      "id": "ritual-arkanun-foice-druidica-30-40",
+      "source": "arkanun",
+      "name": "Foice Druidica 30/40",
+      "nameKey": "foice-druidica-30-40",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:foice-druidica-30-40"
+    },
+    {
+      "id": "ritual-arkanun-espada-longa-70-50",
+      "source": "arkanun",
+      "name": "Espada Longa 70/50",
+      "nameKey": "espada-longa-70-50",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:espada-longa-70-50"
+    },
+    {
+      "id": "ritual-arkanun-adaga-50-50",
+      "source": "arkanun",
+      "name": "Adaga 50/50",
+      "nameKey": "adaga-50-50",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:adaga-50-50"
+    },
+    {
+      "id": "ritual-arkanun-pericias-principais-astrologia-50-herbalismo",
+      "source": "arkanun",
+      "name": "Perícias Principais: Astrologia 50%, Herbalismo",
+      "nameKey": "pericias-principais-astrologia-50-herbalismo",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:pericias-principais-astrologia-50-herbalismo"
+    },
+    {
+      "id": "ritual-arkanun-hibrido-demonio-humano",
+      "source": "arkanun",
+      "name": "Híbrido Demônio-humano",
+      "nameKey": "hibrido-demonio-humano",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:hibrido-demonio-humano"
+    },
+    {
+      "id": "ritual-arkanun-pericias-principais-artes-marciais-120-90-armas",
+      "source": "arkanun",
+      "name": "Perícias Principais: Artes Marciais 120/90, Armas",
+      "nameKey": "pericias-principais-artes-marciais-120-90-armas",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:pericias-principais-artes-marciais-120-90-armas"
+    },
+    {
+      "id": "ritual-arkanun-espada-longa-70-80",
+      "source": "arkanun",
+      "name": "Espada Longa 70/80",
+      "nameKey": "espada-longa-70-80",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:espada-longa-70-80"
+    },
+    {
+      "id": "ritual-arkanun-pericias-principais-halzazee-60-necromancia",
+      "source": "arkanun",
+      "name": "Perícias Principais: Halzazee 60%, Necromancia",
+      "nameKey": "pericias-principais-halzazee-60-necromancia",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:arkanun:pericias-principais-halzazee-60-necromancia"
+    },
+    {
       "id": "ritual-cabala-2-banimento-sombrio",
       "source": "cabala-2",
       "name": "Banimento Sombrio",
@@ -70,6 +191,86 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:cabala-2:banimento-sombrio"
+    },
+    {
+      "id": "ritual-daemon-tormenta-criar-armas-magicas-50",
+      "source": "daemon-tormenta",
+      "name": "Criar Armas Mágicas [50]",
+      "nameKey": "criar-armas-magicas-50",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:daemon-tormenta:criar-armas-magicas-50"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-areias-de-morpheus",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Areias de Morpheus",
+      "nameKey": "areias-de-morpheus",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:areias-de-morpheus"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-nomes-de-rituais",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Nomes de Rituais",
+      "nameKey": "nomes-de-rituais",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:nomes-de-rituais"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-contos-das-cinzas",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Contos das Cinzas",
+      "nameKey": "contos-das-cinzas",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:contos-das-cinzas"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-contra-demonios",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Contra Demônios",
+      "nameKey": "contra-demonios",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:contra-demonios"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-cria-ao-de-mortos-vivos",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Cria~ão de Mortos-Vivos",
+      "nameKey": "cria-ao-de-mortos-vivos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:cria-ao-de-mortos-vivos"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-invisibilidade",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Invisibilidade",
+      "nameKey": "invisibilidade",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:invisibilidade"
+    },
+    {
+      "id": "ritual-dragao-brasil-especial-06-trevas-peste",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Peste",
+      "nameKey": "peste",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:dragao-brasil-especial-06-trevas:peste"
     },
     {
       "id": "ritual-grimark201-contactar-arkanun",
@@ -162,6 +363,76 @@
       "certificationId": "ritual-lock:grimark201:visoes-do-passado"
     },
     {
+      "id": "ritual-grimorio-caminho-elemental-principal-posteriormente-os-caminhos-opos",
+      "source": "grimorio",
+      "name": "Caminho Elemental Principal posteriormente. Os Caminhos Opos-",
+      "nameKey": "caminho-elemental-principal-posteriormente-os-caminhos-opos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:caminho-elemental-principal-posteriormente-os-caminhos-opos"
+    },
+    {
+      "id": "ritual-grimorio-transmutacao",
+      "source": "grimorio",
+      "name": "Transmutação",
+      "nameKey": "transmutacao",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:transmutacao"
+    },
+    {
+      "id": "ritual-grimorio-evocacao-caos",
+      "source": "grimorio",
+      "name": "Evocação [caos]",
+      "nameKey": "evocacao-caos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:evocacao-caos"
+    },
+    {
+      "id": "ritual-grimorio-ilusao-avancada",
+      "source": "grimorio",
+      "name": "Ilusão Avançada |",
+      "nameKey": "ilusao-avancada",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:ilusao-avancada"
+    },
+    {
+      "id": "ritual-grimorio-nectomancia",
+      "source": "grimorio",
+      "name": "Nectomancia",
+      "nameKey": "nectomancia",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:nectomancia"
+    },
+    {
+      "id": "ritual-grimorio-sombras-maleficas",
+      "source": "grimorio",
+      "name": "Sombras Maléficas",
+      "nameKey": "sombras-maleficas",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:grimorio:sombras-maleficas"
+    },
+    {
+      "id": "ritual-guia-de-itens-magicos-as-3-formas",
+      "source": "guia-de-itens-magicos",
+      "name": "As 3 Formas",
+      "nameKey": "as-3-formas",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:guia-de-itens-magicos:as-3-formas"
+    },
+    {
       "id": "ritual-guiademagias-humanos-animais-metamagia-1",
       "source": "guiademagias",
       "name": "Humanos/Animais/Metamagia 1",
@@ -170,6 +441,16 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:guiademagias:humanos-animais-metamagia-1"
+    },
+    {
+      "id": "ritual-inquisicao-biblioteca-elfica-pedir",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Pedir",
+      "nameKey": "pedir",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:inquisicao-biblioteca-elfica:pedir"
     },
     {
       "id": "ritual-lobisomens-maldicao-de-licantropia",
@@ -190,6 +471,46 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:lobisomens:oferenda-do-poder-negro"
+    },
+    {
+      "id": "ritual-modulo-basico-expandido-e-modificado-grimrio-pessoal-do-mago",
+      "source": "modulo-basico-expandido-e-modificado",
+      "name": "Grim‡rio Pessoal do Mago",
+      "nameKey": "grimrio-pessoal-do-mago",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:modulo-basico-expandido-e-modificado:grimrio-pessoal-do-mago"
+    },
+    {
+      "id": "ritual-modulo-basico-expandido-e-modificado-criar-humanos",
+      "source": "modulo-basico-expandido-e-modificado",
+      "name": "Criar Humanos",
+      "nameKey": "criar-humanos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:modulo-basico-expandido-e-modificado:criar-humanos"
+    },
+    {
+      "id": "ritual-modulo-basico-expandido-e-modificado-controlar-demonios",
+      "source": "modulo-basico-expandido-e-modificado",
+      "name": "Controlar Demônios",
+      "nameKey": "controlar-demonios",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:modulo-basico-expandido-e-modificado:controlar-demonios"
+    },
+    {
+      "id": "ritual-o-corvo-apenas-por-rituais",
+      "source": "o-corvo",
+      "name": "Apenas por Rituais",
+      "nameKey": "apenas-por-rituais",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:o-corvo:apenas-por-rituais"
     },
     {
       "id": "ritual-rituais-absorcao-de-energia",
@@ -290,6 +611,166 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:rituais:vida-em-morte"
+    },
+    {
+      "id": "ritual-santa-cruz-biblioteca-elfica-controlar-terra",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Controlar Terra",
+      "nameKey": "controlar-terra",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:santa-cruz-biblioteca-elfica:controlar-terra"
+    },
+    {
+      "id": "ritual-santa-cruz-inferno-verde-biblioteca-elfica-rituais-magicos",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Rituais Mágicos",
+      "nameKey": "rituais-magicos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:santa-cruz-inferno-verde-biblioteca-elfica:rituais-magicos"
+    },
+    {
+      "id": "ritual-santa-cruz-inferno-verde-biblioteca-elfica-ocultismo",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Ocultismo-",
+      "nameKey": "ocultismo",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:santa-cruz-inferno-verde-biblioteca-elfica:ocultismo"
+    },
+    {
+      "id": "ritual-santa-cruz-inferno-verde-biblioteca-elfica-rituais-de-paje",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Rituais de Pajé",
+      "nameKey": "rituais-de-paje",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:santa-cruz-inferno-verde-biblioteca-elfica:rituais-de-paje"
+    },
+    {
+      "id": "ritual-spiritum-passeando-pela-terra",
+      "source": "spiritum",
+      "name": "Passeando pela Terra",
+      "nameKey": "passeando-pela-terra",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:passeando-pela-terra"
+    },
+    {
+      "id": "ritual-spiritum-controlar-mortos-vivos",
+      "source": "spiritum",
+      "name": "Controlar Mortos-Vivos",
+      "nameKey": "controlar-mortos-vivos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:controlar-mortos-vivos"
+    },
+    {
+      "id": "ritual-spiritum-detectar-armadilhas",
+      "source": "spiritum",
+      "name": "Detectar Armadilhas",
+      "nameKey": "detectar-armadilhas",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:detectar-armadilhas"
+    },
+    {
+      "id": "ritual-spiritum-luz",
+      "source": "spiritum",
+      "name": "Luz",
+      "nameKey": "luz",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:luz"
+    },
+    {
+      "id": "ritual-spiritum-masmorra-do-arbitrio",
+      "source": "spiritum",
+      "name": "Masmorra do Arbítrio",
+      "nameKey": "masmorra-do-arbitrio",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:masmorra-do-arbitrio"
+    },
+    {
+      "id": "ritual-spiritum-palestra",
+      "source": "spiritum",
+      "name": "Palestra",
+      "nameKey": "palestra",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:palestra"
+    },
+    {
+      "id": "ritual-spiritum-purificar-a-comida",
+      "source": "spiritum",
+      "name": "Purificar a Comida",
+      "nameKey": "purificar-a-comida",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:purificar-a-comida"
+    },
+    {
+      "id": "ritual-spiritum-mapeador-astral",
+      "source": "spiritum",
+      "name": "Mapeador Astral",
+      "nameKey": "mapeador-astral",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:mapeador-astral"
+    },
+    {
+      "id": "ritual-spiritum-equipamentos",
+      "source": "spiritum",
+      "name": "Equipamentos",
+      "nameKey": "equipamentos",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:spiritum:equipamentos"
+    },
+    {
+      "id": "ritual-tagmar-daemon-versao-completa-circulo",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Circulo",
+      "nameKey": "circulo",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:tagmar-daemon-versao-completa:circulo"
+    },
+    {
+      "id": "ritual-tagmar-daemon-versao-completa-permite",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Permite",
+      "nameKey": "permite",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:tagmar-daemon-versao-completa:permite"
+    },
+    {
+      "id": "ritual-trevas-diego-formas-diferentes",
+      "source": "trevas-diego",
+      "name": "Formas diferentes",
+      "nameKey": "formas-diferentes",
+      "category": "ritual_spell",
+      "subtype": "ritual",
+      "lockedArea": "rituais",
+      "certificationId": "ritual-lock:trevas-diego:formas-diferentes"
     }
   ]
 }

@@ -2,52 +2,72 @@
 
 Varredura das fontes prontas com travas separadas para poderes e magias.
 
-- Certified items: 575
-- Certified poderes: 358
-- Certified magias: 217
-- Rejected candidates: 1791
+- Certified items: 885
+- Certified poderes: 480
+- Certified magias: 405
+- Rejected candidates: 3805
 
 ## Policy
 
 - A certified poder is locked to `poderes`.
 - A certified magia is locked to `magias`.
 - Certified poderes/magias cannot be duplicated in another category.
-- Items already locked as `aprimoramentos`, `kits`, `classes`, `racas` or `linhagens` are rejected here.
+- Items already locked as `regras_base`, `aprimoramentos`, `kits`, `classes`, `racas` or `linhagens` are rejected here.
 - Ritual-looking records stay out of `magias` unless they expose clear magic mechanics.
 
 ## Certified by source
 
 | Source | Certified |
 | --- | ---: |
+| `grimorio` | 143 |
 | `poderes-cabalisticos` | 120 |
 | `anjos-requiem-de-fe` | 74 |
 | `grimark201` | 63 |
 | `fadas-2` | 48 |
+| `spiritum` | 37 |
 | `guiademagias` | 35 |
 | `fadas-3-edicao` | 23 |
 | `animalidade` | 18 |
 | `fadadaluz` | 17 |
-| `caminhos2` | 16 |
+| `caminhos2` | 15 |
+| `o-corvo` | 15 |
 | `poderes-de-fe-02` | 15 |
+| `santa-cruz-inferno-verde-biblioteca-elfica` | 14 |
 | `novos-poderes-para-fadas-e-fadas-da-luz` | 13 |
+| `santa-cruz-biblioteca-elfica` | 13 |
 | `grimorio101` | 12 |
+| `dragao-brasil-especial-06-trevas` | 10 |
+| `anjos-jyhad-guerra-santa-biblioteca-elfica` | 9 |
 | `domini-urbs-biblioteca-elfica` | 9 |
+| `jedi` | 9 |
 | `poderes-mentais` | 9 |
-| `racas` | 9 |
+| `racas` | 8 |
+| `sistema-daemon-2-x` | 8 |
+| `anjos-a-cidade-de-prata` | 7 |
 | `fadas` | 7 |
 | `lobisomem-a-maldicao-v2-biblioteca-elfica` | 7 |
 | `yuyu-hakusho-rpg-para-daemon` | 7 |
 | `dragoes-reis-caidos-sistema-daemon` | 6 |
 | `secundarios` | 6 |
-| `cura` | 5 |
+| `dem-nio-o-pre-o-do-poder` | 5 |
 | `gigantes-mitologicos` | 5 |
 | `trevas-campanha-epica` | 5 |
+| `battlemage` | 4 |
 | `cabala-2` | 4 |
+| `corondor` | 4 |
+| `cura` | 4 |
+| `daemon-tormenta` | 4 |
 | `demonios-a-divina-comedia` | 4 |
+| `arkanun-1e-ultra-raro` | 3 |
 | `guia-dragoes-vol-ii` | 3 |
+| `inquisicao-biblioteca-elfica` | 3 |
 | `lobisomem02` | 3 |
 | `magia-negra` | 3 |
+| `tagmar-daemon-versao-completa` | 3 |
+| `trevas-3-0` | 3 |
+| `vikings-biblioteca-elfica` | 3 |
 | `alastores-a-justica-infernal` | 2 |
+| `arkanun` | 2 |
 | `arte-da-guerra` | 2 |
 | `daemon-medieval` | 2 |
 | `dbz-rpg` | 2 |
@@ -57,35 +77,49 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 | `etruscos` | 2 |
 | `gaki` | 2 |
 | `neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica` | 2 |
+| `novo-aeon-guia-basico` | 2 |
 | `trevas-de-marte` | 2 |
 | `alianca-daemon-01` | 1 |
 | `ark-a-nun-arquivos-de-bel-kalaa` | 1 |
+| `daemon-anime-rpg` | 1 |
+| `daiphir-legado-de-sangue` | 1 |
 | `guerreiros-orientais` | 1 |
 | `guia-do-aventureiro-de-arton` | 1 |
 | `imortal-a-centelha` | 1 |
 | `ismails-anjos-islamicos` | 1 |
+| `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` | 1 |
 | `manual-de-converscao` | 1 |
+| `marvel-rpg-7o-edicao` | 1 |
+| `metropolis-2` | 1 |
+| `modulo-basico-expandido-e-modificado` | 1 |
+| `psi` | 1 |
+| `supers01` | 1 |
+| `tagmar-daemon` | 1 |
+| `trevas-diego` | 1 |
+| `um-sussurro-nas-trevas` | 1 |
+| `varna-chamado-da-guerra` | 1 |
 
 ## Rejection reasons
 
 | Reason | Count |
 | --- | ---: |
-| `name_has_sentence_punctuation` | 483 |
-| `no_mechanical_magic_signal` | 460 |
-| `looks_like_ritual` | 168 |
-| `no_mechanical_power_signal` | 99 |
-| `no_power_term` | 93 |
-| `name_is_section_or_empty` | 89 |
-| `name_looks_like_section_heading` | 84 |
-| `entry_too_short` | 61 |
-| `looks_like_stat_block` | 52 |
-| `locked_as_aprimoramento` | 48 |
+| `no_mechanical_magic_signal` | 1227 |
+| `name_has_sentence_punctuation` | 808 |
+| `looks_like_ritual` | 433 |
+| `name_looks_like_section_heading` | 274 |
+| `no_power_term` | 192 |
+| `no_mechanical_power_signal` | 163 |
+| `name_is_section_or_empty` | 126 |
+| `looks_like_stat_block` | 115 |
+| `entry_too_short` | 108 |
+| `name_starts_with_broken_marker` | 82 |
+| `looks_like_kit_or_aprimoramento` | 72 |
 | `locked_as_kit` | 48 |
-| `name_starts_with_broken_marker` | 30 |
-| `looks_like_kit_or_aprimoramento` | 24 |
+| `locked_as_aprimoramento` | 47 |
+| `locked_as_regras_base` | 42 |
+| `no_magic_term` | 28 |
 | `locked_as_raca` | 19 |
-| `duplicate_certification_content` | 17 |
-| `no_magic_term` | 13 |
+| `duplicate_certification_content` | 18 |
 | `locked_as_linhagem` | 2 |
 | `source_is_aprimoramento` | 1 |
 
@@ -135,11 +169,52 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 - `animalidade` / `Época de Transformação`: no_mechanical_power_signal
 - `animalidade` / `Conhecimento do Umbral`: no_mechanical_power_signal
 - `animalidade` / `Harpias`: no_mechanical_power_signal
+- `anime-rpg-powers` / `Cibernética`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `História Sobrenatural`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `Supers com`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `Seres Sobrenaturais`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `Magia em SUPERS`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `Modificação de Poder:`: name_has_sentence_punctuation
+- `anime-rpg-powers` / `Verbal e Gestual`: no_mechanical_magic_signal
+- `anime-rpg-powers` / `Controle hipnótico`: looks_like_stat_block
 - `anime-rpg-supers-monstros-e-viloes` / `DRAGO`: looks_like_stat_block
 - `anime-rpg-supers-monstros-e-viloes` / `ESTÁTUA VIVA`: name_looks_like_section_heading
 - `anime-rpg-supers-monstros-e-viloes` / `Estas`: looks_like_stat_block
 - `anime-rpg-supers-monstros-e-viloes` / `GOLEM`: looks_like_stat_block
 - `anime-rpg-supers-monstros-e-viloes` / `Múmias`: looks_like_ritual
+- `anjos-a-cidade-de-prata` / `HRIUES, A fflAGlA E A SEGUNDA REBEUffi`: name_has_sentence_punctuation
+- `anjos-a-cidade-de-prata` / `ffi Diluvie`: no_mechanical_magic_signal
+- `anjos-a-cidade-de-prata` / `A IDADE DAS TREVAS`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `PeoERes ÚNices`: looks_like_ritual
+- `anjos-a-cidade-de-prata` / `VIRTUDES`: no_mechanical_magic_signal
+- `anjos-a-cidade-de-prata` / `BIBUSTÉCA ARCANA`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `PACres`: looks_like_ritual
+- `anjos-a-cidade-de-prata` / `PERTENCER A umA ESC®LA DE- HIAGIA`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `PERTENCER eu COHIANDAR UIHA SEITA`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `PODERES IIIÁGices:`: name_has_sentence_punctuation
+- `anjos-a-cidade-de-prata` / `SENSO DE DlRECAO`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `TUTOR`: no_mechanical_magic_signal
+- `anjos-a-cidade-de-prata` / `(somente Tronos)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `ASAS ASTRAIS`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `(somente Captare)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `DEFESAS`: no_power_term
+- `anjos-a-cidade-de-prata` / `DEFESAS ESPECIAIS`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `(somente Potências)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Recíperes)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `DISFARCES`: no_power_term
+- `anjos-a-cidade-de-prata` / `(somente Principados)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Dominações)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Protetores)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Nimbus)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Corpore)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Virtudes)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `(somente Querubins)`: name_starts_with_broken_marker
+- `anjos-a-cidade-de-prata` / `RfiGENfiRACA©`: looks_like_stat_block
+- `anjos-a-cidade-de-prata` / `TfiLECINlSIA`: looks_like_stat_block
+- `anjos-a-cidade-de-prata` / `6 O`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata` / `P®NT©S D6`: name_looks_like_section_heading
+- `anjos-a-cidade-de-prata-angelicos-sicarios` / `Imagens internas:`: name_has_sentence_punctuation
+- `anjos-a-cidade-de-prata-angelicos-sicarios` / `Lúcifer),`: name_has_sentence_punctuation
 - `anjos-jyhad-faces-da-fe` / `Os Hephzibah consegui-`: no_mechanical_magic_signal
 - `anjos-jyhad-faces-da-fe` / `Tendência: judaica`: name_has_sentence_punctuation
 - `anjos-jyhad-faces-da-fe` / `Tornar-se`: no_mechanical_magic_signal
@@ -150,64 +225,23 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 - `anjos-jyhad-faces-da-fe` / `Religiosos`: no_mechanical_magic_signal
 - `anjos-jyhad-faces-da-fe` / `Religiões`: looks_like_ritual
 - `anjos-jyhad-faces-da-fe` / `Aprimoramento: Tornar-se um Es-`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Caro aluno,`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `O Dilúvio`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Deuses`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Terra Prometida`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Velho Mundo. As Grandes Navegações`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Escolha os Atributos`: name_is_section_or_empty
-- `anjos-requiem-de-fe` / `Alcunha: Mercadores`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Capítulo Três: Coros`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Mysticum`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Ação: Reflexiva`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Ação: Instantânea`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Capítulo Cinco: Ma-`: name_has_sentence_punctuation
-- `anjos-requiem-de-fe` / `Caminhos`: name_is_section_or_empty
-- `anjos-requiem-de-fe` / `Custo`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Parada de Dados`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Regras de Jogo`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Deformações`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Duração`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Água`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Animal`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Arkanun`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Fogo`: looks_like_ritual
-- `anjos-requiem-de-fe` / `Humanos`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Metamagia`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Plantas`: no_mechanical_magic_signal
-- `anjos-requiem-de-fe` / `Terra`: no_mechanical_magic_signal
-- `anjossombras01` / `Capítulo I – Esquecimento…`: no_mechanical_magic_signal
-- `anoes` / `Apenas para Duegares`: name_is_section_or_empty
-- `anoes` / `Clérigo`: looks_like_kit_or_aprimoramento
-- `anoes` / `Guerreiro`: looks_like_kit_or_aprimoramento
-- `anoes` / `Ladrão`: looks_like_kit_or_aprimoramento
-- `aprimoramentos-2` / `AUMENTAR MAGIA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `Aprimoramento Foco em Caminho`: locked_as_aprimoramento
-- `aprimoramentos-2` / `ELEVAR MAGIA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `ESTENDER MAGIA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `FOCO EM CAMINHO`: locked_as_aprimoramento
-- `aprimoramentos-2` / `MAESTRIA EM CAMINHO`: name_looks_like_section_heading
-- `aprimoramentos-2` / `MAGIA SEM GESTOS`: locked_as_aprimoramento
-- `aprimoramentos-2` / `MAGIA SILENCIOSA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `MAXIMIZAR MAGIA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `METAMÁGICOS`: no_mechanical_magic_signal
-- `aprimoramentos-2` / `ACELERADA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `CARGA EXTRA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `CUSTO REDUZIDO`: locked_as_aprimoramento
-- `aprimoramentos-2` / `DESGASTANTE`: locked_as_aprimoramento
-- `aprimoramentos-2` / `INSTÁVEL`: locked_as_aprimoramento
-- `aprimoramentos-2` / `PONTOS DE MAGIA EXTRAS`: locked_as_aprimoramento
-- `aprimoramentos-2` / `POTENCIALIZAR MAGIA`: locked_as_aprimoramento
-- `aprimoramentos-2` / `SOMENTE À TODO VAPOR`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Este`: name_is_section_or_empty
-- `aprimoramentos-3` / `Foco em Caminho`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Grimório`: name_is_section_or_empty
-- `aprimoramentos-3` / `Magia Duradoura`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Magia Máxima`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Magia Sem Gestos`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Magia Silenciosa`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Mestre em Caminho`: entry_too_short
-- `aprimoramentos-3` / `Poderes Mágicos`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Testes`: locked_as_aprimoramento
-- `aprimoramentos-3` / `Trata-se`: no_mechanical_magic_signal
-- `aprimoramentos-3` / `Rituais`: name_is_section_or_empty
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `XIITAS`: looks_like_ritual
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `DRGANIZAO`: no_mechanical_magic_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `BeNE ELeHIM`: looks_like_ritual
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `ALCUNHA: EmIssÁRIOS`: name_has_sentence_punctuation
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `BiBLIBTECA ÁRCANA`: name_looks_like_section_heading
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `CeONTATES`: no_mechanical_magic_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PERTENCER &U COMANDAR UMA SEITA`: name_looks_like_section_heading
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PERTENCER A UMA ESCOLA DE MAGIA`: name_looks_like_section_heading
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PactTes`: looks_like_ritual
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PeDERES IÁGiCas:`: name_has_sentence_punctuation
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `SENS& DE DIREO`: name_looks_like_section_heading
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `TUTOR`: no_mechanical_magic_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `ASAS ÁSTRAIS`: name_looks_like_section_heading
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `BARDO`: name_is_section_or_empty
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `(somente Dalil)`: name_starts_with_broken_marker
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `(somente Seraphim)`: name_starts_with_broken_marker
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `(samente Erelim)`: name_starts_with_broken_marker
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `(somente Hayyoth)`: name_starts_with_broken_marker
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `CAPTARE`: name_is_section_or_empty
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `COMBATE ú`: name_looks_like_section_heading

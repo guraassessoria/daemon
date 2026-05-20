@@ -182,6 +182,7 @@ def main() -> None:
         raise SystemExit("ritual_spell_granular.json is not a list.")
 
     locked_names = {
+        "regras_base": lock_source_names("regras-base-certified-lock.json"),
         "aprimoramento": lock_source_names("aprimoramentos-certified-lock.json"),
         "kit": lock_source_names("kits-certified-lock.json"),
         "class": lock_source_names("classes-certified-lock.json"),
@@ -237,6 +238,7 @@ def main() -> None:
             "certified_items_are_locked_to_area": True,
             "certified_items_must_not_be_duplicated_in_other_categories": True,
             "uncertified_ritual_claims_do_not_enter_rituais": True,
+            "certified_regras_base_items_are_not_reclassified_as_rituais": True,
             "certified_poderes_and_magias_are_not_reclassified_as_rituais": True,
             "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_rituais": True,
         },
@@ -260,7 +262,7 @@ def main() -> None:
         "",
         "- A certified ritual is locked to `rituais`.",
         "- A certified ritual cannot be duplicated in another category.",
-        "- Items already locked as `aprimoramentos`, `kits`, `classes`, `racas`, `linhagens`, `poderes` or `magias` are rejected here.",
+        "- Items already locked as `regras_base`, `aprimoramentos`, `kits`, `classes`, `racas`, `linhagens`, `poderes` or `magias` are rejected here.",
         "- Kit/class stat blocks and generic ritual sections are rejected.",
         "",
         "## Certified by source",

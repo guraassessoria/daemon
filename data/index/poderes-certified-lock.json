@@ -5,10 +5,11 @@
     "certified_items_are_locked_to_area": true,
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_power_claims_do_not_enter_poderes": true,
+    "certified_regras_base_items_are_not_reclassified_as_poderes": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_poderes": true
   },
-  "certifiedCount": 358,
-  "rejectedCount": 1791,
+  "certifiedCount": 480,
+  "rejectedCount": 3805,
   "records": [
     {
       "id": "poder-alastores-a-justica-infernal-marcas",
@@ -221,6 +222,166 @@
       "certificationId": "poder-lock:animalidade:visao-noturna"
     },
     {
+      "id": "poder-anjos-a-cidade-de-prata-bfinci",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "BfiNCî",
+      "nameKey": "bfinci",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:bfinci"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-cefflbate",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "CefflBATÊ",
+      "nameKey": "cefflbate",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:cefflbate"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-cemunhe",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "CemuNHé",
+      "nameKey": "cemunhe",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:cemunhe"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-cntr0lfi-niental",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "C®NTR0Lfi niENTAL",
+      "nameKey": "cntr0lfi-niental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:cntr0lfi-niental"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-nfirgizace",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "NfiRGIZACé",
+      "nameKey": "nfirgizace",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:nfirgizace"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-gupe",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "Gupe",
+      "nameKey": "gupe",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:gupe"
+    },
+    {
+      "id": "poder-anjos-a-cidade-de-prata-simuiacre",
+      "source": "anjos-a-cidade-de-prata",
+      "name": "SimuiACRe",
+      "nameKey": "simuiacre",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-a-cidade-de-prata:simuiacre"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-avidan",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "ÁVIDAN",
+      "nameKey": "avidan",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:avidan"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-bencao",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "Benção",
+      "nameKey": "bencao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:bencao"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-comunhooo",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "ComuNHOoO",
+      "nameKey": "comunhooo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:comunhooo"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-druidia",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "DRUIDIA",
+      "nameKey": "druidia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:druidia"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-energizao",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "ENERGIZAO",
+      "nameKey": "energizao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:energizao"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-feudo",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "FEUDO",
+      "nameKey": "feudo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:feudo"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-glifo",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "GLIFO",
+      "nameKey": "glifo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:glifo"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-hassan",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "HASSAN",
+      "nameKey": "hassan",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:hassan"
+    },
+    {
+      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-nimbus",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "name": "NimBus",
+      "nameKey": "nimbus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:nimbus"
+    },
+    {
       "id": "poder-anjos-requiem-de-fe-abencoar",
       "source": "anjos-requiem-de-fe",
       "name": "Abençoar",
@@ -351,6 +512,16 @@
       "certificationId": "poder-lock:ark-a-nun-arquivos-de-bel-kalaa:nivel-repoem-dias"
     },
     {
+      "id": "poder-arkanun-1e-ultra-raro-will-3d",
+      "source": "arkanun-1e-ultra-raro",
+      "name": "WILL 3d",
+      "nameKey": "will-3d",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:arkanun-1e-ultra-raro:will-3d"
+    },
+    {
       "id": "poder-arte-da-guerra-ajna",
       "source": "arte-da-guerra",
       "name": "AJNA",
@@ -369,6 +540,46 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:arte-da-guerra:sahasrara"
+    },
+    {
+      "id": "poder-battlemage-alterismo",
+      "source": "battlemage",
+      "name": "ALTERISMO",
+      "nameKey": "alterismo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:battlemage:alterismo"
+    },
+    {
+      "id": "poder-battlemage-alterismo-5",
+      "source": "battlemage",
+      "name": "Alterismo (5)",
+      "nameKey": "alterismo-5",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:battlemage:alterismo-5"
+    },
+    {
+      "id": "poder-battlemage-defesas-especiais-6",
+      "source": "battlemage",
+      "name": "Defesas Especiais (6)",
+      "nameKey": "defesas-especiais-6",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:battlemage:defesas-especiais-6"
+    },
+    {
+      "id": "poder-battlemage-controle-mental",
+      "source": "battlemage",
+      "name": "Controle Mental",
+      "nameKey": "controle-mental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:battlemage:controle-mental"
     },
     {
       "id": "poder-cabala-2-dreno-de-energia",
@@ -401,6 +612,46 @@
       "certificationId": "poder-lock:cabala-2:agua-amaldicoada"
     },
     {
+      "id": "poder-corondor-defesas-especiais",
+      "source": "corondor",
+      "name": "Defesas Especiais",
+      "nameKey": "defesas-especiais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:corondor:defesas-especiais"
+    },
+    {
+      "id": "poder-corondor-dentes-e-boca",
+      "source": "corondor",
+      "name": "Dentes e Boca",
+      "nameKey": "dentes-e-boca",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:corondor:dentes-e-boca"
+    },
+    {
+      "id": "poder-corondor-mutilacao",
+      "source": "corondor",
+      "name": "Mutilação",
+      "nameKey": "mutilacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:corondor:mutilacao"
+    },
+    {
+      "id": "poder-corondor-sentir-o-sobrenatural",
+      "source": "corondor",
+      "name": "Sentir o Sobrenatural",
+      "nameKey": "sentir-o-sobrenatural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:corondor:sentir-o-sobrenatural"
+    },
+    {
       "id": "poder-cura-cura-avancada",
       "source": "cura",
       "name": "Cura avançada",
@@ -419,16 +670,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:cura:poderes-da-fe"
-    },
-    {
-      "id": "poder-cura-cura-de-skady",
-      "source": "cura",
-      "name": "Cura de Skady",
-      "nameKey": "cura-de-skady",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:cura:cura-de-skady"
     },
     {
       "id": "poder-cura-forca-de-deus",
@@ -451,6 +692,26 @@
       "certificationId": "poder-lock:cura:gui-gui-gury"
     },
     {
+      "id": "poder-daemon-anime-rpg-medica",
+      "source": "daemon-anime-rpg",
+      "name": "Médica",
+      "nameKey": "medica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:daemon-anime-rpg:medica"
+    },
+    {
+      "id": "poder-daemon-tormenta-meio-elfos",
+      "source": "daemon-tormenta",
+      "name": "Meio-elfos",
+      "nameKey": "meio-elfos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:daemon-tormenta:meio-elfos"
+    },
+    {
       "id": "poder-dbz-rpg-controle-de-crescimento",
       "source": "dbz-rpg",
       "name": "Controle de Crescimento",
@@ -469,6 +730,56 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:dbz-rpg:fusao-metamaru"
+    },
+    {
+      "id": "poder-dem-nio-o-pre-o-do-poder-biblioteca",
+      "source": "dem-nio-o-pre-o-do-poder",
+      "name": "BIBLIOTECA",
+      "nameKey": "biblioteca",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:biblioteca"
+    },
+    {
+      "id": "poder-dem-nio-o-pre-o-do-poder-nivel-9",
+      "source": "dem-nio-o-pre-o-do-poder",
+      "name": "Nível 9",
+      "nameKey": "nivel-9",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:nivel-9"
+    },
+    {
+      "id": "poder-dem-nio-o-pre-o-do-poder-caracteristica-sobrenatural",
+      "source": "dem-nio-o-pre-o-do-poder",
+      "name": "Característica Sobrenatural",
+      "nameKey": "caracteristica-sobrenatural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:caracteristica-sobrenatural"
+    },
+    {
+      "id": "poder-dem-nio-o-pre-o-do-poder-nivel-atual-x2",
+      "source": "dem-nio-o-pre-o-do-poder",
+      "name": "Nível Atual x2",
+      "nameKey": "nivel-atual-x2",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:nivel-atual-x2"
+    },
+    {
+      "id": "poder-dem-nio-o-pre-o-do-poder-de-quintessencia",
+      "source": "dem-nio-o-pre-o-do-poder",
+      "name": "de Quintessência",
+      "nameKey": "de-quintessencia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:de-quintessencia"
     },
     {
       "id": "poder-demonios-a-divina-comedia-succubi-incubi",
@@ -569,6 +880,36 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:domini-urbs-biblioteca-elfica:verdade-compulsiva"
+    },
+    {
+      "id": "poder-dragao-brasil-especial-06-trevas-capricho-dos-anos",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Capricho dos Anos",
+      "nameKey": "capricho-dos-anos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragao-brasil-especial-06-trevas:capricho-dos-anos"
+    },
+    {
+      "id": "poder-dragao-brasil-especial-06-trevas-leitura-de-mentes",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Leitura de Mentes",
+      "nameKey": "leitura-de-mentes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragao-brasil-especial-06-trevas:leitura-de-mentes"
+    },
+    {
+      "id": "poder-dragao-brasil-especial-06-trevas-leque-cromatico-de-mandragora",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Leque Cromático de Mandrágora",
+      "nameKey": "leque-cromatico-de-mandragora",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:dragao-brasil-especial-06-trevas:leque-cromatico-de-mandragora"
     },
     {
       "id": "poder-dragoes-reis-caidos-sistema-daemon-asas",
@@ -1731,6 +2072,96 @@
       "certificationId": "poder-lock:ismails-anjos-islamicos:bloqueio-de-poderes-angelicais"
     },
     {
+      "id": "poder-jedi-wokies",
+      "source": "jedi",
+      "name": "Wokies",
+      "nameKey": "wokies",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:wokies"
+    },
+    {
+      "id": "poder-jedi-alterar-percepcoes",
+      "source": "jedi",
+      "name": "Alterar Percepções",
+      "nameKey": "alterar-percepcoes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:alterar-percepcoes"
+    },
+    {
+      "id": "poder-jedi-impulso",
+      "source": "jedi",
+      "name": "Impulso",
+      "nameKey": "impulso",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:impulso"
+    },
+    {
+      "id": "poder-jedi-poderes-jedi",
+      "source": "jedi",
+      "name": "Poderes Jedi",
+      "nameKey": "poderes-jedi",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:poderes-jedi"
+    },
+    {
+      "id": "poder-jedi-sentidos-ampliados",
+      "source": "jedi",
+      "name": "Sentidos Ampliados",
+      "nameKey": "sentidos-ampliados",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:sentidos-ampliados"
+    },
+    {
+      "id": "poder-jedi-sincronia",
+      "source": "jedi",
+      "name": "Sincronia",
+      "nameKey": "sincronia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:sincronia"
+    },
+    {
+      "id": "poder-jedi-drenar-vitalidade",
+      "source": "jedi",
+      "name": "Drenar Vitalidade",
+      "nameKey": "drenar-vitalidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:drenar-vitalidade"
+    },
+    {
+      "id": "poder-jedi-tempestade-da-forca",
+      "source": "jedi",
+      "name": "Tempestade da Força",
+      "nameKey": "tempestade-da-forca",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:tempestade-da-forca"
+    },
+    {
+      "id": "poder-jedi-tranferir-essencia",
+      "source": "jedi",
+      "name": "Tranferir Essência",
+      "nameKey": "tranferir-essencia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:jedi:tranferir-essencia"
+    },
+    {
       "id": "poder-lobisomem-a-maldicao-v2-biblioteca-elfica-bencao-de-cronos",
       "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
       "name": "Benção de Cronos",
@@ -1811,6 +2242,26 @@
       "certificationId": "poder-lock:lobisomem02:uma"
     },
     {
+      "id": "poder-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-ficha",
+      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
+      "name": "Ficha",
+      "nameKey": "ficha",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:ficha"
+    },
+    {
+      "id": "poder-marvel-rpg-7o-edicao-shiar",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "SHI’AR",
+      "nameKey": "shiar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:marvel-rpg-7o-edicao:shiar"
+    },
+    {
       "id": "poder-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-esta",
       "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
       "name": "Esta",
@@ -1829,6 +2280,26 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:ou-poderes-maatianos"
+    },
+    {
+      "id": "poder-novo-aeon-guia-basico-especial",
+      "source": "novo-aeon-guia-basico",
+      "name": "Especial",
+      "nameKey": "especial",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novo-aeon-guia-basico:especial"
+    },
+    {
+      "id": "poder-novo-aeon-guia-basico-patronos-e-pericias",
+      "source": "novo-aeon-guia-basico",
+      "name": "Patronos e Perícias",
+      "nameKey": "patronos-e-pericias",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:novo-aeon-guia-basico:patronos-e-pericias"
     },
     {
       "id": "poder-novos-poderes-para-fadas-e-fadas-da-luz-barreira-mental",
@@ -1959,6 +2430,46 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:novos-poderes-para-fadas-e-fadas-da-luz:magias-simples"
+    },
+    {
+      "id": "poder-o-corvo-controle-mental",
+      "source": "o-corvo",
+      "name": "Controle Mental",
+      "nameKey": "controle-mental",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:o-corvo:controle-mental"
+    },
+    {
+      "id": "poder-o-corvo-resistyncia-dor",
+      "source": "o-corvo",
+      "name": "ResistŸncia — Dor",
+      "nameKey": "resistyncia-dor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:o-corvo:resistyncia-dor"
+    },
+    {
+      "id": "poder-o-corvo-familiar",
+      "source": "o-corvo",
+      "name": "Familiar",
+      "nameKey": "familiar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:o-corvo:familiar"
+    },
+    {
+      "id": "poder-o-corvo-velocidade",
+      "source": "o-corvo",
+      "name": "Velocidade",
+      "nameKey": "velocidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:o-corvo:velocidade"
     },
     {
       "id": "poder-poderes-cabalisticos-arautos-da-guerra",
@@ -3401,14 +3912,14 @@
       "certificationId": "poder-lock:poderes-mentais:recuperando-pontos-mentais"
     },
     {
-      "id": "poder-racas-gigante",
-      "source": "racas",
-      "name": "Gigante",
-      "nameKey": "gigante",
+      "id": "poder-psi-drp-drugs-restoring-psychic",
+      "source": "psi",
+      "name": "DRP (Drugs Restoring Psychic)",
+      "nameKey": "drp-drugs-restoring-psychic",
       "category": "power_magic",
       "subtype": "poder",
       "lockedArea": "poderes",
-      "certificationId": "poder-lock:racas:gigante"
+      "certificationId": "poder-lock:psi:drp-drugs-restoring-psychic"
     },
     {
       "id": "poder-racas-manta",
@@ -3441,6 +3952,226 @@
       "certificationId": "poder-lock:racas:sprite"
     },
     {
+      "id": "poder-santa-cruz-biblioteca-elfica-muiraquitas",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Muiraquitãs",
+      "nameKey": "muiraquitas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:muiraquitas"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-poderes-da-fe",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Poderes da Fé",
+      "nameKey": "poderes-da-fe",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:poderes-da-fe"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-voz-da-deusa",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Voz da Deusa",
+      "nameKey": "voz-da-deusa",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:voz-da-deusa"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-ataque-certeiro",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Ataque certeiro",
+      "nameKey": "ataque-certeiro",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:ataque-certeiro"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-chamdo-da-selva",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Chamdo da Selva",
+      "nameKey": "chamdo-da-selva",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:chamdo-da-selva"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-resistencia",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Resistência",
+      "nameKey": "resistencia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:resistencia"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-induzir-amnesia",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Induzir Amnésia",
+      "nameKey": "induzir-amnesia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:induzir-amnesia"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-intangibilidade",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Intangibilidade",
+      "nameKey": "intangibilidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:intangibilidade"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-mortus",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Mortus",
+      "nameKey": "mortus",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:mortus"
+    },
+    {
+      "id": "poder-santa-cruz-biblioteca-elfica-sentir-o-sobrenatural",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Sentir o Sobrenatural",
+      "nameKey": "sentir-o-sobrenatural",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-biblioteca-elfica:sentir-o-sobrenatural"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-cria",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Cria",
+      "nameKey": "cria",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:cria"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-fotos",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Fotos",
+      "nameKey": "fotos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:fotos"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-camuflagem",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Camuflagem",
+      "nameKey": "camuflagem",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:camuflagem"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-profecia",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Profecia",
+      "nameKey": "profecia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:profecia"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-controle-das-aguas",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Controle das Águas",
+      "nameKey": "controle-das-aguas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:controle-das-aguas"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-cura",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Cura",
+      "nameKey": "cura",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:cura"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-dardos-de-pedra",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Dardos de Pedra",
+      "nameKey": "dardos-de-pedra",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:dardos-de-pedra"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-desviar-de-ataques",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Desviar de Ataques",
+      "nameKey": "desviar-de-ataques",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:desviar-de-ataques"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-exorcismo",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Exorcismo",
+      "nameKey": "exorcismo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:exorcismo"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-levitar",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Levitar",
+      "nameKey": "levitar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:levitar"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-localizar-agua",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Localizar Água",
+      "nameKey": "localizar-agua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:localizar-agua"
+    },
+    {
+      "id": "poder-santa-cruz-inferno-verde-biblioteca-elfica-purificar-agua",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Purificar Água",
+      "nameKey": "purificar-agua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:santa-cruz-inferno-verde-biblioteca-elfica:purificar-agua"
+    },
+    {
       "id": "poder-secundarios-aura-maldita",
       "source": "secundarios",
       "name": "Aura Maldita",
@@ -3449,6 +4180,446 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:secundarios:aura-maldita"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-poderes-vampiricos",
+      "source": "sistema-daemon-2-x",
+      "name": "Poderes Vampíricos",
+      "nameKey": "poderes-vampiricos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:poderes-vampiricos"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-velocidade",
+      "source": "sistema-daemon-2-x",
+      "name": "Velocidade",
+      "nameKey": "velocidade",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:velocidade"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-lobisomens",
+      "source": "sistema-daemon-2-x",
+      "name": "Lobisomens",
+      "nameKey": "lobisomens",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:lobisomens"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-poderes-angelicais",
+      "source": "sistema-daemon-2-x",
+      "name": "Poderes Angelicais",
+      "nameKey": "poderes-angelicais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:poderes-angelicais"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-poderes-licantropicos",
+      "source": "sistema-daemon-2-x",
+      "name": "Poderes Licantrópicos",
+      "nameKey": "poderes-licantropicos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:poderes-licantropicos"
+    },
+    {
+      "id": "poder-sistema-daemon-2-x-sua",
+      "source": "sistema-daemon-2-x",
+      "name": "Sua",
+      "nameKey": "sua",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:sistema-daemon-2-x:sua"
+    },
+    {
+      "id": "poder-spiritum-abencoar",
+      "source": "spiritum",
+      "name": "Abençoar",
+      "nameKey": "abencoar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:abencoar"
+    },
+    {
+      "id": "poder-spiritum-afastar-mortos-vivos",
+      "source": "spiritum",
+      "name": "Afastar mortos-vivos",
+      "nameKey": "afastar-mortos-vivos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:afastar-mortos-vivos"
+    },
+    {
+      "id": "poder-spiritum-ativacao-de-itens-magicos",
+      "source": "spiritum",
+      "name": "Ativação de Itens Mágicos",
+      "nameKey": "ativacao-de-itens-magicos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:ativacao-de-itens-magicos"
+    },
+    {
+      "id": "poder-spiritum-aumento-milagroso-de-atributos",
+      "source": "spiritum",
+      "name": "Aumento Milagroso de Atributos",
+      "nameKey": "aumento-milagroso-de-atributos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:aumento-milagroso-de-atributos"
+    },
+    {
+      "id": "poder-spiritum-bencao-coletiva",
+      "source": "spiritum",
+      "name": "Bênção Coletiva",
+      "nameKey": "bencao-coletiva",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:bencao-coletiva"
+    },
+    {
+      "id": "poder-spiritum-comando",
+      "source": "spiritum",
+      "name": "Comando",
+      "nameKey": "comando",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:comando"
+    },
+    {
+      "id": "poder-spiritum-conversar-com-animais",
+      "source": "spiritum",
+      "name": "Conversar com Animais",
+      "nameKey": "conversar-com-animais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:conversar-com-animais"
+    },
+    {
+      "id": "poder-spiritum-cura",
+      "source": "spiritum",
+      "name": "Cura",
+      "nameKey": "cura",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:cura"
+    },
+    {
+      "id": "poder-spiritum-cura-de-doencas",
+      "source": "spiritum",
+      "name": "Cura de Doenças",
+      "nameKey": "cura-de-doencas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:cura-de-doencas"
+    },
+    {
+      "id": "poder-spiritum-desencantar",
+      "source": "spiritum",
+      "name": "Desencantar",
+      "nameKey": "desencantar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:desencantar"
+    },
+    {
+      "id": "poder-spiritum-encantar",
+      "source": "spiritum",
+      "name": "Encantar",
+      "nameKey": "encantar",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:encantar"
+    },
+    {
+      "id": "poder-spiritum-tempestades",
+      "source": "spiritum",
+      "name": "Tempestades",
+      "nameKey": "tempestades",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:tempestades"
+    },
+    {
+      "id": "poder-spiritum-asas-espectrais",
+      "source": "spiritum",
+      "name": "Asas Espectrais",
+      "nameKey": "asas-espectrais",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:asas-espectrais"
+    },
+    {
+      "id": "poder-spiritum-comunicacao",
+      "source": "spiritum",
+      "name": "Comunicação",
+      "nameKey": "comunicacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:comunicacao"
+    },
+    {
+      "id": "poder-spiritum-detectar-mudanca-de-forma",
+      "source": "spiritum",
+      "name": "Detectar Mudança de Forma",
+      "nameKey": "detectar-mudanca-de-forma",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:detectar-mudanca-de-forma"
+    },
+    {
+      "id": "poder-spiritum-isolamento-astral",
+      "source": "spiritum",
+      "name": "Isolamento Astral",
+      "nameKey": "isolamento-astral",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:isolamento-astral"
+    },
+    {
+      "id": "poder-spiritum-linhas-do-tempo",
+      "source": "spiritum",
+      "name": "Linhas do Tempo",
+      "nameKey": "linhas-do-tempo",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:linhas-do-tempo"
+    },
+    {
+      "id": "poder-spiritum-localizar-espiritos-encarnados",
+      "source": "spiritum",
+      "name": "Localizar Espíritos Encarnados",
+      "nameKey": "localizar-espiritos-encarnados",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:localizar-espiritos-encarnados"
+    },
+    {
+      "id": "poder-spiritum-localizar-outros-espiritos",
+      "source": "spiritum",
+      "name": "Localizar Outros Espíritos",
+      "nameKey": "localizar-outros-espiritos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:localizar-outros-espiritos"
+    },
+    {
+      "id": "poder-spiritum-luzes",
+      "source": "spiritum",
+      "name": "Luzes",
+      "nameKey": "luzes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:luzes"
+    },
+    {
+      "id": "poder-spiritum-materializacao",
+      "source": "spiritum",
+      "name": "Materialização",
+      "nameKey": "materializacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:materializacao"
+    },
+    {
+      "id": "poder-spiritum-modificar-outros-espiritos",
+      "source": "spiritum",
+      "name": "Modificar Outros Espíritos",
+      "nameKey": "modificar-outros-espiritos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:modificar-outros-espiritos"
+    },
+    {
+      "id": "poder-spiritum-modificar-a-forma-pensamento",
+      "source": "spiritum",
+      "name": "Modificar a Forma-Pensamento",
+      "nameKey": "modificar-a-forma-pensamento",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:modificar-a-forma-pensamento"
+    },
+    {
+      "id": "poder-spiritum-mudanca-de-forma",
+      "source": "spiritum",
+      "name": "Mudança de Forma",
+      "nameKey": "mudanca-de-forma",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:mudanca-de-forma"
+    },
+    {
+      "id": "poder-spiritum-olhar-morto",
+      "source": "spiritum",
+      "name": "Olhar Morto",
+      "nameKey": "olhar-morto",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:olhar-morto"
+    },
+    {
+      "id": "poder-spiritum-orientacao",
+      "source": "spiritum",
+      "name": "Orientação",
+      "nameKey": "orientacao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:orientacao"
+    },
+    {
+      "id": "poder-spiritum-poderes-vampiricos",
+      "source": "spiritum",
+      "name": "Poderes Vampíricos",
+      "nameKey": "poderes-vampiricos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:poderes-vampiricos"
+    },
+    {
+      "id": "poder-spiritum-possessao",
+      "source": "spiritum",
+      "name": "Possessão",
+      "nameKey": "possessao",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:possessao"
+    },
+    {
+      "id": "poder-spiritum-prisao-eterca",
+      "source": "spiritum",
+      "name": "Prisão Etérca",
+      "nameKey": "prisao-eterca",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:prisao-eterca"
+    },
+    {
+      "id": "poder-spiritum-saltos-etereos",
+      "source": "spiritum",
+      "name": "Saltos Etéreos",
+      "nameKey": "saltos-etereos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:saltos-etereos"
+    },
+    {
+      "id": "poder-spiritum-sintonia",
+      "source": "spiritum",
+      "name": "Sintonia",
+      "nameKey": "sintonia",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:sintonia"
+    },
+    {
+      "id": "poder-spiritum-vozes",
+      "source": "spiritum",
+      "name": "Vozes",
+      "nameKey": "vozes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:spiritum:vozes"
+    },
+    {
+      "id": "poder-tagmar-daemon-versao-completa-outros-detalhes",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Outros Detalhes",
+      "nameKey": "outros-detalhes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:tagmar-daemon-versao-completa:outros-detalhes"
+    },
+    {
+      "id": "poder-tagmar-daemon-versao-completa-pequeninos",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Pequeninos",
+      "nameKey": "pequeninos",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:tagmar-daemon-versao-completa:pequeninos"
+    },
+    {
+      "id": "poder-tagmar-daemon-versao-completa-anoes",
+      "source": "tagmar-daemon-versao-completa",
+      "name": "Anões",
+      "nameKey": "anoes",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:tagmar-daemon-versao-completa:anoes"
+    },
+    {
+      "id": "poder-trevas-3-0-chhc-pui-o-c",
+      "source": "trevas-3-0",
+      "name": "ChHC pUI O\"C",
+      "nameKey": "chhc-pui-o-c",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-3-0:chhc-pui-o-c"
+    },
+    {
+      "id": "poder-trevas-3-0-outros-premios",
+      "source": "trevas-3-0",
+      "name": "Outros prêmios",
+      "nameKey": "outros-premios",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-3-0:outros-premios"
+    },
+    {
+      "id": "poder-trevas-3-0-conflitos-entre-sociedades-secretas",
+      "source": "trevas-3-0",
+      "name": "Conflitos entre Sociedades Secretas",
+      "nameKey": "conflitos-entre-sociedades-secretas",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-3-0:conflitos-entre-sociedades-secretas"
     },
     {
       "id": "poder-trevas-campanha-epica-andlangr",
@@ -3519,6 +4690,56 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:trevas-de-marte:daimons-servos-de-ares-marte"
+    },
+    {
+      "id": "poder-trevas-diego-fadiga",
+      "source": "trevas-diego",
+      "name": "Fadiga",
+      "nameKey": "fadiga",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:trevas-diego:fadiga"
+    },
+    {
+      "id": "poder-um-sussurro-nas-trevas-int",
+      "source": "um-sussurro-nas-trevas",
+      "name": "INT",
+      "nameKey": "int",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:um-sussurro-nas-trevas:int"
+    },
+    {
+      "id": "poder-vikings-biblioteca-elfica-montaria",
+      "source": "vikings-biblioteca-elfica",
+      "name": "MONTARIA",
+      "nameKey": "montaria",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:vikings-biblioteca-elfica:montaria"
+    },
+    {
+      "id": "poder-vikings-biblioteca-elfica-uvas-de-thor",
+      "source": "vikings-biblioteca-elfica",
+      "name": "[uvas DE THOR",
+      "nameKey": "uvas-de-thor",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:vikings-biblioteca-elfica:uvas-de-thor"
+    },
+    {
+      "id": "poder-vikings-biblioteca-elfica-arvinge",
+      "source": "vikings-biblioteca-elfica",
+      "name": "ARVINGE",
+      "nameKey": "arvinge",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:vikings-biblioteca-elfica:arvinge"
     },
     {
       "id": "poder-yuyu-hakusho-rpg-para-daemon-monstruoso",

@@ -152,31 +152,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "geracao-aleatoria-de-atributos",
-    "name": "Geracao aleatoria de atributos",
-    "category": "core_rule",
-    "source": "alianca-daemon-01",
-    "page": 30,
-    "entries": [
-      "Metodo alternativo para gerar atributos no Sistema Daemon rolando 1d10+8 para cada atributo e permitindo troca final entre dois valores."
-    ],
-    "tags": [
-      "atributos",
-      "certificado",
-      "criacao-de-personagem",
-      "regra-opcional",
-      "regras-base"
-    ],
-    "confidence": 0.9,
-    "extractionMethod": "manual-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:alianca-daemon-01:geracao-aleatoria-de-atributos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-opcional-sem-custo",
     "name": "Regra Opcional: Sem Custo",
     "category": "core_rule",

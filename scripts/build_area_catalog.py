@@ -1197,7 +1197,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
         area: {"entities": [], "sourceParts": []} for area in AREA_LABELS
     }
     for item in part_items:
-        if item["area"] in {"regras_base", "aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias"}:
+        if item["area"] in {"regras_base", "aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias", "rituais"}:
             continue
         by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["sourceParts"].append(enrich_display_quality(item, "sourcePart"))
     for item in entity_items:

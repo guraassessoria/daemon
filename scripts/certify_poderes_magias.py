@@ -392,6 +392,7 @@ def main() -> None:
         raise SystemExit("power_magic_granular.json is not a list.")
 
     locked_names = {
+        "regras_base": lock_source_names("regras-base-certified-lock.json"),
         "aprimoramento": lock_source_names("aprimoramentos-certified-lock.json"),
         "kit": lock_source_names("kits-certified-lock.json"),
         "class": lock_source_names("classes-certified-lock.json"),
@@ -435,6 +436,7 @@ def main() -> None:
             "certified_items_are_locked_to_area": True,
             "certified_items_must_not_be_duplicated_in_other_categories": True,
             "uncertified_power_claims_do_not_enter_poderes": True,
+            "certified_regras_base_items_are_not_reclassified_as_poderes": True,
             "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_poderes": True,
         },
         "certifiedCount": len(power_records),
@@ -448,6 +450,7 @@ def main() -> None:
             "certified_items_are_locked_to_area": True,
             "certified_items_must_not_be_duplicated_in_other_categories": True,
             "uncertified_magic_claims_do_not_enter_magias": True,
+            "certified_regras_base_items_are_not_reclassified_as_magias": True,
             "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_magias": True,
             "rituais_are_kept_in_rituais": True,
         },
@@ -476,7 +479,7 @@ def main() -> None:
         "- A certified poder is locked to `poderes`.",
         "- A certified magia is locked to `magias`.",
         "- Certified poderes/magias cannot be duplicated in another category.",
-        "- Items already locked as `aprimoramentos`, `kits`, `classes`, `racas` or `linhagens` are rejected here.",
+        "- Items already locked as `regras_base`, `aprimoramentos`, `kits`, `classes`, `racas` or `linhagens` are rejected here.",
         "- Ritual-looking records stay out of `magias` unless they expose clear magic mechanics.",
         "",
         "## Certified by source",

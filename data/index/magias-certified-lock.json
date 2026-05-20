@@ -5,11 +5,12 @@
     "certified_items_are_locked_to_area": true,
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_magic_claims_do_not_enter_magias": true,
+    "certified_regras_base_items_are_not_reclassified_as_magias": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_magias": true,
     "rituais_are_kept_in_rituais": true
   },
-  "certifiedCount": 217,
-  "rejectedCount": 1791,
+  "certifiedCount": 405,
+  "rejectedCount": 3805,
   "records": [
     {
       "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
@@ -632,6 +633,46 @@
       "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-5"
     },
     {
+      "id": "magia-arkanun-afquimista",
+      "source": "arkanun",
+      "name": "Afquimista",
+      "nameKey": "afquimista",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:arkanun:afquimista"
+    },
+    {
+      "id": "magia-arkanun-cc-minhos-secund-rios",
+      "source": "arkanun",
+      "name": "·cc\\minhos Secund&Rios",
+      "nameKey": "cc-minhos-secund-rios",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:arkanun:cc-minhos-secund-rios"
+    },
+    {
+      "id": "magia-arkanun-1e-ultra-raro-will-4d",
+      "source": "arkanun-1e-ultra-raro",
+      "name": "WILL 4d",
+      "nameKey": "will-4d",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:arkanun-1e-ultra-raro:will-4d"
+    },
+    {
+      "id": "magia-arkanun-1e-ultra-raro-car-variavel",
+      "source": "arkanun-1e-ultra-raro",
+      "name": "CAR Variável",
+      "nameKey": "car-variavel",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:arkanun-1e-ultra-raro:car-variavel"
+    },
+    {
       "id": "magia-cabala-2-detectar-magias",
       "source": "cabala-2",
       "name": "Detectar Magias",
@@ -690,16 +731,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:caminhos2:sexto-circulo"
-    },
-    {
-      "id": "magia-caminhos2-terceiro-circulo",
-      "source": "caminhos2",
-      "name": "Terceiro Círculo",
-      "nameKey": "terceiro-circulo",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:caminhos2:terceiro-circulo"
     },
     {
       "id": "magia-caminhos2-controlar-afeta",
@@ -822,6 +853,46 @@
       "certificationId": "magia-lock:daemon-medieval:limites"
     },
     {
+      "id": "magia-daemon-tormenta-elfos",
+      "source": "daemon-tormenta",
+      "name": "Elfos",
+      "nameKey": "elfos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daemon-tormenta:elfos"
+    },
+    {
+      "id": "magia-daemon-tormenta-halfling",
+      "source": "daemon-tormenta",
+      "name": "Halfling",
+      "nameKey": "halfling",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daemon-tormenta:halfling"
+    },
+    {
+      "id": "magia-daemon-tormenta-ambiente",
+      "source": "daemon-tormenta",
+      "name": "Ambiente",
+      "nameKey": "ambiente",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daemon-tormenta:ambiente"
+    },
+    {
+      "id": "magia-daiphir-legado-de-sangue-controlar-som-terra-5",
+      "source": "daiphir-legado-de-sangue",
+      "name": "Controlar Som/Terra 5",
+      "nameKey": "controlar-som-terra-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:daiphir-legado-de-sangue:controlar-som-terra-5"
+    },
+    {
       "id": "magia-demonios-a-divina-comedia-madragora",
       "source": "demonios-a-divina-comedia",
       "name": "MADRÁGORA",
@@ -850,6 +921,76 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:domini-urbs-biblioteca-elfica:circulo-sagrado"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-absor-ao-de-almas",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Absor~ão de Almas",
+      "nameKey": "absor-ao-de-almas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:absor-ao-de-almas"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-chamado-do-melai-vivo",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Chamado do Melai Vivo",
+      "nameKey": "chamado-do-melai-vivo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:chamado-do-melai-vivo"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-circulo-do-curandeiro",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Círculo do Curandeiro",
+      "nameKey": "circulo-do-curandeiro",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:circulo-do-curandeiro"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-corrosao",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Corrosão",
+      "nameKey": "corrosao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:corrosao"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-mandragora",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Mandrágora",
+      "nameKey": "mandragora",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:mandragora"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-transporte-imediato-do-ser",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Transporte Imediato do Ser",
+      "nameKey": "transporte-imediato-do-ser",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:transporte-imediato-do-ser"
+    },
+    {
+      "id": "magia-dragao-brasil-especial-06-trevas-variavel",
+      "source": "dragao-brasil-especial-06-trevas",
+      "name": "Variável",
+      "nameKey": "variavel",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:dragao-brasil-especial-06-trevas:variavel"
     },
     {
       "id": "magia-energia-mistica-energia-misticas-internas",
@@ -1512,6 +1653,1436 @@
       "certificationId": "magia-lock:grimark201:entender-spiritum-8"
     },
     {
+      "id": "magia-grimorio-marcelo-del-debbio",
+      "source": "grimorio",
+      "name": "Marcelo Del Debbio |",
+      "nameKey": "marcelo-del-debbio",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:marcelo-del-debbio"
+    },
+    {
+      "id": "magia-grimorio-controlar",
+      "source": "grimorio",
+      "name": "Controlar",
+      "nameKey": "controlar",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar"
+    },
+    {
+      "id": "magia-grimorio-os-caminhos-arcanos-da-vida",
+      "source": "grimorio",
+      "name": "Os Caminhos Arcanos da Vida",
+      "nameKey": "os-caminhos-arcanos-da-vida",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:os-caminhos-arcanos-da-vida"
+    },
+    {
+      "id": "magia-grimorio-tipos-de-magia",
+      "source": "grimorio",
+      "name": "Tipos de Magia",
+      "nameKey": "tipos-de-magia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:tipos-de-magia"
+    },
+    {
+      "id": "magia-grimorio-criar-fogo-ar-trevas-5",
+      "source": "grimorio",
+      "name": "Criar Fogo/Ar/Trevas 5",
+      "nameKey": "criar-fogo-ar-trevas-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-fogo-ar-trevas-5"
+    },
+    {
+      "id": "magia-grimorio-nomenclatura",
+      "source": "grimorio",
+      "name": "Nomenclatura",
+      "nameKey": "nomenclatura",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:nomenclatura"
+    },
+    {
+      "id": "magia-grimorio-chaves-misticas",
+      "source": "grimorio",
+      "name": "Chaves Misticas",
+      "nameKey": "chaves-misticas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:chaves-misticas"
+    },
+    {
+      "id": "magia-grimorio-limites-de-combinacoes",
+      "source": "grimorio",
+      "name": "Limites de Combinações",
+      "nameKey": "limites-de-combinacoes",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:limites-de-combinacoes"
+    },
+    {
+      "id": "magia-grimorio-pontos-de-magia",
+      "source": "grimorio",
+      "name": "Pontos de Magia",
+      "nameKey": "pontos-de-magia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:pontos-de-magia"
+    },
+    {
+      "id": "magia-grimorio-dano-e-forca",
+      "source": "grimorio",
+      "name": "Dano e Força",
+      "nameKey": "dano-e-forca",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:dano-e-forca"
+    },
+    {
+      "id": "magia-grimorio-duracao",
+      "source": "grimorio",
+      "name": "Duração",
+      "nameKey": "duracao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:duracao"
+    },
+    {
+      "id": "magia-grimorio-armazenando-pontos-de-magia",
+      "source": "grimorio",
+      "name": "Armazenando Pontos de Magia",
+      "nameKey": "armazenando-pontos-de-magia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:armazenando-pontos-de-magia"
+    },
+    {
+      "id": "magia-grimorio-magia-de-improviso",
+      "source": "grimorio",
+      "name": "Magia de Improviso",
+      "nameKey": "magia-de-improviso",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:magia-de-improviso"
+    },
+    {
+      "id": "magia-grimorio-desencantando",
+      "source": "grimorio",
+      "name": "Desencantando",
+      "nameKey": "desencantando",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:desencantando"
+    },
+    {
+      "id": "magia-grimorio-efeitos-modernos",
+      "source": "grimorio",
+      "name": "Efeitos modernos",
+      "nameKey": "efeitos-modernos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:efeitos-modernos"
+    },
+    {
+      "id": "magia-grimorio-limites-da-magia",
+      "source": "grimorio",
+      "name": "Limites da Magia",
+      "nameKey": "limites-da-magia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:limites-da-magia"
+    },
+    {
+      "id": "magia-grimorio-grimorio-pessoal",
+      "source": "grimorio",
+      "name": "Grimório Pessoal",
+      "nameKey": "grimorio-pessoal",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:grimorio-pessoal"
+    },
+    {
+      "id": "magia-grimorio-pesquisando-novas-magias",
+      "source": "grimorio",
+      "name": "Pesquisando novas Magias",
+      "nameKey": "pesquisando-novas-magias",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:pesquisando-novas-magias"
+    },
+    {
+      "id": "magia-grimorio-caixa-toraxica",
+      "source": "grimorio",
+      "name": "Caixa Toráxica",
+      "nameKey": "caixa-toraxica",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:caixa-toraxica"
+    },
+    {
+      "id": "magia-grimorio-pegadas-de-animais",
+      "source": "grimorio",
+      "name": "Pegadas de Animais",
+      "nameKey": "pegadas-de-animais",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:pegadas-de-animais"
+    },
+    {
+      "id": "magia-grimorio-zumbi",
+      "source": "grimorio",
+      "name": "Zumbi",
+      "nameKey": "zumbi",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:zumbi"
+    },
+    {
+      "id": "magia-grimorio-nuvem-de-poeira",
+      "source": "grimorio",
+      "name": "Nuvem de Poeira",
+      "nameKey": "nuvem-de-poeira",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:nuvem-de-poeira"
+    },
+    {
+      "id": "magia-grimorio-superficie-espelhada",
+      "source": "grimorio",
+      "name": "Superfície Espelhada",
+      "nameKey": "superficie-espelhada",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:superficie-espelhada"
+    },
+    {
+      "id": "magia-grimorio-ate-6o",
+      "source": "grimorio",
+      "name": "Até 6º",
+      "nameKey": "ate-6o",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:ate-6o"
+    },
+    {
+      "id": "magia-grimorio-controlar-ar-luz-3",
+      "source": "grimorio",
+      "name": "Controlar Ar/Luz 3",
+      "nameKey": "controlar-ar-luz-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-ar-luz-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-ar-spiritum-3",
+      "source": "grimorio",
+      "name": "Controlar Ar/Spiritum 3",
+      "nameKey": "controlar-ar-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-ar-spiritum-3"
+    },
+    {
+      "id": "magia-grimorio-criar-trevas-arkanun-4",
+      "source": "grimorio",
+      "name": "Criar Trevas/Arkanun 4",
+      "nameKey": "criar-trevas-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-trevas-arkanun-4"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-animais-terra-2",
+      "source": "grimorio",
+      "name": "Criar/Controlar Animais/Terra 2",
+      "nameKey": "criar-controlar-animais-terra-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-animais-terra-2"
+    },
+    {
+      "id": "magia-grimorio-entender-criar-arkanun-2",
+      "source": "grimorio",
+      "name": "Entender/Criar Arkanun 2",
+      "nameKey": "entender-criar-arkanun-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-criar-arkanun-2"
+    },
+    {
+      "id": "magia-grimorio-controlar-arkanun-humanos-4",
+      "source": "grimorio",
+      "name": "Controlar Arkanun/Humanos 4",
+      "nameKey": "controlar-arkanun-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-arkanun-humanos-4"
+    },
+    {
+      "id": "magia-grimorio-entender-spiritum-4",
+      "source": "grimorio",
+      "name": "Entender Spiritum 4",
+      "nameKey": "entender-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-spiritum-4"
+    },
+    {
+      "id": "magia-grimorio-criar-arkanun-4",
+      "source": "grimorio",
+      "name": "Criar Arkanun 4",
+      "nameKey": "criar-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-arkanun-4"
+    },
+    {
+      "id": "magia-grimorio-controlar-ar-luz-4",
+      "source": "grimorio",
+      "name": "Controlar Ar/Luz 4",
+      "nameKey": "controlar-ar-luz-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-ar-luz-4"
+    },
+    {
+      "id": "magia-grimorio-aumento-de-dano",
+      "source": "grimorio",
+      "name": "Aumento de Dano",
+      "nameKey": "aumento-de-dano",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:aumento-de-dano"
+    },
+    {
+      "id": "magia-grimorio-tintender-arkanun-7",
+      "source": "grimorio",
+      "name": "Tintender Arkanun 7",
+      "nameKey": "tintender-arkanun-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:tintender-arkanun-7"
+    },
+    {
+      "id": "magia-grimorio-criar-fogo-3",
+      "source": "grimorio",
+      "name": "Criar Fogo 3",
+      "nameKey": "criar-fogo-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-fogo-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-arkanun-8",
+      "source": "grimorio",
+      "name": "Controlar Arkanun 8",
+      "nameKey": "controlar-arkanun-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-arkanun-8"
+    },
+    {
+      "id": "magia-grimorio-criar-plantas-2",
+      "source": "grimorio",
+      "name": "Criar Plantas 2",
+      "nameKey": "criar-plantas-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-plantas-2"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-ar-4",
+      "source": "grimorio",
+      "name": "Criar/Controlar Ar 4",
+      "nameKey": "criar-controlar-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-ar-4"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-humanos-plantas-animais-1",
+      "source": "grimorio",
+      "name": "Entender/Controlar Humanos/Plantas/ Animais 1",
+      "nameKey": "entender-controlar-humanos-plantas-animais-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-humanos-plantas-animais-1"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-fogo-3",
+      "source": "grimorio",
+      "name": "Criar/Controlar Fogo 3",
+      "nameKey": "criar-controlar-fogo-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-fogo-3"
+    },
+    {
+      "id": "magia-grimorio-ilusao-sensacao",
+      "source": "grimorio",
+      "name": "Ilusão (Sensação)",
+      "nameKey": "ilusao-sensacao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:ilusao-sensacao"
+    },
+    {
+      "id": "magia-grimorio-testede-resina-nenhum-e",
+      "source": "grimorio",
+      "name": "Téstede Resina nenhum E",
+      "nameKey": "testede-resina-nenhum-e",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:testede-resina-nenhum-e"
+    },
+    {
+      "id": "magia-grimorio-criar-ar-4",
+      "source": "grimorio",
+      "name": "Criar Ar 4",
+      "nameKey": "criar-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-ar-4"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-humanos-1",
+      "source": "grimorio",
+      "name": "Entender/Controlar Humanos 1",
+      "nameKey": "entender-controlar-humanos-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-humanos-1"
+    },
+    {
+      "id": "magia-grimorio-controlar-ar-4",
+      "source": "grimorio",
+      "name": "Controlar Ar 4",
+      "nameKey": "controlar-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-ar-4"
+    },
+    {
+      "id": "magia-grimorio-criar-animais-2",
+      "source": "grimorio",
+      "name": "Criar Animais 2",
+      "nameKey": "criar-animais-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-animais-2"
+    },
+    {
+      "id": "magia-grimorio-entender-metamagia-9",
+      "source": "grimorio",
+      "name": "Entender Metamagia 9",
+      "nameKey": "entender-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-metamagia-9"
+    },
+    {
+      "id": "magia-grimorio-controlar-agua-6",
+      "source": "grimorio",
+      "name": "Controlar Água 6",
+      "nameKey": "controlar-agua-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-agua-6"
+    },
+    {
+      "id": "magia-grimorio-criar-pogo-terra-3",
+      "source": "grimorio",
+      "name": "Criar Pogo/Terra 3",
+      "nameKey": "criar-pogo-terra-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-pogo-terra-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-plantas-3",
+      "source": "grimorio",
+      "name": "Controlar Plantas 3",
+      "nameKey": "controlar-plantas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-plantas-3"
+    },
+    {
+      "id": "magia-grimorio-criar-arkanun-8",
+      "source": "grimorio",
+      "name": "Criar Arkanun 8",
+      "nameKey": "criar-arkanun-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-arkanun-8"
+    },
+    {
+      "id": "magia-grimorio-criar-spinitum-3",
+      "source": "grimorio",
+      "name": "Criar Spinitum 3",
+      "nameKey": "criar-spinitum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-spinitum-3"
+    },
+    {
+      "id": "magia-grimorio-entender-fogo-spiritum-5",
+      "source": "grimorio",
+      "name": "Entender Fogo/Spiritum 5",
+      "nameKey": "entender-fogo-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-fogo-spiritum-5"
+    },
+    {
+      "id": "magia-grimorio-entender-ar-2",
+      "source": "grimorio",
+      "name": "Entender Ar 2",
+      "nameKey": "entender-ar-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-ar-2"
+    },
+    {
+      "id": "magia-grimorio-entender-plantas-metamagia-8",
+      "source": "grimorio",
+      "name": "Entender Plantas/Metamagia 8",
+      "nameKey": "entender-plantas-metamagia-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-plantas-metamagia-8"
+    },
+    {
+      "id": "magia-grimorio-circulo-divino-de-curas",
+      "source": "grimorio",
+      "name": "Circulo Divino de Curas",
+      "nameKey": "circulo-divino-de-curas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:circulo-divino-de-curas"
+    },
+    {
+      "id": "magia-grimorio-entender-luz-agua-humanos-6",
+      "source": "grimorio",
+      "name": "Entender Luz/ Água/ Humanos 6",
+      "nameKey": "entender-luz-agua-humanos-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-luz-agua-humanos-6"
+    },
+    {
+      "id": "magia-grimorio-conjuracao-de-elementais",
+      "source": "grimorio",
+      "name": "Conjuração de Elementais",
+      "nameKey": "conjuracao-de-elementais",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:conjuracao-de-elementais"
+    },
+    {
+      "id": "magia-grimorio-criar-animais-spiritum-5",
+      "source": "grimorio",
+      "name": "Criar Animais/Spiritum 5",
+      "nameKey": "criar-animais-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-animais-spiritum-5"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-animais-1",
+      "source": "grimorio",
+      "name": "Criar/Controlar Animais 1",
+      "nameKey": "criar-controlar-animais-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-animais-1"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-spiritum-8",
+      "source": "grimorio",
+      "name": "Criar/Controlar Spiritum 8",
+      "nameKey": "criar-controlar-spiritum-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-spiritum-8"
+    },
+    {
+      "id": "magia-grimorio-conjurar-animais-vi",
+      "source": "grimorio",
+      "name": "Conjurar Animais Vi",
+      "nameKey": "conjurar-animais-vi",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:conjurar-animais-vi"
+    },
+    {
+      "id": "magia-grimorio-conjuracao-coe",
+      "source": "grimorio",
+      "name": "Conjuração Coe",
+      "nameKey": "conjuracao-coe",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:conjuracao-coe"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-animais-8",
+      "source": "grimorio",
+      "name": "Criar/Controlar Animais 8",
+      "nameKey": "criar-controlar-animais-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-animais-8"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-animais3",
+      "source": "grimorio",
+      "name": "Criar/Controlar Animais3 |",
+      "nameKey": "criar-controlar-animais3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-animais3"
+    },
+    {
+      "id": "magia-grimorio-criar-arkanun-fogo-9",
+      "source": "grimorio",
+      "name": "Criar Arkanun/Fogo 9",
+      "nameKey": "criar-arkanun-fogo-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-arkanun-fogo-9"
+    },
+    {
+      "id": "magia-grimorio-controlar-arkanun-1",
+      "source": "grimorio",
+      "name": "Controlar Arkanun 1",
+      "nameKey": "controlar-arkanun-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-arkanun-1"
+    },
+    {
+      "id": "magia-grimorio-criar-arkanun-7",
+      "source": "grimorio",
+      "name": "Criar Arkanun 7",
+      "nameKey": "criar-arkanun-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-arkanun-7"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-plantas-5",
+      "source": "grimorio",
+      "name": "Criar/Controlar Plantas 5",
+      "nameKey": "criar-controlar-plantas-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-plantas-5"
+    },
+    {
+      "id": "magia-grimorio-criar-entender-metamagia-7",
+      "source": "grimorio",
+      "name": "Criar/Entender Metamagia 7",
+      "nameKey": "criar-entender-metamagia-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-entender-metamagia-7"
+    },
+    {
+      "id": "magia-grimorio-criar-terra-6",
+      "source": "grimorio",
+      "name": "Criar Terra 6",
+      "nameKey": "criar-terra-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-terra-6"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-spiritum-humanos-arkanun-6",
+      "source": "grimorio",
+      "name": "Entender/Controlar Spiritum/Humanos/Arkanun 6",
+      "nameKey": "entender-controlar-spiritum-humanos-arkanun-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-spiritum-humanos-arkanun-6"
+    },
+    {
+      "id": "magia-grimorio-entender-terra-3",
+      "source": "grimorio",
+      "name": "Entender Terra 3",
+      "nameKey": "entender-terra-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-terra-3"
+    },
+    {
+      "id": "magia-grimorio-entender-spiritum-metamagia-9",
+      "source": "grimorio",
+      "name": "Entender Spiritum/Metamagia 9",
+      "nameKey": "entender-spiritum-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-spiritum-metamagia-9"
+    },
+    {
+      "id": "magia-grimorio-entender-luz-2",
+      "source": "grimorio",
+      "name": "Entender Luz 2",
+      "nameKey": "entender-luz-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-luz-2"
+    },
+    {
+      "id": "magia-grimorio-controlar-trevas-1",
+      "source": "grimorio",
+      "name": "Controlar Trevas 1",
+      "nameKey": "controlar-trevas-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-trevas-1"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-trevas-spiritum-4",
+      "source": "grimorio",
+      "name": "Criar/Controlar Trevas/Spiritum 4",
+      "nameKey": "criar-controlar-trevas-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-trevas-spiritum-4"
+    },
+    {
+      "id": "magia-grimorio-adivinhacao-e-e",
+      "source": "grimorio",
+      "name": "Adivinhação E E",
+      "nameKey": "adivinhacao-e-e",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:adivinhacao-e-e"
+    },
+    {
+      "id": "magia-grimorio-entender-fogo-7",
+      "source": "grimorio",
+      "name": "Entender Fogo 7",
+      "nameKey": "entender-fogo-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-fogo-7"
+    },
+    {
+      "id": "magia-grimorio-entender-criar-fogo-7",
+      "source": "grimorio",
+      "name": "Entender/Criar Fogo 7",
+      "nameKey": "entender-criar-fogo-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-criar-fogo-7"
+    },
+    {
+      "id": "magia-grimorio-controlar-criar-spiritum-arkanun-6",
+      "source": "grimorio",
+      "name": "Controlar/Criar Spiritum/ Arkanun 6",
+      "nameKey": "controlar-criar-spiritum-arkanun-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-criar-spiritum-arkanun-6"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-caminho-elemental-3",
+      "source": "grimorio",
+      "name": "Criar/Controlar Caminho Elemental 3",
+      "nameKey": "criar-controlar-caminho-elemental-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-caminho-elemental-3"
+    },
+    {
+      "id": "magia-grimorio-entender-criar-controlar-fogo-7",
+      "source": "grimorio",
+      "name": "Entender/Criar/Controlar Fogo 7",
+      "nameKey": "entender-criar-controlar-fogo-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-criar-controlar-fogo-7"
+    },
+    {
+      "id": "magia-grimorio-entender-luz-humanos-5",
+      "source": "grimorio",
+      "name": "Entender Luz/ Humanos 5",
+      "nameKey": "entender-luz-humanos-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-luz-humanos-5"
+    },
+    {
+      "id": "magia-grimorio-criar-humanos-arkanun-4",
+      "source": "grimorio",
+      "name": "Criar Humanos/Arkanun 4",
+      "nameKey": "criar-humanos-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-humanos-arkanun-4"
+    },
+    {
+      "id": "magia-grimorio-controlar-luz-humanos-3",
+      "source": "grimorio",
+      "name": "Controlar Luz/Humanos 3",
+      "nameKey": "controlar-luz-humanos-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-luz-humanos-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-agua-1",
+      "source": "grimorio",
+      "name": "Controlar Água 1",
+      "nameKey": "controlar-agua-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-agua-1"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-arkanun-2",
+      "source": "grimorio",
+      "name": "Criar/Controlar Arkanun 2",
+      "nameKey": "criar-controlar-arkanun-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-arkanun-2"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-arkanun-3",
+      "source": "grimorio",
+      "name": "Criar/Controlar Arkanun 3",
+      "nameKey": "criar-controlar-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-arkanun-3"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-arkanun-4",
+      "source": "grimorio",
+      "name": "Criar/Controlar Arkanun 4",
+      "nameKey": "criar-controlar-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-arkanun-4"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-arkanun-6",
+      "source": "grimorio",
+      "name": "Criar/Controlar Arkanun 6",
+      "nameKey": "criar-controlar-arkanun-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-arkanun-6"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-arkanun-8",
+      "source": "grimorio",
+      "name": "Criar/Controlar Arkanun'8",
+      "nameKey": "criar-controlar-arkanun-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-arkanun-8"
+    },
+    {
+      "id": "magia-grimorio-criar-entender-arkanun-8",
+      "source": "grimorio",
+      "name": "Criar/Entender Arkanun 8",
+      "nameKey": "criar-entender-arkanun-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-entender-arkanun-8"
+    },
+    {
+      "id": "magia-grimorio-invocar-jakharte",
+      "source": "grimorio",
+      "name": "Invocar Jakharte",
+      "nameKey": "invocar-jakharte",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:invocar-jakharte"
+    },
+    {
+      "id": "magia-grimorio-criar-entender-spiritum-8",
+      "source": "grimorio",
+      "name": "Criar/ Entender Spiritum 8",
+      "nameKey": "criar-entender-spiritum-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-entender-spiritum-8"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-luz-2",
+      "source": "grimorio",
+      "name": "Criar/Controlar Luz 2",
+      "nameKey": "criar-controlar-luz-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-luz-2"
+    },
+    {
+      "id": "magia-grimorio-entender-humanos-2",
+      "source": "grimorio",
+      "name": "Entender Humanos 2",
+      "nameKey": "entender-humanos-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-humanos-2"
+    },
+    {
+      "id": "magia-grimorio-controlar-terra-2",
+      "source": "grimorio",
+      "name": "Controlar Terra 2",
+      "nameKey": "controlar-terra-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-terra-2"
+    },
+    {
+      "id": "magia-grimorio-controlar-animais-humanos-3",
+      "source": "grimorio",
+      "name": "Controlar Animais/Humanos 3",
+      "nameKey": "controlar-animais-humanos-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-animais-humanos-3"
+    },
+    {
+      "id": "magia-grimorio-entender-metamagia-8",
+      "source": "grimorio",
+      "name": "Entender Metamagia 8",
+      "nameKey": "entender-metamagia-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-metamagia-8"
+    },
+    {
+      "id": "magia-grimorio-iintender-spiritum-4",
+      "source": "grimorio",
+      "name": "Iintender Spiritum 4",
+      "nameKey": "iintender-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:iintender-spiritum-4"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-humanos-7",
+      "source": "grimorio",
+      "name": "Entender/Controlar Humanos 7",
+      "nameKey": "entender-controlar-humanos-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-humanos-7"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-fogo-2",
+      "source": "grimorio",
+      "name": "Criar/Controlar Fogo 2",
+      "nameKey": "criar-controlar-fogo-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-fogo-2"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-spiritum-9",
+      "source": "grimorio",
+      "name": "Entender/Controlar Spiritum 9",
+      "nameKey": "entender-controlar-spiritum-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-spiritum-9"
+    },
+    {
+      "id": "magia-grimorio-entender-arkanun-5",
+      "source": "grimorio",
+      "name": "Entender Arkanun 5",
+      "nameKey": "entender-arkanun-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-arkanun-5"
+    },
+    {
+      "id": "magia-grimorio-entender-trevas-4",
+      "source": "grimorio",
+      "name": "Entender Trevas 4",
+      "nameKey": "entender-trevas-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-trevas-4"
+    },
+    {
+      "id": "magia-grimorio-criar-terra-humanos-9",
+      "source": "grimorio",
+      "name": "Criar Terra/Humanos 9",
+      "nameKey": "criar-terra-humanos-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-terra-humanos-9"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-terra-5",
+      "source": "grimorio",
+      "name": "Entender/Controlar Terra 5",
+      "nameKey": "entender-controlar-terra-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-terra-5"
+    },
+    {
+      "id": "magia-grimorio-controlar-humanos-arkanun-5",
+      "source": "grimorio",
+      "name": "Controlar Humanos/ Arkanun 5",
+      "nameKey": "controlar-humanos-arkanun-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-humanos-arkanun-5"
+    },
+    {
+      "id": "magia-grimorio-criar-arkanun-5",
+      "source": "grimorio",
+      "name": "Criar Arkanun 5",
+      "nameKey": "criar-arkanun-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-arkanun-5"
+    },
+    {
+      "id": "magia-grimorio-entender-spiritum-arkanun-3",
+      "source": "grimorio",
+      "name": "Entender Spiritum/ Arkanun 3",
+      "nameKey": "entender-spiritum-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-spiritum-arkanun-3"
+    },
+    {
+      "id": "magia-grimorio-criar-animais-arkanun-3",
+      "source": "grimorio",
+      "name": "Criar Animais/Arkanun 3",
+      "nameKey": "criar-animais-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-animais-arkanun-3"
+    },
+    {
+      "id": "magia-grimorio-entender-plantas-9",
+      "source": "grimorio",
+      "name": "Entender Plantas 9",
+      "nameKey": "entender-plantas-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-plantas-9"
+    },
+    {
+      "id": "magia-grimorio-entender-criar-animais-humanos-1",
+      "source": "grimorio",
+      "name": "Entender/Criar Animais/Humanos 1",
+      "nameKey": "entender-criar-animais-humanos-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-criar-animais-humanos-1"
+    },
+    {
+      "id": "magia-grimorio-controlar-arkanun-6",
+      "source": "grimorio",
+      "name": "Controlar Arkanun 6",
+      "nameKey": "controlar-arkanun-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-arkanun-6"
+    },
+    {
+      "id": "magia-grimorio-controlar-terra-humano-3",
+      "source": "grimorio",
+      "name": "Controlar Terra/Humano 3",
+      "nameKey": "controlar-terra-humano-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-terra-humano-3"
+    },
+    {
+      "id": "magia-grimorio-criat-plantas-humanos-2",
+      "source": "grimorio",
+      "name": "Criat Plantas/Humanos 2",
+      "nameKey": "criat-plantas-humanos-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criat-plantas-humanos-2"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-animais-3",
+      "source": "grimorio",
+      "name": "Entender/Controlar Animais 3",
+      "nameKey": "entender-controlar-animais-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-animais-3"
+    },
+    {
+      "id": "magia-grimorio-criar-animais-spiritum-6",
+      "source": "grimorio",
+      "name": "Criar Animais/Spiritum 6",
+      "nameKey": "criar-animais-spiritum-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-animais-spiritum-6"
+    },
+    {
+      "id": "magia-grimorio-criar-animais-7",
+      "source": "grimorio",
+      "name": "Criar Animais 7",
+      "nameKey": "criar-animais-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-animais-7"
+    },
+    {
+      "id": "magia-grimorio-criar-agua-2",
+      "source": "grimorio",
+      "name": "Criar Água 2",
+      "nameKey": "criar-agua-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-agua-2"
+    },
+    {
+      "id": "magia-grimorio-criar-metamagia-6",
+      "source": "grimorio",
+      "name": "Criar Metamagia 6",
+      "nameKey": "criar-metamagia-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-metamagia-6"
+    },
+    {
+      "id": "magia-grimorio-entender-plantas-3",
+      "source": "grimorio",
+      "name": "Entender Plantas 3",
+      "nameKey": "entender-plantas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-plantas-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-humanos-trevas-6",
+      "source": "grimorio",
+      "name": "Controlar Humanos/Trevas 6",
+      "nameKey": "controlar-humanos-trevas-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-humanos-trevas-6"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-humanos-spiritum-6",
+      "source": "grimorio",
+      "name": "Entender/Controlar Humanos/Spiritum 6",
+      "nameKey": "entender-controlar-humanos-spiritum-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-humanos-spiritum-6"
+    },
+    {
+      "id": "magia-grimorio-regeneracao-em-outra-pessoa",
+      "source": "grimorio",
+      "name": "Regeneração em Outra Pessoa",
+      "nameKey": "regeneracao-em-outra-pessoa",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:regeneracao-em-outra-pessoa"
+    },
+    {
+      "id": "magia-grimorio-criar-metamagia-7",
+      "source": "grimorio",
+      "name": "Criar Metamagia 7",
+      "nameKey": "criar-metamagia-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-metamagia-7"
+    },
+    {
+      "id": "magia-grimorio-entender-arkanun-2",
+      "source": "grimorio",
+      "name": "Entender Arkanun 2",
+      "nameKey": "entender-arkanun-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-arkanun-2"
+    },
+    {
+      "id": "magia-grimorio-sacrificio-do-heroi",
+      "source": "grimorio",
+      "name": "Sacrifício do Herói",
+      "nameKey": "sacrificio-do-heroi",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:sacrificio-do-heroi"
+    },
+    {
+      "id": "magia-grimorio-controlar-humanos-ar-4",
+      "source": "grimorio",
+      "name": "Controlar Humanos/Ar 4",
+      "nameKey": "controlar-humanos-ar-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-humanos-ar-4"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-metamagia-6",
+      "source": "grimorio",
+      "name": "Criar/Controlar Metamagia 6",
+      "nameKey": "criar-controlar-metamagia-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-metamagia-6"
+    },
+    {
+      "id": "magia-grimorio-entender-controlar-metamagia-9",
+      "source": "grimorio",
+      "name": "Entender/Controlar Metamagia 9",
+      "nameKey": "entender-controlar-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:entender-controlar-metamagia-9"
+    },
+    {
+      "id": "magia-grimorio-transmutacao-teleportacao",
+      "source": "grimorio",
+      "name": "Transmutação [teleportação]",
+      "nameKey": "transmutacao-teleportacao",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:transmutacao-teleportacao"
+    },
+    {
+      "id": "magia-grimorio-controlar-spiritum-3",
+      "source": "grimorio",
+      "name": "Controlar Spiritum 3",
+      "nameKey": "controlar-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-spiritum-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-trevas-metamagia-5",
+      "source": "grimorio",
+      "name": "Controlar Trevas/Metamagia 5",
+      "nameKey": "controlar-trevas-metamagia-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-trevas-metamagia-5"
+    },
+    {
+      "id": "magia-grimorio-criar-ar-trevas-9",
+      "source": "grimorio",
+      "name": "Criar Ar/ Trevas 9",
+      "nameKey": "criar-ar-trevas-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-ar-trevas-9"
+    },
+    {
+      "id": "magia-grimorio-controlar-metamagia-9",
+      "source": "grimorio",
+      "name": "Controlar Metamagia 9",
+      "nameKey": "controlar-metamagia-9",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-metamagia-9"
+    },
+    {
+      "id": "magia-grimorio-eintender-trevas-3",
+      "source": "grimorio",
+      "name": "Eintender Trevas 3",
+      "nameKey": "eintender-trevas-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:eintender-trevas-3"
+    },
+    {
+      "id": "magia-grimorio-controlar-ar-6",
+      "source": "grimorio",
+      "name": "Controlar Ar 6",
+      "nameKey": "controlar-ar-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-ar-6"
+    },
+    {
+      "id": "magia-grimorio-criar-metamagia-spiritum-7",
+      "source": "grimorio",
+      "name": "Criar Metamagia/Spiritum 7",
+      "nameKey": "criar-metamagia-spiritum-7",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-metamagia-spiritum-7"
+    },
+    {
+      "id": "magia-grimorio-criar-controlar-ar-metamagia-6",
+      "source": "grimorio",
+      "name": "Criar/Controlar Ar/Metamagia 6",
+      "nameKey": "criar-controlar-ar-metamagia-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:criar-controlar-ar-metamagia-6"
+    },
+    {
+      "id": "magia-grimorio-controlar-humanos-arkanun-3",
+      "source": "grimorio",
+      "name": "Controlar Humanos/Arkanun 3",
+      "nameKey": "controlar-humanos-arkanun-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:grimorio:controlar-humanos-arkanun-3"
+    },
+    {
       "id": "magia-grimorio101-lista-de-magias",
       "source": "grimorio101",
       "name": "Lista de Magias",
@@ -2022,6 +3593,36 @@
       "certificationId": "magia-lock:imortal-a-centelha:mortus-immortus"
     },
     {
+      "id": "magia-inquisicao-biblioteca-elfica-mau-olhado",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Mau Olhado",
+      "nameKey": "mau-olhado",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:inquisicao-biblioteca-elfica:mau-olhado"
+    },
+    {
+      "id": "magia-inquisicao-biblioteca-elfica-para-conversar-com-fantasmas",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Para Conversar com Fantasmas",
+      "nameKey": "para-conversar-com-fantasmas",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:inquisicao-biblioteca-elfica:para-conversar-com-fantasmas"
+    },
+    {
+      "id": "magia-inquisicao-biblioteca-elfica-sonambulismo",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Sonambulismo",
+      "nameKey": "sonambulismo",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:inquisicao-biblioteca-elfica:sonambulismo"
+    },
+    {
       "id": "magia-lobisomem-a-maldicao-v2-biblioteca-elfica-forja-de-hefesto",
       "source": "lobisomem-a-maldicao-v2-biblioteca-elfica",
       "name": "Forja de Hefesto",
@@ -2082,6 +3683,136 @@
       "certificationId": "magia-lock:manual-de-converscao:abencoar"
     },
     {
+      "id": "magia-metropolis-2-telecinese-1",
+      "source": "metropolis-2",
+      "name": "Telecinése 1",
+      "nameKey": "telecinese-1",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:metropolis-2:telecinese-1"
+    },
+    {
+      "id": "magia-modulo-basico-expandido-e-modificado-limites-e-efeitos-mximos",
+      "source": "modulo-basico-expandido-e-modificado",
+      "name": "Limites e Efeitos M–ximos",
+      "nameKey": "limites-e-efeitos-mximos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:modulo-basico-expandido-e-modificado:limites-e-efeitos-mximos"
+    },
+    {
+      "id": "magia-o-corvo-conjuracao-de-elementais",
+      "source": "o-corvo",
+      "name": "Conjuração de Elementais",
+      "nameKey": "conjuracao-de-elementais",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:conjuracao-de-elementais"
+    },
+    {
+      "id": "magia-o-corvo-controlar-spiritum-4",
+      "source": "o-corvo",
+      "name": "Controlar Spiritum 4",
+      "nameKey": "controlar-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:controlar-spiritum-4"
+    },
+    {
+      "id": "magia-o-corvo-criar-animais-humanos-4",
+      "source": "o-corvo",
+      "name": "Criar Animais/Humanos 4",
+      "nameKey": "criar-animais-humanos-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:criar-animais-humanos-4"
+    },
+    {
+      "id": "magia-o-corvo-entender-humanos-spiritum-arkanun-4",
+      "source": "o-corvo",
+      "name": "Entender Humanos/Spiritum/Arkanun 4",
+      "nameKey": "entender-humanos-spiritum-arkanun-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-humanos-spiritum-arkanun-4"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-3-6",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 3-6",
+      "nameKey": "entender-spiritum-3-6",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-3-6"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-4-8",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 4-8",
+      "nameKey": "entender-spiritum-4-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-4-8"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-5",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 5",
+      "nameKey": "entender-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-5"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-3",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 3",
+      "nameKey": "entender-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-3"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-4",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 4",
+      "nameKey": "entender-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-4"
+    },
+    {
+      "id": "magia-o-corvo-entender-spiritum-8",
+      "source": "o-corvo",
+      "name": "Entender Spiritum 8",
+      "nameKey": "entender-spiritum-8",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-spiritum-8"
+    },
+    {
+      "id": "magia-o-corvo-entender-controlar-spiritum-5",
+      "source": "o-corvo",
+      "name": "Entender/Controlar Spiritum 5",
+      "nameKey": "entender-controlar-spiritum-5",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:o-corvo:entender-controlar-spiritum-5"
+    },
+    {
       "id": "magia-racas-gargula",
       "source": "racas",
       "name": "Gárgula",
@@ -2132,6 +3863,56 @@
       "certificationId": "magia-lock:racas:sereia"
     },
     {
+      "id": "magia-santa-cruz-biblioteca-elfica-existem",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Existem",
+      "nameKey": "existem",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:santa-cruz-biblioteca-elfica:existem"
+    },
+    {
+      "id": "magia-santa-cruz-biblioteca-elfica-escrevendo-um-grimorio",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Escrevendo um Grimório",
+      "nameKey": "escrevendo-um-grimorio",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:santa-cruz-biblioteca-elfica:escrevendo-um-grimorio"
+    },
+    {
+      "id": "magia-santa-cruz-biblioteca-elfica-limites-e-efeitos-maximos",
+      "source": "santa-cruz-biblioteca-elfica",
+      "name": "Limites e Efeitos Máximos",
+      "nameKey": "limites-e-efeitos-maximos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:santa-cruz-biblioteca-elfica:limites-e-efeitos-maximos"
+    },
+    {
+      "id": "magia-santa-cruz-inferno-verde-biblioteca-elfica-detectar-magia",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Detectar magia",
+      "nameKey": "detectar-magia",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:santa-cruz-inferno-verde-biblioteca-elfica:detectar-magia"
+    },
+    {
+      "id": "magia-santa-cruz-inferno-verde-biblioteca-elfica-relampago",
+      "source": "santa-cruz-inferno-verde-biblioteca-elfica",
+      "name": "Relâmpago",
+      "nameKey": "relampago",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:santa-cruz-inferno-verde-biblioteca-elfica:relampago"
+    },
+    {
       "id": "magia-secundarios-criar-fumaca-2",
       "source": "secundarios",
       "name": "Criar Fumaça 2",
@@ -2180,6 +3961,106 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:secundarios:criar-controlar-relampagos-6"
+    },
+    {
+      "id": "magia-sistema-daemon-2-x-basta",
+      "source": "sistema-daemon-2-x",
+      "name": "Basta",
+      "nameKey": "basta",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:sistema-daemon-2-x:basta"
+    },
+    {
+      "id": "magia-sistema-daemon-2-x-mestres",
+      "source": "sistema-daemon-2-x",
+      "name": "Mestres",
+      "nameKey": "mestres",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:sistema-daemon-2-x:mestres"
+    },
+    {
+      "id": "magia-spiritum-detectar-magias",
+      "source": "spiritum",
+      "name": "Detectar Magias",
+      "nameKey": "detectar-magias",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:spiritum:detectar-magias"
+    },
+    {
+      "id": "magia-spiritum-controlar-ar-spiritum-3",
+      "source": "spiritum",
+      "name": "Controlar Ar/Spiritum 3",
+      "nameKey": "controlar-ar-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:spiritum:controlar-ar-spiritum-3"
+    },
+    {
+      "id": "magia-spiritum-entender-spiritum-4",
+      "source": "spiritum",
+      "name": "Entender Spiritum 4",
+      "nameKey": "entender-spiritum-4",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:spiritum:entender-spiritum-4"
+    },
+    {
+      "id": "magia-spiritum-entender-spiritum-3",
+      "source": "spiritum",
+      "name": "Entender Spiritum 3",
+      "nameKey": "entender-spiritum-3",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:spiritum:entender-spiritum-3"
+    },
+    {
+      "id": "magia-spiritum-entender-spiritum-2",
+      "source": "spiritum",
+      "name": "Entender Spiritum 2",
+      "nameKey": "entender-spiritum-2",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:spiritum:entender-spiritum-2"
+    },
+    {
+      "id": "magia-supers01-despertar",
+      "source": "supers01",
+      "name": "Despertar",
+      "nameKey": "despertar",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:supers01:despertar"
+    },
+    {
+      "id": "magia-tagmar-daemon-limites-e-efeitos-maximos",
+      "source": "tagmar-daemon",
+      "name": "Limites e Efeitos Máximos",
+      "nameKey": "limites-e-efeitos-maximos",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:tagmar-daemon:limites-e-efeitos-maximos"
+    },
+    {
+      "id": "magia-varna-chamado-da-guerra-ter",
+      "source": "varna-chamado-da-guerra",
+      "name": "Ter",
+      "nameKey": "ter",
+      "category": "power_magic",
+      "subtype": "magia",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:varna-chamado-da-guerra:ter"
     }
   ]
 }

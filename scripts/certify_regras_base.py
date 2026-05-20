@@ -9,6 +9,7 @@ from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
 
 
 ENTITY_FILES = [
+    DATA_DIR / "entities" / "regras_base_granular.json",
     DATA_DIR / "entities" / "core_rule.json",
     DATA_DIR / "entities" / "combat.json",
     DATA_DIR / "entities" / "attribute_skill.json",
@@ -36,6 +37,20 @@ BAD_NAMES = {
     "regras",
     "sumario",
 }
+STAT_BLOCK_RE = re.compile(
+    r"\bCON\s*\[?\d|\bFR\s*\[?\d|\bDEX\s*\[?\d|\bAGI\s*\[?\d|\bWILL\s*\[?\d|\bPER\s*\[?\d|"
+    r"\bCAR\s*\[?\d|\bPVs?\b|\bIP\s*:?\s*\d|#?Ataques?",
+    re.IGNORECASE,
+)
+CHARACTER_OPTION_RE = re.compile(
+    r"\b(?:aprimoramentos?|kits?|classes?|ra[cç]as?|linhagens?)\b.*\b(?:pontos?|pts?\.?)\b|"
+    r"\b(?:per[ií]cias?|aprimoramentos?)\s*:.*\b(?:pontos? her[oó]icos|pontos? de per[ií]cia|pts?\.?)\b",
+    re.IGNORECASE | re.DOTALL,
+)
+POWER_MAGIC_RE = re.compile(
+    r"\b(?:magias?|poderes?|rituais?|c[ií]rculos?|focus|pontos? de magia|tempo de conjura[cç][aã]o|materiais?)\s*:",
+    re.IGNORECASE,
+)
 
 
 def body_text(entity: dict[str, Any]) -> str:
@@ -43,12 +58,25 @@ def body_text(entity: dict[str, Any]) -> str:
     return "\n".join(entry for entry in entries if isinstance(entry, str)).strip()
 
 
-def certification_failure(entity: dict[str, Any]) -> str | None:
+def lock_source_names(path_name: str) -> set[tuple[str, str]]:
+    lock = read_json(INDEX_DIR / path_name, {"records": []})
+    return {
+        (record["source"], record["nameKey"])
+        for record in lock.get("records", [])
+        if record.get("source") and record.get("nameKey")
+    }
+
+
+def certification_failure(entity: dict[str, Any], locked_names: dict[str, set[tuple[str, str]]]) -> str | None:
     name = str(entity.get("name") or "").strip()
     name_key = slugify(name).replace("-", " ")
     body = body_text(entity)
     category = entity.get("category")
+    source_name = (entity.get("source"), slugify(name))
 
+    for lock_name, names in locked_names.items():
+        if source_name in names:
+            return f"locked_as_{lock_name}"
     if category not in VALID_CATEGORIES:
         return "category_is_not_regras_base"
     if not str(entity.get("id") or ""):
@@ -61,6 +89,12 @@ def certification_failure(entity: dict[str, Any]) -> str | None:
         return "name_has_sentence_punctuation"
     if len(body) < 45:
         return "entry_too_short"
+    if len(STAT_BLOCK_RE.findall(body[:1000])) >= 5:
+        return "looks_like_stat_block"
+    if CHARACTER_OPTION_RE.search(body[:1400]):
+        return "looks_like_character_option"
+    if POWER_MAGIC_RE.search(body[:1000]) and category != "core_rule":
+        return "looks_like_power_magic_or_ritual"
     if not MECHANICAL_RE.search(f"{name} {body} {' '.join(entity.get('tags', []) or [])}"):
         return "no_rule_mechanical_signal"
     return None
@@ -101,10 +135,20 @@ def main() -> None:
     rejected: list[dict[str, Any]] = []
     seen_ids: set[str] = set()
     seen_source_names: set[tuple[str, str]] = set()
+    locked_names = {
+        "aprimoramento": lock_source_names("aprimoramentos-certified-lock.json"),
+        "kit": lock_source_names("kits-certified-lock.json"),
+        "class": lock_source_names("classes-certified-lock.json"),
+        "raca": lock_source_names("racas-certified-lock.json"),
+        "linhagem": lock_source_names("linhagens-certified-lock.json"),
+        "poder": lock_source_names("poderes-certified-lock.json"),
+        "magia": lock_source_names("magias-certified-lock.json"),
+        "ritual": lock_source_names("rituais-certified-lock.json"),
+    }
 
     for path in ENTITY_FILES:
         for entity in read_entities(path):
-            failure = certification_failure(entity)
+            failure = certification_failure(entity, locked_names)
             source_name = (entity.get("source"), slugify(str(entity.get("name") or "")))
             if entity.get("id") in seen_ids or source_name in seen_source_names:
                 failure = "duplicate_certification_key"
@@ -155,6 +199,7 @@ def main() -> None:
         "",
         "- Somente registros com categoria `core_rule`, `attribute_skill` ou `combat` entram em `Regras Base` como entidade certificada.",
         "- Registros certificados ficam travados em `regras_base` e nao devem ser publicados em outra area.",
+        "- Registros ja travados como aprimoramento, kit, classe, raca, linhagem, poder, magia ou ritual sao rejeitados aqui.",
         "- Reivindicacoes de regra base sem certificacao sao enviadas para quarentena operacional.",
         "",
         "## Rejeicoes",
