@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "area": "regras_base",
+  "policy": {
+    "certified_items_are_locked_to_area": true,
+    "certified_items_must_not_be_duplicated_in_other_categories": true,
+    "uncertified_regras_base_claims_do_not_enter_regras_base": true
+  },
+  "records": [
+    {
+      "id": "mestre-do-espaco",
+      "source": "abismo-infinito-quick-start",
+      "name": "Mestre do Espaco",
+      "nameKey": "mestre-do-espaco",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo-infinito-quick-start:mestre-do-espaco"
+    },
+    {
+      "id": "abismo-cenas",
+      "source": "abismo-infinito-quick-start",
+      "name": "Cenas",
+      "nameKey": "cenas",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo-infinito-quick-start:cenas"
+    },
+    {
+      "id": "vantagens-circunstanciais",
+      "source": "abismo-infinito-quick-start",
+      "name": "Vantagens e desvantagens circunstanciais",
+      "nameKey": "vantagens-e-desvantagens-circunstanciais",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo-infinito-quick-start:vantagens-e-desvantagens-circunstanciais"
+    },
+    {
+      "id": "terror-abissal",
+      "source": "abismo",
+      "name": "Terror Abissal",
+      "nameKey": "terror-abissal",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo:terror-abissal"
+    },
+    {
+      "id": "loucura-abissal",
+      "source": "abismo",
+      "name": "Loucura Abissal",
+      "nameKey": "loucura-abissal",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo:loucura-abissal"
+    },
+    {
+      "id": "progressao-de-atributos-daemon",
+      "source": "alianca-daemon-01",
+      "name": "Progressao de atributos no Sistema Daemon",
+      "nameKey": "progressao-de-atributos-no-sistema-daemon",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:alianca-daemon-01:progressao-de-atributos-no-sistema-daemon"
+    },
+    {
+      "id": "geracao-aleatoria-de-atributos",
+      "source": "alianca-daemon-01",
+      "name": "Geracao aleatoria de atributos",
+      "nameKey": "geracao-aleatoria-de-atributos",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:alianca-daemon-01:geracao-aleatoria-de-atributos"
+    },
+    {
+      "id": "regra-opcional-sem-custo",
+      "source": "anime-rpg-powers",
+      "name": "Regra Opcional: Sem Custo",
+      "nameKey": "regra-opcional-sem-custo",
+      "category": "core_rule",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:anime-rpg-powers:regra-opcional-sem-custo"
+    },
+    {
+      "id": "ferimentos",
+      "source": "abismo-infinito-quick-start",
+      "name": "Ferimentos",
+      "nameKey": "ferimentos",
+      "category": "combat",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo-infinito-quick-start:ferimentos"
+    },
+    {
+      "id": "males-do-espaco",
+      "source": "abismo-infinito-quick-start",
+      "name": "Males do Espaco",
+      "nameKey": "males-do-espaco",
+      "category": "combat",
+      "lockedArea": "regras_base",
+      "certificationId": "regras-base-lock:abismo-infinito-quick-start:males-do-espaco"
+    }
+  ]
+}

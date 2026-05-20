@@ -40,6 +40,14 @@ def test_docs_data_matches_built_catalog() -> None:
     assert docs_summary["entityCount"] == source_summary["entityCount"]
 
 
+def test_regras_base_is_certified_and_not_raw_source_parts() -> None:
+    area = read_json(ROOT / "data" / "areas" / "regras_base.json")
+
+    assert area["sourcePartCount"] == 0
+    assert {entity["lockedArea"] for entity in area["entities"]} == {"regras_base"}
+    assert {entity["category"] for entity in area["entities"]} <= {"core_rule", "attribute_skill", "combat"}
+
+
 def test_ui_has_admin_panel_editorial_notes_and_table_renderer() -> None:
     app = (ROOT / "docs" / "assets" / "app.js").read_text(encoding="utf-8")
     html = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")

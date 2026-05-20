@@ -9,9 +9,20 @@
       "Papel equivalente ao mestre/narrador em Abismo Infinito.",
       "Conduz a historia, cria e controla antagonistas, coadjuvantes e figurantes, arbitra conflitos e tem palavra final sobre as regras."
     ],
-    "tags": ["narrador", "regras-basicas"],
+    "tags": [
+      "certificado",
+      "narrador",
+      "regras-base",
+      "regras-basicas"
+    ],
     "confidence": 0.9,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo-infinito-quick-start:mestre-do-espaco",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "abismo-cenas",
@@ -23,9 +34,21 @@
       "Estrutura basica de resolucao de Abismo Infinito.",
       "O jogo organiza conflitos e acontecimentos por cenas, com criacao, reacao e resolucao narrativa apoiada por dados."
     ],
-    "tags": ["cenas", "resolucao", "regras-basicas"],
+    "tags": [
+      "cenas",
+      "certificado",
+      "regras-base",
+      "regras-basicas",
+      "resolucao"
+    ],
     "confidence": 0.84,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo-infinito-quick-start:cenas",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "vantagens-circunstanciais",
@@ -37,9 +60,21 @@
       "Modificadores narrativos aplicados a cenas conforme condicoes favoraveis ou desfavoraveis.",
       "Armas e equipamentos de protecao tambem sao tratados como vantagens circunstanciais quando relevantes."
     ],
-    "tags": ["vantagem", "desvantagem", "cenas"],
+    "tags": [
+      "cenas",
+      "certificado",
+      "desvantagem",
+      "regras-base",
+      "vantagem"
+    ],
     "confidence": 0.82,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo-infinito-quick-start:vantagens-e-desvantagens-circunstanciais",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "terror-abissal",
@@ -47,10 +82,24 @@
     "category": "core_rule",
     "source": "abismo",
     "page": 185,
-    "entries": ["Orientacoes de condução de terror em campanhas de Abismo, destacando influencia sutil, medo, paranoia e presenca indireta das forcas abissais."],
-    "tags": ["terror", "mestre", "abismo"],
+    "entries": [
+      "Orientacoes de condução de terror em campanhas de Abismo, destacando influencia sutil, medo, paranoia e presenca indireta das forcas abissais."
+    ],
+    "tags": [
+      "abismo",
+      "certificado",
+      "mestre",
+      "regras-base",
+      "terror"
+    ],
     "confidence": 0.82,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo:terror-abissal",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "loucura-abissal",
@@ -58,10 +107,24 @@
     "category": "core_rule",
     "source": "abismo",
     "page": 186,
-    "entries": ["Regras e efeitos narrativos de loucura provocados por contato com horrores abissais e perda de razao diante do incompreensivel."],
-    "tags": ["loucura", "horror", "abismo"],
+    "entries": [
+      "Regras e efeitos narrativos de loucura provocados por contato com horrores abissais e perda de razao diante do incompreensivel."
+    ],
+    "tags": [
+      "abismo",
+      "certificado",
+      "horror",
+      "loucura",
+      "regras-base"
+    ],
     "confidence": 0.84,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo:loucura-abissal",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "progressao-de-atributos-daemon",
@@ -69,10 +132,24 @@
     "category": "core_rule",
     "source": "alianca-daemon-01",
     "page": 3,
-    "entries": ["Artigo explica a progressao matematica dos atributos no Sistema Daemon, comparando valores a dados e destacando que atributos dobram a cada seis unidades."],
-    "tags": ["atributos", "sistema-daemon", "regra"],
+    "entries": [
+      "Artigo explica a progressao matematica dos atributos no Sistema Daemon, comparando valores a dados e destacando que atributos dobram a cada seis unidades."
+    ],
+    "tags": [
+      "atributos",
+      "certificado",
+      "regra",
+      "regras-base",
+      "sistema-daemon"
+    ],
     "confidence": 0.86,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:alianca-daemon-01:progressao-de-atributos-no-sistema-daemon",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "geracao-aleatoria-de-atributos",
@@ -80,10 +157,24 @@
     "category": "core_rule",
     "source": "alianca-daemon-01",
     "page": 30,
-    "entries": ["Metodo alternativo para gerar atributos no Sistema Daemon rolando 1d10+8 para cada atributo e permitindo troca final entre dois valores."],
-    "tags": ["atributos", "criacao-de-personagem", "regra-opcional"],
+    "entries": [
+      "Metodo alternativo para gerar atributos no Sistema Daemon rolando 1d10+8 para cada atributo e permitindo troca final entre dois valores."
+    ],
+    "tags": [
+      "atributos",
+      "certificado",
+      "criacao-de-personagem",
+      "regra-opcional",
+      "regras-base"
+    ],
     "confidence": 0.9,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:alianca-daemon-01:geracao-aleatoria-de-atributos",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "regra-opcional-sem-custo",
@@ -91,9 +182,23 @@
     "category": "core_rule",
     "source": "anime-rpg-powers",
     "page": 8,
-    "entries": ["Regra opcional de DAEMON POWERS que ignora gasto de WILL temporario para ativar, desativar e manter superpoderes."],
-    "tags": ["supers", "regra-opcional", "superpoder"],
+    "entries": [
+      "Regra opcional de DAEMON POWERS que ignora gasto de WILL temporario para ativar, desativar e manter superpoderes."
+    ],
+    "tags": [
+      "certificado",
+      "regra-opcional",
+      "regras-base",
+      "superpoder",
+      "supers"
+    ],
     "confidence": 0.86,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:anime-rpg-powers:regra-opcional-sem-custo",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   }
 ]

@@ -3,286 +3,146 @@
   "id": "tabelas",
   "name": "Tabelas e Geradores",
   "readySourceCount": 275,
-  "entityCount": 0,
-  "sourcePartCount": 17,
+  "entityCount": 2,
+  "sourcePartCount": 1,
   "subgroups": [],
   "filters": {
     "sources": [
       {
-        "id": "guia-de-itens-magicos",
-        "title": "Guia de Itens Mágicos",
-        "sourceKind": "official",
-        "sourceKindLabel": "Livro oficial",
-        "officialSource": true,
-        "sourceFamily": "official_core",
-        "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 5
-      },
-      {
-        "id": "atributos",
-        "title": "Atributos",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "rules_system",
-        "sourceFamilyLabel": "Regras e sistema",
-        "count": 1
-      },
-      {
-        "id": "daemon-anime-rpg",
-        "title": "Daemon - Anime RPG",
+        "id": "anime-rpg-powers",
+        "title": "Anime RPG - Powers",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 4
-      },
-      {
-        "id": "diferencas",
-        "title": "Diferencas",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "powers_magic",
-        "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 1
-      },
-      {
-        "id": "mecha",
-        "title": "mecha",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "mutacao",
-        "title": "Mutação",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
-      },
-      {
-        "id": "one-punch-man-rpg",
-        "title": "One Punch Man RPG",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "adaptation_pop",
-        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 2
-      },
-      {
-        "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-        "title": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "rules_system",
-        "sourceFamilyLabel": "Regras e sistema",
-        "count": 1
-      },
-      {
-        "id": "tabela-e-regras-para-magos",
-        "title": "Tabela e Regras para magos",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento / regra de mesa",
-        "officialSource": false,
-        "sourceFamily": "custom_rules",
-        "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-        "count": 1
+        "count": 3
       }
     ],
     "categories": [
       {
-        "id": "attribute_skill",
-        "count": 4
-      },
-      {
-        "id": "combat",
-        "count": 2
-      },
-      {
-        "id": "core_rule",
-        "count": 6
-      },
-      {
-        "id": "item_equipment",
-        "count": 5
+        "id": "table_generator",
+        "count": 3
       }
     ],
     "subtypes": [
       {
         "id": "table_reference",
-        "count": 17
+        "count": 3
       }
     ],
     "sourceKinds": [
       {
-        "id": "official",
-        "label": "Livro oficial",
-        "count": 5
-      },
-      {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 12
+        "count": 3
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 6
-      },
-      {
-        "id": "official_core",
-        "label": "Oficiais / linha principal",
-        "count": 5
-      },
-      {
-        "id": "powers_magic",
-        "label": "Poderes, magia e rituais",
-        "count": 1
-      },
-      {
-        "id": "custom_rules",
-        "label": "Regras caseiras e compêndios do mestre",
-        "count": 1
-      },
-      {
-        "id": "rules_system",
-        "label": "Regras e sistema",
-        "count": 2
-      },
-      {
-        "id": "supplement_misc",
-        "label": "Suplementos gerais",
-        "count": 2
+        "count": 3
       }
     ],
     "areas": [
       {
         "id": "tabelas",
-        "count": 17
+        "count": 3
       }
     ]
   },
-  "entities": [],
+  "entities": [
+    {
+      "id": "tabela-de-armas-supers",
+      "name": "Tabela de Armas",
+      "area": "tabelas",
+      "category": "table_generator",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 43,
+      "entries": [
+        "Tabela de armas com dano, penalidade, ROF, pente e observacoes em Anime RPG - Powers."
+      ],
+      "tags": [
+        "armas",
+        "supers",
+        "tabela",
+        "tabelas",
+        "table_generator"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "table_reference",
+      "contentKindLabel": "Tabela ou referência",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "tabela-de-atributos-supers",
+      "name": "Tabela de Valores de Atributos",
+      "area": "tabelas",
+      "category": "table_generator",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 42,
+      "entries": [
+        "Tabela de referencia para atributos, carga, bonus, IP natural e velocidade em Anime RPG - Powers."
+      ],
+      "tags": [
+        "atributos",
+        "supers",
+        "tabela",
+        "tabelas",
+        "table_generator"
+      ],
+      "confidence": 0.9,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "table_reference",
+      "contentKindLabel": "Tabela ou referência",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    }
+  ],
   "sourceParts": [
     {
-      "id": "atributos--atributos-valor-medio-4",
-      "name": "Valor Médio",
+      "id": "anime-rpg-powers--powers-tabelas",
+      "name": "Tabelas de atributos e armas",
       "area": "tabelas",
-      "category": "core_rule",
-      "source": "atributos",
-      "sourceTitle": "Atributos",
-      "pages": [
-        4
-      ],
-      "page": 4,
-      "summary": "Valor Médio Devido às leis da probabilidade, ao rolar dois valores aleatórios como os dados e somá-los, alguns valores passam a ter mais chances de saírem que outros. Rolando um 3D, o valor 10 e 11 tem 12,15% de chances de sair cada, enquanto 3 e 18 possuem 0,45%. Para não explicar cálculos complicadíssimos para determinar qual o valor médio de cada valor de...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-simulando-125",
-      "name": "Simulando",
-      "area": "tabelas",
-      "category": "core_rule",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
+      "category": "table_generator",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
       "pages": [
         [
-          125,
-          126
+          42,
+          43
         ]
       ],
       "page": null,
-      "summary": "Simulando f dfOO com 3d& Caso você não disponha de dados de dez faces ou relógio com cronômetro, pode utilizar três dados comuns de seis lados para si­ mular 1d100. Você precisa de um dado de cor ou tamanho diferente, que será chamado de Dado de Controle. Depois de definido, basta jogar os três dados e comparar o resultado na tabela abaixo. Os dois dados com...",
-      "entityRefs": [],
+      "summary": "Tabelas de valores de atributos, carga, bonus, IP natural, velocidade e lista de armas com dano, penalidade, ROF, pente e observacoes.",
+      "entityRefs": [
+        "tabela-de-atributos-supers",
+        "tabela-de-armas-supers"
+      ],
       "tags": [
-        "core_rule",
-        "regras_base",
-        "tabelas"
+        "tabelas",
+        "table_generator"
       ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-tabela-de-calculo-78",
-      "name": "Tabela de Cálculo",
-      "area": "tabelas",
-      "category": "combat",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "pages": [
-        78
-      ],
-      "page": 78,
-      "summary": "Tabela de Cálculo Para facilitar a vida do projetista, a ficha de Mecha vem com a seguinte tabela, para preencher com os valores indicados. Desta forma, basta que você preencha os dados correspondentes e tudo dará certo. Note que você pode arredondar todos os valores resultantes das contas para os números que mais interessarem ao seu Mecha. Se você achar o f...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -300,594 +160,6 @@
       "qualityFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-velocidade-e-carga-88",
-      "name": "Velocidade e Carga",
-      "area": "tabelas",
-      "category": "core_rule",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "pages": [
-        88
-      ],
-      "page": 88,
-      "summary": "Velocidade e Carga Agora precisaremos um pouco de física, mas como você, leitor, é uma pessoa inteligente (afinal, gosta de Anime e está jogando o Siste­ ma Daemon), não deve ter problema nenhum com essa etapa. A Velocidade Máxima é determinada pelo motor. A Carga é determinada pela tabela de FR. A velocidade máxima só pode ser obtida se o mecha estiver desc...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "encoding_or_ocr_artifact",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "daemon-anime-rpg--daemon-anime-rpg-i-4-braco-esquerda-90",
-      "name": "I .4 Braço Esquerda",
-      "area": "tabelas",
-      "category": "core_rule",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "pages": [
-        90
-      ],
-      "page": 90,
-      "summary": "I .4 Braço Esquerda Em termos de jogo, o atirador que conseguir 40% do valor de seu Teste de perícia acertará o braço esquerdo. O local exato onde a bala acertou é dado pela tabela abaixo: Perícia Br Esq Tronco Abdômem Cabeça Pr Esq 1 0-19% 01 -04 05-06 07-08 09 1 0-* 20-29% 01-08 09-12 1 3-1 6 1 7-1 8 1 9-* 30-39% 01-12 1 1 -18 1 9-24 25-27 28-* 40-49% 01-1...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "diferencas--diferencas-maytreia-as-diferencas-entre-os-diversos-seres-dos-planos-1",
-      "name": "MAYTRÉIA – AS DIFERENÇAS ENTRE OS DIVERSOS SERES DOS PLANOS",
-      "area": "tabelas",
-      "category": "attribute_skill",
-      "source": "diferencas",
-      "sourceTitle": "Diferencas",
-      "pages": [
-        1
-      ],
-      "page": 1,
-      "summary": "MAYTRÉIA – AS DIFERENÇAS ENTRE OS DIVERSOS SERES DOS PLANOS Quando em Maytréia nos referimos a Elementais, Elementares, Conceitos e Egrégoras, alguns podem pensar que não existem diferenças fundamentais entre eles. Isso não é verdade. Vamos explicar a diferença existente em cada um na tabela abaixo. Lembramos que estamos falando de forma simplificada. Cabe a...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-machado-magico-172",
-      "name": "Machado Magico",
-      "area": "tabelas",
-      "category": "item_equipment",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        172
-      ],
-      "page": 172,
-      "summary": "Machado Magico Consulte Arma Magica. Caso voce deseje especificar 0 tipo de machado, (on- suIte a tabela abaixo para encontrar alguns dos mais conhe- cidos modelos de Armas Magicas. Para maiores detalhes sabre cada urn destes macha- dos, consulte 0 GUIA DE ARMAS MEDlEY AlS. Tipo de Machado ldl0 Machado de Mao 1 Machadinha 2 Machado de Arremesso 3 Machado Mil...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-saco-de-feijoes-magicos-234",
-      "name": "Saco de Feijoes Magicos",
-      "area": "tabelas",
-      "category": "item_equipment",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        234
-      ],
-      "page": 234,
-      "summary": "Saco de Feijoes Magicos Este saeD cantem cerea de 12+5d6 feiji5es, de diversas cores e texturas, que podem ser arremessados pele Persona- gem em algum local proximo, au ate mesmo ingeridos (ape- sar de nao ser muito recomendavel). Cada feijao possui urn pader diferente (e aleatorio, 0 que tarna impassivel prever 0 que as Feijoes Magicos idio fazer quando ati...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-punhal-do-ladrao-273",
-      "name": "Punhal do Ladrao",
-      "area": "tabelas",
-      "category": "item_equipment",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        273
-      ],
-      "page": 273,
-      "summary": "Punhal do Ladrao 92 Halberd das Fileiras 80 Rede Congelante 93 Halberd de Glinka 81 Rede Eletrificada 94 lnstrumentos dos Keepers 82-83 Rede Flamejante 95 Katana das Sombras 84 Tabela 2: Armas pspeciais 96-00 Katana de Saukas 85 Katana Demoniaca 86 Tabela 2: Armas especiais Katana dos DeathKnights '87-88 Katar de Abdulla 89 Kopesh Sarracena 80 item 1d100 Lan...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-oculos-de-visao-noturna-277",
-      "name": "Oculos de Visao Noturna",
-      "area": "tabelas",
-      "category": "item_equipment",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        277
-      ],
-      "page": 277,
-      "summary": "Oculos de Visao Noturna 70 Tabela 9: Vtensilios 3 Olho Mau 71 Olhos de Encantar 72 Olhos de Petrifica<;ao 73 item 1d100 Olhos do Perito 74 Harpa de Encantar 01 Olhos dos Cumes 75 Harpa de Nero 02 Orbe de Abertura 76 Hor6scopo Magico 03 Orbe de Fuma<;a 77 Incenso de Captura de Espiritos 04 Orbe de Transcurso 78 Incense de Rompimento de V 60 05 Orbe do Sil~nci...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "guia-de-itens-magicos--guia-de-itens-magicos-pcx-ao-dos-fwlgos-279",
-      "name": "Pcx;ao dos FWlgOS",
-      "area": "tabelas",
-      "category": "item_equipment",
-      "source": "guia-de-itens-magicos",
-      "sourceTitle": "Guia de Itens Mágicos",
-      "pages": [
-        279
-      ],
-      "page": 279,
-      "summary": "Pcx;ao dos FWlgOS Poc;:ao dos Jothuns Poc;:ao Elastica Pcx;ao Ganesha Pcx;ao Veidt Unguento de Anubis 95 96 97 98 99 00 Tabela 12: Varinhas item Varinha de Aqua-Marine Varinha de Aqua-Marine (Ef. Aquos) Varinha de Circe Varinha de Condao Varinha de Conjurac;:ao Varinha de Cristal Varinha de Cristal (Efeitos de Luz) Varinha de Descoberta de Metais Varinha de...",
-      "entityRefs": [],
-      "tags": [
-        "item_equipment",
-        "itens_equipamentos",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "ends_with_connector_possible_cut",
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "mutacao--mutacao-coletes-de-kevlar-48",
-      "name": "COLETES DE KEVLAR",
-      "area": "tabelas",
-      "category": "core_rule",
-      "source": "mutacao",
-      "sourceTitle": "Mutação",
-      "pages": [
-        [
-          48,
-          54
-        ]
-      ],
-      "page": null,
-      "summary": "48 COLETES DE KEVLAR Coletes IP Proteção Penal. de DES e AGI Durabilid. Peso Kevlar 10 camadas (Nível 1) 4 T -10% 10 2 Kg Kevlar 14 camadas (Nível 2) 6 T -20% 15 3 Kg Kevlar 18 camadas (Nível 3) 8 T/B -30% 20 5 Kg Metal Gear 18 camadas (Nível 4) 8 T/B/P/C -30% 30 12 kg TABELA DE ESCUDOS Escudos IP Durabilidade Bônus Defensivo Peso Pequeno Madeira 4 10 +5% 2,...",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "one-punch-man-rpg--one-punch-man-rpg-tabela-de-valores-de-atributos-8",
-      "name": "Tabela de Valores de Atributos",
-      "area": "tabelas",
-      "category": "attribute_skill",
-      "source": "one-punch-man-rpg",
-      "sourceTitle": "One Punch Man RPG",
-      "pages": [
-        8
-      ],
-      "page": 8,
-      "summary": "Tabela de Valores de Atributos FR Bônus AGI Atributo Carregar Levantar de dano Velocidade (kg) (kg) (m/s) 1D 1-2 15 30 -3 1,5 3-4 20 40 -2 2,0 5-6 25 50 -1 2,5 2D 7-8 30 60 -1 3,0 9 35 70 0 3,5 10 40 80 0 4,0 11 45 90 0 4,5 12 50 100 0 Caminhar 3D 13 55 110 0 5,5 14 60 120 0 6,0 15 70 140 +1 7,0 16 80 160 +1 8,0 17 90 180 +2 9,0 18 100 200 +2 10 4D 19 110 22...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "one-punch-man-rpg--one-punch-man-rpg-tabela-de-valores-de-atributos-11",
-      "name": "Tabela de Valores de Atributos",
-      "area": "tabelas",
-      "category": "attribute_skill",
-      "source": "one-punch-man-rpg",
-      "sourceTitle": "One Punch Man RPG",
-      "pages": [
-        11
-      ],
-      "page": 11,
-      "summary": "Tabela de Valores de Atributos FR Bônus AGI Atributo Carregar Levantar de dano Velocidade (kg) (kg) (m/s) 1D 1-2 15 30 -3 1,5 3-4 20 40 -2 2,0 5-6 25 50 -1 2,5 2D 7-8 30 60 -1 3,0 9 35 70 0 3,5 10 40 80 0 4,0 11 45 90 0 4,5 12 50 100 0 Caminhar 3D 13 55 110 0 5,5 14 60 120 0 6,0 15 70 140 +1 7,0 16 80 160 +1 8,0 17 90 180 +2 9,0 18 100 200 +2 10 4D 19 110 22...",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-tabela-de-valores-de-atributos-13",
-      "name": "TaBELA dE VALORES dE ATRIBUTOS",
-      "area": "tabelas",
-      "category": "attribute_skill",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-      "pages": [
-        [
-          13,
-          14
-        ]
-      ],
-      "page": null,
-      "summary": "TaBELA dE VALORES dE ATRIBUTOS FR Bônus Atributo Carregar Levantar de Dano (kg) (kg) “15 30 20 40 25 50 30 60 3a 70 40) 80 45 90 So 55 60 70 80 90 Perícias são as habilidades do seu Personagem, dizem o que ele sabe fazer e quais suas chances de fazer direito. No momento em que o Personagem é criado, calcula-se quantos pontos de perícias ele terá para gastar....",
-      "entityRefs": [],
-      "tags": [
-        "attribute_skill",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "rules_system",
-      "sourceFamilyLabel": "Regras e sistema",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "tabela-e-regras-para-magos--docx-structured-source",
-      "name": "Documento DOCX estruturado",
-      "area": "tabelas",
-      "category": "core_rule",
-      "source": "tabela-e-regras-para-magos",
-      "sourceTitle": "Tabela e Regras para magos",
-      "pages": [
-        [
-          1,
-          11
-        ]
-      ],
-      "page": null,
-      "summary": "Fonte DOCX estruturada: Tabela e Regras para magos.",
-      "entityRefs": [],
-      "tags": [
-        "core_rule",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento / regra de mesa",
-      "officialSource": false,
-      "sourceFamily": "custom_rules",
-      "sourceFamilyLabel": "Regras caseiras e compêndios do mestre",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "raw_source_part_requires_review",
-        "source_part_without_specific_subject",
-        "too_short_possible_cut"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
-      "id": "mecha--mecha-regras-extras-11",
-      "name": "REGRAS EXTRAS",
-      "area": "tabelas",
-      "category": "combat",
-      "source": "mecha",
-      "sourceTitle": "mecha",
-      "pages": [
-        [
-          11,
-          15
-        ]
-      ],
-      "page": null,
-      "summary": "1 1 REGRAS EXTRAS Velocidade e Carga Agora precisaremos um pouco de Física, mas como você, lei- tor, deve ser uma pessoa inteligente (afinal, está jogando o Siste- ma Daemon), não deve ter problema nenhum com essa etapa. A Velocidade Máxima é determinada pelo Motor A Carga Máxima é determinada pela tabela de FR A Velocidade Máxima só pode ser obtida se o mec...",
-      "entityRefs": [],
-      "tags": [
-        "combat",
-        "regras_base",
-        "tabelas"
-      ],
-      "confidence": 0.76,
-      "extractionMethod": "book-part-area-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "table_reference",
-      "contentKindLabel": "Tabela ou referência",
-      "editorialFlags": [
-        "raw_source_part_requires_review"
-      ],
-      "editorialStatus": "raw_review",
-      "presentationStatusHint": "quarantine",
-      "qualityFlags": [
-        "hyphenated_word_split",
-        "raw_source_part_requires_review"
       ],
       "qualitySeverity": "critical",
       "presentationStatus": "quarantine",

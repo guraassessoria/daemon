@@ -2,14 +2,14 @@
   "version": 1,
   "readySourceCount": 275,
   "areaCount": 14,
-  "entityCount": 1441,
+  "entityCount": 1442,
   "sourcePartCount": 4023,
   "areas": [
     {
       "id": "regras_base",
       "name": "Regras Base",
-      "entityCount": 15,
-      "sourcePartCount": 940
+      "entityCount": 10,
+      "sourcePartCount": 0
     },
     {
       "id": "aprimoramentos",
@@ -57,37 +57,37 @@
       "id": "rituais",
       "name": "Rituais",
       "entityCount": 28,
-      "sourcePartCount": 162
+      "sourcePartCount": 96
     },
     {
       "id": "itens_equipamentos",
       "name": "Itens e Equipamentos",
-      "entityCount": 5,
-      "sourcePartCount": 475
+      "entityCount": 9,
+      "sourcePartCount": 214
     },
     {
       "id": "criaturas_npcs",
       "name": "Criaturas e NPCs",
-      "entityCount": 14,
-      "sourcePartCount": 366
+      "entityCount": 20,
+      "sourcePartCount": 564
     },
     {
       "id": "cenarios_lore",
       "name": "Cenarios e Lore",
-      "entityCount": 11,
-      "sourcePartCount": 74
+      "entityCount": 15,
+      "sourcePartCount": 104
     },
     {
       "id": "aventuras",
       "name": "Aventuras",
-      "entityCount": 14,
-      "sourcePartCount": 75
+      "entityCount": 4,
+      "sourcePartCount": 10
     },
     {
       "id": "tabelas",
       "name": "Tabelas e Geradores",
-      "entityCount": 0,
-      "sourcePartCount": 17
+      "entityCount": 2,
+      "sourcePartCount": 1
     }
   ],
   "readySources": [
@@ -587,7 +587,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 20
+        "count": 21
       },
       {
         "id": "anime-rpg-supers-monstros-e-viloes",
@@ -3143,7 +3143,7 @@
       },
       {
         "id": "core_rule",
-        "count": 557
+        "count": 558
       },
       {
         "id": "creature_npc",
@@ -3185,19 +3185,19 @@
     "subtypes": [
       {
         "id": "adventure_scene",
-        "count": 112
+        "count": 111
       },
       {
         "id": "character_option",
-        "count": 862
+        "count": 838
       },
       {
         "id": "combat_maneuver",
-        "count": 44
+        "count": 45
       },
       {
         "id": "creature_npc",
-        "count": 168
+        "count": 169
       },
       {
         "id": "front_matter",
@@ -3205,23 +3205,23 @@
       },
       {
         "id": "item_equipment",
-        "count": 503
+        "count": 502
       },
       {
         "id": "lore_world",
-        "count": 455
+        "count": 456
       },
       {
         "id": "ocr_noise",
-        "count": 330
+        "count": 333
       },
       {
         "id": "organization_faction",
-        "count": 262
+        "count": 261
       },
       {
         "id": "power_spell",
-        "count": 827
+        "count": 846
       },
       {
         "id": "raw_chapter_block",
@@ -3229,15 +3229,15 @@
       },
       {
         "id": "rule_mechanic",
-        "count": 29
+        "count": 30
       },
       {
         "id": "table_reference",
-        "count": 31
+        "count": 18
       },
       {
         "id": "uncertain_fragment",
-        "count": 1174
+        "count": 1189
       }
     ],
     "sourceKinds": [
@@ -3249,14 +3249,14 @@
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 4329
+        "count": 4330
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 402
+        "count": 403
       },
       {
         "id": "campaign_adventure",
@@ -3317,59 +3317,59 @@
     "areas": [
       {
         "id": "aprimoramentos",
-        "count": 668
+        "count": 513
       },
       {
         "id": "aventuras",
-        "count": 89
+        "count": 14
       },
       {
         "id": "cenarios_lore",
-        "count": 85
+        "count": 119
       },
       {
         "id": "classes",
-        "count": 166
+        "count": 12
       },
       {
         "id": "criaturas_npcs",
-        "count": 380
+        "count": 584
       },
       {
         "id": "itens_equipamentos",
-        "count": 480
+        "count": 223
       },
       {
         "id": "kits",
-        "count": 285
+        "count": 288
       },
       {
         "id": "linhagens",
-        "count": 292
+        "count": 72
       },
       {
         "id": "magias",
-        "count": 344
+        "count": 217
       },
       {
         "id": "poderes",
-        "count": 856
+        "count": 1110
       },
       {
         "id": "racas",
-        "count": 657
+        "count": 263
       },
       {
         "id": "regras_base",
-        "count": 955
+        "count": 1923
       },
       {
         "id": "rituais",
-        "count": 190
+        "count": 124
       },
       {
         "id": "tabelas",
-        "count": 17
+        "count": 3
       }
     ]
   }

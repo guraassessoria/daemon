@@ -3,8 +3,8 @@
   "id": "cenarios_lore",
   "name": "Cenarios e Lore",
   "readySourceCount": 275,
-  "entityCount": 11,
-  "sourcePartCount": 74,
+  "entityCount": 15,
+  "sourcePartCount": 104,
   "subgroups": [],
   "filters": {
     "sources": [
@@ -16,7 +16,17 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 3
+        "count": 5
+      },
+      {
+        "id": "guia-de-armas-medievais-3a-edicao",
+        "title": "Guia de Armas Medievais - 3ª Edição",
+        "sourceKind": "official",
+        "sourceKindLabel": "Livro oficial",
+        "officialSource": true,
+        "sourceFamily": "official_core",
+        "sourceFamilyLabel": "Oficiais / linha principal",
+        "count": 1
       },
       {
         "id": "trevas-3-0",
@@ -29,6 +39,16 @@
         "count": 52
       },
       {
+        "id": "4killers",
+        "title": "4killers",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
         "id": "a-assassina",
         "title": "A Assassina",
         "sourceKind": "supplement",
@@ -36,7 +56,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 3
       },
       {
         "id": "abismo",
@@ -46,7 +66,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 6
+        "count": 10
       },
       {
         "id": "abismo-infinito-quick-start",
@@ -56,7 +76,7 @@
         "officialSource": false,
         "sourceFamily": "campaign_adventure",
         "sourceFamilyLabel": "Campanhas e aventuras",
-        "count": 1
+        "count": 2
       },
       {
         "id": "alastores-a-justica-infernal",
@@ -66,7 +86,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 4
+        "count": 6
       },
       {
         "id": "animalidade",
@@ -76,7 +96,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 3
       },
       {
         "id": "anime-rpg-powers",
@@ -86,7 +106,27 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 6
+      },
+      {
+        "id": "anjos-jyhad-faces-da-fe",
+        "title": "Anjos Jyhad - Faces da Fé",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "powers_magic",
+        "sourceFamilyLabel": "Poderes, magia e rituais",
+        "count": 2
+      },
+      {
+        "id": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+        "title": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 3
       },
       {
         "id": "arkanun-1e-ultra-raro",
@@ -109,8 +149,28 @@
         "count": 1
       },
       {
+        "id": "dragoes-reis-caidos-sistema-daemon",
+        "title": "Dragoes-Reis-Caidos-Sistema-Daemon",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "rules_system",
+        "sourceFamilyLabel": "Regras e sistema",
+        "count": 1
+      },
+      {
         "id": "etruscos",
         "title": "Etruscos",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
+        "id": "imortal-a-centelha",
+        "title": "Imortal - A Centelha",
         "sourceKind": "supplement",
         "sourceKindLabel": "Suplemento de jogo/campanha",
         "officialSource": false,
@@ -129,6 +189,36 @@
         "count": 3
       },
       {
+        "id": "metropolis-2",
+        "title": "Metropolis (2)",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "setting_lore",
+        "sourceFamilyLabel": "Cenários, lore e organizações",
+        "count": 1
+      },
+      {
+        "id": "mitraismo",
+        "title": "Mitraísmo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "myth_history",
+        "sourceFamilyLabel": "Mitologia, história e religião",
+        "count": 1
+      },
+      {
+        "id": "onmyodo",
+        "title": "Onmyodo",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
+      },
+      {
         "id": "oriente-cronologia",
         "title": "Oriente Cronologia",
         "sourceKind": "supplement",
@@ -136,7 +226,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
+        "count": 3
       },
       {
         "id": "trevas-de-marte",
@@ -156,7 +246,7 @@
         "officialSource": false,
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
-        "count": 1
+        "count": 2
       },
       {
         "id": "um-sussurro-nas-trevas",
@@ -187,15 +277,29 @@
         "sourceFamily": "setting_lore",
         "sourceFamilyLabel": "Cenários, lore e organizações",
         "count": 1
+      },
+      {
+        "id": "youkai-kyuukai",
+        "title": "Youkai Kyuukai",
+        "sourceKind": "supplement",
+        "sourceKindLabel": "Suplemento de jogo/campanha",
+        "officialSource": false,
+        "sourceFamily": "supplement_misc",
+        "sourceFamilyLabel": "Suplementos gerais",
+        "count": 1
       }
     ],
     "categories": [
       {
         "id": "setting_lore",
-        "count": 85
+        "count": 119
       }
     ],
     "subtypes": [
+      {
+        "id": "adventure_scene",
+        "count": 3
+      },
       {
         "id": "front_matter",
         "count": 2
@@ -206,7 +310,7 @@
       },
       {
         "id": "lore_world",
-        "count": 14
+        "count": 23
       },
       {
         "id": "ocr_noise",
@@ -214,69 +318,111 @@
       },
       {
         "id": "organization_faction",
-        "count": 1
+        "count": 5
       },
       {
         "id": "raw_chapter_block",
-        "count": 7
+        "count": 17
       },
       {
         "id": "uncertain_fragment",
-        "count": 7
+        "count": 15
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 55
+        "count": 58
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 30
+        "count": 61
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 1
+        "count": 6
       },
       {
         "id": "campaign_adventure",
         "label": "Campanhas e aventuras",
-        "count": 3
+        "count": 4
       },
       {
         "id": "setting_lore",
         "label": "Cenários, lore e organizações",
-        "count": 8
+        "count": 10
+      },
+      {
+        "id": "myth_history",
+        "label": "Mitologia, história e religião",
+        "count": 1
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 55
+        "count": 58
       },
       {
         "id": "powers_magic",
         "label": "Poderes, magia e rituais",
-        "count": 4
+        "count": 8
+      },
+      {
+        "id": "rules_system",
+        "label": "Regras e sistema",
+        "count": 1
       },
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 14
+        "count": 31
       }
     ],
     "areas": [
       {
         "id": "cenarios_lore",
-        "count": 85
+        "count": 119
       }
     ]
   },
   "entities": [
+    {
+      "id": "academias-de-super-herois",
+      "name": "Academias de super-herois",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 40,
+      "entries": [
+        "Estrutura para campanhas em academias de super-herois, com aulas, materias, grupos sociais, professores, punicoes e relacionamentos."
+      ],
+      "tags": [
+        "campanha",
+        "cenarios_lore",
+        "escola",
+        "setting_lore",
+        "supers"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
     {
       "id": "alastores",
       "name": "Alastores",
@@ -293,7 +439,6 @@
         "cenarios_lore",
         "inferno",
         "organizacao",
-        "racas",
         "setting_lore"
       ],
       "confidence": 0.9,
@@ -327,7 +472,6 @@
         "cenarios_lore",
         "horror-espacial",
         "planeta",
-        "racas",
         "setting_lore"
       ],
       "confidence": 0.78,
@@ -359,7 +503,6 @@
         "cenarios_lore",
         "culto",
         "organizacao",
-        "racas",
         "setting_lore",
         "trevas"
       ],
@@ -392,7 +535,6 @@
         "campanha",
         "cenarios_lore",
         "quadrinhos",
-        "racas",
         "setting_lore",
         "supers"
       ],
@@ -403,6 +545,38 @@
       "officialSource": false,
       "sourceFamily": "adaptation_pop",
       "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "funny-club",
+      "name": "Funny Club",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "page": 2,
+      "entries": [
+        "Boate sofisticada usada como local importante na investigacao da aventura A Assassina."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "investigacao",
+        "local",
+        "setting_lore",
+        "urbano"
+      ],
+      "confidence": 0.8,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "lore_world",
       "contentKindLabel": "História, mundo ou cenário",
       "qualityFlags": [],
@@ -522,7 +696,6 @@
         "cosmologia",
         "horror",
         "plano",
-        "racas",
         "setting_lore"
       ],
       "confidence": 0.88,
@@ -554,11 +727,74 @@
         "abismo",
         "cenarios_lore",
         "local",
-        "racas",
         "setting_lore",
         "vigilancia"
       ],
       "confidence": 0.82,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "sci-fi-supers",
+      "name": "Sci-Fi em SUPERS",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "page": 31,
+      "entries": [
+        "Secao de ficcao cientifica para SUPERS, com futuro, transhumanismo, planetas, naves, governos galacticos, alienigenas, pirataria, equipamentos, robotica e psitecnologia."
+      ],
+      "tags": [
+        "campanha",
+        "cenarios_lore",
+        "sci-fi",
+        "setting_lore",
+        "supers"
+      ],
+      "confidence": 0.86,
+      "extractionMethod": "manual-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "qualityFlags": [],
+      "qualitySeverity": "ok",
+      "presentationStatus": "public",
+      "qualityStatus": "ok"
+    },
+    {
+      "id": "shells-papers",
+      "name": "Shell's Paper's",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "a-assassina",
+      "sourceTitle": "A Assassina",
+      "page": 2,
+      "entries": [
+        "Rede de papelarias com enderecos e sistema de filmagem, usada como local de investigacao."
+      ],
+      "tags": [
+        "cenarios_lore",
+        "investigacao",
+        "local",
+        "setting_lore",
+        "urbano"
+      ],
+      "confidence": 0.8,
       "extractionMethod": "manual-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -587,7 +823,6 @@
         "cenarios_lore",
         "cosmologia",
         "plano",
-        "racas",
         "setting_lore",
         "trevas"
       ],
@@ -620,7 +855,6 @@
         "animalidade",
         "cenarios_lore",
         "fera",
-        "linhagens",
         "setting_lore",
         "umbral"
       ],
@@ -641,6 +875,46 @@
   ],
   "sourceParts": [
     {
+      "id": "4killers--4killers-introduction",
+      "name": "Saidos do Inferno",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "4killers",
+      "sourceTitle": "4killers",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Introducao para uso de quatro antagonistas famosos do cinema de terror no sistema Daemon, tratados como assassinos de 15 nivel.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "a-assassina--a-assassina-locations",
       "name": "Locais importantes",
       "area": "cenarios_lore",
@@ -660,7 +934,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -669,6 +943,252 @@
       "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "uncertain_fragment",
       "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "abismo--abismo-origem-das-trevas",
+      "name": "Capitulo I: Origem das Trevas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          10,
+          22
+        ]
+      ],
+      "page": null,
+      "summary": "Cosmologia da Roda dos Mundos, Tenebras, primeira travessia, Infernun, planos de Shaitan, destruicao do tirano, Abismo, Ark-a-nun, ordens de magia e passagem das trevas pela historia humana.",
+      "entityRefs": [
+        "tenebras",
+        "infernun",
+        "abismo-plano"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "abismo--abismo-geografia",
+      "name": "Capitulo II: O Abismo",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          23,
+          41
+        ]
+      ],
+      "page": null,
+      "summary": "Descricao do Abismo em relacao a Ark-a-nun, Terra e Paradisia, incluindo postos de vigilia, morada de demonios, montanhas e regioes infernais.",
+      "entityRefs": [
+        "postos-de-vigilia",
+        "montanhas-do-abismo"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "abismo--abismo-cantos-escuros-terra",
+      "name": "Capitulo V: Os Cantos Escuros da Terra",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          104,
+          146
+        ]
+      ],
+      "page": null,
+      "summary": "Cultos, hierarquia, sacerdote terreno, bases de culto, forcas de Tenebras, pactos, sociedades secretas e cultos tenebrianos pelo mundo.",
+      "entityRefs": [
+        "cultos-de-tenebras"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "abismo--abismo-filhos-renegados",
+      "name": "Capitulo VI: Filhos Renegados das Trevas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo",
+      "sourceTitle": "Abismo",
+      "pages": [
+        [
+          147,
+          183
+        ]
+      ],
+      "page": null,
+      "summary": "Descricao de Infernun, sete fortalezas, panteoes sobreviventes e o Inferno, incluindo Dilmun, Ilhuicatliltic, Hanan Pacha e orientacoes de uso em campanha.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "abismo-infinito-quick-start--abismo-setting-space",
+      "name": "O abismo do universo",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "abismo-infinito-quick-start",
+      "sourceTitle": "Abismo-Infinito-Quick-Start",
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "page": 6,
+      "summary": "Ambientacao de horror espacial, viagem intergalactica, exploracao, naves, hibernacao, tecnologia e premissas de missao.",
+      "entityRefs": [
+        "autoctonia",
+        "hiperions",
+        "prometeus",
+        "argos"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "campaign_adventure",
+      "sourceFamilyLabel": "Campanhas e aventuras",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
       "editorialFlags": [
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
@@ -703,7 +1223,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -719,6 +1239,93 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-origem",
+      "name": "Origem",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        [
+          6,
+          7
+        ]
+      ],
+      "page": null,
+      "summary": "Origem da Ordem Cacadora dos Alastores, Alastor original, divisao do Inferno em circulos e credo Alastor.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "alastores-a-justica-infernal--alastores-introducao",
+      "name": "Introducao",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "alastores-a-justica-infernal",
+      "sourceTitle": "Alastores - A Justica Infernal",
+      "pages": [
+        5
+      ],
+      "page": 5,
+      "summary": "Explica o conceito dos Alastores como casa infernal de cacadores de fugitivos do Orco e sua relacao com Auxiliares e Templo de Set.",
+      "entityRefs": [
+        "alastores"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -745,7 +1352,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -761,6 +1368,394 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anime-rpg-powers--powers-academias",
+      "name": "Academias de super-herois",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "pages": [
+        [
+          40,
+          41
+        ]
+      ],
+      "page": null,
+      "summary": "Regras e elementos para academias de super-herois, aulas, materias, grupos sociais, professores, punicoes, paqueras e atividades escolares.",
+      "entityRefs": [
+        "academias-de-super-herois"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anime-rpg-powers--powers-sci-fi",
+      "name": "Sci-Fi",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "pages": [
+        [
+          31,
+          39
+        ]
+      ],
+      "page": null,
+      "summary": "Secao de ficcao cientifica com futuro, transhumanismo, implantes, planetas, naves, classes de naves, ambientes de nave, regras para naves, governos galacticos, alienigenas, pirataria, equipamentos futuristas, armaduras, veiculos, medicina, sobrevivencia, comunicacao, robotica e psitecnologia.",
+      "entityRefs": [
+        "sci-fi-supers",
+        "naves-supers",
+        "equipamentos-futuristas"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anime-rpg-powers--powers-eras-heroicas",
+      "name": "Eras Heroicas",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anime-rpg-powers",
+      "sourceTitle": "Anime RPG - Powers",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Discute eras de super-herois e tons de campanha como Era de Ouro, Prata, Bronze e Ferro.",
+      "entityRefs": [
+        "eras-heroicas"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "adaptation_pop",
+      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-protestantismo-6",
+      "name": "Protestantismo",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        6
+      ],
+      "page": 6,
+      "summary": "Protestantismo Os Cavaleiros Teutônicos Houve um tempo em que os teutônicos lutaram pela fé católi- ca. Eles participaram das cruzadas e depois usaram da força em lutas violentas e massacres na Lituânia e na Livônia. Quando seu grão- mestre fi nalmente se converteu para o protestantismo, a ordem acabou para o mundo, desapa- recendo nas sombras para se transf...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-bibliografia-42",
+      "name": "Bibliografia",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anjos-jyhad-faces-da-fe",
+      "sourceTitle": "Anjos Jyhad - Faces da Fé",
+      "pages": [
+        42
+      ],
+      "page": 42,
+      "summary": "Bibliografia Armstrong, Karen. Uma História de Deus. Companhia das Letras, 1999 Armstrong, Karen. Em Nome de Deus. Companhia das Letras, 2001 Armstrong, Karen. Jerusalém: uma Cidade, três Religiões. Companhia das Letras, 2000 Baigent, Michael. A Inquisição. Imago, 2001 Davidson, Gustav. A Dictionary of Angels including the fallen angels. Free Press, 1971 Del...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "powers_magic",
+      "sourceFamilyLabel": "Poderes, magia e rituais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-as-divisoes-de-cristianismo-24",
+      "name": "As Divisões DE CRISTIANISMO",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        [
+          24,
+          26
+        ]
+      ],
+      "page": null,
+      "summary": "As Divisões DE CRISTIANISMO CATeLICISTE A Igreja Católica Apostólica Romana CARACTERÍSTICAS A Igreja Católica Apostólica Romana é considerada a maior de todas as igrejas cristãs, arrebanhando pelo menos metade dos fiéis de Jesus em todo o mundo. Ela é conside- rada única, pela noção de que existe apenas uma igreja de Christos, criada ainda pelos apóstolos; é...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-introducao-4",
+      "name": "INTRODUÇÃO",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "INTRODUÇÃO As três principais religiões monoteistas do mundo oci- dental derivam do Oriente Médio e seguem fundamentalmente o mesmo Deus, ainda que difiram seus preceitos. Suas históri- as estão interligadas, principalmente possuem como ponto em comum o chamado Velho Testamento, que conta o início da aliança entre Deus e a humanidade. O que se segue é uma br...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
+        "generic_chapter_or_page_block",
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-cristianismo-17",
+      "name": "CRISTIANISMO",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
+      "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
+      "pages": [
+        17
+      ],
+      "page": 17,
+      "summary": "CRISTIANISMO O cristianismo nasceu há dois mil anos a partir das pala- vras de Jesus, sendo que seu berço foi uma tumultuada Pales- tina. Desde esse tempo, espalhou-se pelo mundo e tornou-se a religião que mais influenciou a história do ocidente. Grande parte da história do cristianismo já foi descrita tanto em ARKANUN quanto em TREVAS e não será repetida aq...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-seculo-dus-homens-6",
+      "name": "Século dÜs homens",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          6,
+          8
+        ]
+      ],
+      "page": null,
+      "summary": "Século dÜs homens \"-Nave se aproximando!,\" grita um jovem instalado na torre do porto para seus companhei­ ros mais velhos. Logo, os homens se juntam no cais a fim de estarem prontos para agarrarem as amar­ ras quando esf as forem lançadas. A nau se aproxi­ ma, as velas outrora cheias, agora repousam ten­ tando evitar o vento e dar ao navio uma atracagem fir...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -788,7 +1783,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -837,7 +1832,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -853,6 +1848,50 @@
       "editorialStatus": "raw_review",
       "presentationStatusHint": "quarantine",
       "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "arkanun--arkanun-a-rkc-nun-a-rcc-norum-117",
+      "name": "À.Rkc\\nun À.Rcc\\nORUm",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "pages": [
+        [
+          117,
+          118
+        ]
+      ],
+      "page": null,
+      "summary": "À.Rkc\\nun À.Rcc\\nORUm As Origens desta Ordem Secreta de Magos datam do Templo do Grande Mago Salomão. Originalmente, o Arkanun Arcanorum era forma­ do apenas por Magos pertencentes à Ordem de Salomão, buscava métodos de enfrentar e destruir Demônios e outras criaturas sobrenaturais, com o auxílio dos Cava­ leiros do Templo. Com a quase total destruição de Je...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "organization_faction",
+      "contentKindLabel": "Organização, facção ou culto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "encoding_or_ocr_artifact",
         "raw_source_part_requires_review",
         "source_part_without_specific_subject"
       ],
@@ -877,7 +1916,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -921,7 +1960,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -966,7 +2005,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1008,7 +2047,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1052,7 +2091,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1078,6 +2117,48 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-38",
+      "name": "Dragões: Reis Caídos",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "dragoes-reis-caidos-sistema-daemon",
+      "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
+      "pages": [
+        38
+      ],
+      "page": 38,
+      "summary": "Dragões: Reis Caídos Dragões Verdes Origem Nascidos antes do último giro da Roda dos Mundos, os Dragões Verdes trazem consigo o sangue da Dragonesa Primordial chamada Beira. Durante o giro que destruiu o mundo dos Primordiais e o reanimou como a terra dos dragões elementais, esta Primordial teve sua essência espalhada em uma pequena região coberta por uma es...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "rules_system",
+      "sourceFamilyLabel": "Regras e sistema",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "etruscos--etruscos-resumo-historico-6",
       "name": "RESUMO HISTORICO",
       "area": "cenarios_lore",
@@ -1097,7 +2178,88 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "guia-de-armas-medievais-3a-edicao--guia-de-armas-medievais-3a-edicao-ane-12",
+      "name": "ane",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "guia-de-armas-medievais-3a-edicao",
+      "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
+      "pages": [
+        12
+      ],
+      "page": 12,
+      "summary": "ane o Noir sages Oh oe Baas taco anti E EO Dm ee a nt ee 2a A Idade das Trevas No século XIV, o centro gravitacional da Europa deslocou-se para o Oriente, principalmente para o leste da Alemanha, região Prussiana, Hungria e Polônia. Os Cavaleiros Teutônicos orga- nizam uma grande marcha de conquista e desenvolvimento no norte da Europa No Ocidente, as guerra...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "imortal-a-centelha--imortal-a-centelha-neperari-18",
+      "name": "Neperari",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "imortal-a-centelha",
+      "sourceTitle": "Imortal - A Centelha",
+      "pages": [
+        18
+      ],
+      "page": 18,
+      "summary": "Neperari Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Trabalhadores de nepri Origem e História Na mitologia egípcia, Nepri (também chamado de Nepra ou Neper) era uma divindade andrógina dos grãos, valiosa mercadoria do Antigo Egito, que enfrentou a fome sem eles. Seu nome simplesmente significa \"senhor da boca\", uma referência à funçã...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1140,7 +2302,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1185,7 +2347,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1226,7 +2388,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1252,6 +2414,219 @@
       "qualityStatus": "quarentena"
     },
     {
+      "id": "metropolis-2--metropolis-2-metropolis-8",
+      "name": "Metrópolis",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "metropolis-2",
+      "sourceTitle": "Metropolis (2)",
+      "pages": [
+        [
+          8,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "Metrópolis 8 almas para o Fosso sem o mínimo de esforço dos Cenobitas. O cristianismo colaborou com idéias que nem os cultos de Cibele davam. Passar adiante o conceito de redenção através da dor e do quanto o martírio levaria alguém ao céu, fez as pessoas acreditarem em masoquistas que eram vistos como santos por imporem-se sofrimento e sentirem-se tocados p...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "mitraismo--mitraismo-religioes-1",
+      "name": "Religiões",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "mitraismo",
+      "sourceTitle": "Mitraísmo",
+      "pages": [
+        [
+          1,
+          9
+        ]
+      ],
+      "page": null,
+      "summary": "1 Religiões Mitraísmo Com certeza, um dos maiores adversários da Cidade de Prata foi Mitras. Isso quando alguém se refere ao início do Cris- tianismo. A batalha entre os anjos cristãos e os servos de Mitras espalhou-se pelo mundo espiritual e passou pela Terra. Mitras foi derrotado, mas não destruído. Muitas vezes Mitras aparece como filho de Ahura- Masda, s...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "myth_history",
+      "sourceFamilyLabel": "Mitologia, história e religião",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "hyphenated_word_split",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "onmyodo--onmyodo-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "onmyodo",
+      "sourceTitle": "Onmyodo",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente ONMYODO HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "oriente-cronologia--oriente-cronologia-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "oriente-cronologia",
+      "sourceTitle": "Oriente Cronologia",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente Cronologia HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "oriente-cronologia--oriente-cronologia-consideracoes-2",
+      "name": "CONSIDERACOES",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "oriente-cronologia",
+      "sourceTitle": "Oriente Cronologia",
+      "pages": [
+        2
+      ],
+      "page": 2,
+      "summary": "CONSIDERACOES Este Netbook (aliás, o meu primeiro) trata de uma possível visão do continente oriental sob a ótica do cenário de Trevas. Como o próprio Oriente não é muito abordado nos diversos livros da Daemon Editora (possuindo apenas breves descrições, insuficientes para se jogar uma campanha perfeitamente inserida em uma cultura oriental), passei a estuda...",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "adventure_scene",
+      "contentKindLabel": "Aventura, cena ou campanha",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
       "id": "oriente-cronologia--oriente-cronologia-agradecimentos-3",
       "name": "AGRADECIMENTOS",
       "area": "cenarios_lore",
@@ -1268,7 +2643,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -1313,7 +2688,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1362,7 +2737,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1408,7 +2783,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1455,7 +2830,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1502,7 +2877,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1550,7 +2925,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1598,7 +2973,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1646,7 +3021,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1695,7 +3070,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1743,7 +3118,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1791,7 +3166,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1839,7 +3214,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1887,7 +3262,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1936,7 +3311,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -1983,7 +3358,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2032,7 +3407,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2079,7 +3454,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2125,7 +3500,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2174,7 +3549,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2223,7 +3598,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2270,7 +3645,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2316,7 +3691,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2360,7 +3735,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2405,7 +3780,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2451,7 +3826,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2497,7 +3872,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2543,7 +3918,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2588,7 +3963,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2635,7 +4010,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2680,7 +4055,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2725,7 +4100,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2771,7 +4146,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2817,7 +4192,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2861,7 +4236,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2906,7 +4281,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2952,7 +4327,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -2997,7 +4372,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3041,7 +4416,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3085,7 +4460,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3131,7 +4506,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3177,7 +4552,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3224,7 +4599,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3270,7 +4645,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3317,7 +4692,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3363,7 +4738,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3408,7 +4783,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3454,7 +4829,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3498,7 +4873,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3544,7 +4919,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3589,7 +4964,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3632,7 +5007,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3677,7 +5052,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "official",
       "sourceKindLabel": "Livro oficial",
@@ -3722,7 +5097,51 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "setting_lore",
+      "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "raw_chapter_block",
+      "contentKindLabel": "Capítulo/página bruto",
+      "editorialFlags": [
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "generic_chapter_or_page_block",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "trevas-do-oriente-28-palacios",
+      "sourceTitle": "Trevas do oriente - 28 Palácios",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente OS 28 PALACIOS LUNARES HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -3766,7 +5185,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -3808,7 +5227,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -3851,7 +5270,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -3895,7 +5314,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
@@ -3935,13 +5354,137 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",
       "officialSource": false,
       "sourceFamily": "setting_lore",
       "sourceFamilyLabel": "Cenários, lore e organizações",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "youkai-kyuukai--youkai-kyuukai-trevas-do-1",
+      "name": "Trevas do",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "youkai-kyuukai",
+      "sourceTitle": "Youkai Kyuukai",
+      "pages": [
+        1
+      ],
+      "page": 1,
+      "summary": "Trevas do Oriente YOUKAI E KYUUKAI HENRIQUE “MORCEGO” SANTOS",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "uncertain_fragment",
+      "contentKindLabel": "Fragmento incerto",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject",
+        "too_short_possible_cut"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "animalidade--animalidade-cultura-umbral-leis",
+      "name": "Cultura, costumes, leis e Umbral",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "animalidade",
+      "sourceTitle": "animalidade",
+      "pages": [
+        3
+      ],
+      "page": 3,
+      "summary": "Apresenta cultura e costumes dos Feras, leis, relacao com o Umbral e praticas como adentrar no Umbral, criar dominio e chamado do espirito anciao.",
+      "entityRefs": [
+        "umbral-dos-feras"
+      ],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
+      "contentKind": "lore_world",
+      "contentKindLabel": "História, mundo ou cenário",
+      "editorialFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "editorialStatus": "raw_review",
+      "presentationStatusHint": "quarantine",
+      "qualityFlags": [
+        "raw_source_part_requires_review",
+        "source_part_without_specific_subject"
+      ],
+      "qualitySeverity": "critical",
+      "presentationStatus": "quarantine",
+      "qualityStatus": "quarentena"
+    },
+    {
+      "id": "animalidade--animalidade-origem-ciganos-despertar",
+      "name": "Furia de Gaea, Ciganos e Despertar da Fera",
+      "area": "cenarios_lore",
+      "category": "setting_lore",
+      "source": "animalidade",
+      "sourceTitle": "animalidade",
+      "pages": [
+        4
+      ],
+      "page": 4,
+      "summary": "Descreve a magia/maldicao Furia de Gaea, relacao com ciganos, modo de vida e despertar da Fera.",
+      "entityRefs": [],
+      "tags": [
+        "cenarios_lore",
+        "setting_lore"
+      ],
+      "confidence": 0.84,
+      "extractionMethod": "book-part-area-pass-1",
+      "sourceKind": "supplement",
+      "sourceKindLabel": "Suplemento de jogo/campanha",
+      "officialSource": false,
+      "sourceFamily": "supplement_misc",
+      "sourceFamilyLabel": "Suplementos gerais",
       "contentKind": "uncertain_fragment",
       "contentKindLabel": "Fragmento incerto",
       "editorialFlags": [
@@ -3978,7 +5521,7 @@
         "cenarios_lore",
         "setting_lore"
       ],
-      "confidence": 0.78,
+      "confidence": 0.84,
       "extractionMethod": "book-part-area-pass-1",
       "sourceKind": "supplement",
       "sourceKindLabel": "Suplemento de jogo/campanha",

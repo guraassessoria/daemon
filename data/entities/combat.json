@@ -9,9 +9,21 @@
       "Trilha de dano fisico de Abismo Infinito.",
       "Personagens acumulam pontos de Ferimentos; o texto descreve danos por intencao, de atordoar ate matar."
     ],
-    "tags": ["dano", "combate", "ferimentos"],
+    "tags": [
+      "certificado",
+      "combate",
+      "dano",
+      "ferimentos",
+      "regras-base"
+    ],
     "confidence": 0.9,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo-infinito-quick-start:ferimentos",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
     "id": "males-do-espaco",
@@ -23,8 +35,20 @@
       "Perigos ambientais do espaco, incluindo assombro visual, gravidade nula e vacuo.",
       "Aplicam desvantagens circunstanciais ou dano direto conforme a exposicao."
     ],
-    "tags": ["perigo", "espaco", "ambiente"],
+    "tags": [
+      "ambiente",
+      "certificado",
+      "espaco",
+      "perigo",
+      "regras-base"
+    ],
     "confidence": 0.88,
-    "extractionMethod": "manual-pass-1"
+    "extractionMethod": "manual-pass-1",
+    "certificationStatus": "certified",
+    "certifiedAs": "regra_base",
+    "certifiedArea": "regras_base",
+    "lockedArea": "regras_base",
+    "certificationId": "regras-base-lock:abismo-infinito-quick-start:males-do-espaco",
+    "certificationMethod": "regras-base-mechanical-pass-1"
   }
 ]

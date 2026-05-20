@@ -316,6 +316,18 @@ def ritual_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dic
     return by_id, by_source_name
 
 
+def regras_base_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock = read_json(INDEX_DIR / "regras-base-certified-lock.json", {"records": []})
+    by_id: dict[str, dict[str, Any]] = {}
+    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
+    for record in lock.get("records", []):
+        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
+            continue
+        by_id[record["id"]] = record
+        by_source_name[(record["source"], record["nameKey"])] = record
+    return by_id, by_source_name
+
+
 def is_aprimoramento_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
     normalized_name = normalize_for_search(name)
@@ -447,7 +459,23 @@ def is_magic_claim(entity: dict[str, Any], category: str, name: str) -> bool:
     )
 
 
+def is_regras_base_claim(entity: dict[str, Any], category: str, name: str) -> bool:
+    if category not in {"core_rule", "attribute_skill", "combat"}:
+        return False
+    tags = {normalize_for_search(str(tag)) for tag in entity.get("tags", [])}
+    entity_id = str(entity.get("id") or "")
+    return (
+        entity_id.startswith(("regra-", "core-rule-", "combat-", "pericia-", "atributo-"))
+        or bool(tags & {"regra", "regras", "regras basicas", "sistema", "atributo", "atributos", "pericia", "pericias", "combate"})
+        or normalize_for_search(name) in {"regra", "regras", "sistema", "atributos", "pericias", "combate"}
+    )
+
+
 def infer_area(category: str, name: str, summary: str, source_title: str) -> tuple[str, float, list[str]]:
+    explicit_area = CATEGORY_TO_AREA.get(category)
+    if explicit_area and category != "source":
+        return explicit_area, 0.84, [explicit_area]
+
     haystack = normalize_for_search(" ".join([name, summary, source_title]))
     matches: list[str] = []
     for area, keywords in AREA_KEYWORDS:
@@ -626,6 +654,7 @@ def build_entity_items(
     power_lock_by_id, power_lock_by_source_name = power_locks()
     magic_lock_by_id, magic_lock_by_source_name = magic_locks()
     ritual_lock_by_id, ritual_lock_by_source_name = ritual_locks()
+    rules_lock_by_id, rules_lock_by_source_name = regras_base_locks()
     quarantined_aprimoramentos: list[dict[str, Any]] = []
     duplicate_aprimoramentos: list[dict[str, Any]] = []
     quarantined_kits: list[dict[str, Any]] = []
@@ -641,6 +670,8 @@ def build_entity_items(
     quarantined_magics: list[dict[str, Any]] = []
     duplicate_magics: list[dict[str, Any]] = []
     duplicate_rituals: list[dict[str, Any]] = []
+    quarantined_rules: list[dict[str, Any]] = []
+    duplicate_rules: list[dict[str, Any]] = []
     for path in sorted(ENTITIES_DIR.glob("*.json")):
         if path.name == "source.json":
             continue
@@ -663,6 +694,7 @@ def build_entity_items(
             is_certified_power = entity_id in power_lock_by_id
             is_certified_magic = entity_id in magic_lock_by_id
             is_certified_ritual = entity_id in ritual_lock_by_id
+            is_certified_rule = entity_id in rules_lock_by_id
             is_structured_docx = entity.get("extractionMethod") == "docx-structured-import-v1"
             if source_name_key in lock_by_source_name and not is_certified_aprimoramento:
                 duplicate_aprimoramentos.append(
@@ -768,7 +800,20 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if source_name_key in rules_lock_by_source_name and not is_certified_rule:
+                duplicate_rules.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "duplicateOf": rules_lock_by_source_name[source_name_key]["id"],
+                    }
+                )
+                continue
+            if not is_structured_docx and is_aprimoramento_claim(entity, category, str(name)) and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual and not is_certified_rule:
                 quarantined_aprimoramentos.append(
                     {
                         "id": entity_id,
@@ -781,7 +826,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_kit_claim(entity, category, str(name)) and not is_certified_kit and not is_certified_aprimoramento and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual and not is_certified_rule:
                 quarantined_kits.append(
                     {
                         "id": entity_id,
@@ -794,7 +839,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_class_claim(entity, category, str(name)) and not is_certified_class and not is_certified_aprimoramento and not is_certified_kit and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual and not is_certified_rule:
                 quarantined_classes.append(
                     {
                         "id": entity_id,
@@ -807,7 +852,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_lineage_claim(entity, category, str(name)) and not is_certified_lineage and not is_certified_race and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual and not is_certified_rule:
                 quarantined_lineages.append(
                     {
                         "id": entity_id,
@@ -820,7 +865,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+            if not is_structured_docx and is_race_claim(entity, category, str(name)) and not is_certified_race and not is_certified_lineage and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_power and not is_certified_magic and not is_certified_ritual and not is_certified_rule:
                 quarantined_races.append(
                     {
                         "id": entity_id,
@@ -833,7 +878,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
+            if not is_structured_docx and is_power_claim(entity, category, str(name)) and not is_certified_power and not is_certified_magic and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual and not is_certified_rule:
                 quarantined_powers.append(
                     {
                         "id": entity_id,
@@ -846,7 +891,7 @@ def build_entity_items(
                     }
                 )
                 continue
-            if not is_structured_docx and is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual:
+            if not is_structured_docx and is_magic_claim(entity, category, str(name)) and not is_certified_magic and not is_certified_power and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_ritual and not is_certified_rule:
                 quarantined_magics.append(
                     {
                         "id": entity_id,
@@ -856,6 +901,19 @@ def build_entity_items(
                         "subtype": entity.get("subtype"),
                         "entityFile": path.name,
                         "reason": "uncertified_magic_claim",
+                    }
+                )
+                continue
+            if not is_structured_docx and is_regras_base_claim(entity, category, str(name)) and not is_certified_rule and not is_certified_aprimoramento and not is_certified_kit and not is_certified_class and not is_certified_race and not is_certified_lineage and not is_certified_power and not is_certified_magic and not is_certified_ritual:
+                quarantined_rules.append(
+                    {
+                        "id": entity_id,
+                        "name": name,
+                        "source": source_id,
+                        "category": category,
+                        "subtype": entity.get("subtype"),
+                        "entityFile": path.name,
+                        "reason": "uncertified_regras_base_claim",
                     }
                 )
                 continue
@@ -875,6 +933,8 @@ def build_entity_items(
                 category = "power_magic"
             if is_certified_ritual:
                 category = "ritual_spell"
+            if is_certified_rule:
+                category = entity.get("category") if entity.get("category") in {"core_rule", "attribute_skill", "combat"} else "core_rule"
             entries = entity.get("entries") or []
             display_name = normalize_uppercase_name(str(name))
             display_entries = normalize_display_entries(entries)
@@ -897,6 +957,8 @@ def build_entity_items(
                 area, confidence, matched_areas = "magias", 1.0, ["magias", "certificado"]
             elif is_certified_ritual:
                 area, confidence, matched_areas = "rituais", 1.0, ["rituais", "certificado"]
+            elif is_certified_rule:
+                area, confidence, matched_areas = "regras_base", 1.0, ["regras_base", "certificado"]
             else:
                 area, confidence, matched_areas = area_for_entity(
                     entity,
@@ -991,6 +1053,8 @@ def build_entity_items(
     write_json(WORK_DIR / "magias-quarantine.json", quarantined_magics)
     write_json(WORK_DIR / "magias-duplicate-blocks.json", duplicate_magics)
     write_json(WORK_DIR / "rituais-duplicate-blocks.json", duplicate_rituals)
+    write_json(WORK_DIR / "regras-base-quarantine.json", quarantined_rules)
+    write_json(WORK_DIR / "regras-base-duplicate-blocks.json", duplicate_rules)
     return items
 
 
@@ -1133,7 +1197,7 @@ def write_area_files(source_ids: list[str], part_items: list[dict[str, Any]], en
         area: {"entities": [], "sourceParts": []} for area in AREA_LABELS
     }
     for item in part_items:
-        if item["area"] in {"aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias"}:
+        if item["area"] in {"regras_base", "aprimoramentos", "kits", "classes", "racas", "linhagens", "poderes", "magias"}:
             continue
         by_area.setdefault(item["area"], {"entities": [], "sourceParts": []})["sourceParts"].append(enrich_display_quality(item, "sourcePart"))
     for item in entity_items:
