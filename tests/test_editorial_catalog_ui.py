@@ -49,4 +49,9 @@ def test_ui_has_admin_panel_editorial_notes_and_table_renderer() -> None:
     assert "notesToggle" in html
     assert "function renderQualityAlert" in app
     assert "function renderTables" in app
+    assert "function renderStructuredText" in app
+    assert "function renderDuplicateHints" in app
+    assert "function renderEntityRefs" in app
     assert ".rules-table" in css
+    assert ".semantic-section" in css
+    assert ".reference-chip" in css

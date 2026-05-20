@@ -113,6 +113,67 @@ const qualityLabels = {
   manual_review: "revisão manual",
 };
 
+const duplicateHintLabels = {
+  repeated_fragment_possible_duplication:
+    "Há trecho repetido neste registro; compare com a fonte antes de manter como entrada independente.",
+  many_cost_markers_possible_merged_aprimoramentos:
+    "Há vários marcadores de custo no mesmo bloco; pode haver aprimoramentos diferentes misturados.",
+  too_long_possible_merged_blocks: "O bloco está longo para uma única entrada; verifique se mais de um item foi unido.",
+  front_matter_or_generic_duplicate:
+    "O conteúdo parece front matter ou bloco genérico repetido em outra fonte.",
+  near_duplicate_same_information: "Pode repetir a mesma informação de outro registro com pequenas variações de texto.",
+};
+
+const semanticSectionLabels = [
+  "Alcance",
+  "Aprimoramentos",
+  "Atributos",
+  "Beneficio",
+  "Beneficios",
+  "Caminhos Preferidos",
+  "Consequencia",
+  "Consequencias",
+  "Custo",
+  "Custos",
+  "Dano",
+  "Descricao",
+  "Descricao",
+  "Desvantagens",
+  "Duracao",
+  "Duracao",
+  "Efeito",
+  "Especial",
+  "Funcionamento",
+  "Habilidades",
+  "Limitacoes",
+  "Limitacoes",
+  "Observacao",
+  "Observacao",
+  "Pericias",
+  "Pericias",
+  "Pericias Obrigatorias",
+  "Pericias Obrigatorias",
+  "Pericias Sugeridas",
+  "Pericias Sugeridas",
+  "Poderes",
+  "Pontos de Fe",
+  "Pontos de Fe",
+  "Pontos de Magia",
+  "Pontos Heroicos",
+  "Pontos Heroicos",
+  "Regras",
+  "Requisito",
+  "Requisitos",
+  "Restricoes",
+  "Restricoes",
+  "Sistema",
+  "Tempo de Conjuracao",
+  "Tempo de Conjuracao",
+  "Teste",
+  "Testes",
+  "Vantagens",
+];
+
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) {
@@ -228,6 +289,7 @@ function buildItems(areaData) {
       item.costText,
       ...(item.costs ?? []),
       ...(item.entries ?? []),
+      ...(item.entityRefs ?? []),
       ...(item.tags ?? []),
     ].join(" "),
   }));
@@ -243,6 +305,7 @@ function buildItems(areaData) {
       item.sourceFamilyLabel,
       item.contentKindLabel,
       item.qualityStatus,
+      ...(item.entityRefs ?? []),
       ...(item.tags ?? []),
     ].join(" "),
   }));
@@ -303,6 +366,93 @@ function isCostBlock(text) {
 
 function isNegativeCostBlock(text) {
   return /^[-\u2010-\u2015\u2212]\s*\d+\s+PONTOS?\s*:/i.test(text);
+}
+
+function shouldShowEditorialNotes() {
+  return state.showEditorialNotes || state.qualityMode === "review" || state.qualityMode === "quarantine";
+}
+
+function semanticLabelSet() {
+  return new Set(semanticSectionLabels.map((label) => normalize(label).replace(/\s+/g, " ").trim()));
+}
+
+function splitSemanticSections(raw) {
+  const text = formatEntryText(raw);
+  if (!text) return [];
+  const labels = semanticLabelSet();
+  const headingRe = /(^|[\s.;])([\p{L}][\p{L}\s]{1,34})\s*:/gu;
+  const matches = [];
+  let match;
+  while ((match = headingRe.exec(text)) !== null) {
+    const label = match[2].replace(/\s+/g, " ").trim();
+    if (!labels.has(normalize(label).replace(/\s+/g, " ").trim())) continue;
+    const markerStart = match.index + match[1].length;
+    matches.push({
+      start: markerStart,
+      contentStart: headingRe.lastIndex,
+      label: normalizeHeading(label),
+    });
+  }
+
+  if (!matches.length) return [{ kind: "text", text }];
+  const sections = [];
+  if (matches[0].start > 0) {
+    sections.push({ kind: "text", text: text.slice(0, matches[0].start).trim() });
+  }
+  matches.forEach((item, index) => {
+    sections.push({
+      kind: "section",
+      label: item.label,
+      text: text.slice(item.contentStart, matches[index + 1]?.start).trim(),
+    });
+  });
+  return sections.filter((section) => section.text);
+}
+
+function normalizeHeading(value) {
+  return String(value ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/\b\p{L}/gu, (letter) => letter.toLocaleUpperCase("pt-BR"));
+}
+
+function splitReadableParagraphs(value) {
+  return formatEntryText(value)
+    .split(/\n{2,}/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+}
+
+function appendParagraphs(container, value) {
+  splitReadableParagraphs(value).forEach((paragraph) => {
+    const element = document.createElement("p");
+    element.textContent = paragraph;
+    container.append(element);
+  });
+}
+
+function renderStructuredText(container, value) {
+  const sections = splitSemanticSections(value);
+  if (sections.length === 1 && sections[0].kind === "text") {
+    appendParagraphs(container, sections[0].text);
+    return;
+  }
+
+  sections.forEach((section) => {
+    if (section.kind === "text") {
+      appendParagraphs(container, section.text);
+      return;
+    }
+
+    const wrapper = document.createElement("section");
+    wrapper.className = "semantic-section";
+    const title = document.createElement("h3");
+    title.className = "semantic-heading";
+    title.textContent = section.label;
+    wrapper.append(title);
+    appendParagraphs(wrapper, section.text);
+    container.append(wrapper);
+  });
 }
 
 function itemPage(item) {
@@ -527,6 +677,8 @@ function renderDetail(explicitItem) {
   const entries = Array.isArray(item.entries) && item.entries.length ? item.entries : [item.summary || ""];
   renderEntryBlocks(body, entries);
   renderTables(body, item.tables);
+  const duplicateHints = renderDuplicateHints(item);
+  const entityRefs = renderEntityRefs(item);
 
   const tags = document.createElement("div");
   tags.className = "detail-tags";
@@ -539,7 +691,7 @@ function renderDetail(explicitItem) {
     ...(item.tags ?? []),
   ]);
 
-  nodes.detailPane.replaceChildren(header, meta, qualityAlert, facts, body, tags);
+  nodes.detailPane.replaceChildren(header, meta, qualityAlert, facts, body, duplicateHints, entityRefs, tags);
 }
 
 function addMeta(container, label, value) {
@@ -555,7 +707,7 @@ function addMeta(container, label, value) {
 function renderQualityAlert(item) {
   const wrapper = document.createElement("section");
   const flags = item.qualityFlags ?? [];
-  if (!flags.length || !state.showEditorialNotes) {
+  if (!flags.length || !shouldShowEditorialNotes()) {
     wrapper.hidden = true;
     return wrapper;
   }
@@ -571,6 +723,108 @@ function renderQualityAlert(item) {
   });
   wrapper.append(title, list);
   return wrapper;
+}
+
+function renderDuplicateHints(item) {
+  const wrapper = document.createElement("section");
+  wrapper.className = "detail-note duplicate-hints";
+  const hints = duplicateHints(item);
+  if (!hints.length) {
+    wrapper.hidden = true;
+    return wrapper;
+  }
+
+  const title = document.createElement("h3");
+  title.textContent = "Dicas de duplicidade";
+  const list = document.createElement("ul");
+  hints.slice(0, 6).forEach((hint) => {
+    const entry = document.createElement("li");
+    entry.textContent = hint;
+    list.append(entry);
+  });
+  wrapper.append(title, list);
+  return wrapper;
+}
+
+function duplicateHints(item) {
+  const hints = [];
+  const addHint = (value) => {
+    const text = formatEntryText(value);
+    if (text && !hints.includes(text)) hints.push(text);
+  };
+
+  (item.duplicateHints ?? []).forEach(addHint);
+  (item.possibleDuplicateHints ?? []).forEach(addHint);
+  (item.possibleDuplicates ?? []).forEach((duplicate) => {
+    const label = duplicateLabel(duplicate);
+    if (label) addHint(`Possível duplicidade com ${label}.`);
+  });
+  (item.duplicates ?? []).forEach((duplicate) => {
+    const label = duplicateLabel(duplicate);
+    if (label) addHint(`Conteúdo relacionado ou repetido em ${label}.`);
+  });
+  if (item.duplicateOf) addHint(`Este registro pode ser duplicata de ${duplicateLabel(item.duplicateOf)}.`);
+
+  (item.qualityFlags ?? []).forEach((flag) => {
+    if (duplicateHintLabels[flag]) addHint(duplicateHintLabels[flag]);
+  });
+
+  return hints;
+}
+
+function duplicateLabel(value) {
+  if (!value) return "";
+  if (typeof value === "string") return value;
+  return value.name || value.title || value.id || value.sourceTitle || "";
+}
+
+function renderEntityRefs(item) {
+  const wrapper = document.createElement("section");
+  wrapper.className = "detail-note entity-refs";
+  const refs = normalizedRefs(item.entityRefs);
+  if (!refs.length) {
+    wrapper.hidden = true;
+    return wrapper;
+  }
+
+  const title = document.createElement("h3");
+  title.textContent = "Referências";
+  const list = document.createElement("div");
+  list.className = "reference-list";
+
+  refs.slice(0, 18).forEach((ref) => {
+    const target = findReferenceTarget(ref.id);
+    const element = document.createElement(target ? "button" : "span");
+    element.className = `reference-chip${target ? "" : " unresolved"}`;
+    element.textContent = target?.name || ref.label || ref.id;
+    element.title = target ? "Abrir registro relacionado" : "Referência ainda não publicada nesta área";
+    if (target) {
+      element.type = "button";
+      element.addEventListener("click", () => selectItem(target.id));
+    }
+    list.append(element);
+  });
+
+  wrapper.append(title, list);
+  return wrapper;
+}
+
+function normalizedRefs(refs) {
+  if (!Array.isArray(refs)) return [];
+  return refs
+    .map((ref) => {
+      if (typeof ref === "string") return { id: ref, label: ref };
+      return { id: ref.id || ref.slug || ref.ref || "", label: ref.name || ref.title || ref.label || ref.id };
+    })
+    .filter((ref) => ref.id);
+}
+
+function findReferenceTarget(refId) {
+  const normalizedRef = normalize(refId);
+  return state.items.find((item) => {
+    const candidates = [item.id, item.slug, item.name].filter(Boolean).map(normalize);
+    return candidates.includes(normalizedRef);
+  });
 }
 
 function renderDetailFacts(item) {
@@ -622,11 +876,7 @@ function renderEntryBlocks(container, entries) {
       }
 
       costList = null;
-      block.split(/\n{2,}/).filter(Boolean).forEach((paragraph) => {
-        const element = document.createElement("p");
-        element.textContent = paragraph;
-        container.append(element);
-      });
+      renderStructuredText(container, block);
     });
   });
 }

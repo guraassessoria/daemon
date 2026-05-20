@@ -770,6 +770,26 @@ dd {
   white-space: normal;
 }
 
+.semantic-section {
+  margin: 0 0 16px;
+  padding-top: 2px;
+  border-top: 1px solid var(--line);
+}
+
+.semantic-heading,
+.detail-note h3 {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.semantic-section p:last-child {
+  margin-bottom: 0;
+}
+
 .cost-tiers {
   margin: 0 0 16px 1.1rem;
   padding: 0;
@@ -820,6 +840,61 @@ dd {
   color: var(--muted);
   font-size: 0.68rem;
   text-transform: uppercase;
+}
+
+.detail-note {
+  max-width: 760px;
+  margin: 16px 0 0;
+  padding: 12px;
+  border: 1px solid var(--line);
+  background: var(--surface-soft);
+}
+
+.detail-note[hidden] {
+  display: none;
+}
+
+.duplicate-hints {
+  border-color: var(--gold-line);
+}
+
+.duplicate-hints ul {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--ink-soft);
+  font-size: 0.86rem;
+  line-height: 1.45;
+}
+
+.reference-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.reference-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 4px 8px;
+  border: 1px solid var(--line-strong);
+  background: var(--surface);
+  color: var(--teal);
+  font: inherit;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.reference-chip.unresolved {
+  color: var(--muted);
+  cursor: default;
+}
+
+.reference-chip:not(.unresolved):hover {
+  border-color: var(--teal);
+  background: var(--teal-soft);
 }
 
 .detail-tags,
