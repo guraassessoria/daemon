@@ -6,8 +6,8 @@
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_character_options_do_not_enter_aprimoramentos": true
   },
-  "certifiedCount": 450,
-  "rejectedCount": 4,
+  "certifiedCount": 426,
+  "rejectedCount": 28,
   "records": [
     {
       "id": "aprimoramento-aprimoramentos-1-afinidade-com-fadas",
@@ -378,16 +378,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-1:improvisador"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-1-imunidade-a-venenos",
-      "source": "aprimoramentos-1",
-      "name": "Imunidade a Venenos",
-      "nameKey": "imunidade-a-venenos",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-1:imunidade-a-venenos"
     },
     {
       "id": "aprimoramento-aprimoramentos-1-infravisao",
@@ -1370,16 +1360,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-1:sangramento"
     },
     {
-      "id": "aprimoramento-aprimoramentos-1-sanguinario",
-      "source": "aprimoramentos-1",
-      "name": "Sanguinário",
-      "nameKey": "sanguinario",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-1:sanguinario"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-1-sono-pesado",
       "source": "aprimoramentos-1",
       "name": "Sono Pesado",
@@ -1840,26 +1820,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-2:prontido"
     },
     {
-      "id": "aprimoramento-aprimoramentos-2-sincronia",
-      "source": "aprimoramentos-2",
-      "name": "SINCRONIA",
-      "nameKey": "sincronia",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-2:sincronia"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-2-pericias-atributos-aprimoramentos-manobras",
-      "source": "aprimoramentos-2",
-      "name": "perícias, Atributos, Aprimoramentos, Manobras",
-      "nameKey": "pericias-atributos-aprimoramentos-manobras",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-2:pericias-atributos-aprimoramentos-manobras"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-2-trespassar",
       "source": "aprimoramentos-2",
       "name": "TRESPASSAR",
@@ -2160,16 +2120,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:mago-de-combate"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-cacador-de-vampiros",
-      "source": "aprimoramentos-3",
-      "name": "Caçador de Vampiros",
-      "nameKey": "cacador-de-vampiros",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:cacador-de-vampiros"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-heroi-demonio",
       "source": "aprimoramentos-3",
       "name": "Herói Demônio",
@@ -2290,16 +2240,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:tiro-certeiro"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-bom-senso",
-      "source": "aprimoramentos-3",
-      "name": "Bom Senso",
-      "nameKey": "bom-senso",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:bom-senso"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-coragem",
       "source": "aprimoramentos-3",
       "name": "Coragem",
@@ -2400,16 +2340,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:divida-de-gratidao"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-honrado",
-      "source": "aprimoramentos-3",
-      "name": "Honrado",
-      "nameKey": "honrado",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:honrado"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-sedutor",
       "source": "aprimoramentos-3",
       "name": "Sedutor",
@@ -2500,16 +2430,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:foco-em-caminho"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-magia-maxima",
-      "source": "aprimoramentos-3",
-      "name": "Magia Máxima",
-      "nameKey": "magia-maxima",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-maxima"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-magia-sem-gestos",
       "source": "aprimoramentos-3",
       "name": "Magia Sem Gestos",
@@ -2540,16 +2460,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:poderes-magicos"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-tutor",
-      "source": "aprimoramentos-3",
-      "name": "Tutor",
-      "nameKey": "tutor",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:tutor"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-telecinetico",
       "source": "aprimoramentos-3",
       "name": "Telecinético",
@@ -2568,16 +2478,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:telepata"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-medium",
-      "source": "aprimoramentos-3",
-      "name": "Médium",
-      "nameKey": "medium",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:medium"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-clarividente",
@@ -2620,16 +2520,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-fadas"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-afinidade-com-magia",
-      "source": "aprimoramentos-3",
-      "name": "Afinidade com Magia",
-      "nameKey": "afinidade-com-magia",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-magia"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-amigo-espirito",
       "source": "aprimoramentos-3",
       "name": "Amigo Espírito",
@@ -2648,16 +2538,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:amigo-fantasma"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-anjo-da-guarda",
-      "source": "aprimoramentos-3",
-      "name": "Anjo da Guarda",
-      "nameKey": "anjo-da-guarda",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:anjo-da-guarda"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-personagem",
@@ -2690,16 +2570,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:capaz-de-enxergar-auras"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-comunicacao-em-sonhos",
-      "source": "aprimoramentos-3",
-      "name": "Comunicação em Sonhos",
-      "nameKey": "comunicacao-em-sonhos",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:comunicacao-em-sonhos"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-conhecimentos-arcanos",
       "source": "aprimoramentos-3",
       "name": "Conhecimentos Arcanos",
@@ -2708,16 +2578,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:conhecimentos-arcanos"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-conjuracao",
-      "source": "aprimoramentos-3",
-      "name": "Conjuração",
-      "nameKey": "conjuracao",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:conjuracao"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-corpo-fechado",
@@ -2840,16 +2700,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:portal-natural"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-resistencia-a-magia",
-      "source": "aprimoramentos-3",
-      "name": "Resistência à Magia",
-      "nameKey": "resistencia-a-magia",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:resistencia-a-magia"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-presenca-invisivel",
       "source": "aprimoramentos-3",
       "name": "Presença Invisível",
@@ -2878,16 +2728,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:sociedade-secreta"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-sortudo",
-      "source": "aprimoramentos-3",
-      "name": "Sortudo",
-      "nameKey": "sortudo",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:sortudo"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-aprimoramento",
@@ -2930,16 +2770,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:ysea"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-alma-escravizada",
-      "source": "aprimoramentos-3",
-      "name": "Alma Escravizada",
-      "nameKey": "alma-escravizada",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:alma-escravizada"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-alma-vendida",
       "source": "aprimoramentos-3",
       "name": "Alma Vendida",
@@ -2958,16 +2788,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:alucinado"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-analfabeto",
-      "source": "aprimoramentos-3",
-      "name": "Analfabeto",
-      "nameKey": "analfabeto",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:analfabeto"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-assombrado",
@@ -3020,16 +2840,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentos-3:defeito-fisico"
     },
     {
-      "id": "aprimoramento-aprimoramentos-3-drogado-obsessao-perversao-sexual-viciado",
-      "source": "aprimoramentos-3",
-      "name": "Drogado, Obsessão, Perversão Sexual, Viciado",
-      "nameKey": "drogado-obsessao-perversao-sexual-viciado",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:drogado-obsessao-perversao-sexual-viciado"
-    },
-    {
       "id": "aprimoramento-aprimoramentos-3-dupla-personalidade",
       "source": "aprimoramentos-3",
       "name": "Dupla Personalidade",
@@ -3048,16 +2858,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:aprimoramentos-3:esquizofrenico"
-    },
-    {
-      "id": "aprimoramento-aprimoramentos-3-ferro-frio",
-      "source": "aprimoramentos-3",
-      "name": "Ferro Frio",
-      "nameKey": "ferro-frio",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentos-3:ferro-frio"
     },
     {
       "id": "aprimoramento-aprimoramentos-3-fobia-grave",
@@ -3860,26 +3660,6 @@
       "certificationId": "aprimoramento-lock:aprimoramentostormenta:caminho-para-doherimm"
     },
     {
-      "id": "aprimoramento-aprimoramentostormenta-conhecimento-de-itens-magicos",
-      "source": "aprimoramentostormenta",
-      "name": "Conhecimento de Itens Mágicos",
-      "nameKey": "conhecimento-de-itens-magicos",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentostormenta:conhecimento-de-itens-magicos"
-    },
-    {
-      "id": "aprimoramento-aprimoramentostormenta-escutar",
-      "source": "aprimoramentostormenta",
-      "name": "Escutar",
-      "nameKey": "escutar",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:aprimoramentostormenta:escutar"
-    },
-    {
       "id": "aprimoramento-aprimoramentostormenta-lamnor",
       "source": "aprimoramentostormenta",
       "name": "Lamnor",
@@ -4190,16 +3970,6 @@
       "certificationId": "aprimoramento-lock:talentos:acuidade-com-magia"
     },
     {
-      "id": "aprimoramento-talentos-esquiva-sobrenatural",
-      "source": "talentos",
-      "name": "ESQUIVA SOBRENATURAL",
-      "nameKey": "esquiva-sobrenatural",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:talentos:esquiva-sobrenatural"
-    },
-    {
       "id": "aprimoramento-talentos-acrobatico",
       "source": "talentos",
       "name": "ACROBÁTICO",
@@ -4238,16 +4008,6 @@
       "subtype": "aprimoramento",
       "lockedArea": "aprimoramentos",
       "certificationId": "aprimoramento-lock:talentos:alvo-elusivo"
-    },
-    {
-      "id": "aprimoramento-talentos-seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
-      "source": "talentos",
-      "name": "SEUS OPONENTES COMO COBERTURA,BLOQUEANDO E ATRAPALHANDO OS ATAQUES",
-      "nameKey": "seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
-      "category": "character_option",
-      "subtype": "aprimoramento",
-      "lockedArea": "aprimoramentos",
-      "certificationId": "aprimoramento-lock:talentos:seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques"
     },
     {
       "id": "aprimoramento-talentos-duro-de-matar",

@@ -5,45 +5,43 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 
 ## Resumo
 
-- Registros sinalizados: 2310
+- Registros sinalizados: 2301
 
 ### Flags
 
-- `aprimoramento_without_cost_marker`: 26
-- `critical_ocr_gibberish`: 159
-- `does_not_end_like_complete_sentence`: 1028
-- `encoding_or_ocr_artifact`: 194
-- `ends_with_connector_possible_cut`: 318
-- `front_matter_or_index_block`: 14
-- `hyphenated_word_split`: 899
-- `invalid_title_or_ocr_header`: 29
-- `lowercase_sentence_after_section_possible_leak`: 314
-- `many_cost_markers_possible_merged_aprimoramentos`: 9
-- `page_number_inside_text`: 166
-- `repeated_fragment_possible_duplication`: 30
-- `starts_mid_sentence_possible_left_cut`: 35
-- `symbol_noise_ocr`: 111
-- `too_long_possible_merged_blocks`: 23
-- `too_short_possible_cut`: 85
-- `unbalanced_brackets`: 77
-- `unbalanced_parentheses`: 376
+- `aprimoramento_without_cost_marker`: 23
+- `critical_ocr_gibberish`: 71
+- `does_not_end_like_complete_sentence`: 1417
+- `encoding_or_ocr_artifact`: 166
+- `ends_with_connector_possible_cut`: 108
+- `front_matter_or_index_block`: 3
+- `hyphenated_word_split`: 984
+- `invalid_title_or_ocr_header`: 6
+- `lowercase_sentence_after_section_possible_leak`: 389
+- `many_cost_markers_possible_merged_aprimoramentos`: 7
+- `page_number_inside_text`: 199
+- `repeated_fragment_possible_duplication`: 28
+- `starts_mid_sentence_possible_left_cut`: 20
+- `symbol_noise_ocr`: 67
+- `too_short_possible_cut`: 56
+- `unbalanced_brackets`: 53
+- `unbalanced_parentheses`: 262
 
 ### Por área
 
-- `aprimoramentos`: 211
-- `aventuras`: 41
-- `cenarios_lore`: 63
+- `aprimoramentos`: 189
+- `aventuras`: 4
+- `cenarios_lore`: 75
 - `classes`: 12
-- `criaturas_npcs`: 214
-- `itens_equipamentos`: 288
-- `kits`: 186
+- `criaturas_npcs`: 301
+- `itens_equipamentos`: 118
+- `kits`: 293
 - `linhagens`: 70
-- `magias`: 217
-- `poderes`: 358
-- `racas`: 56
-- `regras_base`: 462
-- `rituais`: 122
-- `tabelas`: 10
+- `magias`: 396
+- `poderes`: 460
+- `racas`: 54
+- `regras_base`: 255
+- `rituais`: 74
 
 ## Primeiros itens para revisão
 
@@ -95,22 +93,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: 2 PONTOS:O personagem só recebe apenas metade do dano por quedas.
 
-### Esquiva Sobrenatural
-
-- ID: `aprimoramento-talentos-esquiva-sobrenatural`
-- Área: `aprimoramentos`
-- Fonte: `talentos` p. 3
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `too_short_possible_cut`
-- Amostra: 2 pontos:o personagem pode fazer um teste de AGI para se desviar de
-
-### Ferro Frio
-
-- ID: `aprimoramento-aprimoramentos-3-ferro-frio`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 18
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `too_short_possible_cut`
-- Amostra: -2 pontos: o ferro frio se opõe às coisas magicas; seu
-
 ### Força
 
 - ID: `aprimoramento-talentos-forca`
@@ -118,22 +100,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `talentos` p. 7
 - Flags: `too_short_possible_cut`
 - Amostra: 1 ponto: o personagem ganha um ponto extra em FR cada dois níveis.
-
-### Magia Máxima
-
-- ID: `aprimoramento-aprimoramentos-3-magia-maxima`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 8
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `too_short_possible_cut`
-- Amostra: 2 pontos: A Magia tem efeito máximo (dano máximo, cura máxima). Os
-
-### Médium
-
-- ID: `aprimoramento-aprimoramentos-3-medium`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 9
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `too_short_possible_cut`
-- Amostra: 2 pontos: o Personagem consegue se comunicar com espíritos, podendo comprar a
 
 ### Presença Horripilante
 
@@ -159,14 +125,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: 1 ponto: o personagem ganha um ponto extra em CON a cada dois níveis.
 
-### Resistência à Magia
-
-- ID: `aprimoramento-aprimoramentos-3-resistencia-a-magia`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 14
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `page_number_inside_text`, `too_short_possible_cut`
-- Amostra: Não pode ser comprada por Personagens que usam Magia. 1 ponto: seu
-
 ### Visão Monocromática
 
 - ID: `aprimoramento-aprimoramentos-1-visao-monocromatica`
@@ -190,38 +148,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `abismo-infinito-quick-start` p. 38
 - Flags: `too_short_possible_cut`
 - Amostra: Estrutura de historias em tres fases: Despertar, Pesadelo e Redencao.
-
-### Argos
-
-- ID: `argos`
-- Área: `aventuras`
-- Fonte: `abismo-infinito-quick-start` p. 12
-- Flags: `too_short_possible_cut`
-- Amostra: Tipo de nave/equipamento de apoio descrito no quick start de Abismo Infinito.
-
-### Experiencia
-
-- ID: `a-assassina--a-assassina-experience`
-- Área: `aventuras`
-- Fonte: `a-assassina` p. 5
-- Flags: `too_short_possible_cut`
-- Amostra: Recompensas de experiencia associadas a conclusao da aventura.
-
-### Hipérions
-
-- ID: `hiperions`
-- Área: `aventuras`
-- Fonte: `abismo-infinito-quick-start` p. 11
-- Flags: `too_short_possible_cut`
-- Amostra: Tipo de nave/equipamento espacial descrito no quick start de Abismo Infinito.
-
-### Prometeus
-
-- ID: `prometeus`
-- Área: `aventuras`
-- Fonte: `abismo-infinito-quick-start` p. 11
-- Flags: `too_short_possible_cut`
-- Amostra: Tipo de cruzador/nave descrito no quick start de Abismo Infinito.
 
 ### ARRANUN
 
@@ -279,6 +205,38 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Pagina sem texto extraido relevante.
 
+### Trevas do
+
+- ID: `onmyodo--onmyodo-trevas-do-1`
+- Área: `cenarios_lore`
+- Fonte: `onmyodo` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Trevas do Oriente ONMYODO HENRIQUE “MORCEGO” SANTOS
+
+### Trevas do
+
+- ID: `oriente-cronologia--oriente-cronologia-trevas-do-1`
+- Área: `cenarios_lore`
+- Fonte: `oriente-cronologia` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Trevas do Oriente Cronologia HENRIQUE “MORCEGO” SANTOS
+
+### Trevas do
+
+- ID: `trevas-do-oriente-28-palacios--trevas-do-oriente-28-palacios-trevas-do-1`
+- Área: `cenarios_lore`
+- Fonte: `trevas-do-oriente-28-palacios` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Trevas do Oriente OS 28 PALACIOS LUNARES HENRIQUE “MORCEGO” SANTOS
+
+### Trevas do
+
+- ID: `youkai-kyuukai--youkai-kyuukai-trevas-do-1`
+- Área: `cenarios_lore`
+- Fonte: `youkai-kyuukai` p. 1
+- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
+- Amostra: Trevas do Oriente YOUKAI E KYUUKAI HENRIQUE “MORCEGO” SANTOS
+
 ### Um Sussurro
 
 - ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-um-sussurro-2`
@@ -319,22 +277,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: ANY A \\ ies \ \ é XN “ NY Wort ONDE ESTA ELE? — ANA a gd AA | VORA
 
-### Capítulo 1 - História dos Dragões
-
-- ID: `dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-capitulo-1-historia-dos-dragoes-11`
-- Área: `criaturas_npcs`
-- Fonte: `dragoes-reis-caidos-sistema-daemon` p. 11
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Capítulo 1 - História dos Dragões
-
-### Capítulo 2 - Criação de Personagem
-
-- ID: `dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-capitulo-2-criacao-de-personagem-21`
-- Área: `criaturas_npcs`
-- Fonte: `dragoes-reis-caidos-sistema-daemon` p. 21
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Capítulo 2 - Criação de Personagem
-
 ### Death Knight
 
 - ID: `death-knight`
@@ -343,22 +285,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Ficha de criatura/inimigo apresentada no suplemento Alastores.
 
-### Documento DOCX estruturado
-
-- ID: `tabela-de-fadiga-dos-jogadores-e-npc--docx-structured-source`
-- Área: `criaturas_npcs`
-- Fonte: `tabela-de-fadiga-dos-jogadores-e-npc` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Fonte DOCX estruturada: Tabela de Fadiga dos Jogadores e NPC.
-
-### DragõeS
-
-- ID: `dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-1`
-- Área: `criaturas_npcs`
-- Fonte: `dragoes-reis-caidos-sistema-daemon` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: DragõeS Reis Caídos
-
 ### Dragões
 
 - ID: `dragoes2--dragoes2-dragoes-1`
@@ -366,14 +292,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `dragoes2` p. 1
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Dragões by BURP
-
-### GUIA DOS
-
-- ID: `guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-guia-dos-3`
-- Área: `criaturas_npcs`
-- Fonte: `guia-dos-dragoes-1-biblioteca-elfica` p. 3
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: GUIA DOS DRAGÕES Maury “Shi Dark” Abreu 3
 
 ### GUIA DOS
 
@@ -449,14 +367,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 
 ### Pagina inicial
 
-- ID: `guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-pagina-inicial-1`
-- Área: `criaturas_npcs`
-- Fonte: `guia-dos-dragoes-1-biblioteca-elfica` p. -
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: 1 2
-
-### Pagina inicial
-
 - ID: `mortos-vivos--mortos-vivos-pagina-inicial-1`
 - Área: `criaturas_npcs`
 - Fonte: `mortos-vivos` p. 1
@@ -471,54 +381,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: 1 2
 
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-30`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. -
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL EIXO ARMAS DA SEGUNDA GUERRA MUNDIAL Alemanha
-
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-17`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 17
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL FRANÇA
-
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-21`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 21
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL INGLATERRA
-
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-25`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 25
-- Flags: `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL U.R.S.S.
-
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-36`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 36
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL I t á l i a
-
-### ARMAS DA SEGUNDA GUERRA
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-armas-da-segunda-guerra-39`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 39
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: ARMAS DA SEGUNDA GUERRA MUNDIAL JAPãO
-
 ### Areia de Agaures
 
 - ID: `areia-de-agaures`
@@ -527,13 +389,13 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Alforja/objeto magico citado na secao de objetos de Alastores.
 
-### Armas, Armaduras &
+### Argos
 
-- ID: `armamedieval--armamedieval-armas-armaduras-1`
+- ID: `argos`
 - Área: `itens_equipamentos`
-- Fonte: `armamedieval` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Armas, Armaduras & Escudos Por Lobo de Diamante
+- Fonte: `abismo-infinito-quick-start` p. 12
+- Flags: `too_short_possible_cut`
+- Amostra: Tipo de nave/equipamento de apoio descrito no quick start de Abismo Infinito.
 
 ### Caixa e Besouro
 
@@ -543,42 +405,10 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Flags: `too_short_possible_cut`
 - Amostra: Objeto magico descrito no suplemento Alastores.
 
-### Pagina inicial
-
-- ID: `armas-da-segunda-guerra-mundial--armas-da-segunda-guerra-mundial-pagina-inicial-1`
-- Área: `itens_equipamentos`
-- Fonte: `armas-da-segunda-guerra-mundial` p. 1
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### Pagina inicial
-
-- ID: `guia-de-armas-de-fogo-3a-edicao--guia-de-armas-de-fogo-3a-edicao-pagina-inicial-1`
-- Área: `itens_equipamentos`
-- Fonte: `guia-de-armas-de-fogo-3a-edicao` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### A Contenda Eterna
-
-- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-contenda-eterna-1`
-- Área: `regras_base`
-- Fonte: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: A Contenda Eterna A Contenda Eterna João Fernando Rech Wachelke
-
-### Atributos
-
-- ID: `atributos--atributos-atributos-1`
-- Área: `regras_base`
-- Fonte: `atributos` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Atributos Por Lobo
-
 ### Capítulo 8 – Armas e Equipamentos
 
 - ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-52`
-- Área: `regras_base`
+- Área: `itens_equipamentos`
 - Fonte: `daemon-medieval` p. 52
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Capítulo 8 – Armas e Equipamentos 52
@@ -586,290 +416,82 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 ### Capítulo 8 – Armas e Equipamentos
 
 - ID: `daemon-medieval--daemon-medieval-capitulo-8-armas-e-equipamentos-54`
-- Área: `regras_base`
+- Área: `itens_equipamentos`
 - Fonte: `daemon-medieval` p. 54
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Capítulo 8 – Armas e Equipamentos 54
 
-### Daemon Medieval
+### Hipérions
 
-- ID: `daemon-medieval--daemon-medieval-daemon-medieval-51`
+- ID: `hiperions`
+- Área: `itens_equipamentos`
+- Fonte: `abismo-infinito-quick-start` p. 11
+- Flags: `too_short_possible_cut`
+- Amostra: Tipo de nave/equipamento espacial descrito no quick start de Abismo Infinito.
+
+### Prometeus
+
+- ID: `prometeus`
+- Área: `itens_equipamentos`
+- Fonte: `abismo-infinito-quick-start` p. 11
+- Flags: `too_short_possible_cut`
+- Amostra: Tipo de cruzador/nave descrito no quick start de Abismo Infinito.
+
+### Adequado
+
+- ID: `regra-grimorio-grimorio-adequado-1`
 - Área: `regras_base`
-- Fonte: `daemon-medieval` p. 51
+- Fonte: `grimorio` p. 1
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Daemon Medieval 51
-
-### Daemon Medieval
-
-- ID: `daemon-medieval--daemon-medieval-daemon-medieval-53`
-- Área: `regras_base`
-- Fonte: `daemon-medieval` p. 53
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Daemon Medieval 53
+- Amostra: ADEQUADO Pak 16 E Marcelo Del Debbio system Sistema Daemon
 
 ### Documento DOCX estruturado
 
-- ID: `compendio-de-regras-daemon-trevas--docx-structured-source`
+- ID: `regra-compendio-de-regras-daemon-trevas-docx-structured-source`
 - Área: `regras_base`
-- Fonte: `compendio-de-regras-daemon-trevas` p. -
+- Fonte: `compendio-de-regras-daemon-trevas` p. 1
 - Flags: `too_short_possible_cut`
 - Amostra: Fonte DOCX estruturada: Compendio de regras DAEMON Trevas.
 
 ### Documento DOCX estruturado
 
-- ID: `regras-de-boa-convivencia--docx-structured-source`
+- ID: `regra-regras-de-boa-convivencia-docx-structured-source`
 - Área: `regras_base`
-- Fonte: `regras-de-boa-convivencia` p. -
+- Fonte: `regras-de-boa-convivencia` p. 1
 - Flags: `too_short_possible_cut`
 - Amostra: Fonte DOCX estruturada: Regras de boa convivência.
 
-### E X P A N D I D O E M O D I F I C A D O
+### Documento DOCX estruturado
 
-- ID: `modulo-basico-expandido-e-modificado--modulo-basico-expandido-e-modificado-e-x-p-a-n-d-i-d-o-e-m-o-d-i-f-i-c-a-d-o-1`
+- ID: `regra-tabela-e-regras-para-magos-docx-structured-source`
 - Área: `regras_base`
-- Fonte: `modulo-basico-expandido-e-modificado` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `starts_mid_sentence_possible_left_cut`, `too_short_possible_cut`
-- Amostra: E X P A N D I D O E M O D I F I C A D O M Ó D U L O B Á S I C O
+- Fonte: `tabela-e-regras-para-magos` p. 1
+- Flags: `too_short_possible_cut`
+- Amostra: Fonte DOCX estruturada: Tabela e Regras para magos.
 
-### Hakusho
+### Experiencia
 
-- ID: `yuyu-hakusho-rpg-para-daemon--yuyu-hakusho-rpg-para-daemon-hakusho-1`
+- ID: `regra-a-assassina-a-assassina-experience`
 - Área: `regras_base`
-- Fonte: `yuyu-hakusho-rpg-para-daemon` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Hakusho RPG Por Marcelo Matos “Guaxinim”, Ajota & Grupo de RPG PVH Yu Yu V2.01
+- Fonte: `a-assassina` p. 5
+- Flags: `too_short_possible_cut`
+- Amostra: Recompensas de experiencia associadas a conclusao da aventura.
 
 ### Iniciativa
 
-- ID: `mago-sistema-daemon--mago-sistema-daemon-iniciativa-1`
+- ID: `regra-mago-sistema-daemon-mago-sistema-daemon-iniciativa-1`
 - Área: `regras_base`
 - Fonte: `mago-sistema-daemon` p. 1
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
 - Amostra: Iniciativa DAEMON Hatalíbio Almeida Sistema Daemon
 
-### Pagina inicial
+### Tormenta Rpg – Sistema Daemon – Versão de Thiago “mestre Kwan” Rodrigues (181-181)
 
-- ID: `daemon-anime-rpg--daemon-anime-rpg-pagina-inicial-1`
-- Área: `regras_base`
-- Fonte: `daemon-anime-rpg` p. 1
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### Pagina inicial
-
-- ID: `modulo-combate--modulo-combate-pagina-inicial-1`
-- Área: `regras_base`
-- Fonte: `modulo-combate` p. 1
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### Pagina inicial
-
-- ID: `sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-pagina-inicial-1`
-- Área: `regras_base`
-- Fonte: `sistema-daemon-modulo-basico-dragonslayer-01-e-02` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### Pagina inicial
-
-- ID: `tagmar-daemon-versao-completa--tagmar-daemon-versao-completa-pagina-inicial-1`
-- Área: `regras_base`
-- Fonte: `tagmar-daemon-versao-completa` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Pagina sem texto extraido relevante.
-
-### Sistema Daemon
-
-- ID: `mago-sistema-daemon--mago-sistema-daemon-sistema-daemon-2`
-- Área: `regras_base`
-- Fonte: `mago-sistema-daemon` p. 2
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: Sistema Daemon 1ª edição
-
-### TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)
-
-- ID: `daemon-tormenta--daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19`
+- ID: `regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19`
 - Área: `regras_base`
 - Fonte: `daemon-tormenta` p. 181
-- Flags: `does_not_end_like_complete_sentence`, `encoding_or_ocr_artifact`, `too_short_possible_cut`
-- Amostra: TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES 181
-
-### www.daemon.com.br
-
-- ID: `varna-chamado-da-guerra--varna-chamado-da-guerra-www-daemon-com-br-2`
-- Área: `regras_base`
-- Fonte: `varna-chamado-da-guerra` p. 2
 - Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: www.daemon.com.br fone/fax: (11) 5539-1122 São Paulo - SP
-
-### ADEQUADO
-
-- ID: `grimorio--grimorio-adequado-1`
-- Área: `rituais`
-- Fonte: `grimorio` p. -
-- Flags: `does_not_end_like_complete_sentence`, `too_short_possible_cut`
-- Amostra: ADEQUADO Pak 16 E Marcelo Del Debbio system Sistema Daemon
-
-### Rituais
-
-- ID: `alastores-a-justica-infernal--alastores-rituais`
-- Área: `rituais`
-- Fonte: `alastores-a-justica-infernal` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Rituais como Convocar Lukhavim, Sellas locum e Ipsa Nomina.
-
-### Documento DOCX estruturado
-
-- ID: `tabela-e-regras-para-magos--docx-structured-source`
-- Área: `tabelas`
-- Fonte: `tabela-e-regras-para-magos` p. -
-- Flags: `too_short_possible_cut`
-- Amostra: Fonte DOCX estruturada: Tabela e Regras para magos.
-
-### Afinidade com Magia
-
-- ID: `aprimoramento-aprimoramentos-3-afinidade-com-magia`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 10
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: Apenas para não-magos. 1 ponto: seu Personagem, apesar de não ser um mago, possui algum tipo de afinidade com um dos Caminhos de Magia. Ele recebe sempre 1D de proteção contra Magias desse Caminho e pode realizar efeitos sutis (equivalentes a uma Magia de Focu
-
-### Alma Escravizada
-
-- ID: `aprimoramento-aprimoramentos-3-alma-escravizada`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 16
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: -3 pontos: sua alma foi escravizada por habitantes de Spiritum, criaturas poderosas que agora o enviam para várias missões, ou o forçam a cometer atos insanos. Muitas vezes o Personagem possui livre arbítrio enquanto seu dono não necessita dele para alguma mis
-
-### Analfabeto
-
-- ID: `aprimoramento-aprimoramentos-3-analfabeto`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 16
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: -1 ponto: por algum motivo, o Personagem não aprendeu a ler e escrever. Pode ser um marginal de rua, um trabalhador rural, ou apenas alguém que nunca teve chance de ir à escola. Um analfabeto não tem Perícias que tenham valor inicial baseado em INT: perícias d
-
-### Anjo da Guarda
-
-- ID: `aprimoramento-aprimoramentos-3-anjo-da-guarda`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 10
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 2 pontos: o Personagem possui um espírito guia, que às vezes pode se comunicar com ele em sonhos. O espírito pode passar algum tipo de dica para o Personagem, quando o Mestre julgar apropriado. Quem é o espírito, e porque ele ajuda o
-
-### Bom Senso
-
-- ID: `aprimoramento-aprimoramentos-3-bom-senso`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 3
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 1 ponto: todas as vezes que um Personagem que tenha bom senso for fazer alguma coisa obviamente estúpida, o Mestre pode dizer a ele que o que ele pretende fazer é uma burrice. Este Aprimoramento é muito útil para Jogadores iniciantes, como uma forma de justifi
-
-### Caçador de Vampiros
-
-- ID: `aprimoramento-aprimoramentos-3-cacador-de-vampiros`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 1
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 1 ponto: o Personagem é treinado para caçar vampiros e possui um amplo conhecimento sobre suas fraquezas, poderes e diferentes linhagens, mitos e lendas. Em termos de jogo, o
-
-### Comunicação em Sonhos
-
-- ID: `aprimoramento-aprimoramentos-3-comunicacao-em-sonhos`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 11
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 2 pontos: o Personagem pode se comunicar com outras pessoas enquanto elas sonham. Para isso a pessoa deve estar adormecida. O Personagem precisa de alguns minutos de transe até formar uma conexão. Não existe um limite de distncia para a comunicao em sonhos, ma
-
-### Conhecimento de Itens Mágicos
-
-- ID: `aprimoramento-aprimoramentostormenta-conhecimento-de-itens-magicos`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentostormenta` p. 4
-- Flags: `aprimoramento_without_cost_marker`, `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: [regional: Wynlla]: Muitos nativos de Wynlla tem um forte conhecimento sobre itens mágicos. Em regras, o Personagem é capaz de identificar itens mágicos com 50% de chance de sucesso e mesmo que não seja um mago é capaz de ativar itens mágicos que exijam conhec
-
-### Conjuração
-
-- ID: `aprimoramento-aprimoramentos-3-conjuracao`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 11
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 4 pontos: com este Aprimoramento, o Personagem possui o conhecimento sobre a Forma-Pensamento e a capacidade de canalizar essa energia para os planos físicos. Com um Teste de WILL, o Personagem é capaz de tatear o mundo espiritual em busca de algum objeto e ma
-
-### Escutar
-
-- ID: `aprimoramento-aprimoramentostormenta-escutar`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentostormenta` p. 6
-- Flags: `aprimoramento_without_cost_marker`, `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `starts_mid_sentence_possible_left_cut`
-- Amostra: e Sobrevivência contra qualquer tipo de goblinóide (goblins, hobgoblins e bugbears apenas). Esse Aprimoramento Regional é mais comum entre os nativos do lado sul de Tyrondir, que tem mais contato com a Aliança Negra. (1 ponto): Personagens que tenham passado p
-
-### Sanguinário
-
-- ID: `aprimoramento-aprimoramentos-1-sanguinario`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-1` p. 16
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: -1 ponto: quando o personagem entra em uma batalha, esta será até o fim. Não existe misericórdia ou rendição: um dos dois lados deve perder obrigatoriamente. Para o Personagem, a luta se prolongará até que ele reduza seus inimigos à poças de san- gue. Assim co
-
-### Sincronia
-
-- ID: `aprimoramento-aprimoramentos-2-sincronia`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-2` p. 6
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 1 PONTO: O personagem adquiriu um árduo treinamento em grupo. Quando ele entra em combate junto com um ou mais colegas (personagens que devem obrigatoriamente possuir este Aprimoramento) eles atuam como se fosse uma só criatura - combinando as características
-
-### Sortudo
-
-- ID: `aprimoramento-aprimoramentos-3-sortudo`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 14
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
-- Amostra: 2 pontos: este Personagem é portador de uma sorte incrível. Uma vez por sessão de jogo, o Jogador pode Rolar novamente um dado caso tenha falhado em um Teste (qualquer tipo de rolagem de dados). Ele deve anunciar essa decisão ANTES de rolar os dados (ou seja,
-
-### Tutor
-
-- ID: `aprimoramento-aprimoramentos-3-tutor`
-- Área: `aprimoramentos`
-- Fonte: `aprimoramentos-3` p. 9
-- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `page_number_inside_text`
-- Amostra: Todo o Personagem Mago teve, em algum momento de sua aprendizado, um Tutor que lhe ensinou sobre a Magia. Se você desejar que este Tutor ainda esteja com o seu personagem por alguma razão, então gaste seu pontos neste Aprimoramento. O Mestre deve criar toda a
-
-### 2. Verifique detalhes da história.
-
-- ID: `inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-2-verifique-detalhes-da-historia-11`
-- Área: `aventuras`
-- Fonte: `inquisicao-biblioteca-elfica` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: 2. Verifique detalhes da história. Faça esta parte em conjunto com o Mestre, pois muito do que for escolhido aqui será utilizado por ele como fundo para sua Aventura posterior. Tente localizar a his- . tória do seu Personagem com a dos ou tros Personagens da C
-
-### A Temperanl'"
-
-- ID: `guia-de-itens-magicos--guia-de-itens-magicos-a-temperanl-248`
-- Área: `aventuras`
-- Fonte: `guia-de-itens-magicos` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: A Temperanl'" Arcano Quatorze (Samekh) Significa acordos ou comprometimentos. Este Arcana indica quea soluc;ao para a Aventura reside em urn acardo, e dificilmente 0 problema sent solucionado de Qutra maneira. o Diabo Arcana Quinz. (Ayin) o Diabo representa 0
-
-### CAMPANHA
-
-- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106`
-- Área: `aventuras`
-- Fonte: `demonios-a-divina-comedia` p. 106
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas ve
-
-### Capítulo 10
-
-- ID: `daemon-medieval--daemon-medieval-capitulo-10-60`
-- Área: `aventuras`
-- Fonte: `daemon-medieval` p. 60
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é
+- Amostra: Tormenta rpg – sistema daemon – versão de thiago “mestre kwan” rodrigues 181
 
 ### Cenários
 
@@ -878,86 +500,6 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `um-sussurro-nas-trevas` p. -
 - Flags: `ends_with_connector_possible_cut`
 - Amostra: Cenários Não esqueça que os anos 20 estão repletos de cenários que não estão relacionados com o gangsterismo e as melindrosas. Em Nova York, o Harlem tinha a melhor vida noturna do mundo conhecido para negros e brancos ricos, e circulava rumores sobre locais o
-
-### Combate não Mortal
-
-- ID: `daemon-anime-rpg--daemon-anime-rpg-combate-nao-mortal-113`
-- Área: `aventuras`
-- Fonte: `daemon-anime-rpg` p. 113
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Combate não Mortal Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da campanha que se desentenderam por algum problema da aventura e acabam perdendo a paciência um com o outro. As lutas de Boxe e Artes Marciais também
-
-### Considerações
-
-- ID: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br--luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideracoes-125`
-- Área: `aventuras`
-- Fonte: `luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Considerações Finais Agradecimentos João Agradeço a meu irmão Luiz por ter me ajudado nesse projeto, sem ele isso aqui não “rolava”. Agradeço a Moema, meu amor, por ter suportado todas as sessões de jogo e “alabardas” e “bolas de rubi”. Também mando um abraço
-
-### EVOLUÇÃO ALTERNATIVA
-
-- ID: `evolucao-alternativa--evolucao-alternativa-evolucao-alternativa-3`
-- Área: `aventuras`
-- Fonte: `evolucao-alternativa` p. -
-- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
-- Amostra: EVOLUÇÃO ALTERNATIVA Originalmente no sistema Daemon, o tipo de campanha é o fator que determina o potencial inicial de um personagem. Em campanhas épicas um personagem inicial equivale a um personagem de alto nível de uma campanha mais realista. Porém essa di
-
-### Experiência
-
-- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-experiencia-32`
-- Área: `aventuras`
-- Fonte: `um-sussurro-nas-trevas` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recomp
-
-### PASSADO
-
-- ID: `conan--conan-passado-4`
-- Área: `aventuras`
-- Fonte: `conan` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: 4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rent
-
-### Perguntas
-
-- ID: `spiritum--spiritum-perguntas-19`
-- Área: `aventuras`
-- Fonte: `spiritum` p. -
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Perguntas Válido para esta encarnação, mas recomendamos que Jo- gadores e Mestres resolvem pequenas pontas em encarnações passadas, que serão resolvidas durante a campanha. Irmãos, amigos e colegas nunca estão com seu Personagem por acaso. Invista algum tempo
-
-### REGRAS E TESÍES
-
-- ID: `sistema-daemon-modulo-basico-dragonslayer-01-e-02--sistema-daemon-modulo-basico-dragonslayer-01-e-02-regras-e-tesies-25`
-- Área: `aventuras`
-- Fonte: `sistema-daemon-modulo-basico-dragonslayer-01-e-02` p. -
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: REGRAS E TESÍES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obnigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
-
-### Regras e Testes
-
-- ID: `one-punch-man-rpg--one-punch-man-rpg-regras-e-testes-22`
-- Área: `aventuras`
-- Fonte: `one-punch-man-rpg` p. 22
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
-
-### Regras e Testes
-
-- ID: `spiritum--spiritum-regras-e-testes-67`
-- Área: `aventuras`
-- Fonte: `spiritum` p. 67
-- Flags: `ends_with_connector_possible_cut`
-- Amostra: Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e
-
-### Viajantes Espirituais
-
-- ID: `spiritum--spiritum-viajantes-espirituais-41`
-- Área: `aventuras`
-- Fonte: `spiritum` p. 41
-- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
-- Amostra: Viajantes Espirituais Viajantes espirituais, também conhecidos como viajantes astrais, são aventureiros que escolheram os vales de Spiritum para suas campanhas. Podem ser aventureiros isolados ou per- tencerem a grandes grupos organizados (como os Estudiosos d
 
 ### '-,,, (,,<mp't" "''''ulm,,,«do ,\""",,,,,",,,,,,.,,,,,1,, :,,,,
 
@@ -1006,3 +548,459 @@ Ele não substitui conferência com o PDF/texto oficial; serve para priorizar re
 - Fonte: `anjos-jyhad-guerra-santa-biblioteca-elfica` p. 11
 - Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `hyphenated_word_split`
 - Amostra: & jJuDaísme INTREDUÇÃO O nome judaísmo vem do chamado reino de Judá, antigo reino do Oriente Médio e, durante muito tempo, a palavra ju- deu foi usada para designar os habitantes deste reino. Com o passar os séculos, o termo passou a abranger os seguidores der
+
+### 'HP{QLR
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-hp-qlr-9`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. -
+- Flags: `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: 8 'HP{QLR 235(|2'232'(5 PARTE 1: CORPO Muito acontece nas sombras. Poucos vêem. O mundo é um lugar sombrio, apenas isso. Os poderosos controlam tudo. Tudo. Mas alguém observa. Alguém que vive nas sombras. O demônio. Ele sabe o que acontece, e ri... Ri porqu
+
+### -Paris.
+
+- ID: `anjossombras04--anjossombras04-paris-9`
+- Área: `criaturas_npcs`
+- Fonte: `anjossombras04` p. 9
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
+- Amostra: -Paris. -Então vamos. Ângelus então se concentra e abre um portal. Yaba acha engraçado e mostra a Benael o enorme sorriso que se abriu no rosto de Igor. Aelus é o primeiro a entrar, seguido por Yaba, Benael, Igor, Mikael e Salvatore, Ângelus entra logo após se
+
+### -kkkkkkkkkkkkkkkk.
+
+- ID: `anjossombras04--anjossombras04-kkkkkkkkkkkkkkkk-6`
+- Área: `criaturas_npcs`
+- Fonte: `anjossombras04` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: -kkkkkkkkkkkkkkkk. -Tu ri né peste? Tu ri porque não era você que tinha que passar a noite todinha acordado ouvindo as besteiras que vocês falam dormindo. -rsrsrsrsrsrsrs. -Agora que a gente ta aqui me diz uma coisa. -Que é Biel? -Alguém sabe como a Lilith foi
+
+### A AMÉRICA DO NORTE
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-a-america-do-norte-34`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. 34
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 33 A AMÉRICA DO NORTE Deus abençoe a América. — Citação do Hino Nacional dos EUA As grandes cidades da América do Norte, em particular no Estados Unidos, são mais do que metrópoles cheias de gente. Nos arranha-céus mais altos, agentes vampíricos manipulam a po
+
+### A WYRM E A AMÉRICA LATINA
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-a-wyrm-e-a-america-latina-35`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. 35
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 34 A WYRM E A AMÉRICA LATINA A presença da Wyrm, ou Vermis Magnus, na América Latina é muito forte. A Pentex, uma empresa a serviço das forças da destruição, possui muitas subsidiárias no continente, e os mundos espirituais fervilham com espíritos Malditos. Mu
+
+### A._njos
+
+- ID: `arkanun--arkanun-a-njos-150`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun` p. 150
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: A._njos Paris foi considerada desde a sua fundação como um ponto extremamente importante para a Cidade de Prata, pela sua localização (no coração da Europa). Os dois primeiros Anjos enviados pelo Conselho à Paris foram Pierre de Chelles e Jean Ravy, no século
+
+### ALGUNS DIALETOS ROMANIS
+
+- ID: `ciganos--ciganos-alguns-dialetos-romanis-3`
+- Área: `criaturas_npcs`
+- Fonte: `ciganos` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: 3 ALGUNS DIALETOS ROMANIS A língua dos ciganos é conhecida como romani, bastante pró- xima dos idiomas indo-arianos. Tanto o sistema fonológico como a morfologia podem ter sua evolução facilmente reconstruída a partir do sânscrito. O sistema numeral também ref
+
+### APÊNDICE: DRAGÕES EM TREVAS
+
+- ID: `guia-dos-dragoes-1-biblioteca-elfica--guia-dos-dragoes-1-biblioteca-elfica-apendice-dragoes-em-trevas-46`
+- Área: `criaturas_npcs`
+- Fonte: `guia-dos-dragoes-1-biblioteca-elfica` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: APÊNDICE: DRAGÕES EM TREVAS Ao longo dos anos, principalmente durante a Idade Mé- dia, diversas organizações e movimentos idealistas persegui- ram magos e bruxos do mundo todo, provocando seu isola- mento e quase extinção. Todo o conhecimento sobre Magia parec
+
+### ATIVAÇÃO DE ITENS MÁGICOS
+
+- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-ativacao-de-itens-magicos-121`
+- Área: `criaturas_npcs`
+- Fonte: `demonios-a-divina-comedia` p. 121
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: ATIVAÇÃO DE ITENS MÁGICOS Alguns itens mágicos (em especial aqueles criados pelos seres da Cidade de Prata) requerem Pontos de Fé para serem ativados ou utilizados. Somente pessoas com Fé podem utilizar tais artefatos. BÊNÇÃO O Inquisidor pode abençoar um grup
+
+### Anjos, Demônios e Vampiros).
+
+- ID: `spawn--spawn-anjos-demonios-e-vampiros-1`
+- Área: `criaturas_npcs`
+- Fonte: `spawn` p. 1
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: Criado por Todd McFarlane, Spawn tornou-se rapidamente o personagem de quadrinhos mais vendido nos Estados Unidos, e mais tarde também se tornaria um sucesso de vendas aqui no Brasil. A DRAGÃO BRASIL traz com exclusividade para vocês todo o background de SPAWN
+
+### Aprimoramentos
+
+- ID: `spiritum--spiritum-aprimoramentos-43`
+- Área: `criaturas_npcs`
+- Fonte: `spiritum` p. 43
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Aprimoramentos Aprimoramentos são detalhes incomuns, raros ou sobre- naturais que tornam o Personagem dos demais, além de conce- ber algumas vantagens dentro do Jogo. Estes pontos não devem ser simplesmente “gastos”, mas o Jogador precisa justificá-los com o M
+
+### Aprimoramentos Básicos
+
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-aprimoramentos-basicos-11`
+- Área: `criaturas_npcs`
+- Fonte: `um-sussurro-nas-trevas` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Aprimoramentos Básicos Aprimoramentos são detalhes incomuns, raros ou até mesmo sobrenaturais que tornam o Personagem diferente dos demais, além de conceder certas vantagens em jogo. Cada Personagem humano começa o jogo com 5 pontos de Aprimoramentos e o Jogad
+
+### Arcádia
+
+- ID: `arkanun--arkanun-arcadia-13`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun` p. -
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
+- Amostra: Arcádia O episódio Arcádia também acontece mais ou me­ nos nessa época. Existia uma parte da Grécia chamada Licania, governada por um soberano chamado Licaon, que possuía diversas esposas e cinqüenta filhos e filhas. As terras de Licaon estavam entre as mais p
+
+### Ataques com Fogo
+
+- ID: `daemon-anime-rpg--daemon-anime-rpg-ataques-com-fogo-95`
+- Área: `criaturas_npcs`
+- Fonte: `daemon-anime-rpg` p. 95
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
+- Amostra: Ataques com Fogo O Monstro de Bolso pode realizar ataques baseados em fogo, como bafo de dragão, gar­ ras incandescentes, jatos de plasma e outros ataques. O Monstro pode realizar um ataque com fogo a cada 3 rodadas. O pontos: incapaz de atacar. 1 ponto: dano
+
+### Barcelona
+
+- ID: `inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-barcelona-41`
+- Área: `criaturas_npcs`
+- Fonte: `inquisicao-biblioteca-elfica` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Barcelona , A cidade de Barcelona é· urna das mais antigas da Espanha e esconde muitos segJ:edos. Dizem que um per deroso Demónio chamado Aquel esconde-se naquela ci- dadee que todos os padres de Barcelona estão de algu- ma forma sob sua influência. . Os Templ
+
+### C0RP0RÊ
+
+- ID: `anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-c0rp0re-29`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-a-cidade-de-prata` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: C0RP0RÊ Os Corpore representam a maior parte dos anjos da Cidade de Prata. De acordo com o papa Urbano I, são as almas boas e caridosas que alcançaram os céus. Quando uma pessoa morre, sua alma parte para Spiritum e é recepcionada pelas grandes for- ças de Spi
+
+### CAMPANHA
+
+- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-campanha-106`
+- Área: `criaturas_npcs`
+- Fonte: `demonios-a-divina-comedia` p. 106
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: CAMPANHA Seu personagem foi o único sobrevivente de uma aventura? Dos outros quatro personagens, 2 foram destruídos pelos Templários, um ficou louco, e o ultimo acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma aventura muitas ve
+
+### Capítulo 10
+
+- ID: `tagmar-daemon--tagmar-daemon-capitulo-10-61`
+- Área: `criaturas_npcs`
+- Fonte: `tagmar-daemon` p. -
+- Flags: `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: Capítulo 10: Magia Uma definição formal (e um pouco pomposa) de magia é: "A arte de se provocar mudanças de acordo com a vontade". Magia é uma coisa muito importante – senão a mais importante – dos mundos e campanhas de fantasia medieval. Em Tagmar Daemon, as
+
+### Capítulo 2
+
+- ID: `anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-2-9`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-faces-da-fe` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Capítulo 2 Seitas, Sociedades e Ordens Angelicais A H o s t e de Miguel As falanges do anjo Miguel sempre foram a principal divisão do exército celestial. São tropas de choque e de defesa ao mesmo tempo. Anjos treinados por pelo menos cem anos são selecionados
+
+### Capítulo 3 - A cidade Torpe
+
+- ID: `metropolis-2--metropolis-2-capitulo-3-a-cidade-torpe-25`
+- Área: `criaturas_npcs`
+- Fonte: `metropolis-2` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 25 Capítulo 3 - A cidade Torpe controle acaba os colocando em débito com os Cenobitas. Mesmo assim, eles ainda preferem permanecer em Metrópolis, devido ao lucro. Açougue das Finas Refeições O plano astral está repleto de seres com paladares exóticos e diverso
+
+### Capítulo 3 - A cidade Torpe
+
+- ID: `metropolis-2--metropolis-2-capitulo-3-a-cidade-torpe-35`
+- Área: `criaturas_npcs`
+- Fonte: `metropolis-2` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 35 Capítulo 3 - A cidade Torpe acompanhada pela dor do vidro e dos espinhos penetrando na pele. Ficar muito tempo parado piora a situação, pois ouve-se os xingamentos que são seguidos por chicotes dos Guardiões que surgem no local. A Dura Caminhada é um caminh
+
+### Capítulo 4
+
+- ID: `anjos-jyhad-faces-da-fe--anjos-jyhad-faces-da-fe-capitulo-4-28`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-faces-da-fe` p. 28
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Capítulo 4 Antagonistas As religiões possuem grandes pro- blemas com a fragmentação e as próprias divergências internas, que quase sempre acabam em brigas e disputas violentas. Para piorar a situação, ainda existem grupos que batalham para deturpar os va- lore
+
+### Capítulo 7 – Perícias
+
+- ID: `daemon-medieval--daemon-medieval-capitulo-7-pericias-36`
+- Área: `criaturas_npcs`
+- Fonte: `daemon-medieval` p. 36
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Capítulo 7 – Perícias 36 Filosofia: Apesar de não ser uma ciência no sentido estrito da palavra, a filosofia é o estudo do pensamento humano. O Personagem conhece os métodos científicos e é capaz de criticar um raciocínio com clareza e objetividade – por isso
+
+### Capítulo Sete: Os Filhos de Deus
+
+- ID: `domini-urbs-biblioteca-elfica--domini-urbs-biblioteca-elfica-capitulo-sete-os-filhos-de-deus-143`
+- Área: `criaturas_npcs`
+- Fonte: `domini-urbs-biblioteca-elfica` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 142 Capítulo Sete: Os Filhos de Deus Os anjos não conhecem Pai a não ser aquele a quem chamam de Deus, Senhor e Mestre. Suas vidas consistem em servir e conviver com a fé que devem propagar e o desespero que sentem ecoar dos mundos inferiores. Vivendo em uma c
+
+### CaríTULO
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-caritulo-78`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun-1e-ultra-raro` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: CaríTULO OB DEIAS PARA AVENTURA Si vis pacem, para bellum (Se desejas a paz, prepara-te para a guerra) Em ARKANUN as possibilidades de conflitos são quase infi- nitas, Por ser um mundo onde diversas forças antagônicas estão reunidas, confrontos entre elas pass
+
+### Chaneque
+
+- ID: `imortal-a-centelha--imortal-a-centelha-chaneque-10`
+- Área: `criaturas_npcs`
+- Fonte: `imortal-a-centelha` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Chaneque espíritos da noite espíritos da noite espíritos da noite espíritos da noite Origem e História Os astecas contam lendas sobre certos protetores da natureza que viviam nas cachoeiras, com características muito semelhantes às dos Elfos europeus. Os Chane
+
+### Ciências Proibidas*
+
+- ID: `arkanun-1e-ultra-raro--arkanun-1e-ultra-raro-ciencias-proibidas-24`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun-1e-ultra-raro` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Ciências Proibidas* Valor inicial: O A perícia sobre conhecimentos ocultos abrange uma diver- sidade de assuntos que devem ser escolhidos pelo jogador. Incluem conhecimentos sobre Arkanun, Infernun, Paradisia, Éden e Spiritun, bem como reconhecimento de posses
+
+### Clfistót9ia
+
+- ID: `hi-brazil-biblioteca-elfica--hi-brazil-biblioteca-elfica-clfistot9ia-80`
+- Área: `criaturas_npcs`
+- Fonte: `hi-brazil-biblioteca-elfica` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Clfistót9ia A Patagônia é wna região gelada e isolada do resto do con- tinente e que esconde muitos segredos. Os habitantes que vivem nas áreas mais afastadas do oeste são reclusos e não gostam de visitantes. Os argentos já tentaram invadir a Patagônia várias
+
+### DEMÔNIOS (59-65)
+
+- ID: `clube-de-caca-guia-do-jogador--clube-de-caca-guia-do-jogador-demonios-9-6`
+- Área: `criaturas_npcs`
+- Fonte: `clube-de-caca-guia-do-jogador` p. -
+- Flags: `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: 59 Aranha), Garras (Unhas Longas, Garras). Fraquezas Comuns: Estaca, Fogo, Decapitação, Sol, Símbolos Religiosos. Raça de vampiros que remete até os tempos aztecas. Adoram Tlazolteotl, a deusa da lua. Os mais jovens são encontrados em favelas de grandes cidade
+
+### Desentsu Senshi (1-10)
+
+- ID: `desentsu--desentsu-desentsu-senshi-1-1`
+- Área: `criaturas_npcs`
+- Fonte: `desentsu` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Desentsu Senshi Desentsu Senshi - Guerreiros do Oriente Autor: Victor”Ramuel”Martins Desentsu Senshi Introdução A editora Daemon lançou o livro Anime RPG (na época que escrevi esse netbook ele acaba de ser lançado e por motivos pessoas não pude lança-lo,sendo
+
+### Dragões: Reis Caídos
+
+- ID: `dragoes-reis-caidos-sistema-daemon--dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-16`
+- Área: `criaturas_npcs`
+- Fonte: `dragoes-reis-caidos-sistema-daemon` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Dragões: Reis Caídos enfrentou um poderoso Dragão de Esmeralda e, em vez de exterminá-lo, o converteu ao Cristianismo. Este evento foi simultâneo à dolorosa traição de Naki-ah à Cidade de Prata, quando o Dragão de Safira convertido assassinou quase todos os La
+
+### E O MUNDO TEVE CORAGEM
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-e-o-mundo-teve-coragem-11`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 11
+- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`, `starts_mid_sentence_possible_left_cut`, `unbalanced_parentheses`
+- Amostra: E O MUNDO TEVE CORAGEM DE CHAMAR A MIM E MEINE HERRN DE ASSASSINOS, CRIMINOSOS! ui q Q Ú <x E a) S EN AARON — A =
+
+### E nem querem.
+
+- ID: `existe-uma-cidade-nos-distritos-cujo-unico-objetivo-e-a-satisfac-u00e3o--existe-uma-cidade-nos-distritos-cujo-unico-objetivo-e-a-satisfac-u00e3o-e-nem-querem-1`
+- Área: `criaturas_npcs`
+- Fonte: `existe-uma-cidade-nos-distritos-cujo-unico-objetivo-e-a-satisfac-u00e3o` p. 1
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Existe uma cidade nos distritos cujo único objetivo é a satisfação. É o ápice de tudo o que pode ser considerado felicidade para qualquer criatura do universo. E falar dessa generalidade não é uma mentira ou uma mera propaganda. Não é à toa que essa cidade não
+
+### ESPÍRITOS
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-espiritos-172`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. 172
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 171 — Fé protege os homens dos Poderes Infernais. Homens de Fé são imunes à Violação. Além disso, resistem à Incorporação com maior facilidade (cada ponto de Fé conta como um sucesso automático para se resistir à possessão). Muitos outros poderes são inúteis c
+
+### Experiência
+
+- ID: `um-sussurro-nas-trevas--um-sussurro-nas-trevas-experiencia-32`
+- Área: `criaturas_npcs`
+- Fonte: `um-sussurro-nas-trevas` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Experiência Dos outros quatro Personagens da Campanha, dois foram destruídos pela Inquisição, um ficou louco e o último acabou aprisionado em Arkanun para sempre. Em um RPG de horror, sobreviver a uma Aventura muitas vezes já é um prêmio em si, mas para recomp
+
+### FABULARE
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-fabulare-12`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. 12
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 11 FABULARE Fabulare é a língua falada no Inferno e no Éden. Tanto anjos como demônios conhecem o Fabulare e o falam fluentemente, como se fosse uma língua nativa. É totalmente instintivo para eles: ninguém sabe como demônios e anjos aprendem tal linguagem, to
+
+### FORÇA DE VONTADE (112-117)
+
+- ID: `trevas-campanha-epica--trevas-campanha-epica-forca-de-vontade-72-5`
+- Área: `criaturas_npcs`
+- Fonte: `trevas-campanha-epica` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: - 111 - Compulsivo, Perversão Sexual ou Sanguinário. Depois, deve fazer um teste de WILL vs. CON. Caso a vítima falhe, ela irá envelhecer 5 vezes mais rápido que o normal. Nível 7: Apodrecimento. A entidade pode lançar parte de sua própria essência numa vítima
+
+### HayYyYeTH
+
+- ID: `anjos-jyhad-guerra-santa-biblioteca-elfica--anjos-jyhad-guerra-santa-biblioteca-elfica-hayyyyeth-42`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-jyhad-guerra-santa-biblioteca-elfica` p. 42
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: HayYyYeTH "Ouve, Senhor, e tem piedade de mim, Senhor; sê o meu atnéílio. " ALCUNHA: PiEDBSES A bondade está no coração de todos os Hayyoth. São as criaturas incapazes de cometer o mal e dispostas a sacri- ficarem tudo o que possuem para os atos de caridade pa
+
+### Horror dos Túmulos
+
+- ID: `guia-de-monstros-de-arton--guia-de-monstros-de-arton-horror-dos-tumulos-69`
+- Área: `criaturas_npcs`
+- Fonte: `guia-de-monstros-de-arton` p. 69
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Horror dos Túmulos “Se você pretende escapar, inplore ao grande Thyatis para nun- ca encontrar um desses demônios! — Magoor, sumo-sacerdote de Thyatis CON -, FR -, DEX -, AGI 10-12, INT 2-3, WILL 2-3, CARO, PER 12-18 HF Ataques [2], IP -, PVs 20-30 Gattas 35/3
+
+### InquisiçãO + Anjos
+
+- ID: `inquisicao-biblioteca-elfica--inquisicao-biblioteca-elfica-inquisicao-anjos-45`
+- Área: `criaturas_npcs`
+- Fonte: `inquisicao-biblioteca-elfica` p. 45
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`, `unbalanced_brackets`
+- Amostra: InquisiçãO + Anjos Campanhas mistas podem incluir Inquisidores e seus Anjos Protetores, bem corno a política da Cidade de, Prata em relação ao al[!'tcJero. Nesse tipo de Campanha, podem ser acrescentados alguns santos, como São Ben- to, São Jorge e S3ão Patric
+
+### Introdução
+
+- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-introducao-5`
+- Área: `criaturas_npcs`
+- Fonte: `demonios-a-divina-comedia` p. 5
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Introdução Embora tenha passado boa parte de minha vida estudando o ocultismo, o tema Demônios me fascinou desde a primeira vez que li “A Divina Comedia”. O texto original da Divina Comédia foi escrito no século XIII, mas de lá para cá, muitos novos pecados su
+
+### Introdução
+
+- ID: `metropolis-2--metropolis-2-introducao-3`
+- Área: `criaturas_npcs`
+- Fonte: `metropolis-2` p. 3
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Introdução Metrópolis surgiu em uma das primeiras matérias para Trevas da extinta revista de RPG Dragão Brasil. Atraiu o interesse do público como a mancha de corrupção, a válvula de escape dos deuses em pleno Céu. A ideia de Marcelo Del Debbio surgiu de diver
+
+### LORDE SATANACHIA, SENHOR DA FÚRIA
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-lorde-satanachia-senhor-da-furia-224`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: 223 LORDE SATANACHIA, SENHOR DA FÚRIA Satanachia, também chamado Verine, Gressil ou Verrier, é o Grande Lorde da fúria e, como todo Furioso, se deixa levar por suas emoções mais fortes. Satanachia sente prazer em ver caos e destruição, e seu Reino reflete isso
+
+### Livro de Enoch
+
+- ID: `guia-de-itens-magicos--guia-de-itens-magicos-livro-de-enoch-167`
+- Área: `criaturas_npcs`
+- Fonte: `guia-de-itens-magicos` p. 167
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: Livro de Enoch Linguagem: grego (copias em latim e ingles). Tipo: manuscritos. Autor: atribuido ao profeta Enoch. Ano: seculo 1. Raridade: os manuscritos sao legendarios, mas muitas co- pias podem ser encontradas. Conteudo: Anjos, Demonios e pentagramas de pro
+
+### Melhor que quado
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-melhor-que-quado-32`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 32
+- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
+- Amostra: Melhor que quado só mesmo RPG! _DRAGAO BRASIL é a maior, melhoré única — revista brasileira | ‘ especializada em a ; e card games, com. heróis, pls monstros, dicas, ca EA mundos inteiros para xocê explorar. Vá logo” conquistar a sua! ms ne O o
+
+### Metrópolis
+
+- ID: `spiritum--spiritum-metropolis-99`
+- Área: `criaturas_npcs`
+- Fonte: `spiritum` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Metrópolis A origem de Metrópolis está ligada à lenda da batalha celestial entre Bel Meridath e Leviatã. Após o terrível combate entre estes deuses, a Serpente Leviatã foi destruída no Plano Astral e materializou-se em Paradísia. Caindo dos céus, abriu com o i
+
+### Ministros
+
+- ID: `demonios-a-divina-comedia--demonios-a-divina-comedia-ministros-96`
+- Área: `criaturas_npcs`
+- Fonte: `demonios-a-divina-comedia` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Ministros das Regiões Infernais: Segundo os demonologistas, estes ministros são: Adramelech (Grande Chanceler), Astaroth (Grande Tesoureiro), Nergal (Chefe da Polícia Secreta) e Baal (General Chefe dos Exércitos Infernais). Minos: Soberano mítico de Creta, fil
+
+### NAONAO
+
+- ID: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica--anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica-naonao-31`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` p. 31
+- Flags: `does_not_end_like_complete_sentence`, `ends_with_connector_possible_cut`
+- Amostra: NAONAO Es 7 SANDRINHO! | EU na ONE E ACHAR SUA NAONAONAO _ NAMORADA NAONAO DRUIDA! Enquanto Sdhilto e Niele tentam chegar até Galrasia, Lisandra retorna ao: continente a procura de Tork, o troglodita anão. “Juntos, eles partem em busca. do terceiro Rubi. - da
+
+### NimBus
+
+- ID: `anjos-a-cidade-de-prata--anjos-a-cidade-de-prata-nimbus-39`
+- Área: `criaturas_npcs`
+- Fonte: `anjos-a-cidade-de-prata` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: NimBus Os Nimbus são os políticos da Cidade de Prata. Se con- sideram os escolhidos de uma força superior, e por essa razão (ou por sabotagem dos Recíperes), são muito poucos. Os Nimbus compõem cerca de 5 a 10% do total dos anjos da Cidade de Prata, mas possue
+
+### O Abismo
+
+- ID: `spiritum--spiritum-o-abismo-105`
+- Área: `criaturas_npcs`
+- Fonte: `spiritum` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: O Abismo Considerada uma das regiões mais perigosas e desconhe- cidas da orbe terrestre, o Abismo é a terra dos demônios refugi- ados de Tenebras, temida até mesmo pelos mais poderosos de- mônios de Arkanun. A Origem Quando Tenebras foi definitivamente destruí
+
+### O Reino dos Mortos
+
+- ID: `spiritum--spiritum-o-reino-dos-mortos-13`
+- Área: `criaturas_npcs`
+- Fonte: `spiritum` p. 13
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: O Reino dos Mortos Esta é sua segunda lição sobre os Reinos Espirituais. Co- meçaremos a aula de hoje com uma breve explanação sobre o que vem a ser o conceito de forma-pensamento, sua aplicação e sua relação com o Plano Astral, Físico e Espiritual. Estas noçõ
+
+### Os Pilares do Ocidente
+
+- ID: `neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica--neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-os-pilares-do-ocidente-57`
+- Área: `criaturas_npcs`
+- Fonte: `neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica` p. 57
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Os Pilares do Ocidente Caminhando para o oeste, Aah Iah da lugar há um súbito deserto de areias douradas que invade a cidade. Aquele que caminha através dele, nem ao menos sairá da Necrópole, mas atingirá os Pilares do Ocidente, erigidos por Osiris numa era pr
+
+### Os q)emônios do qnferno
+
+- ID: `arkanun--arkanun-os-q-emonios-do-qnferno-121`
+- Área: `criaturas_npcs`
+- Fonte: `arkanun` p. -
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`, `unbalanced_parentheses`
+- Amostra: Os q)emônios do qnferno Ao contrário dos Magos de Arkanun, os Demônios que habitam os Nove Círculos do Inferno não estão inte­ ressados em auxiliar a humanidade e evitar uma catás­ trofe, muito pelo contrário. Exilados dos Céus, perdedores na Grande Batalha Có
+
+### Outras Publicações
+
+- ID: `guia-de-monstros-de-arton--guia-de-monstros-de-arton-outras-publicacoes-125`
+- Área: `criaturas_npcs`
+- Fonte: `guia-de-monstros-de-arton` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: Outras Publicações Estes livros podem ser encontrados na www.lojaderpg.com.br Orevas (Módulo Básico) Infiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu go de xadrez celestial. Neste RPG, você está convidado
+
+### PASSADO
+
+- ID: `conan--conan-passado-4`
+- Área: `criaturas_npcs`
+- Fonte: `conan` p. -
+- Flags: `ends_with_connector_possible_cut`, `hyphenated_word_split`
+- Amostra: 4 PASSADO Imagine o que aconteceu com seu Personagem desde o seu nascimento até a data do início da Campanha. Escreva a história primeiro, depois se preocupe com os detalhes numéricos. Núme- ros não são importantes, o importante é criar um Personagem coe- rent
+
+### PODER DA MALDIÇÃO
+
+- ID: `dem-nio-o-pre-o-do-poder--dem-nio-o-pre-o-do-poder-poder-da-maldicao-200`
+- Área: `criaturas_npcs`
+- Fonte: `dem-nio-o-pre-o-do-poder` p. -
+- Flags: `encoding_or_ocr_artifact`, `ends_with_connector_possible_cut`
+- Amostra: 199 PODER DA MALDIÇÃO Os Poderes da Maldição são um caminho antigo e poderoso da Magia Negra. Com eles, o Infernalista é capaz de lançar maldições, atribuir propriedades infernais a objetos ou realizar feitiços poderosos. Criação de mortos-vivos, controle de p
+
+### PRE MNA ARAMPN RREMNM +RAMPX
+
+- ID: `vikings-biblioteca-elfica--vikings-biblioteca-elfica-pre-mna-arampn-rremnm-rampx-48`
+- Área: `criaturas_npcs`
+- Fonte: `vikings-biblioteca-elfica` p. -
+- Flags: `ends_with_connector_possible_cut`
+- Amostra: PRE MNA ARAMPN RREMNM +RAMPX RA MI MS MID KIA ES XIV AI MID MIS UNIDAS so BRRMIMM AR AMB BRRMIMM ARAME FRAPIXA +RAMPX 48 Xi UMIVXIA DANIRIV DS MISS = BR&PIM ME ARAMBN BRRPMIXM RAMAN entender o que realmente ocorreu, porém Angrboda tornou-se uma mácula na histó

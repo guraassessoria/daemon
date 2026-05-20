@@ -2,8 +2,8 @@
 
 Varredura das fontes prontas com trava de certificacao para rituais.
 
-- Certified rituais: 76
-- Rejected candidates: 460
+- Certified rituais: 74
+- Rejected candidates: 462
 
 ## Policy
 
@@ -27,13 +27,11 @@ Varredura das fontes prontas com trava de certificacao para rituais.
 | `santa-cruz-inferno-verde-biblioteca-elfica` | 3 |
 | `lobisomens` | 2 |
 | `tagmar-daemon-versao-completa` | 2 |
-| `anjos-a-cidade-de-prata` | 1 |
 | `anjos-jyhad-guerra-santa-biblioteca-elfica` | 1 |
 | `cabala-2` | 1 |
 | `daemon-tormenta` | 1 |
 | `guia-de-itens-magicos` | 1 |
 | `guiademagias` | 1 |
-| `inquisicao-biblioteca-elfica` | 1 |
 | `o-corvo` | 1 |
 | `santa-cruz-biblioteca-elfica` | 1 |
 | `trevas-diego` | 1 |
@@ -42,21 +40,24 @@ Varredura das fontes prontas com trava de certificacao para rituais.
 
 | Reason | Count |
 | --- | ---: |
-| `no_mechanical_ritual_signal` | 130 |
-| `locked_as_magia` | 119 |
+| `no_mechanical_ritual_signal` | 123 |
+| `locked_as_magia` | 118 |
 | `name_is_mechanical_field` | 90 |
 | `ritual_entry_too_short` | 35 |
 | `looks_like_stat_block` | 34 |
-| `looks_like_kit_or_class` | 16 |
+| `looks_like_kit_or_class` | 15 |
 | `name_is_section_or_empty` | 13 |
 | `locked_as_poder` | 12 |
 | `locked_as_kit` | 8 |
+| `quality_critical_ocr_gibberish` | 6 |
+| `quality_too_long_possible_merged_blocks` | 5 |
 | `locked_as_regras_base` | 3 |
 
 ## Rejected sample
 
-- `arkanun` / `Aprimoramentos: Poderes Mágicos 2, Pontos Herói­`: looks_like_kit_or_class
-- `arkanun` / `Formas e Caminhos:`: no_mechanical_ritual_signal
+- `anjos-a-cidade-de-prata` / `N®VAS PERÍCIAS`: quality_too_long_possible_merged_blocks
+- `arkanun` / `Aprimoramentos: Poderes Mágicos 2, Pontos Herói­`: quality_critical_ocr_gibberish
+- `arkanun` / `Formas e Caminhos:`: quality_critical_ocr_gibberish
 - `arkanun` / `2Joana C{)io[ant`: looks_like_stat_block
 - `arkanun` / `Diácono Leste (Inquisidor)`: looks_like_stat_block
 - `arkanun` / `Diácono Norte (Marrano)`: looks_like_stat_block
@@ -174,4 +175,3 @@ Varredura das fontes prontas com trava de certificacao para rituais.
 - `grimark201` / `Criar Animais/Trevas 3`: locked_as_magia
 - `grimark201` / `Criar Humanos 8`: locked_as_magia
 - `grimark201` / `Custo: variável`: name_is_mechanical_field
-- `grimark201` / `Entender Spiritum 3`: locked_as_magia

@@ -5,6 +5,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure
 
 
 ENTITIES_PATH = DATA_DIR / "entities" / "character_option_granular.json"
@@ -57,8 +58,12 @@ def certification_failure(entity: dict[str, Any], allowed_sources: set[str]) -> 
         return "id_is_not_aprimoramento"
     if not name or slugify(name) in BAD_NAME_KEYS:
         return "name_is_section_or_empty"
+    if any(char in name for char in [".", ",", ";", "?", "!", "="]):
+        return "name_has_sentence_punctuation"
     if len(body) < 30:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
     if not MECHANICAL_RE.search(body):
         return "no_mechanical_aprimoramento_signal"
     return None

@@ -6,6 +6,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure
 
 
 ENTITIES_PATH = DATA_DIR / "entities" / "race_lineage_granular.json"
@@ -124,6 +125,8 @@ def certification_failure(
         return "name_has_sentence_punctuation"
     if len(body) < 45:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
 
     mechanical_hits = len(MECHANICAL_RACE_RE.findall(body))
     strong_mechanical_race = has_strong_mechanical_race(body)

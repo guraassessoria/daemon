@@ -3,7 +3,7 @@
   "id": "magias",
   "name": "Magias",
   "readySourceCount": 275,
-  "entityCount": 404,
+  "entityCount": 396,
   "sourcePartCount": 0,
   "subgroups": [],
   "filters": {
@@ -56,7 +56,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 143
+        "count": 138
       },
       {
         "id": "spiritum",
@@ -117,16 +117,6 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 3
-      },
-      {
-        "id": "daiphir-legado-de-sangue",
-        "title": "Daiphir - Legado de Sangue",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "supplement_misc",
-        "sourceFamilyLabel": "Suplementos gerais",
-        "count": 1
       },
       {
         "id": "domini-urbs-biblioteca-elfica",
@@ -206,7 +196,7 @@
         "officialSource": false,
         "sourceFamily": "powers_magic",
         "sourceFamilyLabel": "Poderes, magia e rituais",
-        "count": 35
+        "count": 34
       },
       {
         "id": "imortal-a-centelha",
@@ -339,16 +329,6 @@
         "count": 2
       },
       {
-        "id": "supers01",
-        "title": "supers01",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "adaptation_pop",
-        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
-      },
-      {
         "id": "tagmar-daemon",
         "title": "Tagmar Daemon",
         "sourceKind": "supplement",
@@ -372,32 +352,32 @@
     "categories": [
       {
         "id": "power_magic",
-        "count": 404
+        "count": 396
       }
     ],
     "subtypes": [
       {
         "id": "power_spell",
-        "count": 404
+        "count": 396
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 160
+        "count": 155
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 244
+        "count": 241
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 2
+        "count": 1
       },
       {
         "id": "setting_lore",
@@ -407,12 +387,12 @@
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 160
+        "count": 155
       },
       {
         "id": "powers_magic",
         "label": "Poderes, magia e rituais",
-        "count": 114
+        "count": 113
       },
       {
         "id": "races_options",
@@ -427,13 +407,13 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 54
+        "count": 53
       }
     ],
     "areas": [
       {
         "id": "magias",
-        "count": 404
+        "count": 396
       }
     ]
   },
@@ -709,6 +689,53 @@
       "qualityFlags": [
         "does_not_end_like_complete_sentence",
         "unbalanced_parentheses"
+      ],
+      "qualitySeverity": "warning",
+      "presentationStatus": "public",
+      "qualityStatus": "revisar"
+    },
+    {
+      "id": "magia-arkanun-afquimista",
+      "name": "Afquimista",
+      "area": "magias",
+      "category": "power_magic",
+      "source": "arkanun",
+      "sourceTitle": "Arkanun",
+      "page": 31,
+      "entries": [
+        "Alquimistas são 'mestres em poções, elixires, óleos,\nvenenos e perfumes mágicos. Sua Magia é resumida em\nfrascos contendo líquidos raríssimos que, quando com­\nbinados, formam as mais diversas poções e efeitos.\nEscolhem grandes cidades para viver, de preferên­\ncia próximas a grandes rotas comerciais, onde podem\nestar sempre em contato com mercadores para obterem\nespeciarias, ervas e elixires necessários para suas expe­\nriências. Alquimistas estão sempre aliados com Feiticei­\nros e Ordens de Magia, que costumam requisitar seus\nserviços com freqüência.\nEm geral, Alquimistas vivem uma vida muito agi­\ntada, sempre em busca de novos ingredientes para suas\nexperiências (leia-se escamas, penas, pêlos e outras par­\ntes de criaturas muito perigosas).\nAfquimista .\nCusto: 3 pts. de Aprimoramento, 280 pts. de Perícia.\nPerícias: Barganha40%,Ciências (Herbalismo40%), Ci­\nências Proibidas (Alquimia 50 % , Cabala 30%, Ocultis­\nmo 30%, Rituais 30%), Idiomas (Hebraico 20%, Ler e\nEscrever Idioma Nativo 25%, Ler e Escrever Hebraico\n35% ), Medicina 25%, Primeiros Socorros 25%, Subter­\nfúgio 20%, Venenos 30%."
+      ],
+      "tags": [
+        "auto-extraido",
+        "certificado",
+        "magia",
+        "magias",
+        "power_magic"
+      ],
+      "confidence": 0.78,
+      "extractionMethod": "auto-power-magic-heading-pass-1",
+      "sourceKind": "official",
+      "sourceKindLabel": "Livro oficial",
+      "officialSource": true,
+      "sourceFamily": "official_core",
+      "sourceFamilyLabel": "Oficiais / linha principal",
+      "contentKind": "power_spell",
+      "contentKindLabel": "Poder, magia ou ritual",
+      "subtype": "magia",
+      "pages": [
+        31
+      ],
+      "certificationStatus": "certified",
+      "certifiedAs": "magia",
+      "certifiedArea": "magias",
+      "lockedArea": "magias",
+      "certificationId": "magia-lock:arkanun:afquimista",
+      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
+      "powerMagicContext": "magic-term,power-magic-book-part,power-term",
+      "qualityFlags": [
+        "does_not_end_like_complete_sentence",
+        "encoding_or_ocr_artifact",
+        "lowercase_sentence_after_section_possible_leak"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",
@@ -4206,61 +4233,6 @@
       "qualityStatus": "revisar"
     },
     {
-      "id": "magia-arkanun-cc-minhos-secund-rios",
-      "name": "·cc\\minhos Secund&Rios",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "arkanun",
-      "sourceTitle": "Arkanun",
-      "page": 103,
-      "entries": [
-        "A combinação de dois Caminhos de aprendizados\nacabam gerando um terceiro Caminho, chamado pelos\nestudiosos de Caminhos Secundários. Eles conferem a\num Mago maior versatilidade na escolha de suas Magi­\nas, e faz com que os Magos versáteis fiquem tão perigo­\nsos e poderosos quanto os Magos especialistas.\nImportante: o valor de Focus em Caminho Secun­\ndário será o menor dos Focus nos Caminhos Principais\nrelacionados.\n·\nMax escollzw como Caminho Prillcipal o Fogo. Seus\nestudos com Erick o co1Zd11zira111 até 3 Fows e111 Fogo. Após\na morte de seu mentor, Max decidiu tornar-se mais versátil,\nescolhendo um novo Caminho : Terra. Atualmente, Max\npossui 2 Forns e111 Terra. Max tem, porta1Zto, 2 Focus em\nMagma, pois o valor do Camilllzo secundário é limitado\npelo menor dos Caminhos principais.\nOs Magos especializados em dois caminhos demo­\nram mais tempo para atingir grande poder, mas avan­\nçam com três tipos de Magia ao mesmo tempo: suas duas\nprincipais, e a secundária gerada por elas.\nRegra Opcional : Se o Mestre desejar, um Caminho\nSecundário pode ser considerado como Principal. O Jo­\ngador gasta seus Pontos de Focus diretamente no Cami­\nnho Secundário, ficando limitado aos efeitos dele.\nO ancestral Miles Teg, mesmo após quase 300 a11os de\nvida sustentada a base e elixires de poções, continua apren­\ndwdo novos co111Ieci111entos. Miles é um Mago Aq110, con­\nsagrado rece11 temente ao 6º nível. Miles possui 4 pontos de\nFocus e111 Ág11a, 3 em Trevas e 2 na Forma Criar. Após a\nconsagração, Miles pode gastar mais 11111 ponto de Forns.\nSeu 'interesse é o Caminho Sewndário de Relâmpagos. Miles\nnão poderá enxergar através de 11111a neblina (E11tezzder Ar\n1) nem criar 11111 pequwo feixe de luz, 1111ia aura, bolinhas\nde luz, brilhos, faíscas ou outras manifestações de luz (Cri­\nar Luz 1). Mas poderá juntar Relâmpagos 1 com Criar 2 e\nchegar a um raio elétrico de 3d6 de dano.\n0'\\..agma ((fogo + éferra)\nMagma é a força que pulsa no interior da Terra. É o\ncastigo que os deuses soltam sobre a superfície quando\nestão irados. É a rocha superaquecida que queima e der­\nrete com apenas um toque. Os Magos que trilham por\neste Caminho conseguem dominar a dor que o Caminho\ndo Fogo lhes inflige. Também lhes permite atear fogo em\nsuas próprias mãos sem queimá-Ias (Criar Mag111a 1) ou\ncaminhar sobre brasas (Entender Magma 1). Magos mais\npoderosos conseguem invocar pequenas erupções com\na ajuda deste Caminho (Controlar Magma 4) ou moldar\narmas sem a necessidade de forjas (Controlar Mag111a 3).\nCinws, ou (fogo Ƅ01·0 ((foeo + êfrevas)\nO Fogo Negro, ou a chama escura é o fogo que arde\nsem aparecer. Com ele, pode-se aquecer um acampamen­\nto à noite sem perigo de se alertar o inimigo (Criar Cinzas\n2). Pode-se conjurar chamas escuras e queimar um ini­\nmigo sem que ele ao menos perceba (Criar Cinzas 2, 3 ou\n4). Também é o Caminho das Cinzas que sobram após\num incêndio, que podem sufocar ou revelar monstros\ninvisíveis (Entender Cinzas 3). Magos muito poderosos\npodem conjurar Demônios feitos de chama negra (Co11-\ntrolar Cinzas 5 ou 6), que queimam como Infernun, mas\nsão invisíveis à noite.\nCores e CJ3riCFws ((fogo +  E)\nEste é um dos Caminhos mais interessantes que\num Mago pode aprender. Com ele, suas ilusões tomam­\nse quase tão perfeitas que chegam a enganar o inimigo\ncom grande facilidade (Criar Cores 4). Cores claras, cores\nescuras, todo tipo de espectro, do arco-íris às cores invi­\nsíveis. Com este Caminho, espadas podem se tornar ra­\ndiantes como a luz das estrelas (Controlar Cores 2, 3 011 4),\ne Magos muito poderosos podem criar desde auroras\nque chegam a hipnotizar (Entender Cores 3, 4 011 5) até\nluzes tão intensas que cegam (Criar Cores 5 ou 6), ou mes­\nmo um arco-íris com 9 cores (Criar Cores 6).\n(fumaça ((fogo + A_t•)\nQuem nunca sentiu o odor sufocante da fumaça,\ncom lágrimas nos olhos e sem conseguir respirar? O\nCaminho da fumaça lida exatamente com isso. Com uma\ncortina de Fumaça, o Mago consegue desaparecer sem •\ndeixar vestígios (Cria Fumaça 5), ou encobrir um ataque\n(Criar Fumaça 3, 4 ou 5). Consegue afastar os guardas, ou\nsufocar um inin1igo (Controlar Fumaça4 ou 5). Magos mais\npoderosos podem até ser capazes de conjurar um espíri­\nto de fumaça para agir como seu espião (Controlar F11111a­\nça 5 ou 6), ou mesmo se transformar em fumaça e passar\npor qualquer fresta (Entender F11111aça 3).\nfmpagos (.\" + E)\nO poder destrutivo dos relâmpagos. A destruição\ndos raios, o barulho ensurdecedor dos trovões. Qual\nMago não respeita o poder de um inimigo que controla a\neletricidade? Comeste Caminho, o Mago passa a ter do-·\nmínio sobre os raios (Criar Relâmpagos 3, 4 ou 5). Um\nMago pode gerar desde pequenas correntes elétricas em\nsuas mãos até comandar os relâmpagos durante uma\ntempestade (Co11trolaf Relâmpagos 6 011 mais). A Forma\nEntender aliada a este Caminho Secundário só foi de­\nsenvolvida após os estudos do Mago de Luft, Stephen\nGray, em 1690. ·\nGcfo ([ + f)Ua)\nEste Caminho foi mais amplamente estudado nos\npaíses nórdicos. Com o Caminho do Gelo, o Mago se\ntorna capaz de resfriar um barril de água ou outro líqui­\ndo até congelá-la (Criar Gelo 3), criar neve ou até mesmo\nresistir a uma nevasca desprotegido (Entender Gelo 3). O\nMago pode congelar mecanismos, armaduras, ou sim­\nplesmente revestir o chão com uma película de gelo ( Con­\ntrolar Gelo 2 ou 3), que é muito escorregadio. Magos mais\npoderosos podem aprisionar um inimigo em um bloco\nde gelo (Entender Gelo 3, 4 ou 5), ou esfriar o ambiente a\nponto de ficar difícil até de se mexer (Controlar Gelo 4).\nC{)itafiáaác ou C{)apor (Áfjua +  E)\nEste é o Caminho que governa todas as formas de\nvapores, elixires, brumas e gases. Dos vapores quentes às\nbrumas geladas, passando pelos vapores medicinais e cu­\nrativos (Criar Vitalidade 1, 2 ou 3). Os Magos que estudam o\nCaminho dos Vapores geralmente são alquimistas ou cu­\nrandeiros que procuram melhores formas de administrar\nsuas poções. Magos que desejam uma aura de mistério ou\npesquisa geralmente se aventuram neste Caminho Secun­\ndário. Um Mҳgo pode preparar poções de cura e vitalidade\n(Criar Vitalidade 2, 3 011 4), e dizem que Ҵagos muito pode­\nrosos conseguiram se curar de ferimentos letais com uma\nvelocidade assombrosa (Entender Vitalidade4 011 5). O Mago\npode até anular o efeito de um componente de um líquido\n( Co11trolar Vi talidade 2). O corpo humano é formado de 70%\nde água, e aumentar a luz e a energia contida nessa água\nacelera o processo de regeneração e cícatrização.\nCristais (ê)crra +  E)\nOs minerais e cristais encontrados na natureza são as\nmais belas formas de rocha que existem e o Mago que conse­\ngue dominá-los, comanda a beleza da luz e a força das ro­\nchas. Com este Caminho, um Mago cria lâminas de cristal\nque podem cortar através de qualquer coisa (Criar Cristais 4\nou 5), ou deixa uma parede transparente como vidro para\nobservar o que está atrás dela (E11te11der Cristais 2). Magos\npoderosos podem até transformar aço em cristal frágil ( Con­\ntrolar Cristais 3), ou cristalizar um inimigo pela eternidade\n(Co11trolar Cristais 6 ou mais). Ouro não pode ser afetado.\nSlgma (é)érra + Áf)Ua)\nEste é o Caminho que lida com a lama e o barro, que\nDeus utilizou para moldar o primeiro homem. Com o po­\nder da lama, um Mago pode fazer afundar seus inimigos\n(Controlar Lama 4 011 5), ou até mesmo uma torre, que, sem\nsuas bases fortes, ruirá (Controlar Lama 6 011 mais). O corpo\nhumano é constituído em sua maioria de água e Magos\nmuito poderosos podem transformar um inimigo em está­\ntua simplesmente mudando a água em seu corpo para pe­\ndra (Controlar Lmna 4 ou 5). Podem também abrir túneis em\nparedes sem que a estrutura desabe, transformando so­\nmente parte das pedras (Criar Lama 3 011 4). Ou pode aprisi­\nonar pessoas, solidificando a água sob seus pés ( Co11trolar\nLama 2 011 3) ou facilitar um rastreamento (E11te11der Lama 3).\n>Pó e Corrosão (ê)crra + é')revas)\n\"Do pó vieste, e ao pó retornarás\n.. . \" Os Magos que\nestudam este Canúnho sabem que nada é eterno, nem mes­\nmo torres ou castelos, que podem destruir com o poder de\nsua Magia. São conhecidos por seu toque corrosivo, que\nenferruja metais (Criar Corrosão 2), destrói plantas (Criar\nCorrosão 2, 3 ou 4) e atravessa as mais resistentes paredes\n(Controlar Corrosão 3). Dizem que Magos muito poderosos\nconseguem se transformar em poeira, decompondo-se em\numa forma que envolve seus ilúmigos, sufocando-os até o\nencontro com seu Criador (E11te11der Corrosão 3).\nC{)cuo (_r + frevas)\nA ausência do ar produz efeitos muito desagradáveis\nsobre os seres vivos, como a morte, por exemplo. Os Magos\nque lidam com este Caminho sabem muito bem disso. O\nsom não se propaga no vácuo, por isso, também pertencem\na eles as Magias do silêncio e escuridão (Entender Vácuo 2,\n3 ou 4). Os Magos que se especializam no Vácuo são cha­\nmados de sombras silenciosas, ou assassinos perfeitos,\npois poҵem se ocultar na escuridão e no silêncio (Co11trolar\nVácuo 3) até ser tarde demais para a vítima. Magos muito\npoderosos podem engolfar suas vítimas em uma cortina de\nescuridão sem ar (Criar Vácuo 4, 5 011 6).\nC{)encnos (Áf)Ua + êfrcvas)\nOs Caminhos que lidam com venenos são cami­\nnhos muito perigosos de serem trilhados, mas mais peri­\ngosos ainda se forem enfrentados. Magos que dominam\no Caminho dos Venenos podem assassinar um inimigo\napenas envenenando seu sangue (Criar Veneno 4) ou sua\ncomida (Criar Vene1103), e ao mesmo tempo são imunes a\nqualquer tipo de veneno ou ácido (Entender Ve11e1103). O\n.Mago também pode fazer com que seu sangue seja vene­\nnoso e corrosivo (Controlar Veneno 3, 4 011 5).\nCaminhos êferciários da 0\\(agia\nSão os Caminhos gerados pela escolha de três Cami­\nnhos. Existem muitos Canúnhos Terciários para serem des­\ncritos neste livro, mas o Jogador e o Mestre podem estudar\nalgumas possibilidades. Damos como exemplo o Cami­\nnho das Ilusões Perfeitas, formado pelos Caminhos do\nFogo, Luz e Trevas ou o Caminho dos Vapores Venenosos\n(Água, Luz e Trevas) e Caminho do Sangue (Arkanun,\nÁgua e Luz). Para as outras, tente separá-las em suas fun­\nções e estudar as infinitas possibilidades de combinações\nentre elas, pois um Mago com três Caminhos principais\npossui três Caminhos Secundários e um Caminho Terciário.\nMagos que se aventurarem a possuir quatro cami­\nnhos de aprendizado avançarão muitó lentamente nas ar­\ntes arcanas, mas quando forem muito poderosos (no 10º\nnível, por exemplo, poderão possuir 14 pontos de Focus\ndivididos entre seusҶCaminhos e Formas como desejar).\nLembre-se que o Mago não precisa distribuir igualmente\nseus pontos de Focus, apenas que seu Caminho Principal\npossua tanto ou mais pontos de Focus que todos os outros\nCaminhos escolhidos.\nespeRiêncic\\\nDos outros quatro Personagells da Campa11lza, dois fo­\nra111 destrnídos pela Inquisição, um ficou lo11co e o último aca­\nbou aprisionado em Arka11w1 para sempre.\nEm um RPG de horror, sobreviver a uma Aventura\nmuitas vez.es já é um prêmio em si, mas para recompensar os\nPersonagens que resistiram bravamente aos Anjos,\nTemplários, Inquisição e outros De1:nônios e que consegui­\nram resolver uma Aventura (ou parte dela, ou saírem vivos,\npelo menos), existe um sistema que pemlite aos Persona­\ngens aumentarem seus poderes durante suas Ave nturas.\nEsse sistema é chamado de Experiência. Persona­\ngens que sobrevivem a muitas A venturas, encontram mui­\ntas criaturas desconhecidas ou enfrentam muitos perigos\ntornam-se mais experientes com o tempo, adquirem mais\npoderes e melhoram suas habilidades naturais.\nSempre que uma Aventura ou conjunto de Aventu­\nras terminar, o Meshe deve avaliar a participação de\ncada Personagem e decidir quais estão aptos a aumenta­\nrem seus níveis de conhecimento (geraHnente a cada três\nou quatro Aventuras bem sucedidas ou ao final de uma\npequena Campanha).\nT\\.s notas de o a 10\nO sistema de passagem de nível funciona desta\nmaneira: ao final de cada Aventura (e não de cada ses­\nsão de jogo) o Mestre deve se fazer este pequeno questio­\nnário a respeito de cada Jogador:\n1- O Jogador fez um bom Roleplay?\n2- O Jogador colaborou para a união do grupo?\n3- Os objetivos da Aventura foram atingidos?\n4-O Personagem ou o Jogador aprendeu alguma coisa?\n5- O Personagem foi heróico?\n· Com base nessas perguntas, o Mestre deve dar uma\nnota de O a 2 em cada pergunta para cada Personagem,\nque será sornada aos seus Pontos de Experiência.\nUrna nota 2 significa urna atuação excepcional no\nquesito analisado, enquanto uma nota O representa uma\nparticipação muito fraca. O máximo que um Personagem\npode ganhar em uma Aventura é 10 pontos e o mínimo é O.\nImportante: evite notas totais muito altas ou muito\nbaixas. Na prática, fique com valores entre 3 e 7, saindo\ndessa faixa apenas em casos especiais.\nQuando cada Personagem atingir determinado nú­\nmero de Pontos de Experiência (dado pela tabela ao lado),\nele passará para o próximo nível."
-      ],
-      "tags": [
-        "angelico",
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        103,
-        104,
-        105
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:arkanun:cc-minhos-secund-rios",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "does_not_end_like_complete_sentence",
-        "encoding_or_ocr_artifact",
-        "unbalanced_brackets",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "magia-grimorio101-cegueira",
       "name": "Cegueira",
       "area": "magias",
@@ -6104,63 +6076,6 @@
       "qualityStatus": "revisar"
     },
     {
-      "id": "magia-grimorio-controlar-humanos-arkanun-3",
-      "name": "Controlar Humanos/Arkanun 3",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "page": 172,
-      "entries": [
-        "Componentes: V, G, M (um pedaço de pele de zumbi)\nTempo de Formulação: 2 rodadas\nAlcance: o próprio mago\nEfeitos: dá ao mago os poderes de um zumbi\nDuração: 1 cena\nTeste de Resistência: nenhum\nResistência à Magia: não\nEste ritual repulsivo faz com que o mago adquira as mesmas\ncaracterísticas de um zumbi — seu corpo apodrece, despedaça, suas\nmãos tornam-se garras e passa a exalar o cheiro da morte. Por outro\nlado, o mago torna-se imune a feitiços que afetem a mente, paralisa-\nção, venenos, feitiços de sono e doenças. Suas garras causam 1d6+1\npontos de dano e seu toque pode causar paralisia, como nos zumbis,\nComo pontos negativos, o mago pode ser afetado por feitiços que\nafetam mortos-vivos como Controlar ou Afastar Mortos-Vivos.\n” DN\n169\nGuia de Itens Mágicos\nO aguardado livro sobre itens mágicos, artefatos e relíquias finalmente saiul\nEste Guia traz para você cerca de 1.000 novos itens, entre anéis, poções, óleos, elixires, varinhas, cajados, varas,\ngemas, pedras, amuletos, correntes, braceletes, bolsas, oupas, botas, capas, armaduras, escudos, espadas, machados,\nSs.\nlanças e uma infinidade de outros artefatos místico\nOs Itens Mágicos estão classi\nficados em: fracos, médios e fortes (aqueles itens que sempre acompanham os\npersonagens) é artefatos, cada um com sua história, descrição e características exclusivas, além de um desenho para\ncada item mágico, assim você pode saber exatamente que tipo de item seu personagem está carregando.\nGuia de Armas Medievais\niste é o segundo de uma série de livros que visam auxiliar aos Mestres c dar mais opçõ\ns aos Jogadores de RPG. Neste\nGuia de Armas você encontrará quase 200 tipos diferentes de armas detalhadas, desde as mais inocentes facas de cozinha e\ndardos de arremesso até a temida Dragonlance, passando por machados, espadas, maças e muitas, muitas outras,\nEste livro serve para os Mestres darem mais cor às suas Aventuras, bem como si us Jogadores individualizarem seus\nPersonagens. Inclui descrições, dados de jogo e estatísticas de adagas, machados, espadas, lanças, martelos, manguais,\nmaças, chicotes, arcos, bestas e outras!\nGuia de Armas de fogo\nA segunda cdição do Guia mais\nvendido no Br\nsobre armas de fogo! Neste Guia você encontrará mais de 350\ntipos de armas detalhadas: revólveres, pistolas, armas antigas, submetralhadoras, escopetas, rifles de caça, fuzis\nmilitares, metralhadoras pesadas, granadas c armas experimentais, E ainda é totalmente ilustrado, cada arma com a sua\n“foto” junto às es im você\nO Gui\nMitológico:\naberá que arma seu personagem está carregando.\né compatível com os RPGs: Sistema DAEMON (Arkanun, “Trevas, Invasão, Anjos, Demônios c Vampiros\nGURPS, Shadowrun, Cyberpunk 2020 e Storyteller (Vampiro, Lobisomem e Mago)\no Mer Invasão 2º Edição\n“Todas as histórias de conspiração que voccê já leu ou ouviu são verdadeiras.\nAgências secretas infiltradas no governo de diversos países estão empenhadas em esconder a verdade da população.\nAcordos com aliens foram feitos em bencfício dessas agências, acobertando a guerra entre duas raças alienígenas.\nINVASO traz regras para criao de Personagens agentes do EBI (incluindo US Marshalls, Arquivos e DEA), Projeto\nMajestic-12, NORAD/UEO “Team (grupo militar secreto envolvendo equipes com poderes paranormais), Umbra\nDomini (facção moderna dos cavaleiros templários que emprega alta tecnologia), MiB (Homens de Preto) e Independen-\ntes (ufólogos, repórteres, experts e hackers) que sempre acabam envolvidos ne\nInimigo Natural\nEm 1976, as sondas Viking T e II pousaram em Marte. Os cientistas disseram que não haviam formas de vida, mas era\numa grande mentira. Com o estudo do DNA dos vírus encontrados em Marte, os cientistas do NORAD foram capazes de\nduplicar duas das mais perigosas criaturas que já pisaram o sistema solar, as raças inimigas Phobos e Deimos.\nVerdadeiros demônios superpoderosos, estas criaturas conseguiram escapar dos laboratórios € infectar outras\npessoas, criando uma raça de híbridos humanos-alienígenas que ameaçam a segurança da humanidade. Para contê-los,\no exército americano autorizou a criação de uma equipe especial chamada Fiquipe Ares, composta de agentes muito\nbem equipados e voluntários que receberam doses menores dos próprios vírus Phobos e Deimos, conferindo a eles\npoderes semelhantes (embora mais fracos) que os monstros que irão caçar.\nAnjos: A Cidade de Prata\nEste RPG explica detalhadamente as cinco castas de anjos que habitam a Cidade de Prata, possibilitando a\nutilização dos anjos tanto como Personagens quanto como NPC's: Corpore, os anjos da Guarda; Protetore, os\nanjos cabalísticos; Captare, os caçadores de demônios; Recípere, os negociantes de almas e Nimbus, os governantes\ncelestiais. “Lraz também regras para construção de personagem em qualquer período do tempo (presente, futuro,\nAntiguidade ou Idade Média), poderes angelicais, itens mágicos, armas, magias € Rituais utilizados pelos anjos em\nsuas batalhas contra as forças das Trevas, além de novas Perícias e Aprimoramentos.\nAlém disso, há uma lista com a descrição dos 250 anjos mais poderosos de todos os tempo, para serem utilizados\ncomo NPC's ou idéias para Aventuras.\nDemônios. A Divina Comédia a\n“Totalmente bascado nos livros A Divina Comédia c Paraíso Perdido, DEMÔNIOS mantém-se 100% ficl ao texto e\nàs descrições de Alighieri c Milton sobre o Inferno.\nDEMÔNIOS traz a descrição completa de cada um dos nove Círculos do Inferno, incluindo um mapa. Descreve todas\nas criaturas, fortalezas, construções e monstros que habitam a dimensão demoníaca. “Traz a história completa do Inferno,\ndesde a queda de Lúcifer até os dias de hoje, explicando detalhadamente as razões da guerra celestial.\nRegras para criar Personagens e NPCs demônios, anjos caídos, hellspawas, death knight, succubi c incubi, espec-\ntros, hordas demoníacas e gremlins, bem como novos poderes demoníacos. Novos itens mágicos, regras para a criação\nde gárgulas, imps, homúnculos, familiares e mandrágoras.\nArkanun 3º Edição\nEMO:\niq\nUm dos mais antigos, conhecidos e conceituados RPGs do Brasil, Arkanun é ambientado em uma Idade Média\nsombria e ameaçadora, enquanto a Peste Negra assolava a Europa, onde a Inquisição perseguia e condenava à\nfogueira qualquer manifestação de atos demoníacos como bruxas, magos ou filhos do demônio. Onde feudos\nimundos e abadias escondidas guardavem segredos que não poderiam ser revelados.\n“Totalmente bascado em Mitologia e Ocultismo Medieval verdadeiro, Arkanun traz quarenta e cinco novos Kits\n(todos compatíveis com os Kits apresentados em TORMENTA), novos Rituais e exemplos de magias, Ordens e\nSociedades Secretas Medievais e exemplos das Onze principais cidades da Europa do século XIV, com a descrição\nVampiros Mitológicos\n“Totalmente bascado em culturas reais, VAMPIROS MITOLÓGICOS traz a descrição completa das principais\nraças de vampiros, originários das diferentes culturas antigas.\nConheça os Strigoi, vampiros romanos que acompanharam toda a expansão do império; Ekimdu, vampiros babilônicos\nresultado da comunhão do homem com um espírito maligno; Asimani, os temíveis feiticeiros imortais africanos que sc\nalimentam de carne humana; Lamiai, os vampiros serpentes da cultura grega: Veikolakas, os filhos amaldiçoados de\nLicaon, condenados a vagar pela terra em companhia de seus irmãos lobisomens; Kiang-Shi, os vampiros mandarins\nchineses; é finalmente os Rakshasa, vampiros-demônios hindus adoradores da deusa Kali. Conheça seus poderes,\ncostumes e fraquezas. Inclui a biografia dos principais vampiros literários de todos os tempos, incluindo Vlad “eppes\n(Drácula), Condessa Bathory, L.estat de Lioncourt, Barnabás Collins, Nicholas Knight, entre outros.\nEntre Anjos e Demônios\nde anjos é envolvido em uma conspiração de grandes proporções.\nEntre Anjos e Demônios empolga do início nebuloso ao final surpreendente.\nBascado no livro TREVAS.\ncompleta dos magos, anjos € demônios que vivem em cada uma delas, seus poderes, influência e conexões.\nVaMPIROS\nMITOLOGIGOS:\nA misteriosa Irmandade Rubra ressurge após séculos de inatividade. Um mago dos tempos da Babilônia recebe ajuda de\ndemônios. Um Serafim planeja um confronto. Espíritos tornam-se agressivos ante qualquer ser sobrenatural. É um grupo\nPrimeiro romance ambictado em um RPG nacional, Entre Anjos e Demônios reúne diversas facções em luta pelo domínio\ndos humanos. Cenas empolgantes de negociação, espionagem mística, ocultismo e muita mitologia brasileira.\nTREVAS\nInfiltrados em nossa sociedade, Anjos e Demônios disputam palmo a palmo a vitória na Guerra entre o Céu e o Inferno,\nusando os humanos como peças em seu jogo de xadrez celestial, Neste RPG, você está convidado a fazer parte dos\nmortais que sabem a verdade.\nApós quase dez anos desde sua primcira versão em Fanzine, a Daemon Editora tem o prazer em anunciar a Terceira\nedição de um dos mais conhecidos jogos de interpretação do Brasil. Sua terceira edição marca também o início de um\nprojeto ambicioso, de liberar as Regras do sistema Daemon para uso dos Jogadores c Mestres cm seus próprios\nUniversos de Jogo.\nISBN 85-87013-26-2, 224pgs, [Hard Cover, R$ 36,00\nReroia bras;\nClube de Caça\nEscrito originalmente por JM: Trevisan para a Revista Dragão Brasil, o Clube de €:\nça conquistou rapidamente muitos\não ao material já\nfãs, mestres e jogadores. A adaptação do Clube para a linha Trevas traz muitas novidades em rel\npublicado, principalmente textos sobre Caçadores de Anjos e Demônios. O Livro trará regras completas para jogar com\nmembros do Clube de Caça, Membros dos “Templários, da Casa de Deus, Daiphires (humanos filhos de vampiros),\nAmazonas, Caçadores de Anjos ca Ordem do Templo Solar.\nISBN- 85-87013-25-4, 96pgs, Soft Cover, R$ 20,00\nTemplários\nA primeira Ordem do Templo surgiu com os discípulos do grande mago Salomão, em Jerusalém, um milênio antes da vinda\nde Cristo. Desta Ordem de sacerdotes guerreiros surgiram as bases do que mais tarde se chamariam cavaleiros templários.\nTEMPLÁRIOS traz regras criar os caçadores de demônios mais temidos de todos os tempos, desde sua origem até\nos dias atuais. Conheça os Cavaleiros do Templo (Templários originais), Cavaleiros do Graal (remanescentes da\n“Távola Redonda), Cavaleiros\nitalciros (responsáveis pela proteção dos fiéis em suas peregrinações a Jerusalém), Ordem de Rhodes, Ordem\nde Malta, Ordem de Aviz (Templários brasileiros) c Umbra Domini, entre outras. Inclui ainda uma Timeline\ncompleta sobre os principais acontecimentos envolvendo os Templários, regras para pontos de EIS e para Campanhas\nHeróicas e de Aventuras.\nInquisição\nCriada pela Igreja €.\nntica no século XIV, a Inquisição perseguiu c destruiu mais feiticeiros que qualquer outra\n> instituição no mesmo período. Formada por padres, guerreiros e monges, era responsável por garantir a hegemonia da\nIgreja sobre as demais crenas. INQUISIO traz regras para criar personagens Inquisidores, Gladius Dei\n(soldados e guerreiros valorosos a serviço da Igreja, também conhecidos como o braço armado da Inquisição),\nScholars, os estudiosos e pesquisadores do oculto e do sobrenatural, Exorcistas (os caçadores de demônios),\nDiscípulos de São Cipriano (uma nova cabala, infiltrada na Inquisição, que usa os grimórios e tomos capturados\nem seu próprio benefício) e finalmente, o Sagrado Tribunal, os Inquisidores dentro dos Inquisidores.\nAlm disto, INQUISIO inclui uma linha de tempo com acontecimentos relacionados  Inquisio, regras de FI;\nca descrição das principais igrejas e bases de operação do Tribunal do Santo Ofício.\nSpiritum, o Reino dos Mortos\nSPIRTTUM: O REINO DOS MORTOS traz a explicação detalhada dos planos Espirituais, Umbrai"
-      ],
-      "tags": [
-        "angelico",
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        172,
-        173,
-        174,
-        175
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:controlar-humanos-arkanun-3",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "does_not_end_like_complete_sentence",
-        "hyphenated_word_split",
-        "page_number_inside_text",
-        "unbalanced_brackets",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "magia-grimorio-controlar-humanos-arkanun-5",
       "name": "Controlar Humanos/ Arkanun 5",
       "area": "magias",
@@ -6629,61 +6544,6 @@
       "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
       "qualityFlags": [
         "does_not_end_like_complete_sentence"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-daiphir-legado-de-sangue-controlar-som-terra-5",
-      "name": "Controlar Som/Terra 5",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "daiphir-legado-de-sangue",
-      "sourceTitle": "Daiphir - Legado de Sangue",
-      "page": 17,
-      "entries": [
-        "Custo: 3\nTempo: 1 mês\nMateriais: V, G, M (cordas vocais de um macaco)\nO nome verdadeiro do mago não poderá ser\npronunciado nem escrito por um mês. As palavras\nsimplesmente não saem da boca de quem for\npronunciar seu nome, e as letras simplesmente\nfogem do papel à que são escritos, sem nunca\nchegar a formar uma sílaba sequer. Este ritual é\npouco conhecido, mas muito utilizado por aqueles\nque o conhecem para que não sejam feitas magias\nmaléficas contra eles usando seu nome verdadeiro.\nO mago apunhala as cordas vocais – devidamente\nextraídas – de um macaco enquanto realiza os\ncânticos necessários. Geralmente para se referir\naos usuários desse estranho e desconhecido ritual\nreferem-se à eles como Aquele-Cujo-Nome-Não-\nPode-Ser-Pronunciado.\nAprimoramentos\nAbaixo\nsegue-se\numa\nlista\nde\nnovos\naprimoramentos, e alguns antigos que servem\ncomo referência para personagens em DAIPHIR:\nLegado de Sangue.\n- 18 -\nPai Milenar\n4 pontos: Você possui um pai que é um vampiro\nantigo e poderoso, o que lhe conferiu nascer com\nmuito poder. Em termos de jogo, o personagem\ncomeça com +5 poderes vampíricos.\nSangue venenoso\n1 ponto: seu sangue é venenoso para vampiros.\nCada ponto de Sanguinus ingerido causa 1d3 PVs\nde dano ao vampiro.\nSanguinus Fraco\n-3 pontos: por algum motivo desconhecido, seu\nSanguinus é fraco em suas veias e seus poderes\ninerentes são menores. Você ainda pode aumentar\nseus atributos, absorver dano e ativar seus poderes\nvampíricos, mas custará o dobro de pontos de\nSanguinus.\nEnvelhecimento Humano\n-1 ponto: Seu Sanguinus não retarda seu\nenvelhecimento como nos outros daphiri. Você\nenvelhece na mesma taxa que um humano normal.\nSem Presas\n-1 ponto: Você não possui presas vampíricas, e\nprecisa cortar suas vítimas para sugar seu sangue.\nCauda\n-4 pontos: Você não possui verdadeiramente uma\ncauda, mas nasceu sem pernas e com um grande e\ninútil prolongamento do cóccix, dando-lhe uma\naparência de uma lesma. Em termos de jogo, o\npersonagem possui AGI-4 e não pode se deslocar\nmais que metade da velocidade de caminhada.\nEste aprimoramento negativo é exclusivo para\nFilhos de Lamia.\nOlhos Extras\n1 ponto: Você nasceu com olhos extras na cabeça.\nTais olhos lhe conferem uma visão periférica\namplamente maior. Em termos de jogo, o\npersonagem nunca é pego por trás nem flanqueado\nde qualquer forma. O número de olhos fica a cargo\ndo jogador.\nEste aprimoramento é exclusivo para Filhos de\nLamia.\nVeneno de Cobra\n1 ponto: As presas do daiphir podem inocular\nveneno, como as presas de uma cobra. O veneno\ncausará 2d6 de dano por hora no corpo do alvo, até\neste passar num teste Difícil de CON ou receber\nsoro anti-ofídico (mas até lá, pode ser tarde\ndemais).\nEste aprimoramento é exclusivo para Filhos de\nLamia.\nInfravisão\n1 ponto: você possui infravisão, vendo o calor dos\ncorpos como uma cobra.\nEste aprimoramento é exclusivo para Filhos de\nLamia.\nVício (Sanguinus)\nVocê é viciado no Sanguinus de vampiros. Pode\ncaçar vampiros para beber seu sangue, comprar\nsacos de Sanguinus no mercado negro sobrenatural\nde sua cidade ou é um carniçal, independente do\ncaso,\nvocê\nprecisa\ntomar\nSanguinus\nfreqüentemente. Quando deparado diante de\nSanguinus, o personagem precisa fazer um teste de\nWILL\npara\nevitar\nbebê-lo\nou\nlambê-lo\ndesesperadamente.\nFobia (Trovões)\n-1 ponto: você teme trovões e quando se depara\ncom um (ou seus sons), deve fazer um Teste de\nWILL. Caso falhe, todos os Testes seguintes que\nforem Fáceis passam a serem Normais, os Normais\npassam a serem Difícies e os Difícieis serão\nconsiderados falhas automáticas. No caso de uma\nfalha critica, você simplesmente entra em\ndesespero e foge imediatamente.\n-2 pontos: idêntico ao anterior, mas aqui você\nsente um pavor indescritível por trovões, e caso se\ndepare com um ou seus sons, deverá fazer um\nTeste de WILL. Em caso de uma falha, o\npersonagem foge em pânico. Se for uma falha\ncritica, ele fica paralisado e impedido de realizar\nqualquer ação por 3d6 rodadas.\nFobia (Sol)\n-1 ponto: você teme a luz do sol e quando se\ndepara com ela, deve fazer um Teste de WILL.\nCaso falhe, todos os Testes seguintes que forem\nFáceis passam a serem Normais, os Normais\npassam a serem Difícies e os Difícieis serão\nconsiderados falhas automáticas. No caso de uma\nfalha critica, você simplesmente entra em\ndesespero e foge imediatamente.\n-2 pontos: idêntico ao anterior, mas aqui você\nsente um pavor indescritível pela luz do sol, e caso\nse depare com ela, deverá fazer um Teste de\nWILL. Em caso de uma falha, o personagem foge\nem pânico. Se for uma falha critica, ele fica\n- 19 -\nparalisado e impedido de realizar qualquer ação\npor 3d6 rodadas.\nFobia (Barreira de rosas)\n-1 ponto: você teme barreiras de rosas e quando se\ndepara com uma, deve fazer um Teste de WILL\nNormal para atravessá-la. Caso falhe, não\nconsegue.\n-2 pontos: idêntico ao anterior, mas aqui você é\nbem mais suscetível á influência das barreiras de\nrosas, e caso se depare com uma, deverá fazer um\nTeste de WILL Difícil. Caso falhe, não consegue\natravessá-la.\nFobia (limalha de aço, arroz chinês)\n-1 ponto: você teme barreiras feitas de limalha de\naço ou arroz chinês e quando se depara com uma,\ndeve fazer um Teste de WILL Normal para\natravessa-la. Caso falhe, não consegue.\n-2 pontos: idêntico ao anterior, mas aqui você é\nbem mais suscetível á influência das barreiras\nfeitas de limalha de aço ou arroz chinês, e caso se\ndepare com uma, deverá fazer um Teste de WILL\nDifícil. Caso falhe, não consegue atravessá-la.\nAlergia (Alho)\n-1 ponto: você teme alho e quando se depara com\no cheiro de alho, deve fazer um Teste de WILL.\nCaso falhe, todos os Testes seguintes que forem\nFáceis passam a serem Normais, os Normais\npassam a serem Difícies e os Difícieis serão\nconsiderados falhas automáticas. No caso de uma\nfalha critica, você simplesmente entra em\ndesespero e foge imediatamente.\n-2 pontos: idêntico ao anterior, mas aqui você\nsente um pavor indescritível de alho, e caso se\ndepare com seu cheiro, deverá fazer um Teste de\nWILL. Em caso de uma falha, o personagem foge\nem pânico. Se for uma falha critica, ele fica\nparalisado e impedido de realizar qualquer ação\npor 3d6 rodadas.\nHemofílico\n-2 pontos: se você sofrer um corte, não parará de\nsangrar até receber ajuda médica. Em termos de\njogo, o personagem perderá 1PV/min até morrer.\nAlém disso, um vampiro não poderá fechar o\nferimento de sua mordida com uma lambida.\nMestre\n-1 ponto: Você possui um Mestre Vampírico,\nalguém ao qual você serve, seja por chantagem,\nvotos de sangue ou honra.\nAversão Sanguinária Aguda\n-2 pontos: Você possui a constante sensação de\nque sugar de uma fonte qualquer é perigoso. Pode\nter diversas explicações: você tem medo de se\ndrogar usando sangue de um possível viciado ou\nadquirir alguma doença sangüínea. Em termos de\njogo, o personagem precisa passar num teste de\nWILL toda vez que for se alimentar.\nNPCs\nAbaixo segue-0se uma lista de NPCs importantes\npara campanhas envolvendo daiphiri.\nNeru, O Negro\nNeru partiu numa peregrinação alguns anos depois\nde ter consolidado sua Ordem. Desde então,\nnenhum de seus descendentes nunca mais o viu,\nmas acredita-se que ele envolveu-se no Xadrez\nCelestial mais ainda, buscando sempre seu\nobjetivo final: matar a deusa-vampira milenar\nStryx.\nDratvoz, o Mestre da Alma\nO Mestre da Alma mantem-se num estado\nmeditativo bastante semelhante ao Sono em seu\ntemplo na Ásia, guardado por seus sete discípulos,\ntodos vampiros vrikolakas milenares.\nDraconarius\nDraconarius entrou em Sono no século XIV em\nalgum lugar na Mesopotâmia e hoje possui um\nfeudo no Inferno.\nBesti–rio\nAbaixo segue-se uma lista de seres sobrenaturais\nque podem ser utilizados numa campanha de\ndaiphiri ou mesmo outras criaturas sobrenaturais.\nChi-mei\nCON 3D, FR 3D, DEX 3D, AGI 3D, INT 3D,\nWILL 2D, CAR 1D, PER 3D\n#Ataques [1], IP 3, PVs 20-30\nGarras 60/45   1d6+bônus\nMordida 50/45  1d3+bônus\nSiang são daiphiri criados com um erro nas\nenergias do P'o do escolhido que se tornaria um\nKiang-shi. Um Chi-mei é criado quando um erro\nMUITO grande acontece. Chi-mei são formas\nrepletas de energias Yng, assemelhando-se a\n- 20 -\nzumbis em todos os aspectos, exceto as presas\nsalientes em suas bocas.\nChi-mei não possuem a capacidade de sugar\nSanguinus, mas podem devorar uma vítima (eles\nnunca ficam satisfeitos, continuando a devorar até\nseus estômagos apodrecidos se rasgarem e a carne\nrecém-devorada\nescorrer\nentre\nsuas\ntripas,\npreencher seus troncos e por fim, rasgar suas peles\npodres).\nCérberos\nCON 3D, FR 3D, DEX 3D, AGI 3D, INT 1D+2,\nWILL 1D+2, CAR 0, PER 3D\n#Ataques [3], IP 1, PVs 22\nMordida 20% 1d10\nSemelhantes à cães dinamarqueses (embora\npossam ser de quaisquer raças de cachorros\ngrandes), essas aberrações são criadas pelos Filhos\nde Lamia para guardarem suas fazendas como\ncães-de-guarda. Possuem três cabeças, pesam em\nmédia 120kg, são grandes, fortes e muito ferozes.\nCykrus\nCON 2D+16, FR 2D+16, DEX 3D+6, AGI 4D,\nINT 3D+4, WILL 3D+4, CAR 3D+4, PER 3D+6\n#Ataques [1], PVs 30-40\nGarras 70/50   2d6+bônus\nMordida 50/45  1d3+bônus\nQuando um Espectro possui um alvo, após algum\ntempo, o alvo começa a envelhecer cinco vezes\nmais rápido ou apodrecer por dentro, por culpa da\npossessão proibida. Um Cykrus é uma forma de\ndemônio muito parecida com um Espectro, a\ndiferença é que após infectar uma vítima, o Cykrus\ndomina completamente sua essência, mental, física\ne espiritual, além de torná-la substancialmente\nmais forte. No entanto, o corpo possuído passa a\ndeteriorar-se\nrapidamente,\nmorrendo\nem\naproximadamente 1d6 meses. Um Cykrus somente\npode abandonar um corpo possuído sugando todo\no Sanguinus de uma nova vítima. Felizmente, as\npresas desse tipo de criatura são exclusivamente\nvampiros. Cykrus são seres extremamente raros.\nCorrem rumores de que esses predadores da noite\nsão formas mais corrompidas ainda de vampiros\nEkimmu ou foram criados pela AGNI para serem o\ncaçador definitivo.\nGênesis\nGênesis é a denominação para uma das criaturas\nmais profanas para o Bem e o Mal que já existiu: é\num filho entre um anjo e um demônio. Esse tipo de\ncriatura não possui forma, e geralmente sua mente\né movida pelos sentimentos mais básicos, se é que\nalgum sentimento é considerado básico para uma\ncriatura com esse nível de poder e consciência\ncósmica. Um Gênesis já nasce incrivelmente\npoderoso, embora não seja capaz de usar seu poder\npleno sozinho, precisando de alguma forma de\ncontrole (com o tempo, um Gênesis pode adquirir\nmaior controle de seu poder e guiar-se sozinho). Já\nsoube-se que um ex-padre foi um hospedeiro do\npoder de um Gênesis. Geralmente quando este tipo\nde\ncriatura\nnasce,\nforças\nSerafins\nsão\nimediatamente enviados para capturar a criatura.\nNão se sabe para onde são levadas ou se são\ndestruídas.\nÉ extremamente complexo definir quais poderes\num Gênesis pode demonstrar. O hospedeiro pode\ndemonstrar desde o poder Dom da Palavra sem\nlimite de uso diário, até imensos poderes\nangelicais que poderiam rivalizar até com os mais\npoderosos Serafins.\nUm narrador deve ter extremo cuidado ao colocar\numa criatura dessas em sua campanha, sendo mais\napropriada como o centro da própria campanha.\nGênesis são criaturas raríssimas, e seria prudente\nexistir no máximo uma por vez em todo o cenário\nde jogo.\n- 21 -\nFruto de uma uni‘o proibida.\nFruto de magia antiga.\nFruto de erros.\nFruto do Mal.\nNo netbook DAIPHIR: Legado de\nSangue, escrito por H. P. Almeida,\nser‘o descritas quatro fam¤lias-\ndaphiri, linhagens de daphiri que\nconseguiram se destacar e adquirir\nsuas caracter¤sticas pr‡prias ao\nlongo dos s◊culos."
-      ],
-      "tags": [
-        "angelico",
-        "auto-extraido",
-        "certificado",
-        "demonico",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        17,
-        18,
-        19,
-        20,
-        21
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:daiphir-legado-de-sangue:controlar-som-terra-5",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "hyphenated_word_split",
-        "lowercase_sentence_after_section_possible_leak",
-        "too_long_possible_merged_blocks"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",
@@ -8520,53 +8380,6 @@
       "qualityFlags": [
         "does_not_end_like_complete_sentence",
         "hyphenated_word_split"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-grimorio-criar-controlar-animais3",
-      "name": "Criar/Controlar Animais3 |",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "page": 59,
-      "entries": [
-        "E Componentes: ver descrição\nE Tempo de Formulação: 15 minutos\nAlcance: ver descrição\n* Efeitos: conjura um animal\n“Duração: 1 dia / nível |\n* Teste de Resistência; nenhum ,\nResistência à à Magia: não.\no Cu Animais mv"
-      ],
-      "tags": [
-        "animalidade",
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        59
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:criar-controlar-animais3",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "starts_mid_sentence_possible_left_cut"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",
@@ -10957,57 +10770,6 @@
       "qualityStatus": "revisar"
     },
     {
-      "id": "magia-grimorio-dano-e-forca",
-      "name": "Dano e Força",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "page": 14,
-      "entries": [
-        "Existem três tipos de dano em magia: o\ndano único, o dano continuo e o dano por\nobjeto encantado.\nDano único é aquele causado uma vez em um ataque. O dano\núnico realizado por magias nunca pode ser superior a 1d6 para c;\nFocus utilizado, não importa que tipo de combinação o mago esteja\nutilizando.\nJobamn utiliza um antigo Ritual asteca para conjurar uma serpente\nalada de fogo (Criar) Controlar Fogo 5). A serpente sai do círenlo de\nconjuração e voa em direção a um oponente, enrolando-o em um abraço de\nfogo causando 5d6 pontos de dano e dissipando-se em seguida.\nO dano contínuo é um pouco mais complicado. Ele é dado\npelo Focus da magia, de acordo com a tabela de danos, até um\nmáximo de 1 ponto de dano por Focus por rodada, mas o dano\ntotal causado por uma magia contínua nunca pode ser maior do\nque 6x Focus da magia. Nesse caso, a magia é dissipada sem causar\ndanos adicionais. Note que este dano total inclui as proteções\ndevidas a Testes de Resistência.\nJakob é atacado pela serpente de fogo (Criar/ Controlar Fogo 5), que o\nabraça em fogo. A cada rodada, a serpente causará 5 pontos de dano (que\nJakob pode resistir com um Teste de CON, que reduzirá o dano para 3). O\nabraço de Jogo continnará até que Jakob consiga escapar de alguma maneira;\naté que 30 pontos de dano sejam feitos ou até que o tempo da Magia (3d6\nrodadas) se esgote.\nEmannnel Castillo, um poderoso mago basco, pode conjurar um\nescudo etéreo de proteção contra balas (Criar/ Controlar Terra 5) ao\nredor de uma pessoa. Esse escudo é apresentado na forma de uma\nespessa névoa com cheiro forte de ferrugem que envolve o mago e absorve\naté 2d6 pontos causados por metal (flechas de ponta de metal ou tiros)\npor rodada, até um máximo de 30 pontos.\nO terceiro tipo de dano mágico é aquele causado por um obje-\nto encantado (por exemplo, as famosas Espadas Flamejantes de\nHefaestus, ou as Lanças Elétricas da Cidade de Prata, ou ainda os\nhorrendos Vômitos Ácidos dos Servos de Luvithy). Neste caso,\no máximo de dano causado varia com a tabela HI,\nporém, o mago que conjurou esses Rituais precisa\nacertar um ataque para que o dano seja causado e,\nmesmo assim, a vítima tem direito a um Teste de\nResistência apropriado.\nSiddig-al- Hassan conjura uma cimitarra de fogo (Cri-\nar/ Controlar Fogo 4). A cimitarra causa 2d6 pontos de\ndano por ataque, mas Siddia precisa acertar os golpes com\nela para efetivamente cansar algum dano. A cimitarra per-\nmanecerá incandescente por 3d6 rodadas.\nA Força que uma magia produz é 1D x\nFocus da magia, no máximo. Ela dura as 3d6\nrodadas de duração do Ritual Essa Força pode\ngerar bônus de dano para ataques físicos.O\nmáximo de dano que uma magia pode causar\né dado pela tabela no final do capítulo.\nMaria Consuelo é uma bruja espanhola que conhece um poderoso Ritual á\nchamado de Garras de Arkanun (Criar/ Controlar Arkanun/ Terra 4),\ncapaz de criar garras de pedra a partir de uma porta ou janela (é necessário\na existência de um vão de passagem para que o Riinal funcione corretamen-\n18). A vítima tem direito a um Teste de AGI para escapar, mas caso falhe,\no Ritual a segura com FR igual a £D.\nContendo e dissipando ataques\nUm mago pode utilizar-se de suas Formas e Caminhos para\ncontrolar, anular ou dissipar um Ritual feito contra sua pessoa ou\ncontra alvos que estejam em seu campo de visão.\nExistem milhões de possibilidades para conter ou anular\nmagias, dependendo do estilo de cada mago (e principalmen-\nte da criatividade de cada Jogador). Para controlar uma miagia\nadversária, o mago precisa ter algum feitiço de proteção ade-\nquado (ou pode tentar uma magia de improviso) capaz de\nafetar o Ritual que ele deseja alterar.\nPara isso, analise o dano ou efeito causado pela magia (geralmente\nexpresso em 1dó para cada Focus empregado) e o efeito do Ritual de\nproteção. Subtraia os valores de ataque e dano e o Mestre saberá\nquanto dano atravessou a proteção. Dois ou mais magos podem\nreunir Rituais de defesa contra uma mesma magia.\nConjurar um Ritual de proteção conta como uma ação durante\na todada; e lembre-se de que, nesse caso, a vtima NO tem direi-\nto a um teste de resistência, caso algum dano consiga atravessar as\nproteções.\nGiulianno Sparsgo cerra seus punhos durante uma tempestade, range\nseus dentes enquanto clama uma antiga oração para Thor e canaliza a\nenergia do deus dos trovões em um raio elétrico (Criar Ar/ Lux 5) em\ndireção a sem oponente, o necromante Lucius.\nAo ver as cargas elétricas rasgarem os céus em sua direção, Lucius uiliza\num velho Ritual babilônico para conter a Magia de Sparso. Lucius conjn-\nra um cajado de ferro altamente ornamentado (que ele já utilizara várias\nvezes durante a Campanha) e o crava no chão, enquanto recita mm antigo\npoema de Marduk (Controlar Terra/ Ar 5). Os raios elétricos são atraídos\npara o cajado e dissipam-se no chão, com um estrondo.\nO Mestre rola o dano que a Magia de Ginlianno faria (24243+3+45 =\n15 pontos) e o Jogador rola o dano que seu Ritual de proteção absorveria\n(1+2+ 4+4+6 = 17), Como o resultado da defesa foi maior que o dano, o\nfeitiço de Lowius conseguiu absorver iodo o dano dos raios elétricos.\nRicci conjura uma bola de fogo através de Rituais wiccas contra Lethicia\n(Criar Fogo 5). Lethicia procura em seu vestido pelos amuletos necessários\npara seu Ritual de proteção. Retira os dois broches de sajiras e os segura\nfirmemente, invocando o poder dos espíritos (Criar/ Controlar Spirit)\nMetamagia +). Sem feitiço de proteção transporta as energias místicas\nofensivas para Spiritum, mas por algum motivo, Lethicia não conseguin\nmanter sua concentração por tempo suficiente e ume parte do calor da bola\nde fogo a atingiu, queimando parte de seu vestido de festa.\nO Mestre rola o dano da bola de fogo (1+3+343+4 = 14) e a Magia\nde proteção de Lethicia consegue converter apenas (2+3+3+3 = 11) parte\ndesse dano. O restante (3 pontos) ultrapassa a proteção do Ritual e cansa\ndano a Lethicia e quem mais estivesse com ela."
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        14,
-        15
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:dano-e-forca",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "does_not_end_like_complete_sentence",
-        "hyphenated_word_split",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
-    },
-    {
       "id": "magia-grimorio-desencantando",
       "name": "Desencantando",
       "area": "magias",
@@ -11050,55 +10812,6 @@
       "qualityFlags": [
         "does_not_end_like_complete_sentence",
         "hyphenated_word_split"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-supers01-despertar",
-      "name": "Despertar",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "supers01",
-      "sourceTitle": "supers01",
-      "page": 5,
-      "entries": [
-        "Np, Raio( x 5m), Duração( x5 rodadas)\nEste poder é a evolução do poder “Animação de objeto”, com este poder você\ndesperta uma figura em especial, fazendo com que elas apareçam no plano\nmaterial. Mas a única desvantagem deste poder é que por exemplo, um livro de\ncriaturas e apenas uma delas esta atacando, ou usando magia só valerá aquela.\nEx.: uma figura que aparece um anão usando um machado aprimorado e\natacando um globin, seu único poder será de ataque com o machado. Não adianta\nvocê dizer ou querer convencer o mestre, a mostrar a figura de Talude e dizer que\npossui uma magia como  a Morte Estrelar.\nNp: Indica o teste de Will para saber se a criatura ficará sobre seu controle, caso\nfalhe terá que esperar até ela sumir.\nRaio: Indica o raio que o monstro pode ficar a partir de seu ponto de animação.\nDuração: Indica quantos turno esta é capaz de ficar, após este termino, ela\ndesaparecerá.\nNovas regras( sugestão):\nPessoal eu e o Phersheu estivemos bolando novas regras para Supers que eu\nacho que todos vocês vão gostar. Serei breve mas espero que entendam e\ncompreendam.\nRegras de Np:\nAs regras de Np do aparece no livro como sendo não obrigatória, mas deveria ser,\nalguns mestres podem gostar desta parte por quê, praticamente os poderes eram\ncontrolados, sem Ter aquele descontrole dos mesmos.\nRegras número 1 – Np obrigatório.\nEntão o valor de Np será obrigatório para cada poder, fazendo com que este seja\ndigamos a perícia do poder. Ex.: Tempestade possui[ Controle de Clima 60,60,53]\nsua chance de acertar o poder seria de 60%.O mestre também pode fazer aquela\nvelha regra de teste fácil, normal e difícil. Assim o controle de clima seria teste fácil\n120%, Normal 60% e Difícil 30%, e o quase impossível 15%.\nRegra número 2- Redutor de porcentagem.\nO valor do Np deverá sempre ser no mínimo a metade do maior valor, de quais\nquer outro atributo do mesmo poder. Se for menor que a metade do número, a\ndiferença será a quantidade de valor negativo que seu personagem tem de acertar\no poder. Ex.: O agente Mésmero possui[ Controle vocal 35,40], a metade do maior\nvalor seria 20, mas ele possui Np 30 ficando com seu valor de teste normal(30%).\nCaso tivesse [Controle vocal 25,60] a metade do valor seria 30, mas ele possui Np\n15 ficando com –15% de chance de acertar, no caso só com acerto crítico(0-0)\nRegra número 3- Gastando PP.\nA cada 10 pontos gastos em Np será considerado um ponto gasto de Ponto de\nPoder, fazendo com que seu personagem não perca ponto em Will e sim em PP.\nRegra número 4 - O que seria o valor do PP.\nO valor de PP seria a soma da Constituição e do Will do personagem dividido por\n2 arredondando para cima. Teria de ser a constituição para mostrar o esforço\nfísico , e o Will representando o valor mental.\nRegra número 5 – Equipamentos\nUma idéia que sugiro ao mestre é quando um de seus companheiros jogadores\nquerer Ter a armadura tipo homem de ferro, faça assim, a cada um ponto gasto o\nequipamento recebe ou 50 pontos de super poder, ou 100 pontos, ficando a cargo\ndo mestre. E este equipamento tem de ser carregado, após algum tempo de uso.\nTodo equipamento pode ser roubado ou destruído, fazendo com que seu\npersonagem desperdice pontos de aprimoramento.\nSuper poder\n1 pts de aprimoramento-100 pts de super poder -30 limite de poder\n2 pts de aprimoramento-150 pts de super poder -35 limite de poder\n3 pts de aprimoramento-200 pts de super poder -40 limite de poder\n4 pts de aprimoramento-200 pts de super poder -45 limite de poder\n5 pts de aprimoramento-250 pts de super poder -50 limite de poder\n6 pts de aprimoramento-300 pts de super poder -60 limite de poder\n7 pts de aprimoramento-400 pts de super poder -70 limite de poder\n8 pts de aprimoramento-450 pts de super poder -80 limite de poder\n9pts de aprimoramento- 500 pts de super poder -90 limite de poder"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        5,
-        6
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:supers01:despertar",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "repeated_fragment_possible_duplication",
-        "too_long_possible_merged_blocks"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",
@@ -14985,53 +14698,6 @@
       "qualityStatus": "revisar"
     },
     {
-      "id": "magia-guiademagias-especial",
-      "name": "Especial",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "guiademagias",
-      "sourceTitle": "guiademagias",
-      "page": 55,
-      "entries": [
-        "e\nMonstruoso.\nAs vantagens e desvantagens mentais\ncontinuam disponíveis ao lançador, a menos\nque estas possuam alguma relação com o\ncorpo. Neste caso, seus efeitos podem ser\nalterados ou mesmo anulados. Por exemplo,\num mago pode utilizar seus poderes mágicos\nnormalmente, mesmo fora de seu corpo\noriginal. Contudo, retomando o exemplo\nacima, como os ogres são inaptos a utilizarem\nmagia arcana, o mago sofrerá redutores em\nseus Focus quando tentar utilizar alguma\nhabilidade mágica.\nA Permuta de Corpos pode ser\nanulada com Cancelamento de Magia ou\nDesejo, ou quando o mago assim quiser."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "powers_magic",
-      "sourceFamilyLabel": "Poderes, magia e rituais",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        55
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:especial",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "starts_mid_sentence_possible_left_cut"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
       "id": "magia-guiademagias-espiritos",
       "name": "Espíritos",
       "area": "magias",
@@ -16944,65 +16610,6 @@
       "qualitySeverity": "warning",
       "presentationStatus": "public",
       "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-grimorio-marcelo-del-debbio",
-      "name": "Marcelo Del Debbio |",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "page": 6,
-      "entries": [
-        "e os rituais REsp\ndefinição de magia segundo D.. Conway, autor do\nlivro Magick of the Gods and Goddesses, é o efeito de\nse retitar energia de um outro plano de existência e,\nmanipulando essa energia através de vibrações, pensamentos\n| e Rituais, realizar efeitos que seriam considerados impossí-\nveis de outra maneir».\nA Cabala\nExistem duas tradições cabalísticas na cultura ocidental; a Caba-\nla Judaica e a Cabala Hermética. Ambas as doutrinas possuem\nmuito em comum, sendo os nomes dos deuses, das ramificações\ne da numerologia envolvidos os mesmos.\nA lenda judaica traz a origem da cabala nas escrituras do\nantigo testamento, dizendo que Deus entregou a cabala a\nMoisés no alto do monte Sinai.\nPara os aesires, ou arianos, a origem da Árvore da Vida\nremonta aos antigos nórdicos. Segundo as lendas, Odin foi o\nprimeiro a descobrir a Árvore Sagrada Yggdrasil e a Roda dos\nNove Mundos, responsável pela circulação da energia mística\nentre os planos de existência.\nSegundo os estudiosos nórdicos, a Árvore ramifica-se em to-\ndos os planos de existência: Aasgard (lar dos deuses), Alfheim\n(lar dos elfos, considerado por muitos apenas como um semi-\nplano que liga a Teri: à Paradísia), Vanaheim (lar dos vanires,\ntambém considerado um semi-plano entre a Terra e Paradísia),\nMidgard (a Terra), Svartalfheim (Sonhar), Nidavellir (Arcádia),\nJotunheim (a Terra dos Gigantes), Hel (Inferno), Arkanun e\nNiflheim (Infernun).\nApós a descoberta da Árvore da Vida, em Paradísia, alguns\nanjos da Cidade de Prata foram enviados a Aasgard para estu-\ndar Yggdrasil. Junto a Hermes e seus filhos, onze anjos ana-\nlisaram e descobriram os poderes da Árvore dos Mundos e\ncada um deles se tornou responsável por um ramo da árvore.\nA ela foi dada o nome de Quabal e dez desses anjos denomi-\nnaram-se sephirab (plural sephiroth). Eram eles Keter (a coroa),\nHochma (a sabedoria), Binah (a compreensão), Hesed (a mi-\nsericórdia), Giburah (a força), Tiferet (a beleza), Netzach (a\nvitória), Hode (o explendor), Yesode (a fundação) e Malkuth\n(o reino). Esses sephiroth estão dispostos de acordo com o\ndiagrama da Árvore Cabalística.\nO Livro da Formação (Sepher Yexirab) é uma coleção de\nversos escritos no século VI, onde a palavra sephiroth aparece\npela primeira vez; para os sábios, o Sepher Yezirab é apenas\num resumo dos ensinamentos antigos da tradição judaica. O\nlivro detalha a criação do universo e a Roda dos Mundos\nrelacionando-os às letras do alfabeto hebraico. O Sepher é um\nlivro complexo, cujo sentido só é completo quando se estuda\no Tarot em conjunto com suas escrituras.\n4\nDurante a Idade Média, as tradições cabalísticas adiciona-\nram o estudo da Gematria ao estudo da Árvore Cabalística.\nGematria, de acordo com Donald Michael Kraig e outros au-\ntores, é um método de se associar números para cada letra do\nalfabeto hebraico; palavras de mesma soma estariam, então,\nassociados de alguma forma.\nDurante o século XIII, outros escritos cabalísticos aparece-\nram na França. Chamado Sepher-ba-babir, esta foi a primeira\nobra a mencionar a “Árvore Sagrada” e a associar as Formas e\nCaminhos à vontade divina.\nApós Isaac, o cego de Narbonne, compilar o estudo dos dez\nsephiroth e dos trinta e dois Caminhos, a cabala passou a ser o\ncentro de estudos das ordens místicas. Durante o século XIV, o\nArcanorum comentou a possibilidade de existir um décimo pri-\nmeiro sephira, conectando a Árvore à outros dez sephiroth negati-\nvos, através do demônio Chorozon.\nA versão tradicional moderna da Árvore da Vida aparece como\nno diagrama ao lado e originou o sistema de magia de Arkanun/\n“Trevas, considerado um dos melhores sistemas de simulação de\nRituais já desenvolvidos.\nOs Triângulos e as formas\nA Árvore da Cabala está dividida em três triângulos, cada um\ncompreendendo três sephiroth. Esta divisão foi proposta durante\no século XIV, mas passou a ser efetivamente utilizada após o\nestudioso do ocultismo John Dee (1527-1608) descobrir as cha-\nves enochianas, enquanto trabalhava com a Golden Dawn. Essas\nchaves, também chamadas de chaves prateadas devido à sua liga-\nção com os anjos de Paradísia, nada mais eram que as combina-\nções de Formas e Caminhos utilizadas pelos sábios herméticos\ndesde a Idade das Trevas.\nCriar\nO ptimeiro triângulo, chamado de Triângulo da Criação, com-\npreende os sephiroh Keter, Hochma e Binah.\nKeter simboliza os deuses da criação, responsáveis pela exis-\ntência é manutenção do universo c os princípios do supremo. Os\ndeuses relacionados a Keter mais conhecidos são Metraton, Ymir,\nChronos, Gaea, Brahma e Shiva.\nHochma, às vezes chamado Chokmah, representa os deuses\npatemos, detentores do poder patriarcal. Os deuses relacionados\nà Hochma mais conhecidos são Zeus, Poseidon, Hades, Amon,\nThot, Odin e outros.\nBinah representa a mãe celestial e os poderes do matri-arcado.\nRepresenta as deusas da criação femininas, como Ísis, Hera, Trigga,\nDemeter, Tiamat e Hecate.\nOs três sephiroth formam o mais alto triângulo cabalístico, res-\nponsável pela Forma Cabalística da Criação.\nE)\nSephiroth IL gs Sa hi\nIuelligence or Spirit E cd ter Highest Wisdom\nSPY õ\nINCA & É\n2 [32 Exibe as Wisdom esu 412\nQaies 20132 Palha. Choal 71 pa\nêla Deleth AS 3,\nsa Srs\nTables of|Z| Moses\n&| HO AR\nE a é 5 R\nO E | — É\n1 E / a Fepirea\nVhe Law 3 | Moses i SIM\neles or [E | ienal Lawr E ze deito\nÉ do fo Ze\nÊ sho [GEL\nTeih K ETA ç N\nbetwren Merçy and ag pAustica “iu ID\n51»\npo |\nÉ\nÉ\naa E\ncepas\na em\né Sephiroth VIL\nBO -ANVictory\nIR AS\ng Ty K Samech Pe fa ) an?\nEA 1? 1H Chamel befiesan Vistory amd Honor Csmmati| “E é e\ny 4 3\n5, nf re Rodeio [gl STS gi\n«e “o, Va) ephiro\nRj “u “Un e\nEC AS 7\nE » bs 7) slesod an\nSo NAL ar\npede ui Qu fá\nSALOMONIS Cie sz\n(CITATIO)\n(nessas)\n1\nDÊ convento Sephiroth X)A\nHETVAVYOMAR.HA.ELOHE Ty\nELONIM.ASCHER TYWORE pa Ta\nINYTHALE.CHUABOTALLEP e\nHA NAVABRAHAMVETS.HA\nEntender\nOs três sephiroth centrais formam o Triângulo da Compreen-\nsão, ou do Entendimento e incluem os sephiroth Hesed, Giburah\neTiferet.\nHesed representa o grande amor, a piedade e a glória. Seus\ndeuses principais eram os que representavam a justiça divina e\nimparcial, como Forseti, Heimdall, as Nornes, Tyx, Osíris, Bhahma\n(a face justa) e outros.\nGiburah representa a força através da justiça. Também repre-\nsenta os deuses da guerra e das batalhas em todas as principais\nculturas. Os deuses relacionados à Giburah são Thor, Ares,\nHefaestus, Kali e Horns, entre outros.\nTiferet, ou O sephirat central, representa o amor, à harmonia e a\nmajestade. A ele estão relacionados os deuses do sol, curandeiros ou\niluminados: Osíris, Apolo, Helios, Adonis, Bran, Amaterasu, Mitras\nentre outros."
-      ],
-      "tags": [
-        "angelico",
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "demonico",
-        "fada",
-        "magia",
-        "magias",
-        "mental",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        6,
-        7,
-        8,
-        9
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:marcelo-del-debbio",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "critical_ocr_gibberish",
-        "does_not_end_like_complete_sentence",
-        "hyphenated_word_split",
-        "page_number_inside_text",
-        "starts_mid_sentence_possible_left_cut",
-        "unbalanced_brackets",
-        "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "critical",
-      "presentationStatus": "quarantine",
-      "qualityStatus": "quarentena"
     },
     {
       "id": "magia-inquisicao-biblioteca-elfica-mau-olhado",
@@ -18982,53 +18589,6 @@
         "does_not_end_like_complete_sentence",
         "hyphenated_word_split",
         "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-grimorio-superficie-espelhada",
-      "name": "Superfície Espelhada",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "grimorio",
-      "sourceTitle": "Grimorio",
-      "page": 22,
-      "entries": [
-        ", 2º Círculo .\nArma de Prata É\nArmadura de Aranhas .\n“Chave Mestra\n* Dentes de Ferro\nConjurar Acther Spirit\nCriação de Zumbis Asimani.\ne de Citorak"
-      ],
-      "tags": [
-        "auto-extraido",
-        "caminho",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        22
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:superficie-espelhada",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-source,magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "starts_mid_sentence_possible_left_cut"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",

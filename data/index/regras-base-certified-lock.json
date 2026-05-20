@@ -107,15 +107,6 @@
       "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:angelicais"
     },
     {
-      "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-regras-e-testes-65",
-      "source": "anjos-a-cidade-de-prata",
-      "name": "REGRAS e TESTES",
-      "nameKey": "regras-e-testes",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:regras-e-testes"
-    },
-    {
       "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-teste-de-resistencia-67",
       "source": "anjos-a-cidade-de-prata",
       "name": "TESTE DE RESISTÊNCIA",
@@ -123,15 +114,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:teste-de-resistencia"
-    },
-    {
-      "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-indice-de-prteca-ip-70",
-      "source": "anjos-a-cidade-de-prata",
-      "name": "ÍNDICE DÊ PR®TECÃ® (IP)",
-      "nameKey": "indice-de-prteca-ip",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:indice-de-prteca-ip"
     },
     {
       "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-cenceittes-basicos-5",
@@ -161,15 +143,6 @@
       "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:atributos-basicos"
     },
     {
-      "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-pederes-angelicais-65",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "name": "PeDERES ANGELICAIS",
-      "nameKey": "pederes-angelicais",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:pederes-angelicais"
-    },
-    {
       "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-iluminacao-73",
       "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
       "name": "ILUMINAÇÃO",
@@ -177,15 +150,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:iluminacao"
-    },
-    {
-      "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-protecao-77",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "name": "PROTECÃO",
-      "nameKey": "protecao",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:protecao"
     },
     {
       "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-telecinesia-79",
@@ -213,15 +177,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:teste-de-resistencia"
-    },
-    {
-      "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-indice-de-protecao-ip-90",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "name": "ÍNDICE DE PROTEÇÃO [IP)",
-      "nameKey": "indice-de-protecao-ip",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:indice-de-protecao-ip"
     },
     {
       "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-venenos-94",
@@ -314,15 +269,6 @@
       "certificationId": "regras-base-lock:aprimoramentostormenta:conhecimento-de-magia"
     },
     {
-      "id": "regra-arcanis-arcanis-capitulo-03-cabalas-dos-arcanis-8",
-      "source": "arcanis",
-      "name": "Capítulo 03- Cabalas dos Arcanis",
-      "nameKey": "capitulo-03-cabalas-dos-arcanis",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arcanis:capitulo-03-cabalas-dos-arcanis"
-    },
-    {
       "id": "regra-ark-a-nun-arquivos-de-bel-kalaa-ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-1",
       "source": "ark-a-nun-arquivos-de-bel-kalaa",
       "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (39-48)",
@@ -375,24 +321,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:arkanun:a-mibucos"
-    },
-    {
-      "id": "regra-arkanun-arkanun-cl-meros-de-efeste-24",
-      "source": "arkanun",
-      "name": "Çl'@meros de êfeste",
-      "nameKey": "cl-meros-de-efeste",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arkanun:cl-meros-de-efeste"
-    },
-    {
-      "id": "regra-arkanun-arkanun-e-etiqueta-car-62",
-      "source": "arkanun",
-      "name": "e.Etiqueta (car)*",
-      "nameKey": "e-etiqueta-car",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arkanun:e-etiqueta-car"
     },
     {
       "id": "regra-arkanun-arkanun-sx-ano-ras-de-combate-63",
@@ -483,15 +411,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:arkanun-1e-ultra-raro:atributos-basicos"
-    },
-    {
-      "id": "regra-arkanun-1e-ultra-raro-arkanun-1e-ultra-raro-pericias-com-28",
-      "source": "arkanun-1e-ultra-raro",
-      "name": "Perícias com",
-      "nameKey": "pericias-com",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arkanun-1e-ultra-raro:pericias-com"
     },
     {
       "id": "regra-arkanun-1e-ultra-raro-arkanun-1e-ultra-raro-testes-44",
@@ -654,24 +573,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:armas-de-fogo:armas-de-fogo"
-    },
-    {
-      "id": "regra-armas-de-fogo-armas-de-fogo-armas-longas-5",
-      "source": "armas-de-fogo",
-      "name": "Armas Longas",
-      "nameKey": "armas-longas",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:armas-de-fogo:armas-longas"
-    },
-    {
-      "id": "regra-armas-de-fogo-armas-de-fogo-dano-7",
-      "source": "armas-de-fogo",
-      "name": "Dano",
-      "nameKey": "dano",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:armas-de-fogo:dano"
     },
     {
       "id": "regra-armas-de-fogo-armas-de-fogo-novas-10",
@@ -881,15 +782,6 @@
       "certificationId": "regras-base-lock:arte-da-guerra:tecnicas-de-combate"
     },
     {
-      "id": "regra-arte-da-guerra-arte-da-guerra-regras-dano-17",
-      "source": "arte-da-guerra",
-      "name": "REGRAS : DANO",
-      "nameKey": "regras-dano",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arte-da-guerra:regras-dano"
-    },
-    {
       "id": "regra-arte-da-guerra-arte-da-guerra-regras-chi-20",
       "source": "arte-da-guerra",
       "name": "Regras : CHI",
@@ -897,15 +789,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:arte-da-guerra:regras-chi"
-    },
-    {
-      "id": "regra-arte-da-guerra-arte-da-guerra-poderes-misticos-23",
-      "source": "arte-da-guerra",
-      "name": "PODERES MÍSTICOS",
-      "nameKey": "poderes-misticos",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:arte-da-guerra:poderes-misticos"
     },
     {
       "id": "regra-artes-marciais-artes-marciais-novas-pericias-para-artes-marciais-1",
@@ -1005,15 +888,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:atributos:percepcao"
-    },
-    {
-      "id": "regra-atributos-atributos-idade-13",
-      "source": "atributos",
-      "name": "Idade",
-      "nameKey": "idade",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:atributos:idade"
     },
     {
       "id": "regra-atributos-atributos-seres-e-objetos-15",
@@ -1196,15 +1070,6 @@
       "certificationId": "regras-base-lock:corondor:pontos-de-vida-iniciais-12"
     },
     {
-      "id": "regra-cura-cura-cura-de-skady-7",
-      "source": "cura",
-      "name": "Cura de Skady",
-      "nameKey": "cura-de-skady",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:cura:cura-de-skady"
-    },
-    {
       "id": "regra-daemon-anime-rpg-daemon-anime-rpg-conceito-baico-7",
       "source": "daemon-anime-rpg",
       "name": "Conceito• Bá•ico•",
@@ -1221,15 +1086,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:daemon-anime-rpg:pontos-de-pericias"
-    },
-    {
-      "id": "regra-daemon-anime-rpg-daemon-anime-rpg-kit-17",
-      "source": "daemon-anime-rpg",
-      "name": "Kit•",
-      "nameKey": "kit",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-anime-rpg:kit"
     },
     {
       "id": "regra-daemon-anime-rpg-daemon-anime-rpg-atributo-27",
@@ -1259,15 +1115,6 @@
       "certificationId": "regras-base-lock:daemon-anime-rpg:contatos-e-aliados"
     },
     {
-      "id": "regra-daemon-anime-rpg-daemon-anime-rpg-assombrado-42",
-      "source": "daemon-anime-rpg",
-      "name": "Assombrado",
-      "nameKey": "assombrado",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-anime-rpg:assombrado"
-    },
-    {
       "id": "regra-daemon-anime-rpg-daemon-anime-rpg-ferra-fria-44",
       "source": "daemon-anime-rpg",
       "name": "Ferra Fria",
@@ -1293,15 +1140,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:daemon-anime-rpg:pericia"
-    },
-    {
-      "id": "regra-daemon-anime-rpg-daemon-anime-rpg-camut-lagem-per-51",
-      "source": "daemon-anime-rpg",
-      "name": "Camut'lagem {PER}",
-      "nameKey": "camut-lagem-per",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-anime-rpg:camut-lagem-per"
     },
     {
       "id": "regra-daemon-anime-rpg-daemon-anime-rpg-conducao-agi-54",
@@ -1412,24 +1250,6 @@
       "certificationId": "regras-base-lock:daemon-anime-rpg:ataque5-fora-de-alcance"
     },
     {
-      "id": "regra-daemon-anime-rpg-daemon-anime-rpg-ataque-total-111",
-      "source": "daemon-anime-rpg",
-      "name": "Ataque Total",
-      "nameKey": "ataque-total",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-anime-rpg:ataque-total"
-    },
-    {
-      "id": "regra-daemon-anime-rpg-daemon-anime-rpg-combate-nao-mortal-113",
-      "source": "daemon-anime-rpg",
-      "name": "Combate não Mortal",
-      "nameKey": "combate-nao-mortal",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-anime-rpg:combate-nao-mortal"
-    },
-    {
       "id": "regra-daemon-anime-rpg-daemon-anime-rpg-venenos-114",
       "source": "daemon-anime-rpg",
       "name": "Venenos",
@@ -1493,15 +1313,6 @@
       "certificationId": "regras-base-lock:daemon-medieval:capitulo-8-armas-e-equipamentos"
     },
     {
-      "id": "regra-daemon-medieval-daemon-medieval-capitulo-10-60",
-      "source": "daemon-medieval",
-      "name": "Capítulo 10",
-      "nameKey": "capitulo-10",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-medieval:capitulo-10"
-    },
-    {
       "id": "regra-daemon-revisado-playtest-alfa-3-6-daemon-revisado-playtest-alfa-3-6-criacao-de-personagens-4",
       "source": "daemon-revisado-playtest-alfa-3-6",
       "name": "CRIAÇÃO DE PERSONAGENS",
@@ -1563,15 +1374,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:daemon-revisado-playtest-alfa-3-6:nome"
-    },
-    {
-      "id": "regra-daemon-sem-nivel-daemon-sem-nivel-sistema-daemon-sem-nivel-1",
-      "source": "daemon-sem-nivel",
-      "name": "Sistema Daemon sem nível",
-      "nameKey": "sistema-daemon-sem-nivel",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-sem-nivel:sistema-daemon-sem-nivel"
     },
     {
       "id": "regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-3",
@@ -1682,15 +1484,6 @@
       "certificationId": "regras-base-lock:daemon-tormenta:tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-161-170"
     },
     {
-      "id": "regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-18",
-      "source": "daemon-tormenta",
-      "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (171-180)",
-      "nameKey": "tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-171-180",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:daemon-tormenta:tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-171-180"
-    },
-    {
       "id": "regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19",
       "source": "daemon-tormenta",
       "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)",
@@ -1752,15 +1545,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:dbz-rpg:editorial"
-    },
-    {
-      "id": "regra-dbz-rpg-dbz-rpg-passo-3-atributos-7",
-      "source": "dbz-rpg",
-      "name": "Passo 3: Atributos",
-      "nameKey": "passo-3-atributos",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:dbz-rpg:passo-3-atributos"
     },
     {
       "id": "regra-dbz-rpg-dbz-rpg-atributos-fisicos-8",
@@ -2006,15 +1790,6 @@
       "certificationId": "regras-base-lock:demonios-a-divina-comedia:adicionando-pericias"
     },
     {
-      "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-custo-forca-alcance-dano-71",
-      "source": "demonios-a-divina-comedia",
-      "name": "Custo Força Alcance Dano",
-      "nameKey": "custo-forca-alcance-dano",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:demonios-a-divina-comedia:custo-forca-alcance-dano"
-    },
-    {
       "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-fraquezas-74",
       "source": "demonios-a-divina-comedia",
       "name": "FRAQUEZAS",
@@ -2022,15 +1797,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:demonios-a-divina-comedia:fraquezas"
-    },
-    {
-      "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-regras-e-testes-110",
-      "source": "demonios-a-divina-comedia",
-      "name": "REGRAS E TESTES",
-      "nameKey": "regras-e-testes",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:demonios-a-divina-comedia:regras-e-testes"
     },
     {
       "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-atributo-vs-atributo-111",
@@ -2049,15 +1815,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:demonios-a-divina-comedia:teste-de-resistencia"
-    },
-    {
-      "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-iniciativa-negativa-114",
-      "source": "demonios-a-divina-comedia",
-      "name": "INICIATIVA NEGATIVA",
-      "nameKey": "iniciativa-negativa",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:demonios-a-divina-comedia:iniciativa-negativa"
     },
     {
       "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-posicao-desvantajosa-118",
@@ -2096,15 +1853,6 @@
       "certificationId": "regras-base-lock:devilmaycry:itens-magicos"
     },
     {
-      "id": "regra-dragao-brasil-especial-06-trevas-dragao-brasil-especial-06-trevas-as-regras-do-jogo-6",
-      "source": "dragao-brasil-especial-06-trevas",
-      "name": "AS REGRAS DO JOGO",
-      "nameKey": "as-regras-do-jogo",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:dragao-brasil-especial-06-trevas:as-regras-do-jogo"
-    },
-    {
       "id": "regra-dragao-brasil-especial-06-trevas-dragao-brasil-especial-06-trevas-atributos-basicos-8",
       "source": "dragao-brasil-especial-06-trevas",
       "name": "ATRIBUTOS BASICOS",
@@ -2132,11 +1880,11 @@
       "certificationId": "regras-base-lock:dragao-brasil-especial-06-trevas:a-for-a-da-magia"
     },
     {
-      "id": "regra-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-48",
+      "id": "regra-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-50",
       "source": "dragoes-reis-caidos-sistema-daemon",
       "name": "Dragões: Reis Caídos",
       "nameKey": "dragoes-reis-caidos",
-      "category": "attribute_skill",
+      "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:dragoes-reis-caidos-sistema-daemon:dragoes-reis-caidos"
     },
@@ -2177,15 +1925,6 @@
       "certificationId": "regras-base-lock:escudos02:escudos"
     },
     {
-      "id": "regra-escudos02-escudos02-manobras-de-combate-2",
-      "source": "escudos02",
-      "name": "Manobras de Combate",
-      "nameKey": "manobras-de-combate",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:escudos02:manobras-de-combate"
-    },
-    {
       "id": "regra-evolucao-alternativa-evolucao-alternativa-evolucao-alternativa-1",
       "source": "evolucao-alternativa",
       "name": "Evolução Alternativa",
@@ -2202,15 +1941,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:evolucao-alternativa:investindo-os-pontos-de-treino"
-    },
-    {
-      "id": "regra-evolucao-alternativa-evolucao-alternativa-atributo-base-11",
-      "source": "evolucao-alternativa",
-      "name": "ATRIBUTO BASE",
-      "nameKey": "atributo-base",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:evolucao-alternativa:atributo-base"
     },
     {
       "id": "regra-fadadaluz-fadadaluz-poderes-arcadianos-2",
@@ -2301,15 +2031,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:gerador-de-criaturas:caracteristicas-de-ataque"
-    },
-    {
-      "id": "regra-gerador-de-criaturas-gerador-de-criaturas-elementos-secundarios-72",
-      "source": "gerador-de-criaturas",
-      "name": "ELEMENTOS SECUNDÁRIOS",
-      "nameKey": "elementos-secundarios",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:gerador-de-criaturas:elementos-secundarios"
     },
     {
       "id": "regra-gerador-de-criaturas-gerador-de-criaturas-desvantagens-84",
@@ -2420,15 +2141,6 @@
       "certificationId": "regras-base-lock:grimorio:absorcao-mistica"
     },
     {
-      "id": "regra-grimorio-grimorio-duracao-uma-cena-d-31",
-      "source": "grimorio",
-      "name": "Duração: uma cena (D)",
-      "nameKey": "duracao-uma-cena-d",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:grimorio:duracao-uma-cena-d"
-    },
-    {
       "id": "regra-grimorio-grimorio-cabana-de-trevas-46",
       "source": "grimorio",
       "name": "Cabana de Trevas",
@@ -2445,15 +2157,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:grimorio:controle-de-emocoes"
-    },
-    {
-      "id": "regra-grimorio-grimorio-duracao-1-semana-69",
-      "source": "grimorio",
-      "name": "Duração: 1 semana",
-      "nameKey": "duracao-1-semana",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:grimorio:duracao-1-semana"
     },
     {
       "id": "regra-grimorio-grimorio-teste-de-resistencia-nenhum-87",
@@ -2528,15 +2231,6 @@
       "certificationId": "regras-base-lock:guerra-de-monstros:poderes-naturais"
     },
     {
-      "id": "regra-guerreiros-orientais-guerreiros-orientais-agilidade-agi-29",
-      "source": "guerreiros-orientais",
-      "name": "Agilidade (AGI)",
-      "nameKey": "agilidade-agi",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guerreiros-orientais:agilidade-agi"
-    },
-    {
       "id": "regra-guerreiros-orientais-guerreiros-orientais-causando-40",
       "source": "guerreiros-orientais",
       "name": "causando",
@@ -2573,24 +2267,6 @@
       "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:advantage-arms-422"
     },
     {
-      "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-amt-longside-29",
-      "source": "guia-de-armas-de-fogo-3a-edicao",
-      "name": "AMT Longside",
-      "nameKey": "amt-longside",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:amt-longside"
-    },
-    {
-      "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-bersa-226-da-33",
-      "source": "guia-de-armas-de-fogo-3a-edicao",
-      "name": "Bersa 226 DA",
-      "nameKey": "bersa-226-da",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:bersa-226-da"
-    },
-    {
       "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-bersa-383-34",
       "source": "guia-de-armas-de-fogo-3a-edicao",
       "name": "Bersa 383",
@@ -2616,15 +2292,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:detonics-pocket"
-    },
-    {
-      "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-seecap-11-stainless-52",
-      "source": "guia-de-armas-de-fogo-3a-edicao",
-      "name": "SeeCap 11 Stainless",
-      "nameKey": "seecap-11-stainless",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:seecap-11-stainless"
     },
     {
       "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-american-derrinqer-model-3-59",
@@ -2663,15 +2330,6 @@
       "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:remington-870"
     },
     {
-      "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-winchester-1300-92",
-      "source": "guia-de-armas-de-fogo-3a-edicao",
-      "name": "Winchester 1300",
-      "nameKey": "winchester-1300",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:winchester-1300"
-    },
-    {
       "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-ljutic-space-rifle-97",
       "source": "guia-de-armas-de-fogo-3a-edicao",
       "name": "Ljutic Space Rifle",
@@ -2697,15 +2355,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:curps"
-    },
-    {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-faca-a-14",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Faca a",
-      "nameKey": "faca-a",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:faca-a"
     },
     {
       "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-florete-de-magos-r-26",
@@ -2769,24 +2418,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:machados"
-    },
-    {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-rear-aa-pa-a-os-36",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "REAR AA PA A OS",
-      "nameKey": "rear-aa-pa-a-os",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:rear-aa-pa-a-os"
-    },
-    {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-mangual-duplo-45",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Mangual Duplo",
-      "nameKey": "mangual-duplo",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:mangual-duplo"
     },
     {
       "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-sah-46",
@@ -2888,15 +2519,6 @@
       "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:escudo-pequeno"
     },
     {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-escudo-metalico-95",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Escudo Metálico",
-      "nameKey": "escudo-metalico",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:escudo-metalico"
-    },
-    {
       "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-4-escudo-medio-96",
       "source": "guia-de-armas-medievais-3a-edicao",
       "name": "4 Escudo Médio",
@@ -2922,15 +2544,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:espada-longa-periodo-koto"
-    },
-    {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-cimitarra-indiana-108",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Cimitarra Indiana",
-      "nameKey": "cimitarra-indiana",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:cimitarra-indiana"
     },
     {
       "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-tien-espada-reta-109",
@@ -2996,24 +2609,6 @@
       "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:ss-han-kyu"
     },
     {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-naginata-117",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Naginata",
-      "nameKey": "naginata",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:naginata"
-    },
-    {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-tridente-chines-121",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Tridente Chinês",
-      "nameKey": "tridente-chines",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:tridente-chines"
-    },
-    {
       "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-kami-shimo-123",
       "source": "guia-de-armas-medievais-3a-edicao",
       "name": "Kami Shimo",
@@ -3050,15 +2645,6 @@
       "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:cimitarra-curta"
     },
     {
-      "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-garfo-persa-de-exercito-135",
-      "source": "guia-de-armas-medievais-3a-edicao",
-      "name": "Garfo Persa de Exército",
-      "nameKey": "garfo-persa-de-exercito",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:garfo-persa-de-exercito"
-    },
-    {
       "id": "regra-guia-de-classes-de-prestigio-biblioteca-elfica-guia-de-classes-de-prestigio-biblioteca-elfica-como-asar-este-o-5",
       "source": "guia-de-classes-de-prestigio-biblioteca-elfica",
       "name": "Como <asar 'Este ~o",
@@ -3075,15 +2661,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-classes-de-prestigio-biblioteca-elfica:amazona"
-    },
-    {
-      "id": "regra-guia-de-classes-de-prestigio-biblioteca-elfica-guia-de-classes-de-prestigio-biblioteca-elfica-berserker-20",
-      "source": "guia-de-classes-de-prestigio-biblioteca-elfica",
-      "name": "Berserker",
-      "nameKey": "berserker",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-classes-de-prestigio-biblioteca-elfica:berserker"
     },
     {
       "id": "regra-guia-de-classes-de-prestigio-biblioteca-elfica-guia-de-classes-de-prestigio-biblioteca-elfica-clerigo-do-deus-da-tirania-41",
@@ -3248,15 +2825,6 @@
       "certificationId": "regras-base-lock:guia-de-itens-magicos:ampulheta-explosiva"
     },
     {
-      "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-arco-magico-47",
-      "source": "guia-de-itens-magicos",
-      "name": "Arco Magico",
-      "nameKey": "arco-magico",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-itens-magicos:arco-magico"
-    },
-    {
       "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-arma-das-trevas-49",
       "source": "guia-de-itens-magicos",
       "name": "Arma das Trevas",
@@ -3264,15 +2832,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-itens-magicos:arma-das-trevas"
-    },
-    {
-      "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-armadura-magica-52",
-      "source": "guia-de-itens-magicos",
-      "name": "Armadura Magica",
-      "nameKey": "armadura-magica",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-itens-magicos:armadura-magica"
     },
     {
       "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-balsamo-de-curas-58",
@@ -3300,15 +2859,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:guia-de-itens-magicos:braceletes-de-ancoragem"
-    },
-    {
-      "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-brincos-do-doppelganger-75",
-      "source": "guia-de-itens-magicos",
-      "name": "Brincos do Doppelganger",
-      "nameKey": "brincos-do-doppelganger",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guia-de-itens-magicos:brincos-do-doppelganger"
     },
     {
       "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-escudo-x-108",
@@ -3563,15 +3113,6 @@
       "certificationId": "regras-base-lock:guiademagias:lista-de-magias-4-13"
     },
     {
-      "id": "regra-guiademagias-guiademagias-lista-de-magias-4-2",
-      "source": "guiademagias",
-      "name": "LISTA DE MAGIAS (14-23)",
-      "nameKey": "lista-de-magias-14-23",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:guiademagias:lista-de-magias-14-23"
-    },
-    {
       "id": "regra-guiademagias-guiademagias-lista-de-magias-4-4",
       "source": "guiademagias",
       "name": "LISTA DE MAGIAS (34-43)",
@@ -3633,15 +3174,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:imortal:sombras-do-passado"
-    },
-    {
-      "id": "regra-imortal-imortal-lexico-15",
-      "source": "imortal",
-      "name": "LEXICO",
-      "nameKey": "lexico",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:lexico"
     },
     {
       "id": "regra-imortal-imortal-tabela-de-pontos-46",
@@ -3743,15 +3275,6 @@
       "certificationId": "regras-base-lock:imortal:nivels"
     },
     {
-      "id": "regra-imortal-imortal-taj-do-82",
-      "source": "imortal",
-      "name": "TAJ-DO",
-      "nameKey": "taj-do",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:taj-do"
-    },
-    {
       "id": "regra-imortal-imortal-vicor-83",
       "source": "imortal",
       "name": "VICOR",
@@ -3759,15 +3282,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:imortal:vicor"
-    },
-    {
-      "id": "regra-imortal-imortal-njvelj-84",
-      "source": "imortal",
-      "name": "NJVELJ",
-      "nameKey": "njvelj",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:njvelj"
     },
     {
       "id": "regra-imortal-imortal-sucesso-e-fracasso-98",
@@ -3788,15 +3302,6 @@
       "certificationId": "regras-base-lock:imortal:serao-discutidos-mais-adiante-nesse-capitulo"
     },
     {
-      "id": "regra-imortal-imortal-inicia-tiva-nega-tiva-101",
-      "source": "imortal",
-      "name": "INICIA TIVA NEGA TIVA",
-      "nameKey": "inicia-tiva-nega-tiva",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:inicia-tiva-nega-tiva"
-    },
-    {
       "id": "regra-imortal-imortal-ataque-total-106",
       "source": "imortal",
       "name": "ATAQUE TOTAL",
@@ -3804,24 +3309,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:imortal:ataque-total"
-    },
-    {
-      "id": "regra-imortal-imortal-experiencia-110",
-      "source": "imortal",
-      "name": "EXPERIÊNCIA",
-      "nameKey": "experiencia",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:experiencia"
-    },
-    {
-      "id": "regra-imortal-imortal-metodo-3-por-pontos-112",
-      "source": "imortal",
-      "name": "METODO 3 - POR PONTOS",
-      "nameKey": "metodo-3-por-pontos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:imortal:metodo-3-por-pontos"
     },
     {
       "id": "regra-imortal-imortal-elexorien-sword-of-war-127",
@@ -3851,15 +3338,6 @@
       "certificationId": "regras-base-lock:imortal-a-centelha-2:guerreiro-nato"
     },
     {
-      "id": "regra-inquisicao-biblioteca-elfica-inquisicao-biblioteca-elfica-criacao-de-pets-pagem-9",
-      "source": "inquisicao-biblioteca-elfica",
-      "name": "Criação de Pets,~pagem",
-      "nameKey": "criacao-de-pets-pagem",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:inquisicao-biblioteca-elfica:criacao-de-pets-pagem"
-    },
-    {
       "id": "regra-inquisicao-biblioteca-elfica-inquisicao-biblioteca-elfica-pontos-heroicos-29",
       "source": "inquisicao-biblioteca-elfica",
       "name": "Pontos Heróicos",
@@ -3878,15 +3356,6 @@
       "certificationId": "regras-base-lock:ismails-anjos-islamicos:personagens-ismails"
     },
     {
-      "id": "regra-kidous-arte-das-trevas-kidous-arte-das-trevas-ao-leitor-3",
-      "source": "kidous-arte-das-trevas",
-      "name": "AO LEITOR",
-      "nameKey": "ao-leitor",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:kidous-arte-das-trevas:ao-leitor"
-    },
-    {
       "id": "regra-kidous-arte-das-trevas-kidous-arte-das-trevas-arte-das-trevas-kidous-4",
       "source": "kidous-arte-das-trevas",
       "name": "ARTE DAS TREVAS – KIDOUS",
@@ -3903,15 +3372,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:kidous-arte-das-trevas:efeitos-de-kidous"
-    },
-    {
-      "id": "regra-kidous-arte-das-trevas-kidous-arte-das-trevas-matematica-de-jogo-21",
-      "source": "kidous-arte-das-trevas",
-      "name": "MATEMÁTICA DE JOGO",
-      "nameKey": "matematica-de-jogo",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:kidous-arte-das-trevas:matematica-de-jogo"
     },
     {
       "id": "regra-kits-arton-kits-arton-guia-de-kits-de-arton-1",
@@ -3986,15 +3446,6 @@
       "certificationId": "regras-base-lock:kits-orientais:rank-a"
     },
     {
-      "id": "regra-livrodomal-livrodomal-segunda-visao-17",
-      "source": "livrodomal",
-      "name": "Segunda Visão",
-      "nameKey": "segunda-visao",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:livrodomal:segunda-visao"
-    },
-    {
       "id": "regra-livrodomal-livrodomal-nota-dos-autores-26",
       "source": "livrodomal",
       "name": "Nota dos Autores",
@@ -4065,15 +3516,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:loucura:6lwxd-hv-gh-rxfxud"
-    },
-    {
-      "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luiz-antonio-rech-wachelke-2",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "name": "Luiz Antonio Rech Wachelke",
-      "nameKey": "luiz-antonio-rech-wachelke",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:luiz-antonio-rech-wachelke"
     },
     {
       "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-a-magia-5",
@@ -4175,24 +3617,6 @@
       "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:resistencia"
     },
     {
-      "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideravel-e-empunhe-uma-espada-72",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "name": "considerável e empunhe uma espada",
-      "nameKey": "consideravel-e-empunhe-uma-espada",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:consideravel-e-empunhe-uma-espada"
-    },
-    {
-      "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-atributos-basicos-75",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "name": "Atributos Básicos",
-      "nameKey": "atributos-basicos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:atributos-basicos"
-    },
-    {
       "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-funcoes-devera-comprar-apenas-a-80",
       "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
       "name": "funções deverá “comprar” apenas a",
@@ -4283,15 +3707,6 @@
       "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:personagens"
     },
     {
-      "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-vamos-116",
-      "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-      "name": "Vamos",
-      "nameKey": "vamos",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:vamos"
-    },
-    {
       "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-saga-119",
       "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
       "name": "Saga.",
@@ -4335,24 +3750,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:mago-sistema-daemon:magia-em-magika"
-    },
-    {
-      "id": "regra-manobras-de-combate-manobras-de-combate-manobras-de-combate-1",
-      "source": "manobras-de-combate",
-      "name": "MANOBRAS DE COMBATE",
-      "nameKey": "manobras-de-combate",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:manobras-de-combate:manobras-de-combate"
-    },
-    {
-      "id": "regra-manobras-de-combate-manobras-de-combate-arma-dupla-2",
-      "source": "manobras-de-combate",
-      "name": "ARMA DUPLA",
-      "nameKey": "arma-dupla",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:manobras-de-combate:arma-dupla"
     },
     {
       "id": "regra-manobras-de-combate-manobras-de-combate-ferir-pernas-4",
@@ -4436,15 +3833,6 @@
       "certificationId": "regras-base-lock:manual-de-converscao:capitulo-vii-pontos-heroicos-e-misticos"
     },
     {
-      "id": "regra-marvel-marvel-pontos-heroicos-33",
-      "source": "marvel",
-      "name": "PONTOS HERÓICOS",
-      "nameKey": "pontos-heroicos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:marvel:pontos-heroicos"
-    },
-    {
       "id": "regra-marvel-marvel-resistencia-dos-materiais-58",
       "source": "marvel",
       "name": "RESISTÊNCIA DOS MATERIAIS",
@@ -4461,15 +3849,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:marvel:experiencia"
-    },
-    {
-      "id": "regra-marvel-marvel-regras-super-poder-65",
-      "source": "marvel",
-      "name": "REGRAS : SUPER PODER",
-      "nameKey": "regras-super-poder",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:marvel:regras-super-poder"
     },
     {
       "id": "regra-marvel-marvel-habilidades-68",
@@ -4544,15 +3923,6 @@
       "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:conceitos-basicos"
     },
     {
-      "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-pontos-heroicos-36",
-      "source": "marvel-rpg-7o-edicao",
-      "name": "PONTOS HERÓICOS",
-      "nameKey": "pontos-heroicos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:pontos-heroicos"
-    },
-    {
       "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-pericias-comuns-40",
       "source": "marvel-rpg-7o-edicao",
       "name": "PERÍCIAS COMUNS",
@@ -4596,24 +3966,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:experiencia"
-    },
-    {
-      "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-regras-super-poder-89",
-      "source": "marvel-rpg-7o-edicao",
-      "name": "REGRAS : SUPER PODER",
-      "nameKey": "regras-super-poder",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:regras-super-poder"
-    },
-    {
-      "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-proezas-93",
-      "source": "marvel-rpg-7o-edicao",
-      "name": "PROEZAS",
-      "nameKey": "proezas",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:proezas"
     },
     {
       "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-limites-94",
@@ -4706,15 +4058,6 @@
       "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:ataques-1-ip-0-pvs-8"
     },
     {
-      "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-senso-numerico-28",
-      "source": "modulo-basico-expandido-e-modificado",
-      "name": "Senso Numérico",
-      "nameKey": "senso-numerico",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:senso-numerico"
-    },
-    {
       "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-dupla-personalidade-33",
       "source": "modulo-basico-expandido-e-modificado",
       "name": "Dupla Personalidade",
@@ -4742,15 +4085,6 @@
       "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:percias"
     },
     {
-      "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-armas-de-feixe-dex-42",
-      "source": "modulo-basico-expandido-e-modificado",
-      "name": "Armas de Feixe* (DEX)",
-      "nameKey": "armas-de-feixe-dex",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:armas-de-feixe-dex"
-    },
-    {
       "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-dex-dex-44",
       "source": "modulo-basico-expandido-e-modificado",
       "name": "(DEX/DEX).",
@@ -4769,24 +4103,6 @@
       "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:camuflagem-per"
     },
     {
-      "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-recursos-53",
-      "source": "modulo-basico-expandido-e-modificado",
-      "name": "recursos....",
-      "nameKey": "recursos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:recursos"
-    },
-    {
-      "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-pontos-hericos-59",
-      "source": "modulo-basico-expandido-e-modificado",
-      "name": "Pontos Her‡icos",
-      "nameKey": "pontos-hericos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:pontos-hericos"
-    },
-    {
       "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-regras-e-testes-61",
       "source": "modulo-basico-expandido-e-modificado",
       "name": "Regras e Testes",
@@ -4794,15 +4110,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:regras-e-testes"
-    },
-    {
-      "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-iniciativa-66",
-      "source": "modulo-basico-expandido-e-modificado",
-      "name": "Iniciativa",
-      "nameKey": "iniciativa",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:iniciativa"
     },
     {
       "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-mira-72",
@@ -4886,15 +4193,6 @@
       "certificationId": "regras-base-lock:modulo-combate:terceiro-passo-dano"
     },
     {
-      "id": "regra-modulo-combate-modulo-combate-manobras-especiais-12",
-      "source": "modulo-combate",
-      "name": "MANOBRAS ESPECIAIS",
-      "nameKey": "manobras-especiais",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-combate:manobras-especiais"
-    },
-    {
       "id": "regra-modulo-combate-modulo-combate-usando-as-manobras-especiais-13",
       "source": "modulo-combate",
       "name": "Usando as Manobras Especiais",
@@ -4902,15 +4200,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:modulo-combate:usando-as-manobras-especiais"
-    },
-    {
-      "id": "regra-modulo-combate-modulo-combate-existe-14",
-      "source": "modulo-combate",
-      "name": "Existe",
-      "nameKey": "existe",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:modulo-combate:existe"
     },
     {
       "id": "regra-modulo-combate-modulo-combate-dragon-punch-15",
@@ -5048,15 +4337,6 @@
       "certificationId": "regras-base-lock:mutacao:tabela-de-armas-de-fogo"
     },
     {
-      "id": "regra-mutacao-mutacao-armaduras-e-blindagens-47",
-      "source": "mutacao",
-      "name": "ARMADURAS E BLINDAGENS",
-      "nameKey": "armaduras-e-blindagens",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:mutacao:armaduras-e-blindagens"
-    },
-    {
       "id": "regra-mutacao-mutacao-coletes-de-kevlar-48",
       "source": "mutacao",
       "name": "COLETES DE KEVLAR",
@@ -5102,15 +4382,6 @@
       "certificationId": "regras-base-lock:mutacao:modificadores-de-tamanho"
     },
     {
-      "id": "regra-mutacao-mutacao-manobras-e-ataques-especiais-62",
-      "source": "mutacao",
-      "name": "MANOBRAS E ATAQUES ESPECIAIS",
-      "nameKey": "manobras-e-ataques-especiais",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:mutacao:manobras-e-ataques-especiais"
-    },
-    {
       "id": "regra-mutacao-mutacao-tipos-de-dano-67",
       "source": "mutacao",
       "name": "TIPOS DE DANO",
@@ -5118,15 +4389,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:mutacao:tipos-de-dano"
-    },
-    {
-      "id": "regra-mutacao-mutacao-sanidade-72",
-      "source": "mutacao",
-      "name": "SANIDADE",
-      "nameKey": "sanidade",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:mutacao:sanidade"
     },
     {
       "id": "regra-mutacao-mutacao-tortura-73",
@@ -5183,15 +4445,6 @@
       "certificationId": "regras-base-lock:naruto-daemon-2a-ed:chaveiro-explosivo-1d6-de-dano-pulso1"
     },
     {
-      "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-mestres-em-marionetes-podem-controlar-17",
-      "source": "naruto-daemon-2a-ed",
-      "name": "Mestres em marionetes podem controlar",
-      "nameKey": "mestres-em-marionetes-podem-controlar",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:naruto-daemon-2a-ed:mestres-em-marionetes-podem-controlar"
-    },
-    {
       "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-descricao-com-este-componente-a-19",
       "source": "naruto-daemon-2a-ed",
       "name": "Descrição: Com este componente a",
@@ -5199,15 +4452,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:naruto-daemon-2a-ed:descricao-com-este-componente-a"
-    },
-    {
-      "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-necessaria-afinidade-elemental-com-o-22",
-      "source": "naruto-daemon-2a-ed",
-      "name": "necessária afinidade elemental com o",
-      "nameKey": "necessaria-afinidade-elemental-com-o",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:naruto-daemon-2a-ed:necessaria-afinidade-elemental-com-o"
     },
     {
       "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-personagem-com-esta-manobra-nao-35",
@@ -5426,15 +4670,6 @@
       "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:facil-um-ano"
     },
     {
-      "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-permanecendo-dessa-forma-em-posicao-89",
-      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "name": "permanecendo dessa forma, em posição",
-      "nameKey": "permanecendo-dessa-forma-em-posicao",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:permanecendo-dessa-forma-em-posicao"
-    },
-    {
       "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-sekhator-91",
       "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
       "name": "Sekhator",
@@ -5453,15 +4688,6 @@
       "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:will"
     },
     {
-      "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-aliados-97",
-      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "name": "aliados.",
-      "nameKey": "aliados",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:aliados"
-    },
-    {
       "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-atravessassem-as-defesas-que-eles-98",
       "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
       "name": "atravessassem as defesas que eles",
@@ -5469,15 +4695,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:atravessassem-as-defesas-que-eles"
-    },
-    {
-      "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-medjayu-102",
-      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "name": "(Medjayu)",
-      "nameKey": "medjayu",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:medjayu"
     },
     {
       "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-yaru-medjayu-e-ytheramenti-109",
@@ -5552,15 +4769,6 @@
       "certificationId": "regras-base-lock:novos-poderes-para-fadas-e-fadas-da-luz:super-velocidade"
     },
     {
-      "id": "regra-o-corvo-o-corvo-o-corvo-4",
-      "source": "o-corvo",
-      "name": "O CORVO",
-      "nameKey": "o-corvo",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:o-corvo:o-corvo"
-    },
-    {
       "id": "regra-o-corvo-o-corvo-conceitos-bsicos-8",
       "source": "o-corvo",
       "name": "CONCEITOS BÐSICOS",
@@ -5568,24 +4776,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:o-corvo:conceitos-bsicos"
-    },
-    {
-      "id": "regra-o-corvo-o-corvo-int-12",
-      "source": "o-corvo",
-      "name": "INT",
-      "nameKey": "int",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:o-corvo:int"
-    },
-    {
-      "id": "regra-o-corvo-o-corvo-sentidos-agucados-21",
-      "source": "o-corvo",
-      "name": "Sentidos Aguçados",
-      "nameKey": "sentidos-agucados",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:o-corvo:sentidos-agucados"
     },
     {
       "id": "regra-o-corvo-o-corvo-perycias-22",
@@ -5613,15 +4803,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:o-corvo:regras-e-testes"
-    },
-    {
-      "id": "regra-o-corvo-o-corvo-pontos-hericos-37",
-      "source": "o-corvo",
-      "name": "PONTOS HER×ICOS",
-      "nameKey": "pontos-hericos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:o-corvo:pontos-hericos"
     },
     {
       "id": "regra-one-punch-man-rpg-one-punch-man-rpg-editorial-2",
@@ -5687,15 +4868,6 @@
       "certificationId": "regras-base-lock:one-punch-man-rpg:pontos-heroicos"
     },
     {
-      "id": "regra-one-punch-man-rpg-one-punch-man-rpg-regras-e-testes-22",
-      "source": "one-punch-man-rpg",
-      "name": "Regras e Testes",
-      "nameKey": "regras-e-testes",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:one-punch-man-rpg:regras-e-testes"
-    },
-    {
       "id": "regra-one-punch-man-rpg-one-punch-man-rpg-atributo-vs-atributo-23",
       "source": "one-punch-man-rpg",
       "name": "Atributo vs. Atributo",
@@ -5712,15 +4884,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:one-punch-man-rpg:teste-de-resistencia"
-    },
-    {
-      "id": "regra-one-punch-man-rpg-one-punch-man-rpg-iniciativa-negativa-26",
-      "source": "one-punch-man-rpg",
-      "name": "Iniciativa Negativa",
-      "nameKey": "iniciativa-negativa",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:one-punch-man-rpg:iniciativa-negativa"
     },
     {
       "id": "regra-one-punch-man-rpg-one-punch-man-rpg-luta-as-cegas-30",
@@ -5759,15 +4922,6 @@
       "certificationId": "regras-base-lock:one-punch-man-rpg:npcs"
     },
     {
-      "id": "regra-origem-e-descendencia-racial-v-teste-origem-e-descendencia-racial-v-teste-origem-ana-nivel-2-7",
-      "source": "origem-e-descendencia-racial-v-teste",
-      "name": "Origem Anã [Nível 2]",
-      "nameKey": "origem-ana-nivel-2",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:origem-e-descendencia-racial-v-teste:origem-ana-nivel-2"
-    },
-    {
       "id": "regra-origem-e-descendencia-racial-v-teste-origem-e-descendencia-racial-v-teste-origem-gnomica-nivel-2-12",
       "source": "origem-e-descendencia-racial-v-teste",
       "name": "Origem Gnômica [Nível 2]",
@@ -5793,15 +4947,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:os-caminhos-secundarios:terceiro-circulo"
-    },
-    {
-      "id": "regra-poder-poder-poder-1",
-      "source": "poder",
-      "name": "Poder",
-      "nameKey": "poder",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:poder:poder"
     },
     {
       "id": "regra-poderes-cabalisticos-poderes-cabalisticos-viii-8",
@@ -5984,15 +5129,6 @@
       "certificationId": "regras-base-lock:rituais:asas-e-rabo-2pvs"
     },
     {
-      "id": "regra-rocknrt-rocknrt-3-pontos-7-instrumentos-7",
-      "source": "rocknrt",
-      "name": "3 pontos: 7 instrumentos.",
-      "nameKey": "3-pontos-7-instrumentos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:rocknrt:3-pontos-7-instrumentos"
-    },
-    {
       "id": "regra-rocknrt-rocknrt-soma-dos-status-12",
       "source": "rocknrt",
       "name": "Soma dos Status",
@@ -6002,15 +5138,6 @@
       "certificationId": "regras-base-lock:rocknrt:soma-dos-status"
     },
     {
-      "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-sistema-regras-2",
-      "source": "rpg-dragon-ball-oficial-l-by-fractius",
-      "name": "Sistema & Regras",
-      "nameKey": "sistema-regras",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:sistema-regras"
-    },
-    {
       "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-insano-hipossonia-2-pontos-15",
       "source": "rpg-dragon-ball-oficial-l-by-fractius",
       "name": "ø Insano Hipossônia [-2 pontos]",
@@ -6018,24 +5145,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:insano-hipossonia-2-pontos"
-    },
-    {
-      "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-35",
-      "source": "rpg-dragon-ball-oficial-l-by-fractius",
-      "name": "x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=",
-      "nameKey": "x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x"
-    },
-    {
-      "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-caracteristica-16-36",
-      "source": "rpg-dragon-ball-oficial-l-by-fractius",
-      "name": "Caracteristica 16",
-      "nameKey": "caracteristica-16",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:caracteristica-16"
     },
     {
       "id": "regra-samurai-shodown-samurai-shodown-sobre-tecnicas-simultaneas-5",
@@ -6101,15 +5210,6 @@
       "certificationId": "regras-base-lock:santa-cruz-inferno-verde-biblioteca-elfica:sombras-sombras-da-mata"
     },
     {
-      "id": "regra-sda-rpg-sda-rpg-julio-cesar-da-silva-1-2",
-      "source": "sda-rpg",
-      "name": "Júlio César da Silva (11-20)",
-      "nameKey": "julio-cesar-da-silva-11-20",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sda-rpg:julio-cesar-da-silva-11-20"
-    },
-    {
       "id": "regra-sda-rpg-sda-rpg-julio-cesar-da-silva-1-3",
       "source": "sda-rpg",
       "name": "Júlio César da Silva (21-30)",
@@ -6153,15 +5253,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:sistema-daemon-2-x:pagina-inicial-41-50"
-    },
-    {
-      "id": "regra-sistema-daemon-2-x-sistema-daemon-2-x-pagina-inicial-1-7",
-      "source": "sistema-daemon-2-x",
-      "name": "Pagina inicial (61-70)",
-      "nameKey": "pagina-inicial-61-70",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-2-x:pagina-inicial-61-70"
     },
     {
       "id": "regra-sistema-daemon-2-x-sistema-daemon-2-x-pagina-inicial-1-8",
@@ -6209,15 +5300,6 @@
       "certificationId": "regras-base-lock:sistema-daemon-3-0:pagina-inicial-41-50"
     },
     {
-      "id": "regra-sistema-daemon-3-0-sistema-daemon-3-0-pagina-inicial-1-7",
-      "source": "sistema-daemon-3-0",
-      "name": "Pagina inicial (61-70)",
-      "nameKey": "pagina-inicial-61-70",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-3-0:pagina-inicial-61-70"
-    },
-    {
       "id": "regra-sistema-daemon-3-0-sistema-daemon-3-0-pagina-inicial-1-8",
       "source": "sistema-daemon-3-0",
       "name": "Pagina inicial (71-80)",
@@ -6245,24 +5327,6 @@
       "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:glock-24"
     },
     {
-      "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-portos-heroicos-22",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "name": "Portos Heróicos",
-      "nameKey": "portos-heroicos",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:portos-heroicos"
-    },
-    {
-      "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-regras-e-tesies-25",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "name": "REGRAS E TESÍES",
-      "nameKey": "regras-e-tesies",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:regras-e-tesies"
-    },
-    {
       "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-teste-de-pericia-27",
       "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
       "name": "TEStE dE PERÍCIA",
@@ -6279,24 +5343,6 @@
       "category": "core_rule",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:4-dano"
-    },
-    {
-      "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-desarme-31",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "name": "DESARME",
-      "nameKey": "desarme",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:desarme"
-    },
-    {
-      "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-nome-34",
-      "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-      "name": "Nome",
-      "nameKey": "nome",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:nome"
     },
     {
       "id": "regra-spawn-spawn-violador-7",
@@ -6351,15 +5397,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:spiritum:lembrancas"
-    },
-    {
-      "id": "regra-spiritum-spiritum-regras-e-testes-67",
-      "source": "spiritum",
-      "name": "Regras e Testes",
-      "nameKey": "regras-e-testes",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:spiritum:regras-e-testes"
     },
     {
       "id": "regra-spiritum-spiritum-atributo-vs-atributo-68",
@@ -6569,15 +5606,6 @@
       "certificationId": "regras-base-lock:tagmar-daemon:regras-especiais"
     },
     {
-      "id": "regra-tagmar-daemon-tagmar-daemon-doencas-60",
-      "source": "tagmar-daemon",
-      "name": "Doenças",
-      "nameKey": "doencas",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:tagmar-daemon:doencas"
-    },
-    {
       "id": "regra-tagmar-daemon-tagmar-daemon-luz-67",
       "source": "tagmar-daemon",
       "name": "Luz",
@@ -6659,33 +5687,6 @@
       "certificationId": "regras-base-lock:templarios-biblioteca-elfica:consdtuicao-con"
     },
     {
-      "id": "regra-trevas-campanha-epica-trevas-campanha-epica-forca-de-vontade-72-4",
-      "source": "trevas-campanha-epica",
-      "name": "FORÇA DE VONTADE (102-111)",
-      "nameKey": "forca-de-vontade-102-111",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:trevas-campanha-epica:forca-de-vontade-102-111"
-    },
-    {
-      "id": "regra-trevas-campanha-epica-trevas-campanha-epica-facilidade-lamia-229-6",
-      "source": "trevas-campanha-epica",
-      "name": "FACILIDADE, LAMIA (279-288)",
-      "nameKey": "facilidade-lamia-279-288",
-      "category": "core_rule",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:trevas-campanha-epica:facilidade-lamia-279-288"
-    },
-    {
-      "id": "regra-trevas-diego-trevas-diego-resumo-de-criacao-4-2",
-      "source": "trevas-diego",
-      "name": "RESUMO DE CRIAÇÃO (14-20)",
-      "nameKey": "resumo-de-criacao-14-20",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:trevas-diego:resumo-de-criacao-14-20"
-    },
-    {
       "id": "regra-trevas-diego-trevas-diego-sentidos-agucados-21-4",
       "source": "trevas-diego",
       "name": "Sentidos Aguçados (51-60)",
@@ -6765,15 +5766,6 @@
       "category": "combat",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:um-sussurro-nas-trevas:polipos"
-    },
-    {
-      "id": "regra-um-sussurro-nas-trevas-um-sussurro-nas-trevas-aproximadamente-e-aproximadamente-como-uma-108",
-      "source": "um-sussurro-nas-trevas",
-      "name": "aproximadamente é aproximadamente como uma",
-      "nameKey": "aproximadamente-e-aproximadamente-como-uma",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:um-sussurro-nas-trevas:aproximadamente-e-aproximadamente-como-uma"
     },
     {
       "id": "regra-universo-daemon-01-universo-daemon-01-daemon-01-1",
@@ -6956,33 +5948,6 @@
       "certificationId": "regras-base-lock:vikings-biblioteca-elfica:br-pixa-prambm-prapixa-prampn-ss"
     },
     {
-      "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-visa-miles-100",
-      "source": "vikings-biblioteca-elfica",
-      "name": "E VISA MILES",
-      "nameKey": "e-visa-miles",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-visa-miles"
-    },
-    {
-      "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-rr-mm-arame-frapinm-rampx-102",
-      "source": "vikings-biblioteca-elfica",
-      "name": "E RR$ MM ARAME FRAPINM +RAMPX",
-      "nameKey": "e-rr-mm-arame-frapinm-rampx",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-rr-mm-arame-frapinm-rampx"
-    },
-    {
-      "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-pre-mina-arampm-prapixa-rampn-104",
-      "source": "vikings-biblioteca-elfica",
-      "name": "PRE MINA ARAMPM PRAPIXA +RAMPN",
-      "nameKey": "pre-mina-arampm-prapixa-rampn",
-      "category": "combat",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:vikings-biblioteca-elfica:pre-mina-arampm-prapixa-rampn"
-    },
-    {
       "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-pre-pina-arampm-prrpinm-arampx-106",
       "source": "vikings-biblioteca-elfica",
       "name": "PRE PINA ARAMPM PRRPINM ARAMPX",
@@ -6990,15 +5955,6 @@
       "category": "attribute_skill",
       "lockedArea": "regras_base",
       "certificationId": "regras-base-lock:vikings-biblioteca-elfica:pre-pina-arampm-prrpinm-arampx"
-    },
-    {
-      "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-brr-pina-arame-frapinm-aramax-107",
-      "source": "vikings-biblioteca-elfica",
-      "name": "E BRR PINA ARAME FRAPINM ARAMAX",
-      "nameKey": "e-brr-pina-arame-frapinm-aramax",
-      "category": "attribute_skill",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-brr-pina-arame-frapinm-aramax"
     },
     {
       "id": "regra-watchmen-watchmen-new-3",

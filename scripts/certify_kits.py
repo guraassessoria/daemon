@@ -5,6 +5,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure, first_locked_area, locked_names_for_areas
 
 
 ENTITIES_PATH = DATA_DIR / "entities" / "kit_class_granular.json"
@@ -113,11 +114,13 @@ def has_text_only_name_evidence(entity: dict[str, Any], body: str) -> bool:
     )
 
 
-def certification_failure(entity: dict[str, Any]) -> str | None:
+def certification_failure(entity: dict[str, Any], locked_names: dict[str, set[tuple[str, str]]]) -> str | None:
     name = str(entity.get("name") or "").strip()
     name_key = normalize_key(name)
     body = "\n".join(entry for entry in entity.get("entries", []) if isinstance(entry, str))
     context = str(entity.get("kitContext") or "")
+    if locked_area := first_locked_area(entity, locked_names):
+        return f"locked_as_{locked_area}"
     if entity.get("category") != "kit_class":
         return "category_is_not_kit_class"
     if entity.get("subtype") != "kit":
@@ -136,6 +139,8 @@ def certification_failure(entity: dict[str, Any]) -> str | None:
         return "text_only_context_without_name_kit_evidence"
     if len(body) < 45:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
     if not COST_RE.search(body):
         return "no_cost_field"
     if not SKILL_OR_OPTION_RE.search(body):
@@ -172,9 +177,10 @@ def main() -> None:
     rejected: list[dict[str, Any]] = []
     seen_ids: set[str] = set()
     seen_source_names: set[tuple[str, str]] = set()
+    locked_names = locked_names_for_areas(["aprimoramentos"])
 
     for entity in entities:
-        failure = certification_failure(entity)
+        failure = certification_failure(entity, locked_names)
         source_name = (entity.get("source"), slugify(str(entity.get("name") or "")))
         if entity.get("id") in seen_ids or source_name in seen_source_names:
             failure = "duplicate_certification_key"

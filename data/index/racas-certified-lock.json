@@ -7,8 +7,8 @@
     "uncertified_race_claims_do_not_enter_racas": true,
     "certified_aprimoramentos_kits_and_classes_are_not_reclassified_as_racas": true
   },
-  "certifiedCount": 56,
-  "rejectedCount": 1329,
+  "certifiedCount": 54,
+  "rejectedCount": 1331,
   "records": [
     {
       "id": "raca-daemon-tormenta-centauros",
@@ -79,16 +79,6 @@
       "subtype": "raca",
       "lockedArea": "racas",
       "certificationId": "raca-lock:daemon-tormenta:elfos-negros"
-    },
-    {
-      "id": "raca-daemon-tormenta-troglodita",
-      "source": "daemon-tormenta",
-      "name": "Troglodita",
-      "nameKey": "troglodita",
-      "category": "race_lineage",
-      "subtype": "raca",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:daemon-tormenta:troglodita"
     },
     {
       "id": "raca-guia-de-racas-de-arton-tormentarpg-brokk-femea",
@@ -559,16 +549,6 @@
       "subtype": "raca",
       "lockedArea": "racas",
       "certificationId": "raca-lock:ray:meio-elfos"
-    },
-    {
-      "id": "raca-tagmar-daemon-versao-completa-elfos",
-      "source": "tagmar-daemon-versao-completa",
-      "name": "Elfos",
-      "nameKey": "elfos",
-      "category": "race_lineage",
-      "subtype": "raca",
-      "lockedArea": "racas",
-      "certificationId": "raca-lock:tagmar-daemon-versao-completa:elfos"
     }
   ]
 }

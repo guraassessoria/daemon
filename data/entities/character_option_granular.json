@@ -1248,43 +1248,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-1-imunidade-a-venenos",
-    "name": "Imunidade a Venenos",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-1",
-    "sourceTitle": "Aprimoramentos 1",
-    "page": 6,
-    "pages": [
-      6,
-      7
-    ],
-    "costs": [
-      "1 ponto",
-      "2 pontos",
-      "3 pontos",
-      "4 pontos",
-      "5 pontos"
-    ],
-    "entries": [
-      "2 pontos: por algum motivo, seu Personagem nasceu imune\na venenos naturais e recebe um bônus de 1D contra venenos\nmágicos ou artificiais.\n3 pontos: além dos venenos naturais, seu Personagem tam-\nbém possui imunidade a venenos artificiais, criados através de\npoções e alquimia. Também possui 2D de proteção contra ve-\nnenos considerados mágicos. Este Aprimoramento deve ser\nacompanhado por uma explicação no Background.\nInfluência\nEste é um Aprimoramento muito versátil, pois possibilita ao\npersonagem a manipulação e controle sobre uma região e a so-\nciedade que vive nela. O tipo de vínculo que o personagem\npossui pode colocá-lo em algum cargo importante dentro da\norganização, um contato principal ou mesmo como membro prin-\ncipal dos círculos internos. Esse tipo de comando pode ser es-\ntabelecido sobre diversas áreas, que irão causar uma influência\nsobre uma determinada parcela da população. Entre as possí-\nveis formas de Influência estão:\nBurocracia e Política: inclui manter o controle burocrático\nsobre a região, não importando através de que meios. Pode ser\ncontrolando o prefeito, burocratas, secretárias, ou outros fun-\ncionários. Permite ao Personagem manipular (ou mesmo mudar)\nas leis e regras que compõem uma sociedade.\nDireito e Jurisprudência: seu Personagem conhece as leis\nou aqueles que fazem as leis. Mantém contato com senadores,\nlegisladores, advogados, promotores e juízes. Pode fazer\nmultas e pequenas acusações se “perderem na papelada”,\ncancelar casos, modificar penas ou atrapalhar investigações.\nIgreja: controle sobre o clero, sobre padres, bispos, fiéis,\nativistas, caçadores de bruxas e, dependendo da época e local\nonde se estiver jogando: Templários, Inquisição e ordens mili-\ntares religiosas.\nIndústrias: seu Personagem possui influência na área in-\ndustrial, sobre organizações de trabalhadores, artesãos, operá-\nrios, engenheiros, transportes e outras pessoas ligadas à área\nindustrial. Pode conseguir equipamentos, projetos,\nespecificações, cálculos ou outras operações ligadas à área de\nengenharia (ou cibernéticos, se a Campanha permitir).\nMídia: controle sobre os meios de comunicação como um\ntodo. Existem cada vez mais meios de comunicação e mídia, como\nJornais, rádio, televisão, revistas, Internet e outros. Apesar de\nninguém duvidar que a mídia é corrupta, até mesmo os Persona-\ngens se assustariam se descobrissem quem cobre os olhos da\nmídia às vezes...\nPolícia: inclui delegados, investigadores, escrivães, algu-\nmas forças especiais (SWAT, FBI, drogas e homicídios,\nDENARC, GARRA). Pode ajudar a conduzir investigações, se\nelas forem importantes, ou desviar a atenção da lei para casos\nmais “interessantes”.\n7\nSubmundo: o que seria de um Personagem sem suas gangues\nde arruaceiros para cuidar de pequenos problemas que podem\nsurgir? Submundo inclui um contato com alguma organização\ncriminosa como a Máfia, a Cosa Nostra, a Tríade, a Yakusa ou\nos traficantes colombianos.\n1 ponto: um bairro, sindicato ou estação local.\n2 pontos: alguns bairros, uma cidade pequena.\n3 pontos: algumas cidades pequenas, uma metrópole.\n4 pontos: algumas metrópoles, um estado.\n5 pontos: dois ou três estados, um pequeno pais."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "fisico"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-1:imunidade-a-venenos",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-1-infravisao",
     "name": "Infravisão",
     "category": "character_option",
@@ -4497,38 +4460,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-1-sanguinario",
-    "name": "Sanguinário",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-1",
-    "sourceTitle": "Aprimoramentos 1",
-    "page": 16,
-    "pages": [
-      16
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "-1 ponto: quando o personagem entra em uma batalha, esta\nserá até o fim. Não existe misericórdia ou rendição: um dos dois\nlados deve perder obrigatoriamente. Para o Personagem, a luta\nse prolongará até que ele reduza seus inimigos à poças de san-\ngue. Assim como não aceita rendições, o próprio personagem\nnega-se a desistir, preferindo morrer em combate a entregar-se."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-1:sanguinario",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-1-sono-pesado",
     "name": "Sono Pesado",
     "category": "character_option",
@@ -6035,72 +5966,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-2-sincronia",
-    "name": "SINCRONIA",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-2",
-    "sourceTitle": "Aprimoramentos 2",
-    "page": 6,
-    "pages": [
-      6
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "1 PONTO: O personagem adquiriu um árduo\ntreinamento em grupo. Quando ele entra em\ncombate junto com um ou mais colegas\n(personagens que devem obrigatoriamente possuir\neste Aprimoramento) eles atuam como se fosse\numa só criatura - combinando as características de\ncombate mais altas de cada membro do grupo.\nEntão se temos três guerreiros com lança 30/20,\nlança 40/10 e lança 20/50, o grupo atacaria como\nse tivesse lança 40/50. Até 10 personagens podem\ncombinar suas forças desta forma.\nO n° de ataques que podem fazer é igual à metade\nda quantidade de personagens arredondado para\ncima (três guerreiros fazem dois ataques por\nrodada). Quando o Grupo recebe dano, este é\ndividido igualmente por todos os personagens\n(sendo que os pontos de dano que sobrarem no\narredondamento são descontados daquele com\nmaior número de PVs do grupo). Além das"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "fisico"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-2:sincronia",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-2-pericias-atributos-aprimoramentos-manobras",
-    "name": "perícias, Atributos, Aprimoramentos, Manobras",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-2",
-    "sourceTitle": "Aprimoramentos 2",
-    "page": 6,
-    "pages": [
-      6
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "de Combate e outras habilidades especiais\ntambém podem ser compartilhados, de acordo\ncom o Mestre.\n2 PONTOS(PARCEIRO): O personagem possui\numa ligação poderosa com um Amigo ou mascote;\na ligação entre ambos é tão forte que agem e\npensam como se fossem uma única criatura. Este\nparceiro (Pc ou Npc) deve também possuir este\naprimoramento, e ambos estão sempre sob efeito\ndo Aprimoramento Ligação Natural.\nQuando próximos, eles recebem os benefícios do\naprimoramento Sincronia, mas de forma muito\nmais poderosa – considere que ambos combinam\ntodas as suas características (Atributos,"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-2:pericias-atributos-aprimoramentos-manobras",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-2-trespassar",
     "name": "TRESPASSAR",
     "category": "character_option",
@@ -7076,38 +6941,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-cacador-de-vampiros",
-    "name": "Caçador de Vampiros",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 1,
-    "pages": [
-      1
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "1 ponto: o Personagem é treinado para caçar\nvampiros e possui um amplo conhecimento\nsobre suas fraquezas, poderes e diferentes\nlinhagens, mitos e lendas. Em termos de jogo,\no"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "sobrenatural"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:cacador-de-vampiros",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-heroi-demonio",
     "name": "Herói Demônio",
     "category": "character_option",
@@ -7508,37 +7341,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-bom-senso",
-    "name": "Bom Senso",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 3,
-    "pages": [
-      3
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "1 ponto: todas as vezes que um Personagem\nque tenha bom senso for fazer alguma coisa\nobviamente estúpida, o Mestre pode dizer a ele\nque o que ele pretende fazer é uma burrice.\nEste Aprimoramento é muito útil para\nJogadores iniciantes, como uma forma de\njustificar a ajuda que o Mestre dá aos"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:bom-senso",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-coragem",
     "name": "Coragem",
     "category": "character_option",
@@ -7868,45 +7670,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-honrado",
-    "name": "Honrado",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 6,
-    "pages": [
-      6,
-      7
-    ],
-    "costs": [
-      "1 ponto",
-      "11 ponto",
-      "2 pontos",
-      "3 pontos",
-      "4 pontos"
-    ],
-    "entries": [
-      "1 ponto: o nome de sua família é famoso,\nsendo conhecido e considerado importante\npela população, ou então seu mentor é um\nantigo herói cuja reputação e nobreza são\nadmiradas. Na verdade este Aprimoramento\nequivale ao Aprimoramento Fama, entretanto\no Personagem não é reconhecido por seus\nfeitos, mas sim carrega consigo uma chance de\nprovar sua dignidade por estar ligado ao bom\nnome da família ou do seu mentor (“Você é\nfilho de McFinn? Ele salvou minha família faz uns\nanos atrás. Venha, vou lhe dar alguma comida e\nabrigo.” ou mesmo “Se a Kuragari Corporation\nfez questão de seqüestrar o filho de Kawasaka para\npoder ‘empregá-lo’, é porque você vale muito. Você\ntem muita coragem em trair seu pai e vir para o\nnosso lado. Bem-vindo, Oroshi.”).\nForças Militares\nO personagem tem acesso a um pequeno\ngrupo de soldados, uma tropa de elite, guarda-\ncostas pessoais, falange de anjos, horda de\ndemônios, grupo de einherjars, matilha de\nlobisomens\nou\nmercenários\ncontratados,\npodendo utilizar seus serviços em horas de\nemergência. Lembrando que esses soldados\nnão precisam ser exatamente ligados ao\nexército de um país e ele só pode possuir seres\nsobrenaturais se ele for um deles ou se o\ncenário permitir. Esse Aprimoramento é mais\nfraco que Contatos e Aliados – ou seja, se o\nPersonagem escolher 2 soldados com Forças\nMilitares 1, cada um deles será mais fraco que\nse eu comprar um Contatos e Aliados 1 (soldado).\n1 ponto: 2 soldados.\n2 pontos: 4 a 5 soldados.\n3 pontos: 8 a 10 soldados.\n4 pontos: 15 a 20 soldados.\n11 ponto: 30 a 40 soldados.\nRecurso e Dinheiro\nÉ quanto de dinheiro, jóias e posses seu\nPersonagem conseguiu reunir ao longo de seus\nanos de vida. Inclui propriedades e outras\nfontes de renda que levam tempo até serem\nconvertidas em dinheiro. Os valores a seguir\nsão fornecidos em U$. O Personagem possui\ninicialmente ao todo cerca de 50 vezes o valor\nde sua renda, que também deve ser usado pra\ncomprar uma residência (se tiver) ou pagar a\nhipoteca e o veículo (se tiver) ou seu\nparcelamento.\nCaso o Narrador não queira lidar com valores\npara Recursos de um Personagem, ele pode\napenas\nfazer\num\nteste\nde\n[(INT+CAR/2)x4+(Nível de Recursos x10)]%.\nDependendo do item comprado, o Narrador\npode tornar o teste Fácil, Médio ou Difícil, bem\ncomo impor penalidades, como a seguir: -10%\nse for um item incomum ou ilegal, -20% se for\nmuito raro, tecnologia militar ou muito ilegal, -\n30% se for único ou conferir poderosas\nvantagens que aumente o poder ou habilidade\ndo Personagem. Os objetos descritos no\ndecorrer deste livro não conterão preços,\ncabendo ao Narrador estipulá-los caso utilize a\nregra normal ou estipulá-los com bom senso se\no teste de compra deve ser Fácil, Médio ou\nDifícil. Caso o Jogador tenha uma Falha Crítica\nnesse teste, o Personagem perderá 1 ponto de\nRecursos e Dinheiro permanentemente (talvez\ntenha gastado toda sua conta bancária na\ncompra, suas contas do mês não poderiam\narcar com aquela compra, precisou pedir\nempréstimos bancários com juros altíssimos,\netc.).\n1 ponto: renda de até US$ 2.000 mensais.\n2 pontos: renda de até US$ 4.000 mensais.\n3 pontos: renda de até US$ 8.000 mensais.\n4 pontos: renda de até US$ 16.000 mensais.\n11 ponto: renda de até US$ 32.000 mensais."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "fisico",
-      "pericia",
-      "sobrenatural"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:honrado",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-sedutor",
     "name": "Sedutor",
     "category": "character_option",
@@ -8217,39 +7980,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-magia-maxima",
-    "name": "Magia Máxima",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 8,
-    "pages": [
-      8
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "2 pontos: A Magia tem efeito máximo (dano\nmáximo,\ncura\nmáxima).\nOs"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "magia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:magia-maxima",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-magia-sem-gestos",
     "name": "Magia Sem Gestos",
     "category": "character_option",
@@ -8349,39 +8079,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-tutor",
-    "name": "Tutor",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 9,
-    "pages": [
-      9
-    ],
-    "costs": [
-      "1 ponto",
-      "2 pontos"
-    ],
-    "entries": [
-      "Todo o Personagem Mago teve, em algum\nmomento de sua aprendizado, um Tutor que\nlhe ensinou sobre a Magia. Se você desejar que\neste Tutor ainda esteja com o seu personagem\npor alguma razão, então gaste seu pontos neste\nAprimoramento. O Mestre deve criar toda a\nhistória e características do seu mentor,\ndefinindo à seu próprio gosto a personalidade,\nfraquezas, objetivos e problemas que ele\nenfrenta.\n1 ponto: seu Tutor é um humano que ainda\nvive e pode, ou não, morar com o Personagem.\n2\npontos:\nseu"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "magia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:tutor",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-telecinetico",
     "name": "Telecinético",
     "category": "character_option",
@@ -8445,38 +8142,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:telepata",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-medium",
-    "name": "Médium",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 9,
-    "pages": [
-      9
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "2\npontos:\no\nPersonagem\nconsegue\nse\ncomunicar com espíritos, podendo comprar a"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "sobrenatural"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:medium",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -8612,38 +8277,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-afinidade-com-magia",
-    "name": "Afinidade com Magia",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 10,
-    "pages": [
-      10
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "Apenas para não-magos.\n1 ponto: seu Personagem, apesar de não ser\num mago, possui algum tipo de afinidade com\num dos Caminhos de Magia. Ele recebe\nsempre 1D de proteção contra Magias desse\nCaminho\ne\npode\nrealizar\nefeitos\nsutis\n(equivalentes a uma Magia de Focus 1)\nutilizando\no"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "magia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:afinidade-com-magia",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-amigo-espirito",
     "name": "Amigo Espírito",
     "category": "character_option",
@@ -8704,38 +8337,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:amigo-fantasma",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-anjo-da-guarda",
-    "name": "Anjo da Guarda",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 10,
-    "pages": [
-      10
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "2 pontos: o Personagem possui um espírito\nguia, que às vezes pode se comunicar com ele\nem sonhos. O espírito pode passar algum tipo\nde dica para o Personagem, quando o Mestre\njulgar apropriado. Quem é o espírito, e porque\nele\najuda\no"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "sobrenatural"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:anjo-da-guarda",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -8839,39 +8440,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-comunicacao-em-sonhos",
-    "name": "Comunicação em Sonhos",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 11,
-    "pages": [
-      11
-    ],
-    "costs": [
-      "2 pontos",
-      "3 pontos"
-    ],
-    "entries": [
-      "2 pontos: o Personagem pode se comunicar\ncom outras pessoas enquanto elas sonham.\nPara isso a pessoa deve estar adormecida. O\nPersonagem precisa de alguns minutos de\ntranse até formar uma conexão. Não existe um\nlimite de distncia para a comunicao em\nsonhos, mas a vítima deve ser capaz de\nentender\no\nque\nfoi\ndito\npara\nque\no\nAprimoramento funcione.\n3 pontos: igual ao acima, mas o Personagem\ntambém adquire um ou dois meios de entrar\nno Reino dos Sonhos. O fetiche e o Ritual\nutilizado\npelo"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "magia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:comunicacao-em-sonhos",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-conhecimentos-arcanos",
     "name": "Conhecimentos Arcanos",
     "category": "character_option",
@@ -8900,40 +8468,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:conhecimentos-arcanos",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-conjuracao",
-    "name": "Conjuração",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 11,
-    "pages": [
-      11
-    ],
-    "costs": [
-      "4 pontos"
-    ],
-    "entries": [
-      "4\npontos:\ncom\neste\nAprimoramento,\no\nPersonagem possui o conhecimento sobre a\nForma-Pensamento\ne\na\ncapacidade\nde\ncanalizar essa energia para os planos físicos.\nCom um Teste de WILL, o Personagem é capaz\nde tatear o mundo espiritual em busca de\nalgum objeto e materializá-lo onde estiver.\nO Teste é Fácil para objetos pequenos (moedas,\nlápis, papel, coisas de uso cotidiano); Normal\npara objetos pequenos, mas exóticos (joias,\narmas, peças de roupa) ou com mais de 30 cm;\ne Difícil para objetos únicos ou feitos de\nqualquer tipo de metal ferroso (a chave de\numa porta, um documento específico, um\nobjeto personalizado). Os objetos conjurados\ndissolvem-se\nem"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "magia",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:conjuracao",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -9348,38 +8882,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-resistencia-a-magia",
-    "name": "Resistência à Magia",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 14,
-    "pages": [
-      14
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "Não pode ser comprada por Personagens que\nusam Magia.\n1\nponto:\nseu"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "magia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:resistencia-a-magia",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-presenca-invisivel",
     "name": "Presença Invisível",
     "category": "character_option",
@@ -9475,39 +8977,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:sociedade-secreta",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-sortudo",
-    "name": "Sortudo",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 14,
-    "pages": [
-      14,
-      15
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "2 pontos: este Personagem é portador de uma\nsorte incrível. Uma vez por sessão de jogo, o\nJogador pode Rolar novamente um dado caso\ntenha falhado em um Teste (qualquer tipo de\nrolagem de dados).\nEle deve anunciar essa decisão ANTES de rolar\nos dados (ou seja, se conseguir logo na\nprimeira tentativa, assim mesmo terá gasto a\n“sorte” da sessão).\nSuperpoderes\nVocê é um mutante, possuindo superpoderes\nque o diferenciam do restante da população.\nTalvez você tenha sido criado pela engenharia\ngenética\npara\nser\num\nagente\ndas\nmegacorporações, talvez seja um avanço\nevolucionário, talvez a radiação de seu mundo\npós-apocaliptico tenham mudado seus genes\nantes de seu nascimento ou talvez você tenha\n“mudado”\ndepois\nde\num\nacidente.\nO\nimportante é que você desenvolveu poderes e\nagora é considerado um mutante. Para mais\ndetalhes\nsobre\no\nAprimoramento\nSuperpoderes e os poderes, consulte o capítulo\nGenética.\nRecomenda-se bastante discernimento para o\nnarrador ao incluir seres superpoderosos em\nsua campanha. Dependendo do grau de\nrealismo desta, alguns superpoderes devem\nser vetados (como vôo sem asas) e a compra de\nmais\nde\num\nponto\ndo"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:sortudo",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -9649,38 +9118,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-alma-escravizada",
-    "name": "Alma Escravizada",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 16,
-    "pages": [
-      16
-    ],
-    "costs": [
-      "3 pontos"
-    ],
-    "entries": [
-      "-3 pontos: sua alma foi escravizada por\nhabitantes de Spiritum, criaturas poderosas\nque agora o enviam para várias missões, ou o\nforçam a cometer atos insanos. Muitas vezes o\nPersonagem possui livre arbítrio enquanto seu\ndono não necessita dele para alguma missão.\nNo entanto, quando precisa, o Personagem\ndeve realizar a missão imposta por seu"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "fisico"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:alma-escravizada",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-alma-vendida",
     "name": "Alma Vendida",
     "category": "character_option",
@@ -9742,38 +9179,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:alucinado",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-analfabeto",
-    "name": "Analfabeto",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 16,
-    "pages": [
-      16
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "-1 ponto: por algum motivo, o Personagem não\naprendeu a ler e escrever. Pode ser um\nmarginal de rua, um trabalhador rural, ou\napenas alguém que nunca teve chance de ir à\nescola. Um analfabeto não tem Perícias que\ntenham valor inicial baseado em INT: perícias\ndo subgrupo Ciências, por exemplo, tem para\nele valor inicial 0. Qualquer conhecimento que\nele possua terá sido conseguido de forma oral,\njamais através de livros ou revistas. Perícias\ncomo"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "pericia"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:analfabeto",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -9938,40 +9343,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentos-3-drogado-obsessao-perversao-sexual-viciado",
-    "name": "Drogado, Obsessão, Perversão Sexual, Viciado",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 17,
-    "pages": [
-      17,
-      18
-    ],
-    "costs": [
-      "1 ponto",
-      "2 pontos",
-      "3 pontos"
-    ],
-    "entries": [
-      "em Jogos etc.\n-1\nponto:\nestágio\ninicial.\nNada\nque\no\nPersonagem tenha feito prejudicou outras\npessoas ainda, apenas sua própria saúde física\ne mental. Ele pode fazer uso corriqueiro de\ndrogas e álcool (chegar bêbado em casa todo\ndia), apostar habitualmente em cavalos ou\nestar amolando aquela pessoa há algum\ntempo. Se for um prazer bizarro ou perversão\nsexual, ele pesquisa e conversa com pessoas na\ninternet, seguramente guarda muitas fotos no\ncomputador e, embora ainda não tenha feito\nnenhuma vítima, deseja muito!\n-2 pontos: estágio avançado. O Personagem já\nfez mal a alguém, cometeu crimes e a polícia\nestá atrás dele. O desespero e o descontrole o\nlevaram\na\ncometer\nalguns\nilícitos.\nSe\ndependente químico, já roubou. Se apostador,\nestá endividado com agiotas. Se obcecado, já\nagrediu ou tentou matar aquela pessoa. Se for\num prazer bizarro ou perversão sexual, já fez\numa ou algumas vítimas. Em todos os casos, o\nPersonagem está sendo procurado pela polícia,\ntalvez até mesmo pela Polícia Federal.\n-3 pontos: estágio terminal. Igual ao anterior,\nmas ele já fez varias vitimas, e tem agora um\ndestacamento inteiro da polícia e mais a\nimprensa em seu encalço. Além de perseguido,\nhá esse problema da notoriedade. Um drogado\npoderia\nter\nse\ntornado\num\ntraficante\nprocurado, o assassinato daquela pessoa que\nele “amava” (ou odiava) gerou repercussão\nnacional etc."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:drogado-obsessao-perversao-sexual-viciado",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentos-3-dupla-personalidade",
     "name": "Dupla Personalidade",
     "category": "character_option",
@@ -10031,37 +9402,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:aprimoramentos-3:esquizofrenico",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentos-3-ferro-frio",
-    "name": "Ferro Frio",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentos-3",
-    "sourceTitle": "Aprimoramentos 3",
-    "page": 18,
-    "pages": [
-      18
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "-2 pontos: o ferro frio se opõe às coisas\nmagicas;\nseu"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentos-3:ferro-frio",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
@@ -12719,75 +12059,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-aprimoramentostormenta-conhecimento-de-itens-magicos",
-    "name": "Conhecimento de Itens Mágicos",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentostormenta",
-    "sourceTitle": "aprimoramentostormenta",
-    "page": 4,
-    "pages": [
-      4,
-      5,
-      6
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "[regional: Wynlla]: Muitos nativos de Wynlla tem\num forte conhecimento sobre itens mágicos. Em\nregras, o Personagem é capaz de identificar itens\nmágicos com 50% de chance de sucesso e mesmo que\nnão seja um mago é capaz de ativar itens mágicos que\nexijam conhecimento arcano. Se já for um mago, será\ncapaz de ativar itens mágicos mesmo que não tenha\nalgos pré-requisitos de alguns itens mágicos (como\npertencer\na\numa\nraça,\npossuir\num\ncerto\nAprimoramento, etc). É necessário sucesso em um\nTeste de WILL para obter sucesso.\nConhecimento de Magia\n[regional: Pondsmnia, Wynlla]: A Magia  uma\nferramenta muito comum nesses reinos, e por isso a\nmaioria de seus habitantes tem grandes conhecimentos\na respeito. Personagens com esse Aprimoramento\nRegional recebem +10% em Testes de Ciências\nProibidas (Teoria da Magia e Rituais).\nConhecimento de Lendas\n[regional:\nFortuna]:\nDevido\nao\ncustume\nfortuniense de cultivar tradições, lendas e mitos, os\nPersonagens com esse Aprimoramento Regional\nrecebem +10% em todos os Testes da Perícias Ciências\n(História e Literatura) e em Pesquisa/Investigação.\nConquista da Magia\n[regional: Wynlla]: Esse Aprimoramento Regional\napenas é permitido para Personagens que pertençam\nque normalmente não podem usar Magia (como\nminotauros e goblins).\nGraças à cultura altamente mágica de Wynlla,\npraticamente todos os seus habitantes sabem realizar\nMagias, mesmo aqueles que normalmente são\nimpossibilitados\ndisso.\nPersonagens\ncom\nesse\nAprimoramento Regional podem aprender Magias (ou\nseja, podem ter Poderes Mágicos) mesmo que sua raça\nnormalmente proíba isso. É mais comum entre\nminotauros e goblins – que geralmente não podem\naprender Magias.\nContador de Histórias\n[regional:\nPetrynia]:\nOs\npetrynianos\nsão\nconhecidos como os maiores contadores de histórias de\nArton, sejam elas verídicas ou não. Personagens com\nesse Aprimoramento Regional recebem +20% em\ntodos os Testes da Perícia Manipulação (Lábia). Esse\nbônus é transformado em penalidade (-20%) caso o\nalvo saiba seu reino de origem...\nEspírito de Equipe\n[regional: Doherimm, Tapista, Yuden]: Nesses\nreinos a disciplina militar é muito valorizada e aplicada\ndesde criança. Geralmente os nativos sabem trabalhar\nem equipe. Personagens com esse Aprimoramento\nRegional recebem +10% em jogadas de Ataque e\nTestes de Perícias quando agem em equipe (no mínimo\n3 pessoas) seguindo as ordens de um superior. Todos\nos membros do grupo devem estar realizando a mesma\ntarefa (seguindo a mesma trilha, vasculhando o mesmo\naposento...).\nApenas membros da mesma raça podem ser\nconsiderados colegas de equipe. Um líder é um\nPersonagem que esteja dois ou mais Níveis a cima da\nmédia da equipe ou que tenha a Perícia Liderança com\n70% no mínimo.\nFaro para Magos\n[regional:\nPortsmouth]:\nOs\nnativos\nde\nPortsmouth são encinados a detectar magos de\nqualquer tipo. Devido a isso Personagens com esse\nAprimoramento Regional recebem +10% nas Perícias\nManipulação (Lábia), Escutar e Testes de PER para\ndetectar mentiras contra qualquer Personagem que\ntenha o Aprimoramento Poderes Mágicos (mas não\nPontos de Fé).\nFúria Leal\n[regional:\nKhubar,\nMontanhas\nUivantes,\nNamalkah, União Púrpura]: Os nativos desses\nreinos geralmente descendem dos bárbaros que\nhabitavam o norte de Arton antes de sua colonização.\nPersonagens com esse Aprimoramento Regional\npodem comprar o Aprimoramento Berserker mesmo\nque não seja um humano ou anão. Se o Personagem já\npertence a uma dessas raças (ou outra raça que possa\ncomprar esse Aprimoramento) seu bônus de dano\naumenta para +3 ao invés de mais e o bônus de Ataque\naumenta para +15% ao invés de +10% quando entra\nem berserker.\nFurtividade das Fadas\n[regional:\nPondsmnia]:\nOs\nnativos\nde\nPondsmnia, todos de alguma forma ligados  raa das\nfadas, são furtivos e sabem como não ser notados.\nPersonagens com esse Aprimoramento Regional\nrecebem +10% em Testes das Perícias Camuflagem,\nFurtividade e Subterfúgio.\nHospitalidade\n[regional: Nova Ghondriann]: Os habitantes\ndesse reino recebem muito bem os estrangeiros. Por\nisso os Personagens com esse Aprimoramento\nRegional recebem +10% em Testes das perícias\nEtiqueta e Pesquisa/Investigação (apenas quando\nenvolver obter informações com conversas) para com\ncriaturas inteligentes nativas de outros reinos. Por\noutro lado, o Personagem recebe -5% em Testes das\nperícias Manipulação (Lábia e Intimidação) para com\nessas criaturas.\nImpostor\n[regional: Ahlen, Petrynia]: Esse Aprimoramento\nRegional apenas é permitido a Personagens que tenham\nno mínimo CAR 13 e 10% na perícia Manipulação\n(Lábia – mas sem contar o bônus de CAR/Manha).\nPersonagens com esse Aprimoramento Regional\nsão capazes de converncer seus espectadores de que\ntem certas habilidades ou conhecimentos quando na\nverdade não às possui. Em regras, você pode substituir\no Teste de qualquer perícia (com exceção de perícias de\ncombate, incluindo Esquiva quando usada em\ncombate) por um Teste de Manipulação (Lábia). Você\ninspira tanta confiança em si mesmo que consegue\nfazê-lo, mesmo sem ter a perícia.\nO Personagem pode fazer isso uma vez por dia\npara cada 2 pontos de CAR a cima de 12 (1 vez por dia\npara CAR 13, duas vezes por dia para CAR 14-15, três\nvezes para CAR 16-17, e assim por diante).\nInimigo de Dragões\n[regional: Sckharshantallas]: O regente Sckhar\nproibe a existência de outros dragões em seu reino, a\nnão ser ele próprio. Por isso os Personagens com esse\nAprimoramento Regional são treinados para combater\ndragões: recebem +4 de dano quando combatem\nqualquer tipo de dragão ou criaturas aparentadas\n(wyverns, hidras e protodracos).\nInimigo de Goblinóides\n[regional: Tyrondir]: Com a ameaça da Aliança\nNegra, muitos nativos de Tyrondir desenvolveram um\ngrande ódio por goblinóides. Personagens com esse\nAprimoramento Regional recebem +10% em Testes\ndas"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "magia",
-      "pericia",
-      "sobrenatural",
-      "social"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentostormenta:conhecimento-de-itens-magicos",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-aprimoramentostormenta-escutar",
-    "name": "Escutar",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "aprimoramentostormenta",
-    "sourceTitle": "aprimoramentostormenta",
-    "page": 6,
-    "pages": [
-      6
-    ],
-    "costs": [
-      "1 ponto"
-    ],
-    "entries": [
-      "e\nSobrevivência contra qualquer tipo de goblinóide\n(goblins, hobgoblins e bugbears apenas).\nEsse Aprimoramento Regional é mais comum entre\nos nativos do lado sul de Tyrondir, que tem mais\ncontato com a Aliança Negra.\n(1 ponto): Personagens que tenham passado por"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:aprimoramentostormenta:escutar",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-aprimoramentostormenta-lamnor",
     "name": "Lamnor",
     "category": "character_option",
@@ -13824,39 +13095,6 @@
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {
-    "id": "aprimoramento-talentos-esquiva-sobrenatural",
-    "name": "ESQUIVA SOBRENATURAL",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "talentos",
-    "sourceTitle": "talentos",
-    "page": 3,
-    "pages": [
-      3
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "2 PONTOS:O PERSONAGEM PODE FAZER UM TESTE DE AGI PARA SE DESVIAR DE"
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "pericia",
-      "sobrenatural"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:talentos:esquiva-sobrenatural",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
     "id": "aprimoramento-talentos-acrobatico",
     "name": "ACROBÁTICO",
     "category": "character_option",
@@ -13982,38 +13220,6 @@
     "certifiedArea": "aprimoramentos",
     "lockedArea": "aprimoramentos",
     "certificationId": "aprimoramento-lock:talentos:alvo-elusivo",
-    "certificationMethod": "aprimoramento-source-mechanical-pass-1"
-  },
-  {
-    "id": "aprimoramento-talentos-seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
-    "name": "SEUS OPONENTES COMO COBERTURA,BLOQUEANDO E ATRAPALHANDO OS ATAQUES",
-    "category": "character_option",
-    "subtype": "aprimoramento",
-    "source": "talentos",
-    "sourceTitle": "talentos",
-    "page": 4,
-    "pages": [
-      4
-    ],
-    "costs": [
-      "2 pontos"
-    ],
-    "entries": [
-      "DE OUTROS INIMIGOS. SEMPRE QUE ESTIVER ENFRENTANDO MAIS DE UM OPONENTE\nAO MESMO TEMPO,O PERSONAGEM É CAPAZ DE SE POSICIONAR DE MODO A\nTRAPALHAR OS ATAQUES DOS OUTROS INIMIGOS. CADA UM DOS OPONENTES DO\nPERSONAGEM RECEBE UMA PENALIZAO DE -10% EM ATAQUE. NO PODE SER\nUSADO CONTRA ARMAS DE COMBATE À DISTÂNCIA.\n2 PONTOS:A PENALIDADE APLICADA AOS OPONENTES É DE -20%."
-    ],
-    "tags": [
-      "aprimoramento",
-      "auto-extraido",
-      "certificado",
-      "combate"
-    ],
-    "confidence": 0.74,
-    "extractionMethod": "auto-aprimoramento-pass-1",
-    "certificationStatus": "certified",
-    "certifiedAs": "aprimoramento",
-    "certifiedArea": "aprimoramentos",
-    "lockedArea": "aprimoramentos",
-    "certificationId": "aprimoramento-lock:talentos:seus-oponentes-como-cobertura-bloqueando-e-atrapalhando-os-ataques",
     "certificationMethod": "aprimoramento-source-mechanical-pass-1"
   },
   {

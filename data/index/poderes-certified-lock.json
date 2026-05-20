@@ -8,8 +8,8 @@
     "certified_regras_base_items_are_not_reclassified_as_poderes": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_poderes": true
   },
-  "certifiedCount": 479,
-  "rejectedCount": 3807,
+  "certifiedCount": 460,
+  "rejectedCount": 3834,
   "records": [
     {
       "id": "poder-alastores-a-justica-infernal-marcas",
@@ -272,16 +272,6 @@
       "certificationId": "poder-lock:anjos-a-cidade-de-prata:nfirgizace"
     },
     {
-      "id": "poder-anjos-a-cidade-de-prata-gupe",
-      "source": "anjos-a-cidade-de-prata",
-      "name": "Gupe",
-      "nameKey": "gupe",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:anjos-a-cidade-de-prata:gupe"
-    },
-    {
       "id": "poder-anjos-a-cidade-de-prata-simuiacre",
       "source": "anjos-a-cidade-de-prata",
       "name": "SimuiACRe",
@@ -352,16 +342,6 @@
       "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:feudo"
     },
     {
-      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-glifo",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "name": "GLIFO",
-      "nameKey": "glifo",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:glifo"
-    },
-    {
       "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-hassan",
       "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
       "name": "HASSAN",
@@ -370,16 +350,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:hassan"
-    },
-    {
-      "id": "poder-anjos-jyhad-guerra-santa-biblioteca-elfica-nimbus",
-      "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-      "name": "NimBus",
-      "nameKey": "nimbus",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:nimbus"
     },
     {
       "id": "poder-anjos-requiem-de-fe-abencoar",
@@ -500,16 +470,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:anjos-requiem-de-fe:salvaguarda"
-    },
-    {
-      "id": "poder-ark-a-nun-arquivos-de-bel-kalaa-nivel-repoem-dias",
-      "source": "ark-a-nun-arquivos-de-bel-kalaa",
-      "name": "Nível Repõem Dias",
-      "nameKey": "nivel-repoem-dias",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:ark-a-nun-arquivos-de-bel-kalaa:nivel-repoem-dias"
     },
     {
       "id": "poder-arkanun-1e-ultra-raro-will-3d",
@@ -672,6 +632,16 @@
       "certificationId": "poder-lock:cura:poderes-da-fe"
     },
     {
+      "id": "poder-cura-cura-de-skady",
+      "source": "cura",
+      "name": "Cura de Skady",
+      "nameKey": "cura-de-skady",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:cura:cura-de-skady"
+    },
+    {
       "id": "poder-cura-forca-de-deus",
       "source": "cura",
       "name": "Força de Deus",
@@ -690,6 +660,16 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:cura:gui-gui-gury"
+    },
+    {
+      "id": "poder-daemon-anime-rpg-medica",
+      "source": "daemon-anime-rpg",
+      "name": "Médica",
+      "nameKey": "medica",
+      "category": "power_magic",
+      "subtype": "poder",
+      "lockedArea": "poderes",
+      "certificationId": "poder-lock:daemon-anime-rpg:medica"
     },
     {
       "id": "poder-daemon-tormenta-meio-elfos",
@@ -760,26 +740,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:nivel-atual-x2"
-    },
-    {
-      "id": "poder-dem-nio-o-pre-o-do-poder-de-quintessencia",
-      "source": "dem-nio-o-pre-o-do-poder",
-      "name": "de Quintessência",
-      "nameKey": "de-quintessencia",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:dem-nio-o-pre-o-do-poder:de-quintessencia"
-    },
-    {
-      "id": "poder-demonios-a-divina-comedia-succubi-incubi",
-      "source": "demonios-a-divina-comedia",
-      "name": "Succubi/Incubi)",
-      "nameKey": "succubi-incubi",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:demonios-a-divina-comedia:succubi-incubi"
     },
     {
       "id": "poder-demonios-a-divina-comedia-asas",
@@ -2062,16 +2022,6 @@
       "certificationId": "poder-lock:ismails-anjos-islamicos:bloqueio-de-poderes-angelicais"
     },
     {
-      "id": "poder-jedi-wokies",
-      "source": "jedi",
-      "name": "Wokies",
-      "nameKey": "wokies",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:jedi:wokies"
-    },
-    {
       "id": "poder-jedi-alterar-percepcoes",
       "source": "jedi",
       "name": "Alterar Percepções",
@@ -2242,16 +2192,6 @@
       "certificationId": "poder-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:ficha"
     },
     {
-      "id": "poder-marvel-rpg-7o-edicao-shiar",
-      "source": "marvel-rpg-7o-edicao",
-      "name": "SHI’AR",
-      "nameKey": "shiar",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:marvel-rpg-7o-edicao:shiar"
-    },
-    {
       "id": "poder-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-esta",
       "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
       "name": "Esta",
@@ -2260,16 +2200,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:esta"
-    },
-    {
-      "id": "poder-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-ou-poderes-maatianos",
-      "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-      "name": "ou Poderes Maatianos",
-      "nameKey": "ou-poderes-maatianos",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:ou-poderes-maatianos"
     },
     {
       "id": "poder-novo-aeon-guia-basico-especial",
@@ -3662,16 +3592,6 @@
       "certificationId": "poder-lock:poderes-cabalisticos:vingador-da-natureza"
     },
     {
-      "id": "poder-poderes-de-fe-02-oceano",
-      "source": "poderes-de-fe-02",
-      "name": "Oceano)",
-      "nameKey": "oceano",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:poderes-de-fe-02:oceano"
-    },
-    {
       "id": "poder-poderes-de-fe-02-cochilo",
       "source": "poderes-de-fe-02",
       "name": "Cochilo",
@@ -3800,16 +3720,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:poderes-de-fe-02:transferir-sugar-mana"
-    },
-    {
-      "id": "poder-poderes-de-fe-02-truque-magico",
-      "source": "poderes-de-fe-02",
-      "name": "Truque Mágico",
-      "nameKey": "truque-magico",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:poderes-de-fe-02:truque-magico"
     },
     {
       "id": "poder-poderes-mentais-caminhos-mediunidade-5",
@@ -4552,76 +4462,6 @@
       "certificationId": "poder-lock:spiritum:vozes"
     },
     {
-      "id": "poder-tagmar-daemon-versao-completa-outros-detalhes",
-      "source": "tagmar-daemon-versao-completa",
-      "name": "Outros Detalhes",
-      "nameKey": "outros-detalhes",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:tagmar-daemon-versao-completa:outros-detalhes"
-    },
-    {
-      "id": "poder-tagmar-daemon-versao-completa-pequeninos",
-      "source": "tagmar-daemon-versao-completa",
-      "name": "Pequeninos",
-      "nameKey": "pequeninos",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:tagmar-daemon-versao-completa:pequeninos"
-    },
-    {
-      "id": "poder-tagmar-daemon-versao-completa-anoes",
-      "source": "tagmar-daemon-versao-completa",
-      "name": "Anões",
-      "nameKey": "anoes",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:tagmar-daemon-versao-completa:anoes"
-    },
-    {
-      "id": "poder-trevas-3-0-chhc-pui-o-c",
-      "source": "trevas-3-0",
-      "name": "ChHC pUI O\"C",
-      "nameKey": "chhc-pui-o-c",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:trevas-3-0:chhc-pui-o-c"
-    },
-    {
-      "id": "poder-trevas-3-0-outros-premios",
-      "source": "trevas-3-0",
-      "name": "Outros prêmios",
-      "nameKey": "outros-premios",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:trevas-3-0:outros-premios"
-    },
-    {
-      "id": "poder-trevas-3-0-conflitos-entre-sociedades-secretas",
-      "source": "trevas-3-0",
-      "name": "Conflitos entre Sociedades Secretas",
-      "nameKey": "conflitos-entre-sociedades-secretas",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:trevas-3-0:conflitos-entre-sociedades-secretas"
-    },
-    {
-      "id": "poder-trevas-campanha-epica-andlangr",
-      "source": "trevas-campanha-epica",
-      "name": "Andlangr",
-      "nameKey": "andlangr",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:trevas-campanha-epica:andlangr"
-    },
-    {
       "id": "poder-trevas-campanha-epica-absoluto",
       "source": "trevas-campanha-epica",
       "name": "Absoluto",
@@ -4662,16 +4502,6 @@
       "certificationId": "poder-lock:trevas-campanha-epica:resistencia"
     },
     {
-      "id": "poder-trevas-de-marte-drakonia-drakon",
-      "source": "trevas-de-marte",
-      "name": "DRAKONIA (Drakon)",
-      "nameKey": "drakonia-drakon",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:trevas-de-marte:drakonia-drakon"
-    },
-    {
       "id": "poder-trevas-de-marte-daimons-servos-de-ares-marte",
       "source": "trevas-de-marte",
       "name": "Daimons Servos de Ares-Marte)",
@@ -4702,16 +4532,6 @@
       "certificationId": "poder-lock:um-sussurro-nas-trevas:int"
     },
     {
-      "id": "poder-vikings-biblioteca-elfica-montaria",
-      "source": "vikings-biblioteca-elfica",
-      "name": "MONTARIA",
-      "nameKey": "montaria",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:vikings-biblioteca-elfica:montaria"
-    },
-    {
       "id": "poder-vikings-biblioteca-elfica-uvas-de-thor",
       "source": "vikings-biblioteca-elfica",
       "name": "[uvas DE THOR",
@@ -4740,16 +4560,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:monstruoso"
-    },
-    {
-      "id": "poder-yuyu-hakusho-rpg-para-daemon-kinniku-souza-apenas-toguro",
-      "source": "yuyu-hakusho-rpg-para-daemon",
-      "name": "Kin’niku Souza (Apenas Toguro",
-      "nameKey": "kinniku-souza-apenas-toguro",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:yuyu-hakusho-rpg-para-daemon:kinniku-souza-apenas-toguro"
     },
     {
       "id": "poder-yuyu-hakusho-rpg-para-daemon-exercito-do-rei-kai",

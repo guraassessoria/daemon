@@ -9,8 +9,8 @@
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_magias": true,
     "rituais_are_kept_in_rituais": true
   },
-  "certifiedCount": 404,
-  "rejectedCount": 3807,
+  "certifiedCount": 396,
+  "rejectedCount": 3834,
   "records": [
     {
       "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
@@ -633,14 +633,14 @@
       "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-5"
     },
     {
-      "id": "magia-arkanun-cc-minhos-secund-rios",
+      "id": "magia-arkanun-afquimista",
       "source": "arkanun",
-      "name": "·cc\\minhos Secund&Rios",
-      "nameKey": "cc-minhos-secund-rios",
+      "name": "Afquimista",
+      "nameKey": "afquimista",
       "category": "power_magic",
       "subtype": "magia",
       "lockedArea": "magias",
-      "certificationId": "magia-lock:arkanun:cc-minhos-secund-rios"
+      "certificationId": "magia-lock:arkanun:afquimista"
     },
     {
       "id": "magia-arkanun-1e-ultra-raro-will-4d",
@@ -871,16 +871,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:daemon-tormenta:ambiente"
-    },
-    {
-      "id": "magia-daiphir-legado-de-sangue-controlar-som-terra-5",
-      "source": "daiphir-legado-de-sangue",
-      "name": "Controlar Som/Terra 5",
-      "nameKey": "controlar-som-terra-5",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:daiphir-legado-de-sangue:controlar-som-terra-5"
     },
     {
       "id": "magia-demonios-a-divina-comedia-madragora",
@@ -1643,16 +1633,6 @@
       "certificationId": "magia-lock:grimark201:entender-spiritum-8"
     },
     {
-      "id": "magia-grimorio-marcelo-del-debbio",
-      "source": "grimorio",
-      "name": "Marcelo Del Debbio |",
-      "nameKey": "marcelo-del-debbio",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:marcelo-del-debbio"
-    },
-    {
       "id": "magia-grimorio-controlar",
       "source": "grimorio",
       "name": "Controlar",
@@ -1731,16 +1711,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:grimorio:pontos-de-magia"
-    },
-    {
-      "id": "magia-grimorio-dano-e-forca",
-      "source": "grimorio",
-      "name": "Dano e Força",
-      "nameKey": "dano-e-forca",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:dano-e-forca"
     },
     {
       "id": "magia-grimorio-duracao",
@@ -1861,16 +1831,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:grimorio:nuvem-de-poeira"
-    },
-    {
-      "id": "magia-grimorio-superficie-espelhada",
-      "source": "grimorio",
-      "name": "Superfície Espelhada",
-      "nameKey": "superficie-espelhada",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:superficie-espelhada"
     },
     {
       "id": "magia-grimorio-ate-6o",
@@ -2291,16 +2251,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:grimorio:criar-controlar-animais-8"
-    },
-    {
-      "id": "magia-grimorio-criar-controlar-animais3",
-      "source": "grimorio",
-      "name": "Criar/Controlar Animais3 |",
-      "nameKey": "criar-controlar-animais3",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:criar-controlar-animais3"
     },
     {
       "id": "magia-grimorio-criar-arkanun-fogo-9",
@@ -3063,16 +3013,6 @@
       "certificationId": "magia-lock:grimorio:criar-controlar-ar-metamagia-6"
     },
     {
-      "id": "magia-grimorio-controlar-humanos-arkanun-3",
-      "source": "grimorio",
-      "name": "Controlar Humanos/Arkanun 3",
-      "nameKey": "controlar-humanos-arkanun-3",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:grimorio:controlar-humanos-arkanun-3"
-    },
-    {
       "id": "magia-grimorio101-lista-de-magias",
       "source": "grimorio101",
       "name": "Lista de Magias",
@@ -3451,16 +3391,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:guiademagias:koroakovis"
-    },
-    {
-      "id": "magia-guiademagias-especial",
-      "source": "guiademagias",
-      "name": "Especial",
-      "nameKey": "especial",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:guiademagias:especial"
     },
     {
       "id": "magia-guiademagias-animais-humanos-metamagia-8",
@@ -4021,16 +3951,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:spiritum:entender-spiritum-2"
-    },
-    {
-      "id": "magia-supers01-despertar",
-      "source": "supers01",
-      "name": "Despertar",
-      "nameKey": "despertar",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:supers01:despertar"
     },
     {
       "id": "magia-tagmar-daemon-limites-e-efeitos-maximos",

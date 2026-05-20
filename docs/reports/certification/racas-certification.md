@@ -2,10 +2,10 @@
 
 Varredura das fontes prontas com travas separadas para racas mecanicas e linhagens narrativas.
 
-- Certified items: 126
-- Certified racas: 56
+- Certified items: 124
+- Certified racas: 54
 - Certified linhagens: 70
-- Rejected candidates: 1329
+- Rejected candidates: 1331
 
 ## Policy
 
@@ -23,23 +23,26 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 | `guia-de-racas-de-arton-tormentarpg` | 42 |
 | `animalidade` | 12 |
 | `imortal-a-centelha` | 9 |
-| `daemon-tormenta` | 8 |
+| `daemon-tormenta` | 7 |
 | `ray` | 3 |
 | `guia-dos-dragoes-1-biblioteca-elfica` | 2 |
 | `alianca-daemon-01` | 1 |
 | `gaki` | 1 |
-| `tagmar-daemon-versao-completa` | 1 |
 
 ## Rejection reasons
 
 | Reason | Count |
 | --- | ---: |
-| `no_mechanical_race_signal` | 1107 |
-| `no_lineage_signal` | 112 |
-| `looks_like_kit_or_class` | 55 |
+| `no_mechanical_race_signal` | 983 |
+| `no_lineage_signal` | 94 |
+| `quality_critical_ocr_gibberish` | 92 |
+| `quality_too_long_possible_merged_blocks` | 73 |
 | `duplicate_certification_content` | 42 |
+| `quality_starts_mid_sentence_possible_left_cut` | 18 |
+| `looks_like_kit_or_class` | 15 |
 | `name_is_section_or_empty` | 8 |
 | `locked_as_kit` | 5 |
+| `quality_invalid_title_or_ocr_header` | 1 |
 
 ## Rejected sample
 
@@ -71,7 +74,7 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `animalidade` / `Cultura e Costumes`: no_mechanical_race_signal
 - `animalidade` / `O Umbral`: no_mechanical_race_signal
 - `animalidade` / `Os Ciganos`: no_mechanical_race_signal
-- `animalidade` / `Comunicação Animal`: no_mechanical_race_signal
+- `animalidade` / `Comunicação Animal`: quality_too_long_possible_merged_blocks
 - `animalidade` / `Conhecimento do Umbral`: no_mechanical_race_signal
 - `animalidade` / `Elo duplo`: no_mechanical_race_signal
 - `animalidade` / `Poder Elevado`: no_mechanical_race_signal
@@ -101,8 +104,8 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `anime-rpg-powers` / `LOBO`: no_mechanical_race_signal
 - `anime-rpg-powers` / `MORCEGO`: no_mechanical_race_signal
 - `anime-rpg-powers` / `Regeneração Vampírica`: no_lineage_signal
-- `anjos-a-cidade-de-prata-angelicos-sicarios` / `Thuatas`: no_lineage_signal
-- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Viviane Assis`: no_mechanical_race_signal
+- `anjos-a-cidade-de-prata-angelicos-sicarios` / `Thuatas`: quality_starts_mid_sentence_possible_left_cut
+- `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Viviane Assis`: quality_critical_ocr_gibberish
 - `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Mundo das Trevas`: no_lineage_signal
 - `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `Humanos 1`: no_mechanical_race_signal
 - `anjos-caidos-dragao-brasil-especial-16-biblioteca-elfica` / `suplemento GURPS Magia.)`: no_mechanical_race_signal
@@ -111,14 +114,14 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `Tlaisês`: no_mechanical_race_signal
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `CHRISTOS`: no_mechanical_race_signal
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `ANjes JUDEUS`: no_mechanical_race_signal
-- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `A Igreja Ortodoxa`: no_lineage_signal
-- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `XIITAS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `A Igreja Ortodoxa`: quality_critical_ocr_gibberish
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `XIITAS`: quality_critical_ocr_gibberish
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `PHANIM`: no_mechanical_race_signal
-- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `AFINIDADE CEM FADAS`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `AFINIDADE CEM FADAS`: quality_too_long_possible_merged_blocks
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `TUTOR`: no_mechanical_race_signal
-- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `GLIFO`: no_mechanical_race_signal
+- `anjos-jyhad-guerra-santa-biblioteca-elfica` / `GLIFO`: quality_critical_ocr_gibberish
 - `anjos-jyhad-guerra-santa-biblioteca-elfica` / `AFASTAR MERTES-vIVES`: no_mechanical_race_signal
-- `anoes` / `Guerreiro`: looks_like_kit_or_class
+- `anoes` / `Guerreiro`: quality_too_long_possible_merged_blocks
 - `arcadia-nova-arcadia` / `Entretanto`: no_lineage_signal
 - `arcadia-nova-arcadia` / `Oberon,`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Azania`: no_mechanical_race_signal
@@ -126,7 +129,7 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `arcadia-nova-arcadia` / `Lammazzus`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Leonira`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `no Mundo Belo`: no_mechanical_race_signal
-- `arcadia-nova-arcadia` / `Antiga,`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Antiga,`: quality_starts_mid_sentence_possible_left_cut
 - `arcadia-nova-arcadia` / `Goblin`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Pixie`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Pixies`: no_mechanical_race_signal
@@ -138,8 +141,8 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 - `arcadia-nova-arcadia` / `Elfos`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Gnomo`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Gnomos`: no_mechanical_race_signal
-- `arcadia-nova-arcadia` / `Racas Arcadianas`: no_mechanical_race_signal
+- `arcadia-nova-arcadia` / `Racas Arcadianas`: quality_too_long_possible_merged_blocks
 - `arcadia-nova-arcadia` / `DESVANTAGENS RACIAIS`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `Essa`: no_mechanical_race_signal
 - `arcadia-nova-arcadia` / `MALDIO,`: no_mechanical_race_signal
-- `ark-a-nun-arquivos-de-bel-kalaa` / `Venenoso`: no_lineage_signal
+- `ark-a-nun-arquivos-de-bel-kalaa` / `Venenoso`: quality_too_long_possible_merged_blocks

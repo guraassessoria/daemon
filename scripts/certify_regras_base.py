@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure
 
 
 ENTITY_FILES = [
@@ -89,6 +90,8 @@ def certification_failure(entity: dict[str, Any], locked_names: dict[str, set[tu
         return "name_has_sentence_punctuation"
     if len(body) < 45:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
     if len(STAT_BLOCK_RE.findall(body[:1000])) >= 5:
         return "looks_like_stat_block"
     if CHARACTER_OPTION_RE.search(body[:1400]):

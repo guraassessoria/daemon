@@ -9,8 +9,8 @@
     "certified_poderes_and_magias_are_not_reclassified_as_rituais": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_rituais": true
   },
-  "certifiedCount": 76,
-  "rejectedCount": 460,
+  "certifiedCount": 74,
+  "rejectedCount": 462,
   "records": [
     {
       "id": "ritual-alastores-a-justica-infernal-convocar-duinum",
@@ -61,16 +61,6 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:alastores-a-justica-infernal:sellas-locum"
-    },
-    {
-      "id": "ritual-anjos-a-cidade-de-prata-nvas-pericias",
-      "source": "anjos-a-cidade-de-prata",
-      "name": "N®VAS PERÍCIAS",
-      "nameKey": "nvas-pericias",
-      "category": "ritual_spell",
-      "subtype": "ritual",
-      "lockedArea": "rituais",
-      "certificationId": "ritual-lock:anjos-a-cidade-de-prata:nvas-pericias"
     },
     {
       "id": "ritual-anjos-jyhad-guerra-santa-biblioteca-elfica-novas-pericias",
@@ -441,16 +431,6 @@
       "subtype": "ritual",
       "lockedArea": "rituais",
       "certificationId": "ritual-lock:guiademagias:humanos-animais-metamagia-1"
-    },
-    {
-      "id": "ritual-inquisicao-biblioteca-elfica-pedir",
-      "source": "inquisicao-biblioteca-elfica",
-      "name": "Pedir",
-      "nameKey": "pedir",
-      "category": "ritual_spell",
-      "subtype": "ritual",
-      "lockedArea": "rituais",
-      "certificationId": "ritual-lock:inquisicao-biblioteca-elfica:pedir"
     },
     {
       "id": "ritual-lobisomens-maldicao-de-licantropia",

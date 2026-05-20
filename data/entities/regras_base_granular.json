@@ -338,38 +338,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-regras-e-testes-65",
-    "name": "REGRAS e TESTES",
-    "category": "attribute_skill",
-    "source": "anjos-a-cidade-de-prata",
-    "page": 65,
-    "pages": [
-      65,
-      66
-    ],
-    "entries": [
-      "REGRAS e TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Anjos_-_A_Cidade_de_Prata",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:regras-e-testes",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-teste-de-resistencia-67",
     "name": "TESTE DE RESISTÊNCIA",
     "category": "core_rule",
@@ -401,41 +369,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:teste-de-resistencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-anjos-a-cidade-de-prata-anjos-a-cidade-de-prata-indice-de-prteca-ip-70",
-    "name": "ÍNDICE DÊ PR®TECÃ® (IP)",
-    "category": "combat",
-    "source": "anjos-a-cidade-de-prata",
-    "page": 70,
-    "pages": [
-      70,
-      71,
-      72,
-      73,
-      74,
-      75
-    ],
-    "entries": [
-      "_ ÍNDICE DÊ PR®TECÃ® (IP) O índice de proteção existe para representar algum tipo de proteção contra dano. Na Idade Média, existiam armas dos mais variados tipos. Não podemos esquecer dos feiticeiros e _ magos que lançavam seus encatamentos sobre os inimigos. De uma maneira ou de outra, quando um golpe atinge uma pessoa, parte do dano pode ser absorvida por..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Anjos_-_A_Cidade_de_Prata",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:anjos-a-cidade-de-prata:indice-de-prteca-ip",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -531,38 +464,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-pederes-angelicais-65",
-    "name": "PeDERES ANGELICAIS",
-    "category": "attribute_skill",
-    "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-    "page": 65,
-    "pages": [
-      65,
-      66,
-      67
-    ],
-    "entries": [
-      "PeDERES ANGELICAIS A seguir fornecemos as características e poderes mais comuns pertencentes às Castas descritas neste livro. Note que esta lista é apenas uma sugestão, e que cada anjo de- senvolve com o passar do tempo poderes únicos e diferen- ciados de todos os outros. Os poderes estão divididos em níveis. Para obter um poder no nível 2, é necessário que..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:pederes-angelicais",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-iluminacao-73",
     "name": "ILUMINAÇÃO",
     "category": "combat",
@@ -594,39 +495,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:iluminacao",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-protecao-77",
-    "name": "PROTECÃO",
-    "category": "combat",
-    "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-    "page": 77,
-    "pages": [
-      77,
-      78
-    ],
-    "entries": [
-      "ca ou eletrônica. Caso o anjo desconheça a máquina (não tem a perícia adequada para utilizá-la manualmente), ou esta tenha von- tade própria, Teste sua INT para obter sucesso no controle da máquina desconhecida e INT vs. INT nos outros casos. PROTECÃO (somente Hafasa) Nível 1: Sentir o Protegido. O anjo pode sentir a locali- zação e o estado de saúde de seu..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "experiencia",
-      "pericias",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:protecao",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -721,39 +589,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:teste-de-resistencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-anjos-jyhad-guerra-santa-biblioteca-elfica-anjos-jyhad-guerra-santa-biblioteca-elfica-indice-de-protecao-ip-90",
-    "name": "ÍNDICE DE PROTEÇÃO [IP)",
-    "category": "combat",
-    "source": "anjos-jyhad-guerra-santa-biblioteca-elfica",
-    "page": 90,
-    "pages": [
-      90,
-      91,
-      92,
-      93
-    ],
-    "entries": [
-      "ÍNDICE DE PROTEÇÃO [IP) O índice de proteção existe para representar algum tipo de proteção contra dano, Na Idade Média, existiam armas dos mais variados tipos. Não podemos esquecer dos feiticeiros e magos que lançavam seus encatamentos sobre os inimigos. De uma maneira ou de outra, quando um golpe atinge uma pessoa, parte do dano pode ser absorvida por sua..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Anjos Jyhad-guerra-santa-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:anjos-jyhad-guerra-santa-biblioteca-elfica:indice-de-protecao-ip",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -1066,41 +901,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-arcanis-arcanis-capitulo-03-cabalas-dos-arcanis-8",
-    "name": "Capítulo 03- Cabalas dos Arcanis",
-    "category": "core_rule",
-    "source": "arcanis",
-    "page": 8,
-    "pages": [
-      8,
-      9,
-      10,
-      11,
-      12
-    ],
-    "entries": [
-      "8 Kansarianos que usem a lágrima do sangue do ódio, recebem sendo Arcanis um bônus de +15% em todos os testes seguintes seja ataque/defesa/evasiva além de uma ação extra convencional (pois se locomove mais rápido que os outros), além de um bônus temporário de +4 no IP natural. O Kansariano fica com uma cara de idiota e as vezes não é levado a sério pelos seu..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "arcanis",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arcanis:capitulo-03-cabalas-dos-arcanis",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-ark-a-nun-arquivos-de-bel-kalaa-ark-a-nun-arquivos-de-bel-kalaa-con-2d-fr-2d-2-dex-3d-agi-3d-int-5-will-4-car-1d-per-5d-3-39-1",
     "name": "CON[2D],FR[2D+2],DEX[3D],AGI[3D],INT[5],WILL[4],CAR[1D],PER[5D+3]. (39-48)",
     "category": "combat",
@@ -1314,68 +1114,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:arkanun:a-mibucos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-arkanun-arkanun-cl-meros-de-efeste-24",
-    "name": "Çl'@meros de êfeste",
-    "category": "attribute_skill",
-    "source": "arkanun",
-    "page": 24,
-    "pages": [
-      24
-    ],
-    "entries": [
-      "Çl'@meros de êfeste A qualquer momento do jogo, o Mestre pode exi­ gir de um Jogador um Teste de Atributo para desco­ brir se ele é capaz de fazer alguma coisa. O Atributo testado vai depender da natureza da ação: arrombar uma porta vai exigir um Teste de Força; desenhar um mapa exige um Teste de Destreza; e \"levar no papo\" uma secretária de um político para..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Arkanun",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arkanun:cl-meros-de-efeste",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-arkanun-arkanun-e-etiqueta-car-62",
-    "name": "e.Etiqueta (car)*",
-    "category": "attribute_skill",
-    "source": "arkanun",
-    "page": 62,
-    "pages": [
-      62
-    ],
-    "entries": [
-      "e.Etiqueta (car)* Esta Perícia permite ao Personagem sab€r como fa­ lar, vestir-se e comportar-se educadamente de acordo com a situação. É útil em festas, bailes e discussões di­ plomáticas. Um Teste bem-sucedido de Etiqueta não ga­ rante que o Personagem vai livrar-se de uma encrenca, mas pelo menos evita que seja mal interpretado. A Perí­ cia garante apena..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "pericias",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Arkanun",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arkanun:e-etiqueta-car",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -1688,37 +1426,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:arkanun-1e-ultra-raro:atributos-basicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-arkanun-1e-ultra-raro-arkanun-1e-ultra-raro-pericias-com-28",
-    "name": "Perícias com",
-    "category": "combat",
-    "source": "arkanun-1e-ultra-raro",
-    "page": 28,
-    "pages": [
-      28,
-      29
-    ],
-    "entries": [
-      "Perícias com Armas Faça seu movimento, garoto E cufareio meu... As perícias com armas funcionam de maneira muito semelhan- teàs perícias normais. O jogador define quantos pontos irá gastar com armas e divide a seu gosto. Às perícias com armas funcionam da seguinte maneira: na fi- cha de personagem temos o nome da arma seguido por dois núme- Tos separados por..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Arkanun-1e-ultra-raro",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arkanun-1e-ultra-raro:pericias-com",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -2273,67 +1980,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:armas-de-fogo:armas-de-fogo",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-armas-de-fogo-armas-de-fogo-armas-longas-5",
-    "name": "Armas Longas",
-    "category": "combat",
-    "source": "armas-de-fogo",
-    "page": 5,
-    "pages": [
-      5,
-      6
-    ],
-    "entries": [
-      "Armas Longas São armas de fogo com cano longo, com maior alcance e precisão, mas menos mobilidade para tiros rápidos, por isso recebem uma penalidade a sua Iniciativa. Devem ser disparadas com as duas mãos (Teste DIFICÍL se usar apenas uma) e só podem ser ocultadas em um sobretudo ou capa. Fuzis: O fuzil é uma arma de cano longo que se tornou o armamento de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Armas de Fogo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:armas-de-fogo:armas-longas",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-armas-de-fogo-armas-de-fogo-dano-7",
-    "name": "Dano",
-    "category": "combat",
-    "source": "armas-de-fogo",
-    "page": 7,
-    "pages": [
-      7
-    ],
-    "entries": [
-      "Dano O Dano que uma arma pode causar é determinado por seu calibre. Alguns tipos de munições especiais podem aumentar ou reduzir o dano padrão ou suas características. Balas de Revólver São as balas tradicionais, com uma ponta maciça de chumbo endurecido; geralmente utilizadas em revólveres, mas também são utilizadas em armas longas raiadas, conhecidas como..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Armas de Fogo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:armas-de-fogo:dano",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -3043,37 +2689,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-arte-da-guerra-arte-da-guerra-regras-dano-17",
-    "name": "REGRAS : DANO",
-    "category": "attribute_skill",
-    "source": "arte-da-guerra",
-    "page": 17,
-    "pages": [
-      17
-    ],
-    "entries": [
-      "REGRAS : DANO Dano Simples Em caso de acerto critico o personagem obriga o oponente a fazer um teste de constituição fácil, se passa ele leva o dano correspondente a acerto critico, mas em caso de falha além do dano critico o oponente é penalizado dependendo do tipo de dano... Corte - AMPUTAÇÃO Ele sofre dano mínimo da arma, (com o aumento correspondente ao..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Arte da Guerra",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arte-da-guerra:regras-dano",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-arte-da-guerra-arte-da-guerra-regras-chi-20",
     "name": "Regras : CHI",
     "category": "core_rule",
@@ -3100,36 +2715,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:arte-da-guerra:regras-chi",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-arte-da-guerra-arte-da-guerra-poderes-misticos-23",
-    "name": "PODERES MÍSTICOS",
-    "category": "combat",
-    "source": "arte-da-guerra",
-    "page": 23,
-    "pages": [
-      23
-    ],
-    "entries": [
-      "PODERES MÍSTICOS Representam pequenos efeitos que podem ser feitos através do domínio do CHI. Os poderes místicos consomem a essência de quem os usa, então quando se usa estes poderes você paga o custo do nível do poder em pontos de Chi. Este poderes são apenas exemplos, muitos outros podem ser criados e são especificados em doutrina... PS: Algum poderes de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Arte da Guerra",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:arte-da-guerra:poderes-misticos",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -3467,37 +3052,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:atributos:percepcao",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-atributos-atributos-idade-13",
-    "name": "Idade",
-    "category": "core_rule",
-    "source": "atributos",
-    "page": 13,
-    "pages": [
-      13,
-      14
-    ],
-    "entries": [
-      "Idade Os atributos não permanecem os mesmos ao longo do tempo. Eles vem, ficam e vão. Todas as criaturas nascem com o mínimo possível para a sua espécie e, de acordo com seu metabolismo, vão ganhando mais atributos até atingirem a fase adulta. Note que essa regra se aplica à maioria das espécies conhecidas pela humanidade. Há nessa mesma orbe criaturas tão a..."
-    ],
-    "tags": [
-      "atributos",
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Atributos",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:atributos:idade",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -4267,36 +3821,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-cura-cura-cura-de-skady-7",
-    "name": "Cura de Skady",
-    "category": "combat",
-    "source": "cura",
-    "page": 7,
-    "pages": [
-      7
-    ],
-    "entries": [
-      "Cura de Skady Custo: 15. Só pode ser usado uma vez em toda uma vida. Aquele que conjura esse poder perde 1d6 pontos de vida permanentes, em troca de curar qualquer male ou doença mágica ou não que envolve o receptor do poder (quem sabe esse seja o próprio clérigo). Força de Deus Custo: 1. Deve ser usado antes ou durante de um combate. A partir do momento em..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "cura",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:cura:cura-de-skady",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-daemon-anime-rpg-daemon-anime-rpg-conceito-baico-7",
     "name": "Conceito• Bá•ico•",
     "category": "attribute_skill",
@@ -4355,36 +3879,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:daemon-anime-rpg:pontos-de-pericias",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-daemon-anime-rpg-daemon-anime-rpg-kit-17",
-    "name": "Kit•",
-    "category": "attribute_skill",
-    "source": "daemon-anime-rpg",
-    "page": 17,
-    "pages": [
-      17
-    ],
-    "entries": [
-      "Kit• Um kit é um conjunto pronto de aprimoramentos e perícias que facilita a sua vida na hora de montar um Personagem. Ele serve para desenvolver conceitos e auxiliar os jogadores a escolher melhor suas perícias e aprimoramentos. Se você quiser criar um kit novo, proceda da seguinte maneira: um kit é uma profissão conhecida na qual todos os profissionais que..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Daemon - Anime RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-anime-rpg:kit",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -4477,35 +3971,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-daemon-anime-rpg-daemon-anime-rpg-assombrado-42",
-    "name": "Assombrado",
-    "category": "core_rule",
-    "source": "daemon-anime-rpg",
-    "page": 42,
-    "pages": [
-      42
-    ],
-    "entries": [
-      "Assombrado -1 ponto: por algum motivo, pessoas mortas que o Personagem conheceu em vida retornam como espíritos para assombrá-lo. Podem ficar por perto e, em alguns casos, conversar com ele. Alguns espíritos apresentam formas assustadoras, decompondo-se lentamente, noite após noite, em sua presença. Muitos fazem perguntas do tipo \"por que você me matou?\" ou..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Daemon - Anime RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-anime-rpg:assombrado",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-daemon-anime-rpg-daemon-anime-rpg-ferra-fria-44",
     "name": "Ferra Fria",
     "category": "combat",
@@ -4593,38 +4058,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:daemon-anime-rpg:pericia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-daemon-anime-rpg-daemon-anime-rpg-camut-lagem-per-51",
-    "name": "Camut'lagem {PER}",
-    "category": "attribute_skill",
-    "source": "daemon-anime-rpg",
-    "page": 51,
-    "pages": [
-      51,
-      52
-    ],
-    "entries": [
-      "Camut'lagem {PER} Permite ao Personagem esconder-se ou esconder pessoas em falsos compartimentos, esconderijos ou coberturas especiais. Um Teste de perícia bem-sucedido esconde o Personagem de alguém que não o esteja procurando. Se ele estiver sendo procurado, faça um Teste de perícia Camuflagem vs. Perícia Procura. Ciências* [INTJ Uma ciência é um grupo de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "pericias",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Daemon - Anime RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-anime-rpg:camut-lagem-per",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -4991,66 +4424,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-daemon-anime-rpg-daemon-anime-rpg-ataque-total-111",
-    "name": "Ataque Total",
-    "category": "combat",
-    "source": "daemon-anime-rpg",
-    "page": 111,
-    "pages": [
-      111
-    ],
-    "entries": [
-      "Ataque Total Também conhecido como Carga. O Personagem esquece to­ das as recomendações sobre prudência e ataca seu iniqiigo. Ele realiza um único ataque e não tem direito a defesa. Seu valor de ataque aumenta em 1 0% e o dano em +2. Além disso o dano de impacto passa a ser 3+bônus de Força. De\"t'e!§a Total Se o Personagem decidir que não pretende atacar o o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Daemon - Anime RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-anime-rpg:ataque-total",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-daemon-anime-rpg-daemon-anime-rpg-combate-nao-mortal-113",
-    "name": "Combate não Mortal",
-    "category": "core_rule",
-    "source": "daemon-anime-rpg",
-    "page": 113,
-    "pages": [
-      113
-    ],
-    "entries": [
-      "Combate não Mortal Dois Personagens podem estar brigando e não lutando. São os casos clássicos de Personagens da campanha que se desentenderam por algum problema da aventura e acabam perdendo a paciência um com o outro. As lutas de Boxe e Artes Marciais também se encaixam nesta categoria. Nenhum dos Personagens pretende matar o outro: vencer é suficiente. No..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Daemon - Anime RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-anime-rpg:combate-nao-mortal",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-daemon-anime-rpg-daemon-anime-rpg-venenos-114",
     "name": "Venenos",
     "category": "core_rule",
@@ -5256,37 +4629,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:daemon-medieval:capitulo-8-armas-e-equipamentos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-daemon-medieval-daemon-medieval-capitulo-10-60",
-    "name": "Capítulo 10",
-    "category": "attribute_skill",
-    "source": "daemon-medieval",
-    "page": 60,
-    "pages": [
-      60
-    ],
-    "entries": [
-      "Capítulo 10 – Regras de testes e combate 60 Capítulo 10 Regras de Testes e Combate or mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, por..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Daemon Medieval",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-medieval:capitulo-10",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -5514,36 +4856,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:daemon-revisado-playtest-alfa-3-6:nome",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-daemon-sem-nivel-daemon-sem-nivel-sistema-daemon-sem-nivel-1",
-    "name": "Sistema Daemon sem nível",
-    "category": "core_rule",
-    "source": "daemon-sem-nivel",
-    "page": 1,
-    "pages": [
-      1
-    ],
-    "entries": [
-      "Sistema Daemon sem nível O Sistema Daemon é um ótimo sistema, principalmente por possuir poucas regras e ao mesmo tempo ser bem realista. Ainda assim deixa a desejar em vários pontos, onde apenas os fãs e leitores mais detalhistas percebem, e entre estes aspectos está o sistema de Experiência. Existem duas formas de um personagem evoluir no SD: por nível ou..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Daemon-Sem-Nivel",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-sem-nivel:sistema-daemon-sem-nivel",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -6007,45 +5319,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-18",
-    "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (171-180)",
-    "category": "combat",
-    "source": "daemon-tormenta",
-    "page": 171,
-    "pages": [
-      171,
-      172,
-      173,
-      174,
-      175,
-      176,
-      177,
-      178,
-      179,
-      180
-    ],
-    "entries": [
-      "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES Ataques à distância com a mão oposta Deve-se proceder da mesma maneira que no caso de um ataque corporal, sem o aprimoramento Ambidestria o personagem perde o bônus de DES, sem a manobra Lutar com 2 Armas, o personagem reduz o valor de ataque à metade, deve-se observar que se uma arma e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Daemon Tormenta",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:daemon-tormenta:tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-171-180",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-daemon-tormenta-daemon-tormenta-tormenta-rpg-sistema-daemon-versao-de-thiago-mestre-kwan-rodrigues-1-19",
     "name": "TORMENTA RPG – SISTEMA DAEMON – VERSÃO DE THIAGO “MESTRE KWAN” RODRIGUES (181-181)",
     "category": "core_rule",
@@ -6298,36 +5571,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:dbz-rpg:editorial",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-dbz-rpg-dbz-rpg-passo-3-atributos-7",
-    "name": "Passo 3: Atributos",
-    "category": "attribute_skill",
-    "source": "dbz-rpg",
-    "page": 7,
-    "pages": [
-      7
-    ],
-    "entries": [
-      "Passo 3: Atributos Como estamos trabalhando com DBZ, os Personagens pos- suirão 150 pontos para distribuir em seus oito Atributos. Os Atributos devem ser distribuídos de acordo com a sua concepção do Personagem. Como você imagina que ele é? For- te como um touro, ou magro e franzino? Inteligente? Um perito em acrobacias? Os Atributos servem para colocar suas..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "DBZ_RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:dbz-rpg:passo-3-atributos",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -7197,39 +6440,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-custo-forca-alcance-dano-71",
-    "name": "Custo Força Alcance Dano",
-    "category": "combat",
-    "source": "demonios-a-divina-comedia",
-    "page": 71,
-    "pages": [
-      71,
-      72,
-      73
-    ],
-    "entries": [
-      "Custo Força Alcance Dano Nível 0 1D 0m 0 Nível 1 2D 1m 1d6 Nível 2 3D 2m 2d6( Max ) Nível 3 4D 4m Nível 4 5D 8m Obs: Em caso de combate, a utilização de mais de um ataque deve respeitar o intervalo mínimo entre 2 disparos de 10 rodadas. MALDIÇÕES (Anjos Caídos, Daemons, Succubi/Incubi, Espectros) Nível 1: Causar Doenças Naturais. O demônio pode causar uma do..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Demônios - A Divina Comédia",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:demonios-a-divina-comedia:custo-forca-alcance-dano",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-fraquezas-74",
     "name": "FRAQUEZAS",
     "category": "combat",
@@ -7258,37 +6468,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:demonios-a-divina-comedia:fraquezas",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-regras-e-testes-110",
-    "name": "REGRAS E TESTES",
-    "category": "attribute_skill",
-    "source": "demonios-a-divina-comedia",
-    "page": 110,
-    "pages": [
-      110
-    ],
-    "entries": [
-      "REGRAS E TESTES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, e necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porem muito eficientes, pois neste jogo e privilegiada a resolução de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Demônios - A Divina Comédia",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:demonios-a-divina-comedia:regras-e-testes",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -7352,38 +6531,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:demonios-a-divina-comedia:teste-de-resistencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-demonios-a-divina-comedia-demonios-a-divina-comedia-iniciativa-negativa-114",
-    "name": "INICIATIVA NEGATIVA",
-    "category": "combat",
-    "source": "demonios-a-divina-comedia",
-    "page": 114,
-    "pages": [
-      114,
-      115,
-      116,
-      117
-    ],
-    "entries": [
-      "INICIATIVA NEGATIVA Se um Personagem, após ter os modificadores aplicados, ficar com iniciativa negativa, ele perde sua ação nessa rodada. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumuladas de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada seguinte, se..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Demônios - A Divina Comédia",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:demonios-a-divina-comedia:iniciativa-negativa",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -7529,36 +6676,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-dragao-brasil-especial-06-trevas-dragao-brasil-especial-06-trevas-as-regras-do-jogo-6",
-    "name": "AS REGRAS DO JOGO",
-    "category": "attribute_skill",
-    "source": "dragao-brasil-especial-06-trevas",
-    "page": 6,
-    "pages": [
-      6,
-      7
-    ],
-    "entries": [
-      "T , ~ - AS REGRAS DO JOGO RPG, ou RuiePlayi118 Game, é um jogo diferente daqueles que você conhece. Não um jogo de competição, mas de cooperação: vencer ou perder não é importante. Nem competir. Em uma partida de TREVAS, lemos um pequeno grupo de jogadores e um Mestre. O Mestre propõe um desafio, uma aventura, e os jogadores devem solucioná-la. Na verdade, e..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Dragão Brasil especial 06 - Trevas",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:dragao-brasil-especial-06-trevas:as-regras-do-jogo",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-dragao-brasil-especial-06-trevas-dragao-brasil-especial-06-trevas-atributos-basicos-8",
     "name": "ATRIBUTOS BASICOS",
     "category": "attribute_skill",
@@ -7653,28 +6770,28 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-48",
+    "id": "regra-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-sistema-daemon-dragoes-reis-caidos-50",
     "name": "Dragões: Reis Caídos",
-    "category": "attribute_skill",
+    "category": "core_rule",
     "source": "dragoes-reis-caidos-sistema-daemon",
-    "page": 48,
+    "page": 50,
     "pages": [
-      48,
-      49
+      50,
+      51
     ],
     "entries": [
-      "Dragões: Reis Caídos Poderes Dracônicos Asas (todas as raças) Nível 1: o dragão possui um grande par de asas draconianas, e é capaz de voar a até 40m/s (aprox. 150km/h). Nível 2: o dragão é capaz de voar a até a velocidade máxima de 80m/s (aprox. 300km/h). Nível 3: o dragão é capaz de voar a a até 160m/s (aprox. 600km/h). Nível 4: o dragão é capaz de voar a..."
+      "Dragões: Reis Caídos nível 4 (Hálito Escaldante), de modo que este nível de poder poderá ser usado sem os efeitos colaterais. Nível 6: Fusão Terrena – O Dragão Marrom liga- se ainda mais ao Plano Elemental da Terra, utilizando-o como forma de atravessar grandes distâncias. Quando entrar em uma grande poça argilosa ou penetrar em areias desérticas, o Dragão M..."
     ],
     "tags": [
-      "attribute_skill",
       "auto-extraido",
       "certificado",
+      "core_rule",
       "experiencia",
       "regras-base"
     ],
-    "confidence": 0.8,
+    "confidence": 0.82,
     "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
+    "rulesContext": "book-part-category:core_rule",
     "sourceTitle": "Dragoes-Reis-Caidos-Sistema-Daemon",
     "certificationStatus": "certified",
     "certifiedAs": "regra_base",
@@ -7807,37 +6924,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-escudos02-escudos02-manobras-de-combate-2",
-    "name": "Manobras de Combate",
-    "category": "combat",
-    "source": "escudos02",
-    "page": 2,
-    "pages": [
-      2
-    ],
-    "entries": [
-      "Manobras de Combate Arremesso (20) Seu Personagem pode arremessar o escudo à distância (até FR metros) com um teste de Ataque do escudo (mas ele NÃO vai ricochetear e voltar pra sua mão, a menos que você utilize o Poder de Fé: Arremesso de Arma que se encontra no Net-Book - Novos Poderes de Fé). O dano causado é de 1d6+bônus escudos comuns e 2d6+bônus os com..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "escudos02",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:escudos02:manobras-de-combate",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-evolucao-alternativa-evolucao-alternativa-evolucao-alternativa-1",
     "name": "Evolução Alternativa",
     "category": "core_rule",
@@ -7895,37 +6981,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:evolucao-alternativa:investindo-os-pontos-de-treino",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-evolucao-alternativa-evolucao-alternativa-atributo-base-11",
-    "name": "ATRIBUTO BASE",
-    "category": "attribute_skill",
-    "source": "evolucao-alternativa",
-    "page": 11,
-    "pages": [
-      11,
-      12
-    ],
-    "entries": [
-      "Custo em Pontos de Treino de 1 Ponto de Atributo ATRIBUTO BASE 24 21 18 15 12 9 6 3 10 5 10 15 20 25 30 35 40 15 10 15 20 25 30 35 40 45 20 15 20 25 30 35 40 45 50 25 20 25 30 35 40 45 50 55 30 25 30 35 40 45 50 55 60 35 30 35 40 45 50 55 60 65 40 35 40 45 50 55 60 65 70 45 40 45 50 55 60 65 70 75 IDADE 50 45 50 55 60 65 70 75 80 Custo em Pontos de Treino de..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Evolução Alternativa",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:evolucao-alternativa:atributo-base",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -8292,44 +7347,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:gerador-de-criaturas:caracteristicas-de-ataque",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-gerador-de-criaturas-gerador-de-criaturas-elementos-secundarios-72",
-    "name": "ELEMENTOS SECUNDÁRIOS",
-    "category": "core_rule",
-    "source": "gerador-de-criaturas",
-    "page": 72,
-    "pages": [
-      72,
-      73,
-      74,
-      75,
-      76,
-      77,
-      78
-    ],
-    "entries": [
-      "72 Nível 3 – 1,5 pontos – o manto de sombras tem área igual ao atributo base x2 em metros, os alvos dentro dessa área recebem um redutor em sua percepção igual ao atributo base, e uma penalidade em seus testes igual ao atributo base x3. Nível 4 – 2 pontos – o manto de sombras tem área igual ao atributo base x5 em metros, os alvos dentro dessa área recebem um..."
-    ],
-    "tags": [
-      "atributos",
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Gerador de criaturas",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:gerador-de-criaturas:elementos-secundarios",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -8715,37 +7732,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-grimorio-grimorio-duracao-uma-cena-d-31",
-    "name": "Duração: uma cena (D)",
-    "category": "core_rule",
-    "source": "grimorio",
-    "page": 31,
-    "pages": [
-      31
-    ],
-    "entries": [
-      "Duração: uma cena (D) Teste de Resistência: nenhum Resistência à Magia: não Esta magia faz brotar do chão uma arma qualquer, à escolha do clérigo — espada, machado, lança, arco e flecha — feita de madeira, cipó e espinhos muito afiados. Ela é considerada uma arma má- gica e seu bônus é igual a um terço do nível do mago (limitado um máximo de +5). A Arma de A..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Grimorio",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:grimorio:duracao-uma-cena-d",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-grimorio-grimorio-cabana-de-trevas-46",
     "name": "Cabana de Trevas",
     "category": "core_rule",
@@ -8804,37 +7790,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:grimorio:controle-de-emocoes",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-grimorio-grimorio-duracao-1-semana-69",
-    "name": "Duração: 1 semana",
-    "category": "core_rule",
-    "source": "grimorio",
-    "page": 69,
-    "pages": [
-      69
-    ],
-    "entries": [
-      "Duração: 1 semana Teste de Resistência: vontade (WILL) anula Resistência à Magia: sim Este ritual afeta um grande grupo de pessoas (até 10 pesso- as por nível do mago) de modo que eles sejam influenciados pelo modo de pensar do feiticeiro. Não funciona como um ritual de charm ou dominação, mas apenas como um catalisador para emoções que estejam enraizadas no..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Grimorio",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:grimorio:duracao-1-semana",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -9093,46 +8048,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guerreiros-orientais-guerreiros-orientais-agilidade-agi-29",
-    "name": "Agilidade (AGI)",
-    "category": "attribute_skill",
-    "source": "guerreiros-orientais",
-    "page": 29,
-    "pages": [
-      29,
-      30,
-      31,
-      32,
-      33,
-      34,
-      35,
-      36,
-      37,
-      38,
-      39
-    ],
-    "entries": [
-      "Agilidade (AGI) Atributos são números que transportam para o jogo as características de um personagem. Esses números dizem como o personagem é, se comparado a outros personagens e criaturas. A contrário da Destreza, a Agilidade é válida para o corpo todo. Com um alto valor em Agilidade, um personagem pode correr mais rápido, equilibrar-se melhor, esquivar-se..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Guerreiros Orientais",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guerreiros-orientais:agilidade-agi",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guerreiros-orientais-guerreiros-orientais-causando-40",
     "name": "causando",
     "category": "core_rule",
@@ -9259,65 +8174,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-amt-longside-29",
-    "name": "AMT Longside",
-    "category": "combat",
-    "source": "guia-de-armas-de-fogo-3a-edicao",
-    "page": 29,
-    "pages": [
-      29
-    ],
-    "entries": [
-      "AMT Longside É urna pistola multo connável e segura, Ideal para li defesa do lar. O cano é duas polegadas mais longo que as tradicionais calibre 45, dando um recuo menor e maiores velocidade e precisão. DaelllOn ld6+2 CURPS 21)+) SI,ado .. -run .\" Cy~rpunk 2020 4d6 WhlleWolf 7 Dl' 2<18 Mllnição: 45 ACP l'c$O: 2.2 kg /lI'Cnlc: IJ CdT: I Alcance: 60111 ~USS4SO..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas de Fogo - 3a Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:amt-longside",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-bersa-226-da-33",
-    "name": "Bersa 226 DA",
-    "category": "combat",
-    "source": "guia-de-armas-de-fogo-3a-edicao",
-    "page": 33,
-    "pages": [
-      33
-    ],
-    "entries": [
-      "Bersa 226 DA Esse é outro \"modelo originado do tiro esportivo que ganhou uso nas ruas. O sistema de redução de recuo é dos melhores do mundo. ,- \"\" GURI'S \"'\" Shadownm 7L Cylxrp\"\"k2020 2d' WhiCtWolr 7 020 14112 Munição: 22 LR Peso: 1.1 kg III'cnle: 10 + 1 CdT:2 A kante: 50rn Preço: US$ 230.00 Bersa 255 Este modelo simples é fabricado na Argentina. Utiliza pe..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas de Fogo - 3a Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:bersa-226-da",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-bersa-383-34",
     "name": "Bersa 383",
     "category": "combat",
@@ -9403,36 +8259,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:detonics-pocket",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-seecap-11-stainless-52",
-    "name": "SeeCap 11 Stainless",
-    "category": "combat",
-    "source": "guia-de-armas-de-fogo-3a-edicao",
-    "page": 52,
-    "pages": [
-      52
-    ],
-    "entries": [
-      "SeeCap 11 Stainless Uma das armas favoritas para uso camufiado, devido ao tamanho mlnusculo. Possui baixo calibre, mas é perfeito para defesa pessolll. Possui trava de segurança. ''''''mOlI Id6+ I GUIlPS IIH2 StuoOO\"Hun ~L Cybtrpunk 2020 Id6 While wolr !li 020 IdS Muniçao: 25 Aep 'Pente: 8 Alcance: 35m Sig Sauer 220 Peso: 0.5 k8 CdT:l Prtço: USS 220.00 N o r..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas de Fogo - 3a Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:seecap-11-stainless",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -9554,35 +8380,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-winchester-1300-92",
-    "name": "Winchester 1300",
-    "category": "combat",
-    "source": "guia-de-armas-de-fogo-3a-edicao",
-    "page": 92,
-    "pages": [
-      92
-    ],
-    "entries": [
-      "Winchester 1300 Possui sistema de disparo rápido para caça de coelhos ou outros animais pequenos e ligeiros. O gatilho pode, portanto, disparar mais tiros que o normal para uma escopeta. OHmon Jd6H CUIUOS 41>+1 5111.110\" 11111 75 C)'I~rt'\"ll k2020 3d6\" 1 W!lile Wolf 8 lHO 2111 0 M!Uliçao:calilJn, 12 ~ I'<!n le : 6 AlcaJl«': 30m Peso: 2.9 l g CdT:lou2 Preço:..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas de Fogo - 3a Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:winchester-1300",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-armas-de-fogo-3a-edicao-guia-de-armas-de-fogo-3a-edicao-ljutic-space-rifle-97",
     "name": "Ljutic Space Rifle",
     "category": "core_rule",
@@ -9670,42 +8467,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-armas-de-fogo-3a-edicao:curps",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-faca-a-14",
-    "name": "Faca a",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 14,
-    "pages": [
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "entries": [
-      "Faca a Tradicional utensílio de cozinha. Qualquer faca comum se encaixa nesta definição. Possui apenas uma lâmina, geralmente com ponta. Pode ser encontrada em qualquer civilização que domine a fundição. Et oh D20 dano: 1d4 Decisivo: 20 / x? Daemon dano: 1d3 [niciativa: -3 White Wolf dano: For+1 GURPS dano: BAL-3/GDP-1 máx: 1D+1 Ópera — 9/a:+1/0 dano: 1 AA A..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:faca-a",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -9919,72 +8680,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:machados",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-rear-aa-pa-a-os-36",
-    "name": "REAR AA PA A OS",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 36,
-    "pages": [
-      36,
-      37,
-      38,
-      39,
-      40,
-      41,
-      42
-    ],
-    "entries": [
-      "REAR AA PA A OS Machado de Mão Machado construído para uso com uma só mão. Afiado, um golpe certeiro pode até matar uma pessoa. Seu cabo é feito em madeira resistente. Pç cl GA ou oe pee % D20 dano: 1d6 Decisivo: 20 / x3 ss R Daemon dano: 1d6 Iniciativa: -6 G =x White Wolf dano: For+2 este ‘ S GURPS dano: BAL+2 STmin: 10 AES 4 Q & Opera g/a: +2/+2 dano: D3 o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:rear-aa-pa-a-os",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-mangual-duplo-45",
-    "name": "Mangual Duplo",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 45,
-    "pages": [
-      45
-    ],
-    "entries": [
-      "Mangual Duplo Apresenta duas bolas presas por correntes, ao invés de uma. São bolas mais leves que causam, cada uma, menos dano, mas em geral aumentam a probabilidade de acerto. AM tua D90 dano: 1d8 Decisivo: 20 / x? Daemon dano: 1d6+1 Iniciativa: -7 White Wolf dano; For+3 GURPS dano: BAL+3 STmin: 11 Opera g/a: +2/+1 dano: D2+1 Peso: 3,0 a 4,5 Ke Preco: 7 a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:mangual-duplo",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -10327,37 +9022,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-escudo-metalico-95",
-    "name": "Escudo Metálico",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 95,
-    "pages": [
-      95
-    ],
-    "entries": [
-      "Escudo Metálico Totalmente construído em metal, é a versão preferida dos cavaleiros e guerreiros medievais. O peso compensa cP Pah al a boa protecao que confere. i: D20 Bonus de Armadura: 2 Penalidade: -2 Q Daemon IP: 8 Penalidade: -3/-2 White Wolf Nivel: 3 Penalidade: 1 GURPS DP: 9 BD: 2 Opera G/A/E: 41/43/41 Dano: D2 Area: Normal/Alta: E ou F: 2/1 Tempo de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:escudo-metalico",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-4-escudo-medio-96",
     "name": "4 Escudo Médio",
     "category": "combat",
@@ -10455,36 +9119,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:espada-longa-periodo-koto",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-cimitarra-indiana-108",
-    "name": "Cimitarra Indiana",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 108,
-    "pages": [
-      108
-    ],
-    "entries": [
-      "Cimitarra Indiana Originalmente adaptada de modelos árabes, esta espada foi, com o passar dos anos, ganhando a aparência de um sabre. a A A D20 dano: 1d8 Decisivo: 18-20 / x2 Daemon dano: 1d6+2 Iniciativa: -6 White Wolf dano: For+4 GURPS dano: BAL+1/GDP+1 STmin: 7 Opera 9/a: +2/+2 dano: D3 feat eat O et tot eat acl A E A vcd ty Peso: 1,8 a 2,0 Kg Preço: 15 a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:cimitarra-indiana",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -10699,70 +9333,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-naginata-117",
-    "name": "Naginata",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 117,
-    "pages": [
-      117,
-      118,
-      119,
-      120
-    ],
-    "entries": [
-      "Naginata Esta é uma lança de cabo fino. O resultado final é uma arma leve e elegante. Foi originalmente concebida para ser usada por mulheres. e Ad A MW Ae D20 dano: 1d6 Decisivo: 20 / x3 Daemon dano: 1d6 Iniciativa: -5 White Wolf dano: For+1 GURPS dano: GDP+1 STmin: 7 Opera ofa: +2/+3 dano: D3 Peso: 1,2 a 1,5 Kg Preço: 12 a 15 gp Comprimento: 1,5 a 1,5 m Da..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:naginata",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-tridente-chines-121",
-    "name": "Tridente Chinês",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 121,
-    "pages": [
-      121,
-      122
-    ],
-    "entries": [
-      "Tridente Chinês Arma longa com três pontas perfurantes. Diferente da versão européia, o tridente chinês tem os dentes bem afastados e os dois externos apresentam uma forte curvatura. D20 dano: 1d8 Decisivo: 20 / x3 Daemon dano: 1d6 Iniciativa: -5 White Wolf dano: For+1 GURPS dano: GDP+1 STmin: 8 Ópera ofa: +2/+9 dano: D2 né a, Peso: 2,4 a 3,0 Kg Preco: 18 a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:tridente-chines",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-kami-shimo-123",
     "name": "Kami Shimo",
     "category": "attribute_skill",
@@ -10885,38 +9455,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-armas-medievais-3a-edicao-guia-de-armas-medievais-3a-edicao-garfo-persa-de-exercito-135",
-    "name": "Garfo Persa de Exército",
-    "category": "combat",
-    "source": "guia-de-armas-medievais-3a-edicao",
-    "page": 135,
-    "pages": [
-      135,
-      136,
-      137
-    ],
-    "entries": [
-      "Garfo Persa de Exército O cabo é feito em bronze, torneado e liso. As duas pontas são serrilhadas e cortantes. As lâminas são gravadas com figuras persas. MM, D20 dano: 1d4+1 Decisivo: 290 / x9 Daemon dano: 1d3+1 Iniciativa: -3 White Wolf | dano: For+1 GURPS dano: BAL-1/GDP+1 máx: 1D+1 Ópera o/a: +1/0 dano: D? Peso: 250 g Preço: 14 a 20 gp Comprimento: 25 a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Armas Medievais - 3ª Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-armas-medievais-3a-edicao:garfo-persa-de-exercito",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-classes-de-prestigio-biblioteca-elfica-guia-de-classes-de-prestigio-biblioteca-elfica-como-asar-este-o-5",
     "name": "Como <asar 'Este ~o",
     "category": "core_rule",
@@ -10974,36 +9512,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-classes-de-prestigio-biblioteca-elfica:amazona",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-classes-de-prestigio-biblioteca-elfica-guia-de-classes-de-prestigio-biblioteca-elfica-berserker-20",
-    "name": "Berserker",
-    "category": "combat",
-    "source": "guia-de-classes-de-prestigio-biblioteca-elfica",
-    "page": 20,
-    "pages": [
-      20
-    ],
-    "entries": [
-      "Berserker Normalmente originário de uma tribo bárbara, o Berserker é um tipo de guerreiro muito temido em todos os reinos. Em combate ou situações de tensão, ele pode invocar um tipo de fúria incontrolável que aumenta sua força, mas também rouba sua razão e bom senso - transformando-o em uma fera assas- sina que não vai descansar até a morte do adversário. O..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia-de-classes-de-prestigio-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-classes-de-prestigio-biblioteca-elfica:berserker",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -11553,37 +10061,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-arco-magico-47",
-    "name": "Arco Magico",
-    "category": "combat",
-    "source": "guia-de-itens-magicos",
-    "page": 47,
-    "pages": [
-      47,
-      48
-    ],
-    "entries": [
-      "Arco Magico Consulte Arma Magica. Caso voce deseje especificar 0 tipo de areo, consulte a tabela abaixo para encontrar alguns dos mais conhecidos modelos de armas magicas. Para maiores detalhes sabre cada urn destes arcos, consulte 0 GUIA DE ARMAS MEDlEY AIS. TipodeArco 1d6 Area Curto 1-2 Areo Longo 3-4 Area Composto 5 Areo de Guerra 6 Arco de Dano +X Este a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Itens Mágicos",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-itens-magicos:arco-magico",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-arma-das-trevas-49",
     "name": "Arma das Trevas",
     "category": "combat",
@@ -11611,36 +10088,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-itens-magicos:arma-das-trevas",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-armadura-magica-52",
-    "name": "Armadura Magica",
-    "category": "combat",
-    "source": "guia-de-itens-magicos",
-    "page": 52,
-    "pages": [
-      52
-    ],
-    "entries": [
-      "Armadura Magica Assim como as armas magicas, as armaduras podem, em principia, serem feitas de qualquer tipo de armadura basica (para mais informa<;oes, consulte GUIA DE ARMAS MEDlEV AIS). Deve-se lembrar que a armadura cleve ser fei- ta com extrema cuidado e pericia. As armaduras ffiagicas sao feitas, principalmente, de armaduras de aneis e de armaduras de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Guia de Itens Mágicos",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-itens-magicos:armadura-magica",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -11731,36 +10178,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:guia-de-itens-magicos:braceletes-de-ancoragem",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-guia-de-itens-magicos-guia-de-itens-magicos-brincos-do-doppelganger-75",
-    "name": "Brincos do Doppelganger",
-    "category": "core_rule",
-    "source": "guia-de-itens-magicos",
-    "page": 75,
-    "pages": [
-      75
-    ],
-    "entries": [
-      "Brincos do Doppelganger o primeiro Doppelganger foi criado a partir de uma experiencia entre as Diaconos da cidade de Munique, em 1276. Seis Magos poderosissimos tentaram capturar 0 deus grego Proteus (0 deus capaz de transformar-se em qualquer objeto, criatura ou seT existente). 0 experimento falhou, e Proteus ficau extremamente irritado com a arrogancia do..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Guia de Itens Mágicos",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guia-de-itens-magicos:brincos-do-doppelganger",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -12645,45 +11062,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-guiademagias-guiademagias-lista-de-magias-4-2",
-    "name": "LISTA DE MAGIAS (14-23)",
-    "category": "combat",
-    "source": "guiademagias",
-    "page": 14,
-    "pages": [
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      21,
-      22,
-      23
-    ],
-    "entries": [
-      "12 desorientados. Caso falhem em um teste de Resistência/WILL, seus reflexos começam a ficar mais lentos, seu raciocínio torna-se confuso, seu corpo não reage direito às suas ordens e ficam incapazes de realizar qualquer ação efetiva. Após a realização da magia, o jogador que controla o mago deve jogar o d6 para determinar o resultado exato do Caos Mental em..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "guiademagias",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:guiademagias:lista-de-magias-14-23",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-guiademagias-guiademagias-lista-de-magias-4-4",
     "name": "LISTA DE MAGIAS (34-43)",
     "category": "core_rule",
@@ -12901,38 +11279,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:imortal:sombras-do-passado",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-imortal-imortal-lexico-15",
-    "name": "LEXICO",
-    "category": "attribute_skill",
-    "source": "imortal",
-    "page": 15,
-    "pages": [
-      15,
-      16,
-      17,
-      18
-    ],
-    "entries": [
-      ", LEXICO Como em qualquer jogo, é preciso conhecer as regras e os termos utilizados, para se poder jogar. O RPG não é uma exceção. No decorrer do jogo, ou mesmo quando você esti ver criando seu Personagem, nós utilizaremos muitos termos que talvez você nâo esteja familiarizado. , (Y>-' .... -.szooÀ-..., .c:;;\" .. : ___ .. • __ ABISSAIS: Criaturas mais velhas..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:lexico",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -13272,37 +11618,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-imortal-imortal-taj-do-82",
-    "name": "TAJ-DO",
-    "category": "combat",
-    "source": "imortal",
-    "page": 82,
-    "pages": [
-      82
-    ],
-    "entries": [
-      ", TAJ-DO As artes marciais foram desenvolvidas por imortais e aprendidas por mortais, mas a alie do Tai-dô só é domina- da põr imortais. Esta na verdade não é uma arte de luta, mas sim uma Dádiva que permite realizar ataques extras e mais potentes ou mesmo usar as mãos para defender armas. NÍVEL 1 MÃOS DEFENSIVAS: O Personagem pode apa- rar ou bloquear ataqu..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:taj-do",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-imortal-imortal-vicor-83",
     "name": "VICOR",
     "category": "core_rule",
@@ -13330,36 +11645,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:imortal:vicor",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-imortal-imortal-njvelj-84",
-    "name": "NJVELJ",
-    "category": "attribute_skill",
-    "source": "imortal",
-    "page": 84,
-    "pages": [
-      84
-    ],
-    "entries": [
-      ", NJVELJ RESSONANCIA: Permite ao Personagem recupe- rar +5 pontos de Ressonância Ativa a cada hora. FIM DE COMBA TE: Todos os que estão no raio de efeito do poder irão parar de lutar e se acalmar, incluindo quem usou o poder. 4 pontos de Ressonância e raio de efeito igual ao nível de Ressonância x5 metros. , N/VEL 4 COMPARTILHAR: Pennite ao Personagem com- p..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:njvelj",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -13425,39 +11710,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-imortal-imortal-inicia-tiva-nega-tiva-101",
-    "name": "INICIA TIVA NEGA TIVA",
-    "category": "combat",
-    "source": "imortal",
-    "page": 101,
-    "pages": [
-      101,
-      102,
-      103,
-      104,
-      105
-    ],
-    "entries": [
-      "INICIA TIVA NEGA TIVA Se um Personagem, após ter os modificadores apli- cados, ficar com iniciativa negativa, ele perde sua ação na rodada corrente. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumulada~ de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada se..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:inicia-tiva-nega-tiva",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-imortal-imortal-ataque-total-106",
     "name": "ATAQUE TOTAL",
     "category": "combat",
@@ -13487,69 +11739,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:imortal:ataque-total",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-imortal-imortal-experiencia-110",
-    "name": "EXPERIÊNCIA",
-    "category": "attribute_skill",
-    "source": "imortal",
-    "page": 110,
-    "pages": [
-      110
-    ],
-    "entries": [
-      "EXPERIÊNCIA Em Imortal, sobreviver a uma Aventura muitas ve- zes já é um prêmio em si, mas para recompensar os Persona- gens que resistiram bravamente e conseguiram resolver uma Aventura (ou parte dela, ou que pelo menos saíram vivos ... ), existe um sistema que permite aos Personagens aumentarem seus poderes durante suas Aventuras. Esse sistema é chamado de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:experiencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-imortal-imortal-metodo-3-por-pontos-112",
-    "name": "METODO 3 - POR PONTOS",
-    "category": "core_rule",
-    "source": "imortal",
-    "page": 112,
-    "pages": [
-      112,
-      113,
-      114,
-      115
-    ],
-    "entries": [
-      ", METODO 3 - POR PONTOS Ao térmjno de cada sessão de jogo, você pode con~ ceder de O a 15 Pontos de Experiência para cada persona- gem, baseado na interpretação do jogador. Este método deve ser cuidadoso e cabe ao mestre dosar a quantidade adequada de pontos para cada um, para permitir que evoluam sem com- prometer o bom andamento da campanha. Para auxiliá-l..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Imortal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:imortal:metodo-3-por-pontos",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -13645,35 +11834,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-inquisicao-biblioteca-elfica-inquisicao-biblioteca-elfica-criacao-de-pets-pagem-9",
-    "name": "Criação de Pets,~pagem",
-    "category": "core_rule",
-    "source": "inquisicao-biblioteca-elfica",
-    "page": 9,
-    "pages": [
-      9
-    ],
-    "entries": [
-      "Criação de Pets,~pagem , .. .- ,. . ' .- .' \\, História Em INQUISIÇÃO, a criação de um Personagem é alga bastante fácil de se fazer, p rincipalmente se você já conhece o sistema de ArkanunjTrevas, pois as regras '1. Qual é onom~ dele? 'perm.al1ecem rigorosamente as mesmas. A seguir, dare- ' , 2. Em que ano elenasce\\)? Qualltos anos ê1e tem? mos um resumo de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Inquisicao-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:inquisicao-biblioteca-elfica:criacao-de-pets-pagem",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-inquisicao-biblioteca-elfica-inquisicao-biblioteca-elfica-pontos-heroicos-29",
     "name": "Pontos Heróicos",
     "category": "core_rule",
@@ -13731,35 +11891,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:ismails-anjos-islamicos:personagens-ismails",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-kidous-arte-das-trevas-kidous-arte-das-trevas-ao-leitor-3",
-    "name": "AO LEITOR",
-    "category": "core_rule",
-    "source": "kidous-arte-das-trevas",
-    "page": 3,
-    "pages": [
-      3
-    ],
-    "entries": [
-      "3 AO LEITOR Ao amigo leitor que dispõe de tão caro tempo para ler esse prefácio, meus sinceros agradecimentos. Quando, em 2005, comecei a escrever esse livro, tinha o entusiasmo de iniciar uma empreitada que há tempos ambicionava. Sempre quis formular regras para RPG que possibilitassem, aos jogadores, a criação dos poderes de seus personagens. Imaginei que..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Kidous - Arte das Trevas",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:kidous-arte-das-trevas:ao-leitor",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -13830,41 +11961,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:kidous-arte-das-trevas:efeitos-de-kidous",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-kidous-arte-das-trevas-kidous-arte-das-trevas-matematica-de-jogo-21",
-    "name": "MATEMÁTICA DE JOGO",
-    "category": "core_rule",
-    "source": "kidous-arte-das-trevas",
-    "page": 21,
-    "pages": [
-      21,
-      22,
-      23,
-      24
-    ],
-    "entries": [
-      "21 MATEMÁTICA DE JOGO Recitação e iniciativa Em termos de regras, a recitação invocadora de um kidou implica um redutor de 10 pontos na iniciativa do artífice, caso opte por pular a recitação da técnica, o artífice não terá redutor algum na iniciativa, porem fará o teste com um redutor de 20% em sua perícia “kidou”. Invocando um bakudou Fora de combate, um a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "pericias",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Kidous - Arte das Trevas",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:kidous-arte-das-trevas:matematica-de-jogo",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -14170,37 +12266,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-livrodomal-livrodomal-segunda-visao-17",
-    "name": "Segunda Visão",
-    "category": "attribute_skill",
-    "source": "livrodomal",
-    "page": 17,
-    "pages": [
-      17,
-      18
-    ],
-    "entries": [
-      "Segunda Visão 1 Ponto: os sentidos do personagens foram aprimorados pelas forças das trevas, que lhe concederam uma espécie de segunda visão. Sempre que o personagem realizar um teste de percepção e falhar, poderá realizar um segundo teste. Porém, este dom traz um pequeno malefício inconveniente, pois não lhe foi conferido de graça. Este poder precisa de um..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "livrodomal",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:livrodomal:segunda-visao",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-livrodomal-livrodomal-nota-dos-autores-26",
     "name": "Nota dos Autores",
     "category": "core_rule",
@@ -14464,36 +12529,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:loucura:6lwxd-hv-gh-rxfxud",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luiz-antonio-rech-wachelke-2",
-    "name": "Luiz Antonio Rech Wachelke",
-    "category": "core_rule",
-    "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-    "page": 2,
-    "pages": [
-      2,
-      3
-    ],
-    "entries": [
-      "Luiz Antonio Rech Wachelke Luz e Sombra RPG Luz e Sombra é um sistema de RPG completo, contendo ambientação e regras. Passa-se num cenário de fantasia medieval próprio, o Chayriah. Não foi feito com o intuito de introduzir o leitor no mundo do RPG; para isso recomendamos o acesso a alguns sites especializados na Internet que fornecem essas informações de uma..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:luiz-antonio-rech-wachelke",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -14837,72 +12872,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-consideravel-e-empunhe-uma-espada-72",
-    "name": "considerável e empunhe uma espada",
-    "category": "attribute_skill",
-    "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-    "page": 72,
-    "pages": [
-      72,
-      73,
-      74
-    ],
-    "entries": [
-      "considerável e empunhe uma espada bimanual de quatro quilos pareceria mais real se tivesse cerca de dois metros de altura e uns cem quilos. Da mesma forma um ladrão esguio não deveria ter muito mais de um metro e setenta centímetros de altura. Basicamente apenas tente ser lógico. Uma alternativa seria basear-se no atributo básico Força de seu personagem para..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:consideravel-e-empunhe-uma-espada",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-atributos-basicos-75",
-    "name": "Atributos Básicos",
-    "category": "core_rule",
-    "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-    "page": 75,
-    "pages": [
-      75,
-      76,
-      77,
-      78,
-      79
-    ],
-    "entries": [
-      "Atributos Básicos Atributos Básicos A determinação das estátisticas (valores numéricos) que definem os pontos fortes e fracos de um personagem é estabelecida através de Pontos de Personagem. Ao criar um personagem iniciante você dispõe de 100 Pontos de Personagem que são gastos na “compra” dos valores de Atributos Básicos e das Habilidades e Conhecimentos. A..."
-    ],
-    "tags": [
-      "atributos",
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:atributos-basicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-funcoes-devera-comprar-apenas-a-80",
     "name": "funções deverá “comprar” apenas a",
     "category": "attribute_skill",
@@ -15212,39 +13181,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-vamos-116",
-    "name": "Vamos",
-    "category": "combat",
-    "source": "luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br",
-    "page": 116,
-    "pages": [
-      116,
-      117,
-      118
-    ],
-    "entries": [
-      "Vamos ao combate. Como Kelther e Falken atacam subitamente, os guardas têm que testar suas Inteligências, para verificar se seus reflexos permitem ou não defesas. O primeiro guarda falha no teste, mas o segundo poderá defender o ataque. Kelther decide atacar a cabeça do primeiro guarda com sua alabarda. Obtendo 15 no dado, ele falha. Falken tenta derrubar o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Luz_e_Sombra_RPG_-_Livro_de_Regras_(Português_do_Brasil)(BR)",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br:vamos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-luz-e-sombra-rpg-livro-de-regras-portugues-do-brasil-br-saga-119",
     "name": "Saga.",
     "category": "core_rule",
@@ -15438,68 +13374,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:mago-sistema-daemon:magia-em-magika",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-manobras-de-combate-manobras-de-combate-manobras-de-combate-1",
-    "name": "MANOBRAS DE COMBATE",
-    "category": "attribute_skill",
-    "source": "manobras-de-combate",
-    "page": 1,
-    "pages": [
-      1
-    ],
-    "entries": [
-      "MANOBRAS DE COMBATE Esta categoria de perícia é um caso excepcional. São apresentadas aqui algumas manobras de combate. Elas não são utilizadas como perícias, na medida em que NÃO existe um teste de manobras de combate. O Personagem simplesmente sabe realizá-las. As manobras de combate tem um custo fixo entre parenteses, com exceção de manobras com sinal de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "pericias",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Manobras de Combate",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:manobras-de-combate:manobras-de-combate",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-manobras-de-combate-manobras-de-combate-arma-dupla-2",
-    "name": "ARMA DUPLA",
-    "category": "combat",
-    "source": "manobras-de-combate",
-    "page": 2,
-    "pages": [
-      2
-    ],
-    "entries": [
-      "ARMA DUPLA [ +25 pontos ] [ Requer Força 12 e Destreza 12 ] [ Requer aprimoramento Ambidestria ] [ Requer manobra Lutar com duas armas ] O Personagem é capaz de utilizar uma arma dupla normalmente, realizando 2 ataques em uma rodada. Uma arma dupla é um par de armas IGUAIS, que normalmente NÃO poderiam se beneficiar da manobra \"Lutar com Duas Armas\". Pode se..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Manobras de Combate",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:manobras-de-combate:arma-dupla",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -15789,36 +13663,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-marvel-marvel-pontos-heroicos-33",
-    "name": "PONTOS HERÓICOS",
-    "category": "core_rule",
-    "source": "marvel",
-    "page": 33,
-    "pages": [
-      33
-    ],
-    "entries": [
-      "33 PONTOS HERÓICOS Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte”, que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "marvel",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:marvel:pontos-heroicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-marvel-marvel-resistencia-dos-materiais-58",
     "name": "RESISTÊNCIA DOS MATERIAIS",
     "category": "combat",
@@ -15878,35 +13722,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:marvel:experiencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-marvel-marvel-regras-super-poder-65",
-    "name": "REGRAS : SUPER PODER",
-    "category": "core_rule",
-    "source": "marvel",
-    "page": 65,
-    "pages": [
-      65
-    ],
-    "entries": [
-      "65 REGRAS : SUPER PODER Esta enorme lista possui uma completa descrição dos maiores poderes encontrados no Universo Marvel. No entanto, você nunca deve encará-la como uma limitação de suas escolhas. Se você quiser criar um novo poder, tenha certeza que o Mestre o aprova e então coloque-o no jogo. Super Poder : o Personagem por algum motivo, recebeu poderes e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "marvel",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:marvel:regras-super-poder",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -16228,37 +14043,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-pontos-heroicos-36",
-    "name": "PONTOS HERÓICOS",
-    "category": "core_rule",
-    "source": "marvel-rpg-7o-edicao",
-    "page": 36,
-    "pages": [
-      36,
-      37
-    ],
-    "entries": [
-      "36 PONTOS HERÓICOS Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte”, que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "MARVEL RPG 7º Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:pontos-heroicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-pericias-comuns-40",
     "name": "PERÍCIAS COMUNS",
     "category": "attribute_skill",
@@ -16423,65 +14207,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:experiencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-regras-super-poder-89",
-    "name": "REGRAS : SUPER PODER",
-    "category": "core_rule",
-    "source": "marvel-rpg-7o-edicao",
-    "page": 89,
-    "pages": [
-      89
-    ],
-    "entries": [
-      "89 REGRAS : SUPER PODER Esta enorme lista possui uma completa descrição dos maiores poderes encontrados no Universo Marvel. No entanto, você nunca deve encará-la como uma limitação de suas escolhas. Se você quiser criar um novo poder, tenha certeza que o Mestre o aprova e então coloque-o no jogo. Super Poder : o Personagem por algum motivo, recebeu poderes e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "MARVEL RPG 7º Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:regras-super-poder",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-marvel-rpg-7o-edicao-marvel-rpg-7o-edicao-proezas-93",
-    "name": "PROEZAS",
-    "category": "core_rule",
-    "source": "marvel-rpg-7o-edicao",
-    "page": 93,
-    "pages": [
-      93
-    ],
-    "entries": [
-      "93 PROEZAS Além dos poderes padrão, (conferidos por sua intensidade) seu herói pode ter uma ou mais proezas associadas para cada poder, elas funcionam como uma perícia, pois são habilidades possíveis que um herói pode ter acesso. Mas lembre-se que estas perícias podem ser compradas na lista de acordo com os poderes, quando você compra um poder gasta pontos e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "MARVEL RPG 7º Edição",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:marvel-rpg-7o-edicao:proezas",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -16871,37 +14596,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-senso-numerico-28",
-    "name": "Senso Numérico",
-    "category": "attribute_skill",
-    "source": "modulo-basico-expandido-e-modificado",
-    "page": 28,
-    "pages": [
-      28,
-      29,
-      30
-    ],
-    "entries": [
-      "Senso Numérico 1 ponto: o Personagem é capaz de contar imediatamente grande quantidade de objetos, com muita precisão. Pode contar cabeças de gado, quantos palitos de fósforo caíram de uma caixa, cartas de baralho e coisas assim. Sentidos Aguçados 1 ponto para cada sentido: o Personagem possui sentidos mais aguçados do que os outros Personagens. Sua visão, a..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Módulo Básico - Expandido e Modificado",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:senso-numerico",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-dupla-personalidade-33",
     "name": "Dupla Personalidade",
     "category": "core_rule",
@@ -16996,37 +14690,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-armas-de-feixe-dex-42",
-    "name": "Armas de Feixe* (DEX)",
-    "category": "combat",
-    "source": "modulo-basico-expandido-e-modificado",
-    "page": 42,
-    "pages": [
-      42,
-      43
-    ],
-    "entries": [
-      "Armas de Feixe* (DEX) Similar às armas de fogo, mas disparam laser, fóton ou prótons ao invés de balas de chumbo e pólvora. Ar- mas de feixe são possíveis apenas em cenários de Ficção Científica, em um futuro distante ou como armas experi- mentais. Como as armas de fogo, as armas de feixe não permitem nenhuma Defesa, a não ser armaduras especiais. Em geral a..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Módulo Básico - Expandido e Modificado",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:armas-de-feixe-dex",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-dex-dex-44",
     "name": "(DEX/DEX).",
     "category": "combat",
@@ -17093,68 +14756,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-recursos-53",
-    "name": "recursos....",
-    "category": "core_rule",
-    "source": "modulo-basico-expandido-e-modificado",
-    "page": 53,
-    "pages": [
-      53,
-      54
-    ],
-    "entries": [
-      "recursos.... Marketing (INT): Permite vender um produto ou idéia para potenciais compradores. Compreende diversas técnicas de mensagem liminar e até subliminar, além de vários meios de comunicação, como mídia impressa, rádio, televisão e Internet. Pesquisa/Investigação (PER) Esta Perícia esta relacionada à obtenção de informações. Ela pode ser usada em uma b..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Módulo Básico - Expandido e Modificado",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:recursos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-pontos-hericos-59",
-    "name": "Pontos Her‡icos",
-    "category": "core_rule",
-    "source": "modulo-basico-expandido-e-modificado",
-    "page": 59,
-    "pages": [
-      59,
-      60
-    ],
-    "entries": [
-      "Pontos Her‡icos Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vi- da extras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para ou- tro, tentar desviar de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Módulo Básico - Expandido e Modificado",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:pontos-hericos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-regras-e-testes-61",
     "name": "Regras e Testes",
     "category": "attribute_skill",
@@ -17187,41 +14788,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:regras-e-testes",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-modulo-basico-expandido-e-modificado-modulo-basico-expandido-e-modificado-iniciativa-66",
-    "name": "Iniciativa",
-    "category": "combat",
-    "source": "modulo-basico-expandido-e-modificado",
-    "page": 66,
-    "pages": [
-      66,
-      67,
-      68,
-      69,
-      70,
-      71
-    ],
-    "entries": [
-      "Iniciativa A Iniciativa determina o quão rápida é a ação de um Personagem ou NPC. Trata-se de uma questão crucial, pois uma iniciativa ruim pode determinar o resultado de um combate. Nem sempre agir por último é ruim. Pode permitir ao Personagem uma melhor observação do que está acontecendo e modificar sua intenção inicial. A seguir estão os modificadores de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Módulo Básico - Expandido e Modificado",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-basico-expandido-e-modificado:iniciativa",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -17501,36 +15067,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-modulo-combate-modulo-combate-manobras-especiais-12",
-    "name": "MANOBRAS ESPECIAIS",
-    "category": "combat",
-    "source": "modulo-combate",
-    "page": 12,
-    "pages": [
-      12
-    ],
-    "entries": [
-      "MANOBRAS ESPECIAIS + Soco As Manobras Especiais Quem nunca teve vontade de que seu Personagem disparasse um Hadouken ou um Yoga-Flame? As regras mostradas á seguir mostram como inserir Manobras Especiais nos seus combates. Uma Manobra Especial nada mais é que uma variação do poder normal do Lutador, um golpe secreto que causa algum efeito extra além do..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "MÓDULO COMBATE",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-combate:manobras-especiais",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-modulo-combate-modulo-combate-usando-as-manobras-especiais-13",
     "name": "Usando as Manobras Especiais",
     "category": "combat",
@@ -17558,36 +15094,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:modulo-combate:usando-as-manobras-especiais",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-modulo-combate-modulo-combate-existe-14",
-    "name": "Existe",
-    "category": "combat",
-    "source": "modulo-combate",
-    "page": 14,
-    "pages": [
-      14
-    ],
-    "entries": [
-      "Existe ainda outra possibilidade para a Manobra Especial, um efeito extra que acontece quando se gasta 1 Ponto de Magia para realizar a Manobra Especial. É como usar o Shoryuken com o Soco Forte, além do ataque, o Ken queimava o oponente. A seguir darei alguns exemplos de Manobras Especiais, assim você pode desenvolver as suas com facilidade, lembrando que e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "MÓDULO COMBATE",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:modulo-combate:existe",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -18048,37 +15554,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-mutacao-mutacao-armaduras-e-blindagens-47",
-    "name": "ARMADURAS E BLINDAGENS",
-    "category": "combat",
-    "source": "mutacao",
-    "page": 47,
-    "pages": [
-      47
-    ],
-    "entries": [
-      "47 ARMADURAS E BLINDAGENS A armadura de um personagem o protegerá durante o combate, entretanto, também é capaz de atrapalhar seus movimentos. As armaduras e escudos podem ser danificados com ataques diretos ou utilizando-as como bloqueio de ataques. Bônus de Escudo: Cada escudo concede um bônus de equipamento no teste defensivo. Esse número representa o por..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Mutação",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:mutacao:armaduras-e-blindagens",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-mutacao-mutacao-coletes-de-kevlar-48",
     "name": "COLETES DE KEVLAR",
     "category": "core_rule",
@@ -18242,41 +15717,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-mutacao-mutacao-manobras-e-ataques-especiais-62",
-    "name": "MANOBRAS E ATAQUES ESPECIAIS",
-    "category": "combat",
-    "source": "mutacao",
-    "page": 62,
-    "pages": [
-      62,
-      63,
-      64,
-      65,
-      66
-    ],
-    "entries": [
-      "62 MANOBRAS E ATAQUES ESPECIAIS Nesta sessão, serão descritas as principais manobras e ataques especiais que um personagem combatente pode utilizar, algumas manobras requer o uso de um aprimoramento para sua melhor utilização (Como agarrar aprimorado) e outras não, como Investida e Mira. Agarrar (Perícia Agarrar) Para iniciar uma manobra agarrar, primeiro o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Mutação",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:mutacao:manobras-e-ataques-especiais",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-mutacao-mutacao-tipos-de-dano-67",
     "name": "TIPOS DE DANO",
     "category": "combat",
@@ -18305,37 +15745,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:mutacao:tipos-de-dano",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-mutacao-mutacao-sanidade-72",
-    "name": "SANIDADE",
-    "category": "attribute_skill",
-    "source": "mutacao",
-    "page": 72,
-    "pages": [
-      72
-    ],
-    "entries": [
-      "72 SANIDADE A sanidade de um personagem humano mede sua saúde mental e sua capacidade de suportar os horrores do mundo pós apocaliptico. O cáuculo de sanidade inicial de um personagem equivale a média dos valores de atributos de Vontade e Inteligência (Média alterada de acordo com o valor atual) + nível. Não se pode comprar uma “armadura” para sanidade, sua..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Mutação",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:mutacao:sanidade",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -18584,37 +15993,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-mestres-em-marionetes-podem-controlar-17",
-    "name": "Mestres em marionetes podem controlar",
-    "category": "combat",
-    "source": "naruto-daemon-2a-ed",
-    "page": 17,
-    "pages": [
-      17,
-      18
-    ],
-    "entries": [
-      "Mestres em marionetes podem controlar mais de uma marionete. Quando alcançarem o 5º nível estarão aptos a utilizar 2 marionetes. No 7º nível, 3 marionetes. No 9º nível, 4 marionetes. No 10º nível, 5 marionetes. No 11º nível 6 marionetes e assim sucessivamente até atingir o 15º nível podendo controlar 10 marionetes. O personagem escolhe quais os tamanhos das..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Naruto-daemon-2ª-Ed",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:naruto-daemon-2a-ed:mestres-em-marionetes-podem-controlar",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-descricao-com-este-componente-a-19",
     "name": "Descrição: Com este componente a",
     "category": "attribute_skill",
@@ -18644,48 +16022,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:naruto-daemon-2a-ed:descricao-com-este-componente-a",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-naruto-daemon-2a-ed-naruto-daemon-2a-ed-necessaria-afinidade-elemental-com-o-22",
-    "name": "necessária afinidade elemental com o",
-    "category": "core_rule",
-    "source": "naruto-daemon-2a-ed",
-    "page": 22,
-    "pages": [
-      22,
-      23,
-      24,
-      25,
-      26,
-      27,
-      28,
-      29,
-      30,
-      31,
-      32,
-      33,
-      34
-    ],
-    "entries": [
-      "necessária afinidade elemental com o jutsu copiado. Memorizar: O shinobi que escolhe a ação “memorizar”, deve fazer um teste difícil de INT não importando se possui “Copy Ninja” como talento. Em caso de sucesso o shinobi começa com 15% de domínio sobre o jutsu copiado (17% caso possua “genialidade” como talento e 20% caso possua “Copy Ninja” como talento). O..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Naruto-daemon-2ª-Ed",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:naruto-daemon-2a-ed:necessaria-afinidade-elemental-com-o",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -19480,38 +16816,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-permanecendo-dessa-forma-em-posicao-89",
-    "name": "permanecendo dessa forma, em posição",
-    "category": "core_rule",
-    "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "page": 89,
-    "pages": [
-      89,
-      90
-    ],
-    "entries": [
-      "permanecendo dessa forma, em posição fetal até que o efeito seja quebrado. Nível 5 – Devorar o Ib: Este poder antigo, fora criado por Tot, quando o mesmo ocupava o lugar de Juiz dos Mortos com o epíteto de Sokar. O Anubite é capaz de retirar o Ib, ou coração de uma criatura e devorando-o, poderá adquirir uma característica do alvo, um poder, uma Perícia, um..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:permanecendo-dessa-forma-em-posicao",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-sekhator-91",
     "name": "Sekhator",
     "category": "combat",
@@ -19572,37 +16876,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-aliados-97",
-    "name": "aliados.",
-    "category": "combat",
-    "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "page": 97,
-    "pages": [
-      97
-    ],
-    "entries": [
-      "aliados. Nível 2 – Medo Primal: Os Guerreiros podem demonstrar a verdadeira extensão de seu poder paralisando, de puro terror, um determinado inimigo durante alguns turnos, testando sua WILL+Intimidação. O oponente pode realizar um teste de WILL para tentar reissitir. Um sucesso do Neteru acua o inimigo por dois turnos; a vítima não pode atacar. Ela pode se..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:aliados",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-atravessassem-as-defesas-que-eles-98",
     "name": "atravessassem as defesas que eles",
     "category": "combat",
@@ -19635,37 +16908,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:atravessassem-as-defesas-que-eles",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica-medjayu-102",
-    "name": "(Medjayu)",
-    "category": "core_rule",
-    "source": "neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "page": 102,
-    "pages": [
-      102,
-      103
-    ],
-    "entries": [
-      "(Medjayu) O Medjayu é capaz de adquirir qualquer ESTIGMA Arkanita, descrito no livro ARK-A-NUN ARQUIVOS DE BEL KALAA, utilizando os pontos de PODERES MAATIANOS. O jogador deve criar um Arkanita, baseando-se nas regras deste livro, e realizar um upgrade para que este se torne um Medjayu, eliminando todas as suas MÁCULAS. (Snujs) Nível 1 - Myw: A discípula de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:neter-khertet-a-cidade-dourada-de-ra-biblioteca-elfica:medjayu",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -19931,35 +17173,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-o-corvo-o-corvo-o-corvo-4",
-    "name": "O CORVO",
-    "category": "core_rule",
-    "source": "o-corvo",
-    "page": 4,
-    "pages": [
-      4
-    ],
-    "entries": [
-      "O CORVO AGRADECIMENTOS - Em primeiro lugar a James O’Barr por este personagem fantástico e a todos aqueles que ilustraram as imagens presen- tes neste livro. - A Marcelo Del Debbio pelo fabuloso cenário de Trevas, pelo Sistema Daemon e principalmente por Spiritum, que além de um excelente livro, foi a base das atualizações desse netbook. - Ao meu irmão, pela..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "O Corvo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:o-corvo:o-corvo",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-o-corvo-o-corvo-conceitos-bsicos-8",
     "name": "CONCEITOS BÐSICOS",
     "category": "attribute_skill",
@@ -19988,67 +17201,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:o-corvo:conceitos-bsicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-o-corvo-o-corvo-int-12",
-    "name": "INT",
-    "category": "attribute_skill",
-    "source": "o-corvo",
-    "page": 12,
-    "pages": [
-      12
-    ],
-    "entries": [
-      "INT 12 12 48% WILL 10 10 40% PER 13 13 52% CAR 10 10 40% Passo 6: Profissão e Perícias Dependendo da Época da Campanha, tipo de Aventu- ras e tipo de grupo, existem infinitas possibilidades de profis- sões para escolher. Nos anos 90, a quantidade possível de em- pregos, subempregos ou bicos que uma pessoa pode fazer é extensa demais para ser listado aqui. As..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "O Corvo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:o-corvo:int",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-o-corvo-o-corvo-sentidos-agucados-21",
-    "name": "Sentidos Aguçados",
-    "category": "attribute_skill",
-    "source": "o-corvo",
-    "page": 21,
-    "pages": [
-      21
-    ],
-    "entries": [
-      "Sentidos Aguçados 1 ponto para cada sentido: o Personagem possui sentidos mais aguçados do que os outros Personagens. Sua vi- são, audição, tato, olfato e/ou paladar são muito mais desen- volvidos. Em Testes de Percepção que utilizem esses sentidos, o Mestre deve reduzir a dificuldade em um nível (um Teste Di- fícil torna-se Normal; um Teste Normal torna-se..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "O Corvo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:o-corvo:sentidos-agucados",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -20149,36 +17301,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:o-corvo:regras-e-testes",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-o-corvo-o-corvo-pontos-hericos-37",
-    "name": "PONTOS HER×ICOS",
-    "category": "core_rule",
-    "source": "o-corvo",
-    "page": 37,
-    "pages": [
-      37
-    ],
-    "entries": [
-      "PONTOS HER×ICOS Pontos Heróicos funcionam como uma medida abstra- ta de heroísmo; eles não são exatamente Pontos de Vida ex- tras, mas funcionam como tal. Eles são uma espécie de “aura heróica” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, tentar desviar de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "O Corvo",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:o-corvo:pontos-hericos",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -20394,37 +17516,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-one-punch-man-rpg-one-punch-man-rpg-regras-e-testes-22",
-    "name": "Regras e Testes",
-    "category": "attribute_skill",
-    "source": "one-punch-man-rpg",
-    "page": 22,
-    "pages": [
-      22
-    ],
-    "entries": [
-      "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "One Punch Man RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:one-punch-man-rpg:regras-e-testes",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-one-punch-man-rpg-one-punch-man-rpg-atributo-vs-atributo-23",
     "name": "Atributo vs. Atributo",
     "category": "attribute_skill",
@@ -20485,38 +17576,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:one-punch-man-rpg:teste-de-resistencia",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-one-punch-man-rpg-one-punch-man-rpg-iniciativa-negativa-26",
-    "name": "Iniciativa Negativa",
-    "category": "combat",
-    "source": "one-punch-man-rpg",
-    "page": 26,
-    "pages": [
-      26,
-      27,
-      28,
-      29
-    ],
-    "entries": [
-      "Iniciativa Negativa Se um Personagem, após ter os modificadores aplicados, ficar com iniciativa negativa, ele perde sua ação nessa rodada. Entende-se tal fato pela excessiva preparação do golpe por parte do Personagem, penalidades acumuladas de armaduras (armadura completa medieval), armas pesadas (uma espada montante) e outros. Porém, na rodada seguinte, se..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "One Punch Man RPG",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:one-punch-man-rpg:iniciativa-negativa",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -20646,41 +17705,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-origem-e-descendencia-racial-v-teste-origem-e-descendencia-racial-v-teste-origem-ana-nivel-2-7",
-    "name": "Origem Anã [Nível 2]",
-    "category": "attribute_skill",
-    "source": "origem-e-descendencia-racial-v-teste",
-    "page": 7,
-    "pages": [
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "entries": [
-      "Origem Anã [Nível 2] Faixa Etária Tamanho Consciência Idade Filhote Pequeno Instintiva Até 3 anos Jovem Pequeno até Médio Imatura Entre 4 até 40 anos Adulto Médio Racional Entre 41 até 120 anos Ancião Médio Racional Entre 121 até 160 anos Ajuste de Atributos: +3 CON, +2 FOR, +2 VON, -3 AGI e -2 DES. Longevidade [Nível 1]: Confere uma expectativa de vida de a..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Origem e Descendência Racial (v. teste)",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:origem-e-descendencia-racial-v-teste:origem-ana-nivel-2",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-origem-e-descendencia-racial-v-teste-origem-e-descendencia-racial-v-teste-origem-gnomica-nivel-2-12",
     "name": "Origem Gnômica [Nível 2]",
     "category": "core_rule",
@@ -20773,36 +17797,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:os-caminhos-secundarios:terceiro-circulo",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-poder-poder-poder-1",
-    "name": "Poder",
-    "category": "combat",
-    "source": "poder",
-    "page": 1,
-    "pages": [
-      1,
-      2
-    ],
-    "entries": [
-      "Poder Por George Bin laden As verdades do universo não estão ao primeiro olhar;elas de escondem nas profundezas da sabedoria e do conhecimento.Esta é uma frase curiosa;eu sempre pensei que tudo o que eu via,tinha sentido;eu pensava que o sistema que o homem criou era útil e eficaz;pensava que o homem tinha total domínio sobre a sua história;eu pensava que o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "poder",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:poder:poder",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -21436,35 +18430,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-rocknrt-rocknrt-3-pontos-7-instrumentos-7",
-    "name": "3 pontos: 7 instrumentos.",
-    "category": "core_rule",
-    "source": "rocknrt",
-    "page": 7,
-    "pages": [
-      7
-    ],
-    "entries": [
-      "3 pontos: 7 instrumentos. 4 pontos: 9 instrumentos. 5 pontos: 11 instrumentos. Status Musical (1+) Você é famoso, disso não existem duvidas. As dúvidas vêm quando a pergunta é outra: Como você é famoso! Ozzy é muito famoso entre os metaleiros, que chegam a cultua-lo, o que não acontece em relação aos fanáticos religiosos (é o que se espera...). A não ser que..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "rocknrt",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:rocknrt:3-pontos-7-instrumentos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-rocknrt-rocknrt-soma-dos-status-12",
     "name": "Soma dos Status",
     "category": "core_rule",
@@ -21492,36 +18457,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:rocknrt:soma-dos-status",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-sistema-regras-2",
-    "name": "Sistema & Regras",
-    "category": "core_rule",
-    "source": "rpg-dragon-ball-oficial-l-by-fractius",
-    "page": 2,
-    "pages": [
-      2,
-      3
-    ],
-    "entries": [
-      "Sistema & Regras O Sistema que voce tem em mãos chama-se 3D&T *Defensores de Tóquio 3º Edição. Este é principalmente um jogo de guerreiros muito poderosos. Ele se baseia em video games e animes. Para jogar DBZ, além do manual 3D&T, voce precisará tambem deste livro que estou criando essa adaptação de 3 D&T e também do U.F.O Team, já que alguns personagens ou..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:sistema-regras",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -21569,65 +18504,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:insano-hipossonia-2-pontos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-35",
-    "name": "x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=",
-    "category": "combat",
-    "source": "rpg-dragon-ball-oficial-l-by-fractius",
-    "page": 35,
-    "pages": [
-      35
-    ],
-    "entries": [
-      "x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x= Ja que em dragon ball Z os combates sao usando varios ataques estava reparando que o combate estava ficando muito demorado entao resolvi fazer uma atualização. x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x= 1º Não terá mas critico com os..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-rpg-dragon-ball-oficial-l-by-fractius-rpg-dragon-ball-oficial-l-by-fractius-caracteristica-16-36",
-    "name": "Caracteristica 16",
-    "category": "attribute_skill",
-    "source": "rpg-dragon-ball-oficial-l-by-fractius",
-    "page": 36,
-    "pages": [
-      36
-    ],
-    "entries": [
-      "Caracteristica 16 2200 pontos Caracteristica 17 2400 pontos Caracteristica 18 2600 pontos Caracteristica 19 2800 pontos Caracteristica 20 3000 pontos Caracteristica 21 4000 pontos Caracteristica 22 8000 pontos Caracteristica 23 12500 pontos Caracteristica 24 20000 pontos Caracteristica 25 32000 pontos Caracteristica 26 40000pontos Caracteristica 27 42500 pon..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "RPG Dragon Ball Oficial l By Fractius",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:rpg-dragon-ball-oficial-l-by-fractius:caracteristica-16",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -21915,44 +18791,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-sda-rpg-sda-rpg-julio-cesar-da-silva-1-2",
-    "name": "Júlio César da Silva (11-20)",
-    "category": "attribute_skill",
-    "source": "sda-rpg",
-    "page": 11,
-    "pages": [
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "entries": [
-      "1 1 Na maioria dos RPGs, os Jogadores são os únicos respon- sáveis pela criação de seus Personagens. No Sistema Daemon isto também é permitido, mas recomendamos que os Persona- gens sejam construídos apenas pelo Mestre ou com grande participação deste, para haver uma coesão à história e o grupo. Você sabe, o Personagem não! Interpretar um papel é bem mais do..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "sda_rpg",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sda-rpg:julio-cesar-da-silva-11-20",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-sda-rpg-sda-rpg-julio-cesar-da-silva-1-3",
     "name": "Júlio César da Silva (21-30)",
     "category": "attribute_skill",
@@ -22138,45 +18976,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:sistema-daemon-2-x:pagina-inicial-41-50",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-sistema-daemon-2-x-sistema-daemon-2-x-pagina-inicial-1-7",
-    "name": "Pagina inicial (61-70)",
-    "category": "combat",
-    "source": "sistema-daemon-2-x",
-    "page": 61,
-    "pages": [
-      61,
-      62,
-      63,
-      64,
-      65,
-      66,
-      67,
-      68,
-      69,
-      70
-    ],
-    "entries": [
-      "61 Maureen é uma pintora de talento [Artes - Pintura 45]. Um nobre muito rico pede a ela um quadro representando o rosto de sua esposa. Maureen terá tempo de sobra para realizar o trabalho, o que lhe facilita muito as chances: 90%. Perícia vs. Perícia Existem situações durante uma Aventura nas quais dois Personagens estão se enfrentando utilizando-se de suas..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Sistema-Daemon-2-X",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-2-x:pagina-inicial-61-70",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -22377,46 +19176,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-sistema-daemon-3-0-sistema-daemon-3-0-pagina-inicial-1-7",
-    "name": "Pagina inicial (61-70)",
-    "category": "core_rule",
-    "source": "sistema-daemon-3-0",
-    "page": 61,
-    "pages": [
-      61,
-      62,
-      63,
-      64,
-      65,
-      66,
-      67,
-      68,
-      69,
-      70
-    ],
-    "entries": [
-      "61 mais fáceis de serem controlados por Mestre iniciantes. Márcio Alexsunder tenta soltar um pequeno mecanismo, mas está equipado com ferramentas um pouco defeituosas. O Mestre decide aplicar uma penalidade de -10% em seu Teste. Caso especial: Força A Força é um Atributo diferente. No capítulo de Atributos, há uma tabela que relaciona pesos (em quilos) com o..."
-    ],
-    "tags": [
-      "atributos",
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Sistema-Daemon-3-0",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-3-0:pagina-inicial-61-70",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-sistema-daemon-3-0-sistema-daemon-3-0-pagina-inicial-1-8",
     "name": "Pagina inicial (71-80)",
     "category": "core_rule",
@@ -22519,68 +19278,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-portos-heroicos-22",
-    "name": "Portos Heróicos",
-    "category": "core_rule",
-    "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-    "page": 22,
-    "pages": [
-      22
-    ],
-    "entries": [
-      "Portos Heróicos Pontos Heróicos funcionam como uma medida abstrata de heroísmo; eles não são exatamente Pontos de Vida extra: mas funcionam como tal. Eles são uma espécie de “aura heró; ca” ou “sorte” que protege o corpo físico do aventureiro de danos quando ele executa atos sobre-humanos (ou insanos) como pular de um prédio para outro, ser arrastado por um..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:portos-heroicos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-regras-e-tesies-25",
-    "name": "REGRAS E TESÍES",
-    "category": "core_rule",
-    "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-    "page": 25,
-    "pages": [
-      25,
-      26
-    ],
-    "entries": [
-      "REGRAS E TESÍES Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obnigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:regras-e-tesies",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-teste-de-pericia-27",
     "name": "TEStE dE PERÍCIA",
     "category": "core_rule",
@@ -22641,67 +19338,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:4-dano",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-desarme-31",
-    "name": "DESARME",
-    "category": "combat",
-    "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-    "page": 31,
-    "pages": [
-      31
-    ],
-    "entries": [
-      "— DESARME O Desarme é um golpe localizado. O atacante declara que está atacando o oponente com o intuito de lhe tirar a arma. Se o golpe for um acerto, o atacante não causa dano ao defensor, mas este perde sua arma, que é arremessada fora do alcance das mãos dos lutadores, Se o defensor estiver usando duas armas, é preciso desarmar uma arma de cada vez. Se o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:desarme",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-sistema-daemon-modulo-basico-dragonslayer-01-e-02-sistema-daemon-modulo-basico-dragonslayer-01-e-02-nome-34",
-    "name": "Nome",
-    "category": "attribute_skill",
-    "source": "sistema-daemon-modulo-basico-dragonslayer-01-e-02",
-    "page": 34,
-    "pages": [
-      34
-    ],
-    "entries": [
-      "Nome IMóduLo Básico Classe Social / Profissão Data de Nascimento Local de Nascimento Sexo Altura Peso Idade: Aparente Idiomas Religião AtriButos VALOR / Mod / % Perícias ii Constituição (CON) / / / Força (FR) / / / Destreza (DEX) / / : Agilidade (AGI) / / / Inteligência (INT) / / / Força de Vontade (WILL) / / ; Percepção (PER) / / | Carisma (CAR) / VA / / o..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "pericias",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Sistema-Daemon-Modulo-Basico-DragonSlayer-01-e-02",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:sistema-daemon-modulo-basico-dragonslayer-01-e-02:nome",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -22885,37 +19521,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:spiritum:lembrancas",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-spiritum-spiritum-regras-e-testes-67",
-    "name": "Regras e Testes",
-    "category": "attribute_skill",
-    "source": "spiritum",
-    "page": 67,
-    "pages": [
-      67
-    ],
-    "entries": [
-      "Regras e Testes Por mais cautelosos que os Personagens sejam, por maiores os cuidados que eles tenham, em algum momento da Aventura eles serão obrigados a enfrentar algo ou alguém. Para isso, é necessário definir com bastante cuidado as regras para Combates e Testes. As regras são simples, porém muito eficientes, pois neste jogo é privilegiada a resolução de..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Spiritum",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:spiritum:regras-e-testes",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -23646,36 +20251,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-tagmar-daemon-tagmar-daemon-doencas-60",
-    "name": "Doenças",
-    "category": "core_rule",
-    "source": "tagmar-daemon",
-    "page": 60,
-    "pages": [
-      60
-    ],
-    "entries": [
-      "Doenças Moléstias estranhas podem afetar o aventureiro em terras distantes. A invenção de doenças é uma oportunidade excelente para o Mestre exercitar uma forma mórbida de criatividade! Qualquer um em uma área infectada, ou encontrando um portador de doença, está em perigo. A maioria das doenças permite um teste de resistência por CON para resistir, feita em..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Tagmar Daemon",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:tagmar-daemon:doencas",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-tagmar-daemon-tagmar-daemon-luz-67",
     "name": "Luz",
     "category": "core_rule",
@@ -23942,122 +20517,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:templarios-biblioteca-elfica:consdtuicao-con",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-trevas-campanha-epica-trevas-campanha-epica-forca-de-vontade-72-4",
-    "name": "FORÇA DE VONTADE (102-111)",
-    "category": "attribute_skill",
-    "source": "trevas-campanha-epica",
-    "page": 102,
-    "pages": [
-      102,
-      103,
-      104,
-      105,
-      106,
-      107,
-      108,
-      109,
-      110,
-      111
-    ],
-    "entries": [
-      "- 101 - Força de Vontade, com a diferença que drena até 2d6 pontos de força de vontade. A vítima tem direito a um teste de WILL vs. WILL da entidade para resistir. Nível 6: Pensamentos. A entidade é capaz de ouvir (como se estivessem realmente falando) os pensamentos de todos os mortais dentro de um raio de 50m. Não inclui entender o que é pensado. Apenas ou..."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Trevas - Campanha Épica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:trevas-campanha-epica:forca-de-vontade-102-111",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-trevas-campanha-epica-trevas-campanha-epica-facilidade-lamia-229-6",
-    "name": "FACILIDADE, LAMIA (279-288)",
-    "category": "core_rule",
-    "source": "trevas-campanha-epica",
-    "page": 279,
-    "pages": [
-      279,
-      280,
-      281,
-      282,
-      283,
-      284,
-      285,
-      286,
-      287,
-      288
-    ],
-    "entries": [
-      "- 273 - teste de CON Difícil. Caso tenha sucesso, o personagem não adquire a doença sobrenatural. Caso falhe, a criatura perderá 1 ponto de atributo físico por mês. Após o primeiro teste, o personagem pode ainda fazer testes de CON Difícil à cada mês subsequente para não perder um ponto de atributo. O teste ainda deve ser feito no mês seguinte. Conta-se que..."
-    ],
-    "tags": [
-      "atributos",
-      "auto-extraido",
-      "certificado",
-      "core_rule",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:core_rule",
-    "sourceTitle": "Trevas - Campanha Épica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:trevas-campanha-epica:facilidade-lamia-279-288",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-trevas-diego-trevas-diego-resumo-de-criacao-4-2",
-    "name": "RESUMO DE CRIAÇÃO (14-20)",
-    "category": "combat",
-    "source": "trevas-diego",
-    "page": 14,
-    "pages": [
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "entries": [
-      "14 Ambidestria Disponível apenas durante a Criação de Personagem. Você pode manusear armas e instrumentos tanto com a mão direita quanto com a esquerda, com igual eficiência. Também pode usar duas armas brancas ao mesmo tempo, se forem pequenas o bastante para o uso com uma única mão. Estão fora dessa categoria arcos, bestas, lanças, a maioria dos machados e..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "trevas_DIEGO",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:trevas-diego:resumo-de-criacao-14-20",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -24358,37 +20817,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:um-sussurro-nas-trevas:polipos",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-um-sussurro-nas-trevas-um-sussurro-nas-trevas-aproximadamente-e-aproximadamente-como-uma-108",
-    "name": "aproximadamente é aproximadamente como uma",
-    "category": "combat",
-    "source": "um-sussurro-nas-trevas",
-    "page": 108,
-    "pages": [
-      108
-    ],
-    "entries": [
-      "aproximadamente é aproximadamente como uma esfera de uns 4,5 metros de diâmetro enquanto flutua livremente. Em combate ocupa uma área de 5 X 5 metros, dentro da qual todos que se encontram devem fazer um teste de FR x FR com a criatura, sob pena de serem absorvidos por ela. Se ataca mais de uma vítima por vez, a criatura deve repartir sua força entre todos o..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Um Sussurro nas Trevas",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:um-sussurro-nas-trevas:aproximadamente-e-aproximadamente-como-uma",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
@@ -25047,100 +21475,6 @@
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {
-    "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-visa-miles-100",
-    "name": "E VISA MILES",
-    "category": "combat",
-    "source": "vikings-biblioteca-elfica",
-    "page": 100,
-    "pages": [
-      100,
-      101
-    ],
-    "entries": [
-      "á e Ec E— x E VISA MILES RS PIXP ARAMBM PRAPIXM +R AMEX uma faço em que cada um sentirá quando o curro precise de ajuda Quando um deles estiver próximo da morte, poderk enviar uma men- sagem mental aos amigos delatando a idenadade de quem o matou, JaNÇA DE ODIN Custo; 1 Pomo de Fé Duração; Um combate O sacerdote pode transformar qualquer pedaço de madeira de..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Vikings-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-visa-miles",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-rr-mm-arame-frapinm-rampx-102",
-    "name": "E RR$ MM ARAME FRAPINM +RAMPX",
-    "category": "attribute_skill",
-    "source": "vikings-biblioteca-elfica",
-    "page": 102,
-    "pages": [
-      102,
-      103
-    ],
-    "entries": [
-      "E RR$ MM ARAME FRAPINM +RAMPX AUMENTO DE ATRIBUTOS EXCEPCIONAL Permite que um atributo seja aumentando em 6 pontos por ponto de poder gasto. À maioria das criaturas pode escolher apenas um atributo para ser aumentado e esse não poderá ser mudado. Os gigantes são uma exceção, podendo aumentar todos os atnhutos fisicos. O bônus só estará disponível na forma na..."
-    ],
-    "tags": [
-      "atributos",
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "experiencia",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Vikings-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-rr-mm-arame-frapinm-rampx",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-pre-mina-arampm-prapixa-rampn-104",
-    "name": "PRE MINA ARAMPM PRAPIXA +RAMPN",
-    "category": "combat",
-    "source": "vikings-biblioteca-elfica",
-    "page": 104,
-    "pages": [
-      104,
-      105
-    ],
-    "entries": [
-      "É PRE MINA ARAMPM PRAPIXA +RAMPN 3 = Resistência de Rocha: () anão tem uma resistência superior que o permite superar danos maciços: Caso receba al- gum dano que seja suficiente para matá-lo de uma vez só quando estiver com mais da metade de seus Pontos de Vida, ainda ficará com um Ponto de Vida. Só funciona uma vez por dia. 4 — Encantamento Rápido: Com uma..."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "combat",
-      "combate",
-      "regras-base"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:combat",
-    "sourceTitle": "Vikings-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:vikings-biblioteca-elfica:pre-mina-arampm-prapixa-rampn",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
     "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-pre-pina-arampm-prrpinm-arampx-106",
     "name": "PRE PINA ARAMPM PRRPINM ARAMPX",
     "category": "attribute_skill",
@@ -25168,41 +21502,6 @@
     "certifiedArea": "regras_base",
     "lockedArea": "regras_base",
     "certificationId": "regras-base-lock:vikings-biblioteca-elfica:pre-pina-arampm-prrpinm-arampx",
-    "certificationMethod": "regras-base-mechanical-pass-1"
-  },
-  {
-    "id": "regra-vikings-biblioteca-elfica-vikings-biblioteca-elfica-e-brr-pina-arame-frapinm-aramax-107",
-    "name": "E BRR PINA ARAME FRAPINM ARAMAX",
-    "category": "attribute_skill",
-    "source": "vikings-biblioteca-elfica",
-    "page": 107,
-    "pages": [
-      107,
-      108,
-      109,
-      110,
-      111
-    ],
-    "entries": [
-      "E BRR PINA ARAME FRAPINM ARAMAX BRA TIA DERA DANA PRA PINEE ADIAR BRAS PINTE TAXA se RINS RISE MW Sd WMV utilize uma lança, o dano será quadroplicado. Fla não terá direto a uma por ponto de Constituição da montaria: Exige um teste bem sucedido de Montaria om Cavalgar. 5 — Repelir Espíritos: Lima Valquiria não lida apenas com vs espíritos destinados a Asgard...."
-    ],
-    "tags": [
-      "attribute_skill",
-      "auto-extraido",
-      "certificado",
-      "combate",
-      "regras-base",
-      "testes"
-    ],
-    "confidence": 0.8,
-    "extractionMethod": "regras-base-book-part-pass-1",
-    "rulesContext": "book-part-category:attribute_skill",
-    "sourceTitle": "Vikings-biblioteca-elfica",
-    "certificationStatus": "certified",
-    "certifiedAs": "regra_base",
-    "certifiedArea": "regras_base",
-    "lockedArea": "regras_base",
-    "certificationId": "regras-base-lock:vikings-biblioteca-elfica:e-brr-pina-arame-frapinm-aramax",
     "certificationMethod": "regras-base-mechanical-pass-1"
   },
   {

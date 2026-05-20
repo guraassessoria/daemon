@@ -6,6 +6,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure
 
 
 ENTITIES_PATH = DATA_DIR / "entities" / "ritual_spell_granular.json"
@@ -143,6 +144,8 @@ def certification_failure(entity: dict[str, Any], locked_names: dict[str, set[tu
         return "name_has_sentence_punctuation"
     if len(body) < 45:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
     if "manual-ritual-spell" not in context and len(body) < 100:
         return "ritual_entry_too_short"
     if re.search(r"\bTempo de Aprendizado\s*:", body[:700], flags=re.IGNORECASE):

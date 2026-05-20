@@ -6,19 +6,9 @@
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_kit_claims_do_not_enter_kits": true
   },
-  "certifiedCount": 336,
-  "rejectedCount": 266,
+  "certifiedCount": 304,
+  "rejectedCount": 298,
   "records": [
-    {
-      "id": "kit-alastores-a-justica-infernal-auxiliares",
-      "source": "alastores-a-justica-infernal",
-      "name": "Auxiliares",
-      "nameKey": "auxiliares",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:alastores-a-justica-infernal:auxiliares"
-    },
     {
       "id": "kit-alastores-a-justica-infernal-alastor",
       "source": "alastores-a-justica-infernal",
@@ -160,16 +150,6 @@
       "certificationId": "kit-lock:arkanun:assassino"
     },
     {
-      "id": "kit-arkanun-afquimista",
-      "source": "arkanun",
-      "name": "Afquimista",
-      "nameKey": "afquimista",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:arkanun:afquimista"
-    },
-    {
       "id": "kit-cabala-2-cabalista-iniciado",
       "source": "cabala-2",
       "name": "Cabalista Iniciado",
@@ -228,16 +208,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:canislux:agradeco-especialmente-ao-danilo"
-    },
-    {
-      "id": "kit-clube-de-caca-guia-do-jogador-exorcizado",
-      "source": "clube-de-caca-guia-do-jogador",
-      "name": "Exorcizado",
-      "nameKey": "exorcizado",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:clube-de-caca-guia-do-jogador:exorcizado"
     },
     {
       "id": "kit-corondor-maquina-de-guerra-mecanoide",
@@ -300,16 +270,6 @@
       "certificationId": "kit-lock:daemon-anime-rpg:maga"
     },
     {
-      "id": "kit-daemon-anime-rpg-medica",
-      "source": "daemon-anime-rpg",
-      "name": "Médica",
-      "nameKey": "medica",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:daemon-anime-rpg:medica"
-    },
-    {
       "id": "kit-daemon-medieval-feiticeiro",
       "source": "daemon-medieval",
       "name": "Feiticeiro",
@@ -318,16 +278,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:daemon-medieval:feiticeiro"
-    },
-    {
-      "id": "kit-daemon-medieval-mago",
-      "source": "daemon-medieval",
-      "name": "Mago",
-      "nameKey": "mago",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:daemon-medieval:mago"
     },
     {
       "id": "kit-elf-cacador",
@@ -490,16 +440,6 @@
       "certificationId": "kit-lock:gaki:politico"
     },
     {
-      "id": "kit-gaki-yakuza",
-      "source": "gaki",
-      "name": "Yakuza",
-      "nameKey": "yakuza",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gaki:yakuza"
-    },
-    {
       "id": "kit-guerreiros-orientais-monge",
       "source": "guerreiros-orientais",
       "name": "Monge",
@@ -538,26 +478,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:guerreiros-orientais:esposa-de-samurai"
-    },
-    {
-      "id": "kit-guerreiros-orientais-samurai",
-      "source": "guerreiros-orientais",
-      "name": "Samurai",
-      "nameKey": "samurai",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:guerreiros-orientais:samurai"
-    },
-    {
-      "id": "kit-guia-dos-dragoes-1-biblioteca-elfica-cacador-de-dragoes",
-      "source": "guia-dos-dragoes-1-biblioteca-elfica",
-      "name": "CAÇADOR DE DRAGÕES",
-      "nameKey": "cacador-de-dragoes",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:guia-dos-dragoes-1-biblioteca-elfica:cacador-de-dragoes"
     },
     {
       "id": "kit-guia-dos-dragoes-1-biblioteca-elfica-cavaleiro-de-bestas",
@@ -680,16 +600,6 @@
       "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:guerreiro"
     },
     {
-      "id": "kit-imortal-advogado",
-      "source": "imortal",
-      "name": "ADVOGADO",
-      "nameKey": "advogado",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:imortal:advogado"
-    },
-    {
       "id": "kit-imortal-antiquario",
       "source": "imortal",
       "name": "ANTIQUÁRIO",
@@ -770,16 +680,6 @@
       "certificationId": "kit-lock:imortal:religiosos"
     },
     {
-      "id": "kit-imortal-shaolin",
-      "source": "imortal",
-      "name": "SHAOLIN",
-      "nameKey": "shaolin",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:imortal:shaolin"
-    },
-    {
       "id": "kit-inquisicao-biblioteca-elfica-estudiosos",
       "source": "inquisicao-biblioteca-elfica",
       "name": "Estudiosos",
@@ -788,16 +688,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:inquisicao-biblioteca-elfica:estudiosos"
-    },
-    {
-      "id": "kit-inquisicao-biblioteca-elfica-estrela-purpura",
-      "source": "inquisicao-biblioteca-elfica",
-      "name": "Estrela Púrpura",
-      "nameKey": "estrela-purpura",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:inquisicao-biblioteca-elfica:estrela-purpura"
     },
     {
       "id": "kit-kits-advogado",
@@ -1070,26 +960,6 @@
       "certificationId": "kit-lock:kits-orientais:monge"
     },
     {
-      "id": "kit-kits-orientais-moge-shaolin",
-      "source": "kits-orientais",
-      "name": "Moge Shaolin",
-      "nameKey": "moge-shaolin",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:kits-orientais:moge-shaolin"
-    },
-    {
-      "id": "kit-kits-orientais-artista-marcial-treinado",
-      "source": "kits-orientais",
-      "name": "Artista Marcial Treinado",
-      "nameKey": "artista-marcial-treinado",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:kits-orientais:artista-marcial-treinado"
-    },
-    {
       "id": "kit-kits-orientais-informacoes-de-jogo",
       "source": "kits-orientais",
       "name": "Informações de jogo",
@@ -1148,16 +1018,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:kits-orientais:kit-ninja-regra-antiga"
-    },
-    {
-      "id": "kit-kits-orientais-monge-shaolin",
-      "source": "kits-orientais",
-      "name": "Monge Shaolin",
-      "nameKey": "monge-shaolin",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:kits-orientais:monge-shaolin"
     },
     {
       "id": "kit-kitsat-advogado",
@@ -1660,16 +1520,6 @@
       "certificationId": "kit-lock:kitsat:centro-de-inteligencia-ci"
     },
     {
-      "id": "kit-kitsat-coordenacao-de-informatica-coinf",
-      "source": "kitsat",
-      "name": "Coordenação de Informática (COINF)",
-      "nameKey": "coordenacao-de-informatica-coinf",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:kitsat:coordenacao-de-informatica-coinf"
-    },
-    {
       "id": "kit-kitsat-seguranca-da-comunicacoes-cepesc",
       "source": "kitsat",
       "name": "Segurança da Comunicações (CEPESC)",
@@ -1790,16 +1640,6 @@
       "certificationId": "kit-lock:livrodomal:vingador"
     },
     {
-      "id": "kit-livrodomal-torturador",
-      "source": "livrodomal",
-      "name": "Torturador",
-      "nameKey": "torturador",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:livrodomal:torturador"
-    },
-    {
       "id": "kit-magia-negra-bruxo",
       "source": "magia-negra",
       "name": "Bruxo",
@@ -1900,16 +1740,6 @@
       "certificationId": "kit-lock:mago-sistema-daemon:filhos-do-eter"
     },
     {
-      "id": "kit-mago-sistema-daemon-irmandade-de-akasha",
-      "source": "mago-sistema-daemon",
-      "name": "Irmandade de Akasha",
-      "nameKey": "irmandade-de-akasha",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:mago-sistema-daemon:irmandade-de-akasha"
-    },
-    {
       "id": "kit-mago-sistema-daemon-oradores-dos-sonhos",
       "source": "mago-sistema-daemon",
       "name": "Oradores dos Sonhos",
@@ -1968,16 +1798,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:mago-sistema-daemon:iteracao-x"
-    },
-    {
-      "id": "kit-mago-sistema-daemon-nefandi",
-      "source": "mago-sistema-daemon",
-      "name": "Nefandi",
-      "nameKey": "nefandi",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:mago-sistema-daemon:nefandi"
     },
     {
       "id": "kit-marvel-rpg-7o-edicao-agente-federal",
@@ -2840,36 +2660,6 @@
       "certificationId": "kit-lock:mortal-kombat:kombatente"
     },
     {
-      "id": "kit-mortal-kombat-ninja",
-      "source": "mortal-kombat",
-      "name": "Ninja",
-      "nameKey": "ninja",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:mortal-kombat:ninja"
-    },
-    {
-      "id": "kit-naruto-rpg-daemon-2a-edicao-ninjas-das-vilas-ocultas",
-      "source": "naruto-rpg-daemon-2a-edicao",
-      "name": "Ninjas das Vilas Ocultas",
-      "nameKey": "ninjas-das-vilas-ocultas",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:naruto-rpg-daemon-2a-edicao:ninjas-das-vilas-ocultas"
-    },
-    {
-      "id": "kit-one-punch-man-rpg-sobrevivencia-per",
-      "source": "one-punch-man-rpg",
-      "name": "Sobrevivência (PER)",
-      "nameKey": "sobrevivencia-per",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:one-punch-man-rpg:sobrevivencia-per"
-    },
-    {
       "id": "kit-ray-guerreiros",
       "source": "ray",
       "name": "Guerreiros",
@@ -2888,16 +2678,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:ray:magos"
-    },
-    {
-      "id": "kit-ray-cavaleiros",
-      "source": "ray",
-      "name": "Cavaleiros",
-      "nameKey": "cavaleiros",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:ray:cavaleiros"
     },
     {
       "id": "kit-rocknrt-roqueiro",
@@ -2960,16 +2740,6 @@
       "certificationId": "kit-lock:rocknrt:musico-famoso"
     },
     {
-      "id": "kit-rocknrt-rock-star",
-      "source": "rocknrt",
-      "name": "Rock Star",
-      "nameKey": "rock-star",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:rocknrt:rock-star"
-    },
-    {
       "id": "kit-samurai-shodown-mestre-maho-jutsu",
       "source": "samurai-shodown",
       "name": "Mestre Maho-Jutsu",
@@ -2988,16 +2758,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:samurai-shodown:mandarin"
-    },
-    {
-      "id": "kit-samurai-shodown-artista-marcial-treinado",
-      "source": "samurai-shodown",
-      "name": "Artista Marcial Treinado",
-      "nameKey": "artista-marcial-treinado",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:samurai-shodown:artista-marcial-treinado"
     },
     {
       "id": "kit-samurai-shodown-editar-historia",
@@ -3120,16 +2880,6 @@
       "certificationId": "kit-lock:steampunk:alquimista-quimico"
     },
     {
-      "id": "kit-tagmar-daemon-os-guerreiros",
-      "source": "tagmar-daemon",
-      "name": "Os Guerreiros",
-      "nameKey": "os-guerreiros",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:tagmar-daemon:os-guerreiros"
-    },
-    {
       "id": "kit-templarios-biblioteca-elfica-adaga",
       "source": "templarios-biblioteca-elfica",
       "name": "Adaga",
@@ -3210,16 +2960,6 @@
       "certificationId": "kit-lock:trevas-de-marte:koboldjager"
     },
     {
-      "id": "kit-trevas-de-marte-investigador-de-homenzinhos-verdes-moderno",
-      "source": "trevas-de-marte",
-      "name": "Investigador de Homenzinhos Verdes Moderno",
-      "nameKey": "investigador-de-homenzinhos-verdes-moderno",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:trevas-de-marte:investigador-de-homenzinhos-verdes-moderno"
-    },
-    {
       "id": "kit-vaticano-agente-de-campo-da-umbra-domini",
       "source": "vaticano",
       "name": "Agente de Campo da Umbra Domini",
@@ -3278,66 +3018,6 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:vikings-biblioteca-elfica:berserker"
-    },
-    {
-      "id": "kit-vikings-biblioteca-elfica-rina-meistari",
-      "source": "vikings-biblioteca-elfica",
-      "name": "RINA-MEISTARI",
-      "nameKey": "rina-meistari",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:vikings-biblioteca-elfica:rina-meistari"
-    },
-    {
-      "id": "kit-gerador-de-criaturas-mestre-das-feras",
-      "source": "gerador-de-criaturas",
-      "name": "Mestre das Feras",
-      "nameKey": "mestre-das-feras",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gerador-de-criaturas:mestre-das-feras"
-    },
-    {
-      "id": "kit-gerador-de-criaturas-cacador",
-      "source": "gerador-de-criaturas",
-      "name": "Caçador",
-      "nameKey": "cacador",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gerador-de-criaturas:cacador"
-    },
-    {
-      "id": "kit-gerador-de-criaturas-convocador",
-      "source": "gerador-de-criaturas",
-      "name": "Convocador",
-      "nameKey": "convocador",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gerador-de-criaturas:convocador"
-    },
-    {
-      "id": "kit-gerador-de-criaturas-imitador",
-      "source": "gerador-de-criaturas",
-      "name": "Imitador",
-      "nameKey": "imitador",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gerador-de-criaturas:imitador"
-    },
-    {
-      "id": "kit-gerador-de-criaturas-mestre-da-transformacao",
-      "source": "gerador-de-criaturas",
-      "name": "Mestre da Transformação",
-      "nameKey": "mestre-da-transformacao",
-      "category": "kit_class",
-      "subtype": "kit",
-      "lockedArea": "kits",
-      "certificationId": "kit-lock:gerador-de-criaturas:mestre-da-transformacao"
     },
     {
       "id": "kit-demonios-a-divina-comedia-exorcista-de-roma",

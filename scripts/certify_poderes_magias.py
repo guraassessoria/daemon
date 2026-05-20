@@ -6,6 +6,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, INDEX_DIR, ROOT, slugify, read_json, write_json
+from granular_validation import certification_quality_failure
 
 
 ENTITIES_PATH = DATA_DIR / "entities" / "power_magic_granular.json"
@@ -322,6 +323,8 @@ def certification_failure(
         return "name_starts_with_broken_marker"
     if len(body) < 45:
         return "entry_too_short"
+    if quality_failure := certification_quality_failure(entity):
+        return quality_failure
     if looks_like_stat_block(body):
         return "looks_like_stat_block"
     if looks_like_kit_or_aprimoramento(name_key, body):
