@@ -730,7 +730,7 @@ button:focus-visible {
 }
 
 .detail-facts {
-  max-width: 980px;
+  width: 100%;
   margin: 0 0 16px;
 }
 
@@ -757,7 +757,7 @@ dd {
 }
 
 .detail-body {
-  max-width: 65ch;
+  width: 100%;
   padding-top: 4px;
 }
 
@@ -843,7 +843,7 @@ dd {
 }
 
 .detail-note {
-  max-width: 760px;
+  width: 100%;
   margin: 16px 0 0;
   padding: 12px;
   border: 1px solid var(--line);
