@@ -2,13 +2,13 @@
   "version": 1,
   "readySourceCount": 275,
   "areaCount": 14,
-  "entityCount": 2584,
+  "entityCount": 2725,
   "sourcePartCount": 4023,
   "areas": [
     {
       "id": "regras_base",
       "name": "Regras Base",
-      "entityCount": 794,
+      "entityCount": 792,
       "sourcePartCount": 0
     },
     {
@@ -20,7 +20,7 @@
     {
       "id": "kits",
       "name": "Kits",
-      "entityCount": 191,
+      "entityCount": 336,
       "sourcePartCount": 0
     },
     {
@@ -44,13 +44,13 @@
     {
       "id": "poderes",
       "name": "Poderes",
-      "entityCount": 480,
+      "entityCount": 479,
       "sourcePartCount": 0
     },
     {
       "id": "magias",
       "name": "Magias",
-      "entityCount": 405,
+      "entityCount": 404,
       "sourcePartCount": 0
     },
     {
@@ -387,7 +387,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 178
+        "count": 186
       },
       {
         "id": "daemon-medieval",
@@ -1177,7 +1177,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 10
+        "count": 11
       },
       {
         "id": "cura",
@@ -1207,7 +1207,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 127
+        "count": 132
       },
       {
         "id": "daemon-revisado-playtest-alfa-3-6",
@@ -1747,7 +1747,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 64
+        "count": 70
       },
       {
         "id": "hydora",
@@ -1797,7 +1797,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 40
+        "count": 42
       },
       {
         "id": "inquisicao-celestial",
@@ -1897,7 +1897,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 7
+        "count": 8
       },
       {
         "id": "kits-militares",
@@ -1917,7 +1917,7 @@
         "officialSource": false,
         "sourceFamily": "races_options",
         "sourceFamilyLabel": "Raças, kits e opções de personagem",
-        "count": 16
+        "count": 28
       },
       {
         "id": "kitsat",
@@ -2077,7 +2077,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 50
+        "count": 135
       },
       {
         "id": "masmorra-goblin",
@@ -2277,7 +2277,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 22
+        "count": 23
       },
       {
         "id": "neokosmos-biblioteca-elfica",
@@ -2367,7 +2367,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 45
+        "count": 46
       },
       {
         "id": "onmyodo",
@@ -2637,7 +2637,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 11
+        "count": 21
       },
       {
         "id": "samurai-shodown-v-move-list",
@@ -2827,7 +2827,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 60
+        "count": 61
       },
       {
         "id": "tagmar-daemon-versao-completa",
@@ -2867,7 +2867,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 37
+        "count": 43
       },
       {
         "id": "terras-natais",
@@ -3067,7 +3067,7 @@
         "officialSource": false,
         "sourceFamily": "myth_history",
         "sourceFamilyLabel": "Mitologia, história e religião",
-        "count": 91
+        "count": 93
       },
       {
         "id": "watchmen",
@@ -3139,7 +3139,7 @@
       },
       {
         "id": "combat",
-        "count": 1158
+        "count": 1156
       },
       {
         "id": "core_rule",
@@ -3155,11 +3155,11 @@
       },
       {
         "id": "kit_class",
-        "count": 288
+        "count": 433
       },
       {
         "id": "power_magic",
-        "count": 1637
+        "count": 1635
       },
       {
         "id": "race_lineage",
@@ -3189,11 +3189,11 @@
       },
       {
         "id": "character_option",
-        "count": 838
+        "count": 983
       },
       {
         "id": "combat_maneuver",
-        "count": 378
+        "count": 376
       },
       {
         "id": "creature_npc",
@@ -3221,7 +3221,7 @@
       },
       {
         "id": "power_spell",
-        "count": 1204
+        "count": 1202
       },
       {
         "id": "raw_chapter_block",
@@ -3244,19 +3244,19 @@
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 1522
+        "count": 1530
       },
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 5085
+        "count": 5218
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 514
+        "count": 532
       },
       {
         "id": "campaign_adventure",
@@ -3281,12 +3281,12 @@
       {
         "id": "myth_history",
         "label": "Mitologia, história e religião",
-        "count": 140
+        "count": 148
       },
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 1522
+        "count": 1530
       },
       {
         "id": "powers_magic",
@@ -3296,7 +3296,7 @@
       {
         "id": "races_options",
         "label": "Raças, kits e opções de personagem",
-        "count": 858
+        "count": 871
       },
       {
         "id": "custom_rules",
@@ -3311,7 +3311,7 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 1971
+        "count": 2065
       }
     ],
     "areas": [
@@ -3341,7 +3341,7 @@
       },
       {
         "id": "kits",
-        "count": 288
+        "count": 433
       },
       {
         "id": "linhagens",
@@ -3349,11 +3349,11 @@
       },
       {
         "id": "magias",
-        "count": 405
+        "count": 404
       },
       {
         "id": "poderes",
-        "count": 1232
+        "count": 1231
       },
       {
         "id": "racas",
@@ -3361,7 +3361,7 @@
       },
       {
         "id": "regras_base",
-        "count": 2707
+        "count": 2705
       },
       {
         "id": "rituais",

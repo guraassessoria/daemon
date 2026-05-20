@@ -36,10 +36,10 @@ Varredura das fontes prontas com travas separadas para racas mecanicas e linhage
 | --- | ---: |
 | `no_mechanical_race_signal` | 1107 |
 | `no_lineage_signal` | 112 |
-| `looks_like_kit_or_class` | 57 |
+| `looks_like_kit_or_class` | 55 |
 | `duplicate_certification_content` | 42 |
 | `name_is_section_or_empty` | 8 |
-| `locked_as_kit` | 3 |
+| `locked_as_kit` | 5 |
 
 ## Rejected sample
 

@@ -9,8 +9,8 @@
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_magias": true,
     "rituais_are_kept_in_rituais": true
   },
-  "certifiedCount": 405,
-  "rejectedCount": 3805,
+  "certifiedCount": 404,
+  "rejectedCount": 3807,
   "records": [
     {
       "id": "magia-anjos-requiem-de-fe-caminhos-agua-1",
@@ -631,16 +631,6 @@
       "subtype": "magia",
       "lockedArea": "magias",
       "certificationId": "magia-lock:anjos-requiem-de-fe:caminhos-trevas-5"
-    },
-    {
-      "id": "magia-arkanun-afquimista",
-      "source": "arkanun",
-      "name": "Afquimista",
-      "nameKey": "afquimista",
-      "category": "power_magic",
-      "subtype": "magia",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:arkanun:afquimista"
     },
     {
       "id": "magia-arkanun-cc-minhos-secund-rios",

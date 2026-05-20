@@ -1,7 +1,7 @@
 # Certificacao de Regras Base
 
-- Certificados: 794
-- Rejeitados: 243
+- Certificados: 792
+- Rejeitados: 244
 
 ## Politica
 
@@ -12,11 +12,11 @@
 
 ## Rejeicoes
 
-- duplicate_certification_key: 36
+- duplicate_certification_key: 35
 - locked_as_aprimoramento: 8
-- locked_as_kit: 3
+- locked_as_kit: 7
 - locked_as_raca: 8
-- looks_like_character_option: 68
+- looks_like_character_option: 66
 - looks_like_power_magic_or_ritual: 9
 - looks_like_stat_block: 61
 - name_has_sentence_punctuation: 27
@@ -425,7 +425,6 @@
 - Heroísmo (heroismo, core_rule)
 - concedê-los a qualquer NPC encontrado (heroismo, core_rule)
 - CECfos (hi-brazil-biblioteca-elfica, attribute_skill)
-- Gfaáiaáor (hi-brazil-biblioteca-elfica, combat)
 - Rapier (hi-brazil-biblioteca-elfica, combat)
 - SOMBRAS DO PASSADO (imortal, core_rule)
 - LEXICO (imortal, attribute_skill)
@@ -698,7 +697,6 @@
 - SOBRE TÉCNICAS SIMULTÂNEAS (samurai-shodown, combat)
 - REGRAS : DANO (samurai-shodown, attribute_skill)
 - DANO LOCALIZADO (samurai-shodown, combat)
-- Kit Espadachim (samurai-shodown, combat)
 - ÍNDICE (46-55) (santa-cruz-biblioteca-elfica, combat)
 - ÍNDICE (86-95) (santa-cruz-biblioteca-elfica, combat)
 - ÍNDICE (96-105) (santa-cruz-biblioteca-elfica, combat)

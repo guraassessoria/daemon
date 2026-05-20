@@ -2,10 +2,10 @@
 
 Varredura das fontes prontas com travas separadas para poderes e magias.
 
-- Certified items: 885
-- Certified poderes: 480
-- Certified magias: 405
-- Rejected candidates: 3805
+- Certified items: 883
+- Certified poderes: 479
+- Certified magias: 404
+- Rejected candidates: 3807
 
 ## Policy
 
@@ -67,7 +67,6 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 | `trevas-3-0` | 3 |
 | `vikings-biblioteca-elfica` | 3 |
 | `alastores-a-justica-infernal` | 2 |
-| `arkanun` | 2 |
 | `arte-da-guerra` | 2 |
 | `daemon-medieval` | 2 |
 | `dbz-rpg` | 2 |
@@ -81,7 +80,7 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 | `trevas-de-marte` | 2 |
 | `alianca-daemon-01` | 1 |
 | `ark-a-nun-arquivos-de-bel-kalaa` | 1 |
-| `daemon-anime-rpg` | 1 |
+| `arkanun` | 1 |
 | `daiphir-legado-de-sangue` | 1 |
 | `guerreiros-orientais` | 1 |
 | `guia-do-aventureiro-de-arton` | 1 |
@@ -103,18 +102,18 @@ Varredura das fontes prontas com travas separadas para poderes e magias.
 
 | Reason | Count |
 | --- | ---: |
-| `no_mechanical_magic_signal` | 1227 |
-| `name_has_sentence_punctuation` | 808 |
-| `looks_like_ritual` | 433 |
+| `no_mechanical_magic_signal` | 1226 |
+| `name_has_sentence_punctuation` | 807 |
+| `looks_like_ritual` | 432 |
 | `name_looks_like_section_heading` | 274 |
-| `no_power_term` | 192 |
-| `no_mechanical_power_signal` | 163 |
+| `no_power_term` | 189 |
+| `no_mechanical_power_signal` | 162 |
 | `name_is_section_or_empty` | 126 |
 | `looks_like_stat_block` | 115 |
 | `entry_too_short` | 108 |
 | `name_starts_with_broken_marker` | 82 |
-| `looks_like_kit_or_aprimoramento` | 72 |
-| `locked_as_kit` | 48 |
+| `looks_like_kit_or_aprimoramento` | 65 |
+| `locked_as_kit` | 64 |
 | `locked_as_aprimoramento` | 47 |
 | `locked_as_regras_base` | 42 |
 | `no_magic_term` | 28 |

@@ -3,7 +3,7 @@
   "id": "regras_base",
   "name": "Regras Base",
   "readySourceCount": 275,
-  "entityCount": 794,
+  "entityCount": 792,
   "sourcePartCount": 0,
   "subgroups": [],
   "filters": {
@@ -816,7 +816,7 @@
         "officialSource": false,
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
-        "count": 3
+        "count": 2
       },
       {
         "id": "imortal",
@@ -1316,7 +1316,7 @@
         "officialSource": false,
         "sourceFamily": "adaptation_pop",
         "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 4
+        "count": 3
       },
       {
         "id": "santa-cruz-biblioteca-elfica",
@@ -1566,7 +1566,7 @@
       },
       {
         "id": "combat",
-        "count": 335
+        "count": 333
       },
       {
         "id": "core_rule",
@@ -1576,7 +1576,7 @@
     "subtypes": [
       {
         "id": "combat_maneuver",
-        "count": 335
+        "count": 333
       },
       {
         "id": "rule_mechanic",
@@ -1592,14 +1592,14 @@
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 643
+        "count": 641
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 104
+        "count": 103
       },
       {
         "id": "campaign_adventure",
@@ -1654,13 +1654,13 @@
       {
         "id": "supplement_misc",
         "label": "Suplementos gerais",
-        "count": 260
+        "count": 259
       }
     ],
     "areas": [
       {
         "id": "regras_base",
-        "count": 794
+        "count": 792
       }
     ]
   },
@@ -17652,48 +17652,6 @@
       "qualityStatus": "revisar"
     },
     {
-      "id": "regra-hi-brazil-biblioteca-elfica-hi-brazil-biblioteca-elfica-gfaaiaaor-18",
-      "name": "Gfaáiaáor",
-      "area": "regras_base",
-      "category": "combat",
-      "source": "hi-brazil-biblioteca-elfica",
-      "sourceTitle": "Hi-brazil-biblioteca-elfica",
-      "page": 18,
-      "entries": [
-        "Gfaáiaáor Uma profissão muito rentável e ao mesmo tempo muito perigosa. Os gladiadores são vistos como heróis pela população dos locais por onde passam, tanto se lutarem nas arenas quanto se forem participantes do Pok-a-tok. Podem estar estabelecidos em apenas uma arena ou passar a vida viajando a procura de novos desafios. Custo: 3 pontos de aprimoramento,..."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "combat",
-        "regras-base",
-        "regras_base"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "regras-base-book-part-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "supplement_misc",
-      "sourceFamilyLabel": "Suplementos gerais",
-      "contentKind": "combat_maneuver",
-      "contentKindLabel": "Combate ou manobra",
-      "pages": [
-        18,
-        19
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "regra_base",
-      "certifiedArea": "regras_base",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:hi-brazil-biblioteca-elfica:gfaaiaaor",
-      "certificationMethod": "regras-base-mechanical-pass-1",
-      "qualityFlags": [],
-      "qualitySeverity": "ok",
-      "presentationStatus": "public",
-      "qualityStatus": "ok"
-    },
-    {
       "id": "regra-racas-racas-gigante-5",
       "name": "Gigante",
       "area": "regras_base",
@@ -20654,70 +20612,6 @@
       "certificationMethod": "regras-base-mechanical-pass-1",
       "qualityFlags": [
         "ends_with_connector_possible_cut"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "regra-samurai-shodown-samurai-shodown-kit-espadachim-50",
-      "name": "Kit Espadachim",
-      "area": "regras_base",
-      "category": "combat",
-      "source": "samurai-shodown",
-      "sourceTitle": "Samurai Shodown",
-      "page": 50,
-      "entries": [
-        "Kit Espadachim Custos: 5pts, 300pts de perícias. Restrições: nenhuma. Perícas: Armas brancas (escolha uma [DEX/DEX] 40/40); Animais (montaria [AGI] 30%); Armeiro [0] 30%; Camuflagem [PER] 20%; Esquiva [AGI]10+60%; Esportes (Artes marciais [AGI]/[AGI] 40/40%); Acrobacia 20+45%; Furtividade [AGI] 20%; Manobras de combate (Defesas Múltiplas 100); Manipulação (I..."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "combat",
-        "combate",
-        "pericias",
-        "regras-base",
-        "regras_base"
-      ],
-      "confidence": 0.8,
-      "extractionMethod": "regras-base-book-part-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "combat_maneuver",
-      "contentKindLabel": "Combate ou manobra",
-      "pages": [
-        50,
-        51,
-        52,
-        53,
-        54,
-        55,
-        56,
-        57,
-        58,
-        59,
-        60,
-        61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
-        68,
-        69
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "regra_base",
-      "certifiedArea": "regras_base",
-      "lockedArea": "regras_base",
-      "certificationId": "regras-base-lock:samurai-shodown:kit-espadachim",
-      "certificationMethod": "regras-base-mechanical-pass-1",
-      "qualityFlags": [
-        "unbalanced_parentheses"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",

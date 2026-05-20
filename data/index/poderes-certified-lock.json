@@ -8,8 +8,8 @@
     "certified_regras_base_items_are_not_reclassified_as_poderes": true,
     "certified_aprimoramentos_kits_classes_racas_and_linhagens_are_not_reclassified_as_poderes": true
   },
-  "certifiedCount": 480,
-  "rejectedCount": 3805,
+  "certifiedCount": 479,
+  "rejectedCount": 3807,
   "records": [
     {
       "id": "poder-alastores-a-justica-infernal-marcas",
@@ -690,16 +690,6 @@
       "subtype": "poder",
       "lockedArea": "poderes",
       "certificationId": "poder-lock:cura:gui-gui-gury"
-    },
-    {
-      "id": "poder-daemon-anime-rpg-medica",
-      "source": "daemon-anime-rpg",
-      "name": "Médica",
-      "nameKey": "medica",
-      "category": "power_magic",
-      "subtype": "poder",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:daemon-anime-rpg:medica"
     },
     {
       "id": "poder-daemon-tormenta-meio-elfos",

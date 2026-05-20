@@ -3,7 +3,7 @@
   "id": "magias",
   "name": "Magias",
   "readySourceCount": 275,
-  "entityCount": 405,
+  "entityCount": 404,
   "sourcePartCount": 0,
   "subgroups": [],
   "filters": {
@@ -16,7 +16,7 @@
         "officialSource": true,
         "sourceFamily": "official_core",
         "sourceFamilyLabel": "Oficiais / linha principal",
-        "count": 2
+        "count": 1
       },
       {
         "id": "daemon-medieval",
@@ -372,20 +372,20 @@
     "categories": [
       {
         "id": "power_magic",
-        "count": 405
+        "count": 404
       }
     ],
     "subtypes": [
       {
         "id": "power_spell",
-        "count": 405
+        "count": 404
       }
     ],
     "sourceKinds": [
       {
         "id": "official",
         "label": "Livro oficial",
-        "count": 161
+        "count": 160
       },
       {
         "id": "supplement",
@@ -407,7 +407,7 @@
       {
         "id": "official_core",
         "label": "Oficiais / linha principal",
-        "count": 161
+        "count": 160
       },
       {
         "id": "powers_magic",
@@ -433,7 +433,7 @@
     "areas": [
       {
         "id": "magias",
-        "count": 405
+        "count": 404
       }
     ]
   },
@@ -709,53 +709,6 @@
       "qualityFlags": [
         "does_not_end_like_complete_sentence",
         "unbalanced_parentheses"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "magia-arkanun-afquimista",
-      "name": "Afquimista",
-      "area": "magias",
-      "category": "power_magic",
-      "source": "arkanun",
-      "sourceTitle": "Arkanun",
-      "page": 31,
-      "entries": [
-        "Alquimistas são 'mestres em poções, elixires, óleos,\nvenenos e perfumes mágicos. Sua Magia é resumida em\nfrascos contendo líquidos raríssimos que, quando com­\nbinados, formam as mais diversas poções e efeitos.\nEscolhem grandes cidades para viver, de preferên­\ncia próximas a grandes rotas comerciais, onde podem\nestar sempre em contato com mercadores para obterem\nespeciarias, ervas e elixires necessários para suas expe­\nriências. Alquimistas estão sempre aliados com Feiticei­\nros e Ordens de Magia, que costumam requisitar seus\nserviços com freqüência.\nEm geral, Alquimistas vivem uma vida muito agi­\ntada, sempre em busca de novos ingredientes para suas\nexperiências (leia-se escamas, penas, pêlos e outras par­\ntes de criaturas muito perigosas).\nAfquimista .\nCusto: 3 pts. de Aprimoramento, 280 pts. de Perícia.\nPerícias: Barganha40%,Ciências (Herbalismo40%), Ci­\nências Proibidas (Alquimia 50 % , Cabala 30%, Ocultis­\nmo 30%, Rituais 30%), Idiomas (Hebraico 20%, Ler e\nEscrever Idioma Nativo 25%, Ler e Escrever Hebraico\n35% ), Medicina 25%, Primeiros Socorros 25%, Subter­\nfúgio 20%, Venenos 30%."
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "magia",
-        "magias",
-        "power_magic"
-      ],
-      "confidence": 0.78,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "official",
-      "sourceKindLabel": "Livro oficial",
-      "officialSource": true,
-      "sourceFamily": "official_core",
-      "sourceFamilyLabel": "Oficiais / linha principal",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "magia",
-      "pages": [
-        31
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "magia",
-      "certifiedArea": "magias",
-      "lockedArea": "magias",
-      "certificationId": "magia-lock:arkanun:afquimista",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "encoding_or_ocr_artifact",
-        "lowercase_sentence_after_section_possible_leak"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",

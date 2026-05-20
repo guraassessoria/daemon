@@ -3,7 +3,7 @@
   "id": "poderes",
   "name": "Poderes",
   "readySourceCount": 275,
-  "entityCount": 480,
+  "entityCount": 479,
   "sourcePartCount": 0,
   "subgroups": [],
   "filters": {
@@ -177,16 +177,6 @@
         "sourceFamily": "supplement_misc",
         "sourceFamilyLabel": "Suplementos gerais",
         "count": 4
-      },
-      {
-        "id": "daemon-anime-rpg",
-        "title": "Daemon - Anime RPG",
-        "sourceKind": "supplement",
-        "sourceKindLabel": "Suplemento de jogo/campanha",
-        "officialSource": false,
-        "sourceFamily": "adaptation_pop",
-        "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-        "count": 1
       },
       {
         "id": "daemon-tormenta",
@@ -612,13 +602,13 @@
     "categories": [
       {
         "id": "power_magic",
-        "count": 480
+        "count": 479
       }
     ],
     "subtypes": [
       {
         "id": "power_spell",
-        "count": 480
+        "count": 479
       }
     ],
     "sourceKinds": [
@@ -630,14 +620,14 @@
       {
         "id": "supplement",
         "label": "Suplemento de jogo/campanha",
-        "count": 433
+        "count": 432
       }
     ],
     "sourceFamilies": [
       {
         "id": "adaptation_pop",
         "label": "Adaptações, anime, supers e cultura pop",
-        "count": 11
+        "count": 10
       },
       {
         "id": "campaign_adventure",
@@ -683,7 +673,7 @@
     "areas": [
       {
         "id": "poderes",
-        "count": 480
+        "count": 479
       }
     ]
   },
@@ -14643,54 +14633,6 @@
       "powerMagicContext": "power-source,power-term",
       "qualityFlags": [
         "does_not_end_like_complete_sentence"
-      ],
-      "qualitySeverity": "warning",
-      "presentationStatus": "public",
-      "qualityStatus": "revisar"
-    },
-    {
-      "id": "poder-daemon-anime-rpg-medica",
-      "name": "Médica",
-      "area": "poderes",
-      "category": "power_magic",
-      "source": "daemon-anime-rpg",
-      "sourceTitle": "Daemon - Anime RPG",
-      "page": 23,
-      "entries": [
-        "É o profissional especializado em\ncuidar da saúde das pessoas. Trata-se de\numa profissão muito respeitada pelas pes­\nsoas e que garante um razoável padrão\nde vida. O médico pode tomar contato\ncom o sobrenatural ao examinar doenças\nestranhas em seus pacientes.\nCusto: 1 Ponto de aprimoramento, 300\npontos de perícia.\nPerícias: Ciências (Anatomia 50%,\nBiologia 50%, Fisiologia 50%), Condu­\nção 20%, Etiqueta 20%, Medicina (Ci­\nrurgia 50%, Primeiros Socorros · 50%,\nescolha uma especialidade 40%), Mani­\npulação (Empatia 30%).\nAprimoramentos: Boa Fama, Biblio­\nteca 1, Recursos 2.\nFar111a Alternatil/a\n2 pontos: Seu Personagem possui duas formas diferentes (construídas separadamente, mas cada um deles possui este aprimoramento) que\nse temam em determinadas circunstâncias. A explicação para esta segunda forma e seus poderes deve ser explicada detalhadamente.\nFúria Fe111inina\n(apenas para Personagens mulheres)\n1 ponto: Quando a personagem é assedi­\nada ou atormentada por qualquer Persona­\ngem masculino, ela recebe um bônus de +6\nem FR e + 10% em todos os ataques contra\naquele indivíduo específico.\nGre111lins\n3 pontos: ao que parece, um pequeno\ngrupo de gremlins (criaturas empenhadas\nem sabotar equipamentos) resolveu acom­\npanhar o Personagem. As coisas quebram\nou não funcionam em sua presença. Porém,\nos gremlins decidiram ajudar o Personagem,\nque pode pedir a eles ajuda nos momentos\nde crise. O Mestre faz um Teste de CAR\npara ver se os gremlins atendem ao pedido.\nGuardião de Artet=ata\n3 pontos: o Personagem foi designa­\ndo como guardião de um item de grande\nvalor. Esse aprimoramento pode ser me­\nnos vantajoso e mais daninho: objetos\npoderosos atraem a atenção de seres po­\nderosos. Cabe ao Mestre escolher qual ar­\ntefato seu Personagem possui e as razões\ndele estar com esse Personagem. ESTE"
-      ],
-      "tags": [
-        "auto-extraido",
-        "certificado",
-        "mental",
-        "poder",
-        "poderes",
-        "power_magic"
-      ],
-      "confidence": 0.82,
-      "extractionMethod": "auto-power-magic-heading-pass-1",
-      "sourceKind": "supplement",
-      "sourceKindLabel": "Suplemento de jogo/campanha",
-      "officialSource": false,
-      "sourceFamily": "adaptation_pop",
-      "sourceFamilyLabel": "Adaptações, anime, supers e cultura pop",
-      "contentKind": "power_spell",
-      "contentKindLabel": "Poder, magia ou ritual",
-      "subtype": "poder",
-      "pages": [
-        23,
-        34
-      ],
-      "certificationStatus": "certified",
-      "certifiedAs": "poder",
-      "certifiedArea": "poderes",
-      "lockedArea": "poderes",
-      "certificationId": "poder-lock:daemon-anime-rpg:medica",
-      "certificationMethod": "power-magic-explicit-context-mechanical-pass-1",
-      "powerMagicContext": "magic-term,power-magic-book-part,power-term",
-      "qualityFlags": [
-        "does_not_end_like_complete_sentence",
-        "encoding_or_ocr_artifact"
       ],
       "qualitySeverity": "warning",
       "presentationStatus": "public",

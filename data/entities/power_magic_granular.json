@@ -3585,36 +3585,6 @@
     "certificationMethod": "power-magic-explicit-context-mechanical-pass-1"
   },
   {
-    "id": "magia-arkanun-afquimista",
-    "name": "Afquimista",
-    "category": "power_magic",
-    "subtype": "magia",
-    "source": "arkanun",
-    "sourceTitle": "Arkanun",
-    "page": 31,
-    "pages": [
-      31
-    ],
-    "entries": [
-      "Alquimistas são 'mestres em poções, elixires, óleos,\nvenenos e perfumes mágicos. Sua Magia é resumida em\nfrascos contendo líquidos raríssimos que, quando com­\nbinados, formam as mais diversas poções e efeitos.\nEscolhem grandes cidades para viver, de preferên­\ncia próximas a grandes rotas comerciais, onde podem\nestar sempre em contato com mercadores para obterem\nespeciarias, ervas e elixires necessários para suas expe­\nriências. Alquimistas estão sempre aliados com Feiticei­\nros e Ordens de Magia, que costumam requisitar seus\nserviços com freqüência.\nEm geral, Alquimistas vivem uma vida muito agi­\ntada, sempre em busca de novos ingredientes para suas\nexperiências (leia-se escamas, penas, pêlos e outras par­\ntes de criaturas muito perigosas).\nAfquimista .\nCusto: 3 pts. de Aprimoramento, 280 pts. de Perícia.\nPerícias: Barganha40%,Ciências (Herbalismo40%), Ci­\nências Proibidas (Alquimia 50 % , Cabala 30%, Ocultis­\nmo 30%, Rituais 30%), Idiomas (Hebraico 20%, Ler e\nEscrever Idioma Nativo 25%, Ler e Escrever Hebraico\n35% ), Medicina 25%, Primeiros Socorros 25%, Subter­\nfúgio 20%, Venenos 30%."
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "magia",
-      "magias"
-    ],
-    "confidence": 0.78,
-    "extractionMethod": "auto-power-magic-heading-pass-1",
-    "powerMagicContext": "magic-term,power-magic-book-part,power-term",
-    "certificationStatus": "certified",
-    "certifiedAs": "magia",
-    "certifiedArea": "magias",
-    "lockedArea": "magias",
-    "certificationId": "magia-lock:arkanun:afquimista",
-    "certificationMethod": "power-magic-explicit-context-mechanical-pass-1"
-  },
-  {
     "id": "magia-arkanun-cc-minhos-secund-rios",
     "name": "·cc\\minhos Secund&Rios",
     "category": "power_magic",
@@ -4775,38 +4745,6 @@
     "certifiedArea": "poderes",
     "lockedArea": "poderes",
     "certificationId": "poder-lock:cura:gui-gui-gury",
-    "certificationMethod": "power-magic-explicit-context-mechanical-pass-1"
-  },
-  {
-    "id": "poder-daemon-anime-rpg-medica",
-    "name": "Médica",
-    "category": "power_magic",
-    "subtype": "poder",
-    "source": "daemon-anime-rpg",
-    "sourceTitle": "Daemon - Anime RPG",
-    "page": 23,
-    "pages": [
-      23,
-      34
-    ],
-    "entries": [
-      "É o profissional especializado em\ncuidar da saúde das pessoas. Trata-se de\numa profissão muito respeitada pelas pes­\nsoas e que garante um razoável padrão\nde vida. O médico pode tomar contato\ncom o sobrenatural ao examinar doenças\nestranhas em seus pacientes.\nCusto: 1 Ponto de aprimoramento, 300\npontos de perícia.\nPerícias: Ciências (Anatomia 50%,\nBiologia 50%, Fisiologia 50%), Condu­\nção 20%, Etiqueta 20%, Medicina (Ci­\nrurgia 50%, Primeiros Socorros · 50%,\nescolha uma especialidade 40%), Mani­\npulação (Empatia 30%).\nAprimoramentos: Boa Fama, Biblio­\nteca 1, Recursos 2.\nFar111a Alternatil/a\n2 pontos: Seu Personagem possui duas formas diferentes (construídas separadamente, mas cada um deles possui este aprimoramento) que\nse temam em determinadas circunstâncias. A explicação para esta segunda forma e seus poderes deve ser explicada detalhadamente.\nFúria Fe111inina\n(apenas para Personagens mulheres)\n1 ponto: Quando a personagem é assedi­\nada ou atormentada por qualquer Persona­\ngem masculino, ela recebe um bônus de +6\nem FR e + 10% em todos os ataques contra\naquele indivíduo específico.\nGre111lins\n3 pontos: ao que parece, um pequeno\ngrupo de gremlins (criaturas empenhadas\nem sabotar equipamentos) resolveu acom­\npanhar o Personagem. As coisas quebram\nou não funcionam em sua presença. Porém,\nos gremlins decidiram ajudar o Personagem,\nque pode pedir a eles ajuda nos momentos\nde crise. O Mestre faz um Teste de CAR\npara ver se os gremlins atendem ao pedido.\nGuardião de Artet=ata\n3 pontos: o Personagem foi designa­\ndo como guardião de um item de grande\nvalor. Esse aprimoramento pode ser me­\nnos vantajoso e mais daninho: objetos\npoderosos atraem a atenção de seres po­\nderosos. Cabe ao Mestre escolher qual ar­\ntefato seu Personagem possui e as razões\ndele estar com esse Personagem. ESTE"
-    ],
-    "tags": [
-      "auto-extraido",
-      "certificado",
-      "mental",
-      "poder",
-      "poderes"
-    ],
-    "confidence": 0.82,
-    "extractionMethod": "auto-power-magic-heading-pass-1",
-    "powerMagicContext": "magic-term,power-magic-book-part,power-term",
-    "certificationStatus": "certified",
-    "certifiedAs": "poder",
-    "certifiedArea": "poderes",
-    "lockedArea": "poderes",
-    "certificationId": "poder-lock:daemon-anime-rpg:medica",
     "certificationMethod": "power-magic-explicit-context-mechanical-pass-1"
   },
   {

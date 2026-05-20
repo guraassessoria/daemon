@@ -6,8 +6,8 @@
     "certified_items_must_not_be_duplicated_in_other_categories": true,
     "uncertified_kit_claims_do_not_enter_kits": true
   },
-  "certifiedCount": 191,
-  "rejectedCount": 147,
+  "certifiedCount": 336,
+  "rejectedCount": 266,
   "records": [
     {
       "id": "kit-alastores-a-justica-infernal-auxiliares",
@@ -80,6 +80,96 @@
       "certificationId": "kit-lock:alastores-a-justica-infernal:milicianos-de-ferro"
     },
     {
+      "id": "kit-arkanun-guerreiro",
+      "source": "arkanun",
+      "name": "Guerreiro",
+      "nameKey": "guerreiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:guerreiro"
+    },
+    {
+      "id": "kit-arkanun-nger",
+      "source": "arkanun",
+      "name": "Ɔnger",
+      "nameKey": "nger",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:nger"
+    },
+    {
+      "id": "kit-arkanun-guarda-costas",
+      "source": "arkanun",
+      "name": "Guarda-Costas",
+      "nameKey": "guarda-costas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:guarda-costas"
+    },
+    {
+      "id": "kit-arkanun-sj-afodino",
+      "source": "arkanun",
+      "name": "SJ?afodino",
+      "nameKey": "sj-afodino",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:sj-afodino"
+    },
+    {
+      "id": "kit-arkanun-cavafciro",
+      "source": "arkanun",
+      "name": "Cavafciro",
+      "nameKey": "cavafciro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:cavafciro"
+    },
+    {
+      "id": "kit-arkanun-ejogador",
+      "source": "arkanun",
+      "name": "EJogador",
+      "nameKey": "ejogador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:ejogador"
+    },
+    {
+      "id": "kit-arkanun-g-mestrd-som-rio",
+      "source": "arkanun",
+      "name": "g<mestrd Som&rio",
+      "nameKey": "g-mestrd-som-rio",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:g-mestrd-som-rio"
+    },
+    {
+      "id": "kit-arkanun-assassino",
+      "source": "arkanun",
+      "name": "Assassino",
+      "nameKey": "assassino",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:assassino"
+    },
+    {
+      "id": "kit-arkanun-afquimista",
+      "source": "arkanun",
+      "name": "Afquimista",
+      "nameKey": "afquimista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:arkanun:afquimista"
+    },
+    {
       "id": "kit-cabala-2-cabalista-iniciado",
       "source": "cabala-2",
       "name": "Cabalista Iniciado",
@@ -148,6 +238,76 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:clube-de-caca-guia-do-jogador:exorcizado"
+    },
+    {
+      "id": "kit-corondor-maquina-de-guerra-mecanoide",
+      "source": "corondor",
+      "name": "Máquina de Guerra Mecanóide",
+      "nameKey": "maquina-de-guerra-mecanoide",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:corondor:maquina-de-guerra-mecanoide"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-antiquario",
+      "source": "daemon-anime-rpg",
+      "name": "Antiquário",
+      "nameKey": "antiquario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:antiquario"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-arqueologo",
+      "source": "daemon-anime-rpg",
+      "name": "Arqueólogo",
+      "nameKey": "arqueologo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:arqueologo"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-hacker",
+      "source": "daemon-anime-rpg",
+      "name": "Hacker",
+      "nameKey": "hacker",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:hacker"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-jornalista",
+      "source": "daemon-anime-rpg",
+      "name": "Jornalista",
+      "nameKey": "jornalista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:jornalista"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-maga",
+      "source": "daemon-anime-rpg",
+      "name": "Maga",
+      "nameKey": "maga",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:maga"
+    },
+    {
+      "id": "kit-daemon-anime-rpg-medica",
+      "source": "daemon-anime-rpg",
+      "name": "Médica",
+      "nameKey": "medica",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:daemon-anime-rpg:medica"
     },
     {
       "id": "kit-daemon-medieval-feiticeiro",
@@ -450,6 +610,76 @@
       "certificationId": "kit-lock:guia-dragoes-vol-ii:feiticeiro"
     },
     {
+      "id": "kit-hi-brazil-biblioteca-elfica-cffa-hiaaaes",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Cffa&Hiáaáes",
+      "nameKey": "cffa-hiaaaes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:cffa-hiaaaes"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-cffa6tctaaaes",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Cffa6tctáaáes",
+      "nameKey": "cffa6tctaaaes",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:cffa6tctaaaes"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-cacador",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Caçador",
+      "nameKey": "cacador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:cacador"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-cangaceiro",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Cangaceiro",
+      "nameKey": "cangaceiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:cangaceiro"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-capoeira",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Capoeira",
+      "nameKey": "capoeira",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:capoeira"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-gfaaiaaor",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Gfaáiaáor",
+      "nameKey": "gfaaiaaor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:gfaaiaaor"
+    },
+    {
+      "id": "kit-hi-brazil-biblioteca-elfica-guerreiro",
+      "source": "hi-brazil-biblioteca-elfica",
+      "name": "Guerreiro",
+      "nameKey": "guerreiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:hi-brazil-biblioteca-elfica:guerreiro"
+    },
+    {
       "id": "kit-imortal-advogado",
       "source": "imortal",
       "name": "ADVOGADO",
@@ -548,6 +778,26 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:imortal:shaolin"
+    },
+    {
+      "id": "kit-inquisicao-biblioteca-elfica-estudiosos",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Estudiosos",
+      "nameKey": "estudiosos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:inquisicao-biblioteca-elfica:estudiosos"
+    },
+    {
+      "id": "kit-inquisicao-biblioteca-elfica-estrela-purpura",
+      "source": "inquisicao-biblioteca-elfica",
+      "name": "Estrela Púrpura",
+      "nameKey": "estrela-purpura",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:inquisicao-biblioteca-elfica:estrela-purpura"
     },
     {
       "id": "kit-kits-advogado",
@@ -730,6 +980,16 @@
       "certificationId": "kit-lock:kits:soldado"
     },
     {
+      "id": "kit-kits-arton-deamon",
+      "source": "kits-arton",
+      "name": "DEAMON",
+      "nameKey": "deamon",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-arton:deamon"
+    },
+    {
       "id": "kit-kits-militares-arma-pesada",
       "source": "kits-militares",
       "name": "Arma Pesada",
@@ -778,6 +1038,126 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:kits-militares:raio-laser"
+    },
+    {
+      "id": "kit-kits-orientais-mestre-maho-jutsu",
+      "source": "kits-orientais",
+      "name": "Mestre Maho-Jutsu",
+      "nameKey": "mestre-maho-jutsu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:mestre-maho-jutsu"
+    },
+    {
+      "id": "kit-kits-orientais-mandarin",
+      "source": "kits-orientais",
+      "name": "Mandarin",
+      "nameKey": "mandarin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:mandarin"
+    },
+    {
+      "id": "kit-kits-orientais-monge",
+      "source": "kits-orientais",
+      "name": "Monge",
+      "nameKey": "monge",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:monge"
+    },
+    {
+      "id": "kit-kits-orientais-moge-shaolin",
+      "source": "kits-orientais",
+      "name": "Moge Shaolin",
+      "nameKey": "moge-shaolin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:moge-shaolin"
+    },
+    {
+      "id": "kit-kits-orientais-artista-marcial-treinado",
+      "source": "kits-orientais",
+      "name": "Artista Marcial Treinado",
+      "nameKey": "artista-marcial-treinado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:artista-marcial-treinado"
+    },
+    {
+      "id": "kit-kits-orientais-informacoes-de-jogo",
+      "source": "kits-orientais",
+      "name": "Informações de jogo",
+      "nameKey": "informacoes-de-jogo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:informacoes-de-jogo"
+    },
+    {
+      "id": "kit-kits-orientais-kit-espadachin",
+      "source": "kits-orientais",
+      "name": "Kit Espadachin",
+      "nameKey": "kit-espadachin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:kit-espadachin"
+    },
+    {
+      "id": "kit-kits-orientais-kit-mestre-de-iaijutsu",
+      "source": "kits-orientais",
+      "name": "Kit Mestre de Iaijutsu",
+      "nameKey": "kit-mestre-de-iaijutsu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:kit-mestre-de-iaijutsu"
+    },
+    {
+      "id": "kit-kits-orientais-kit-ninja",
+      "source": "kits-orientais",
+      "name": "Kit Ninja",
+      "nameKey": "kit-ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:kit-ninja"
+    },
+    {
+      "id": "kit-kits-orientais-kit-shinobi",
+      "source": "kits-orientais",
+      "name": "Kit Shinobi",
+      "nameKey": "kit-shinobi",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:kit-shinobi"
+    },
+    {
+      "id": "kit-kits-orientais-kit-ninja-regra-antiga",
+      "source": "kits-orientais",
+      "name": "Kit Ninja Regra antiga",
+      "nameKey": "kit-ninja-regra-antiga",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:kit-ninja-regra-antiga"
+    },
+    {
+      "id": "kit-kits-orientais-monge-shaolin",
+      "source": "kits-orientais",
+      "name": "Monge Shaolin",
+      "nameKey": "monge-shaolin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:kits-orientais:monge-shaolin"
     },
     {
       "id": "kit-kitsat-advogado",
@@ -1600,6 +1980,856 @@
       "certificationId": "kit-lock:mago-sistema-daemon:nefandi"
     },
     {
+      "id": "kit-marvel-rpg-7o-edicao-agente-federal",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Agente Federal",
+      "nameKey": "agente-federal",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:agente-federal"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-apostador",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Apostador",
+      "nameKey": "apostador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:apostador"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-antiquario",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Antiquário",
+      "nameKey": "antiquario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:antiquario"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-arqueologo",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Arqueólogo",
+      "nameKey": "arqueologo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:arqueologo"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-artista",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Artista",
+      "nameKey": "artista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:artista"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-ator",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Ator",
+      "nameKey": "ator",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:ator"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-musico",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Músico",
+      "nameKey": "musico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:musico"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-artista-marcial",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Artista Marcial",
+      "nameKey": "artista-marcial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:artista-marcial"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-aikido",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Aikido",
+      "nameKey": "lutador-de-aikido",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-aikido"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-boxe",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Boxe",
+      "nameKey": "lutador-de-boxe",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-boxe"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-capoeira",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Capoeira",
+      "nameKey": "lutador-de-capoeira",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-capoeira"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-jiu-jitsu",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Jiu Jitsu",
+      "nameKey": "lutador-de-jiu-jitsu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-jiu-jitsu"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-karate",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Karate",
+      "nameKey": "lutador-de-karate",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-karate"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-kung-fu",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Kung Fu",
+      "nameKey": "lutador-de-kung-fu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-kung-fu"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-lutador-de-sumo",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Lutador de Sumô",
+      "nameKey": "lutador-de-sumo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:lutador-de-sumo"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-atleta",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Atleta",
+      "nameKey": "atleta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:atleta"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-bibliotecario",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Bibliotecário",
+      "nameKey": "bibliotecario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:bibliotecario"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-cacador-de-recompensas",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Caçador de Recompensas",
+      "nameKey": "cacador-de-recompensas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:cacador-de-recompensas"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-cientista",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Cientista",
+      "nameKey": "cientista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:cientista"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-cientista-do-oculto",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Cientista do Oculto",
+      "nameKey": "cientista-do-oculto",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:cientista-do-oculto"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-artista-de-circo",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Artista de Circo",
+      "nameKey": "artista-de-circo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:artista-de-circo"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-atirador-de-facas",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Atirador de Facas",
+      "nameKey": "atirador-de-facas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:atirador-de-facas"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-domador-de-feras",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Domador de Feras",
+      "nameKey": "domador-de-feras",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:domador-de-feras"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-malabarista-e-acrobata",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Malabarista e Acrobata",
+      "nameKey": "malabarista-e-acrobata",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:malabarista-e-acrobata"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-palhaco",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Palhaço",
+      "nameKey": "palhaco",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:palhaco"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-colecionador",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Colecionador",
+      "nameKey": "colecionador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:colecionador"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-assassino",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Assassino",
+      "nameKey": "assassino",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:assassino"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-capanga",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Capanga",
+      "nameKey": "capanga",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:capanga"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-capanga-da-mafia-italiana",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Capanga da Máfia Italiana",
+      "nameKey": "capanga-da-mafia-italiana",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:capanga-da-mafia-italiana"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-capanga-da-yakusa",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Capanga da Yakusa",
+      "nameKey": "capanga-da-yakusa",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:capanga-da-yakusa"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-contrabandista",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Contrabandista",
+      "nameKey": "contrabandista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:contrabandista"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-ladrao-gangue-de-rua",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Ladrão (Gangue de Rua)",
+      "nameKey": "ladrao-gangue-de-rua",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:ladrao-gangue-de-rua"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-membro-de-gangue",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Membro de Gangue",
+      "nameKey": "membro-de-gangue",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:membro-de-gangue"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-traficante",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Traficante",
+      "nameKey": "traficante",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:traficante"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-detetive-particular",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Detetive Particular",
+      "nameKey": "detetive-particular",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:detetive-particular"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-engenheiro",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Engenheiro",
+      "nameKey": "engenheiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:engenheiro"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-escritor",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Escritor",
+      "nameKey": "escritor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:escritor"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-espiao",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Espião",
+      "nameKey": "espiao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:espiao"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-estudante-colegial",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Estudante Colegial",
+      "nameKey": "estudante-colegial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:estudante-colegial"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-estudante-de-faculdade",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Estudante de Faculdade",
+      "nameKey": "estudante-de-faculdade",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:estudante-de-faculdade"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-explorador",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Explorador",
+      "nameKey": "explorador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:explorador"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-gamer",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Gamer",
+      "nameKey": "gamer",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:gamer"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-amazona",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Amazona",
+      "nameKey": "amazona",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:amazona"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-barbaro",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Bárbaro",
+      "nameKey": "barbaro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:barbaro"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-gladiador",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Gladiador",
+      "nameKey": "gladiador",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:gladiador"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-ninja",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Ninja",
+      "nameKey": "ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:ninja"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-pirata",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Pirata",
+      "nameKey": "pirata",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:pirata"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-samurai",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Samurai",
+      "nameKey": "samurai",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:samurai"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-hacker",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Hacker",
+      "nameKey": "hacker",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:hacker"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-jornalista",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Jornalista",
+      "nameKey": "jornalista",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:jornalista"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-advogado",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Advogado",
+      "nameKey": "advogado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:advogado"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-juiz",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Juiz",
+      "nameKey": "juiz",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:juiz"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-promotor",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Promotor",
+      "nameKey": "promotor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:promotor"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-cirurgiao",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Cirurgião",
+      "nameKey": "cirurgiao",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:cirurgiao"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-medico",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Médico",
+      "nameKey": "medico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:medico"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-mercenario",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Mercenário",
+      "nameKey": "mercenario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:mercenario"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-oficial-do-corpo-de-bombeiros",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Oficial do Corpo de Bombeiros",
+      "nameKey": "oficial-do-corpo-de-bombeiros",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:oficial-do-corpo-de-bombeiros"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-parapsicologo",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Parapsicologo",
+      "nameKey": "parapsicologo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:parapsicologo"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-paramedico-militar-policial",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Paramédico Militar/Policial",
+      "nameKey": "paramedico-militar-policial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:paramedico-militar-policial"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-paramedico-salva-vidas",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Paramédico Salva-vidas",
+      "nameKey": "paramedico-salva-vidas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:paramedico-salva-vidas"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-paramedico-anjo-do-asfalto",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Paramédico “Anjo do Asfalto”",
+      "nameKey": "paramedico-anjo-do-asfalto",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:paramedico-anjo-do-asfalto"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-playboy",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Playboy",
+      "nameKey": "playboy",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:playboy"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-detetive-policial",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Detetive Policial",
+      "nameKey": "detetive-policial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:detetive-policial"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-investigador-de-policia",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Investigador de Polícia",
+      "nameKey": "investigador-de-policia",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:investigador-de-policia"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-policial",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Policial",
+      "nameKey": "policial",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:policial"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-politico",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Político",
+      "nameKey": "politico",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:politico"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-professor",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Professor",
+      "nameKey": "professor",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:professor"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-prostituta",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Prostituta",
+      "nameKey": "prostituta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:prostituta"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-militar-alta-patente",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Militar (Alta Patente)",
+      "nameKey": "militar-alta-patente",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:militar-alta-patente"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-soldado-guerrilheiro",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Soldado (Guerrilheiro)",
+      "nameKey": "soldado-guerrilheiro",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:soldado-guerrilheiro"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-soldado-do-exercito",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Soldado do Exército",
+      "nameKey": "soldado-do-exercito",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:soldado-do-exercito"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-exercito-forca-da-acao-rapida",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Exército – Força da Ação Rápida",
+      "nameKey": "exercito-forca-da-acao-rapida",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:exercito-forca-da-acao-rapida"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-soldado-da-forca-aerea-piloto",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Soldado da Força Aérea (Piloto)",
+      "nameKey": "soldado-da-forca-aerea-piloto",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:soldado-da-forca-aerea-piloto"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-soldado-da-marinha",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Soldado da Marinha",
+      "nameKey": "soldado-da-marinha",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:soldado-da-marinha"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-marinha-comando-anfibio",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Marinha – Comando Anfíbio",
+      "nameKey": "marinha-comando-anfibio",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:marinha-comando-anfibio"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-forcas-especiais",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Forças Especiais",
+      "nameKey": "forcas-especiais",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:forcas-especiais"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-comando-de-operacoes-taticas-cot",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Comando de Operações Táticas (COT)",
+      "nameKey": "comando-de-operacoes-taticas-cot",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:comando-de-operacoes-taticas-cot"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-centro-de-inteligencia-ci",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Centro de Inteligência (CI)",
+      "nameKey": "centro-de-inteligencia-ci",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:centro-de-inteligencia-ci"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-operacoes-especiais-de-resgate",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Operações Especiais de Resgate",
+      "nameKey": "operacoes-especiais-de-resgate",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:operacoes-especiais-de-resgate"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-monge",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Monge",
+      "nameKey": "monge",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:monge"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-padre",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Padre",
+      "nameKey": "padre",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:padre"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-profeta",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Profeta",
+      "nameKey": "profeta",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:profeta"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-missionario",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Missionário",
+      "nameKey": "missionario",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:missionario"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-monge-shaolin",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Monge Shaolin",
+      "nameKey": "monge-shaolin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:monge-shaolin"
+    },
+    {
+      "id": "kit-marvel-rpg-7o-edicao-teologo",
+      "source": "marvel-rpg-7o-edicao",
+      "name": "Teólogo",
+      "nameKey": "teologo",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:marvel-rpg-7o-edicao:teologo"
+    },
+    {
       "id": "kit-mortal-kombat-kombatente",
       "source": "mortal-kombat",
       "name": "Kombatente",
@@ -1618,6 +2848,26 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:mortal-kombat:ninja"
+    },
+    {
+      "id": "kit-naruto-rpg-daemon-2a-edicao-ninjas-das-vilas-ocultas",
+      "source": "naruto-rpg-daemon-2a-edicao",
+      "name": "Ninjas das Vilas Ocultas",
+      "nameKey": "ninjas-das-vilas-ocultas",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:naruto-rpg-daemon-2a-edicao:ninjas-das-vilas-ocultas"
+    },
+    {
+      "id": "kit-one-punch-man-rpg-sobrevivencia-per",
+      "source": "one-punch-man-rpg",
+      "name": "Sobrevivência (PER)",
+      "nameKey": "sobrevivencia-per",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:one-punch-man-rpg:sobrevivencia-per"
     },
     {
       "id": "kit-ray-guerreiros",
@@ -1720,6 +2970,116 @@
       "certificationId": "kit-lock:rocknrt:rock-star"
     },
     {
+      "id": "kit-samurai-shodown-mestre-maho-jutsu",
+      "source": "samurai-shodown",
+      "name": "Mestre Maho-Jutsu",
+      "nameKey": "mestre-maho-jutsu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:mestre-maho-jutsu"
+    },
+    {
+      "id": "kit-samurai-shodown-mandarin",
+      "source": "samurai-shodown",
+      "name": "Mandarin",
+      "nameKey": "mandarin",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:mandarin"
+    },
+    {
+      "id": "kit-samurai-shodown-artista-marcial-treinado",
+      "source": "samurai-shodown",
+      "name": "Artista Marcial Treinado",
+      "nameKey": "artista-marcial-treinado",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:artista-marcial-treinado"
+    },
+    {
+      "id": "kit-samurai-shodown-editar-historia",
+      "source": "samurai-shodown",
+      "name": "[editar] História",
+      "nameKey": "editar-historia",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:editar-historia"
+    },
+    {
+      "id": "kit-samurai-shodown-kit-espadachim",
+      "source": "samurai-shodown",
+      "name": "Kit Espadachim",
+      "nameKey": "kit-espadachim",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:kit-espadachim"
+    },
+    {
+      "id": "kit-samurai-shodown-kit-mestre-de-iaijutsu",
+      "source": "samurai-shodown",
+      "name": "Kit Mestre de Iaijutsu",
+      "nameKey": "kit-mestre-de-iaijutsu",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:kit-mestre-de-iaijutsu"
+    },
+    {
+      "id": "kit-samurai-shodown-kit-ninja",
+      "source": "samurai-shodown",
+      "name": "Kit Ninja",
+      "nameKey": "kit-ninja",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:kit-ninja"
+    },
+    {
+      "id": "kit-samurai-shodown-kit-shinobi",
+      "source": "samurai-shodown",
+      "name": "Kit Shinobi",
+      "nameKey": "kit-shinobi",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:kit-shinobi"
+    },
+    {
+      "id": "kit-samurai-shodown-saltos",
+      "source": "samurai-shodown",
+      "name": "Saltos",
+      "nameKey": "saltos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:saltos"
+    },
+    {
+      "id": "kit-samurai-shodown-guerreiro-neinhalt-sieger",
+      "source": "samurai-shodown",
+      "name": "Guerreiro Neinhalt Sieger",
+      "nameKey": "guerreiro-neinhalt-sieger",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:guerreiro-neinhalt-sieger"
+    },
+    {
+      "id": "kit-samurai-shodown-kit-oni-espadachim",
+      "source": "samurai-shodown",
+      "name": "Kit Oni Espadachim",
+      "nameKey": "kit-oni-espadachim",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:samurai-shodown:kit-oni-espadachim"
+    },
+    {
       "id": "kit-steampunk-maquina-de-combate",
       "source": "steampunk",
       "name": "MÁQUINA DE COMBATE",
@@ -1758,6 +3118,76 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:steampunk:alquimista-quimico"
+    },
+    {
+      "id": "kit-tagmar-daemon-os-guerreiros",
+      "source": "tagmar-daemon",
+      "name": "Os Guerreiros",
+      "nameKey": "os-guerreiros",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:tagmar-daemon:os-guerreiros"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-adaga",
+      "source": "templarios-biblioteca-elfica",
+      "name": "Adaga",
+      "nameKey": "adaga",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:adaga"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-templarios-cdagos",
+      "source": "templarios-biblioteca-elfica",
+      "name": "Templários CDagos",
+      "nameKey": "templarios-cdagos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:templarios-cdagos"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-escolhidos",
+      "source": "templarios-biblioteca-elfica",
+      "name": "Escolhidos",
+      "nameKey": "escolhidos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:escolhidos"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-assassinos",
+      "source": "templarios-biblioteca-elfica",
+      "name": "Assassinos",
+      "nameKey": "assassinos",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:assassinos"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-cdadii",
+      "source": "templarios-biblioteca-elfica",
+      "name": "CDadii",
+      "nameKey": "cdadii",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:cdadii"
+    },
+    {
+      "id": "kit-templarios-biblioteca-elfica-oaiphires",
+      "source": "templarios-biblioteca-elfica",
+      "name": "Oaiphires",
+      "nameKey": "oaiphires",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:templarios-biblioteca-elfica:oaiphires"
     },
     {
       "id": "kit-trevas-de-marte-piloto-de-tripod",
@@ -1838,6 +3268,26 @@
       "subtype": "kit",
       "lockedArea": "kits",
       "certificationId": "kit-lock:vaticano:exorcista"
+    },
+    {
+      "id": "kit-vikings-biblioteca-elfica-berserker",
+      "source": "vikings-biblioteca-elfica",
+      "name": "BERSERKER",
+      "nameKey": "berserker",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vikings-biblioteca-elfica:berserker"
+    },
+    {
+      "id": "kit-vikings-biblioteca-elfica-rina-meistari",
+      "source": "vikings-biblioteca-elfica",
+      "name": "RINA-MEISTARI",
+      "nameKey": "rina-meistari",
+      "category": "kit_class",
+      "subtype": "kit",
+      "lockedArea": "kits",
+      "certificationId": "kit-lock:vikings-biblioteca-elfica:rina-meistari"
     },
     {
       "id": "kit-gerador-de-criaturas-mestre-das-feras",

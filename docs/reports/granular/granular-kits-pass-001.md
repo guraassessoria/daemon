@@ -1,7 +1,7 @@
 # Granular kits pass 001
 
-- Candidate sources scanned: 81
-- Raw extracted kit candidates: 338
+- Candidate sources scanned: 131
+- Raw extracted kit candidates: 602
 
 ## By source
 
@@ -11,16 +11,23 @@
 | `abismo-infinito-quick-start` | 4 | book-part | 0 |
 | `alastores-a-justica-infernal` | 5 | book-part,text-kit-term | 7 |
 | `animalidade` | 1 | text-kit-term | 0 |
+| `anime-rpg-powers` | 1 | text-kit-term | 0 |
+| `anjos-a-cidade-de-prata` | 1 | book-part | 0 |
 | `anoes` | 13 | text-kit-term | 5 |
 | `aprimoramentos-1` | 1 | text-kit-term | 0 |
 | `aprimoramentos-3` | 1 | text-kit-term | 0 |
 | `aprimoramentostormenta` | 1 | text-kit-term | 0 |
 | `arcanis` | 3 | text-kit-term | 8 |
 | `ark-a-nun-arquivos-de-bel-kalaa` | 15 | text-kit-term | 34 |
+| `arkanun` | 12 | book-part,text-kit-term | 9 |
+| `arkanun-1e-ultra-raro` | 2 | book-part | 0 |
 | `armas-de-fogo` | 1 | text-kit-term | 0 |
+| `arquimago2` | 1 | book-part | 0 |
 | `arte-da-guerra` | 1 | book-part | 0 |
+| `assassinos-orientais` | 3 | book-part,text-kit-term | 0 |
 | `avatar-volume-1` | 2 | text-kit-term | 0 |
 | `avatars-vol-2` | 3 | book-part,text-kit-term | 0 |
+| `battlemage` | 8 | text-kit-term | 2 |
 | `biohazard` | 8 | text-kit-term | 7 |
 | `cabala-2` | 2 | book-part,text-kit-term | 5 |
 | `caminhos2` | 1 | book-part | 0 |
@@ -29,9 +36,14 @@
 | `ciganos` | 1 | text-kit-term | 3 |
 | `clube-de-caca-guia-do-jogador` | 19 | text-kit-term | 12 |
 | `conan` | 1 | text-kit-term | 0 |
+| `corondor` | 2 | text-kit-term | 6 |
 | `cyfell` | 3 | text-kit-term | 0 |
+| `daemon-anime-rpg` | 30 | book-part,text-kit-term | 6 |
 | `daemon-medieval` | 50 | book-part,text-kit-term | 10 |
 | `daemon-revisado-playtest-alfa-3-6` | 16 | book-part,text-kit-term | 0 |
+| `daemon-tormenta` | 55 | text-kit-term | 14 |
+| `daiphir-legado-de-sangue` | 1 | text-kit-term | 2 |
+| `daiphir-legado-de-sangue-biblioteca-elfica` | 1 | text-kit-term | 2 |
 | `deform` | 3 | book-part | 0 |
 | `desentsu` | 14 | text-kit-term | 8 |
 | `domini-urbs-biblioteca-elfica` | 29 | book-part,text-kit-term | 0 |
@@ -41,21 +53,31 @@
 | `gaki` | 20 | book-part,text-kit-term | 7 |
 | `gerador-de-criaturas` | 1 | text-kit-term | 0 |
 | `gigantes-mitologicos` | 2 | text-kit-term | 1 |
+| `grimorio` | 13 | text-kit-term | 0 |
 | `guerra-de-monstros` | 1 | text-kit-term | 1 |
 | `guerreiros-orientais` | 25 | book-part,text-kit-term | 5 |
+| `guia-de-armas-medievais-3a-edicao` | 13 | book-part,text-kit-term | 0 |
+| `guia-de-classes-de-prestigio-biblioteca-elfica` | 29 | book-part,text-kit-term | 1 |
+| `guia-de-itens-magicos` | 3 | book-part,text-kit-term | 0 |
+| `guia-de-monstros-de-arton` | 15 | text-kit-term | 0 |
 | `guia-de-racas-de-arton-tormentarpg` | 11 | text-kit-term | 10 |
 | `guia-do-aventureiro-de-arton` | 25 | book-part,text-kit-term | 3 |
 | `guia-dos-dragoes-1-biblioteca-elfica` | 18 | book-part,text-kit-term | 5 |
 | `guia-dragoes-vol-ii` | 26 | book-part,text-kit-term | 4 |
 | `guia-guerreiro` | 6 | book-part,text-kit-term | 0 |
 | `guia-pericias` | 13 | text-kit-term | 0 |
+| `hi-brazil-biblioteca-elfica` | 5 | book-part,text-kit-term | 7 |
 | `imortal` | 5 | book-part,text-kit-term | 11 |
 | `imortal-a-centelha` | 3 | book-part | 0 |
 | `imortal-a-centelha-2` | 1 | book-part | 0 |
+| `inquisicao-biblioteca-elfica` | 8 | book-part,text-kit-term | 2 |
+| `jedi` | 18 | text-kit-term | 43 |
 | `juppongatana` | 10 | book-part | 0 |
 | `kidous-arte-das-trevas` | 5 | text-kit-term | 5 |
 | `kits` | 14 | book-part,source-title,text-kit-term | 18 |
+| `kits-arton` | 51 | book-part,source-title,text-kit-term | 3 |
 | `kits-militares` | 13 | book-part,source-title,text-kit-term | 5 |
+| `kits-orientais` | 123 | book-part,source-title,text-kit-term | 12 |
 | `kitsat` | 28 | book-part,source-title,text-kit-term | 53 |
 | `kitsdaemon` | 14 | book-part,source-title,text-kit-term | 8 |
 | `livrodomal` | 17 | book-part,text-kit-term | 6 |
@@ -64,27 +86,55 @@
 | `magic-para-daemon` | 2 | book-part,text-kit-term | 0 |
 | `mago-sistema-daemon` | 16 | text-kit-term | 18 |
 | `manual-de-converscao` | 4 | text-kit-term | 0 |
+| `marvel` | 2 | text-kit-term | 0 |
+| `marvel-rpg-7o-edicao` | 18 | book-part,text-kit-term | 86 |
+| `modulo-basico-expandido-e-modificado` | 2 | text-kit-term | 0 |
 | `mortal-kombat` | 13 | book-part,text-kit-term | 2 |
+| `mutacao` | 1 | text-kit-term | 0 |
+| `naruto-rpg-daemon-2a-edicao` | 5 | book-part,text-kit-term | 1 |
+| `neokosmos-biblioteca-elfica` | 31 | book-part,text-kit-term | 0 |
 | `ninjutsu` | 1 | text-kit-term | 1 |
+| `novo-aeon-guia-basico` | 15 | text-kit-term | 0 |
+| `o-corvo` | 5 | text-kit-term | 2 |
+| `one-punch-man-rpg` | 21 | book-part,text-kit-term | 2 |
 | `oriente-cronologia` | 7 | book-part | 0 |
 | `os-caminhos-secundarios` | 1 | book-part | 0 |
 | `pontos-heroicos` | 13 | text-kit-term | 15 |
+| `psi` | 13 | text-kit-term | 3 |
 | `racas` | 11 | text-kit-term | 10 |
 | `ray` | 14 | book-part,text-kit-term | 3 |
 | `revolucao-francesa` | 6 | book-part | 0 |
 | `rocknrt` | 14 | book-part,text-kit-term | 7 |
+| `samurai-shodown` | 45 | book-part,text-kit-term | 12 |
 | `samurai-shodown-v-move-list` | 41 | book-part | 0 |
 | `samurai-x` | 11 | book-part,text-kit-term | 0 |
 | `samurais` | 3 | book-part | 0 |
+| `santa-cruz-biblioteca-elfica` | 16 | text-kit-term | 19 |
+| `santa-cruz-inferno-verde-biblioteca-elfica` | 1 | text-kit-term | 0 |
 | `secundarios` | 1 | book-part | 0 |
+| `sistema-daemon-2-x` | 2 | text-kit-term | 0 |
+| `sistema-daemon-3-0` | 2 | text-kit-term | 0 |
+| `sistema-daemon-modulo-basico-dragonslayer-01-e-02` | 3 | text-kit-term | 3 |
+| `spiritum` | 2 | text-kit-term | 0 |
 | `steampunk` | 13 | book-part,text-kit-term | 6 |
+| `supers` | 3 | book-part | 0 |
+| `tagmar-daemon` | 15 | book-part,text-kit-term | 7 |
+| `tagmar-daemon-versao-completa` | 7 | text-kit-term | 0 |
 | `tartarugasninja` | 2 | book-part,text-kit-term | 1 |
+| `templarios-biblioteca-elfica` | 10 | book-part,text-kit-term | 6 |
+| `trevas-3-0` | 21 | book-part,text-kit-term | 0 |
 | `trevas-de-marte` | 4 | book-part,text-kit-term | 3 |
+| `trevas-diego` | 1 | text-kit-term | 0 |
 | `trevas-do-oriente-28-palacios` | 3 | book-part | 0 |
+| `um-sussurro-nas-trevas` | 2 | text-kit-term | 0 |
 | `universo-daemon-01` | 5 | book-part,text-kit-term | 0 |
 | `utupia-d10` | 1 | text-kit-term | 0 |
+| `vampiros-mitologicos` | 3 | book-part,text-kit-term | 0 |
+| `varna-chamado-da-guerra` | 15 | text-kit-term | 0 |
 | `vaticano` | 13 | book-part,text-kit-term | 5 |
+| `veiculos` | 14 | text-kit-term | 12 |
 | `vikings` | 13 | book-part | 0 |
+| `vikings-biblioteca-elfica` | 4 | book-part,text-kit-term | 2 |
 | `watchmen` | 1 | text-kit-term | 0 |
 | `youkai-kyuukai` | 5 | book-part | 0 |
 | `yuyu-hakusho-rpg-para-daemon` | 1 | text-kit-term | 0 |
