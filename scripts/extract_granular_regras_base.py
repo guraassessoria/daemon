@@ -5,7 +5,7 @@ from collections import Counter
 from typing import Any
 
 from common import DATA_DIR, ROOT, slugify, read_json, write_json
-from build_area_catalog import ready_source_ids
+from catalog_loader import ready_source_ids
 from editorial_classifier import is_probably_ocr_noise, normalize_spaces
 
 

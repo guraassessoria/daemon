@@ -7,7 +7,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from build_area_catalog import aprimoramento_subgroup, normalize_uppercase_name, normalize_uppercase_text  # noqa: E402
+from catalog_processor import aprimoramento_subgroup  # noqa: E402
+from catalog_loader import normalize_uppercase_name, normalize_uppercase_text  # noqa: E402
 from extract_granular_aprimoramentos import Line, apply_source_fixes  # noqa: E402
 
 
