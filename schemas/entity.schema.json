@@ -15,7 +15,12 @@
     },
     "category": {
       "type": "string",
-      "enum": ["core_rule", "attribute_skill", "combat", "character_option", "character_class", "kit_class", "race_lineage", "power_magic", "ritual_spell", "item_equipment", "creature_npc", "setting_lore", "adventure", "table_generator", "source"]
+      "enum": [
+        "core_rule", "attribute_skill", "combat", "character_option",
+        "character_class", "kit_class", "race_lineage", "power_magic",
+        "ritual_spell", "item_equipment", "creature_npc", "setting_lore",
+        "adventure", "table_generator", "source"
+      ]
     },
     "source": {
       "type": "string"
@@ -44,11 +49,15 @@
         "type": "string"
       }
     },
+    "summary": {
+      "type": "string"
+    },
     "tags": {
       "type": "array",
       "items": {
         "type": "string"
       },
+      "uniqueItems": true,
       "default": []
     },
     "confidence": {
@@ -76,6 +85,47 @@
     },
     "certificationMethod": {
       "type": "string"
+    },
+    "costText": {
+      "type": "string",
+      "description": "Texto do custo em pontos (ex: '2 pontos')"
+    },
+    "aprimoramentoCost": {
+      "type": ["integer", "null"],
+      "description": "Custo numérico do aprimoramento"
+    },
+    "periciaCost": {
+      "type": ["integer", "null"]
+    },
+    "skillsText": {
+      "type": "string"
+    },
+    "aprimoramentosText": {
+      "type": "string"
+    },
+    "powerMagicContext": {
+      "type": "string",
+      "description": "Contexto do caminho/círculo ao qual o poder pertence"
+    },
+    "kitContext": {
+      "type": "string"
+    },
+    "area": {
+      "type": "string",
+      "description": "Área de navegação à qual esta entidade pertence"
+    },
+    "subgroupLabel": {
+      "type": "string"
+    },
+    "sourceKindLabel": {
+      "type": "string"
+    },
+    "entityRefs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      }
     }
   },
   "additionalProperties": true

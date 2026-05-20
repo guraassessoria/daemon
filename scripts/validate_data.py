@@ -14,6 +14,8 @@ from common import DATA_DIR, ROOT
 
 
 ENTITY_SCHEMA = ROOT / "schemas" / "entity.schema.json"
+OVERRIDES_SCHEMA = ROOT / "schemas" / "overrides.schema.json"
+OVERRIDES_FILE = DATA_DIR / "editorial" / "overrides.json"
 
 
 def read_json(path: Path) -> Any:
@@ -36,6 +38,7 @@ def validate_entities() -> list[str]:
     schema = read_json(ENTITY_SCHEMA)
     validator = Draft202012Validator(schema)
     errors: list[str] = []
+    seen_ids: dict[str, str] = {}  # id → first file that defined it
 
     for path in sorted((DATA_DIR / "entities").glob("*.json")):
         if path.name == ".gitkeep":
@@ -47,9 +50,17 @@ def validate_entities() -> list[str]:
             continue
 
         for index, record in enumerate(records):
+            record_id = record.get("id", f"#{index}")
+            if isinstance(record_id, str) and record_id.startswith("#") is False:
+                if record_id in seen_ids:
+                    errors.append(
+                        f"{path}:{record_id}: duplicate ID (first seen in {seen_ids[record_id]})"
+                    )
+                else:
+                    seen_ids[record_id] = str(path)
+
             for error in validator.iter_errors(record):
                 location = ".".join(str(part) for part in error.absolute_path) or "<root>"
-                record_id = record.get("id", f"#{index}")
                 errors.append(f"{path}:{record_id}:{location}: {error.message}")
 
     return errors
@@ -65,6 +76,22 @@ def validate_json_tree(path: Path) -> list[str]:
     return errors
 
 
+def validate_overrides() -> list[str]:
+    if not OVERRIDES_FILE.exists() or not OVERRIDES_SCHEMA.exists():
+        return []
+    schema = read_json(OVERRIDES_SCHEMA)
+    validator = Draft202012Validator(schema)
+    errors: list[str] = []
+    try:
+        payload = read_json(OVERRIDES_FILE)
+    except Exception as exc:
+        return [f"{OVERRIDES_FILE}: {exc}"]
+    for error in validator.iter_errors(payload):
+        location = ".".join(str(part) for part in error.absolute_path) or "<root>"
+        errors.append(f"{OVERRIDES_FILE}:{location}: {error.message}")
+    return errors
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate generated Daemon Tools data files.")
     parser.add_argument("--json-only", action="store_true", help="Only check JSON syntax, skip entity schema validation.")
@@ -73,6 +100,7 @@ def main() -> None:
     errors = validate_json_tree(DATA_DIR)
     if not args.json_only:
         errors.extend(validate_entities())
+        errors.extend(validate_overrides())
 
     if errors:
         for error in errors[:200]:

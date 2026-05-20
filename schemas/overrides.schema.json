@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://daemon-tools.local/schemas/overrides.schema.json",
+  "title": "Daemon Tools Editorial Overrides",
+  "type": "object",
+  "required": ["version", "records"],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["action", "id"],
+        "properties": {
+          "action": {
+            "type": "string",
+            "enum": ["publish", "quarantine", "rename", "merge", "hide", "update"]
+          },
+          "id": {
+            "type": "string",
+            "description": "ID da entidade ou sourcePart alvo"
+          },
+          "targetId": {
+            "type": "string",
+            "description": "ID de destino para ações merge/rename"
+          },
+          "reason": {
+            "type": "string",
+            "description": "Justificativa editorial legível"
+          },
+          "fields": {
+            "type": "object",
+            "description": "Campos a sobrescrever (para action=update)"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

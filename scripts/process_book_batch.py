@@ -79,7 +79,7 @@ def build_book(source: dict) -> dict:
     text_path = TEXT_DIR / f"{source['id']}.txt"
     text = repair_text(text_path.read_text(encoding="utf-8", errors="ignore"))
     pages = page_map(text)
-    page_count = int(source.get("pageCount") or max(pages))
+    page_count = int(source.get("pageCount") or (max(pages) if pages else 1))
 
     sections: list[dict] = []
     current: dict | None = None

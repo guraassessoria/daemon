@@ -1,0 +1,12 @@
+[lint]
+# Verificar erros reais e imports não usados; ignorar formatação pura
+select = ["E", "F", "W"]
+ignore = [
+    "E501",  # linha muito longa (strings longas de regex são aceitáveis)
+    "E741",  # nomes de variável ambíguos (l, O, I)
+    "W291",  # whitespace no fim da linha
+    "W293",  # whitespace em linha em branco
+]
+
+[lint.per-file-ignores]
+"tests/*" = ["F401"]  # imports não usados em testes são aceitáveis

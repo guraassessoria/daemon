@@ -13,29 +13,19 @@ REJECTED_PATH = DATA_DIR / "work" / "kits-certification-rejected.json"
 REPORT_PATH = ROOT / "docs" / "reports" / "certification" / "kits-certification.md"
 
 KIT_CONTEXT_RE = re.compile(r"source-title|book-part|text-kit-term|classlike-kit")
+COST_RE = re.compile(r"\bCustos?\s*:|\bCusto em pontos de Aprimoramento\s*:", re.IGNORECASE)
 MECHANICAL_RE = re.compile(
-    r"\bCusto\s*:|\bPer[ií]cias?\s*:|\bAprimoramentos?\s*:|\bPontos Her[oó]icos\b|"
+    r"\bCustos?\s*:|\bCusto em pontos de Aprimoramento\s*:|"
+    r"\bPer[ií]cias?(?:\s+(?:Obrigat[oó]rias|Obrigatorias|Sugeridas))?\s*:|"
+    r"\bAprimoramentos?\s*:|\bAtributos Principais\s*:|\bPoderes? de Classe\b|"
+    r"\bPoder B[aá]sico\b|\bB[oô]nus de Treino\s*:|\bPontos Her[oó]icos\b|"
     r"\bPontos de Per[ií]cia\b|\bRestri[cç][oõ]es?\s*:",
     re.IGNORECASE,
 )
-COST_RE = re.compile(r"\bCustos?\s*:|\bCusto em pontos de Aprimoramento\s*:", re.IGNORECASE)
 SKILL_OR_OPTION_RE = re.compile(
-    r"\bPer[ií]cias?\s*:|\bAprimoramentos?\s*:|\bPontos Her[oó]icos\b|\bPontos de Magia\b|\bPontos de F[eé]\b",
-    re.IGNORECASE,
-)
-
-MECHANICAL_RE = re.compile(
-    r"\bCustos?\s*:|\bCusto em pontos de Aprimoramento\s*:|"
-    r"\bPer[iíÃ­]cias?(?:\s+(?:Obrigat[oóÃ³]rias|Obrigatorias|Sugeridas))?\s*:|"
+    r"\bPer[ií]cias?(?:\s+(?:Obrigat[oó]rias|Obrigatorias|Sugeridas))?\s*:|"
     r"\bAprimoramentos?\s*:|\bAtributos Principais\s*:|\bPoderes? de Classe\b|"
-    r"\bPoder B[aáÃ¡]sico\b|\bB[oôÃ´]nus de Treino\s*:|\bPontos Her[oóÃ³]icos\b|"
-    r"\bPontos de Per[iíÃ­]cia\b|\bRestri[cçÃ§][oõÃµ]es?\s*:",
-    re.IGNORECASE,
-)
-SKILL_OR_OPTION_RE = re.compile(
-    r"\bPer[iíÃ­]cias?(?:\s+(?:Obrigat[oóÃ³]rias|Obrigatorias|Sugeridas))?\s*:|"
-    r"\bAprimoramentos?\s*:|\bAtributos Principais\s*:|\bPoderes? de Classe\b|"
-    r"\bPoder B[aáÃ¡]sico\b|\bPontos Her[oóÃ³]icos\b|\bPontos de Magia\b|\bPontos de F[eéÃ©]\b",
+    r"\bPoder B[aá]sico\b|\bPontos Her[oó]icos\b|\bPontos de Magia\b|\bPontos de F[eé]\b",
     re.IGNORECASE,
 )
 

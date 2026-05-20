@@ -12,6 +12,7 @@ const state = {
   summary: null,
   area: null,
   areaData: null,
+  areaCache: {},
   items: [],
   selectedId: null,
   query: "",
@@ -1035,11 +1036,20 @@ function applyAdminFilters() {
 function setAdminOpen(open) {
   nodes.adminPanel.hidden = !open;
   nodes.adminToggle.setAttribute("aria-expanded", open ? "true" : "false");
+  if (open) {
+    const firstFocusable = nodes.adminPanel.querySelector("select, input, button");
+    firstFocusable?.focus();
+  } else {
+    nodes.adminToggle.focus();
+  }
 }
 
 async function selectArea(areaId, options = {}) {
   state.area = areaId;
-  state.areaData = await fetchJson(`assets/data/areas/${areaId}.json`);
+  if (!state.areaCache[areaId]) {
+    state.areaCache[areaId] = await fetchJson(`assets/data/areas/${areaId}.json`);
+  }
+  state.areaData = state.areaCache[areaId];
   state.items = buildItems(state.areaData);
   state.selectedId = options.itemId ?? null;
   renderAreaList();
@@ -1137,10 +1147,33 @@ nodes.clearFilters.addEventListener("click", () => {
 });
 
 nodes.refreshButton.addEventListener("click", () => {
+  state.areaCache = {};
   load().catch(showError);
 });
 
 nodes.themeToggle?.addEventListener("click", toggleTheme);
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && !nodes.adminPanel.hidden) {
+    setAdminOpen(false);
+  }
+});
+
+nodes.results.addEventListener("keydown", (event) => {
+  if (!["ArrowUp", "ArrowDown"].includes(event.key)) return;
+  event.preventDefault();
+  const rows = [...nodes.results.querySelectorAll(".item-row")];
+  if (!rows.length) return;
+  const currentIndex = rows.findIndex((row) => row.dataset.itemId === state.selectedId);
+  const nextIndex =
+    event.key === "ArrowDown"
+      ? Math.min(currentIndex + 1, rows.length - 1)
+      : Math.max(currentIndex - 1, 0);
+  if (nextIndex !== currentIndex) {
+    selectItem(rows[nextIndex].dataset.itemId);
+    rows[nextIndex].focus();
+  }
+});
 
 window.addEventListener("hashchange", () => {
   const hash = hashState();

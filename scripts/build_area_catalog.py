@@ -220,8 +220,22 @@ def ready_source_ids() -> list[str]:
     return sorted(source_id for source_id in resolved if source_id in sources and source_id in books)
 
 
-def aprimoramento_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "aprimoramentos-certified-lock.json", {"records": []})
+_LOCK_FILES: dict[str, str] = {
+    "aprimoramentos": "aprimoramentos-certified-lock.json",
+    "kits": "kits-certified-lock.json",
+    "classes": "classes-certified-lock.json",
+    "racas": "racas-certified-lock.json",
+    "linhagens": "linhagens-certified-lock.json",
+    "poderes": "poderes-certified-lock.json",
+    "magias": "magias-certified-lock.json",
+    "rituais": "rituais-certified-lock.json",
+    "regras_base": "regras-base-certified-lock.json",
+}
+
+
+def load_lock(entity_type: str) -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    lock_file = _LOCK_FILES[entity_type]
+    lock = read_json(INDEX_DIR / lock_file, {"records": []})
     by_id: dict[str, dict[str, Any]] = {}
     by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
     for record in lock.get("records", []):
@@ -230,102 +244,42 @@ def aprimoramento_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, st
         by_id[record["id"]] = record
         by_source_name[(record["source"], record["nameKey"])] = record
     return by_id, by_source_name
+
+
+def aprimoramento_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
+    return load_lock("aprimoramentos")
 
 
 def kit_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "kits-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("kits")
 
 
 def class_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "classes-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("classes")
 
 
 def race_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "racas-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("racas")
 
 
 def lineage_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "linhagens-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("linhagens")
 
 
 def power_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "poderes-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("poderes")
 
 
 def magic_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "magias-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("magias")
 
 
 def ritual_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "rituais-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("rituais")
 
 
 def regras_base_locks() -> tuple[dict[str, dict[str, Any]], dict[tuple[str, str], dict[str, Any]]]:
-    lock = read_json(INDEX_DIR / "regras-base-certified-lock.json", {"records": []})
-    by_id: dict[str, dict[str, Any]] = {}
-    by_source_name: dict[tuple[str, str], dict[str, Any]] = {}
-    for record in lock.get("records", []):
-        if not record.get("id") or not record.get("source") or not record.get("nameKey"):
-            continue
-        by_id[record["id"]] = record
-        by_source_name[(record["source"], record["nameKey"])] = record
-    return by_id, by_source_name
+    return load_lock("regras_base")
 
 
 def is_aprimoramento_claim(entity: dict[str, Any], category: str, name: str) -> bool:
@@ -471,10 +425,22 @@ def is_regras_base_claim(entity: dict[str, Any], category: str, name: str) -> bo
     )
 
 
+_CONFIDENCE_EXPLICIT = 0.84
+_CONFIDENCE_SPECIFIC_AREA_BASE = 0.76
+_CONFIDENCE_SPECIFIC_AREA_MAX = 0.92
+_CONFIDENCE_SPECIFIC_AREA_STEP = 0.04
+_CONFIDENCE_GENERIC_BASE = 0.72
+_CONFIDENCE_GENERIC_MAX = 0.88
+_CONFIDENCE_CATEGORY_MATCH = 0.78
+_CONFIDENCE_FALLBACK = 0.64
+
+_HIGH_CONFIDENCE_AREAS = {"aprimoramentos", "classes", "kits", "racas", "linhagens", "poderes", "magias"}
+
+
 def infer_area(category: str, name: str, summary: str, source_title: str) -> tuple[str, float, list[str]]:
     explicit_area = CATEGORY_TO_AREA.get(category)
     if explicit_area and category != "source":
-        return explicit_area, 0.84, [explicit_area]
+        return explicit_area, _CONFIDENCE_EXPLICIT, [explicit_area]
 
     haystack = normalize_for_search(" ".join([name, summary, source_title]))
     matches: list[str] = []
@@ -483,13 +449,13 @@ def infer_area(category: str, name: str, summary: str, source_title: str) -> tup
         hit_count = sum(1 for keyword in normalized_keywords if keyword in haystack)
         if hit_count:
             matches.append(area)
-            if area in {"aprimoramentos", "classes", "kits", "racas", "linhagens", "poderes", "magias"}:
-                return area, min(0.92, 0.76 + hit_count * 0.04), matches
+            if area in _HIGH_CONFIDENCE_AREAS:
+                return area, min(_CONFIDENCE_SPECIFIC_AREA_MAX, _CONFIDENCE_SPECIFIC_AREA_BASE + hit_count * _CONFIDENCE_SPECIFIC_AREA_STEP), matches
             if area != CATEGORY_TO_AREA.get(category):
-                return area, min(0.88, 0.72 + hit_count * 0.04), matches
+                return area, min(_CONFIDENCE_GENERIC_MAX, _CONFIDENCE_GENERIC_BASE + hit_count * _CONFIDENCE_SPECIFIC_AREA_STEP), matches
 
     area = CATEGORY_TO_AREA.get(category, "fontes")
-    confidence = 0.78 if area != "fontes" else 0.64
+    confidence = _CONFIDENCE_CATEGORY_MATCH if area != "fontes" else _CONFIDENCE_FALLBACK
     return area, confidence, matches
 
 
